@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<div style="text-align:center"><img src="spacex-picasso.png" /></div>
-
 <!--
 **ggarrett13/ggarrett13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
