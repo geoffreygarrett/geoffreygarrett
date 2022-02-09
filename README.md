@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Geoffrey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) <a href="https://www.tudelft.nl/"><img src="https://user-images.githubusercontent.com/26066340/153196937-a1f5d933-f58a-4a2d-a33e-780e4c2b156f.png" width="90px"></a>
 
