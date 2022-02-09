@@ -1,5 +1,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+[![Linkedin: g-h-garrett](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/g-h-garrett/)
+[![GitHub geoffreygarrett](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/geoffreygarrett)
+
 <!--
 **ggarrett13/ggarrett13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
