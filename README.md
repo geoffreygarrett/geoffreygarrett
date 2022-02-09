@@ -7,7 +7,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 [![GitHub geoffreygarrett](https://img.shields.io/github/followers/geoffreygarrett?label=follow&style=social)](https://github.com/geoffreygarrett)
 
 
-## Languages
+<!-- ## Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,7 +27,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-
+ -->
 <!-- ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) -->
 <!--
 **ggarrett13/ggarrett13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
