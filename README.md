@@ -1,12 +1,13 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) <img src="https://www.mediamatic.net/image/2016/12/14/undefined-624542607.png%28mediaclass-full-width.c3083fedae46a95f1139ff9d5833b1b6b8e20a69%29.jpg" width="20">
+M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) <img src="https://user-images.githubusercontent.com/26066340/153196937-a1f5d933-f58a-4a2d-a33e-780e4c2b156f.png" width="20">
 
 
 [![Linkedin: g-h-garrett](https://img.shields.io/badge/-Geoffrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g-h-garrett/)](https://www.linkedin.com/in/g-h-garrett/)
 [![GitHub geoffreygarrett](https://img.shields.io/github/followers/geoffreygarrett?label=follow&style=social)](https://github.com/geoffreygarrett)
 
-
+<!-- ![small-tudelft](https://user-images.githubusercontent.com/26066340/153196937-a1f5d933-f58a-4a2d-a33e-780e4c2b156f.png)
+ -->
 <!-- ## Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
