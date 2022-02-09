@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) <img src="https://lh3.googleusercontent.com/fsbAnO-kb06yy7d_CsRbjqPEhTax9W6-z1oDHBvgbdc4yhWruo-ikR4Usxgk9nRtPA=h200" width="60">
+M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) <img src="https://lh3.googleusercontent.com/fsbAnO-kb06yy7d_CsRbjqPEhTax9W6-z1oDHBvgbdc4yhWruo-ikR4Usxgk9nRtPA=h200" width="20">
 
 
 [![Linkedin: g-h-garrett](https://img.shields.io/badge/-Geoffrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g-h-garrett/)](https://www.linkedin.com/in/g-h-garrett/)
