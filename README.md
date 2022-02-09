@@ -15,6 +15,9 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur dog trainer.
 
+ 
+[![​geoffreygarrett's GitHub Stats​](https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true)](https://github.com/geoffreygarrett)
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
