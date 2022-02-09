@@ -9,13 +9,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 [![Medium g.h.garrett](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@g.h.garrett)
 [![GitHub geoffreygarrett](https://img.shields.io/github/followers/geoffreygarrett?label=follow&style=social)](https://github.com/geoffreygarrett)
 
-<!-- ![small-tudelft](https://user-images.githubusercontent.com/26066340/153196937-a1f5d933-f58a-4a2d-a33e-780e4c2b156f.png)
- -->
-<!-- ## Languages
+
+- 🔭 I’m currently working on my M.Sc. thesis on autonomous exploration of small celestial bodies using machine learning.
+- 🌱 I’m currently learning the landscape of reinforcement learning, and aspiring towards contributing research on self-supervised learning in robotics.
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ... -->
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm an amateur dog trainer.
+
+
+## Languages I code in
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+<!-- ![small-tudelft](https://user-images.githubusercontent.com/26066340/153196937-a1f5d933-f58a-4a2d-a33e-780e4c2b156f.png)
+ -->
+<!-- ## Languages
 
 
 ## ML & DL
@@ -31,6 +44,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
+
  -->
 <!-- -->
 <!--
@@ -38,12 +52,4 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
