@@ -10,8 +10,8 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 [![GitHub geoffreygarrett](https://img.shields.io/github/followers/geoffreygarrett?label=follow&style=social)](https://github.com/geoffreygarrett)
 
 
-- 🔭 I’m currently working on my M.Sc. thesis on autonomous exploration of small celestial bodies using machine learning.
-- 🌱 I’m currently learning the landscape of reinforcement learning, and the promising field of self-supervised learning.
+- 🔭 I’m currently working on my M.Sc. thesis on autonomous exploration of small celestial bodies using ML.
+- 🌱 I’m currently learning about the promising subfield of self-supervised learning.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur working dog trainer.
 
