@@ -4,6 +4,8 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 
 <!-- <a href="https://www.tudelft.nl/"><img src="https://user-images.githubusercontent.com/26066340/153196937-a1f5d933-f58a-4a2d-a33e-780e4c2b156f.png" width="90px"></a> -->
 
+![TUDelftSeal](https://user-images.githubusercontent.com/26066340/153202955-dd16346f-78f7-408a-8d90-c61610e8fdf4.png)
+
 [![Linkedin: g-h-garrett](https://img.shields.io/badge/-Geoffrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g-h-garrett/)](https://www.linkedin.com/in/g-h-garrett/)
 [![GitHub geoffreygarrett](https://img.shields.io/github/followers/geoffreygarrett?label=follow&style=social)](https://github.com/geoffreygarrett)
 
