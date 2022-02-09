@@ -12,13 +12,13 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 
 - 🔭 I’m currently working on my M.Sc. thesis on autonomous exploration of small celestial bodies using machine learning.
 - 🌱 I’m currently learning the landscape of reinforcement learning, and the promising field of self-supervised learning.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm an amateur dog trainer.
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ... -->
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm an amateur dog trainer.
-
 
 ## Languages I code in
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
