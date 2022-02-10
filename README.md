@@ -7,7 +7,7 @@
   <a href=""></a> •
   <a href=""></a>
 </p> -->
-
+     
 M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) 🎓
 
 <!-- ![TUDelftSeal]() -->
@@ -17,23 +17,25 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 [![Medium g.h.garrett](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@g.h.garrett)
 [![GitHub geoffreygarrett](https://img.shields.io/github/followers/geoffreygarrett?label=follow&style=social)](https://github.com/geoffreygarrett)
 
-
 - 🔭 I’m currently working on my M.Sc. thesis on autonomous exploration of small celestial bodies using ML.
 - 🌱 I’m currently learning about the promising subfield of self-supervised learning.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur dog trainer.
 
- 
 <p align="center">
-  <img  
+  <img width="49%"
        src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark" 
        alt="geoffreygarrett" 
+       meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
        align = "center"/>
-  <img 
+  <img width="49%"
        src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" 
        alt="geoffreygarrett" 
+       meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
        align = "center"/>
 </p>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
