@@ -21,13 +21,13 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - 🌱 I’m currently learning about the promising subfield of self-supervised learning.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur dog trainer.
-
+<!-- 
 <p align="center">
       <img width="420px"
            alt="geoffreygarrett" 
            src="https://user-images.githubusercontent.com/26066340/153405157-70ef1159-3c80-454b-979d-3cc700fad62f.gif" />
 </p>
-
+ -->
 <!-- <p align="center">
       <img width="420px"
            alt="geoffreygarrett" 
