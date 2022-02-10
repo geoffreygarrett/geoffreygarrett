@@ -9,8 +9,12 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 
 - 🔭 I’m currently working on my M.Sc. thesis on autonomous exploration of small celestial bodies using ML.
 - 🌱 I’m currently learning about the promising subfield of self-supervised learning.
+- 👯 I’m looking to collaborate on a rust library for numerical mathematics/numerical astrodynamics (ODE's)
+- 💬 Ask me about Netflix series, ocean diving, golf, Mauritius or TU Delft.
+- 📫 How to reach me: `coming soon!`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur dog trainer.
+<!-- - 🤔 I’m looking for help with ... -->
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&include_all_commits=true&theme=light/#gh-light-mode-only">
