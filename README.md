@@ -23,21 +23,27 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - ⚡ Fun fact: I'm an amateur dog trainer.
 
 <p align="center">
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark" 
-       alt="geoffreygarrett" 
-       media="min-width: 600px"
-       meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
-       align = "center"/>
-  <img width="49%"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" 
-       alt="geoffreygarrett" 
-       media="min-width: 600px"
-       meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
-       align = "center"/>
+    <a href="https://linearmouse.org/#gh-light-mode-only">
+      <img width="49%"
+           alt="geoffreygarrett" 
+           src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=light" />
+    </a>
+    <a href="https://linearmouse.org/#gh-dark-mode-only">
+      <img width="49%"
+           alt="geoffreygarrett" 
+           src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark" />
+    </a>
+    <a href="https://linearmouse.org/#gh-light-mode-only">
+      <img width="49%"
+           alt="geoffreygarrett" 
+           src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=light" />
+    </a>
+    <a href="https://linearmouse.org/#gh-dark-mode-only">
+      <img width="49%"
+           alt="geoffreygarrett" 
+           src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" />
+    </a>
 </p>
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
