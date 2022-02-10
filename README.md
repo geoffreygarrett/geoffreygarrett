@@ -25,11 +25,11 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 
  
 <p align="center">
-  <img width="45%" 
+  <img  
        src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark" 
        alt="geoffreygarrett" 
        align = "center"/>
-  <img width="45%" 
+  <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" 
        alt="geoffreygarrett" 
        align = "center"/>
