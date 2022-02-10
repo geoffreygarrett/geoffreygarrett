@@ -7,7 +7,7 @@
   <a href=""></a> •
   <a href=""></a>
 </p> -->
-     
+
 M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) 🎓
 
 <!-- ![TUDelftSeal]() -->
@@ -21,6 +21,24 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - 🌱 I’m currently learning about the promising subfield of self-supervised learning.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur dog trainer.
+
+<p align="center">
+      <img width="420px"
+           alt="geoffreygarrett" 
+           src="https://user-images.githubusercontent.com/26066340/153405157-70ef1159-3c80-454b-979d-3cc700fad62f.gif" />
+</p>
+
+<!-- <p align="center">
+      <img width="420px"
+           alt="geoffreygarrett" 
+           src="https://user-images.githubusercontent.com/26066340/153404925-b8259651-093b-45aa-b50a-86efebad5c29.gif" />
+</p>
+
+<p align="center">
+      <img width="420px"
+           alt="geoffreygarrett" 
+           src="https://user-images.githubusercontent.com/26066340/153404218-f4f1bc3c-4648-47a3-9b6f-c3f2248dcd7e.gif" />
+</p> -->
 
 <p align="center">
     <a href="https://linearmouse.org/#gh-light-mode-only">
@@ -56,6 +74,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+---
 
 <!-- 
 <summary><b>🔥 Github Streaks</b></summary>
