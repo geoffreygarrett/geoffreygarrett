@@ -13,22 +13,22 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - ⚡ Fun fact: I'm an amateur dog trainer.
 
 <p align="center">
-    <a href="https://linearmouse.org/#gh-light-mode-only">
+    <a href="/#gh-light-mode-only">
       <img width="420px"
            alt="geoffreygarrett" 
            src="https://github-readme-stats.vercel.app/api?user=geoffreygarrett&show_icons=true&theme=light" />
     </a>
-    <a href="https://linearmouse.org/#gh-dark-mode-only">
+    <a href="/#gh-dark-mode-only">
       <img width="420px"
            alt="geoffreygarrett" 
            src="https://github-readme-stats.vercel.app/api?user=geoffreygarrett&show_icons=true&theme=dark" />
     </a>
-    <a href="https://linearmouse.org/#gh-light-mode-only">
+    <a href="/#gh-light-mode-only">
       <img width="420px"
            alt="geoffreygarrett" 
            src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=light" />
     </a>
-    <a href="https://linearmouse.org/#gh-dark-mode-only">
+    <a href="/#gh-dark-mode-only">
       <img width="420px"
            alt="geoffreygarrett" 
            src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" />
