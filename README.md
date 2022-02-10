@@ -13,22 +13,22 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - ⚡ Fun fact: I'm an amateur dog trainer.
 
 <p align="center">
-    <a href="/#gh-light-mode-only">
+    <a href="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=light/#gh-light-mode-only">
       <img width="420px"
            alt="stats" 
            src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=light" />
     </a>
-    <a href="/#gh-dark-mode-only">
+    <a href="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark/#gh-dark-mode-only">
       <img width="420px"
            alt="stats" 
            src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark" />
     </a> 
-    <a href="/#gh-light-mode-only">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=light/#gh-light-mode-only">
       <img width="420px"
            alt="geoffreygarrett" 
            src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=light" />
     </a>
-    <a href="/#gh-dark-mode-only">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark/#gh-dark-mode-only">
       <img width="420px"
            alt="geoffreygarrett" 
            src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" />
