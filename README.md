@@ -16,7 +16,8 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - ⚡ Fun fact: I'm an amateur dog trainer.
 
  
-[![​geoffreygarrett's GitHub Stats​](https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true)](https://github.com/geoffreygarrett)
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true" alt="geoffreygarrett" align = "center"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett" alt="geoffreygarrett" align = "center"/></p>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -29,6 +30,15 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+
+<!-- 
+<summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true" alt="geoffreygarrett" /></p>
+
+<summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett" alt="geoffreygarrett" /></p>
+
+ -->
 <!-- ## Things I code with ☕️
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
@@ -76,3 +86,8 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 Here are some ideas to get you started:
 
 -->
+<!-- 
+  <summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="geoffreygarrett" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffreygarrett&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="geoffreygarrett" align = "center"/></p> -->
+
