@@ -21,7 +21,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
     <a href="/#gh-dark-mode-only">
       <img width="420px"
            alt="stats" 
-           src="https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=dark" />
+           src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark" />
     </a> 
     <a href="/#gh-light-mode-only">
       <img width="420px"
