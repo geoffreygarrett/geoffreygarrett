@@ -24,8 +24,16 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - ⚡ Fun fact: I'm an amateur dog trainer.
 
  
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark" alt="geoffreygarrett" align = "center"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" alt="geoffreygarrett" align = "center"/></p>
+<p align="center">
+  <img width="45%" 
+       src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark" 
+       alt="geoffreygarrett" 
+       align = "center"/>
+  <img width="45%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" 
+       alt="geoffreygarrett" 
+       align = "center"/>
+</p>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
