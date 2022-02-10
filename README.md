@@ -7,22 +7,23 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 [![Medium g.h.garrett](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@g.h.garrett)
 [![GitHub geoffreygarrett](https://img.shields.io/github/followers/geoffreygarrett?label=follow&style=social)](https://github.com/geoffreygarrett)
 
+
 - 🔭 I’m currently working on my M.Sc. thesis on autonomous exploration of small celestial bodies using ML.
 - 🌱 I’m currently learning about the promising subfield of self-supervised learning.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur dog trainer.
 
 <p align="center">
-    <a href="/#gh-light-mode-only">
+<!--     <a href="/#gh-light-mode-only">
       <img width="420px"
-           alt="geoffreygarrett" 
+           alt="stats" 
            src="https://github-readme-stats.vercel.app/api?user=geoffreygarrett&show_icons=true&theme=light" />
     </a>
     <a href="/#gh-dark-mode-only">
       <img width="420px"
-           alt="geoffreygarrett" 
-           src="https://github-readme-stats.vercel.app/api?user=geoffreygarrett&show_icons=true&theme=dark" />
-    </a>
+           alt="stats" 
+           src="https://github-readme-stats.vercel.app/api?user=sciencepal&show_icons=true&theme=dark" />
+    </a> -->
     <a href="/#gh-light-mode-only">
       <img width="420px"
            alt="geoffreygarrett" 
