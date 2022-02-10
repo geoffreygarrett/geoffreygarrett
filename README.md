@@ -14,22 +14,22 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 
 <p align="center">
     <a href="/#gh-light-mode-only">
-      <img width="420px"
+      <img width="410px"
            alt="stats" 
            src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=light" />
     </a>
     <a href="/#gh-dark-mode-only">
-      <img width="420px"
+      <img width="410px"
            alt="stats" 
            src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark" />
     </a> 
     <a href="/#gh-light-mode-only">
-      <img width="420px"
+      <img width="410px"
            alt="geoffreygarrett" 
            src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=light" />
     </a>
     <a href="/#gh-dark-mode-only">
-      <img width="420px"
+      <img width="410px"
            alt="geoffreygarrett" 
            src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" />
     </a>
