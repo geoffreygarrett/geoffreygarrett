@@ -12,18 +12,18 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - 🌱 I’m currently learning about the promising subfield of self-supervised learning.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur dog trainer.
-
+https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=radical
 <p align="center">
-<!--     <a href="/#gh-light-mode-only">
+    <a href="/#gh-light-mode-only">
       <img width="420px"
            alt="stats" 
-           src="https://github-readme-stats.vercel.app/api?user=geoffreygarrett&show_icons=true&theme=light" />
+           src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=light" />
     </a>
     <a href="/#gh-dark-mode-only">
       <img width="420px"
            alt="stats" 
-           src="https://github-readme-stats.vercel.app/api?user=sciencepal&show_icons=true&theme=dark" />
-    </a> -->
+           src="https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=dark" />
+    </a> 
     <a href="/#gh-light-mode-only">
       <img width="420px"
            alt="geoffreygarrett" 
