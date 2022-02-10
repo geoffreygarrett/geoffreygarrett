@@ -1,5 +1,13 @@
 ## Hi there, I'm Geoffrey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<!-- <p align="center">
+  <a href=""><img src=""></a>  •
+  <a href="">Blog</a> •
+  <a href=""></a> •
+  <a href=""></a> •
+  <a href=""></a>
+</p> -->
+
 M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) 🎓
 
 <!-- ![TUDelftSeal]() -->
