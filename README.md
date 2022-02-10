@@ -26,11 +26,13 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
   <img width="49%"
        src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&theme=dark" 
        alt="geoffreygarrett" 
+       media="min-width: 600px"
        meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
        align = "center"/>
   <img width="49%"
        src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" 
        alt="geoffreygarrett" 
+       media="min-width: 600px"
        meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
        align = "center"/>
 </p>
