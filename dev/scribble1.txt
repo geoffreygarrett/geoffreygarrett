@@ -1,0 +1,17 @@
+<table>
+  <tr>
+    <td rowspan=3>
+      L1 Name
+    </td>
+  </tr>
+  <tr>
+    <td halign="right">
+      <img src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085946.jpeg" alt="launch" width="50%">
+    </td>
+  </tr>
+   <tr>
+    <td halign="right">
+      <img src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg" alt="launch" width="50%">
+    </td>
+  </tr>
+</table>
