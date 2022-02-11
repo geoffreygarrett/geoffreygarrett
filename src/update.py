@@ -82,5 +82,5 @@ if __name__ == "__main__":
     output = template.render(**data)
     print(output)
     # write output
-    with open("README-test.md", "w") as f:
+    with open(os.path.join("..", "README.md"), "w") as f:
         f.write(output)
