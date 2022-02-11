@@ -9,7 +9,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 
 - 🔭 I’m currently working on my M.Sc. thesis on autonomous exploration of small celestial bodies using ML.
 - 🌱 I’m currently learning about the promising subfield of self-supervised learning.
-- 👯 I’m looking to collaborate on a rust library for numerical mathematics/numerical astrodynamics
+- 👯 I’m looking to collaborate on a rust library for numerical mathematics & astrodynamics
 - 💬 Ask me about Netflix series, ocean diving, golf, Mauritius or TU Delft.
 - 📫 How to reach me: `coming soon!`
 - 😄 Pronouns: he/him
