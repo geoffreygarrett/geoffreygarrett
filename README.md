@@ -45,3 +45,13 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+## Upcoming launches 🚀
+- [PSLV - RISAT-1A (EOS-04) - Feb 14 (estimated)](https://rocketlaunch.live/launch/risat-1a)
+- [Soyuz-2 - Progress MS-19 - Feb 15 (estimated)](https://rocketlaunch.live/launch/progress-ms-19)
+- [Antares - CRS2 NG-17 (Cygnus) - Sat Feb 19, 2022 17:39:00 UTC (L-8 days, 03:57:24)](https://rocketlaunch.live/launch/crs2-ng-17-cygnus)
+- [Falcon 9 - Starlink-37 (4-8) - Sun Feb 20, 2022 15:00:00 UTC (L-9 days, 01:18:24)](https://rocketlaunch.live/launch/starlink-37-4-8)
+- [Electron - "The Owl's Night Continues" - Feb 28 (estimated)](https://rocketlaunch.live/launch/strix-b)
+- [Rocket 3 - S4 Crossover - Feb 28 (estimated)](https://rocketlaunch.live/launch/s4-crossover)
+- [PSLV - Oceansat-3 (EOS-6) - Feb 2022 (estimated)](https://rocketlaunch.live/launch/oceansat-3)
+- [Electron - RASR-4 - Feb 2022 (estimated)](https://rocketlaunch.live/launch/rasr-4)
+
