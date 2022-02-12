@@ -86,7 +86,7 @@ into {{ add_a_an(next_launch.mission.orbit.name) }}
 
 ### Within a month's time 📅
 {% for launch in parse_launches_within_a_month(launches) -%}
-- \[{{ make_html_linked_time(launch.datetime) }}\]  <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code)}}" /> {{ status_emoji(launch.status.abbrev) }} {{ make_google_calender_href_icon(launch) }} **{{ launch.mission.name }}** in {{ launch.pad.location.name }}.
+-  {{ status_emoji(launch.status.abbrev) }} \[{{ make_html_linked_time(launch.datetime) }}\]  <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code)}}" /> {{ make_google_calender_href_icon(launch) }} **{{ launch.mission.name }}** in {{ launch.pad.location.name }}.
 {% endfor %}
 
 <p align="center">
