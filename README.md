@@ -77,10 +77,10 @@ into a Sun-Synchronous Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad" >
-    <img alt="launch-image" height="200" src="./cache/launch_image.png" />
+    <img alt="launch-image" src="./cache/launch_image.png" />
   </a>
   <a href="https://www.google.com/maps?q=13.733,80.235" >
-    <img alt="pad-location" height="200" src="./cache/map_image.png"  />
+    <img alt="pad-location" src="./cache/map_image.png"  />
   </a>
 </p>
 
