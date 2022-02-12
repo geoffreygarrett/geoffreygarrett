@@ -9,7 +9,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 
 - 🔭 I’m currently working on my M.Sc. thesis on autonomous exploration of small celestial bodies using ML.
 - 🌱 I’m currently learning about the promising subfield of self-supervised learning.
-- 👯 I’m looking to collaborate on a rust library for numerical mathematics/numerical astrodynamics (ODE's)
+- 👯 I’m looking to collaborate on a rust library for numerical mathematics/numerical astrodynamics
 - 💬 Ask me about Netflix series, ocean diving, golf, Mauritius or TU Delft.
 - 📫 How to reach me: `coming soon!`
 - 😄 Pronouns: he/him
@@ -52,46 +52,75 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
   </a>
 </p>
 
-## Upcoming space launches 🚀
+## Realtime Space Launches 🚀
 
-The next launch, retrieved from the [The Space Devs](https://thespacedevs.com/)'s public
-API, is the {{ next_launch.name }} at the [{{ next_launch.pad.name }}]({{ next_launch.pad.wiki_url }})
-in {{ next_launch.pad.location.name }} at {{ next_launch.window_start }}. 
-Until then, this launch pad will have seen {{ next_launch.pad.total_launch_count }} out of
-{{ next_launch.pad.location.total_launch_count }} launches in this region.
+### Spotlight 💡
+The next launch, retrieved from the
+<a href="https://thespacedevs.com/">The Space Devs</a>'s public API, is the
+{{ next_launch.name }} at the
+<a href="{{ next_launch.pad.wiki_url }}">{{ next_launch.pad.name }}</a> in
+{{ next_launch.pad.location.name }}
+<img width="17" src="{{get_country_flag_svg(next_launch.pad.location.country_code)}}" />
+at {{ make_html_linked_time(next_launch.datetime) }}.  Until
+then, this launch pad will have seen {{ next_launch.pad.total_launch_count }}
+out of {{ next_launch.pad.location.total_launch_count }} launches in this
+region. The mission's status is currently {{ next_launch.status.name }}
+({{ next_launch.status.abbrev }}) {{ status_emoji(next_launch.status.abbrev) }} which means:
+*{{ first_letter_lower(next_launch.status.description)  }}* The mission type is
+{{ next_launch.mission.type }} and the payload will be injected
+into {{ add_a_an(next_launch.mission.orbit.name) }}
+({{ next_launch.mission.orbit.abbrev }}).
+<br>
+<blockquote>
+  {{ next_launch.mission.description }}
+</blockquote>
 
-<p align="center">
-    <a href="https://thespacedevs.com/">
-      <img width="50%"
-           alt="stats" 
-           src="{{ next_launch.image }}" />
-    </a>
+<p float="left" align="center">
+  <a href="{{ next_launch.pad.wiki_url }}" >
+    <img alt="launch-image" height="200" src="{{ next_launch.image }}" />
+  </a>
+  <a href="{{ next_launch.pad.map_url }}" >
+    <img alt="pad-location" height="200" src="{{ next_launch.pad.location.map_image }}"  />
+  </a>
 </p>
 
-### Mission description
-> {{ next_launch.mission.description }}
+### Within a month's time 📅
+{% for launch in parse_launches_within_a_month(launches) -%}
+- \[{{ make_html_linked_time(launch.datetime) }}\]  <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code)}}" /> {{ status_emoji(launch.status.abbrev) }} {{ make_google_calender_href_icon(launch) }} **{{ launch.mission.name }}** in {{ launch.pad.location.name }}.
+{% endfor %}
 
-### Next five space launches
-<table>
-  {% for launch in launches -%}
-  <tr>
-    <td>
-    {{ launch.mission.name }}
-    </td>
-    <td>
-      {{ launch.window_start }}
-    </td>
-    <td>
-      {{ launch.pad.location.name }}
-    </td>
-  </tr>
-  {% endfor %}
-</table>
-
+<p align="center">
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-0pky">Symbol</th>
+        <th class="tg-0pky">Meaning</th>
+        <th class="tg-0pky">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky">🟩</td>
+        <td class="tg-0pky">Go For Launch (Go)</td>
+        <td class="tg-0pky">Current T-0 confirmed by official or reliable sources.</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">🟨</td>
+        <td class="tg-0pky">To Be Confirmed (TBC)</td>
+        <td class="tg-0pky">Awaiting official confirmation - current date is known with some certainty.</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">🟧</td>
+        <td class="tg-0pky">To Be Determined (TBD)</td>
+        <td class="tg-0pky">Current date is a placeholder or rough estimation based on unreliable or interpreted sources.</td>
+      </tr>
+    </tbody>
+    </table>
+</p>
 
 <hr>
   <div align="center">
-  This `README.md` was last auto generated at {{timestamp}} UTC
+  This <code>README.md</code> was last auto generated at {{ make_html_linked_time(timestamp) }}
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>

@@ -1,1 +1,4 @@
 out
+*.ipynb_checkpoints
+*.ipynb
+.vscode
