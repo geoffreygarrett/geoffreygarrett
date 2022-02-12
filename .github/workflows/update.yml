@@ -20,7 +20,7 @@ jobs:
         uses: actions/setup-python@v2                               
         with:                                 
           python-version: '3.8'                                                   
-      - name: 💿 Install feedparser, pytz & Jinja2                              
+      - name: 💿 Install Jinja2 & requests
         run: pip install Jinja2 requests
       - name: 🍳 Update README
         run: |
