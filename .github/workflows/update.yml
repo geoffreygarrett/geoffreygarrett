@@ -21,7 +21,7 @@ jobs:
         with:                                 
           python-version: '3.8'                                                   
       - name: 💿 Install feedparser, pytz & Jinja2                              
-        run: pip install feedparser pytz Jinja2 emoji-country-flag
+        run: pip install Jinja2 requests
       - name: 🍳 Update README
         run: |
           cd ${GITHUB_WORKSPACE}/src/

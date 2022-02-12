@@ -3,8 +3,8 @@ import time
 import requests
 import json
 import os
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
+# import matplotlib.pyplot as plt
+# import matplotlib.dates as mdates
 
 API_ENDPOINT = "https://ll.thespacedevs.com/2.2.0/launch/upcoming"
 BASE_TIME_URL = "https://www.timeanddate.com/worldclock/fixedtime.html?iso={iso}"
@@ -29,16 +29,20 @@ def first_letter_lower(s):
 def status_emoji(status):
     return STATUS_MAP[status]
 
+
 import html
+
 
 def make_google_calender_url(launch):
     return BASE_GOOGLE_CALENDAR_URL.format(
         text=html.escape(launch["name"]),
         location=html.escape(launch["pad"]["location"]["name"]),
-        date1=time.strftime("%Y%m%dT%H%M%SZ", time.strptime(launch["window_start"],
-                                           "%Y-%m-%dT%H:%M:%SZ")),
-        date2=time.strftime("%Y%m%dT%H%M%SZ", time.strptime(launch["window_end"],
-                                           "%Y-%m-%dT%H:%M:%SZ")),
+        date1=time.strftime("%Y%m%dT%H%M%SZ",
+                            time.strptime(launch["window_start"],
+                                          "%Y-%m-%dT%H:%M:%SZ")),
+        date2=time.strftime("%Y%m%dT%H%M%SZ",
+                            time.strptime(launch["window_end"],
+                                          "%Y-%m-%dT%H:%M:%SZ")),
     )
 
 
@@ -72,6 +76,40 @@ def get_iso3_to_iso2_country_map():
         iso3_to_iso2[v] = k
 
     return iso3_to_iso2
+
+import cv2
+def cache_image_and_make_square(url, filename):
+    """
+    cache an image and make it square from center using PIL
+    """
+    # get the image
+    r = requests.get(url)
+
+    # save image
+    with open(filename, "wb") as f:
+        f.write(r.content)
+
+    # open the image
+    img = cv2.imread(filename)
+
+    # get the image size
+    height, width, _ = img.shape
+
+    # get the new size
+    new_size = min(height, width)
+
+    # get the center
+    center_x = width // 2
+    center_y = height // 2
+
+    # get the new image
+    new_img = img[center_y - new_size // 2:center_y + new_size // 2,
+              center_x - new_size // 2:center_x + new_size // 2]
+
+    # save the image
+    cv2.imwrite(filename, new_img)
+
+    return '/'.join(filename.split('/')[1:])
 
 
 ISO3_2_ISO2 = get_iso3_to_iso2_country_map()
@@ -191,33 +229,33 @@ def parse_launches_within_a_month(launches):
     return upcoming_launches
 
 
-def plot_launch_histogram_within_a_year(launches):
-    # get the launches within a year
-    launches_within_a_year = []
-    t_now = time.mktime(time.localtime())
-    for launch in launches:
-        t_launch = time.mktime(launch["datetime"])
-        if (t_launch > t_now) & (t_launch < t_now + 2592000):
-            launches_within_a_year.append(launch)
-
-    times = [time.mktime(launch["datetime"]) for launch in
-             launches_within_a_year]
-    # convert times array to epochs
-
-    mpl_data = mdates.date2num(times)
-
-    # plot the histogram
-    fig, ax = plt.subplots()
-    # print(launches_within_a_year)
-    ax.hist(mpl_data,
-            bins=30,
-            # range=(t_now, t_now + 2592000),
-            )
-    ax.set_xlabel("Launch date")
-    ax.xaxis.set_major_locator(mdates.DayLocator())
-    ax.xaxis.set_major_formatter(mdates.DateFormatter('%d.%m.%y'))
-    # save figure
-    fig.savefig("launch_histogram.png")
+# def plot_launch_histogram_within_a_year(launches):
+#     # get the launches within a year
+#     launches_within_a_year = []
+#     t_now = time.mktime(time.localtime())
+#     for launch in launches:
+#         t_launch = time.mktime(launch["datetime"])
+#         if (t_launch > t_now) & (t_launch < t_now + 2592000):
+#             launches_within_a_year.append(launch)
+#
+#     times = [time.mktime(launch["datetime"]) for launch in
+#              launches_within_a_year]
+#     # convert times array to epochs
+#
+#     mpl_data = mdates.date2num(times)
+#
+#     # plot the histogram
+#     fig, ax = plt.subplots()
+#     # print(launches_within_a_year)
+#     ax.hist(mpl_data,
+#             bins=30,
+#             # range=(t_now, t_now + 2592000),
+#             )
+#     ax.set_xlabel("Launch date")
+#     ax.xaxis.set_major_locator(mdates.DayLocator())
+#     ax.xaxis.set_major_formatter(mdates.DateFormatter('%d.%m.%y'))
+#     # save figure
+#     fig.savefig("launch_histogram.png")
 
 
 # get readme data
@@ -231,6 +269,14 @@ def get_readme_data():
     launches = get_upcoming_launches()["results"]
     launches = parse_launch_windows_to_datetime(launches)
     next_launch = launches[0]
+    next_launch["cached_location_image"] = cache_image_and_make_square(
+        next_launch["pad"]["location"]["map_image"],
+        os.path.join(CACHE_DIR, "map_image.png"))
+
+    next_launch["cached_launch_image"] = cache_image_and_make_square(
+        next_launch["image"],
+        os.path.join(CACHE_DIR, "launch_image.png"))
+
     return {
         "timestamp": time.gmtime(),
         "launches": launches,

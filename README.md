@@ -20,22 +20,22 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&include_all_commits=true&theme=light/#gh-light-mode-only">
       <img width="420px"
-           alt="stats" 
+           alt="stats"
            src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&include_all_commits=true&theme=light" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&include_all_commits=true&theme=dark/#gh-dark-mode-only">
       <img width="420px"
-           alt="stats" 
+           alt="stats"
            src="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&include_all_commits=true&theme=dark" />
-    </a> 
+    </a>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=light/#gh-light-mode-only">
       <img width="420px"
-           alt="geoffreygarrett" 
+           alt="geoffreygarrett"
            src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=light" />
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark/#gh-dark-mode-only">
       <img width="420px"
-           alt="geoffreygarrett" 
+           alt="geoffreygarrett"
            src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreygarrett&theme=dark" />
     </a>
 </p>
@@ -48,7 +48,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 
 ## Sometimes I blog 📝
 <p align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@g.h.garrett/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@g.h.garrett/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@g.h.garrett/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@g.h.garrett/0" alt="Recent Article 0">
   </a>
 </p>
 
@@ -77,10 +77,10 @@ into a Sun-Synchronous Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190508083736.jpeg" />
+    <img alt="launch-image" height="200" src="./cache/launch_image.png" />
   </a>
   <a href="https://www.google.com/maps?q=13.733,80.235" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_14_20200803142403.jpg"  />
+    <img alt="pad-location" height="200" src="./cache/map_image.png"  />
   </a>
 </p>
 
@@ -128,7 +128,7 @@ into a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T145057">2022-02-12 14:50:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T163955">2022-02-12 16:39:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
