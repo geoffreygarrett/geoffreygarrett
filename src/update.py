@@ -3,6 +3,7 @@ import time
 import requests
 import json
 import os
+
 # import matplotlib.pyplot as plt
 # import matplotlib.dates as mdates
 
@@ -24,6 +25,76 @@ os.makedirs(CACHE_DIR, exist_ok=True)
 
 def first_letter_lower(s):
     return s[0].lower() + s[1:]
+
+
+def get_latest_medium_posts_from_user(user):
+    """
+    get the latest posts from a user on medium
+    """
+    # get the json
+    r = requests.get(f"https://medium.com/@{user}/latest")
+    data = r.json()
+
+    # get the posts
+    posts = data["payload"]["references"]["Post"]
+
+    # get the latest post
+    post = posts[list(posts.keys())[0]]
+
+    # get the post url
+    url = post["uniqueSlug"]
+
+    # get the post title
+    title = post["title"]
+
+    # get the post description
+    description = post["content"]["subtitle"]
+
+    # get the post image
+    image = post["virtuals"]["previewImage"]["imageId"]
+
+    # get the post image url
+    image_url = f"https://cdn-images-1.medium.com/max/2000/1*{image}"
+    #
+    # # get the post author
+    # author = post["creator"]["name"]
+    #
+    # # get the post author url
+    # author_url = post["creator"]["profileUrl"]
+    #
+    # # get the post author image
+    # author_image = post["creator"]["imageId"]
+    #
+    # # get the post author image url
+    # author_image_url = f"https://cdn-images-1.medium.com/fit/c/100/100/{author_image}"
+    #
+    # # get the post author bio
+    # author_bio = post["creator"]["bio"]
+    #
+    # # get the post author bio url
+    # author_bio_url = post["creator"]["bioUrl"]
+    #
+    # # get the post author location
+    # author_location = post["creator"]["location"]
+    #
+    # # get the post author location url
+    # author_location_url = post["creator"]["locationUrl"]
+    #
+    # # get the post author website
+    # author_website = post["creator"]["website"]
+    #
+    # # get the post author website url
+    # author_website_url = post["creator"]["websiteUrl"]
+    #
+    # # get the post author twitter
+    # author_twitter = post["creator"]["twitter"]
+
+    return {
+        "url": url,
+        "title": title,
+        "description": description,
+        "image_url": image_url,
+    }
 
 
 def status_emoji(status):
@@ -77,7 +148,10 @@ def get_iso3_to_iso2_country_map():
 
     return iso3_to_iso2
 
+
 import cv2
+
+
 def cache_image_and_make_square(url, filename):
     """
     cache an image and make it square from center using PIL
@@ -108,7 +182,7 @@ def cache_image_and_make_square(url, filename):
 
     # save the image
     cv2.imwrite(filename, new_img)
-
+    add_border_to_image(filename)
     return '/'.join(filename.split('/')[1:])
 
 
@@ -197,6 +271,56 @@ def generate_next_launch(data):
     
     """
 
+def inlay_pad_image_in_location_image(pad_image, location_image):
+    """
+    inlay a pad image in a location image
+    """
+    # get the pad image
+    pad_image = cv2.imread(pad_image)
+
+    # get the location image
+    location_image = cv2.imread(location_image)
+
+    # get the pad image size
+    pad_height, pad_width, _ = pad_image.shape
+
+    # get the location image size
+    location_height, location_width, _ = location_image.shape
+
+    # get the new size
+    new_size = min(location_height, location_width)
+
+    # get the center
+    center_x = location_width // 2
+    center_y = location_height // 2
+
+    # get the new image
+    new_img = location_image[center_y - new_size // 2:center_y + new_size // 2,
+              center_x - new_size // 2:center_x + new_size // 2]
+
+    # get the new image size
+    new_height, new_width, _ = new_img.shape
+
+    # get the pad image size
+    pad_height, pad_width, _ = pad_image.shape
+
+    # get the new pad image size
+    new_pad_height = new_height + pad_height
+    new_pad_width = new_width + pad_width
+
+    # create the new pad image
+    new_pad_image = np.zeros((new_pad_height, new_pad_width, 3), dtype=np.uint8)
+
+    # copy the new image
+    new_pad_image[pad_height:pad_height + new_height,
+              pad_width:pad_width + new_width] = new_img
+
+    # copy the pad image
+    new_pad_image[0:pad_height, 0:pad_width] = pad_image
+
+    # return the new pad image
+    return new_pad_image
+
 
 def add_a_an(s):
     if s[0] in "aeiouAEIOU":
@@ -227,6 +351,18 @@ def parse_launches_within_a_month(launches):
         if (t_launch > t_now) & (t_launch < t_now + 2592000):
             upcoming_launches.append(launch)
     return upcoming_launches
+
+
+def add_border_to_image(image_path, border_width_fraction=0.005):
+    white = [255, 255, 255]
+    img1 = cv2.imread(image_path)
+    height, width, channels = img1.shape
+    img2 = cv2.copyMakeBorder(img1, int(border_width_fraction * height),
+                              int(border_width_fraction * height),
+                              int(border_width_fraction * width),
+                              int(border_width_fraction * width),
+                              cv2.BORDER_CONSTANT, value=white)
+    cv2.imwrite(image_path, img2)
 
 
 # def plot_launch_histogram_within_a_year(launches):
@@ -298,7 +434,7 @@ template_env = jinja2.Environment(loader=template_loader)
 template = template_env.get_template("README.md.j2")
 
 if __name__ == "__main__":
-    # # load data
+    # # # load data
     data = get_readme_data()
 
     # render template
@@ -307,3 +443,5 @@ if __name__ == "__main__":
     # write output
     with open(os.path.join("..", "README.md"), "w") as f:
         f.write(output)
+    # test = get_latest_medium_posts_from_user("g.h.garret/t")
+    # print(test)
