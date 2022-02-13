@@ -353,7 +353,7 @@ def parse_launches_within_a_month(launches):
     return upcoming_launches
 
 
-def add_border_to_image(image_path, border_width_fraction=0.005):
+def add_border_to_image(image_path, border_width_fraction=0.0025):
     white = [255, 255, 255]
     img1 = cv2.imread(image_path)
     height, width, channels = img1.shape
