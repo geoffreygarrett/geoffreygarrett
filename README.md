@@ -47,12 +47,6 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## Sometimes I blog 📝
-<p align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@g.h.garrett/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@g.h.garrett/0" alt="Recent Article 0">
-  </a>
-</p>
-
 ## Realtime Space Launches 🚀
 
 ### Spotlight 💡
