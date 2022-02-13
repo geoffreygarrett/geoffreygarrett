@@ -1,4 +1,4 @@
-## Hi there, I'm Geoffrey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Geoffrey Garrett (72 × 20 in) (72 × 14 in)(2)](https://user-images.githubusercontent.com/26066340/153759350-07f01d04-9b6f-4a9a-be25-d24eb343bb6b.gif)
 
 M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) 🎓
 
@@ -10,7 +10,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - 🔭 I’m currently working on my M.Sc. thesis on autonomous exploration of small celestial bodies using ML.
 - 🌱 I’m currently learning about the promising subfield of self-supervised learning.
 - 👯 I’m looking to collaborate on a rust library for numerical mathematics/numerical astrodynamics
-- 💬 Ask me about Netflix series, ocean diving, golf, Mauritius or TU Delft.
+- 💬 Ask me about Netflix series, ocean diving, golf, Mauritius, TU Delft or my doggo.
 - 📫 How to reach me: `coming soon!`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur dog trainer.
@@ -45,12 +45,6 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-## Sometimes I blog 📝
-<p align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@g.h.garrett/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@g.h.garrett/0" alt="Recent Article 0">
-  </a>
-</p>
 
 ## Realtime Space Launches 🚀
 
@@ -87,7 +81,7 @@ into {{ add_a_an(next_launch.mission.orbit.name) }}
 ### Within a month's time 📅
 <!-- rocket launches starts -->
 {% for launch in parse_launches_within_a_month(launches) -%}
-- \[{{ make_html_linked_time(launch.datetime) }}\]  <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code)}}" /> {{ status_emoji(launch.status.abbrev) }} {{ make_google_calender_href_icon(launch) }} **{{ launch.mission.name }}** in {{ launch.pad.location.name }}.
+-  {{ status_emoji(launch.status.abbrev) }} \[{{ make_html_linked_time(launch.datetime) }} {{ make_google_calender_href_icon(launch) }}\]  <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code)}}" /> **{{ launch.mission.name }}** in {{ launch.pad.location.name }}.
 {% endfor %}
 
 <p align="center">
