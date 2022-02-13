@@ -1,4 +1,4 @@
-![Geoffrey Garrett (72 × 20 in) (72 × 14 in)](https://user-images.githubusercontent.com/26066340/153750722-79b2b8cb-b08a-4484-8c7b-a8853eed8a9f.gif)
+![Geoffrey Garrett (72 × 20 in) (72 × 14 in)](https://user-images.githubusercontent.com/26066340/153759334-6c0b1fe2-1909-4d32-94fa-ebd1a99cff76.gif)
 
 M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) 🎓
 
