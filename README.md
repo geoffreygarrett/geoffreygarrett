@@ -1,4 +1,3 @@
-<!-- ## Hi there, I'm Geoffrey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 ![Geoffrey Garrett (72 × 20 in) (72 × 14 in)](https://user-images.githubusercontent.com/26066340/153750722-79b2b8cb-b08a-4484-8c7b-a8853eed8a9f.gif)
 
 M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) 🎓
@@ -123,7 +122,7 @@ into a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T111207">2022-02-13 11:12:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T113548">2022-02-13 11:35:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
