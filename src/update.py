@@ -413,7 +413,7 @@ def get_readme_data():
     )
     # save new pad image
     cv2.imwrite(os.path.join(CACHE_DIR, "new_pad_image.png"), new_pad_image)
-    next_launch["cached_pad_location_image"] = "../cache/new_pad_image.png"
+    next_launch["cached_location_image"] = "../cache/new_pad_image.png"
 
     return {
         "timestamp": time.gmtime(),
