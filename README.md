@@ -74,7 +74,7 @@ into a Low Earth Orbit
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
   <a href="http://maps.google.com/maps?q=45.996+N,+63.564+E" >
-    <img alt="pad-location" width="49%" src="cache/map_image.png"  />
+    <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
 
