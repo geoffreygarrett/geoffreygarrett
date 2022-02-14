@@ -7,10 +7,10 @@ import html
 import cv2
 from sfn import get_news_articles, get_blogs, get_reports
 from ll2 import get_launches
+from gh import GitHub
 
 # import matplotlib.pyplot as plt
 # import matplotlib.dates as mdates
-
 API_ARTICLE_URL = "https://api.spaceflightnewsapi.net/v3/articles"
 API_ENDPOINT = "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?mode=detailed"
 BASE_TIME_URL = "https://www.timeanddate.com/worldclock/fixedtime.html?iso={iso}"
@@ -351,8 +351,8 @@ def parse_launch_windows_to_datetime(launches):
     return launches
 
 
-def iso_datetime_string_to_datetime(s, miliseconds=True):
-    if miliseconds:
+def iso_datetime_string_to_datetime(s, milliseconds=True):
+    if milliseconds:
         return time.strptime(s, "%Y-%m-%dT%H:%M:%S.%fZ")
     else:
         return time.strptime(s, "%Y-%m-%dT%H:%M:%SZ")
@@ -410,6 +410,16 @@ def get_readme_data():
     blogs = get_blogs(cache_dir=CACHE_DIR,
                       cache_time=3600 // 2)
 
+    # github
+    github = GitHub(api_token=os.environ["GH_TOKEN"])
+    issues = github.get_issue_assigned_to_me(
+        cache_dir=CACHE_DIR,
+        cache_time=3600 // 2)
+    interactions = github.get_interactions(
+        cache_dir=CACHE_DIR,
+        cache_time=3600 // 2)
+    # print(json.dumps(issues, indent=4))
+
     # download images and make them square for formatting
     next_launch["cached_location_image"] = cache_image_and_make_square(
         next_launch["pad"]["location"]["map_image"],
@@ -433,6 +443,10 @@ def get_readme_data():
     next_launch["cached_location_image"] = "cache/new_pad_image.png"
 
     return {
+        "github": {
+            "issues": issues,
+            "interactions": interactions
+        },
         "timestamp": time.gmtime(),
         "launches": launches,
         "next_launch": next_launch,

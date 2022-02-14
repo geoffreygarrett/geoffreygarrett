@@ -16,7 +16,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - ⚡ Fun fact: I'm an amateur dog trainer.
 <!-- - 🤔 I’m looking for help with ... -->
 
-## My GitHub stats 📊
+## My GitHub state 📊
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"> GitHub issues 🆘 </h3>
+
+<!-- github issues starts -->
+{% for issue in github.issues -%}
+* [{{ issue.title }}]({{ issue.url }}) <br/> <sub>{{ make_html_linked_time(iso_datetime_string_to_datetime(issue.created_at, milliseconds=False)) }}</sub>
+{% endfor %}
+<!-- github issues ends -->
+
+</td>
+
+</tr>
+
+</table>
+
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&include_all_commits=true&theme=light/#gh-light-mode-only">
       <img width="420px"

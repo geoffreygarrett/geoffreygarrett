@@ -17,6 +17,29 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <!-- - 🤔 I’m looking for help with ... -->
 
 ## My GitHub stats 📊
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"> GitHub issues 🆘 </h3>
+
+<!-- github issues starts -->
+* [Understand and fix rever ("news" workflow)](https://api.github.com/repos/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a></sub>
+* [Low priority request for docstrings parser](https://api.github.com/repos/tudat-team/tudat-multidoc/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T215945">2021-12-30 21:59:45 UTC</a></sub>
+* [Start using proper versioning for the conda package](https://api.github.com/repos/tudat-team/tudat-bundle/issues/5) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T214648">2021-12-30 21:46:48 UTC</a></sub>
+* [Intersphinx linking to properties not working](https://api.github.com/repos/tudat-team/tudat-space/issues/27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211105T141639">2021-11-05 14:16:39 UTC</a></sub>
+* [Ecosystem Kanban board](https://api.github.com/repos/tudat-team/project-management/issues/13) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211027T151519">2021-10-27 15:15:19 UTC</a></sub>
+* [Move content from tudat-space to tudat-developer-docs](https://api.github.com/repos/tudat-team/tudat-developer-docs/issues/11) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211014T120651">2021-10-14 12:06:51 UTC</a></sub>
+
+<!-- github issues ends -->
+
+</td>
+
+</tr>
+
+</table>
+
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=geoffreygarrett&show_icons=true&include_all_commits=true&theme=light/#gh-light-mode-only">
       <img width="420px"
@@ -52,7 +75,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
 Soyuz 2.1a | Progress MS-19 (80P) at the
-<a href="">31/6</a> in
+<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a> in
 Baikonur Cosmodrome, Republic of Kazakhstan
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T042540">2022-02-15 04:25:40 UTC</a>.  Until
@@ -126,6 +149,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Billionaire plans three more flights with SpaceX, culminating in Starship mission](https://spaceflightnow.com/2022/02/14/billionaire-plans-three-more-flights-with-spacex-culminating-in-starship-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T142933">2022-02-14 14:29:33 UTC</a></sub>
+* [India puts three satellites into orbit in the first launch of 2022](https://spacenews.com/india-puts-three-satellites-into-orbit-in-the-first-launch-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T135936">2022-02-14 13:59:36 UTC</a></sub>
 * [SpaceX has finally begun filling Starship’s orbital launch site fuel tanks](https://www.teslarati.com/spacex-begins-filling-starbase-launch-site-fuel-tanks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T120954">2022-02-14 12:09:54 UTC</a></sub>
 * [India orbits three satellites in first space launch since failure](https://spaceflightnow.com/2022/02/14/india-orbits-three-satellites-in-first-space-launch-since-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T063932">2022-02-14 06:39:32 UTC</a></sub>
 * [Chinese rocket, not Falcon 9, linked to upper stage on lunar impact trajectory](https://spacenews.com/chinese-rocket-not-falcon-9-linked-to-upper-stage-on-lunar-impact-trajectory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T191936">2022-02-13 19:19:36 UTC</a></sub>
@@ -134,8 +159,6 @@ into a Low Earth Orbit
 * [Lockheed Martin terminates agreement to acquire Aerojet Rocketdyne](https://spacenews.com/lockheed-martin-terminates-agreement-to-acquire-aerojet-rocketdyne/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T002937">2022-02-13 00:29:37 UTC</a></sub>
 * [U.S. intelligence wants to track currently undetectable orbital space debris](https://spacenews.com/u-s-intelligence-wants-to-track-currently-undetectable-orbital-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T200936">2022-02-12 20:09:36 UTC</a></sub>
 * [Office of Space Commerce rolls out prototype space catalog for traffic management](https://spacenews.com/office-of-space-commerce-rolls-out-prototype-space-catalog-for-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T181936">2022-02-12 18:19:36 UTC</a></sub>
-* [Declining value of space SPACs could trigger mergers and acquisitions](https://spacenews.com/declining-value-of-space-spacs-could-trigger-mergers-and-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T005935">2022-02-12 00:59:35 UTC</a></sub>
-* [Wyvern gets funding to expand hyperspectral imaging market](https://spacenews.com/wyvern-gets-funding-to-expand-hyperspectral-imaging-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T215938">2022-02-11 21:59:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -168,7 +191,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T141247">2022-02-14 14:12:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T155943">2022-02-14 15:59:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>

@@ -27,7 +27,7 @@ def dict_hash(dictionary: Dict[str, Any]) -> str:
     return dhash.hexdigest()
 
 
-def get_data_from_endpoint(api_endpoint, name, cache_dir=None, cache_time=3600):
+def get_data_from_endpoint(api_endpoint, name, cache_dir=None, cache_time=3600, **kwargs):
     """
     get the upcoming launches from the space dev api
     """
@@ -38,6 +38,8 @@ def get_data_from_endpoint(api_endpoint, name, cache_dir=None, cache_time=3600):
 
     # get the time of the last update from filename
     # if the file does not exist, create it
+    if cache_dir is None:
+        cache_dir = os.path.join(os.path.expanduser("~"), ".cache")
     try:
         with open(os.path.join(cache_dir, f"{name}_updated.txt"), "r") as f:
             last_update = f.read()
@@ -47,7 +49,7 @@ def get_data_from_endpoint(api_endpoint, name, cache_dir=None, cache_time=3600):
     # if the cache is older than cache_time, update cache
     if (now - float(last_update) > cache_time) | (last_update == now):
         # get the data from the api
-        r = requests.get(api_endpoint)
+        r = requests.get(api_endpoint, **kwargs)
         print(r)
         data = r.json()
 
