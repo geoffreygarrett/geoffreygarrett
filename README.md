@@ -107,8 +107,6 @@ into a Low Earth Orbit
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> Upcoming launches 🚀 </h3>
-
 <!-- rocket launches starts -->
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-19 (80P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T042540">2022-02-15 04:25:40 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-19 (80P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220215T042540Z%2F20220215T042540Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Cygnus CRS-2 NG-17 (S.S. Piers Sellers)</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T173900">2022-02-19 17:39:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-17 (S.S. Piers Sellers)&location=Wallops Island, Virginia, USA&dates=20220219T173900Z%2F20220219T173900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -151,26 +149,6 @@ into a Low Earth Orbit
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3 align="center"> General events 🛰️ </h3>
-
-<!-- events starts -->
-* [2017 NASA Astronaut class graduation ceremony](https://www.nasa.gov/press-release/nasa-s-astronaut-candidates-to-graduate-with-eye-on-artemis-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200110T153000">2020-01-10 15:30:00 UTC</a></sub>
-* [2021 NASA Astronaut Candidates Announcement](https://www.nasa.gov/press-release/nasa-to-announce-america-s-next-class-of-astronaut-candidates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211206T173000">2021-12-06 17:30:00 UTC</a></sub>
-* [70th International Astronautical Congress](https://www.iac2019.org/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191025T210000">2019-10-25 21:00:00 UTC</a></sub>
-* [8th meeting of the National Space Council](None) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201209T173000">2020-12-09 17:30:00 UTC</a></sub>
-* [Apollo 11th 50th Anniversary - Lunar Landing](https://www.nasa.gov/feature/apollo-11-in-real-time-50-years-later/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190720T201700">2019-07-20 20:17:00 UTC</a></sub>
-* [Apollo 12: 50th Anniversary Coverage](https://www.nasa.gov/mission_pages/apollo/apollo-12) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191114T100000">2019-11-14 10:00:00 UTC</a></sub>
-* [Arianespace VV17 failure press conference](https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201117T130000">2020-11-17 13:00:00 UTC</a></sub>
-* [Artemis-1 Status Briefing](None) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220202T170000">2022-02-02 17:00:00 UTC</a></sub>
-* [BepiColombo Earth Flyby](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_Earth_flyby_in_images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200410T042500">2020-04-10 04:25:00 UTC</a></sub>
-* [BepiColombo Mercury Flyby](https://sci.esa.int/web/bepicolombo/-/47346-fact-sheet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T000000">2023-06-20 00:00:00 UTC</a></sub>
-
-<!-- events ends -->
-
-</td>
-
 </tr>
 
 </table>
@@ -183,6 +161,9 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SES forges Indian satellite capacity joint venture](https://spacenews.com/ses-forges-indian-satellite-capacity-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T210937">2022-02-14 21:09:37 UTC</a></sub>
+* [Roscosmos to launch their 80th Progress vessel to the ISS](https://www.nasaspaceflight.com/2022/02/roscosmos-progress-ms-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T210236">2022-02-14 21:02:36 UTC</a></sub>
+* [SpaceX and Isaacman to partner on series of crewed Dragon and Starship flights](https://spacenews.com/spacex-and-isaacman-to-partner-on-series-of-crewed-dragon-and-starship-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T203936">2022-02-14 20:39:36 UTC</a></sub>
 * [Testing Rocks on Earth to Help NASA's Perseverance Work on Mars](https://mars.nasa.gov/news/9129/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T184900">2022-02-14 18:49:00 UTC</a></sub>
 * [Satellogic names former chair of the Pentagon’s joint chiefs Joe Dunford to board of directors](https://spacenews.com/satellogic-names-former-chair-of-the-pentagons-joint-chiefs-joe-dunford-to-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T160936">2022-02-14 16:09:36 UTC</a></sub>
 * [Billionaire plans three more flights with SpaceX, culminating in Starship mission](https://spaceflightnow.com/2022/02/14/billionaire-plans-three-more-flights-with-spacex-culminating-in-starship-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T142933">2022-02-14 14:29:33 UTC</a></sub>
@@ -190,9 +171,6 @@ into a Low Earth Orbit
 * [SpaceX has finally begun filling Starship’s orbital launch site fuel tanks](https://www.teslarati.com/spacex-begins-filling-starbase-launch-site-fuel-tanks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T120954">2022-02-14 12:09:54 UTC</a></sub>
 * [India orbits three satellites in first space launch since failure](https://spaceflightnow.com/2022/02/14/india-orbits-three-satellites-in-first-space-launch-since-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T063932">2022-02-14 06:39:32 UTC</a></sub>
 * [Chinese rocket, not Falcon 9, linked to upper stage on lunar impact trajectory](https://spacenews.com/chinese-rocket-not-falcon-9-linked-to-upper-stage-on-lunar-impact-trajectory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T191936">2022-02-13 19:19:36 UTC</a></sub>
-* [ISRO launches EOS-04 mission via PSLV-XL](https://www.nasaspaceflight.com/2022/02/isro-eos-04-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T173933">2022-02-13 17:39:33 UTC</a></sub>
-* [Astronomers now say the rocket about to strike the Moon is not a Falcon 9](https://arstechnica.com/science/2022/02/actually-a-falcon-9-rocket-is-not-going-to-hit-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T021048">2022-02-13 02:10:48 UTC</a></sub>
-* [Lockheed Martin terminates agreement to acquire Aerojet Rocketdyne](https://spacenews.com/lockheed-martin-terminates-agreement-to-acquire-aerojet-rocketdyne/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T002937">2022-02-13 00:29:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +203,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T204541">2022-02-14 20:45:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T215237">2022-02-14 21:52:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
