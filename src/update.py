@@ -285,7 +285,7 @@ def inlay_pad_image_in_location_image(pad_image, location_image):
     # get the pad image size
     pad_height, pad_width, _ = pad_image.shape
 
-    coord1 = (0.600, 0.025)
+    coord1 = (0.525, 0.025)
     coord2 = (0.975, 0.475)
 
     # resize the location image so closeup fits between (x1,y2) and (x1,y2)
