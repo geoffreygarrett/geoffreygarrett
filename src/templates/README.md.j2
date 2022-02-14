@@ -103,8 +103,6 @@ into {{ add_article_prefix(next_launch.mission.orbit.name) }}
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> Upcoming launches 🚀 </h3>
-
 <!-- rocket launches starts -->
 {% for launch in parse_launches_within_a_month(ll2.launches) -%}
 * {{ status_emoji(launch.status.abbrev) }}  <img width="17" src="{{get_country_flag_svg(launch.launch_service_provider.country_code)}}" /> <b>{{ ensure_name(launch.mission.name) }}</b> from {{ launch.pad.location.name }}. <br/> <sub>{{ make_html_linked_time(launch.datetime) }} - {{ make_google_calender_href_icon(launch) }} </sub>
@@ -137,18 +135,6 @@ into {{ add_article_prefix(next_launch.mission.orbit.name) }}
     </table>
 </p>
 </div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center"> General events 🛰️ </h3>
-
-<!-- events starts -->
-{% for event in ll2.events -%}
-* [{{ event.name }}]({{ event.news_url }}) <br/> <sub>{{ make_html_linked_time(iso_datetime_string_to_datetime(event.date, milliseconds=False)) }}</sub>
-{% endfor %}
-<!-- events ends -->
 
 </td>
 

@@ -9,7 +9,6 @@ from sfn import get_news_articles, get_blogs, get_reports
 from ll2 import LaunchLibrary2
 from gh import GitHub
 
-os.environ["GH_TOKEN"] = "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"
 # import matplotlib.pyplot as plt
 # import matplotlib.dates as mdates
 API_ARTICLE_URL = "https://api.spaceflightnewsapi.net/v3/articles"
