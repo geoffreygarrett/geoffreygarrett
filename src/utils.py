@@ -49,10 +49,13 @@ def get_data_from_endpoint(api_endpoint, name, cache_dir=None, cache_time=3600, 
     # if the cache is older than cache_time, update cache
     if (now - float(last_update) > cache_time) | (last_update == now):
         # get the data from the api
+        print(api_endpoint)
+
         r = requests.get(api_endpoint, **kwargs)
         print(r)
-        data = r.json()
+        print(api_endpoint)
 
+        data = r.json()
         # write the data to the cache
         with open(os.path.join(cache_dir, f"{name}_cache.json"), "w") as f:
             json.dump(data, f)

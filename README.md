@@ -102,17 +102,25 @@ into a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-<!-- rocket launches starts -->
--  🟩  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T042540">2022-02-15 04:25:40 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-19 (80P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220215T042540Z%2F20220215T042540Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" /> **Progress MS-19 (80P)** in Baikonur Cosmodrome, Republic of Kazakhstan.
--  🟩  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T173900">2022-02-19 17:39:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-17 (S.S. Piers Sellers)&location=Wallops Island, Virginia, USA&dates=20220219T173900Z%2F20220219T173900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> **Cygnus CRS-2 NG-17 (S.S. Piers Sellers)** in Wallops Island, Virginia, USA.
--  🟨  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T150000">2022-02-20 15:00:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-8&location=Cape Canaveral, FL, USA&dates=20220220T150000Z%2F20220220T190000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> **Starlink Group 4-8** in Cape Canaveral, FL, USA.
--  🟨  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T234400">2022-02-25 23:44:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | L-SAR 01B&location=Jiuquan, People&#x27;s Republic of China&dates=20220225T234400Z%2F20220225T234400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> **L-SAR 01B** in Jiuquan, People's Republic of China.
--  🟩  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T013000">2022-02-27 01:30:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 (Core Only) | Hainan-1 to 4 and Others&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220227T013000Z%2F20220227T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> **** in Wenchang Satellite Launch Center, People's Republic of China.
--  🟨  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T203500">2022-02-27 20:35:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Owl’s Night Continues&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220227T203500Z%2F20220227T203500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> **StriX-β (The Owl’s Night Continues)** in Onenui Station, Mahia Peninsula, New Zealand.
--  🟧  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T000000">2022-02-28 00:00:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 1A | CentiSpace-1 S3 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20220228T000000Z%2F20220228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> **CentiSpace-1 S3 (?)** in Jiuquan, People's Republic of China.
--  🟨  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T143000">2022-02-28 14:30:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | S4 CROSSOVER&location=Pacific Spaceport Complex, Alaska, USA&dates=20220228T143000Z%2F20220228T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> **S4 CROSSOVER** in Pacific Spaceport Complex, Alaska, USA.
--  🟩  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T213800">2022-03-01 21:38:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 541 | GOES-T&location=Cape Canaveral, FL, USA&dates=20220301T213800Z%2F20220301T233800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> **GOES-T** in Cape Canaveral, FL, USA.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"> Upcoming launches 🚀 </h3>
+
+<!-- rocket launches starts -->
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-19 (80P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T042540">2022-02-15 04:25:40 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-19 (80P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220215T042540Z%2F20220215T042540Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Cygnus CRS-2 NG-17 (S.S. Piers Sellers)</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T173900">2022-02-19 17:39:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-17 (S.S. Piers Sellers)&location=Wallops Island, Virginia, USA&dates=20220219T173900Z%2F20220219T173900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T150000">2022-02-20 15:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-8&location=Cape Canaveral, FL, USA&dates=20220220T150000Z%2F20220220T190000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>L-SAR 01B</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T234400">2022-02-25 23:44:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | L-SAR 01B&location=Jiuquan, People&#x27;s Republic of China&dates=20220225T234400Z%2F20220225T234400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T013000">2022-02-27 01:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 (Core Only) | Hainan-1 to 4 and Others&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220227T013000Z%2F20220227T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>StriX-β (The Owl’s Night Continues)</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T203500">2022-02-27 20:35:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Owl’s Night Continues&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220227T203500Z%2F20220227T203500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>CentiSpace-1 S3 (?)</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T000000">2022-02-28 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 1A | CentiSpace-1 S3 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20220228T000000Z%2F20220228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>S4 CROSSOVER</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T143000">2022-02-28 14:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | S4 CROSSOVER&location=Pacific Spaceport Complex, Alaska, USA&dates=20220228T143000Z%2F20220228T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>GOES-T</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T213800">2022-03-01 21:38:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 541 | GOES-T&location=Cape Canaveral, FL, USA&dates=20220301T213800Z%2F20220301T233800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+
+<!-- rocket launches ends -->
 
 <div align="center">
 <p align="center">
@@ -141,6 +149,32 @@ into a Low Earth Orbit
 </p>
 </div>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center"> General events 🛰️ </h3>
+
+<!-- events starts -->
+* [2017 NASA Astronaut class graduation ceremony](https://www.nasa.gov/press-release/nasa-s-astronaut-candidates-to-graduate-with-eye-on-artemis-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200110T153000">2020-01-10 15:30:00 UTC</a></sub>
+* [2021 NASA Astronaut Candidates Announcement](https://www.nasa.gov/press-release/nasa-to-announce-america-s-next-class-of-astronaut-candidates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211206T173000">2021-12-06 17:30:00 UTC</a></sub>
+* [70th International Astronautical Congress](https://www.iac2019.org/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191025T210000">2019-10-25 21:00:00 UTC</a></sub>
+* [8th meeting of the National Space Council](None) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201209T173000">2020-12-09 17:30:00 UTC</a></sub>
+* [Apollo 11th 50th Anniversary - Lunar Landing](https://www.nasa.gov/feature/apollo-11-in-real-time-50-years-later/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190720T201700">2019-07-20 20:17:00 UTC</a></sub>
+* [Apollo 12: 50th Anniversary Coverage](https://www.nasa.gov/mission_pages/apollo/apollo-12) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191114T100000">2019-11-14 10:00:00 UTC</a></sub>
+* [Arianespace VV17 failure press conference](https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201117T130000">2020-11-17 13:00:00 UTC</a></sub>
+* [Artemis-1 Status Briefing](None) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220202T170000">2022-02-02 17:00:00 UTC</a></sub>
+* [BepiColombo Earth Flyby](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_Earth_flyby_in_images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200410T042500">2020-04-10 04:25:00 UTC</a></sub>
+* [BepiColombo Mercury Flyby](https://sci.esa.int/web/bepicolombo/-/47346-fact-sheet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T000000">2023-06-20 00:00:00 UTC</a></sub>
+
+<!-- events ends -->
+
+</td>
+
+</tr>
+
+</table>
+
 ## Space feed 🍽️
 <table>
 <tr>
@@ -149,6 +183,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Testing Rocks on Earth to Help NASA's Perseverance Work on Mars](https://mars.nasa.gov/news/9129/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T184900">2022-02-14 18:49:00 UTC</a></sub>
 * [Satellogic names former chair of the Pentagon’s joint chiefs Joe Dunford to board of directors](https://spacenews.com/satellogic-names-former-chair-of-the-pentagons-joint-chiefs-joe-dunford-to-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T160936">2022-02-14 16:09:36 UTC</a></sub>
 * [Billionaire plans three more flights with SpaceX, culminating in Starship mission](https://spaceflightnow.com/2022/02/14/billionaire-plans-three-more-flights-with-spacex-culminating-in-starship-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T142933">2022-02-14 14:29:33 UTC</a></sub>
 * [India puts three satellites into orbit in the first launch of 2022](https://spacenews.com/india-puts-three-satellites-into-orbit-in-the-first-launch-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T135936">2022-02-14 13:59:36 UTC</a></sub>
@@ -158,7 +193,6 @@ into a Low Earth Orbit
 * [ISRO launches EOS-04 mission via PSLV-XL](https://www.nasaspaceflight.com/2022/02/isro-eos-04-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T173933">2022-02-13 17:39:33 UTC</a></sub>
 * [Astronomers now say the rocket about to strike the Moon is not a Falcon 9](https://arstechnica.com/science/2022/02/actually-a-falcon-9-rocket-is-not-going-to-hit-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T021048">2022-02-13 02:10:48 UTC</a></sub>
 * [Lockheed Martin terminates agreement to acquire Aerojet Rocketdyne](https://spacenews.com/lockheed-martin-terminates-agreement-to-acquire-aerojet-rocketdyne/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T002937">2022-02-13 00:29:37 UTC</a></sub>
-* [U.S. intelligence wants to track currently undetectable orbital space debris](https://spacenews.com/u-s-intelligence-wants-to-track-currently-undetectable-orbital-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T200936">2022-02-12 20:09:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -191,7 +225,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T173415">2022-02-14 17:34:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T204027">2022-02-14 20:40:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>

@@ -98,10 +98,18 @@ into {{ add_article_prefix(next_launch.mission.orbit.name) }}
 </p>
 
 ### Within a month's time 📅
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"> Upcoming launches 🚀 </h3>
+
 <!-- rocket launches starts -->
-{% for launch in parse_launches_within_a_month(launches) -%}
--  {{ status_emoji(launch.status.abbrev) }} \[{{ make_html_linked_time(launch.datetime) }} {{ make_google_calender_href_icon(launch) }}\]  <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code)}}" /> **{{ launch.mission.name }}** in {{ launch.pad.location.name }}.
+{% for launch in parse_launches_within_a_month(ll2.launches) -%}
+* {{ status_emoji(launch.status.abbrev) }}  <img width="17" src="{{get_country_flag_svg(launch.launch_service_provider.country_code)}}" /> <b>{{ ensure_name(launch.mission.name) }}</b> from {{ launch.pad.location.name }}. <br/> <sub>{{ make_html_linked_time(launch.datetime) }} - {{ make_google_calender_href_icon(launch) }} </sub>
 {% endfor %}
+<!-- rocket launches ends -->
 
 <div align="center">
 <p align="center">
@@ -130,6 +138,24 @@ into {{ add_article_prefix(next_launch.mission.orbit.name) }}
 </p>
 </div>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center"> General events 🛰️ </h3>
+
+<!-- events starts -->
+{% for event in ll2.events -%}
+* [{{ event.name }}]({{ event.news_url }}) <br/> <sub>{{ make_html_linked_time(iso_datetime_string_to_datetime(event.date, milliseconds=False)) }}</sub>
+{% endfor %}
+<!-- events ends -->
+
+</td>
+
+</tr>
+
+</table>
+
 ## Space feed 🍽️
 <table>
 <tr>
@@ -138,7 +164,7 @@ into {{ add_article_prefix(next_launch.mission.orbit.name) }}
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-{% for article in news_articles -%}
+{% for article in sfn.news_articles -%}
 * [{{ article.title }}]({{ article.url }}) <br/> <sub>{{ make_html_linked_time(iso_datetime_string_to_datetime(article.publishedAt)) }}</sub>
 {% endfor %}
 <!-- spaceflight news ends -->

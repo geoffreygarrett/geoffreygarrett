@@ -6,10 +6,10 @@ import os
 import html
 import cv2
 from sfn import get_news_articles, get_blogs, get_reports
-from ll2 import get_launches
+from ll2 import LaunchLibrary2
 from gh import GitHub
 
-
+os.environ["GH_TOKEN"] = "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"
 # import matplotlib.pyplot as plt
 # import matplotlib.dates as mdates
 API_ARTICLE_URL = "https://api.spaceflightnewsapi.net/v3/articles"
@@ -395,33 +395,56 @@ def parse_next_launch(launches):
     return upcoming_launches[0]
 
 
+def ensure_name(name):
+    print(name)
+    if not name:
+        return "<name missing>"
+    return name
+
+
 # get readme data
 def get_readme_data():
     """
     get the readme data for the readme file generation
     """
-    launches = get_upcoming_launches()["results"]
+    # launch library 2
+    ll2 = LaunchLibrary2()
+
+    launches = ll2.get_launches(
+        "upcoming",
+        cache_dir=CACHE_DIR,
+        cache_time=3600 // 2,
+        mode="detailed")["results"]
+
+    events = ll2.get_events(
+        cache_dir=CACHE_DIR,
+        cache_time=3600 // 2)["results"]
+
     launches = parse_launch_windows_to_datetime(launches)
-    next_launch = parse_next_launch(launches)
 
     # for space feed
-    news_articles = get_news_articles(cache_dir=CACHE_DIR,
-                                      cache_time=3600 // 2)
+    news_articles = get_news_articles(
+        cache_dir=CACHE_DIR,
+        cache_time=3600 // 2)
 
-    blogs = get_blogs(cache_dir=CACHE_DIR,
-                      cache_time=3600 // 2)
+    blogs = get_blogs(
+        cache_dir=CACHE_DIR,
+        cache_time=3600 // 2)
 
     # github
     github = GitHub(api_token=os.environ["GH_TOKEN"])
+
     issues = github.get_issue_assigned_to_me(
         cache_dir=CACHE_DIR,
         cache_time=3600 // 2)
+
     interactions = github.get_interactions(
         cache_dir=CACHE_DIR,
         cache_time=3600 // 2)
-    # print(json.dumps(issues, indent=4))
 
-    # download images and make them square for formatting
+    # upcoming launch
+    next_launch = parse_next_launch(launches)
+
     next_launch["cached_location_image"] = cache_image_and_make_square(
         next_launch["pad"]["location"]["map_image"],
         os.path.join(CACHE_DIR, "map_image.png"))
@@ -444,12 +467,16 @@ def get_readme_data():
     next_launch["cached_location_image"] = "cache/new_pad_image.png"
 
     return {
+        "timestamp": time.gmtime(),
         "github": {
             "issues": issues,
-            "interactions": interactions
-        },
-        "timestamp": time.gmtime(),
-        "launches": launches,
+            "interactions": interactions},
+        "ll2": {
+            "launches": launches,
+            "events": events},
+        "sfn": {
+            "news_articles": news_articles,
+            "blogs": blogs},
         "next_launch": next_launch,
         "make_html_linked_time": make_html_linked_time,
         "parse_launches_within_a_month": parse_launches_within_a_month,
@@ -460,6 +487,7 @@ def get_readme_data():
         "add_article_prefix": add_article_prefix,
         "news_articles": news_articles,
         "blogs": blogs,
+        "ensure_name": ensure_name,
         "make_google_calender_href_icon": make_google_calender_href_icon,
         "iso_datetime_string_to_datetime": iso_datetime_string_to_datetime
     }
