@@ -103,6 +103,7 @@ into a Low Earth Orbit
 
 ### Within a month's time 📅
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -152,6 +153,7 @@ into a Low Earth Orbit
 </tr>
 
 </table>
+</div>
 
 ## Space feed 🍽️
 <table>
@@ -203,7 +205,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T215237">2022-02-14 21:52:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T215652">2022-02-14 21:56:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
