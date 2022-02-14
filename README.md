@@ -96,25 +96,21 @@ into a Low Earth Orbit
     <thead>
       <tr>
         <th class="tg-0pky">Symbol</th>
-        <th class="tg-0pky">Meaning</th>
-        <th class="tg-0pky">Description</th>
+        <th class="tg-0pky">Status</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td class="tg-0pky">🟩</td>
         <td class="tg-0pky">Go For Launch (Go)</td>
-        <td class="tg-0pky">Current T-0 confirmed by official or reliable sources.</td>
       </tr>
       <tr>
         <td class="tg-0pky">🟨</td>
         <td class="tg-0pky">To Be Confirmed (TBC)</td>
-        <td class="tg-0pky">Awaiting official confirmation - current date is known with some certainty.</td>
       </tr>
       <tr>
         <td class="tg-0pky">🟧</td>
         <td class="tg-0pky">To Be Determined (TBD)</td>
-        <td class="tg-0pky">Current date is a placeholder or rough estimation based on unreliable or interpreted sources.</td>
       </tr>
     </tbody>
     </table>
@@ -170,7 +166,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T140634">2022-02-14 14:06:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T141106">2022-02-14 14:11:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
