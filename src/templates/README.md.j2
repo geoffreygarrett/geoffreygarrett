@@ -22,10 +22,21 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> Issues assigned 🆘 </h3>
+<h3 align="center"> Open issues 🆘 </h3>
 
 <!-- github issues starts -->
-{% for issue in github.issues -%}
+{% for issue in github.open_issues -%}
+* [{{ issue.title }}]({{ issue.html_url }}) <br/> <sub>{{ make_html_linked_time(iso_datetime_string_to_datetime(issue.created_at, milliseconds=False)) }} - <a href="{{ issue.user.html_url }}">{{ issue.user.login }}</a> </sub>
+{% endfor %}
+<!-- github issues ends -->
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"> Closed issues ✅ </h3>
+
+<!-- github issues starts -->
+{% for issue in github.closed_issues -%}
 * [{{ issue.title }}]({{ issue.html_url }}) <br/> <sub>{{ make_html_linked_time(iso_datetime_string_to_datetime(issue.created_at, milliseconds=False)) }} - <a href="{{ issue.user.html_url }}">{{ issue.user.login }}</a> </sub>
 {% endfor %}
 <!-- github issues ends -->

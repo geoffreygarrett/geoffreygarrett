@@ -433,7 +433,12 @@ def get_readme_data():
     # github
     github = GitHub(api_token=os.environ["GITHUB_TOKEN"])
 
-    issues = github.get_issue_assigned_to_me(
+    open_issues = github.get_issue_assigned_to_me(
+        cache_dir=CACHE_DIR,
+        cache_time=3600 // 2)
+
+    closed_issues = github.get_issue_assigned_to_me(
+        state="closed",
         cache_dir=CACHE_DIR,
         cache_time=3600 // 2)
 
@@ -468,7 +473,8 @@ def get_readme_data():
     return {
         "timestamp": time.gmtime(),
         "github": {
-            "issues": issues,
+            "open_issues": open_issues,
+            "closed_issues": closed_issues,
             "interactions": interactions},
         "ll2": {
             "launches": launches,

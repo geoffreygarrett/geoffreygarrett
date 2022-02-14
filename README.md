@@ -22,7 +22,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> Issues assigned 🆘 </h3>
+<h3 align="center"> Open issues 🆘 </h3>
 
 <!-- github issues starts -->
 * [Understand and fix rever ("news" workflow)](https://github.com/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
@@ -31,6 +31,21 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 * [Intersphinx linking to properties not working](https://github.com/tudat-team/tudat-space/issues/27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211105T141639">2021-11-05 14:16:39 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Ecosystem Kanban board](https://github.com/tudat-team/project-management/issues/13) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211027T151519">2021-10-27 15:15:19 UTC</a> - <a href="https://github.com/jgte">jgte</a> </sub>
 * [Move content from tudat-space to tudat-developer-docs](https://github.com/tudat-team/tudat-developer-docs/issues/11) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211014T120651">2021-10-14 12:06:51 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
+
+<!-- github issues ends -->
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"> Closed issues ✅ </h3>
+
+<!-- github issues starts -->
+* [Ensure readthedocs build fails if build.sh fails](https://github.com/tudat-team/tudat-multidoc/issues/1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211024T172410">2021-10-24 17:24:10 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
+* [Investigate autocomplete on PyCharm and stubs files ](https://github.com/tudat-team/tudatpy/issues/22) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211020T151214">2021-10-20 15:12:14 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
+* [Adding webpages to tudat-space (from legacy content)](https://github.com/tudat-team/tudat-space/issues/17) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211014T121245">2021-10-14 12:12:45 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
+* [Developer documentation](https://github.com/tudat-team/tudat-space/issues/13) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210416T083647">2021-04-16 08:36:47 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
+* [Linux build failing with boost 1.70+](https://github.com/tudat-team/tudat/issues/9) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200926T162518">2020-09-26 16:25:18 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
+* [Failing tests for Clang build on Windows using MSVC libraries](https://github.com/tudat-team/tudat/issues/7) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200926T152756">2020-09-26 15:27:56 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 
 <!-- github issues ends -->
 
@@ -205,7 +220,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T220031">2022-02-14 22:00:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T221445">2022-02-14 22:14:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>

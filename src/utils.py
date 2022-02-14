@@ -12,7 +12,7 @@ def parse_url_args(endpoint, *args, **kwargs):
         endpoint = endpoint + "/" + "/".join(args)
 
     if kwargs:
-        endpoint = endpoint + "/" + "/".join(
+        endpoint = endpoint + "/".join(
             [f"?{k}={v}" for k, v in kwargs.items()])
     return endpoint, md5
 
