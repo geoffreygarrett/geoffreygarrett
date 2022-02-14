@@ -3,11 +3,14 @@ import time
 import requests
 import json
 import os
+import html
+import cv2
 
 # import matplotlib.pyplot as plt
 # import matplotlib.dates as mdates
 
-API_ENDPOINT = "https://ll.thespacedevs.com/2.2.0/launch/upcoming"
+API_ARTICLE_URL = "https://api.spaceflightnewsapi.net/v3/articles"
+API_ENDPOINT = "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?mode=detailed"
 BASE_TIME_URL = "https://www.timeanddate.com/worldclock/fixedtime.html?iso={iso}"
 CACHE_DIR = "../cache"
 ISO3_JSON = "http://country.io/iso3.json"
@@ -101,9 +104,6 @@ def status_emoji(status):
     return STATUS_MAP[status]
 
 
-import html
-
-
 def make_google_calender_url(launch):
     return BASE_GOOGLE_CALENDAR_URL.format(
         text=html.escape(launch["name"]),
@@ -147,9 +147,6 @@ def get_iso3_to_iso2_country_map():
         iso3_to_iso2[v] = k
 
     return iso3_to_iso2
-
-
-import cv2
 
 
 def cache_image_and_make_square(url, filename):
@@ -271,6 +268,10 @@ def generate_next_launch(data):
     
     """
 
+
+import numpy as np
+
+
 def inlay_pad_image_in_location_image(pad_image, location_image):
     """
     inlay a pad image in a location image
@@ -284,45 +285,55 @@ def inlay_pad_image_in_location_image(pad_image, location_image):
     # get the pad image size
     pad_height, pad_width, _ = pad_image.shape
 
+    coord1 = (0.600, 0.025)
+    coord2 = (0.975, 0.475)
+
+    # resize the location image so closeup fits between (x1,y2) and (x1,y2)
+    new_image = cv2.resize(location_image, (int(1/(coord2[0] - coord1[0]) * pad_width),
+                                            int(1/(coord2[1] - coord1[1]) * pad_height)))
+
     # get the location image size
-    location_height, location_width, _ = location_image.shape
+    location_height, location_width, _ = new_image.shape
 
-    # get the new size
-    new_size = min(location_height, location_width)
+    # get coordinates in location image for (5% y, 55% x)
+    pad_x1 = int(location_width * coord1[0])
+    pad_y1 = int(location_height * coord1[1])
 
-    # get the center
-    center_x = location_width // 2
-    center_y = location_height // 2
+    # get coordinates in location image for (45% y, 95% x)
+    pad_x2 = int(location_width * coord2[0])
+    pad_y2 = int(location_height * coord2[1])
 
-    # get the new image
-    new_img = location_image[center_y - new_size // 2:center_y + new_size // 2,
-              center_x - new_size // 2:center_x + new_size // 2]
+    # get coordinates of center square of new_image
+    # frac = 0.01
+    # new_image_x1 = int(location_width * (0.5 - frac))
+    # new_image_y1 = int(location_height * (0.5 - frac))
+    # new_image_x2 = int(location_width * (0.5 + frac))
+    # new_image_y2 = int(location_height * (0.5 + frac))
 
-    # get the new image size
-    new_height, new_width, _ = new_img.shape
+    # draw colorless rectangle with white edges for new image coords
+    # new_image = cv2.rectangle(new_image,
+    #                           (new_image_x1, new_image_y1),
+    #                           (new_image_x2, new_image_y2),
+    #                           (255, 255, 255),
+    #                           thickness=2)
 
-    # get the pad image size
-    pad_height, pad_width, _ = pad_image.shape
+    # pace pad image into location between coordinates
+    new_image[pad_y1:pad_y2, pad_x1:pad_x2] = pad_image
 
-    # get the new pad image size
-    new_pad_height = new_height + pad_height
-    new_pad_width = new_width + pad_width
-
-    # create the new pad image
-    new_pad_image = np.zeros((new_pad_height, new_pad_width, 3), dtype=np.uint8)
-
-    # copy the new image
-    new_pad_image[pad_height:pad_height + new_height,
-              pad_width:pad_width + new_width] = new_img
-
-    # copy the pad image
-    new_pad_image[0:pad_height, 0:pad_width] = pad_image
+    # # draw line from center of new image to x1,y1
+    # cv2.line(new_image, (new_image_x1, new_image_y1), (pad_x1, pad_y1), (255, 255, 255), 2)
+    #
+    # # draw line from center of new image to x1,y2
+    # cv2.line(new_image, (new_image_x2, new_image_y1), (pad_x1, pad_y2), (255, 255, 255), 2)
+    #
+    # # draw line from center of new image to x2,y2
+    # cv2.line(new_image, (new_image_x2, new_image_y2), (pad_x2, pad_y2), (255, 255, 255), 2)
 
     # return the new pad image
-    return new_pad_image
+    return new_image
 
 
-def add_a_an(s):
+def add_article_prefix(s):
     if s[0] in "aeiouAEIOU":
         return "an " + s
     else:
@@ -365,33 +376,12 @@ def add_border_to_image(image_path, border_width_fraction=0.0025):
     cv2.imwrite(image_path, img2)
 
 
-# def plot_launch_histogram_within_a_year(launches):
-#     # get the launches within a year
-#     launches_within_a_year = []
-#     t_now = time.mktime(time.localtime())
-#     for launch in launches:
-#         t_launch = time.mktime(launch["datetime"])
-#         if (t_launch > t_now) & (t_launch < t_now + 2592000):
-#             launches_within_a_year.append(launch)
-#
-#     times = [time.mktime(launch["datetime"]) for launch in
-#              launches_within_a_year]
-#     # convert times array to epochs
-#
-#     mpl_data = mdates.date2num(times)
-#
-#     # plot the histogram
-#     fig, ax = plt.subplots()
-#     # print(launches_within_a_year)
-#     ax.hist(mpl_data,
-#             bins=30,
-#             # range=(t_now, t_now + 2592000),
-#             )
-#     ax.set_xlabel("Launch date")
-#     ax.xaxis.set_major_locator(mdates.DayLocator())
-#     ax.xaxis.set_major_formatter(mdates.DateFormatter('%d.%m.%y'))
-#     # save figure
-#     fig.savefig("launch_histogram.png")
+def parse_next_launch(launches):
+    upcoming_launches = parse_launches_within_a_month(launches)
+    if len(upcoming_launches) == 0:
+        return None
+    upcoming_launches = sorted(upcoming_launches, key=lambda x: x["datetime"])
+    return upcoming_launches[0]
 
 
 # get readme data
@@ -399,19 +389,31 @@ def get_readme_data():
     """
     get the readme data for the readme file generation
     """
-    # get timestamp and ensure tz is UTC
-    # timestamp = time.gmtime()
-    # timestamp = time.strftime("%Y-%m-%d %H:%M:%S", timestamp)
     launches = get_upcoming_launches()["results"]
     launches = parse_launch_windows_to_datetime(launches)
-    next_launch = launches[0]
+    next_launch = parse_next_launch(launches)
+
+    # download images and make them square for formatting
     next_launch["cached_location_image"] = cache_image_and_make_square(
         next_launch["pad"]["location"]["map_image"],
         os.path.join(CACHE_DIR, "map_image.png"))
 
+    next_launch["cached_pad_location_image"] = cache_image_and_make_square(
+        next_launch["pad"]["map_image"],
+        os.path.join(CACHE_DIR, "map_pad_image.png"))
+
+    # ''
     next_launch["cached_launch_image"] = cache_image_and_make_square(
         next_launch["image"],
         os.path.join(CACHE_DIR, "launch_image.png"))
+
+    new_pad_image = inlay_pad_image_in_location_image(
+        "../" + next_launch["cached_pad_location_image"],
+        "../" + next_launch["cached_location_image"]
+    )
+    # save new pad image
+    cv2.imwrite(os.path.join(CACHE_DIR, "new_pad_image.png"), new_pad_image)
+    next_launch["cached_pad_location_image"] = "../cache/new_pad_image.png"
 
     return {
         "timestamp": time.gmtime(),
@@ -423,17 +425,17 @@ def get_readme_data():
         "get_iso3_to_iso2_country_map": get_iso3_to_iso2_country_map,
         "status_emoji": status_emoji,
         "first_letter_lower": first_letter_lower,
-        "add_a_an": add_a_an,
+        "add_article_prefix": add_article_prefix,
         "make_google_calender_href_icon": make_google_calender_href_icon
     }
 
 
-# load template file
-template_loader = jinja2.FileSystemLoader(searchpath="./templates")
-template_env = jinja2.Environment(loader=template_loader)
-template = template_env.get_template("README.md.j2")
-
 if __name__ == "__main__":
+    # load template file
+    template_loader = jinja2.FileSystemLoader(searchpath="./templates")
+    template_env = jinja2.Environment(loader=template_loader)
+    template = template_env.get_template("README.md.j2")
+
     # # # load data
     data = get_readme_data()
 
@@ -443,5 +445,3 @@ if __name__ == "__main__":
     # write output
     with open(os.path.join("..", "README.md"), "w") as f:
         f.write(output)
-    # test = get_latest_medium_posts_from_user("g.h.garret/t")
-    # print(test)

@@ -62,7 +62,7 @@ region. The mission's status is currently {{ next_launch.status.name }}
 ({{ next_launch.status.abbrev }}) {{ status_emoji(next_launch.status.abbrev) }} which means:
 *{{ first_letter_lower(next_launch.status.description)  }}* The mission type is
 {{ next_launch.mission.type }} and the payload will be injected
-into {{ add_a_an(next_launch.mission.orbit.name) }}
+into {{ add_article_prefix(next_launch.mission.orbit.name) }}
 ({{ next_launch.mission.orbit.abbrev }}).
 <br>
 <blockquote>

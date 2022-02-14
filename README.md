@@ -51,36 +51,35 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-PSLV  | EOS-4 (RISAT-1A) at the
-<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a> in
-Sriharikota, Republic of India
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T002900">2022-02-14 00:29:00 UTC</a>.  Until
-then, this launch pad will have seen 50
-out of 78 launches in this
+Soyuz 2.1a | Progress MS-19 (80P) at the
+<a href="">31/6</a> in
+Baikonur Cosmodrome, Republic of Kazakhstan
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T042540">2022-02-15 04:25:40 UTC</a>.  Until
+then, this launch pad will have seen 399
+out of 1529 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* The mission type is
-Earth Science and the payload will be injected
-into a Sun-Synchronous Orbit
-(SSO).
+Resupply and the payload will be injected
+into a Low Earth Orbit
+(LEO).
 <br>
 <blockquote>
-  EOS-4 (also known by the old designation RISAT 1A) is a radar remote sensing satellite.
+  Progress resupply mission to the International Space Station.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad" >
+  <a href="" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=13.733,80.235" >
+  <a href="http://maps.google.com/maps?q=45.996+N,+63.564+E" >
     <img alt="pad-location" width="49%" src="cache/map_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
 <!-- rocket launches starts -->
--  🟩  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T002900">2022-02-14 00:29:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV  | EOS-4 (RISAT-1A)&location=Sriharikota, Republic of India&dates=20220214T002900Z%2F20220214T002900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> **EOS-4 (RISAT-1A)** in Sriharikota, Republic of India.
 -  🟩  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T042540">2022-02-15 04:25:40 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-19 (80P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220215T042540Z%2F20220215T042540Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" /> **Progress MS-19 (80P)** in Baikonur Cosmodrome, Republic of Kazakhstan.
 -  🟩  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T173900">2022-02-19 17:39:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-17 (S.S. Piers Sellers)&location=Wallops Island, Virginia, USA&dates=20220219T173900Z%2F20220219T173900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> **Cygnus CRS-2 NG-17 (S.S. Piers Sellers)** in Wallops Island, Virginia, USA.
 -  🟨  \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T150000">2022-02-20 15:00:00 UTC</a> <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-8&location=Cape Canaveral, FL, USA&dates=20220220T150000Z%2F20220220T190000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> **Starlink Group 4-8** in Cape Canaveral, FL, USA.
@@ -123,7 +122,7 @@ into a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T202106">2022-02-13 20:21:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T115822">2022-02-14 11:58:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
