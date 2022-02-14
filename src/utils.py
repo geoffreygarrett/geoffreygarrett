@@ -8,8 +8,13 @@ import json
 
 def parse_url_args(endpoint, *args, **kwargs):
     md5 = dict_hash({"args": args, **kwargs})
-    return endpoint + "/" + "/".join(args) + "/" + "/".join(
-        [f"?{k}={v}" for k, v in kwargs.items()]), md5
+    if args:
+        endpoint = endpoint + "/" + "/".join(args)
+
+    if kwargs:
+        endpoint = endpoint + "/" + "/".join(
+            [f"?{k}={v}" for k, v in kwargs.items()])
+    return endpoint, md5
 
 
 def dict_hash(dictionary: Dict[str, Any]) -> str:
@@ -43,6 +48,7 @@ def get_data_from_endpoint(api_endpoint, name, cache_dir=None, cache_time=3600):
     if (now - float(last_update) > cache_time) | (last_update == now):
         # get the data from the api
         r = requests.get(api_endpoint)
+        print(r)
         data = r.json()
 
         # write the data to the cache

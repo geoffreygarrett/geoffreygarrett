@@ -113,6 +113,38 @@ into {{ add_article_prefix(next_launch.mission.orbit.name) }}
     </table>
 </p>
 
+## Space feed 🍽️
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"> Spaceflight news 📅 </h3>
+
+<!-- spaceflight news starts -->
+{% for article in news_articles -%}
+* [{{ article.title }}]({{ article.url }}) <br/> <sub>{{ make_html_linked_time(iso_datetime_string_to_datetime(article.publishedAt)) }}</sub>
+{% endfor %}
+<!-- spaceflight news ends -->
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center"> Spaceflight blogs ✍️ </h3>
+
+<!-- spaceflight blogs starts -->
+{% for article in blogs -%}
+* [{{ article.title }}]({{ article.url }}) <br/> <sub>{{ make_html_linked_time(iso_datetime_string_to_datetime(article.publishedAt)) }}</sub>
+{% endfor %}
+<!-- spaceflight blogs ends -->
+
+</td>
+
+</tr>
+
+</table>
+
+
 <hr>
   <div align="center">
   This <code>README.md</code> was last auto generated at {{ make_html_linked_time(timestamp) }}

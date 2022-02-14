@@ -5,6 +5,8 @@ import json
 import os
 import html
 import cv2
+from sfn import get_news_articles, get_blogs, get_reports
+from ll2 import get_launches
 
 # import matplotlib.pyplot as plt
 # import matplotlib.dates as mdates
@@ -289,8 +291,9 @@ def inlay_pad_image_in_location_image(pad_image, location_image):
     coord2 = (0.975, 0.475)
 
     # resize the location image so closeup fits between (x1,y2) and (x1,y2)
-    new_image = cv2.resize(location_image, (int(1/(coord2[0] - coord1[0]) * pad_width),
-                                            int(1/(coord2[1] - coord1[1]) * pad_height)))
+    new_image = cv2.resize(location_image,
+                           (int(1 / (coord2[0] - coord1[0]) * pad_width),
+                            int(1 / (coord2[1] - coord1[1]) * pad_height)))
 
     # get the location image size
     location_height, location_width, _ = new_image.shape
@@ -348,6 +351,13 @@ def parse_launch_windows_to_datetime(launches):
     return launches
 
 
+def iso_datetime_string_to_datetime(s, miliseconds=True):
+    if miliseconds:
+        return time.strptime(s, "%Y-%m-%dT%H:%M:%S.%fZ")
+    else:
+        return time.strptime(s, "%Y-%m-%dT%H:%M:%SZ")
+
+
 def get_country_flag_svg(iso3_country_code):
     # convert iso3 to iso2
     iso2_country_code = ISO3_2_ISO2[iso3_country_code]
@@ -393,6 +403,13 @@ def get_readme_data():
     launches = parse_launch_windows_to_datetime(launches)
     next_launch = parse_next_launch(launches)
 
+    # for space feed
+    news_articles = get_news_articles(cache_dir=CACHE_DIR,
+                                      cache_time=3600 // 2)
+
+    blogs = get_blogs(cache_dir=CACHE_DIR,
+                      cache_time=3600 // 2)
+
     # download images and make them square for formatting
     next_launch["cached_location_image"] = cache_image_and_make_square(
         next_launch["pad"]["location"]["map_image"],
@@ -426,7 +443,10 @@ def get_readme_data():
         "status_emoji": status_emoji,
         "first_letter_lower": first_letter_lower,
         "add_article_prefix": add_article_prefix,
-        "make_google_calender_href_icon": make_google_calender_href_icon
+        "news_articles": news_articles,
+        "blogs": blogs,
+        "make_google_calender_href_icon": make_google_calender_href_icon,
+        "iso_datetime_string_to_datetime": iso_datetime_string_to_datetime
     }
 
 

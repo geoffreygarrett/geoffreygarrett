@@ -120,9 +120,57 @@ into a Low Earth Orbit
     </table>
 </p>
 
+## Space feed 🍽️
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"> Spaceflight news 📅 </h3>
+
+<!-- spaceflight news starts -->
+* [SpaceX has finally begun filling Starship’s orbital launch site fuel tanks](https://www.teslarati.com/spacex-begins-filling-starbase-launch-site-fuel-tanks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T120954">2022-02-14 12:09:54 UTC</a></sub>
+* [India orbits three satellites in first space launch since failure](https://spaceflightnow.com/2022/02/14/india-orbits-three-satellites-in-first-space-launch-since-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T063932">2022-02-14 06:39:32 UTC</a></sub>
+* [Chinese rocket, not Falcon 9, linked to upper stage on lunar impact trajectory](https://spacenews.com/chinese-rocket-not-falcon-9-linked-to-upper-stage-on-lunar-impact-trajectory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T191936">2022-02-13 19:19:36 UTC</a></sub>
+* [ISRO launches EOS-04 mission via PSLV-XL](https://www.nasaspaceflight.com/2022/02/isro-eos-04-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T173933">2022-02-13 17:39:33 UTC</a></sub>
+* [Astronomers now say the rocket about to strike the Moon is not a Falcon 9](https://arstechnica.com/science/2022/02/actually-a-falcon-9-rocket-is-not-going-to-hit-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T021048">2022-02-13 02:10:48 UTC</a></sub>
+* [Lockheed Martin terminates agreement to acquire Aerojet Rocketdyne](https://spacenews.com/lockheed-martin-terminates-agreement-to-acquire-aerojet-rocketdyne/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T002937">2022-02-13 00:29:37 UTC</a></sub>
+* [U.S. intelligence wants to track currently undetectable orbital space debris](https://spacenews.com/u-s-intelligence-wants-to-track-currently-undetectable-orbital-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T200936">2022-02-12 20:09:36 UTC</a></sub>
+* [Office of Space Commerce rolls out prototype space catalog for traffic management](https://spacenews.com/office-of-space-commerce-rolls-out-prototype-space-catalog-for-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T181936">2022-02-12 18:19:36 UTC</a></sub>
+* [Declining value of space SPACs could trigger mergers and acquisitions](https://spacenews.com/declining-value-of-space-spacs-could-trigger-mergers-and-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T005935">2022-02-12 00:59:35 UTC</a></sub>
+* [Wyvern gets funding to expand hyperspectral imaging market](https://spacenews.com/wyvern-gets-funding-to-expand-hyperspectral-imaging-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T215938">2022-02-11 21:59:38 UTC</a></sub>
+
+<!-- spaceflight news ends -->
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center"> Spaceflight blogs ✍️ </h3>
+
+<!-- spaceflight blogs starts -->
+* [Day of Action Deep Prep: Artemis](https://www.planetary.org/advocacy/day-of-action-deep-prep-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T180955">2022-02-11 18:09:55 UTC</a></sub>
+* [Olympic-worthy world(s) records](https://www.planetary.org/the-downlink/olympic-worthy-worlds-records) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T153952">2022-02-11 15:39:52 UTC</a></sub>
+* [Student Rocket Launch: Calling All K-12 Rocket Scientists](https://blog.ulalaunch.com/blog/student-rocket-launch-calling-all-k-12-rocket-scientists) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220209T211008">2022-02-09 21:10:08 UTC</a></sub>
+* [GOES-T: Atlas V rocket readied to launch U.S. weather observatory](https://blog.ulalaunch.com/blog/goes-t-atlas-v-rocket-readied-to-launch-u.s.-weather-observatory-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220207T162013">2022-02-07 16:20:13 UTC</a></sub>
+* [So much more than meets the eye](https://www.planetary.org/the-downlink/so-much-more-than-meets-the-eye) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220204T153953">2022-02-04 15:39:53 UTC</a></sub>
+* [NASA CLPS Moon landing missions](https://www.planetary.org/space-missions/clps) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220203T150955">2022-02-03 15:09:55 UTC</a></sub>
+* [Cassini, the mission that revealed Saturn](https://www.planetary.org/space-missions/cassini) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220202T150953">2022-02-02 15:09:53 UTC</a></sub>
+* [Shoot for the moon that shoots back](https://www.planetary.org/the-downlink/shoot-for-the-moon-that-shoots-back) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220128T153955">2022-01-28 15:39:55 UTC</a></sub>
+* [Why we do the Day of Action](https://www.planetary.org/articles/why-we-do-the-day-of-action) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220126T213304">2022-01-26 21:33:04 UTC</a></sub>
+* [Meet the snow worlds](https://www.planetary.org/articles/snow-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220124T162305">2022-01-24 16:23:05 UTC</a></sub>
+
+<!-- spaceflight blogs ends -->
+
+</td>
+
+</tr>
+
+</table>
+
+
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T122130">2022-02-14 12:21:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T140634">2022-02-14 14:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
