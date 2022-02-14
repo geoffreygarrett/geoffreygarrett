@@ -84,6 +84,7 @@ into {{ add_article_prefix(next_launch.mission.orbit.name) }}
 -  {{ status_emoji(launch.status.abbrev) }} \[{{ make_html_linked_time(launch.datetime) }} {{ make_google_calender_href_icon(launch) }}\]  <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code)}}" /> **{{ launch.mission.name }}** in {{ launch.pad.location.name }}.
 {% endfor %}
 
+<div align="center">
 <p align="center">
     <table class="tg">
     <thead>
@@ -108,6 +109,7 @@ into {{ add_article_prefix(next_launch.mission.orbit.name) }}
     </tbody>
     </table>
 </p>
+</div>
 
 ## Space feed 🍽️
 <table>
