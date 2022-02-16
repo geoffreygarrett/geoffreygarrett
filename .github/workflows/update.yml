@@ -25,7 +25,7 @@ jobs:
       - name: 🍳 Update README
         run: |
           cd ${GITHUB_WORKSPACE}/src/
-          python update.py ${{ secrets.GITHUB_TOKEN }}
+          python update.py ${{ secrets.TOKEN }}
       - name: 🚀 Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
