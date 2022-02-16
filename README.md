@@ -17,7 +17,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <!-- - 🤔 I’m looking for help with ... -->
 
 ## My GitHub state 📊
-
+[![Update README.md](https://github.com/geoffreygarrett/geoffreygarrett/actions/workflows/update.yml/badge.svg?branch=main)](https://github.com/geoffreygarrett/geoffreygarrett/actions/workflows/update.yml)
 <table>
 <tr>
 <td width="50%" valign="top">
