@@ -1,12 +1,12 @@
 
-name: README.md Update
+name: README.md 🌀
 
 on:
   push:
     branches:
       - master
   schedule:
-    - cron: "*/3 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   build-and-deploy:
