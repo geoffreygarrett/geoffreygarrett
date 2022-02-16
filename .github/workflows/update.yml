@@ -1,5 +1,5 @@
 
-name: Update `README.md`
+name: README.md Update
 
 on:
   push:
