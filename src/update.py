@@ -431,8 +431,18 @@ def get_readme_data():
         cache_time=3600 // 2)
 
     # github
-    github = GitHub(api_token=os.environ["GH_TOKEN"])
+    if "GITHUB_TOKEN" in os.environ:
+        print("GITHUB_TOKEN")
+        token = os.environ["GITHUB_TOKEN"]
+    elif "GH_TOKEN" in os.environ:
+        print("GH_TOKEN")
+        token = os.environ["GH_TOKEN"]
+    elif "SECRETS_GITHUB_TOKEN" in os.environ:
+        print("SECRETS_GITHUB_TOKEN")
+        token = os.environ["SECRETS_GITHUB_TOKEN"]
 
+    github = GitHub(api_token=token)
+    
     open_issues = github.get_issue_assigned_to_me(
         cache_dir=CACHE_DIR,
         cache_time=3600 // 2)
