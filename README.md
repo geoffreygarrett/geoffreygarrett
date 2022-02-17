@@ -180,6 +180,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceLink hires Axiom to support ISS communications demonstration](https://spacenews.com/spacelink-taps-axiom-for-iss-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T140936">2022-02-17 14:09:36 UTC</a></sub>
 * [Progress supply freighter docks with space station](https://spaceflightnow.com/2022/02/17/progress-supply-freighter-docks-with-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T123932">2022-02-17 12:39:32 UTC</a></sub>
 * [SpaceX to close out February with two more Starlink launches](https://www.teslarati.com/spacex-february-2022-two-more-starlink-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T120949">2022-02-17 12:09:49 UTC</a></sub>
 * [Astroscale preparing to restart debris-removal demo](https://spacenews.com/astroscale-preparing-to-restart-debris-removal-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T120936">2022-02-17 12:09:36 UTC</a></sub>
@@ -189,7 +190,6 @@ into a Low Earth Orbit
 * [Space Force wants to create a more welcoming environment for private industry](https://spacenews.com/space-force-wants-to-create-a-more-welcoming-environment-for-private-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T223935">2022-02-16 22:39:35 UTC</a></sub>
 * [ABB gets $30 million order for EarthDaily imaging payloads](https://spacenews.com/abb-gets-30-million-order-for-earthdaily-imaging-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T215935">2022-02-16 21:59:35 UTC</a></sub>
 * [Students With Perseverance Receive Messages From Mars, Courtesy of NASA](https://mars.nasa.gov/news/9133/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T195900">2022-02-16 19:59:00 UTC</a></sub>
-* [Artemis 1 rollout timing remains uncertain as NASA leadership deliberates the schedule](https://www.nasaspaceflight.com/2022/02/artemis-1-update-feb-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T182420">2022-02-16 18:24:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T140207">2022-02-17 14:02:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T143159">2022-02-17 14:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
