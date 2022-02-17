@@ -180,16 +180,16 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space acquisition nominee: Satellites must be defended, ‘the economy depends on space’](https://spacenews.com/space-acquisitions-nominee-satellites-must-be-defended-the-economy-depends-on-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T195936">2022-02-17 19:59:36 UTC</a></sub>
+* [State Fight: Virginia is for rockets](https://spacenews.com/state-fight-virginia-is-for-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
+* [Starship lookalike among China’s new human spaceflight concepts](https://spacenews.com/starship-lookalike-among-chinas-new-human-spaceflight-concepts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
+* [State Fight: A coast-to-coast battle to bring home the space jobs](https://spacenews.com/state-fight-a-coast-to-coast-battle-to-bring-home-the-space-jobs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
 * [SpaceLink hires Axiom to support ISS communications demonstration](https://spacenews.com/spacelink-taps-axiom-for-iss-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T140936">2022-02-17 14:09:36 UTC</a></sub>
 * [Progress supply freighter docks with space station](https://spaceflightnow.com/2022/02/17/progress-supply-freighter-docks-with-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T123932">2022-02-17 12:39:32 UTC</a></sub>
 * [SpaceX to close out February with two more Starlink launches](https://www.teslarati.com/spacex-february-2022-two-more-starlink-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T120949">2022-02-17 12:09:49 UTC</a></sub>
 * [Astroscale preparing to restart debris-removal demo](https://spacenews.com/astroscale-preparing-to-restart-debris-removal-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T120936">2022-02-17 12:09:36 UTC</a></sub>
 * [Shanghai signs agreement with China’s megaconstellation group, aims to foster commercial space hub](https://spacenews.com/shanghai-signs-agreement-with-chinas-megaconstellation-group-aims-to-foster-commercial-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T113936">2022-02-17 11:39:36 UTC</a></sub>
 * [ESA to set up committee to study human space exploration options](https://spacenews.com/esa-to-set-up-committee-to-study-human-space-exploration-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T102936">2022-02-17 10:29:36 UTC</a></sub>
-* [Chinese rocket mistaken for a SpaceX upper stage on a collision course with the Moon](https://www.teslarati.com/chinese-rocket-mistaken-spacex-upper-stage-moon-collision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T231951">2022-02-16 23:19:51 UTC</a></sub>
-* [Space Force wants to create a more welcoming environment for private industry](https://spacenews.com/space-force-wants-to-create-a-more-welcoming-environment-for-private-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T223935">2022-02-16 22:39:35 UTC</a></sub>
-* [ABB gets $30 million order for EarthDaily imaging payloads](https://spacenews.com/abb-gets-30-million-order-for-earthdaily-imaging-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T215935">2022-02-16 21:59:35 UTC</a></sub>
-* [Students With Perseverance Receive Messages From Mars, Courtesy of NASA](https://mars.nasa.gov/news/9133/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T195900">2022-02-16 19:59:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [GOES-T: Weather observatory for Western U.S. hoisted atop Atlas V](https://blog.ulalaunch.com/blog/goes-t-weather-observatory-for-western-u.s.-hoisted-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194958">2022-02-17 19:49:58 UTC</a></sub>
 * [Return to Neptune? The plans to send an orbiter to the elusive planet](https://www.planetary.org/articles/return-to-neptune-plans) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T150948">2022-02-17 15:09:48 UTC</a></sub>
 * [Announcing the 2021 Shoemaker NEO Grant Winners](https://www.planetary.org/articles/announcing-the-2021-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T130947">2022-02-16 13:09:47 UTC</a></sub>
 * [How we use starlight to look for alien life](https://www.planetary.org/articles/how-spectroscopy-helps-search-for-alien-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T150948">2022-02-15 15:09:48 UTC</a></sub>
@@ -209,7 +210,6 @@ into a Low Earth Orbit
 * [GOES-T: Atlas V rocket readied to launch U.S. weather observatory](https://blog.ulalaunch.com/blog/goes-t-atlas-v-rocket-readied-to-launch-u.s.-weather-observatory-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220207T162013">2022-02-07 16:20:13 UTC</a></sub>
 * [So much more than meets the eye](https://www.planetary.org/the-downlink/so-much-more-than-meets-the-eye) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220204T153953">2022-02-04 15:39:53 UTC</a></sub>
 * [NASA CLPS Moon landing missions](https://www.planetary.org/space-missions/clps) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220203T150955">2022-02-03 15:09:55 UTC</a></sub>
-* [Cassini, the mission that revealed Saturn](https://www.planetary.org/space-missions/cassini) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220202T150953">2022-02-02 15:09:53 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T193108">2022-02-17 19:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T200222">2022-02-17 20:02:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
