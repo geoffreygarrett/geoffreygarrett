@@ -180,16 +180,16 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Florida’s Space Coast is busier than ever, but there’s room for more](https://spacenews.com/floridas-space-coast-is-busier-than-ever-but-theres-room-for-more/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T230936">2022-02-17 23:09:36 UTC</a></sub>
 * [Eutelsat pushes back return-to-growth forecast amid satellite delays](https://spacenews.com/eutelsat-pushes-back-return-to-growth-forecast-amid-satellite-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T221937">2022-02-17 22:19:37 UTC</a></sub>
 * [Copernic unveils platform with sale of lunar payload](https://spacenews.com/copernic-unveils-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T202936">2022-02-17 20:29:36 UTC</a></sub>
 * [Space acquisition nominee: Satellites must be defended, ‘the economy depends on space’](https://spacenews.com/space-acquisitions-nominee-satellites-must-be-defended-the-economy-depends-on-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T195936">2022-02-17 19:59:36 UTC</a></sub>
 * [Starship lookalike among China’s new human spaceflight concepts](https://spacenews.com/starship-lookalike-among-chinas-new-human-spaceflight-concepts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
-* [State Fight: A coast-to-coast battle to bring home the space jobs](https://spacenews.com/state-fight-a-coast-to-coast-battle-to-bring-home-the-space-jobs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
 * [State Fight: Virginia is for rockets](https://spacenews.com/state-fight-virginia-is-for-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
+* [State Fight: A coast-to-coast battle to bring home the space jobs](https://spacenews.com/state-fight-a-coast-to-coast-battle-to-bring-home-the-space-jobs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
 * [SpaceLink hires Axiom to support ISS communications demonstration](https://spacenews.com/spacelink-taps-axiom-for-iss-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T140936">2022-02-17 14:09:36 UTC</a></sub>
 * [Progress supply freighter docks with space station](https://spaceflightnow.com/2022/02/17/progress-supply-freighter-docks-with-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T123932">2022-02-17 12:39:32 UTC</a></sub>
 * [SpaceX to close out February with two more Starlink launches](https://www.teslarati.com/spacex-february-2022-two-more-starlink-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T120949">2022-02-17 12:09:49 UTC</a></sub>
-* [Astroscale preparing to restart debris-removal demo](https://spacenews.com/astroscale-preparing-to-restart-debris-removal-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T120936">2022-02-17 12:09:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T230247">2022-02-17 23:02:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T233218">2022-02-17 23:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
