@@ -26,6 +26,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <h3 align="center"> Open issues 🆘 </h3>
 
 <!-- github issues starts -->
+* [Very large `.git` history due to old resources from legacy](https://github.com/tudat-team/tudat/issues/66) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T112803">2022-02-17 11:28:03 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Understand and fix rever ("news" workflow)](https://github.com/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Low priority request for docstrings parser](https://github.com/tudat-team/tudat-multidoc/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T215945">2021-12-30 21:59:45 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Start using proper versioning for the conda package](https://github.com/tudat-team/tudat-bundle/issues/5) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T214648">2021-12-30 21:46:48 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
@@ -221,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T110152">2022-02-17 11:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T113100">2022-02-17 11:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
