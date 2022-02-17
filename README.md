@@ -180,7 +180,6 @@ into a Low Earth Orbit
 
 <!-- spaceflight news starts -->
 * [Chinese rocket mistaken for a SpaceX upper stage on a collision course with the Moon](https://www.teslarati.com/chinese-rocket-mistaken-spacex-upper-stage-moon-collision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T231951">2022-02-16 23:19:51 UTC</a></sub>
-* [SpaceX Falcon 9 debris mistaken for Chinese rocket on a collision course with the Moon](https://www.teslarati.com/spacex-falcon-9-mistaken-for-chinese-rocket-moon-collision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T225949">2022-02-16 22:59:49 UTC</a></sub>
 * [Space Force wants to create a more welcoming environment for private industry](https://spacenews.com/space-force-wants-to-create-a-more-welcoming-environment-for-private-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T223935">2022-02-16 22:39:35 UTC</a></sub>
 * [ABB gets $30 million order for EarthDaily imaging payloads](https://spacenews.com/abb-gets-30-million-order-for-earthdaily-imaging-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T215935">2022-02-16 21:59:35 UTC</a></sub>
 * [Students With Perseverance Receive Messages From Mars, Courtesy of NASA](https://mars.nasa.gov/news/9133/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T195900">2022-02-16 19:59:00 UTC</a></sub>
@@ -189,6 +188,7 @@ into a Low Earth Orbit
 * [Astronauts in Europe ask for their own independent crew spacecraft](https://arstechnica.com/science/2022/02/european-astronauts-call-for-development-of-a-crewed-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T145310">2022-02-16 14:53:10 UTC</a></sub>
 * [NASA Advisory Council Welcomes New Members, Sets 2022 Goals](http://www.nasa.gov/press-release/nasa-advisory-council-welcomes-new-members-sets-2022-goals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T141900">2022-02-16 14:19:00 UTC</a></sub>
 * [Phase Four wins DARPA contract to test novel propellant](https://spacenews.com/phase-four-darpa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T130935">2022-02-16 13:09:35 UTC</a></sub>
+* [SpaceX preparing to assemble launch tower for Starship’s first Florida pad](https://www.teslarati.com/spacex-starship-first-florida-pad-launch-tower/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T120952">2022-02-16 12:09:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T050205">2022-02-17 05:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T053109">2022-02-17 05:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
