@@ -180,6 +180,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Copernic unveils platform with sale of lunar payload](https://spacenews.com/copernic-unveils-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T202936">2022-02-17 20:29:36 UTC</a></sub>
 * [Space acquisition nominee: Satellites must be defended, ‘the economy depends on space’](https://spacenews.com/space-acquisitions-nominee-satellites-must-be-defended-the-economy-depends-on-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T195936">2022-02-17 19:59:36 UTC</a></sub>
 * [State Fight: Virginia is for rockets](https://spacenews.com/state-fight-virginia-is-for-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
 * [Starship lookalike among China’s new human spaceflight concepts](https://spacenews.com/starship-lookalike-among-chinas-new-human-spaceflight-concepts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
@@ -189,7 +190,6 @@ into a Low Earth Orbit
 * [SpaceX to close out February with two more Starlink launches](https://www.teslarati.com/spacex-february-2022-two-more-starlink-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T120949">2022-02-17 12:09:49 UTC</a></sub>
 * [Astroscale preparing to restart debris-removal demo](https://spacenews.com/astroscale-preparing-to-restart-debris-removal-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T120936">2022-02-17 12:09:36 UTC</a></sub>
 * [Shanghai signs agreement with China’s megaconstellation group, aims to foster commercial space hub](https://spacenews.com/shanghai-signs-agreement-with-chinas-megaconstellation-group-aims-to-foster-commercial-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T113936">2022-02-17 11:39:36 UTC</a></sub>
-* [ESA to set up committee to study human space exploration options](https://spacenews.com/esa-to-set-up-committee-to-study-human-space-exploration-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T102936">2022-02-17 10:29:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T203140">2022-02-17 20:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T210442">2022-02-17 21:04:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
