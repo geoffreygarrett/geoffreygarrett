@@ -181,6 +181,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OQ Technology’s “wake-up” patent draws yawn from IoT smallsat rival](https://spacenews.com/oq-technologys-wake-up-patent-draws-yawn-from-iot-smallsat-rival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T215936">2022-02-18 21:59:36 UTC</a></sub>
+* [Russian ASAT debris creating “squalls” of close approaches with satellites](https://spacenews.com/russian-asat-debris-creating-squalls-of-close-approaches-with-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T210936">2022-02-18 21:09:36 UTC</a></sub>
 * [New research directly observes atmospheric loss on mini-Neptune exoplanets, provides insight into exoplanet evolution](https://www.nasaspaceflight.com/2022/02/insight-exoplanet-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T170250">2022-02-18 17:02:50 UTC</a></sub>
 * [NASA's Perseverance Celebrates First Year on Mars by Learning to Run](https://mars.nasa.gov/news/9134/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T165900">2022-02-18 16:59:00 UTC</a></sub>
 * [State Fight: Space sector is humming in Huntsville, Alabama](https://spacenews.com/state-fight-space-sector-is-humming-in-huntsville-alabama/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T164946">2022-02-18 16:49:46 UTC</a></sub>
@@ -189,8 +191,6 @@ into a Low Earth Orbit
 * [Blue Origin to increase New Shepard launches in 2022](https://spacenews.com/blue-origin-to-increase-new-shepard-launches-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T125936">2022-02-18 12:59:36 UTC</a></sub>
 * [SpaceX’s South Texas Starship factory has a new tallest building](https://www.teslarati.com/spacex-starbase-new-tallest-building-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T120951">2022-02-18 12:09:51 UTC</a></sub>
 * [Florida’s Space Coast is busier than ever, but there’s room for more](https://spacenews.com/floridas-space-coast-is-busier-than-ever-but-theres-room-for-more/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T230936">2022-02-17 23:09:36 UTC</a></sub>
-* [Eutelsat pushes back return-to-growth forecast amid satellite delays](https://spacenews.com/eutelsat-pushes-back-return-to-growth-forecast-amid-satellite-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T221937">2022-02-17 22:19:37 UTC</a></sub>
-* [Space acquisition nominee: Satellites must be defended, ‘the economy depends on space’](https://spacenews.com/space-acquisitions-nominee-satellites-must-be-defended-the-economy-depends-on-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T195936">2022-02-17 19:59:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T213108">2022-02-18 21:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T220248">2022-02-18 22:02:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
