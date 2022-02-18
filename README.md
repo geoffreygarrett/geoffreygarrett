@@ -181,16 +181,16 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [State Fight: Colorado wages international campaign in space sector](https://spacenews.com/state-fight-colorado-wages-international-campaign-in-space-sector/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T163951">2022-02-18 16:39:51 UTC</a></sub>
+* [NASA TV to Air NOAA’s GOES-T Launch, Prelaunch Activities](http://www.nasa.gov/press-release/nasa-tv-to-air-noaa-s-goes-t-launch-prelaunch-activities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T163900">2022-02-18 16:39:00 UTC</a></sub>
 * [Blue Origin to increase New Shepard launches in 2022](https://spacenews.com/blue-origin-to-increase-new-shepard-launches-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T125936">2022-02-18 12:59:36 UTC</a></sub>
 * [SpaceX’s South Texas Starship factory has a new tallest building](https://www.teslarati.com/spacex-starbase-new-tallest-building-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T120951">2022-02-18 12:09:51 UTC</a></sub>
 * [Florida’s Space Coast is busier than ever, but there’s room for more](https://spacenews.com/floridas-space-coast-is-busier-than-ever-but-theres-room-for-more/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T230936">2022-02-17 23:09:36 UTC</a></sub>
 * [Eutelsat pushes back return-to-growth forecast amid satellite delays](https://spacenews.com/eutelsat-pushes-back-return-to-growth-forecast-amid-satellite-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T221937">2022-02-17 22:19:37 UTC</a></sub>
 * [Space acquisition nominee: Satellites must be defended, ‘the economy depends on space’](https://spacenews.com/space-acquisitions-nominee-satellites-must-be-defended-the-economy-depends-on-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T195936">2022-02-17 19:59:36 UTC</a></sub>
-* [State Fight: Virginia is for rockets](https://spacenews.com/state-fight-virginia-is-for-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
-* [Starship lookalike among China’s new human spaceflight concepts](https://spacenews.com/starship-lookalike-among-chinas-new-human-spaceflight-concepts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
 * [State Fight: A coast-to-coast battle to bring home the space jobs](https://spacenews.com/state-fight-a-coast-to-coast-battle-to-bring-home-the-space-jobs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
-* [SpaceLink hires Axiom to support ISS communications demonstration](https://spacenews.com/spacelink-taps-axiom-for-iss-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T140936">2022-02-17 14:09:36 UTC</a></sub>
-* [Progress supply freighter docks with space station](https://spaceflightnow.com/2022/02/17/progress-supply-freighter-docks-with-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T123932">2022-02-17 12:39:32 UTC</a></sub>
+* [Starship lookalike among China’s new human spaceflight concepts](https://spacenews.com/starship-lookalike-among-chinas-new-human-spaceflight-concepts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
+* [State Fight: Virginia is for rockets](https://spacenews.com/state-fight-virginia-is-for-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194936">2022-02-17 19:49:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What light through yonder prism splits?](https://www.planetary.org/the-downlink/what-light-through-yonder-prism-splits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T153946">2022-02-18 15:39:46 UTC</a></sub>
 * [GOES-T: Weather observatory for Western U.S. hoisted atop Atlas V](https://blog.ulalaunch.com/blog/goes-t-weather-observatory-for-western-u.s.-hoisted-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194958">2022-02-17 19:49:58 UTC</a></sub>
 * [Return to Neptune? The plans to send an orbiter to the elusive planet](https://www.planetary.org/articles/return-to-neptune-plans) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T150948">2022-02-17 15:09:48 UTC</a></sub>
 * [Announcing the 2021 Shoemaker NEO Grant Winners](https://www.planetary.org/articles/announcing-the-2021-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T130947">2022-02-16 13:09:47 UTC</a></sub>
@@ -210,7 +211,6 @@ into a Low Earth Orbit
 * [Student Rocket Launch: Calling All K-12 Rocket Scientists](https://blog.ulalaunch.com/blog/student-rocket-launch-calling-all-k-12-rocket-scientists) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220209T211008">2022-02-09 21:10:08 UTC</a></sub>
 * [GOES-T: Atlas V rocket readied to launch U.S. weather observatory](https://blog.ulalaunch.com/blog/goes-t-atlas-v-rocket-readied-to-launch-u.s.-weather-observatory-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220207T162013">2022-02-07 16:20:13 UTC</a></sub>
 * [So much more than meets the eye](https://www.planetary.org/the-downlink/so-much-more-than-meets-the-eye) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220204T153953">2022-02-04 15:39:53 UTC</a></sub>
-* [NASA CLPS Moon landing missions](https://www.planetary.org/space-missions/clps) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220203T150955">2022-02-03 15:09:55 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T160515">2022-02-18 16:05:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T164912">2022-02-18 16:49:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
