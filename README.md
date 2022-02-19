@@ -180,6 +180,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman Sends NASA Science, Cargo to International Space Station](http://www.nasa.gov/press-release/northrop-grumman-sends-nasa-science-cargo-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T215900">2022-02-19 21:59:00 UTC</a></sub>
 * [State Fight: SpaceX brings business to Brownsville, Texas](https://spacenews.com/state-fight-spacex-brings-business-to-brownsville-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
 * [State Fight: New Mexico’s growing reputation as a space state](https://spacenews.com/state-fight-new-mexicos-growing-reputation-as-a-space-state/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
 * [Northrop Grumman launches newest Antares on NG-17](https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T151630">2022-02-19 15:16:30 UTC</a></sub>
@@ -189,7 +190,6 @@ into a Low Earth Orbit
 * [NASA's Perseverance Celebrates First Year on Mars by Learning to Run](https://mars.nasa.gov/news/9134/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T165900">2022-02-18 16:59:00 UTC</a></sub>
 * [State Fight: Space sector is humming in Huntsville, Alabama](https://spacenews.com/state-fight-space-sector-is-humming-in-huntsville-alabama/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T164946">2022-02-18 16:49:46 UTC</a></sub>
 * [State Fight: Colorado wages international campaign in space sector](https://spacenews.com/state-fight-colorado-wages-international-campaign-in-space-sector/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T163951">2022-02-18 16:39:51 UTC</a></sub>
-* [NASA TV to Air NOAA’s GOES-T Launch, Prelaunch Activities](http://www.nasa.gov/press-release/nasa-tv-to-air-noaa-s-goes-t-launch-prelaunch-activities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T163900">2022-02-18 16:39:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T213056">2022-02-19 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T220250">2022-02-19 22:02:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
