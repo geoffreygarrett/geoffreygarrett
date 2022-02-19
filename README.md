@@ -91,29 +91,29 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Antares 230+ | Cygnus CRS-2 NG-17 (S.S. Piers Sellers) at the
-<a href="">Launch Area 0 A</a> in
-Wallops Island, Virginia, USA
+Falcon 9 Block 5 | Starlink Group 4-8 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T174003">2022-02-19 17:40:03 UTC</a>.  Until
-then, this launch pad will have seen 16
-out of 71 launches in this
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T161300">2022-02-20 16:13:00 UTC</a>.  Until
+then, this launch pad will have seen 135
+out of 834 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* The mission type is
-Resupply and the payload will be injected
+Communications and the payload will be injected
 into a Low Earth Orbit
 (LEO).
 <br>
 <blockquote>
-  This is the 17th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 16th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft is named after American astronaut and climate scientist Piers Sellers. Sellers was a part of three Space Shuttle missions tasked with assembly of the International Space Station.
+  A batch of 46 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Antares_(rocket)#Antares_200" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=37.8337+N,+75.4881+W" >
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ into a Low Earth Orbit
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Cygnus CRS-2 NG-17 (S.S. Piers Sellers)</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T174003">2022-02-19 17:40:03 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-17 (S.S. Piers Sellers)&location=Wallops Island, Virginia, USA&dates=20220219T174003Z%2F20220219T174003Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T161300">2022-02-20 16:13:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-8&location=Cape Canaveral, FL, USA&dates=20220220T161300Z%2F20220220T161300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>L-SAR 01B</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T234400">2022-02-25 23:44:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | L-SAR 01B&location=Jiuquan, People&#x27;s Republic of China&dates=20220225T234400Z%2F20220225T234400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T013000">2022-02-27 01:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 (Core Only) | Hainan-1 to 4 and Others&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220227T013000Z%2F20220227T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -183,7 +182,7 @@ into a Low Earth Orbit
 <!-- spaceflight news starts -->
 * [State Fight: SpaceX brings business to Brownsville, Texas](https://spacenews.com/state-fight-spacex-brings-business-to-brownsville-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
 * [State Fight: New Mexico’s growing reputation as a space state](https://spacenews.com/state-fight-new-mexicos-growing-reputation-as-a-space-state/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
-* [Northrop Grumman ready to launch newest Antares on NG-17](https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T151630">2022-02-19 15:16:30 UTC</a></sub>
+* [Northrop Grumman launches newest Antares on NG-17](https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T151630">2022-02-19 15:16:30 UTC</a></sub>
 * [OQ Technology’s “wake-up” patent draws yawn from IoT smallsat rival](https://spacenews.com/oq-technologys-wake-up-patent-draws-yawn-from-iot-smallsat-rival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T215936">2022-02-18 21:59:36 UTC</a></sub>
 * [Russian ASAT debris creating “squalls” of close approaches with satellites](https://spacenews.com/russian-asat-debris-creating-squalls-of-close-approaches-with-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T210936">2022-02-18 21:09:36 UTC</a></sub>
 * [New research directly observes atmospheric loss on mini-Neptune exoplanets, provides insight into exoplanet evolution](https://www.nasaspaceflight.com/2022/02/insight-exoplanet-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T170250">2022-02-18 17:02:50 UTC</a></sub>
@@ -223,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T173127">2022-02-19 17:31:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T180339">2022-02-19 18:03:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
