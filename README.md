@@ -181,6 +181,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman ready to launch newest Antares on NG-17](https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T151630">2022-02-19 15:16:30 UTC</a></sub>
 * [OQ Technology’s “wake-up” patent draws yawn from IoT smallsat rival](https://spacenews.com/oq-technologys-wake-up-patent-draws-yawn-from-iot-smallsat-rival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T215936">2022-02-18 21:59:36 UTC</a></sub>
 * [Russian ASAT debris creating “squalls” of close approaches with satellites](https://spacenews.com/russian-asat-debris-creating-squalls-of-close-approaches-with-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T210936">2022-02-18 21:09:36 UTC</a></sub>
 * [New research directly observes atmospheric loss on mini-Neptune exoplanets, provides insight into exoplanet evolution](https://www.nasaspaceflight.com/2022/02/insight-exoplanet-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T170250">2022-02-18 17:02:50 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Low Earth Orbit
 * [NASA TV to Air NOAA’s GOES-T Launch, Prelaunch Activities](http://www.nasa.gov/press-release/nasa-tv-to-air-noaa-s-goes-t-launch-prelaunch-activities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T163900">2022-02-18 16:39:00 UTC</a></sub>
 * [Blue Origin to increase New Shepard launches in 2022](https://spacenews.com/blue-origin-to-increase-new-shepard-launches-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T125936">2022-02-18 12:59:36 UTC</a></sub>
 * [SpaceX’s South Texas Starship factory has a new tallest building](https://www.teslarati.com/spacex-starbase-new-tallest-building-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T120951">2022-02-18 12:09:51 UTC</a></sub>
-* [Northrop Grumman ready to launch space station resupply mission](https://spaceflightnow.com/2022/02/18/northrop-grumman-ready-to-launch-space-station-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T105932">2022-02-18 10:59:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T150210">2022-02-19 15:02:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T153519">2022-02-19 15:35:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
