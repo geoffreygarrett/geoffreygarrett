@@ -180,6 +180,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches Starlink satellites to higher orbit](https://spacenews.com/spacex-launches-starlink-satellites-to-higher-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T222938">2022-02-21 22:29:38 UTC</a></sub>
 * [Northrop Grumman delivers cargo and new reboost capability to space station](https://spaceflightnow.com/2022/02/21/northrop-grumman-delivers-cargo-and-new-reboost-capability-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T213933">2022-02-21 21:39:33 UTC</a></sub>
 * [SpaceX Falcon 9 booster aces eleventh launch and landing for the second time](https://www.teslarati.com/spacex-falcon-9-booster-second-eleventh-launch-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T202957">2022-02-21 20:29:57 UTC</a></sub>
 * [SpaceX adds 46 more satellites to Starlink fleet](https://spaceflightnow.com/2022/02/21/spacex-adds-46-more-satellites-to-starlink-fleet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T193933">2022-02-21 19:39:33 UTC</a></sub>
@@ -189,7 +190,6 @@ into a Low Earth Orbit
 * [SpaceX’s Falcon Heavy likely to launch NASA telescope after ULA skips competition](https://www.teslarati.com/spacex-falcon-heavy-nasa-wfirst-ngrst-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T115950">2022-02-21 11:59:50 UTC</a></sub>
 * [State Fight: Shoring up Florida’s Space Coast](https://spacenews.com/state-fight-shoring-up-floridas-space-coast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
 * [State Fight: Michigan economic plan emphasizes satellite communications](https://spacenews.com/state-fight-michigan-economic-plan-emphasizes-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
-* [Next SpaceX launch to deploy fewer Starlink satellites into higher orbit](https://spaceflightnow.com/2022/02/20/next-spacex-launch-to-deploy-fewer-starlink-satellites-into-higher-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T045932">2022-02-20 04:59:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T220254">2022-02-21 22:02:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T223340">2022-02-21 22:33:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
