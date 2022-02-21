@@ -180,6 +180,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia responds to European astronauts: We’ll give you independent spaceflight](https://arstechnica.com/science/2022/02/russia-offers-to-provide-independent-flights-for-european-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T160849">2022-02-21 16:08:49 UTC</a></sub>
 * [China claims rocket stage destined for lunar impact is not from its 2014 moon mission](https://spacenews.com/china-claims-rocket-stage-destined-for-lunar-impact-is-not-from-its-2014-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T130937">2022-02-21 13:09:37 UTC</a></sub>
 * [SpaceX’s Falcon Heavy likely to launch NASA telescope after ULA skips competition](https://www.teslarati.com/spacex-falcon-heavy-nasa-wfirst-ngrst-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T115950">2022-02-21 11:59:50 UTC</a></sub>
 * [State Fight: Shoring up Florida’s Space Coast](https://spacenews.com/state-fight-shoring-up-floridas-space-coast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
@@ -189,7 +190,6 @@ into a Low Earth Orbit
 * [Northrop Grumman Sends NASA Science, Cargo to International Space Station](http://www.nasa.gov/press-release/northrop-grumman-sends-nasa-science-cargo-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T215900">2022-02-19 21:59:00 UTC</a></sub>
 * [State Fight: SpaceX brings business to Brownsville, Texas](https://spacenews.com/state-fight-spacex-brings-business-to-brownsville-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
 * [State Fight: New Mexico’s growing reputation as a space state](https://spacenews.com/state-fight-new-mexicos-growing-reputation-as-a-space-state/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
-* [Northrop Grumman launches newest Antares on NG-17](https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T151630">2022-02-19 15:16:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T160524">2022-02-21 16:05:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T164939">2022-02-21 16:49:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
