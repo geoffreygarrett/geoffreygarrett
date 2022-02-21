@@ -95,7 +95,7 @@ Falcon 9 Block 5 | Starlink Group 4-8 at the
 <a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T143230">2022-02-21 14:32:30 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T144400">2022-02-21 14:44:00 UTC</a>.  Until
 then, this launch pad will have seen 135
 out of 834 launches in this
 region. The mission's status is currently Go for Launch
@@ -126,7 +126,7 @@ into a Low Earth Orbit
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T143230">2022-02-21 14:32:30 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-8&location=Cape Canaveral, FL, USA&dates=20220221T143230Z%2F20220221T143230Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T144400">2022-02-21 14:44:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-8&location=Cape Canaveral, FL, USA&dates=20220221T144400Z%2F20220221T144400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-11</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T154000">2022-02-25 15:40:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-11&location=Vandenberg SFB, CA, USA&dates=20220225T154000Z%2F20220225T213700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>L-SAR 01B</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T234400">2022-02-25 23:44:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | L-SAR 01B&location=Jiuquan, People&#x27;s Republic of China&dates=20220225T234400Z%2F20220225T234400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T013000">2022-02-27 01:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 (Core Only) | Hainan-1 to 4 and Others&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220227T013000Z%2F20220227T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -181,16 +181,16 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China claims rocket stage destined for lunar impact is not from its 2014 moon mission](https://spacenews.com/china-claims-rocket-stage-destined-for-lunar-impact-is-not-from-its-2014-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T130937">2022-02-21 13:09:37 UTC</a></sub>
 * [SpaceX’s Falcon Heavy likely to launch NASA telescope after ULA skips competition](https://www.teslarati.com/spacex-falcon-heavy-nasa-wfirst-ngrst-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T115950">2022-02-21 11:59:50 UTC</a></sub>
-* [State Fight: Michigan economic plan emphasizes satellite communications](https://spacenews.com/state-fight-michigan-economic-plan-emphasizes-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
 * [State Fight: Shoring up Florida’s Space Coast](https://spacenews.com/state-fight-shoring-up-floridas-space-coast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
+* [State Fight: Michigan economic plan emphasizes satellite communications](https://spacenews.com/state-fight-michigan-economic-plan-emphasizes-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
 * [Next SpaceX launch to deploy fewer Starlink satellites into higher orbit](https://spaceflightnow.com/2022/02/20/next-spacex-launch-to-deploy-fewer-starlink-satellites-into-higher-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T045932">2022-02-20 04:59:32 UTC</a></sub>
 * [European Union lays out plan to bolster space traffic management capabilities](https://spacenews.com/european-union-lays-out-plan-to-bolster-space-traffic-management-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T005936">2022-02-20 00:59:36 UTC</a></sub>
 * [Northrop Grumman Sends NASA Science, Cargo to International Space Station](http://www.nasa.gov/press-release/northrop-grumman-sends-nasa-science-cargo-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T215900">2022-02-19 21:59:00 UTC</a></sub>
 * [State Fight: SpaceX brings business to Brownsville, Texas](https://spacenews.com/state-fight-spacex-brings-business-to-brownsville-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
 * [State Fight: New Mexico’s growing reputation as a space state](https://spacenews.com/state-fight-new-mexicos-growing-reputation-as-a-space-state/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
 * [Northrop Grumman launches newest Antares on NG-17](https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T151630">2022-02-19 15:16:30 UTC</a></sub>
-* [Antares rocket launch kicks off space station resupply mission](https://spaceflightnow.com/2022/02/19/antares-rocket-launch-kicks-off-space-station-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T010932">2022-02-19 01:09:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T131033">2022-02-21 13:10:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T133344">2022-02-21 13:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
