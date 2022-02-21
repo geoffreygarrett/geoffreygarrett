@@ -180,6 +180,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon 9 booster aces eleventh launch and landing for the second time](https://www.teslarati.com/spacex-falcon-9-booster-second-eleventh-launch-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T202957">2022-02-21 20:29:57 UTC</a></sub>
 * [SpaceX adds 46 more satellites to Starlink fleet](https://spaceflightnow.com/2022/02/21/spacex-adds-46-more-satellites-to-starlink-fleet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T193933">2022-02-21 19:39:33 UTC</a></sub>
 * [Northrop Grumman to launch new satellite-servicing mission in 2024](https://spacenews.com/northrop-grumman-to-launch-new-satellite-servicing-mission-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T170938">2022-02-21 17:09:38 UTC</a></sub>
 * [Russia responds to European astronauts: We’ll give you independent spaceflight](https://arstechnica.com/science/2022/02/russia-offers-to-provide-independent-flights-for-european-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T160849">2022-02-21 16:08:49 UTC</a></sub>
@@ -189,7 +190,6 @@ into a Low Earth Orbit
 * [State Fight: Michigan economic plan emphasizes satellite communications](https://spacenews.com/state-fight-michigan-economic-plan-emphasizes-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
 * [Next SpaceX launch to deploy fewer Starlink satellites into higher orbit](https://spaceflightnow.com/2022/02/20/next-spacex-launch-to-deploy-fewer-starlink-satellites-into-higher-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T045932">2022-02-20 04:59:32 UTC</a></sub>
 * [European Union lays out plan to bolster space traffic management capabilities](https://spacenews.com/european-union-lays-out-plan-to-bolster-space-traffic-management-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T005936">2022-02-20 00:59:36 UTC</a></sub>
-* [Northrop Grumman Sends NASA Science, Cargo to International Space Station](http://www.nasa.gov/press-release/northrop-grumman-sends-nasa-science-cargo-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T215900">2022-02-19 21:59:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T200324">2022-02-21 20:03:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T203326">2022-02-21 20:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
