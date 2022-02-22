@@ -180,7 +180,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Relativity Space plans upgrade to Terran 1 rocket soon after its initial launch](https://arstechnica.com/science/2022/02/relativity-space-plans-upgrade-to-terran-1-rocket-soon-after-its-initial-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T132930">2022-02-22 13:29:30 UTC</a></sub>
+* [With eyes on reuse, Relativity plans rapid transition to Terran R engines](https://arstechnica.com/science/2022/02/relativity-space-plans-upgrade-to-terran-1-rocket-soon-after-its-initial-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T132930">2022-02-22 13:29:30 UTC</a></sub>
 * [CAPSTONE lunar cubesat mission to launch this spring](https://spacenews.com/capstone-lunar-cubesat-mission-to-launch-this-spring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T122937">2022-02-22 12:29:37 UTC</a></sub>
 * [SpaceX to send retired Starship to local Texas airport, says Elon Musk](https://www.teslarati.com/spacex-starship-display-local-texas-airport-elon-musk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T120954">2022-02-22 12:09:54 UTC</a></sub>
 * [SpaceX launches Starlink satellites to higher orbit](https://spacenews.com/spacex-launches-starlink-satellites-to-higher-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T222938">2022-02-21 22:29:38 UTC</a></sub>
@@ -222,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T140250">2022-02-22 14:02:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T143119">2022-02-22 14:31:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
