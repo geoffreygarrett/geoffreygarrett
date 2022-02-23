@@ -182,6 +182,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NRO chief warns satellite operators to ‘secure their systems’ as Ukraine crisis unfolds](https://spacenews.com/nro-chief-warns-satellite-operators-to-secure-their-systems-as-ukraine-crisis-unfolds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T191938">2022-02-23 19:19:38 UTC</a></sub>
+* [Moon-bound rocket stage still most likely from 2014 Chang’e mission, despite China’s denial](https://spacenews.com/moon-bound-rocket-stage-still-most-likely-from-2014-change-mission-despite-chinas-denial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T183937">2022-02-23 18:39:37 UTC</a></sub>
 * [NASA to Host Virtual Future of Aviation Showcase](http://www.nasa.gov/press-release/nasa-to-host-virtual-future-of-aviation-showcase) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T172900">2022-02-23 17:29:00 UTC</a></sub>
 * [NASA, Axiom to Discuss First Private Astronaut Space Station Mission](http://www.nasa.gov/press-release/nasa-axiom-to-discuss-first-private-astronaut-space-station-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T162900">2022-02-23 16:29:00 UTC</a></sub>
 * [Northrop Grumman wins $341 million Space Force contract to develop a deep-space tracking radar](https://spacenews.com/northrop-grumman-wins-341-million-space-force-contract-to-develop-a-deep-space-tracking-radar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T160938">2022-02-23 16:09:38 UTC</a></sub>
@@ -190,8 +192,6 @@ into a Low Earth Orbit
 * [SpaceX to launch “next-generation satellite-servicing vehicle” for Northrop Grumman](https://www.teslarati.com/spacex-spacelogistics-next-generation-satellite-servicing-vehicle-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T120956">2022-02-23 12:09:56 UTC</a></sub>
 * [Lynk reveals mobile network contracts](https://spacenews.com/lynk-reveals-mobile-network-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T110938">2022-02-23 11:09:38 UTC</a></sub>
 * [Washington state space economy more than doubles](https://spacenews.com/washington-state-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T233938">2022-02-22 23:39:38 UTC</a></sub>
-* [U.S. and international partners to share launch cost of new communications satellite](https://spacenews.com/u-s-and-international-partners-to-share-launch-cost-of-new-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T221938">2022-02-22 22:19:38 UTC</a></sub>
-* [U.S. and allies to strengthen cooperation in space](https://spacenews.com/u-s-and-allies-to-strengthen-cooperation-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T201937">2022-02-22 20:19:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T190204">2022-02-23 19:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T193109">2022-02-23 19:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
