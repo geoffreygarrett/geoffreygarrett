@@ -26,6 +26,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <h3 align="center"> Open issues 🆘 </h3>
 
 <!-- github issues starts -->
+* [Request: change of style for enumeration](https://github.com/tudat-team/tudat-multidoc/issues/35) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T231953">2022-02-22 23:19:53 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Revise "about" page](https://github.com/tudat-team/tudat-space/issues/62) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T130818">2022-02-18 13:08:18 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Very large `.git` history due to old resources from legacy](https://github.com/tudat-team/tudat/issues/66) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T112803">2022-02-17 11:28:03 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Understand and fix rever ("news" workflow)](https://github.com/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
@@ -181,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Washington state space economy more than doubles](https://spacenews.com/washington-state-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T233938">2022-02-22 23:39:38 UTC</a></sub>
 * [U.S. and international partners to share launch cost of new communications satellite](https://spacenews.com/u-s-and-international-partners-to-share-launch-cost-of-new-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T221938">2022-02-22 22:19:38 UTC</a></sub>
 * [U.S. and allies to strengthen cooperation in space](https://spacenews.com/u-s-and-allies-to-strengthen-cooperation-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T201937">2022-02-22 20:19:37 UTC</a></sub>
 * [NASA to Provide Media Update on Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T184900">2022-02-22 18:49:00 UTC</a></sub>
@@ -190,7 +192,6 @@ into a Low Earth Orbit
 * [SpaceX launches Starlink satellites to higher orbit](https://spacenews.com/spacex-launches-starlink-satellites-to-higher-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T222938">2022-02-21 22:29:38 UTC</a></sub>
 * [Northrop Grumman delivers cargo and new reboost capability to space station](https://spaceflightnow.com/2022/02/21/northrop-grumman-delivers-cargo-and-new-reboost-capability-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T213933">2022-02-21 21:39:33 UTC</a></sub>
 * [SpaceX Falcon 9 booster aces eleventh launch and landing for the second time](https://www.teslarati.com/spacex-falcon-9-booster-second-eleventh-launch-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T202957">2022-02-21 20:29:57 UTC</a></sub>
-* [SpaceX adds 46 more satellites to Starlink fleet](https://spaceflightnow.com/2022/02/21/spacex-adds-46-more-satellites-to-starlink-fleet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T193933">2022-02-21 19:39:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T233335">2022-02-22 23:33:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T002538">2022-02-23 00:25:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
