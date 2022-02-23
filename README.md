@@ -182,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Dmitry Rogozin says he does not appreciate “openly hostile” US policy](https://arstechnica.com/science/2022/02/russias-space-chief-is-very-unhappy-with-hostile-us-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T203755">2022-02-23 20:37:55 UTC</a></sub>
 * [NRO chief warns satellite operators to ‘secure their systems’ as Ukraine crisis unfolds](https://spacenews.com/nro-chief-warns-satellite-operators-to-secure-their-systems-as-ukraine-crisis-unfolds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T191938">2022-02-23 19:19:38 UTC</a></sub>
 * [Moon-bound rocket stage still most likely from 2014 Chang’e mission, despite China’s denial](https://spacenews.com/moon-bound-rocket-stage-still-most-likely-from-2014-change-mission-despite-chinas-denial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T183937">2022-02-23 18:39:37 UTC</a></sub>
 * [NASA to Host Virtual Future of Aviation Showcase](http://www.nasa.gov/press-release/nasa-to-host-virtual-future-of-aviation-showcase) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T172900">2022-02-23 17:29:00 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Low Earth Orbit
 * [NOAA seeking information on commercial space situational awareness data](https://spacenews.com/noaa-seeking-information-on-commercial-space-situational-awareness-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T124938">2022-02-23 12:49:38 UTC</a></sub>
 * [SpaceX to launch “next-generation satellite-servicing vehicle” for Northrop Grumman](https://www.teslarati.com/spacex-spacelogistics-next-generation-satellite-servicing-vehicle-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T120956">2022-02-23 12:09:56 UTC</a></sub>
 * [Lynk reveals mobile network contracts](https://spacenews.com/lynk-reveals-mobile-network-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T110938">2022-02-23 11:09:38 UTC</a></sub>
-* [Washington state space economy more than doubles](https://spacenews.com/washington-state-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T233938">2022-02-22 23:39:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T203338">2022-02-23 20:33:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T210356">2022-02-23 21:03:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
