@@ -182,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic has lost $1 billion during the last two years](https://arstechnica.com/science/2022/02/virgin-galactic-has-lost-1-billion-during-the-last-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T140536">2022-02-23 14:05:36 UTC</a></sub>
 * [NOAA seeking information on commercial space situational awareness data](https://spacenews.com/noaa-seeking-information-on-commercial-space-situational-awareness-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T124938">2022-02-23 12:49:38 UTC</a></sub>
 * [SpaceX to launch “next-generation satellite-servicing vehicle” for Northrop Grumman](https://www.teslarati.com/spacex-spacelogistics-next-generation-satellite-servicing-vehicle-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T120956">2022-02-23 12:09:56 UTC</a></sub>
 * [Lynk reveals mobile network contracts](https://spacenews.com/lynk-reveals-mobile-network-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T110938">2022-02-23 11:09:38 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Low Earth Orbit
 * [NASA to Provide Media Update on Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T184900">2022-02-22 18:49:00 UTC</a></sub>
 * [With eyes on reuse, Relativity plans rapid transition to Terran R engines](https://arstechnica.com/science/2022/02/relativity-space-plans-upgrade-to-terran-1-rocket-soon-after-its-initial-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T132930">2022-02-22 13:29:30 UTC</a></sub>
 * [CAPSTONE lunar cubesat mission to launch this spring](https://spacenews.com/capstone-lunar-cubesat-mission-to-launch-this-spring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T122937">2022-02-22 12:29:37 UTC</a></sub>
-* [SpaceX to send retired Starship to local Texas airport, says Elon Musk](https://www.teslarati.com/spacex-starship-display-local-texas-airport-elon-musk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T120954">2022-02-22 12:09:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T140230">2022-02-23 14:02:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T143128">2022-02-23 14:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
