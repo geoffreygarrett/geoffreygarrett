@@ -182,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lynk reveals mobile network contracts](https://spacenews.com/lynk-reveals-mobile-network-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T110938">2022-02-23 11:09:38 UTC</a></sub>
 * [Washington state space economy more than doubles](https://spacenews.com/washington-state-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T233938">2022-02-22 23:39:38 UTC</a></sub>
 * [U.S. and international partners to share launch cost of new communications satellite](https://spacenews.com/u-s-and-international-partners-to-share-launch-cost-of-new-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T221938">2022-02-22 22:19:38 UTC</a></sub>
 * [U.S. and allies to strengthen cooperation in space](https://spacenews.com/u-s-and-allies-to-strengthen-cooperation-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T201937">2022-02-22 20:19:37 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Low Earth Orbit
 * [SpaceX to send retired Starship to local Texas airport, says Elon Musk](https://www.teslarati.com/spacex-starship-display-local-texas-airport-elon-musk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T120954">2022-02-22 12:09:54 UTC</a></sub>
 * [Virgin Galactic on schedule to start commercial human suborbital flights this year](https://spacenews.com/virgin-galactic-on-schedule-to-start-commercial-human-suborbital-flights-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T031937">2022-02-22 03:19:37 UTC</a></sub>
 * [SpaceX launches Starlink satellites to higher orbit](https://spacenews.com/spacex-launches-starlink-satellites-to-higher-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T222938">2022-02-21 22:29:38 UTC</a></sub>
-* [Northrop Grumman delivers cargo and new reboost capability to space station](https://spaceflightnow.com/2022/02/21/northrop-grumman-delivers-cargo-and-new-reboost-capability-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T213933">2022-02-21 21:39:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T110208">2022-02-23 11:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T113103">2022-02-23 11:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
