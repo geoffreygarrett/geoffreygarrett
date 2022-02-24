@@ -185,11 +185,11 @@ into a Low Earth Orbit
 * [U.S. and Europe say space cooperation with Russia not affected yet by Ukraine crisis](https://spacenews.com/u-s-and-europe-say-space-cooperation-with-russia-not-affected-yet-by-ukraine-crisis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T223937">2022-02-23 22:39:37 UTC</a></sub>
 * [Space Force procurement command trying to bring ‘unity of effort’ to space programs](https://spacenews.com/space-force-procurement-command-trying-to-bring-unity-of-effort-to-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T222937">2022-02-23 22:29:37 UTC</a></sub>
 * [Dmitry Rogozin says he does not appreciate “openly hostile” US policy](https://arstechnica.com/science/2022/02/russias-space-chief-is-very-unhappy-with-hostile-us-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T203755">2022-02-23 20:37:55 UTC</a></sub>
-* [NRO chief warns satellite operators to ‘secure their systems’ as Ukraine crisis unfolds](https://spacenews.com/nro-chief-warns-satellite-operators-to-secure-their-systems-as-ukraine-crisis-unfolds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T191938">2022-02-23 19:19:38 UTC</a></sub>
 * [Moon-bound rocket stage still most likely from 2014 Chang’e mission, despite China’s denial](https://spacenews.com/moon-bound-rocket-stage-still-most-likely-from-2014-change-mission-despite-chinas-denial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T183937">2022-02-23 18:39:37 UTC</a></sub>
 * [NASA to Host Virtual Future of Aviation Showcase](http://www.nasa.gov/press-release/nasa-to-host-virtual-future-of-aviation-showcase) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T172900">2022-02-23 17:29:00 UTC</a></sub>
 * [NASA, Axiom to Discuss First Private Astronaut Space Station Mission](http://www.nasa.gov/press-release/nasa-axiom-to-discuss-first-private-astronaut-space-station-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T162900">2022-02-23 16:29:00 UTC</a></sub>
 * [Northrop Grumman wins $341 million Space Force contract to develop a deep-space tracking radar](https://spacenews.com/northrop-grumman-wins-341-million-space-force-contract-to-develop-a-deep-space-tracking-radar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T160938">2022-02-23 16:09:38 UTC</a></sub>
+* [NRO warns satellite operators of possible Russian attacks](https://spacenews.com/nro-chief-warns-satellite-operators-to-secure-their-systems-as-ukraine-crisis-unfolds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T141938">2022-02-23 14:19:38 UTC</a></sub>
 * [Virgin Galactic has lost $1 billion during the last two years](https://arstechnica.com/science/2022/02/virgin-galactic-has-lost-1-billion-during-the-last-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T140536">2022-02-23 14:05:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T140422">2022-02-24 14:04:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T150549">2022-02-24 15:05:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
