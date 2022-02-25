@@ -181,6 +181,8 @@ into a Sun-Synchronous Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Previous invasion of Ukraine had serious repercussions for the space sector](https://spacenews.com/ukraine-impact-on-u-s-russia-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T195349">2022-02-25 19:53:49 UTC</a></sub>
+* [More spaceports, more problems](https://spacenews.com/more-spaceports-more-problems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T194348">2022-02-25 19:43:48 UTC</a></sub>
 * [The Russian invasion of Ukraine will have myriad impacts on spaceflight](https://arstechnica.com/science/2022/02/the-russian-invasion-of-ukraine-will-have-myriad-impacts-on-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T190037">2022-02-25 19:00:37 UTC</a></sub>
 * [ULA: Russia sanctions not expected to disrupt Atlas 5 operations](https://spacenews.com/ula-russia-sanctions-not-expected-to-disrupt-atlas-5-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T144348">2022-02-25 14:43:48 UTC</a></sub>
 * [ESA to continue cooperation but monitoring situation following Russia’s invasion of Ukraine](https://spacenews.com/esa-to-continue-cooperation-but-monitoring-situation-following-russias-invasion-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T125349">2022-02-25 12:53:49 UTC</a></sub>
@@ -189,8 +191,6 @@ into a Sun-Synchronous Orbit
 * [Fifty more Starlink satellites ready for launch Friday](https://spaceflightnow.com/2022/02/24/fifty-more-starlink-satellites-ready-for-launch-friday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T061344">2022-02-24 06:13:44 UTC</a></sub>
 * [SpaceX set for third Starlink launch in a row [webcast]](https://www.teslarati.com/spacex-falcon-9-five-starlink-launches-in-a-row/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051427">2022-02-24 05:14:27 UTC</a></sub>
 * [SpaceX’s Starbase environmental review delayed another month](https://www.teslarati.com/spacex-starbase-environmental-review-more-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051418">2022-02-24 05:14:18 UTC</a></sub>
-* [Relativity Space reveals plans to rapidly upgrade 3D-printed Terran 1 rocket](https://www.teslarati.com/relativity-space-reveals-plans-to-rapidly-upgrade-3d-printed-terran-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051408">2022-02-24 05:14:08 UTC</a></sub>
-* [SpaceLink adds smaller satellites to data-relay constellation](https://spacenews.com/spacelink-adds-smaller-satellites-to-roadmap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T193120">2022-02-25 19:31:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T200340">2022-02-25 20:03:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
