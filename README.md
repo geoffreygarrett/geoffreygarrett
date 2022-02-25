@@ -181,6 +181,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA to continue cooperation but monitoring situation following Russia’s invasion of Ukraine](https://spacenews.com/esa-to-continue-cooperation-but-monitoring-situation-following-russias-invasion-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T125349">2022-02-25 12:53:49 UTC</a></sub>
 * [NASA to roll out SLS in mid-March for launch rehearsal](https://spacenews.com/nasa-to-roll-out-sls-in-mid-march-for-launch-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T124348">2022-02-25 12:43:48 UTC</a></sub>
 * [Rocket Report: SLS rocket almost ready to roll, ULA workers prepared to strike](https://arstechnica.com/science/2022/02/rocket-report-sls-rocket-almost-ready-to-roll-ula-workers-prepared-to-strike/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T120009">2022-02-25 12:00:09 UTC</a></sub>
 * [Fifty more Starlink satellites ready for launch Friday](https://spaceflightnow.com/2022/02/24/fifty-more-starlink-satellites-ready-for-launch-friday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T061344">2022-02-24 06:13:44 UTC</a></sub>
@@ -188,9 +189,8 @@ into a Low Earth Orbit
 * [SpaceX’s Starbase environmental review delayed another month](https://www.teslarati.com/spacex-starbase-environmental-review-more-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051418">2022-02-24 05:14:18 UTC</a></sub>
 * [Relativity Space reveals plans to rapidly upgrade 3D-printed Terran 1 rocket](https://www.teslarati.com/relativity-space-reveals-plans-to-rapidly-upgrade-3d-printed-terran-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051408">2022-02-24 05:14:08 UTC</a></sub>
 * [SpaceLink adds smaller satellites to data-relay constellation](https://spacenews.com/spacelink-adds-smaller-satellites-to-roadmap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
-* [AE Industrial Partners to acquire stake in Firefly from Noosphere](https://spacenews.com/ae-industrial-partners-to-acquire-stake-in-firefly-from-noosphere/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
-* [U.S. Space Command needs help identifying hostile intent in space](https://spacenews.com/u-s-space-command-needs-help-identifying-hostile-intent-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
 * [Orbital Sidekick notes growing demand for hyperspectral data](https://spacenews.com/orbital-sidekick-aurora-in-q-tel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
+* [U.S. Space Command needs help identifying hostile intent in space](https://spacenews.com/u-s-space-command-needs-help-identifying-hostile-intent-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T131036">2022-02-25 13:10:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T133351">2022-02-25 13:33:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
