@@ -181,6 +181,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to roll out SLS in mid-March for launch rehearsal](https://spacenews.com/nasa-to-roll-out-sls-in-mid-march-for-launch-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T124348">2022-02-25 12:43:48 UTC</a></sub>
 * [Rocket Report: SLS rocket almost ready to roll, ULA workers prepared to strike](https://arstechnica.com/science/2022/02/rocket-report-sls-rocket-almost-ready-to-roll-ula-workers-prepared-to-strike/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T120009">2022-02-25 12:00:09 UTC</a></sub>
 * [Fifty more Starlink satellites ready for launch Friday](https://spaceflightnow.com/2022/02/24/fifty-more-starlink-satellites-ready-for-launch-friday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T061344">2022-02-24 06:13:44 UTC</a></sub>
 * [SpaceX set for third Starlink launch in a row [webcast]](https://www.teslarati.com/spacex-falcon-9-five-starlink-launches-in-a-row/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051427">2022-02-24 05:14:27 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Low Earth Orbit
 * [AE Industrial Partners to acquire stake in Firefly from Noosphere](https://spacenews.com/ae-industrial-partners-to-acquire-stake-in-firefly-from-noosphere/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
 * [U.S. Space Command needs help identifying hostile intent in space](https://spacenews.com/u-s-space-command-needs-help-identifying-hostile-intent-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
 * [Orbital Sidekick notes growing demand for hyperspectral data](https://spacenews.com/orbital-sidekick-aurora-in-q-tel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
-* [Biden: Sanctions will “degrade” Russian space program](https://spacenews.com/biden-sanctions-will-degrade-russian-space-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T120820">2022-02-25 12:08:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T125028">2022-02-25 12:50:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
