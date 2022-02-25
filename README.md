@@ -181,6 +181,7 @@ into a Sun-Synchronous Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Russian invasion of Ukraine will have myriad impacts on spaceflight](https://arstechnica.com/science/2022/02/the-russian-invasion-of-ukraine-will-have-myriad-impacts-on-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T190037">2022-02-25 19:00:37 UTC</a></sub>
 * [ULA: Russia sanctions not expected to disrupt Atlas 5 operations](https://spacenews.com/ula-russia-sanctions-not-expected-to-disrupt-atlas-5-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T144348">2022-02-25 14:43:48 UTC</a></sub>
 * [ESA to continue cooperation but monitoring situation following Russia’s invasion of Ukraine](https://spacenews.com/esa-to-continue-cooperation-but-monitoring-situation-following-russias-invasion-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T125349">2022-02-25 12:53:49 UTC</a></sub>
 * [NASA to roll out SLS in mid-March for launch rehearsal](https://spacenews.com/nasa-to-roll-out-sls-in-mid-march-for-launch-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T124348">2022-02-25 12:43:48 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Sun-Synchronous Orbit
 * [SpaceX’s Starbase environmental review delayed another month](https://www.teslarati.com/spacex-starbase-environmental-review-more-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051418">2022-02-24 05:14:18 UTC</a></sub>
 * [Relativity Space reveals plans to rapidly upgrade 3D-printed Terran 1 rocket](https://www.teslarati.com/relativity-space-reveals-plans-to-rapidly-upgrade-3d-printed-terran-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051408">2022-02-24 05:14:08 UTC</a></sub>
 * [SpaceLink adds smaller satellites to data-relay constellation](https://spacenews.com/spacelink-adds-smaller-satellites-to-roadmap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
-* [U.S. Space Command needs help identifying hostile intent in space](https://spacenews.com/u-s-space-command-needs-help-identifying-hostile-intent-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T051349">2022-02-24 05:13:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T190220">2022-02-25 19:02:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T193120">2022-02-25 19:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
