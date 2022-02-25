@@ -201,6 +201,7 @@ into a Sun-Synchronous Orbit
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [RocketShip: Latest run from factory supports three launches](https://blog.ulalaunch.com/blog/rocketship-latest-run-from-factory-supports-three-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T162414">2022-02-25 16:24:14 UTC</a></sub>
 * [An ice giant and its dwarf companion](https://www.planetary.org/the-downlink/an-ice-giant-and-its-dwarf-companion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T153403">2022-02-25 15:34:03 UTC</a></sub>
 * [What light through yonder prism splits?](https://www.planetary.org/the-downlink/what-light-through-yonder-prism-splits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T153946">2022-02-18 15:39:46 UTC</a></sub>
 * [GOES-T: Weather observatory for Western U.S. hoisted atop Atlas V](https://blog.ulalaunch.com/blog/goes-t-weather-observatory-for-western-u.s.-hoisted-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194958">2022-02-17 19:49:58 UTC</a></sub>
@@ -210,7 +211,6 @@ into a Sun-Synchronous Orbit
 * [Day of Action Deep Prep: Artemis](https://www.planetary.org/advocacy/day-of-action-deep-prep-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T180955">2022-02-11 18:09:55 UTC</a></sub>
 * [Olympic-worthy world(s) records](https://www.planetary.org/the-downlink/olympic-worthy-worlds-records) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T153952">2022-02-11 15:39:52 UTC</a></sub>
 * [Student Rocket Launch: Calling All K-12 Rocket Scientists](https://blog.ulalaunch.com/blog/student-rocket-launch-calling-all-k-12-rocket-scientists) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220209T211008">2022-02-09 21:10:08 UTC</a></sub>
-* [GOES-T: Atlas V rocket readied to launch U.S. weather observatory](https://blog.ulalaunch.com/blog/goes-t-atlas-v-rocket-readied-to-launch-u.s.-weather-observatory-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220207T162013">2022-02-07 16:20:13 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ into a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T160432">2022-02-25 16:04:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T164949">2022-02-25 16:49:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
