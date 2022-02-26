@@ -181,6 +181,7 @@ into a Sun-Synchronous Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Xplore banks $16.2 million for space-as-a-service](https://spacenews.com/xplore-banks-16-2-million-to-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T182348">2022-02-26 18:23:48 UTC</a></sub>
 * [Russia halts Soyuz launches from French Guiana](https://spacenews.com/russia-halts-soyuz-launches-from-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T172349">2022-02-26 17:23:49 UTC</a></sub>
 * [Russia pulls out of European spaceport, abandoning a planned launch](https://arstechnica.com/science/2022/02/russia-pulls-out-of-european-spaceport-abandoning-a-planned-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T163828">2022-02-26 16:38:28 UTC</a></sub>
 * [Sierra Space to study Dream Chaser landings in Japan](https://spacenews.com/sierra-space-to-study-dream-chaser-landings-in-japan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T140349">2022-02-26 14:03:49 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Sun-Synchronous Orbit
 * [More spaceports, more problems](https://spacenews.com/more-spaceports-more-problems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T194348">2022-02-25 19:43:48 UTC</a></sub>
 * [The Russian invasion of Ukraine will have myriad impacts on spaceflight](https://arstechnica.com/science/2022/02/the-russian-invasion-of-ukraine-will-have-myriad-impacts-on-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T190037">2022-02-25 19:00:37 UTC</a></sub>
 * [ULA: Russia sanctions not expected to disrupt Atlas 5 operations](https://spacenews.com/ula-russia-sanctions-not-expected-to-disrupt-atlas-5-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T144348">2022-02-25 14:43:48 UTC</a></sub>
-* [ESA to continue cooperation but monitoring situation following Russia’s invasion of Ukraine](https://spacenews.com/esa-to-continue-cooperation-but-monitoring-situation-following-russias-invasion-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T125349">2022-02-25 12:53:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T180410">2022-02-26 18:04:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T183740">2022-02-26 18:37:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
