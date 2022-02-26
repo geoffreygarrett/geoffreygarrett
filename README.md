@@ -181,6 +181,7 @@ into a Sun-Synchronous Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia pulls out of European spaceport, abandoning a planned launch](https://arstechnica.com/science/2022/02/russia-pulls-out-of-european-spaceport-abandoning-a-planned-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T163828">2022-02-26 16:38:28 UTC</a></sub>
 * [Sierra Space to study Dream Chaser landings in Japan](https://spacenews.com/sierra-space-to-study-dream-chaser-landings-in-japan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T140349">2022-02-26 14:03:49 UTC</a></sub>
 * [SpaceX makes its case for space sustainability with latest Starlink launch](https://spacenews.com/spacex-makes-its-case-for-space-sustainability-with-latest-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T205347">2022-02-25 20:53:47 UTC</a></sub>
 * [NASA Selects Futuristic Space Technology Concepts for Early Study](http://www.nasa.gov/press-release/nasa-selects-futuristic-space-technology-concepts-for-early-study) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T200300">2022-02-25 20:03:00 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Sun-Synchronous Orbit
 * [ULA: Russia sanctions not expected to disrupt Atlas 5 operations](https://spacenews.com/ula-russia-sanctions-not-expected-to-disrupt-atlas-5-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T144348">2022-02-25 14:43:48 UTC</a></sub>
 * [ESA to continue cooperation but monitoring situation following Russia’s invasion of Ukraine](https://spacenews.com/esa-to-continue-cooperation-but-monitoring-situation-following-russias-invasion-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T125349">2022-02-25 12:53:49 UTC</a></sub>
 * [NASA to roll out SLS in mid-March for launch rehearsal](https://spacenews.com/nasa-to-roll-out-sls-in-mid-march-for-launch-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T124348">2022-02-25 12:43:48 UTC</a></sub>
-* [Rocket Report: SLS rocket almost ready to roll, ULA workers prepared to strike](https://arstechnica.com/science/2022/02/rocket-report-sls-rocket-almost-ready-to-roll-ula-workers-prepared-to-strike/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T120009">2022-02-25 12:00:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T160316">2022-02-26 16:03:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T164804">2022-02-26 16:48:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
