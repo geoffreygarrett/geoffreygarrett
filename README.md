@@ -187,6 +187,7 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China launches national record 22 satellites on Long March 8 commercial rideshare](https://spacenews.com/china-launches-national-record-22-satellites-on-long-march-8-commercial-rideshare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T145348">2022-02-27 14:53:48 UTC</a></sub>
 * [Russia suspends Soyuz launch operations in French Guiana](https://spaceflightnow.com/2022/02/26/russia-suspends-soyuz-launch-operations-in-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T210345">2022-02-26 21:03:45 UTC</a></sub>
 * [Xplore banks $16.2 million for space-as-a-service](https://spacenews.com/xplore-banks-16-2-million-to-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T182348">2022-02-26 18:23:48 UTC</a></sub>
 * [Russia halts Soyuz launches from French Guiana](https://spacenews.com/russia-halts-soyuz-launches-from-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T172349">2022-02-26 17:23:49 UTC</a></sub>
@@ -196,7 +197,6 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 * [NASA Selects Futuristic Space Technology Concepts for Early Study](http://www.nasa.gov/press-release/nasa-selects-futuristic-space-technology-concepts-for-early-study) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T200300">2022-02-25 20:03:00 UTC</a></sub>
 * [Previous invasion of Ukraine had serious repercussions for the space sector](https://spacenews.com/ukraine-impact-on-u-s-russia-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T195349">2022-02-25 19:53:49 UTC</a></sub>
 * [More spaceports, more problems](https://spacenews.com/more-spaceports-more-problems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T194348">2022-02-25 19:43:48 UTC</a></sub>
-* [The Russian invasion of Ukraine will have myriad impacts on spaceflight](https://arstechnica.com/science/2022/02/the-russian-invasion-of-ukraine-will-have-myriad-impacts-on-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T190037">2022-02-25 19:00:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T143122">2022-02-27 14:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T150309">2022-02-27 15:03:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
