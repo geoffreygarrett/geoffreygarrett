@@ -187,8 +187,8 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Atlas 5 rocket rolls to launch pad with weather satellite](https://spaceflightnow.com/2022/02/28/atlas-5-goes-t-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T165344">2022-02-28 16:53:44 UTC</a></sub>
 * [Lockheed Martin, Northrop Grumman, York Space selected to build DoD’s internet-in-space constellation](https://spacenews.com/lockheed-martin-northrop-grumman-york-space-selected-to-build-dods-internet-in-space-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T161350">2022-02-28 16:13:50 UTC</a></sub>
-* [Watch live: Atlas 5 rocket rolling to launch pad with weather satellite](https://spaceflightnow.com/2022/02/28/atlas-5-goes-t-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T151344">2022-02-28 15:13:44 UTC</a></sub>
 * [ESA statement regarding cooperation with Russia following a meeting with Member States on 28 February 2022](https://www.esa.int/Newsroom/Press_Releases/ESA_statement_regarding_cooperation_with_Russia_following_a_meeting_with_Member_States_on_28_February_2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T140000">2022-02-28 14:00:00 UTC</a></sub>
 * [SpaceX a bastion of independent US, European spaceflight amid Russian threats](https://www.teslarati.com/spacex-russia-ukraine-invasion-western-spaceflight-independence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T122408">2022-02-28 12:24:08 UTC</a></sub>
 * [GOES-T nears launch as NASA plans studies of next-generation weather satellite](https://spacenews.com/goes-t-nears-launch-as-nasa-plans-studies-of-next-generation-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T121349">2022-02-28 12:13:49 UTC</a></sub>
@@ -207,6 +207,7 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Rocketstars: ULA integrator guides GOES-T to launch pad](https://blog.ulalaunch.com/blog/rocketstars-ula-integrator-guides-goes-t-to-launch-pad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T172416">2022-02-28 17:24:16 UTC</a></sub>
 * [Why you should advocate for planetary defense](https://www.planetary.org/articles/why-you-should-advocate-for-planetary-defense) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T161405">2022-02-28 16:14:05 UTC</a></sub>
 * [RocketShip: Latest run from factory supports three launches](https://blog.ulalaunch.com/blog/rocketship-latest-run-from-factory-supports-three-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T162414">2022-02-25 16:24:14 UTC</a></sub>
 * [An ice giant and its dwarf companion](https://www.planetary.org/the-downlink/an-ice-giant-and-its-dwarf-companion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T153403">2022-02-25 15:34:03 UTC</a></sub>
@@ -216,7 +217,6 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 * [Announcing the 2021 Shoemaker NEO Grant Winners](https://www.planetary.org/articles/announcing-the-2021-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T130947">2022-02-16 13:09:47 UTC</a></sub>
 * [How we use starlight to look for alien life](https://www.planetary.org/articles/how-spectroscopy-helps-search-for-alien-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T150948">2022-02-15 15:09:48 UTC</a></sub>
 * [Day of Action Deep Prep: Artemis](https://www.planetary.org/advocacy/day-of-action-deep-prep-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T180955">2022-02-11 18:09:55 UTC</a></sub>
-* [Olympic-worthy world(s) records](https://www.planetary.org/the-downlink/olympic-worthy-worlds-records) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T153952">2022-02-11 15:39:52 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -229,7 +229,7 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T170824">2022-02-28 17:08:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T173501">2022-02-28 17:35:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
