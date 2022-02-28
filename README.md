@@ -187,6 +187,8 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX a bastion of independent US, European spaceflight amid Russian threats](https://www.teslarati.com/spacex-russia-ukraine-invasion-western-spaceflight-independence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T122408">2022-02-28 12:24:08 UTC</a></sub>
+* [GOES-T nears launch as NASA plans studies of next-generation weather satellite](https://spacenews.com/goes-t-nears-launch-as-nasa-plans-studies-of-next-generation-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T121349">2022-02-28 12:13:49 UTC</a></sub>
 * [China launches national record 22 satellites on Long March 8 commercial rideshare](https://spacenews.com/china-launches-national-record-22-satellites-on-long-march-8-commercial-rideshare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T145348">2022-02-27 14:53:48 UTC</a></sub>
 * [Satellite imaging companies increase profile as they track Russia’s invasion of Ukraine](https://spacenews.com/satellite-imaging-companies-increase-profile-as-they-track-russias-invasion-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T000349">2022-02-27 00:03:49 UTC</a></sub>
 * [Russia suspends Soyuz launch operations in French Guiana](https://spaceflightnow.com/2022/02/26/russia-suspends-soyuz-launch-operations-in-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T210345">2022-02-26 21:03:45 UTC</a></sub>
@@ -195,8 +197,6 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 * [Russia pulls out of European spaceport, abandoning a planned launch](https://arstechnica.com/science/2022/02/russia-pulls-out-of-european-spaceport-abandoning-a-planned-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T163828">2022-02-26 16:38:28 UTC</a></sub>
 * [Sierra Space to study Dream Chaser landings in Japan](https://spacenews.com/sierra-space-to-study-dream-chaser-landings-in-japan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T140349">2022-02-26 14:03:49 UTC</a></sub>
 * [SpaceX makes its case for space sustainability with latest Starlink launch](https://spacenews.com/spacex-makes-its-case-for-space-sustainability-with-latest-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T205347">2022-02-25 20:53:47 UTC</a></sub>
-* [NASA Selects Futuristic Space Technology Concepts for Early Study](http://www.nasa.gov/press-release/nasa-selects-futuristic-space-technology-concepts-for-early-study) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T200300">2022-02-25 20:03:00 UTC</a></sub>
-* [Previous invasion of Ukraine had serious repercussions for the space sector](https://spacenews.com/ukraine-impact-on-u-s-russia-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T195349">2022-02-25 19:53:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T120842">2022-02-28 12:08:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T125126">2022-02-28 12:51:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
