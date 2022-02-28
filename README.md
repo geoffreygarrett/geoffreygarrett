@@ -190,7 +190,7 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 * [SpaceX a bastion of independent US, European spaceflight amid Russian threats](https://www.teslarati.com/spacex-russia-ukraine-invasion-western-spaceflight-independence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T122408">2022-02-28 12:24:08 UTC</a></sub>
 * [GOES-T nears launch as NASA plans studies of next-generation weather satellite](https://spacenews.com/goes-t-nears-launch-as-nasa-plans-studies-of-next-generation-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T121349">2022-02-28 12:13:49 UTC</a></sub>
 * [China launches national record 22 satellites on Long March 8 commercial rideshare](https://spacenews.com/china-launches-national-record-22-satellites-on-long-march-8-commercial-rideshare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T145348">2022-02-27 14:53:48 UTC</a></sub>
-* [Satellite imaging companies increase profile as they track Russia’s invasion of Ukraine](https://spacenews.com/satellite-imaging-companies-increase-profile-as-they-track-russias-invasion-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T000349">2022-02-27 00:03:49 UTC</a></sub>
+* [Commercial spy satellites put Russia’s Ukraine invasion in the public eye](https://spacenews.com/satellite-imaging-companies-increase-profile-as-they-track-russias-invasion-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T133349">2022-02-27 13:33:49 UTC</a></sub>
 * [Russia suspends Soyuz launch operations in French Guiana](https://spaceflightnow.com/2022/02/26/russia-suspends-soyuz-launch-operations-in-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T210345">2022-02-26 21:03:45 UTC</a></sub>
 * [Xplore banks $16.2 million for space-as-a-service](https://spacenews.com/xplore-banks-16-2-million-to-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T182348">2022-02-26 18:23:48 UTC</a></sub>
 * [Russia halts Soyuz launches from French Guiana](https://spacenews.com/russia-halts-soyuz-launches-from-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T172349">2022-02-26 17:23:49 UTC</a></sub>
@@ -229,7 +229,7 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T131130">2022-02-28 13:11:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T133454">2022-02-28 13:34:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
