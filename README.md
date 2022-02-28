@@ -179,6 +179,7 @@ into a Geostationary Transfer Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA wants to maintain Russia partnership but is studying “operational flexibilities”](https://arstechnica.com/science/2022/02/despite-tensions-nasa-spaceflight-chief-urges-us-russia-cooperation-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T231427">2022-02-28 23:14:27 UTC</a></sub>
 * [SpaceX delivers truckload of Starlink dishes to Ukraine, as promised](https://www.teslarati.com/spacex-starlink-dishes-arrive-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T221409">2022-02-28 22:14:09 UTC</a></sub>
 * [NASA Awards Contract for Safety and Mission Assurance Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-safety-and-mission-assurance-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T210400">2022-02-28 21:04:00 UTC</a></sub>
 * [NASA Promotes Howard Hu to Lead Orion Ahead of First Artemis Mission](http://www.nasa.gov/press-release/nasa-promotes-howard-hu-to-lead-orion-ahead-of-first-artemis-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T203300">2022-02-28 20:33:00 UTC</a></sub>
@@ -188,7 +189,6 @@ into a Geostationary Transfer Orbit
 * [Atlas 5 rocket rolls to launch pad with weather satellite](https://spaceflightnow.com/2022/02/28/atlas-5-goes-t-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T165344">2022-02-28 16:53:44 UTC</a></sub>
 * [Lockheed Martin, Northrop Grumman, York Space selected to build DoD’s internet-in-space constellation](https://spacenews.com/lockheed-martin-northrop-grumman-york-space-selected-to-build-dods-internet-in-space-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T161350">2022-02-28 16:13:50 UTC</a></sub>
 * [ESA statement regarding cooperation with Russia following a meeting with Member States on 28 February 2022](https://www.esa.int/Newsroom/Press_Releases/ESA_statement_regarding_cooperation_with_Russia_following_a_meeting_with_Member_States_on_28_February_2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T140000">2022-02-28 14:00:00 UTC</a></sub>
-* [SpaceX a bastion of independent US, European spaceflight amid Russian threats](https://www.teslarati.com/spacex-russia-ukraine-invasion-western-spaceflight-independence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T122408">2022-02-28 12:24:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ into a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T230254">2022-02-28 23:02:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T233406">2022-02-28 23:34:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
