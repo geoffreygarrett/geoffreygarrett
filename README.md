@@ -179,6 +179,7 @@ into a Geostationary Transfer Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Contract for Safety and Mission Assurance Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-safety-and-mission-assurance-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T210400">2022-02-28 21:04:00 UTC</a></sub>
 * [NASA Promotes Howard Hu to Lead Orion Ahead of First Artemis Mission](http://www.nasa.gov/press-release/nasa-promotes-howard-hu-to-lead-orion-ahead-of-first-artemis-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T203300">2022-02-28 20:33:00 UTC</a></sub>
 * [Russia-Ukraine war raises questions for upcoming OneWeb launches](https://spacenews.com/russia-ukraine-war-raises-questions-for-upcoming-oneweb-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T195349">2022-02-28 19:53:49 UTC</a></sub>
 * [SpaceX heeds Ukraine’s Starlink SOS](https://spacenews.com/spacex-heeds-ukraines-starlink-sos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T180350">2022-02-28 18:03:50 UTC</a></sub>
@@ -188,7 +189,6 @@ into a Geostationary Transfer Orbit
 * [ESA statement regarding cooperation with Russia following a meeting with Member States on 28 February 2022](https://www.esa.int/Newsroom/Press_Releases/ESA_statement_regarding_cooperation_with_Russia_following_a_meeting_with_Member_States_on_28_February_2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T140000">2022-02-28 14:00:00 UTC</a></sub>
 * [SpaceX a bastion of independent US, European spaceflight amid Russian threats](https://www.teslarati.com/spacex-russia-ukraine-invasion-western-spaceflight-independence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T122408">2022-02-28 12:24:08 UTC</a></sub>
 * [GOES-T nears launch as NASA plans studies of next-generation weather satellite](https://spacenews.com/goes-t-nears-launch-as-nasa-plans-studies-of-next-generation-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T121349">2022-02-28 12:13:49 UTC</a></sub>
-* [China launches national record 22 satellites on Long March 8 commercial rideshare](https://spacenews.com/china-launches-national-record-22-satellites-on-long-march-8-commercial-rideshare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T145348">2022-02-27 14:53:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ into a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T213143">2022-02-28 21:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T220312">2022-02-28 22:03:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
