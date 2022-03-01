@@ -181,6 +181,7 @@ into a Geostationary Transfer Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EOS Data Analytics issues urgent plea for imagery of Ukraine](https://spacenews.com/eos-plea-for-imagery-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T061348">2022-03-01 06:13:48 UTC</a></sub>
 * [A wartime plea to Western satellite companies: “We need this data, please”](https://arstechnica.com/science/2022/02/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T010057">2022-03-01 01:00:57 UTC</a></sub>
 * [NASA wants to maintain Russia partnership but is studying “operational flexibilities”](https://arstechnica.com/science/2022/02/despite-tensions-nasa-spaceflight-chief-urges-us-russia-cooperation-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T231427">2022-02-28 23:14:27 UTC</a></sub>
 * [SpaceX delivers truckload of Starlink dishes to Ukraine, as promised](https://www.teslarati.com/spacex-starlink-dishes-arrive-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T221409">2022-02-28 22:14:09 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Geostationary Transfer Orbit
 * [SpaceX heeds Ukraine’s Starlink SOS](https://spacenews.com/spacex-heeds-ukraines-starlink-sos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T180350">2022-02-28 18:03:50 UTC</a></sub>
 * [ESA says it’s “very unlikely” ExoMars will launch this year](https://spacenews.com/esa-says-its-very-unlikely-exomars-will-launch-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T174349">2022-02-28 17:43:49 UTC</a></sub>
 * [Atlas 5 rocket rolls to launch pad with weather satellite](https://spaceflightnow.com/2022/02/28/atlas-5-goes-t-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T165344">2022-02-28 16:53:44 UTC</a></sub>
-* [Lockheed Martin, Northrop Grumman, York Space selected to build DoD’s internet-in-space constellation](https://spacenews.com/lockheed-martin-northrop-grumman-york-space-selected-to-build-dods-internet-in-space-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T161350">2022-02-28 16:13:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T061025">2022-03-01 06:10:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T064120">2022-03-01 06:41:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
