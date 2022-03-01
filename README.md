@@ -181,6 +181,7 @@ into a Geostationary Transfer Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia looks to China for collaboration in space but faces isolation over Ukraine invasion](https://spacenews.com/russia-looks-to-china-for-collaboration-in-space-but-faces-isolation-over-ukraine-invasion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T144349">2022-03-01 14:43:49 UTC</a></sub>
 * [SpaceX awarded three more NASA astronaut launch contracts](https://www.teslarati.com/spacex-wins-3-more-nasa-crew-dragon-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T121407">2022-03-01 12:14:07 UTC</a></sub>
 * [ISS operations remain normal ahead of private astronaut mission](https://spacenews.com/iss-operations-remain-normal-ahead-of-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T113349">2022-03-01 11:33:49 UTC</a></sub>
 * [Rocket Lab launches Electron rocket, selects Virginia for Neutron factory](https://spacenews.com/rocket-lab-launches-electron-rocket-selects-virginia-for-neutron-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T102348">2022-03-01 10:23:48 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Geostationary Transfer Orbit
 * [SpaceX delivers truckload of Starlink dishes to Ukraine, as promised](https://www.teslarati.com/spacex-starlink-dishes-arrive-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T221409">2022-02-28 22:14:09 UTC</a></sub>
 * [NASA Awards Contract for Safety and Mission Assurance Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-safety-and-mission-assurance-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T210400">2022-02-28 21:04:00 UTC</a></sub>
 * [NASA Promotes Howard Hu to Lead Orion Ahead of First Artemis Mission](http://www.nasa.gov/press-release/nasa-promotes-howard-hu-to-lead-orion-ahead-of-first-artemis-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T203300">2022-02-28 20:33:00 UTC</a></sub>
-* [Russia-Ukraine war raises questions for upcoming OneWeb launches](https://spacenews.com/russia-ukraine-war-raises-questions-for-upcoming-oneweb-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T195349">2022-02-28 19:53:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T143301">2022-03-01 14:33:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T151047">2022-03-01 15:10:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
