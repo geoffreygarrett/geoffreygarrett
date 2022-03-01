@@ -181,6 +181,7 @@ into a Geostationary Transfer Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ISS operations remain normal ahead of private astronaut mission](https://spacenews.com/iss-operations-remain-normal-ahead-of-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T113349">2022-03-01 11:33:49 UTC</a></sub>
 * [Rocket Lab launches Electron rocket, selects Virginia for Neutron factory](https://spacenews.com/rocket-lab-launches-electron-rocket-selects-virginia-for-neutron-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T102348">2022-03-01 10:23:48 UTC</a></sub>
 * [EOS Data Analytics issues urgent plea for imagery of Ukraine](https://spacenews.com/eos-plea-for-imagery-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T061348">2022-03-01 06:13:48 UTC</a></sub>
 * [A wartime plea to Western satellite companies: “We need this data, please”](https://arstechnica.com/science/2022/02/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T010057">2022-03-01 01:00:57 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Geostationary Transfer Orbit
 * [NASA Promotes Howard Hu to Lead Orion Ahead of First Artemis Mission](http://www.nasa.gov/press-release/nasa-promotes-howard-hu-to-lead-orion-ahead-of-first-artemis-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T203300">2022-02-28 20:33:00 UTC</a></sub>
 * [Russia-Ukraine war raises questions for upcoming OneWeb launches](https://spacenews.com/russia-ukraine-war-raises-questions-for-upcoming-oneweb-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T195349">2022-02-28 19:53:49 UTC</a></sub>
 * [SpaceX heeds Ukraine’s Starlink SOS](https://spacenews.com/spacex-heeds-ukraines-starlink-sos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T180350">2022-02-28 18:03:50 UTC</a></sub>
-* [ESA says it’s “very unlikely” ExoMars will launch this year](https://spacenews.com/esa-says-its-very-unlikely-exomars-will-launch-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T174349">2022-02-28 17:43:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T113109">2022-03-01 11:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T120843">2022-03-01 12:08:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
