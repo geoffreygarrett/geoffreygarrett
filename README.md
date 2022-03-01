@@ -181,6 +181,8 @@ into a Geostationary Transfer Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed Martin selects Raytheon to supply a second payload for missile-warning satellites](https://spacenews.com/lockheed-martin-selects-raytheon-to-supply-a-second-payload-for-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T183349">2022-03-01 18:33:49 UTC</a></sub>
+* [Ohio Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/ohio-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T181300">2022-03-01 18:13:00 UTC</a></sub>
 * [Boeing increases use of 3D printing to speed up production of WGS military satellite](https://spacenews.com/boeing-increases-use-of-3d-printing-to-speed-up-production-of-wgs-military-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T154350">2022-03-01 15:43:50 UTC</a></sub>
 * [Ukraine official confirms urgent request for Western satellite data](https://arstechnica.com/science/2022/03/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T150057">2022-03-01 15:00:57 UTC</a></sub>
 * [Russia looks to China for collaboration in space but faces isolation over Ukraine invasion](https://spacenews.com/russia-looks-to-china-for-collaboration-in-space-but-faces-isolation-over-ukraine-invasion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T144349">2022-03-01 14:43:49 UTC</a></sub>
@@ -189,8 +191,6 @@ into a Geostationary Transfer Orbit
 * [Rocket Lab launches Electron rocket, selects Virginia for Neutron factory](https://spacenews.com/rocket-lab-launches-electron-rocket-selects-virginia-for-neutron-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T102348">2022-03-01 10:23:48 UTC</a></sub>
 * [EOS Data Analytics issues urgent plea for imagery of Ukraine](https://spacenews.com/eos-plea-for-imagery-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T061348">2022-03-01 06:13:48 UTC</a></sub>
 * [A wartime plea to Western satellite companies: “We need this data, please”](https://arstechnica.com/science/2022/02/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T010057">2022-03-01 01:00:57 UTC</a></sub>
-* [NASA wants to maintain Russia partnership but is studying “operational flexibilities”](https://arstechnica.com/science/2022/02/despite-tensions-nasa-spaceflight-chief-urges-us-russia-cooperation-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T231427">2022-02-28 23:14:27 UTC</a></sub>
-* [SpaceX delivers truckload of Starlink dishes to Ukraine, as promised](https://www.teslarati.com/spacex-starlink-dishes-arrive-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T221409">2022-02-28 22:14:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T180322">2022-03-01 18:03:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T183859">2022-03-01 18:38:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
