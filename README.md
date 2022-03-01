@@ -181,6 +181,7 @@ into a Geostationary Transfer Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed Martin plots U.K. satellite manufacturing base](https://spacenews.com/lockheed-martin-plots-u-k-satellite-manufacturing-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T193349">2022-03-01 19:33:49 UTC</a></sub>
 * [Lockheed Martin selects Raytheon to supply a second payload for missile-warning satellites](https://spacenews.com/lockheed-martin-selects-raytheon-to-supply-a-second-payload-for-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T183349">2022-03-01 18:33:49 UTC</a></sub>
 * [Ohio Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/ohio-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T181300">2022-03-01 18:13:00 UTC</a></sub>
 * [Boeing increases use of 3D printing to speed up production of WGS military satellite](https://spacenews.com/boeing-increases-use-of-3d-printing-to-speed-up-production-of-wgs-military-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T154350">2022-03-01 15:43:50 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Geostationary Transfer Orbit
 * [ISS operations remain normal ahead of private astronaut mission](https://spacenews.com/iss-operations-remain-normal-ahead-of-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T113349">2022-03-01 11:33:49 UTC</a></sub>
 * [Rocket Lab launches Electron rocket, selects Virginia for Neutron factory](https://spacenews.com/rocket-lab-launches-electron-rocket-selects-virginia-for-neutron-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T102348">2022-03-01 10:23:48 UTC</a></sub>
 * [EOS Data Analytics issues urgent plea for imagery of Ukraine](https://spacenews.com/eos-plea-for-imagery-of-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T061348">2022-03-01 06:13:48 UTC</a></sub>
-* [A wartime plea to Western satellite companies: “We need this data, please”](https://arstechnica.com/science/2022/02/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T010057">2022-03-01 01:00:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T193111">2022-03-01 19:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T200356">2022-03-01 20:03:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
