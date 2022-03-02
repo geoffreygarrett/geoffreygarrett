@@ -181,6 +181,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Moon impact: Chinese rocket stage still in space says U.S. Space Command](https://spacenews.com/moon-impact-chinese-rocket-stage-still-in-space-says-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T170349">2022-03-02 17:03:49 UTC</a></sub>
+* [Atlas 5 rocket aces another on-target launch with NOAA weather satellite](https://spaceflightnow.com/2022/03/02/atlas-5-rocket-aces-another-on-target-launch-with-noaa-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T165345">2022-03-02 16:53:45 UTC</a></sub>
 * [Rogozin puts poison-pill conditions on OneWeb Soyuz launch](https://spacenews.com/rogozin-puts-poison-pill-conditions-on-oneweb-soyuz-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T144348">2022-03-02 14:43:48 UTC</a></sub>
 * [Russia places extraordinary demands on OneWeb prior to satellite launch](https://arstechnica.com/science/2022/03/russia-places-extraordinary-demands-on-oneweb-prior-to-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T135913">2022-03-02 13:59:13 UTC</a></sub>
 * [Russian sanctions throw South Korean satellite missions into uncertainty](https://spacenews.com/russian-sanctions-throw-south-korean-satellite-missions-into-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T135350">2022-03-02 13:53:50 UTC</a></sub>
@@ -189,8 +191,6 @@ into a Low Earth Orbit
 * [SpaceX prepares third Falcon 9 booster for eleventh launch and landing](https://www.teslarati.com/spacex-falcon-9-third-booster-eleven-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T121406">2022-03-02 12:14:06 UTC</a></sub>
 * [Congress presses NASA for more details on Artemis costs and schedules](https://spacenews.com/congress-presses-nasa-for-more-details-on-artemis-costs-and-schedules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T104348">2022-03-02 10:43:48 UTC</a></sub>
 * [Finally, we know production costs for SLS and Orion, and they’re wild](https://arstechnica.com/science/2022/03/nasa-inspector-general-says-sls-costs-are-unsustainable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T200314">2022-03-01 20:03:14 UTC</a></sub>
-* [Lockheed Martin plots U.K. satellite manufacturing base](https://spacenews.com/lockheed-martin-plots-u-k-satellite-manufacturing-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T193349">2022-03-01 19:33:49 UTC</a></sub>
-* [Ohio Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/ohio-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T181300">2022-03-01 18:13:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T170720">2022-03-02 17:07:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T173421">2022-03-02 17:34:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
