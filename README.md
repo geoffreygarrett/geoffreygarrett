@@ -182,6 +182,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellite images show Russia’s troop movements but can they reveal intent?](https://spacenews.com/satellite-images-show-russias-troop-movements-but-can-they-reveal-intent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T222349">2022-03-02 22:23:49 UTC</a></sub>
+* [Skycorp to test “USB for space” cable outside ISS](https://spacenews.com/skycorp-iss-connector-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T221349">2022-03-02 22:13:49 UTC</a></sub>
 * [Russia issues ultimatum to UK government over OneWeb launch](https://spaceflightnow.com/2022/03/02/russia-issues-ultimatum-to-u-k-government-over-oneweb-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T211345">2022-03-02 21:13:45 UTC</a></sub>
 * [Moon impact: Chinese rocket stage still in space says U.S. Space Command](https://spacenews.com/moon-impact-chinese-rocket-stage-still-in-space-says-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T170349">2022-03-02 17:03:49 UTC</a></sub>
 * [Atlas 5 rocket aces another on-target launch with NOAA weather satellite](https://spaceflightnow.com/2022/03/02/atlas-5-rocket-aces-another-on-target-launch-with-noaa-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T165345">2022-03-02 16:53:45 UTC</a></sub>
@@ -190,8 +192,6 @@ into a Low Earth Orbit
 * [Russian sanctions throw South Korean satellite missions into uncertainty](https://spacenews.com/russian-sanctions-throw-south-korean-satellite-missions-into-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T135350">2022-03-02 13:53:50 UTC</a></sub>
 * [CesiumAstro raises $60 million in Series B funding round](https://spacenews.com/cesiumastro-raises-60-million-in-series-b-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T133350">2022-03-02 13:33:50 UTC</a></sub>
 * [Romania signs the Artemis Accords](https://spacenews.com/romania-signs-the-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T123349">2022-03-02 12:33:49 UTC</a></sub>
-* [SpaceX prepares third Falcon 9 booster for eleventh launch and landing](https://www.teslarati.com/spacex-falcon-9-third-booster-eleven-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T121406">2022-03-02 12:14:06 UTC</a></sub>
-* [Congress presses NASA for more details on Artemis costs and schedules](https://spacenews.com/congress-presses-nasa-for-more-details-on-artemis-costs-and-schedules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T104348">2022-03-02 10:43:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T220242">2022-03-02 22:02:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T223453">2022-03-02 22:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
