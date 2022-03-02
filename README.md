@@ -181,6 +181,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Romania signs the Artemis Accords](https://spacenews.com/romania-signs-the-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T123349">2022-03-02 12:33:49 UTC</a></sub>
+* [SpaceX prepares third Falcon 9 booster for eleventh launch and landing](https://www.teslarati.com/spacex-falcon-9-third-booster-eleven-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T121406">2022-03-02 12:14:06 UTC</a></sub>
 * [Congress presses NASA for more details on Artemis costs and schedules](https://spacenews.com/congress-presses-nasa-for-more-details-on-artemis-costs-and-schedules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T104348">2022-03-02 10:43:48 UTC</a></sub>
 * [Finally, we know production costs for SLS and Orion, and they’re wild](https://arstechnica.com/science/2022/03/nasa-inspector-general-says-sls-costs-are-unsustainable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T200314">2022-03-01 20:03:14 UTC</a></sub>
 * [Lockheed Martin plots U.K. satellite manufacturing base](https://spacenews.com/lockheed-martin-plots-u-k-satellite-manufacturing-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T193349">2022-03-01 19:33:49 UTC</a></sub>
@@ -189,8 +191,6 @@ into a Low Earth Orbit
 * [Ukraine official confirms urgent request for Western satellite data](https://arstechnica.com/science/2022/03/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T150057">2022-03-01 15:00:57 UTC</a></sub>
 * [Russia looks to China for collaboration in space but faces isolation over Ukraine invasion](https://spacenews.com/russia-looks-to-china-for-collaboration-in-space-but-faces-isolation-over-ukraine-invasion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T144349">2022-03-01 14:43:49 UTC</a></sub>
 * [SpaceX awarded three more NASA astronaut launch contracts](https://www.teslarati.com/spacex-wins-3-more-nasa-crew-dragon-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T121407">2022-03-01 12:14:07 UTC</a></sub>
-* [ISS operations remain normal ahead of private astronaut mission](https://spacenews.com/iss-operations-remain-normal-ahead-of-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T113349">2022-03-01 11:33:49 UTC</a></sub>
-* [Rocket Lab launches Electron rocket, selects Virginia for Neutron factory](https://spacenews.com/rocket-lab-launches-electron-rocket-selects-virginia-for-neutron-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T102348">2022-03-01 10:23:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T120827">2022-03-02 12:08:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T125224">2022-03-02 12:52:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
