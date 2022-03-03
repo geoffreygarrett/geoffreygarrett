@@ -181,6 +181,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Air Force sees no impact from Russia’s decision to cut off supply of rocket engines](https://spacenews.com/u-s-air-force-sees-no-impact-from-russias-decision-to-cut-off-supply-of-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T215406">2022-03-03 21:54:06 UTC</a></sub>
+* [NASA to Share Tools, Resources at Upcoming Agriculture Conference](http://www.nasa.gov/press-release/nasa-to-share-tools-resources-at-upcoming-agriculture-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T214400">2022-03-03 21:44:00 UTC</a></sub>
 * [Kendall: Space ‘order of battle’ a top priority in U.S. defense budget and strategy](https://spacenews.com/kendall-space-order-of-battle-a-top-priority-in-u-s-defense-budget-and-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T210407">2022-03-03 21:04:07 UTC</a></sub>
 * [SpaceX launches ninth Falcon 9 rocket in nine weeks](https://www.teslarati.com/spacex-nine-launches-nine-weeks-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T200425">2022-03-03 20:04:25 UTC</a></sub>
 * [After another Starlink mission, SpaceX on pace for one launch per week this year](https://spaceflightnow.com/2022/03/03/after-another-starlink-mission-spacex-on-pace-for-one-launch-per-week-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T183403">2022-03-03 18:34:03 UTC</a></sub>
@@ -189,8 +191,6 @@ into a Low Earth Orbit
 * [“Nothing to share”: South Korean firm turns down Ukrainian request for satellite imagery](https://spacenews.com/nothing-to-share-south-korean-firm-turns-down-ukrainian-request-for-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T113406">2022-03-03 11:34:06 UTC</a></sub>
 * [NASA awards SpaceX three additional commercial crew missions](https://spacenews.com/nasa-awards-spacex-three-additional-commercial-crew-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T104406">2022-03-03 10:44:06 UTC</a></sub>
 * [SpaceX preps for another Starlink launch as internet terminals arrive in Ukraine](https://spaceflightnow.com/2022/03/02/spacex-preps-for-another-starlink-launch-as-internet-terminals-arrive-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T233347">2022-03-02 23:33:47 UTC</a></sub>
-* [OneWeb leaves Baikonur Cosmodrome after Roscosmos ultimatum](https://spacenews.com/oneweb-leaves-baikonur-cosmodrome-after-roscosmos-ultimatum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T232349">2022-03-02 23:23:49 UTC</a></sub>
-* [Satellite images show Russia’s troop movements but can they reveal intent?](https://spacenews.com/satellite-images-show-russias-troop-movements-but-can-they-reveal-intent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T222349">2022-03-02 22:23:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T213227">2022-03-03 21:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T220250">2022-03-03 22:02:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
