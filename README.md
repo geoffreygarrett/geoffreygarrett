@@ -182,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA awards SpaceX three additional commercial crew missions](https://spacenews.com/nasa-awards-spacex-three-additional-commercial-crew-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T104406">2022-03-03 10:44:06 UTC</a></sub>
 * [SpaceX preps for another Starlink launch as internet terminals arrive in Ukraine](https://spaceflightnow.com/2022/03/02/spacex-preps-for-another-starlink-launch-as-internet-terminals-arrive-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T233347">2022-03-02 23:33:47 UTC</a></sub>
 * [OneWeb leaves Baikonur Cosmodrome after Roscosmos ultimatum](https://spacenews.com/oneweb-leaves-baikonur-cosmodrome-after-roscosmos-ultimatum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T232349">2022-03-02 23:23:49 UTC</a></sub>
 * [Satellite images show Russia’s troop movements but can they reveal intent?](https://spacenews.com/satellite-images-show-russias-troop-movements-but-can-they-reveal-intent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T222349">2022-03-02 22:23:49 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Low Earth Orbit
 * [Atlas 5 rocket aces another on-target launch with NOAA weather satellite](https://spaceflightnow.com/2022/03/02/atlas-5-rocket-aces-another-on-target-launch-with-noaa-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T165345">2022-03-02 16:53:45 UTC</a></sub>
 * [Rogozin puts poison-pill conditions on OneWeb Soyuz launch](https://spacenews.com/rogozin-puts-poison-pill-conditions-on-oneweb-soyuz-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T144348">2022-03-02 14:43:48 UTC</a></sub>
 * [Russia places extraordinary demands on OneWeb prior to satellite launch](https://arstechnica.com/science/2022/03/russia-places-extraordinary-demands-on-oneweb-prior-to-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T135913">2022-03-02 13:59:13 UTC</a></sub>
-* [Russian sanctions throw South Korean satellite missions into uncertainty](https://spacenews.com/russian-sanctions-throw-south-korean-satellite-missions-into-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T135350">2022-03-02 13:53:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T110225">2022-03-03 11:02:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T113128">2022-03-03 11:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
