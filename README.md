@@ -181,6 +181,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches ninth Falcon 9 rocket in nine weeks](https://www.teslarati.com/spacex-nine-launches-nine-weeks-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T200425">2022-03-03 20:04:25 UTC</a></sub>
 * [After another Starlink mission, SpaceX on pace for one launch per week this year](https://spaceflightnow.com/2022/03/03/after-another-starlink-mission-spacex-on-pace-for-one-launch-per-week-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T183403">2022-03-03 18:34:03 UTC</a></sub>
 * [The US Space Force plans to start patrolling the area around the Moon](https://arstechnica.com/science/2022/03/the-us-space-force-plans-to-extend-its-operations-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T161655">2022-03-03 16:16:55 UTC</a></sub>
 * [Roscosmos head again questions future of ISS while NASA emphasizes cooperation](https://spacenews.com/roscosmos-head-again-questions-future-of-iss-while-nasa-emphasizes-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T125406">2022-03-03 12:54:06 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Low Earth Orbit
 * [OneWeb leaves Baikonur Cosmodrome after Roscosmos ultimatum](https://spacenews.com/oneweb-leaves-baikonur-cosmodrome-after-roscosmos-ultimatum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T232349">2022-03-02 23:23:49 UTC</a></sub>
 * [Satellite images show Russia’s troop movements but can they reveal intent?](https://spacenews.com/satellite-images-show-russias-troop-movements-but-can-they-reveal-intent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T222349">2022-03-02 22:23:49 UTC</a></sub>
 * [Skycorp to test “USB for space” cable outside ISS](https://spacenews.com/skycorp-iss-connector-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T221349">2022-03-02 22:13:49 UTC</a></sub>
-* [Russia issues ultimatum to UK government over OneWeb launch](https://spaceflightnow.com/2022/03/02/russia-issues-ultimatum-to-u-k-government-over-oneweb-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T211345">2022-03-02 21:13:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T203247">2022-03-03 20:32:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T210220">2022-03-03 21:02:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
