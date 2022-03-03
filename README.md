@@ -181,6 +181,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The US Space Force plans to start patrolling the area around the Moon](https://arstechnica.com/science/2022/03/the-us-space-force-plans-to-extend-its-operations-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T161655">2022-03-03 16:16:55 UTC</a></sub>
 * [Roscosmos head again questions future of ISS while NASA emphasizes cooperation](https://spacenews.com/roscosmos-head-again-questions-future-of-iss-while-nasa-emphasizes-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T125406">2022-03-03 12:54:06 UTC</a></sub>
 * [“Nothing to share”: South Korean firm turns down Ukrainian request for satellite imagery](https://spacenews.com/nothing-to-share-south-korean-firm-turns-down-ukrainian-request-for-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T113406">2022-03-03 11:34:06 UTC</a></sub>
 * [NASA awards SpaceX three additional commercial crew missions](https://spacenews.com/nasa-awards-spacex-three-additional-commercial-crew-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T104406">2022-03-03 10:44:06 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Low Earth Orbit
 * [Skycorp to test “USB for space” cable outside ISS](https://spacenews.com/skycorp-iss-connector-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T221349">2022-03-02 22:13:49 UTC</a></sub>
 * [Russia issues ultimatum to UK government over OneWeb launch](https://spaceflightnow.com/2022/03/02/russia-issues-ultimatum-to-u-k-government-over-oneweb-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T211345">2022-03-02 21:13:45 UTC</a></sub>
 * [Moon impact: Chinese rocket stage still in space says U.S. Space Command](https://spacenews.com/moon-impact-chinese-rocket-stage-still-in-space-says-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T170349">2022-03-02 17:03:49 UTC</a></sub>
-* [Atlas 5 rocket aces another on-target launch with NOAA weather satellite](https://spaceflightnow.com/2022/03/02/atlas-5-rocket-aces-another-on-target-launch-with-noaa-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T165345">2022-03-02 16:53:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T160554">2022-03-03 16:05:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T165149">2022-03-03 16:51:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
