@@ -136,6 +136,7 @@ into a Low Earth Orbit
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Maiden Flight&location=Cape Canaveral, FL, USA&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>SSLV Demo 1</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | EOS-02 (Microsat-2A) (Demo 1)&location=Sriharikota, Republic of India&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>S4 CROSSOVER</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | S4 CROSSOVER&location=Pacific Spaceport Complex, Alaska, USA&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>Oceansat-3</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV  | EOS-6 (Oceansat-3)&location=Sriharikota, Republic of India&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -181,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [HawkEye 360 detects GPS interference in Ukraine](https://spacenews.com/hawkeye-360-gps-ukr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T140407">2022-03-04 14:04:07 UTC</a></sub>
 * [Privateer unveils technology for improved tracking of space objects](https://spacenews.com/privateer-unveils-technology-for-improved-tracking-of-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T130408">2022-03-04 13:04:08 UTC</a></sub>
 * [SpaceX’s South Texas Starship factory prepares for major upgrades](https://www.teslarati.com/spacex-starbase-starship-factory-tent-era-over/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T121425">2022-03-04 12:14:25 UTC</a></sub>
 * [Rocket Report: Russia responds to Western sanctions, UK spaceport moves ahead](https://arstechnica.com/science/2022/03/rocket-report-russia-responds-to-western-sanctions-uk-spaceport-moves-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T120019">2022-03-04 12:00:19 UTC</a></sub>
@@ -190,7 +192,6 @@ into a Low Earth Orbit
 * [NASA to Share Tools, Resources at Upcoming Agriculture Conference](http://www.nasa.gov/press-release/nasa-to-share-tools-resources-at-upcoming-agriculture-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T214400">2022-03-03 21:44:00 UTC</a></sub>
 * [Kendall: Space ‘order of battle’ a top priority in U.S. defense budget and strategy](https://spacenews.com/kendall-space-order-of-battle-a-top-priority-in-u-s-defense-budget-and-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T210407">2022-03-03 21:04:07 UTC</a></sub>
 * [SpaceX launches ninth Falcon 9 rocket in nine weeks](https://www.teslarati.com/spacex-nine-launches-nine-weeks-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T200425">2022-03-03 20:04:25 UTC</a></sub>
-* [After another Starlink mission, SpaceX on pace for one launch per week this year](https://spaceflightnow.com/2022/03/03/after-another-starlink-mission-spacex-on-pace-for-one-launch-per-week-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T183403">2022-03-03 18:34:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T140253">2022-03-04 14:02:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T143155">2022-03-04 14:31:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
