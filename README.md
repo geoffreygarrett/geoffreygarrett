@@ -182,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force to reorganize its acquisition command to ‘focus on the threat’](https://spacenews.com/space-force-to-reorganize-its-acquisition-command-to-focus-on-the-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T230407">2022-03-04 23:04:07 UTC</a></sub>
 * [HawkEye 360 detects GPS interference in Ukraine](https://spacenews.com/hawkeye-360-gps-ukr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T140407">2022-03-04 14:04:07 UTC</a></sub>
 * [Privateer unveils technology for improved tracking of space objects](https://spacenews.com/privateer-unveils-technology-for-improved-tracking-of-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T130408">2022-03-04 13:04:08 UTC</a></sub>
 * [SpaceX’s South Texas Starship factory prepares for major upgrades](https://www.teslarati.com/spacex-starbase-starship-factory-tent-era-over/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T121425">2022-03-04 12:14:25 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Low Earth Orbit
 * [U.S. Air Force sees no impact from Russia’s decision to cut off supply of rocket engines](https://spacenews.com/u-s-air-force-sees-no-impact-from-russias-decision-to-cut-off-supply-of-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T215406">2022-03-03 21:54:06 UTC</a></sub>
 * [NASA to Share Tools, Resources at Upcoming Agriculture Conference](http://www.nasa.gov/press-release/nasa-to-share-tools-resources-at-upcoming-agriculture-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T214400">2022-03-03 21:44:00 UTC</a></sub>
 * [Kendall: Space ‘order of battle’ a top priority in U.S. defense budget and strategy](https://spacenews.com/kendall-space-order-of-battle-a-top-priority-in-u-s-defense-budget-and-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T210407">2022-03-03 21:04:07 UTC</a></sub>
-* [SpaceX launches ninth Falcon 9 rocket in nine weeks](https://www.teslarati.com/spacex-nine-launches-nine-weeks-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T200425">2022-03-03 20:04:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T230251">2022-03-04 23:02:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T233326">2022-03-04 23:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
