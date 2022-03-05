@@ -181,6 +181,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX shifts resources to cybersecurity to address Starlink jamming](https://spacenews.com/spacex-shifts-resources-to-cybersecurity-to-address-starlink-jamming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220305T152406">2022-03-05 15:24:06 UTC</a></sub>
 * [Space Force to reorganize its acquisition command to ‘focus on the threat’](https://spacenews.com/space-force-to-reorganize-its-acquisition-command-to-focus-on-the-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T230407">2022-03-04 23:04:07 UTC</a></sub>
 * [HawkEye 360 detects GPS interference in Ukraine](https://spacenews.com/hawkeye-360-gps-ukr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T140407">2022-03-04 14:04:07 UTC</a></sub>
 * [Privateer unveils technology for improved tracking of space objects](https://spacenews.com/privateer-unveils-technology-for-improved-tracking-of-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T130408">2022-03-04 13:04:08 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Low Earth Orbit
 * [Air Force Secretary: We’re worried about Russia but China is a bigger strategic threat](https://spacenews.com/air-force-secretary-were-worried-about-russia-but-china-is-a-bigger-strategic-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T230407">2022-03-03 23:04:07 UTC</a></sub>
 * [U.S. Air Force sees no impact from Russia’s decision to cut off supply of rocket engines](https://spacenews.com/u-s-air-force-sees-no-impact-from-russias-decision-to-cut-off-supply-of-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T215406">2022-03-03 21:54:06 UTC</a></sub>
 * [NASA to Share Tools, Resources at Upcoming Agriculture Conference](http://www.nasa.gov/press-release/nasa-to-share-tools-resources-at-upcoming-agriculture-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T214400">2022-03-03 21:44:00 UTC</a></sub>
-* [Kendall: Space ‘order of battle’ a top priority in U.S. defense budget and strategy](https://spacenews.com/kendall-space-order-of-battle-a-top-priority-in-u-s-defense-budget-and-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T210407">2022-03-03 21:04:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220305T150248">2022-03-05 15:02:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220305T153531">2022-03-05 15:35:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
