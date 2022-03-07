@@ -183,6 +183,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [How to save the International Space Station and prevent the dreaded “gap”](https://arstechnica.com/science/2022/03/how-to-save-the-international-space-station-and-prevent-the-dreaded-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T152858">2022-03-07 15:28:58 UTC</a></sub>
 * [SpaceX on track for fourth Starlink launch in two weeks](https://www.teslarati.com/spacex-falcon-9-four-starlink-launches-two-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121424">2022-03-07 12:14:24 UTC</a></sub>
 * [China launches test satellites for broadband constellation](https://spacenews.com/china-launches-test-satellites-for-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121407">2022-03-07 12:14:07 UTC</a></sub>
 * [DoD wants ‘resilient’ space systems, but how to get there is still unclear](https://spacenews.com/dod-wants-resilient-space-systems-but-how-to-get-there-is-still-unclear/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220306T224407">2022-03-06 22:44:07 UTC</a></sub>
@@ -192,7 +193,6 @@ into a Low Earth Orbit
 * [Privateer unveils technology for improved tracking of space objects](https://spacenews.com/privateer-unveils-technology-for-improved-tracking-of-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T130408">2022-03-04 13:04:08 UTC</a></sub>
 * [SpaceX’s South Texas Starship factory prepares for major upgrades](https://www.teslarati.com/spacex-starbase-starship-factory-tent-era-over/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T121425">2022-03-04 12:14:25 UTC</a></sub>
 * [Rocket Report: Russia responds to Western sanctions, UK spaceport moves ahead](https://arstechnica.com/science/2022/03/rocket-report-russia-responds-to-western-sanctions-uk-spaceport-moves-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T120019">2022-03-04 12:00:19 UTC</a></sub>
-* [With Soyuz off the table, OneWeb back in the mix](https://spacenews.com/with-soyuz-off-the-table-oneweb-back-in-the-mix/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T234408">2022-03-03 23:44:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -203,6 +203,9 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A fascination with Europa](https://www.planetary.org/articles/a-fascination-with-europa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153424">2022-03-07 15:34:24 UTC</a></sub>
+* [Your impact: March Equinox 2022](https://www.planetary.org/articles/your-impact-march-equinox-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153422">2022-03-07 15:34:22 UTC</a></sub>
+* [Where are the ocean worlds in our solar system?](https://www.planetary.org/articles/where-are-the-ocean-worlds-in-our-solar-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153421">2022-03-07 15:34:21 UTC</a></sub>
 * [Space brings out the best in us](https://www.planetary.org/the-downlink/space-brings-out-the-best-in-us) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T153420">2022-03-04 15:34:20 UTC</a></sub>
 * [The best space pictures from the Voyager 1 and 2 missions](https://www.planetary.org/articles/best-space-pictures-nasa-voyager-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T150420">2022-03-03 15:04:20 UTC</a></sub>
 * [Day of Action 2022: International Action](https://www.planetary.org/advocacy/day-of-action-2022-international-action) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T192403">2022-03-02 19:24:03 UTC</a></sub>
@@ -210,9 +213,6 @@ into a Low Earth Orbit
 * [GOES-T: ULA successfully launches Atlas V](https://blog.ulalaunch.com/blog/sbirs-geo-flight-5-ula-successfully-launches-atlas-v-0-0-0-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T014415">2022-03-01 01:44:15 UTC</a></sub>
 * [Rocketstars: ULA integrator guides GOES-T to launch pad](https://blog.ulalaunch.com/blog/rocketstars-ula-integrator-guides-goes-t-to-launch-pad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T172416">2022-02-28 17:24:16 UTC</a></sub>
 * [Why you should advocate for planetary defense](https://www.planetary.org/articles/why-you-should-advocate-for-planetary-defense) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T161405">2022-02-28 16:14:05 UTC</a></sub>
-* [RocketShip: Latest run from factory supports three launches](https://blog.ulalaunch.com/blog/rocketship-latest-run-from-factory-supports-three-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T162414">2022-02-25 16:24:14 UTC</a></sub>
-* [An ice giant and its dwarf companion](https://www.planetary.org/the-downlink/an-ice-giant-and-its-dwarf-companion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T153403">2022-02-25 15:34:03 UTC</a></sub>
-* [What light through yonder prism splits?](https://www.planetary.org/the-downlink/what-light-through-yonder-prism-splits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T153946">2022-02-18 15:39:46 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -225,7 +225,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T150319">2022-03-07 15:03:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153723">2022-03-07 15:37:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
