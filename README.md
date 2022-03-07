@@ -26,6 +26,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <h3 align="center"> Open issues 🆘 </h3>
 
 <!-- github issues starts -->
+* [Implement `conda` package of `multidoc` into workflow](https://github.com/tudat-team/tudat-multidoc/issues/43) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T122202">2022-03-07 12:22:02 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Request: change of style for enumeration](https://github.com/tudat-team/tudat-multidoc/issues/35) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T231953">2022-02-22 23:19:53 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Revise "about" page](https://github.com/tudat-team/tudat-space/issues/62) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T130818">2022-02-18 13:08:18 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Very large `.git` history due to old resources from legacy](https://github.com/tudat-team/tudat/issues/66) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T112803">2022-02-17 11:28:03 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
@@ -182,6 +183,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX on track for fourth Starlink launch in two weeks](https://www.teslarati.com/spacex-falcon-9-four-starlink-launches-two-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121424">2022-03-07 12:14:24 UTC</a></sub>
+* [China launches test satellites for broadband constellation](https://spacenews.com/china-launches-test-satellites-for-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121407">2022-03-07 12:14:07 UTC</a></sub>
 * [DoD wants ‘resilient’ space systems, but how to get there is still unclear](https://spacenews.com/dod-wants-resilient-space-systems-but-how-to-get-there-is-still-unclear/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220306T224407">2022-03-06 22:44:07 UTC</a></sub>
 * [SpaceX shifts resources to cybersecurity to address Starlink jamming](https://spacenews.com/spacex-shifts-resources-to-cybersecurity-to-address-starlink-jamming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220305T152406">2022-03-05 15:24:06 UTC</a></sub>
 * [Space Force to reorganize its acquisition command to ‘focus on the threat’](https://spacenews.com/space-force-to-reorganize-its-acquisition-command-to-focus-on-the-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T230407">2022-03-04 23:04:07 UTC</a></sub>
@@ -190,8 +193,6 @@ into a Low Earth Orbit
 * [SpaceX’s South Texas Starship factory prepares for major upgrades](https://www.teslarati.com/spacex-starbase-starship-factory-tent-era-over/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T121425">2022-03-04 12:14:25 UTC</a></sub>
 * [Rocket Report: Russia responds to Western sanctions, UK spaceport moves ahead](https://arstechnica.com/science/2022/03/rocket-report-russia-responds-to-western-sanctions-uk-spaceport-moves-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T120019">2022-03-04 12:00:19 UTC</a></sub>
 * [With Soyuz off the table, OneWeb back in the mix](https://spacenews.com/with-soyuz-off-the-table-oneweb-back-in-the-mix/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T234408">2022-03-03 23:44:08 UTC</a></sub>
-* [Air Force Secretary: We’re worried about Russia but China is a bigger strategic threat](https://spacenews.com/air-force-secretary-were-worried-about-russia-but-china-is-a-bigger-strategic-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T230407">2022-03-03 23:04:07 UTC</a></sub>
-* [U.S. Air Force sees no impact from Russia’s decision to cut off supply of rocket engines](https://spacenews.com/u-s-air-force-sees-no-impact-from-russias-decision-to-cut-off-supply-of-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T215406">2022-03-03 21:54:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +225,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T120901">2022-03-07 12:09:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T125225">2022-03-07 12:52:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
