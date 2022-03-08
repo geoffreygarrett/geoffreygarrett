@@ -202,6 +202,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [R/S RocketShip: Meet the special ship that brings ULA rockets to the launch site](https://blog.ulalaunch.com/blog/r/s-rocketship-meet-the-special-ship-that-brings-ula-rockets-to-the-launch-site) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T144430">2022-03-08 14:44:30 UTC</a></sub>
 * [A fascination with Europa](https://www.planetary.org/articles/a-fascination-with-europa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153424">2022-03-07 15:34:24 UTC</a></sub>
 * [Your impact: March Equinox 2022](https://www.planetary.org/articles/your-impact-march-equinox-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153422">2022-03-07 15:34:22 UTC</a></sub>
 * [Where are the ocean worlds in our solar system?](https://www.planetary.org/articles/where-are-the-ocean-worlds-in-our-solar-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153421">2022-03-07 15:34:21 UTC</a></sub>
@@ -211,7 +212,6 @@ into a Low Earth Orbit
 * [Pioneer 10 and 11, outer solar system explorers](https://www.planetary.org/space-missions/pioneer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T150402">2022-03-02 15:04:02 UTC</a></sub>
 * [GOES-T: ULA successfully launches Atlas V](https://blog.ulalaunch.com/blog/sbirs-geo-flight-5-ula-successfully-launches-atlas-v-0-0-0-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T014415">2022-03-01 01:44:15 UTC</a></sub>
 * [Rocketstars: ULA integrator guides GOES-T to launch pad](https://blog.ulalaunch.com/blog/rocketstars-ula-integrator-guides-goes-t-to-launch-pad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T172416">2022-02-28 17:24:16 UTC</a></sub>
-* [Why you should advocate for planetary defense](https://www.planetary.org/articles/why-you-should-advocate-for-planetary-defense) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T161405">2022-02-28 16:14:05 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T143216">2022-03-08 14:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T150313">2022-03-08 15:03:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
