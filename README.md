@@ -182,6 +182,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra blames launch failure on wiring error and software flaw](https://spacenews.com/astra-blames-launch-failure-on-wiring-error-and-software-flaw/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T123406">2022-03-08 12:34:06 UTC</a></sub>
+* [SpaceX Starbase facilities already taking advantage of new “Port Connector Road”](https://www.teslarati.com/spacex-starbase-brownsville-port-connector-road/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T121423">2022-03-08 12:14:23 UTC</a></sub>
 * [SpaceX worked for weeks to begin Starlink service in Ukraine](https://spacenews.com/spacex-worked-for-weeks-to-begin-starlink-service-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T104406">2022-03-08 10:44:06 UTC</a></sub>
 * [Beames becomes SpiderOak’s chairman of the board](https://spacenews.com/beames-joins-spideroak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T050406">2022-03-08 05:04:06 UTC</a></sub>
 * [Intelsat picks David Wajsgras as next CEO](https://spacenews.com/intelsat-picks-david-wajsgras-as-next-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T210408">2022-03-07 21:04:08 UTC</a></sub>
@@ -190,8 +192,6 @@ into a Low Earth Orbit
 * [China launches test satellites for broadband constellation](https://spacenews.com/china-launches-test-satellites-for-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121407">2022-03-07 12:14:07 UTC</a></sub>
 * [SpaceX’s first Jupiter launch a step closer as NASA begins assembling ‘Europa Clipper’](https://www.teslarati.com/spacex-jupiter-launch-nasa-europa-clipper-assembly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T012425">2022-03-07 01:24:25 UTC</a></sub>
 * [DoD wants ‘resilient’ space systems, but how to get there is still unclear](https://spacenews.com/dod-wants-resilient-space-systems-but-how-to-get-there-is-still-unclear/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220306T224407">2022-03-06 22:44:07 UTC</a></sub>
-* [SpaceX shifts resources to cybersecurity to address Starlink jamming](https://spacenews.com/spacex-shifts-resources-to-cybersecurity-to-address-starlink-jamming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220305T152406">2022-03-05 15:24:06 UTC</a></sub>
-* [Space Force to reorganize its acquisition command to ‘focus on the threat’](https://spacenews.com/space-force-to-reorganize-its-acquisition-command-to-focus-on-the-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T230407">2022-03-04 23:04:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T120856">2022-03-08 12:08:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T125339">2022-03-08 12:53:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
