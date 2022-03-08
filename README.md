@@ -187,11 +187,11 @@ into a Low Earth Orbit
 * [SpaceX worked for weeks to begin Starlink service in Ukraine](https://spacenews.com/spacex-worked-for-weeks-to-begin-starlink-service-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T104406">2022-03-08 10:44:06 UTC</a></sub>
 * [Beames becomes SpiderOak’s chairman of the board](https://spacenews.com/beames-joins-spideroak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T050406">2022-03-08 05:04:06 UTC</a></sub>
 * [Intelsat picks David Wajsgras as next CEO](https://spacenews.com/intelsat-picks-david-wajsgras-as-next-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T210408">2022-03-07 21:04:08 UTC</a></sub>
+* [China launches new variant of Long March 8 rocket](https://spaceflightnow.com/2022/03/07/china-launches-new-variant-of-long-march-8-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T173402">2022-03-07 17:34:02 UTC</a></sub>
 * [How to save the International Space Station and prevent the dreaded “gap”](https://arstechnica.com/science/2022/03/how-to-save-the-international-space-station-and-prevent-the-dreaded-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T152858">2022-03-07 15:28:58 UTC</a></sub>
 * [SpaceX on track for fourth Starlink launch in two weeks](https://www.teslarati.com/spacex-falcon-9-four-starlink-launches-two-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121424">2022-03-07 12:14:24 UTC</a></sub>
 * [China launches test satellites for broadband constellation](https://spacenews.com/china-launches-test-satellites-for-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121407">2022-03-07 12:14:07 UTC</a></sub>
 * [SpaceX’s first Jupiter launch a step closer as NASA begins assembling ‘Europa Clipper’](https://www.teslarati.com/spacex-jupiter-launch-nasa-europa-clipper-assembly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T012425">2022-03-07 01:24:25 UTC</a></sub>
-* [DoD wants ‘resilient’ space systems, but how to get there is still unclear](https://spacenews.com/dod-wants-resilient-space-systems-but-how-to-get-there-is-still-unclear/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220306T224407">2022-03-06 22:44:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T170933">2022-03-08 17:09:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T173454">2022-03-08 17:34:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
