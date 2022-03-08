@@ -182,16 +182,16 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Long March rocket deploys six Chinese internet satellites](https://spaceflightnow.com/2022/03/08/long-march-rocket-deploys-six-chinese-internet-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T203402">2022-03-08 20:34:02 UTC</a></sub>
+* [SpaceX upgrading Starship noses and domes for easier assembly](https://www.teslarati.com/spacex-starship-nose-dome-upgrades-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T201422">2022-03-08 20:14:22 UTC</a></sub>
 * [NASA's Angie Jackman Works to Develop Rocket That Will Bring Mars Samples to Earth](https://mars.nasa.gov/news/9141/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T174400">2022-03-08 17:44:00 UTC</a></sub>
 * [Astra blames launch failure on wiring error and software flaw](https://spacenews.com/astra-blames-launch-failure-on-wiring-error-and-software-flaw/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T123406">2022-03-08 12:34:06 UTC</a></sub>
 * [SpaceX Starbase facilities already taking advantage of new “Port Connector Road”](https://www.teslarati.com/spacex-starbase-brownsville-port-connector-road/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T121423">2022-03-08 12:14:23 UTC</a></sub>
 * [SpaceX worked for weeks to begin Starlink service in Ukraine](https://spacenews.com/spacex-worked-for-weeks-to-begin-starlink-service-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T104406">2022-03-08 10:44:06 UTC</a></sub>
 * [Beames becomes SpiderOak’s chairman of the board](https://spacenews.com/beames-joins-spideroak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T050406">2022-03-08 05:04:06 UTC</a></sub>
 * [Intelsat picks David Wajsgras as next CEO](https://spacenews.com/intelsat-picks-david-wajsgras-as-next-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T210408">2022-03-07 21:04:08 UTC</a></sub>
+* [War of words between Russian space chief and retired astronaut](https://spaceflightnow.com/2022/03/07/war-of-words-between-russian-space-chief-and-retired-astronaut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T203402">2022-03-07 20:34:02 UTC</a></sub>
 * [China launches new variant of Long March 8 rocket](https://spaceflightnow.com/2022/03/07/china-launches-new-variant-of-long-march-8-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T173402">2022-03-07 17:34:02 UTC</a></sub>
-* [How to save the International Space Station and prevent the dreaded “gap”](https://arstechnica.com/science/2022/03/how-to-save-the-international-space-station-and-prevent-the-dreaded-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T152858">2022-03-07 15:28:58 UTC</a></sub>
-* [SpaceX on track for fourth Starlink launch in two weeks](https://www.teslarati.com/spacex-falcon-9-four-starlink-launches-two-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121424">2022-03-07 12:14:24 UTC</a></sub>
-* [China launches test satellites for broadband constellation](https://spacenews.com/china-launches-test-satellites-for-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121407">2022-03-07 12:14:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T203423">2022-03-08 20:34:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T210239">2022-03-08 21:02:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
