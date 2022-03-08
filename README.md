@@ -182,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Iran’s military successfully launches satellite](https://spaceflightnow.com/2022/03/08/irans-military-successfully-launches-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T221403">2022-03-08 22:14:03 UTC</a></sub>
 * [U.S. general: Starlink in Ukraine showing what megaconstellations can do](https://spacenews.com/u-s-general-starlink-in-ukraine-showing-us-what-megaconstellations-can-do/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T214405">2022-03-08 21:44:05 UTC</a></sub>
 * [Long March rocket deploys six Chinese internet satellites](https://spaceflightnow.com/2022/03/08/long-march-rocket-deploys-six-chinese-internet-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T203402">2022-03-08 20:34:02 UTC</a></sub>
 * [SpaceX upgrading Starship noses and domes for easier assembly](https://www.teslarati.com/spacex-starship-nose-dome-upgrades-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T201422">2022-03-08 20:14:22 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Low Earth Orbit
 * [SpaceX worked for weeks to begin Starlink service in Ukraine](https://spacenews.com/spacex-worked-for-weeks-to-begin-starlink-service-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T104406">2022-03-08 10:44:06 UTC</a></sub>
 * [Beames becomes SpiderOak’s chairman of the board](https://spacenews.com/beames-joins-spideroak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T050406">2022-03-08 05:04:06 UTC</a></sub>
 * [Intelsat picks David Wajsgras as next CEO](https://spacenews.com/intelsat-picks-david-wajsgras-as-next-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T210408">2022-03-07 21:04:08 UTC</a></sub>
-* [War of words between Russian space chief and retired astronaut](https://spaceflightnow.com/2022/03/07/war-of-words-between-russian-space-chief-and-retired-astronaut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T203402">2022-03-07 20:34:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T220238">2022-03-08 22:02:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T223458">2022-03-08 22:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
