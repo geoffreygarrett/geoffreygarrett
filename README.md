@@ -183,6 +183,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK bans space-related exports to Russia](https://spacenews.com/uk-bans-space-related-exports-to-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T173406">2022-03-09 17:34:06 UTC</a></sub>
 * [Canada answers Ukraine’s call for satellite radar imagery](https://spacenews.com/canada-answers-ukraines-call-for-satellite-radar-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T145406">2022-03-09 14:54:06 UTC</a></sub>
 * [Congress finally delivers a budget, and NASA gets most of what it wants](https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T132230">2022-03-09 13:22:30 UTC</a></sub>
 * [Omnibus spending bill includes $24 billion for NASA for 2022](https://spacenews.com/omnibus-spending-bill-includes-24-billion-for-nasa-for-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T124407">2022-03-09 12:44:07 UTC</a></sub>
@@ -192,7 +193,6 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 * [U.S. general: Starlink in Ukraine showing what megaconstellations can do](https://spacenews.com/u-s-general-starlink-in-ukraine-showing-us-what-megaconstellations-can-do/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T214405">2022-03-08 21:44:05 UTC</a></sub>
 * [Long March rocket deploys six Chinese internet satellites](https://spaceflightnow.com/2022/03/08/long-march-rocket-deploys-six-chinese-internet-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T203402">2022-03-08 20:34:02 UTC</a></sub>
 * [SpaceX upgrading Starship noses and domes for easier assembly](https://www.teslarati.com/spacex-starship-nose-dome-upgrades-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T201422">2022-03-08 20:14:22 UTC</a></sub>
-* [NASA's Angie Jackman Works to Develop Rocket That Will Bring Mars Samples to Earth](https://mars.nasa.gov/news/9141/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T174400">2022-03-08 17:44:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T170808">2022-03-09 17:08:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T173509">2022-03-09 17:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
