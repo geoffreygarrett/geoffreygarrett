@@ -183,6 +183,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Omnibus spending bill includes $24 billion for NASA for 2022](https://spacenews.com/omnibus-spending-bill-includes-24-billion-for-nasa-for-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T124407">2022-03-09 12:44:07 UTC</a></sub>
 * [SatixFy to go public through latest space SPAC deal](https://spacenews.com/satixfy-to-go-public-through-latest-space-spac-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T232405">2022-03-08 23:24:05 UTC</a></sub>
 * [U.S. intelligence report: Multinational efforts needed to prevent wars in space](https://spacenews.com/u-s-intelligence-report-multinational-efforts-needed-to-prevent-wars-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T230406">2022-03-08 23:04:06 UTC</a></sub>
 * [Iran’s military successfully launches satellite](https://spaceflightnow.com/2022/03/08/irans-military-successfully-launches-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T221403">2022-03-08 22:14:03 UTC</a></sub>
@@ -192,7 +193,6 @@ into a Low Earth Orbit
 * [NASA's Angie Jackman Works to Develop Rocket That Will Bring Mars Samples to Earth](https://mars.nasa.gov/news/9141/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T174400">2022-03-08 17:44:00 UTC</a></sub>
 * [Astra blames launch failure on wiring error and software flaw](https://spacenews.com/astra-blames-launch-failure-on-wiring-error-and-software-flaw/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T123406">2022-03-08 12:34:06 UTC</a></sub>
 * [SpaceX Starbase facilities already taking advantage of new “Port Connector Road”](https://www.teslarati.com/spacex-starbase-brownsville-port-connector-road/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T121423">2022-03-08 12:14:23 UTC</a></sub>
-* [SpaceX worked for weeks to begin Starlink service in Ukraine](https://spacenews.com/spacex-worked-for-weeks-to-begin-starlink-service-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T104406">2022-03-08 10:44:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T120852">2022-03-09 12:08:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T125226">2022-03-09 12:52:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
