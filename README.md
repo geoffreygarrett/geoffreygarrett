@@ -183,7 +183,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NASA finally gets some clarity on its fiscal year 2022 budget](https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T132230">2022-03-09 13:22:30 UTC</a></sub>
+* [Congress finally delivers a budget, and NASA gets most of what it wants](https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T132230">2022-03-09 13:22:30 UTC</a></sub>
 * [Omnibus spending bill includes $24 billion for NASA for 2022](https://spacenews.com/omnibus-spending-bill-includes-24-billion-for-nasa-for-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T124407">2022-03-09 12:44:07 UTC</a></sub>
 * [SatixFy to go public through latest space SPAC deal](https://spacenews.com/satixfy-to-go-public-through-latest-space-spac-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T232405">2022-03-08 23:24:05 UTC</a></sub>
 * [U.S. intelligence report: Multinational efforts needed to prevent wars in space](https://spacenews.com/u-s-intelligence-report-multinational-efforts-needed-to-prevent-wars-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T230406">2022-03-08 23:04:06 UTC</a></sub>
@@ -225,7 +225,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T140228">2022-03-09 14:02:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T143252">2022-03-09 14:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
