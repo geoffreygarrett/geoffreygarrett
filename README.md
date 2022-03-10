@@ -183,6 +183,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD space agency funds development of laser terminal that connects to multiple satellite at once](https://spacenews.com/dod-space-agency-funds-development-of-laser-terminal-that-connects-to-multiple-satellite-at-once/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T150408">2022-03-10 15:04:08 UTC</a></sub>
 * [Chinese official calls for protection of space assets, international coordination mechanisms](https://spacenews.com/chinese-official-calls-for-protection-of-space-assets-international-coordination-mechanisms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T140405">2022-03-10 14:04:05 UTC</a></sub>
 * [Slingshot Aerospace closes $25 million fundraising round](https://spacenews.com/slingshot-aerospace-closes-25-million-fundraising-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T130406">2022-03-10 13:04:06 UTC</a></sub>
 * [Omnibus bill cuts funding for future weather satellites](https://spacenews.com/omnibus-bill-cuts-funding-for-future-weather-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T125405">2022-03-10 12:54:05 UTC</a></sub>
@@ -192,7 +193,6 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 * [Canada answers Ukraine’s call for satellite radar imagery](https://spacenews.com/canada-answers-ukraines-call-for-satellite-radar-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T145406">2022-03-09 14:54:06 UTC</a></sub>
 * [Congress finally delivers a budget, and NASA gets most of what it wants](https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T132230">2022-03-09 13:22:30 UTC</a></sub>
 * [Omnibus spending bill includes $24 billion for NASA for 2022](https://spacenews.com/omnibus-spending-bill-includes-24-billion-for-nasa-for-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T124407">2022-03-09 12:44:07 UTC</a></sub>
-* [SpaceX “broomstick” launches 40th Starlink mission](https://spaceflightnow.com/2022/03/09/spacex-broomstick-launches-40th-starlink-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T012401">2022-03-09 01:24:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T143145">2022-03-10 14:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T150634">2022-03-10 15:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
