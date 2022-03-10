@@ -183,6 +183,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Coverage, Activities Set for First Rollout of NASA’s Mega Moon Rocket](http://www.nasa.gov/press-release/coverage-activities-set-for-first-rollout-of-nasa-s-mega-moon-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T200400">2022-03-10 20:04:00 UTC</a></sub>
 * [NASA to Air Briefing, Spacewalks to Upgrade Space Station](http://www.nasa.gov/press-release/nasa-to-air-briefing-spacewalks-to-upgrade-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T161400">2022-03-10 16:14:00 UTC</a></sub>
 * [DoD space agency funds development of laser terminal that connects to multiple satellite at once](https://spacenews.com/dod-space-agency-funds-development-of-laser-terminal-that-connects-to-multiple-satellite-at-once/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T150408">2022-03-10 15:04:08 UTC</a></sub>
 * [Chinese official calls for protection of space assets, international coordination mechanisms](https://spacenews.com/chinese-official-calls-for-protection-of-space-assets-international-coordination-mechanisms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T140405">2022-03-10 14:04:05 UTC</a></sub>
@@ -192,7 +193,6 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 * [Voters block agreement for planned Georgia spaceport](https://spacenews.com/voters-block-agreement-for-planned-georgia-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T112406">2022-03-10 11:24:06 UTC</a></sub>
 * [UK bans space-related exports to Russia](https://spacenews.com/uk-bans-space-related-exports-to-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T173406">2022-03-09 17:34:06 UTC</a></sub>
 * [Canada answers Ukraine’s call for satellite radar imagery](https://spacenews.com/canada-answers-ukraines-call-for-satellite-radar-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T145406">2022-03-09 14:54:06 UTC</a></sub>
-* [Congress finally delivers a budget, and NASA gets most of what it wants](https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T132230">2022-03-09 13:22:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -203,6 +203,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Another Day in Action](https://www.planetary.org/articles/2022-day-of-action-recap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T203423">2022-03-10 20:34:23 UTC</a></sub>
 * [How we test spacecraft before launch](https://www.planetary.org/articles/how-we-test-spacecraft-before-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T150418">2022-03-09 15:04:18 UTC</a></sub>
 * [R/S RocketShip: Meet the special ship that brings ULA rockets to the launch site](https://blog.ulalaunch.com/blog/r/s-rocketship-meet-the-special-ship-that-brings-ula-rockets-to-the-launch-site) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T144430">2022-03-08 14:44:30 UTC</a></sub>
 * [A fascination with Europa](https://www.planetary.org/articles/a-fascination-with-europa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153424">2022-03-07 15:34:24 UTC</a></sub>
@@ -212,7 +213,6 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 * [The best space pictures from the Voyager 1 and 2 missions](https://www.planetary.org/articles/best-space-pictures-nasa-voyager-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T150420">2022-03-03 15:04:20 UTC</a></sub>
 * [Day of Action 2022: International Action](https://www.planetary.org/advocacy/day-of-action-2022-international-action) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T192403">2022-03-02 19:24:03 UTC</a></sub>
 * [Pioneer 10 and 11, outer solar system explorers](https://www.planetary.org/space-missions/pioneer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T150402">2022-03-02 15:04:02 UTC</a></sub>
-* [GOES-T: ULA successfully launches Atlas V](https://blog.ulalaunch.com/blog/sbirs-geo-flight-5-ula-successfully-launches-atlas-v-0-0-0-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T014415">2022-03-01 01:44:15 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -225,7 +225,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T200358">2022-03-10 20:03:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T203439">2022-03-10 20:34:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
