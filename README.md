@@ -187,12 +187,12 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 * [Canada answers Ukraine’s call for satellite radar imagery](https://spacenews.com/canada-answers-ukraines-call-for-satellite-radar-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T145406">2022-03-09 14:54:06 UTC</a></sub>
 * [Congress finally delivers a budget, and NASA gets most of what it wants](https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T132230">2022-03-09 13:22:30 UTC</a></sub>
 * [Omnibus spending bill includes $24 billion for NASA for 2022](https://spacenews.com/omnibus-spending-bill-includes-24-billion-for-nasa-for-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T124407">2022-03-09 12:44:07 UTC</a></sub>
+* [SpaceX “broomstick” launches 40th Starlink mission](https://spaceflightnow.com/2022/03/09/spacex-broomstick-launches-40th-starlink-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T012401">2022-03-09 01:24:01 UTC</a></sub>
+* [Schedule tight for June launch of first Momentus tug](https://spacenews.com/schedule-tight-for-june-launch-of-first-momentus-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T004405">2022-03-09 00:44:05 UTC</a></sub>
+* [Space programs moving up on DoD’s budget priority list](https://spacenews.com/space-programs-moving-up-on-dods-list-of-budget-priorities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T003407">2022-03-09 00:34:07 UTC</a></sub>
 * [SatixFy to go public through latest space SPAC deal](https://spacenews.com/satixfy-to-go-public-through-latest-space-spac-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T232405">2022-03-08 23:24:05 UTC</a></sub>
 * [U.S. intelligence report: Multinational efforts needed to prevent wars in space](https://spacenews.com/u-s-intelligence-report-multinational-efforts-needed-to-prevent-wars-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T230406">2022-03-08 23:04:06 UTC</a></sub>
 * [Iran’s military successfully launches satellite](https://spaceflightnow.com/2022/03/08/irans-military-successfully-launches-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T221403">2022-03-08 22:14:03 UTC</a></sub>
-* [U.S. general: Starlink in Ukraine showing what megaconstellations can do](https://spacenews.com/u-s-general-starlink-in-ukraine-showing-us-what-megaconstellations-can-do/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T214405">2022-03-08 21:44:05 UTC</a></sub>
-* [Long March rocket deploys six Chinese internet satellites](https://spaceflightnow.com/2022/03/08/long-march-rocket-deploys-six-chinese-internet-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T203402">2022-03-08 20:34:02 UTC</a></sub>
-* [SpaceX upgrading Starship noses and domes for easier assembly](https://www.teslarati.com/spacex-starship-nose-dome-upgrades-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T201422">2022-03-08 20:14:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T002145">2022-03-10 00:21:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T015614">2022-03-10 01:56:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
