@@ -183,6 +183,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrolab unveils Artemis lunar rover design](https://spacenews.com/astrolab-unveils-artemis-lunar-rover-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T234406">2022-03-10 23:44:06 UTC</a></sub>
 * [SpaceX’s first 33-engine Super Heavy booster reaches full height](https://www.teslarati.com/spacex-super-heavy-33-engine-prototype-stacked/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T224425">2022-03-10 22:44:25 UTC</a></sub>
 * [Soyuz embargo strands satellites with limited launch options](https://spacenews.com/soyuz-orphans-draft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T214408">2022-03-10 21:44:08 UTC</a></sub>
 * [Coverage, Activities Set for First Rollout of NASA’s Mega Moon Rocket](http://www.nasa.gov/press-release/coverage-activities-set-for-first-rollout-of-nasa-s-mega-moon-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T200400">2022-03-10 20:04:00 UTC</a></sub>
@@ -192,7 +193,6 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 * [Slingshot Aerospace closes $25 million fundraising round](https://spacenews.com/slingshot-aerospace-closes-25-million-fundraising-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T130406">2022-03-10 13:04:06 UTC</a></sub>
 * [Omnibus bill cuts funding for future weather satellites](https://spacenews.com/omnibus-bill-cuts-funding-for-future-weather-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T125405">2022-03-10 12:54:05 UTC</a></sub>
 * [SpaceX rapidly reuses converted Falcon Heavy booster](https://www.teslarati.com/spacex-starlink-launch-falcon-heavy-booster-reuse/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T120422">2022-03-10 12:04:22 UTC</a></sub>
-* [Voters block agreement for planned Georgia spaceport](https://spacenews.com/voters-block-agreement-for-planned-georgia-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T112406">2022-03-10 11:24:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T233400">2022-03-10 23:34:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T002757">2022-03-11 00:27:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
