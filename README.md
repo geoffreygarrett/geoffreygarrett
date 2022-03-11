@@ -191,8 +191,8 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 * [Soyuz embargo strands satellites with limited launch options](https://spacenews.com/soyuz-orphans-draft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T214408">2022-03-10 21:44:08 UTC</a></sub>
 * [Coverage, Activities Set for First Rollout of NASA’s Mega Moon Rocket](http://www.nasa.gov/press-release/coverage-activities-set-for-first-rollout-of-nasa-s-mega-moon-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T200400">2022-03-10 20:04:00 UTC</a></sub>
 * [NASA to Air Briefing, Spacewalks to Upgrade Space Station](http://www.nasa.gov/press-release/nasa-to-air-briefing-spacewalks-to-upgrade-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T161400">2022-03-10 16:14:00 UTC</a></sub>
+* [GOES-T weather satellite resumes orbit-raising after minor snag](https://spaceflightnow.com/2022/03/10/goes-t-resumes-orbit-raising-after-minor-snag/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T160402">2022-03-10 16:04:02 UTC</a></sub>
 * [DoD space agency funds development of laser terminal that connects to multiple satellite at once](https://spacenews.com/dod-space-agency-funds-development-of-laser-terminal-that-connects-to-multiple-satellite-at-once/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T150408">2022-03-10 15:04:08 UTC</a></sub>
-* [Chinese official calls for protection of space assets, international coordination mechanisms](https://spacenews.com/chinese-official-calls-for-protection-of-space-assets-international-coordination-mechanisms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T140405">2022-03-10 14:04:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T160631">2022-03-11 16:06:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T165123">2022-03-11 16:51:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
