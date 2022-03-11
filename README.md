@@ -183,6 +183,9 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch AST SpaceMobile’s first space-based cell towers](https://www.teslarati.com/spacex-ast-spacemobile-bluebird-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T121422">2022-03-11 12:14:22 UTC</a></sub>
+* [China to open space station to commercial activity](https://spacenews.com/china-to-open-space-station-to-commercial-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T121406">2022-03-11 12:14:06 UTC</a></sub>
+* [Rocket Report: Ariane 6 workers are “hyperstressed,” SpaceX retort to Rogozin](https://arstechnica.com/science/2022/03/rocket-report-ariane-6-workers-are-hyperstressed-spacex-retort-to-rogozin/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T120022">2022-03-11 12:00:22 UTC</a></sub>
 * [Astrolab unveils Artemis lunar rover design](https://spacenews.com/astrolab-unveils-artemis-lunar-rover-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T234406">2022-03-10 23:44:06 UTC</a></sub>
 * [SpaceX’s first 33-engine Super Heavy booster reaches full height](https://www.teslarati.com/spacex-super-heavy-33-engine-prototype-stacked/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T224425">2022-03-10 22:44:25 UTC</a></sub>
 * [Soyuz embargo strands satellites with limited launch options](https://spacenews.com/soyuz-orphans-draft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T214408">2022-03-10 21:44:08 UTC</a></sub>
@@ -190,9 +193,6 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 * [NASA to Air Briefing, Spacewalks to Upgrade Space Station](http://www.nasa.gov/press-release/nasa-to-air-briefing-spacewalks-to-upgrade-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T161400">2022-03-10 16:14:00 UTC</a></sub>
 * [DoD space agency funds development of laser terminal that connects to multiple satellite at once](https://spacenews.com/dod-space-agency-funds-development-of-laser-terminal-that-connects-to-multiple-satellite-at-once/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T150408">2022-03-10 15:04:08 UTC</a></sub>
 * [Chinese official calls for protection of space assets, international coordination mechanisms](https://spacenews.com/chinese-official-calls-for-protection-of-space-assets-international-coordination-mechanisms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T140405">2022-03-10 14:04:05 UTC</a></sub>
-* [Slingshot Aerospace closes $25 million fundraising round](https://spacenews.com/slingshot-aerospace-closes-25-million-fundraising-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T130406">2022-03-10 13:04:06 UTC</a></sub>
-* [Omnibus bill cuts funding for future weather satellites](https://spacenews.com/omnibus-bill-cuts-funding-for-future-weather-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T125405">2022-03-10 12:54:05 UTC</a></sub>
-* [SpaceX rapidly reuses converted Falcon Heavy booster](https://www.teslarati.com/spacex-starlink-launch-falcon-heavy-booster-reuse/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T120422">2022-03-10 12:04:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T120841">2022-03-11 12:08:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T125215">2022-03-11 12:52:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
