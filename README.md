@@ -97,7 +97,7 @@ Astra Rocket 3 | S4 CROSSOVER at the
 <a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3B</a> in
 Pacific Spaceport Complex, Alaska, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220313T152200">2022-03-13 15:22:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T152200">2022-03-14 15:22:00 UTC</a>.  Until
 then, this launch pad will have seen 4
 out of 7 launches in this
 region. The mission's status is currently To Be Confirmed
@@ -129,7 +129,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>S4 CROSSOVER</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220313T152200">2022-03-13 15:22:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | S4 CROSSOVER&location=Pacific Spaceport Complex, Alaska, USA&dates=20220313T152200Z%2F20220313T162200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>S4 CROSSOVER</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T152200">2022-03-14 15:22:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | S4 CROSSOVER&location=Pacific Spaceport Complex, Alaska, USA&dates=20220314T152200Z%2F20220314T162200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Soyuz MS-21</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T155519">2022-03-18 15:55:19 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-21&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220318T155519Z%2F20220318T155519Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T013000">2022-03-19 01:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-12&location=Cape Canaveral, FL, USA&dates=20220319T013000Z%2F20220319T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Axiom Space Mission 1</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T184600">2022-03-30 18:46:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 1&location=Kennedy Space Center, FL, USA&dates=20220330T184600Z%2F20220330T184600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -183,6 +183,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ingenuity still “as good as new” after nearly a year on Mars](https://spacenews.com/ingenuity-still-as-good-as-new-after-nearly-a-year-on-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T143408">2022-03-12 14:34:08 UTC</a></sub>
 * [Bahrain joins Artemis Accords](https://spacenews.com/bahrain-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T123407">2022-03-12 12:34:07 UTC</a></sub>
 * [AST SpaceMobile books more SpaceX rides months after canceling Soyuz reservation](https://spacenews.com/ast-spacemobile-books-more-spacex-rides-months-after-canceling-soyuz-reservation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T225406">2022-03-11 22:54:06 UTC</a></sub>
 * [Boeing Starliner test flight next on ULA’s launch schedule](https://spaceflightnow.com/2022/03/11/boeing-starliner-test-flight-next-on-ulas-launch-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T203403">2022-03-11 20:34:03 UTC</a></sub>
@@ -192,7 +193,6 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 * [Rocket Report: Ariane 6 workers are “hyperstressed,” SpaceX retort to Rogozin](https://arstechnica.com/science/2022/03/rocket-report-ariane-6-workers-are-hyperstressed-spacex-retort-to-rogozin/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T120022">2022-03-11 12:00:22 UTC</a></sub>
 * [Astrolab unveils Artemis lunar rover design](https://spacenews.com/astrolab-unveils-artemis-lunar-rover-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T234406">2022-03-10 23:44:06 UTC</a></sub>
 * [SpaceX’s first 33-engine Super Heavy booster reaches full height](https://www.teslarati.com/spacex-super-heavy-33-engine-prototype-stacked/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T224425">2022-03-10 22:44:25 UTC</a></sub>
-* [Soyuz embargo strands satellites with limited launch options](https://spacenews.com/soyuz-orphans-draft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T214408">2022-03-10 21:44:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T143214">2022-03-12 14:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T150604">2022-03-12 15:06:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
