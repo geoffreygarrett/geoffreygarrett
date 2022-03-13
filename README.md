@@ -181,6 +181,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Congress gives DoD more money for space, with caveats](https://spacenews.com/congress-gives-dod-more-money-for-space-with-caveats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220313T210407">2022-03-13 21:04:07 UTC</a></sub>
 * [From the archives | An untethered Ukraine seeks new orbits for its space industry](https://spacenews.com/from-the-archives-an-untethered-ukraine-seeks-new-orbits-for-its-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T214407">2022-03-12 21:44:07 UTC</a></sub>
 * [From the archives | How Crimea’s annexation hurt Ukraine’s space program](https://spacenews.com/from-the-archives-how-crimeas-annexation-hurt-ukraines-space-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T210409">2022-03-12 21:04:09 UTC</a></sub>
 * [Ingenuity still “as good as new” after nearly a year on Mars](https://spacenews.com/ingenuity-still-as-good-as-new-after-nearly-a-year-on-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T143408">2022-03-12 14:34:08 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Low Earth Orbit
 * [No, Russia has not threatened to leave an American astronaut behind in space](https://arstechnica.com/science/2022/03/after-two-weeks-of-war-the-international-space-station-flies-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T193807">2022-03-11 19:38:07 UTC</a></sub>
 * [SpaceX to launch AST SpaceMobile’s first space-based cell towers](https://www.teslarati.com/spacex-ast-spacemobile-bluebird-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T121422">2022-03-11 12:14:22 UTC</a></sub>
 * [China to open space station to commercial activity](https://spacenews.com/china-to-open-space-station-to-commercial-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T121406">2022-03-11 12:14:06 UTC</a></sub>
-* [Rocket Report: Ariane 6 workers are “hyperstressed,” SpaceX retort to Rogozin](https://arstechnica.com/science/2022/03/rocket-report-ariane-6-workers-are-hyperstressed-spacex-retort-to-rogozin/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T120022">2022-03-11 12:00:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220313T213145">2022-03-13 21:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220313T220306">2022-03-13 22:03:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
