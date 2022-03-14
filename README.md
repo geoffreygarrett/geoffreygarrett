@@ -93,7 +93,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Astra Rocket 3 | S4 CROSSOVER at the
+Astra Rocket 3 | Spaceflight Astra-1 at the
 <a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3B</a> in
 Pacific Spaceport Complex, Alaska, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
@@ -108,8 +108,9 @@ into a Sun-Synchronous Orbit
 (SSO).
 <br>
 <blockquote>
-  The goal of the S4 CROSSOVER mission, is to obtain flight heritage testing for a prototype payload host platform. Features that will be tested for use in supporting future payloads, include a
-Globalstar transmitter and an Iridium transceiver, as well space environmental instruments to characterize the radiation and plasma densities to which the payloads will be exposed. S4 CROSSOVER is self powered and operates independently of the larger Astra launch vehicle second stage to which it is permanently attached.
+  S4 CROSSOVER is a technology demonstration mission to obtain flight heritage testing for a prototype payload host platform. It will test supporting future payloads, including a Globalstar transmitter and an Iridium transceiver, as well space environmental instruments to characterize the radiation and plasma densities to which the payloads will be exposed. S4 CROSSOVER is self powered and operates independently of the Astra second stage to which it is permanently attached.
+
+Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSat satellite system built from scratch by students at Portland State University. Slated to be Oregon’s first satellite, the 1U CubeSat provides flight heritage for the modular, expandable, open source, and education-friendly OreSat bus. OreSat0 paves the way for OreSat, a NASA CSLI program 2U CubeSat with a global climate science and STEM outreach mission.
 </blockquote>
 
 <p float="left" align="center">
@@ -129,7 +130,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>S4 CROSSOVER</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T162200">2022-03-14 16:22:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | S4 CROSSOVER&location=Pacific Spaceport Complex, Alaska, USA&dates=20220314T162200Z%2F20220314T165100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Spaceflight Astra-1</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T162200">2022-03-14 16:22:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | Spaceflight Astra-1&location=Pacific Spaceport Complex, Alaska, USA&dates=20220314T162200Z%2F20220314T165100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Soyuz MS-21</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T155519">2022-03-18 15:55:19 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-21&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220318T155519Z%2F20220318T155519Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T013000">2022-03-19 01:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-12&location=Cape Canaveral, FL, USA&dates=20220319T013000Z%2F20220319T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NS-20</b> from Corn Ranch, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T133000">2022-03-23 13:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-20&location=Corn Ranch, USA&dates=20220323T133000Z%2F20220323T163000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -202,6 +203,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The two-faced Moon](https://www.planetary.org/articles/the-two-faced-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T140432">2022-03-14 14:04:32 UTC</a></sub>
 * [Dive into these ocean worlds](https://www.planetary.org/the-downlink/dive-into-these-ocean-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T153420">2022-03-11 15:34:20 UTC</a></sub>
 * [Another Day in Action](https://www.planetary.org/articles/2022-day-of-action-recap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T203423">2022-03-10 20:34:23 UTC</a></sub>
 * [How we test spacecraft before launch](https://www.planetary.org/articles/how-we-test-spacecraft-before-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T150418">2022-03-09 15:04:18 UTC</a></sub>
@@ -211,7 +213,6 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 * [Where are the ocean worlds in our solar system?](https://www.planetary.org/articles/where-are-the-ocean-worlds-in-our-solar-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153421">2022-03-07 15:34:21 UTC</a></sub>
 * [Space brings out the best in us](https://www.planetary.org/the-downlink/space-brings-out-the-best-in-us) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T153420">2022-03-04 15:34:20 UTC</a></sub>
 * [The best space pictures from the Voyager 1 and 2 missions](https://www.planetary.org/articles/best-space-pictures-nasa-voyager-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T150420">2022-03-03 15:04:20 UTC</a></sub>
-* [Day of Action 2022: International Action](https://www.planetary.org/advocacy/day-of-action-2022-international-action) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T192403">2022-03-02 19:24:03 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -224,7 +225,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T140252">2022-03-14 14:02:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T143254">2022-03-14 14:32:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
