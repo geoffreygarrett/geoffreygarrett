@@ -97,7 +97,7 @@ Astra Rocket 3 | Spaceflight Astra-1 at the
 <a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3B</a> in
 Pacific Spaceport Complex, Alaska, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T162200">2022-03-14 16:22:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T162200">2022-03-15 16:22:00 UTC</a>.  Until
 then, this launch pad will have seen 4
 out of 7 launches in this
 region. The mission's status is currently Go for Launch
@@ -130,7 +130,7 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Spaceflight Astra-1</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T162200">2022-03-14 16:22:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | Spaceflight Astra-1&location=Pacific Spaceport Complex, Alaska, USA&dates=20220314T162200Z%2F20220314T165100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Spaceflight Astra-1</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T162200">2022-03-15 16:22:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | Spaceflight Astra-1&location=Pacific Spaceport Complex, Alaska, USA&dates=20220315T162200Z%2F20220315T165100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Soyuz MS-21</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T155519">2022-03-18 15:55:19 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-21&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220318T155519Z%2F20220318T155519Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T025500">2022-03-19 02:55:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-12&location=Cape Canaveral, FL, USA&dates=20220319T025500Z%2F20220319T025500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NS-20</b> from Corn Ranch, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T133000">2022-03-23 13:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-20&location=Corn Ranch, USA&dates=20220323T133000Z%2F20220323T163000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -183,16 +183,16 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra scrubs return-to-flight launch from Alaska](https://spaceflightnow.com/2022/03/14/astra-lv0009/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T164755">2022-03-14 16:47:55 UTC</a></sub>
+* [NASA to Discuss Progress as Webb Telescope’s Mirrors Align](http://www.nasa.gov/press-release/nasa-to-discuss-progress-as-webb-telescope-s-mirrors-align) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T162900">2022-03-14 16:29:00 UTC</a></sub>
+* [Astra scrubs return to flight mission for weather](https://www.nasaspaceflight.com/2022/03/astra-return-to-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T133359">2022-03-14 13:33:59 UTC</a></sub>
 * [Astra gears up for next launch, signs Spaceflight contract](https://spacenews.com/astra-gears-up-for-next-launch-signs-spaceflight-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T130422">2022-03-14 13:04:22 UTC</a></sub>
 * [SpaceX Falcon Heavy booster spotted at Kennedy Space Center](https://www.teslarati.com/spacex-falcon-heavy-launch-delays-booster-appearance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T111427">2022-03-14 11:14:27 UTC</a></sub>
 * [Congress gives DoD more money for space, with caveats](https://spacenews.com/congress-gives-dod-more-money-for-space-with-caveats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220313T210407">2022-03-13 21:04:07 UTC</a></sub>
+* [Methalox race likely to be won in 2022, but winner not yet clear](https://www.nasaspaceflight.com/2022/03/methalox-race-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220313T150716">2022-03-13 15:07:16 UTC</a></sub>
 * [From the archives | An untethered Ukraine seeks new orbits for its space industry](https://spacenews.com/from-the-archives-an-untethered-ukraine-seeks-new-orbits-for-its-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T214407">2022-03-12 21:44:07 UTC</a></sub>
 * [From the archives | How Crimea’s annexation hurt Ukraine’s space program](https://spacenews.com/from-the-archives-how-crimeas-annexation-hurt-ukraines-space-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T210409">2022-03-12 21:04:09 UTC</a></sub>
 * [Ingenuity still “as good as new” after nearly a year on Mars](https://spacenews.com/ingenuity-still-as-good-as-new-after-nearly-a-year-on-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T143408">2022-03-12 14:34:08 UTC</a></sub>
-* [Bahrain joins Artemis Accords](https://spacenews.com/bahrain-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T123407">2022-03-12 12:34:07 UTC</a></sub>
-* [AST SpaceMobile books more SpaceX rides months after canceling Soyuz reservation](https://spacenews.com/ast-spacemobile-books-more-spacex-rides-months-after-canceling-soyuz-reservation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T225406">2022-03-11 22:54:06 UTC</a></sub>
-* [Boeing Starliner test flight next on ULA’s launch schedule](https://spaceflightnow.com/2022/03/11/boeing-starliner-test-flight-next-on-ulas-launch-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T203403">2022-03-11 20:34:03 UTC</a></sub>
-* [No, Russia has not threatened to leave an American astronaut behind in space](https://arstechnica.com/science/2022/03/after-two-weeks-of-war-the-international-space-station-flies-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T193807">2022-03-11 19:38:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T160713">2022-03-14 16:07:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T165135">2022-03-14 16:51:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
