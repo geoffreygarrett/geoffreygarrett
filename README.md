@@ -180,6 +180,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon Heavy booster spotted at Kennedy Space Center](https://www.teslarati.com/spacex-falcon-heavy-launch-delays-booster-appearance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T111427">2022-03-14 11:14:27 UTC</a></sub>
 * [Congress gives DoD more money for space, with caveats](https://spacenews.com/congress-gives-dod-more-money-for-space-with-caveats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220313T210407">2022-03-13 21:04:07 UTC</a></sub>
 * [From the archives | An untethered Ukraine seeks new orbits for its space industry](https://spacenews.com/from-the-archives-an-untethered-ukraine-seeks-new-orbits-for-its-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T214407">2022-03-12 21:44:07 UTC</a></sub>
 * [From the archives | How Crimea’s annexation hurt Ukraine’s space program](https://spacenews.com/from-the-archives-how-crimeas-annexation-hurt-ukraines-space-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T210409">2022-03-12 21:04:09 UTC</a></sub>
@@ -189,7 +190,6 @@ into a Low Earth Orbit
 * [Boeing Starliner test flight next on ULA’s launch schedule](https://spaceflightnow.com/2022/03/11/boeing-starliner-test-flight-next-on-ulas-launch-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T203403">2022-03-11 20:34:03 UTC</a></sub>
 * [No, Russia has not threatened to leave an American astronaut behind in space](https://arstechnica.com/science/2022/03/after-two-weeks-of-war-the-international-space-station-flies-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T193807">2022-03-11 19:38:07 UTC</a></sub>
 * [SpaceX to launch AST SpaceMobile’s first space-based cell towers](https://www.teslarati.com/spacex-ast-spacemobile-bluebird-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T121422">2022-03-11 12:14:22 UTC</a></sub>
-* [China to open space station to commercial activity](https://spacenews.com/china-to-open-space-station-to-commercial-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T121406">2022-03-11 12:14:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T110241">2022-03-14 11:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T113109">2022-03-14 11:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
