@@ -181,6 +181,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra’s Rocket 3.3 returns to flight with successful launch](https://spacenews.com/astras-rocket-3-3-returns-to-flight-with-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T181758">2022-03-15 18:17:58 UTC</a></sub>
 * [Kymeta secures $84 million to scale up antenna production](https://spacenews.com/kymeta-secures-84-million-to-scale-up-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T160759">2022-03-15 16:07:59 UTC</a></sub>
 * [Ukrainian space industry players continue work, eye European projects amid war](https://spacenews.com/ukrainian-space-industry-players-continue-work-eye-european-projects-amid-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T125759">2022-03-15 12:57:59 UTC</a></sub>
 * [Watch live: Astronauts head outside space station to prep for new solar arrays](https://spaceflightnow.com/2022/03/15/iss-us-eva-79/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T123755">2022-03-15 12:37:55 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Low Earth Orbit
 * [SpaceX preparing for third Starship ‘full stack’](https://www.teslarati.com/spacex-starship-third-full-stack-preparations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T105821">2022-03-15 10:58:21 UTC</a></sub>
 * [Agile supplies thrusters for Astrobotic, ispace and Masten lunar landers](https://spacenews.com/agile-space-industries-lunar-lander-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T231800">2022-03-14 23:18:00 UTC</a></sub>
 * [DoD decommissions two missile-tracking satellites after 12 years in orbit](https://spacenews.com/dod-decommissions-two-missile-tracking-satellites-after-12-years-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T225759">2022-03-14 22:57:59 UTC</a></sub>
-* [Launch of U.S. Space Force missile-warning satellite delayed indefinitely](https://spacenews.com/launch-of-u-s-space-force-missile-warning-satellite-delayed-indefinitely/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T212801">2022-03-14 21:28:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T180706">2022-03-15 18:07:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T184019">2022-03-15 18:40:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
