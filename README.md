@@ -181,6 +181,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Extends Ingenuity Helicopter Mission](https://mars.nasa.gov/news/9146/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T204800">2022-03-15 20:48:00 UTC</a></sub>
 * [DoD estimates $2.5 billion price tag for global constellation to track hypersonic missiles](https://spacenews.com/dod-estimates-2-5-billion-price-tag-for-global-constellation-to-track-hypersonic-missiles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T190759">2022-03-15 19:07:59 UTC</a></sub>
 * [Astra’s Rocket 3.3 returns to flight with successful launch](https://spacenews.com/astras-rocket-3-3-returns-to-flight-with-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T181758">2022-03-15 18:17:58 UTC</a></sub>
 * [Kymeta secures $84 million to scale up antenna production](https://spacenews.com/kymeta-secures-84-million-to-scale-up-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T160759">2022-03-15 16:07:59 UTC</a></sub>
@@ -190,7 +191,6 @@ into a Low Earth Orbit
 * [NASA ready to roll out SLS](https://spacenews.com/nasa-ready-to-roll-out-sls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T114759">2022-03-15 11:47:59 UTC</a></sub>
 * [Space station operations remain normal despite geopolitical tensions](https://spacenews.com/space-station-operations-remain-normal-despite-geopolitical-tensions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T110759">2022-03-15 11:07:59 UTC</a></sub>
 * [SpaceX preparing for third Starship ‘full stack’](https://www.teslarati.com/spacex-starship-third-full-stack-preparations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T105821">2022-03-15 10:58:21 UTC</a></sub>
-* [Agile supplies thrusters for Astrobotic, ispace and Masten lunar landers](https://spacenews.com/agile-space-industries-lunar-lander-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T231800">2022-03-14 23:18:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T203433">2022-03-15 20:34:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T210156">2022-03-15 21:01:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
