@@ -184,6 +184,8 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Astronauts head outside space station to prep for new solar arrays](https://spaceflightnow.com/2022/03/15/iss-us-eva-79/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T123755">2022-03-15 12:37:55 UTC</a></sub>
+* [ISS astronauts conduct spacewalk as busy period of station operations begins](https://www.nasaspaceflight.com/2022/03/us-eva-79/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T121445">2022-03-15 12:14:45 UTC</a></sub>
 * [NASA ready to roll out SLS](https://spacenews.com/nasa-ready-to-roll-out-sls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T114759">2022-03-15 11:47:59 UTC</a></sub>
 * [Space station operations remain normal despite geopolitical tensions](https://spacenews.com/space-station-operations-remain-normal-despite-geopolitical-tensions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T110759">2022-03-15 11:07:59 UTC</a></sub>
 * [SpaceX preparing for third Starship ‘full stack’](https://www.teslarati.com/spacex-starship-third-full-stack-preparations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T105821">2022-03-15 10:58:21 UTC</a></sub>
@@ -192,8 +194,6 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 * [Launch of U.S. Space Force missile-warning satellite delayed indefinitely](https://spacenews.com/launch-of-u-s-space-force-missile-warning-satellite-delayed-indefinitely/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T212801">2022-03-14 21:28:01 UTC</a></sub>
 * [OneWeb not eager to tear up launch contract with Arianespace](https://spaceflightnow.com/2022/03/14/oneweb-discussing-backup-launch-options-with-arianespace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T212756">2022-03-14 21:27:56 UTC</a></sub>
 * [DoD wants to change how it buys space technology – but can it?](https://spacenews.com/dod-wants-to-change-how-it-buys-space-technology-but-can-it/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T210800">2022-03-14 21:08:00 UTC</a></sub>
-* [Astra scrubs return-to-flight launch from Alaska](https://spaceflightnow.com/2022/03/14/astra-lv0009/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T164755">2022-03-14 16:47:55 UTC</a></sub>
-* [NASA to Discuss Progress as Webb Telescope’s Mirrors Align](http://www.nasa.gov/press-release/nasa-to-discuss-progress-as-webb-telescope-s-mirrors-align) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T162900">2022-03-14 16:29:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T120904">2022-03-15 12:09:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T125431">2022-03-15 12:54:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
