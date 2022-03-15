@@ -93,31 +93,29 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Astra Rocket 3 | Spaceflight Astra-1 at the
-<a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3B</a> in
-Pacific Spaceport Complex, Alaska, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T162200">2022-03-15 16:22:00 UTC</a>.  Until
-then, this launch pad will have seen 4
-out of 7 launches in this
+Long March 4C | Yaogan 34-02 (?) at the
+<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a> in
+Jiuquan, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T070000">2022-03-17 07:00:00 UTC</a>.  Until
+then, this launch pad will have seen 78
+out of 158 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* The mission type is
-Technology and the payload will be injected
-into a Sun-Synchronous Orbit
-(SSO).
+Government/Top Secret and the payload will be injected
+into a Low Earth Orbit
+(LEO).
 <br>
 <blockquote>
-  S4 CROSSOVER is a technology demonstration mission to obtain flight heritage testing for a prototype payload host platform. It will test supporting future payloads, including a Globalstar transmitter and an Iridium transceiver, as well space environmental instruments to characterize the radiation and plasma densities to which the payloads will be exposed. S4 CROSSOVER is self powered and operates independently of the Astra second stage to which it is permanently attached.
-
-Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSat satellite system built from scratch by students at Portland State University. Slated to be Oregon’s first satellite, the 1U CubeSat provides flight heritage for the modular, expandable, open source, and education-friendly OreSat bus. OreSat0 paves the way for OreSat, a NASA CSLI program 2U CubeSat with a global climate science and STEM outreach mission.
+  Officially described as an optical remote-sensing satellite built by SAST.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Astra_Space" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_4C" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.ee/maps/search/57.430673,-152.353077" >
+  <a href="http://maps.google.com/maps?q=40.960556,100.298333" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -130,7 +128,6 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Spaceflight Astra-1</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T162200">2022-03-15 16:22:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | Spaceflight Astra-1&location=Pacific Spaceport Complex, Alaska, USA&dates=20220315T162200Z%2F20220315T165100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Yaogan 34-02</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T070000">2022-03-17 07:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Yaogan 34-02 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20220317T070000Z%2F20220317T072800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Soyuz MS-21</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T155519">2022-03-18 15:55:19 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-21&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220318T155519Z%2F20220318T155519Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T025500">2022-03-19 02:55:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-12&location=Cape Canaveral, FL, USA&dates=20220319T025500Z%2F20220319T025500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -184,6 +181,7 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kymeta secures $84 million to scale up antenna production](https://spacenews.com/kymeta-secures-84-million-to-scale-up-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T160759">2022-03-15 16:07:59 UTC</a></sub>
 * [Ukrainian space industry players continue work, eye European projects amid war](https://spacenews.com/ukrainian-space-industry-players-continue-work-eye-european-projects-amid-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T125759">2022-03-15 12:57:59 UTC</a></sub>
 * [Watch live: Astronauts head outside space station to prep for new solar arrays](https://spaceflightnow.com/2022/03/15/iss-us-eva-79/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T123755">2022-03-15 12:37:55 UTC</a></sub>
 * [ISS astronauts conduct spacewalk as busy period of station operations begins](https://www.nasaspaceflight.com/2022/03/us-eva-79/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T121445">2022-03-15 12:14:45 UTC</a></sub>
@@ -193,7 +191,6 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 * [Agile supplies thrusters for Astrobotic, ispace and Masten lunar landers](https://spacenews.com/agile-space-industries-lunar-lander-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T231800">2022-03-14 23:18:00 UTC</a></sub>
 * [DoD decommissions two missile-tracking satellites after 12 years in orbit](https://spacenews.com/dod-decommissions-two-missile-tracking-satellites-after-12-years-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T225759">2022-03-14 22:57:59 UTC</a></sub>
 * [Launch of U.S. Space Force missile-warning satellite delayed indefinitely](https://spacenews.com/launch-of-u-s-space-force-missile-warning-satellite-delayed-indefinitely/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T212801">2022-03-14 21:28:01 UTC</a></sub>
-* [OneWeb not eager to tear up launch contract with Arianespace](https://spaceflightnow.com/2022/03/14/oneweb-discussing-backup-launch-options-with-arianespace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T212756">2022-03-14 21:27:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +223,7 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T160732">2022-03-15 16:07:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T165105">2022-03-15 16:51:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
