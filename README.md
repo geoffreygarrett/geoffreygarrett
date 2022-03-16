@@ -191,7 +191,7 @@ into a Low Earth Orbit
 * [DoD estimates $2.5 billion price tag for global constellation to track hypersonic missiles](https://spacenews.com/dod-estimates-2-5-billion-price-tag-for-global-constellation-to-track-hypersonic-missiles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T190759">2022-03-15 19:07:59 UTC</a></sub>
 * [Astra’s Rocket 3.3 returns to flight with successful launch](https://spacenews.com/astras-rocket-3-3-returns-to-flight-with-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T181758">2022-03-15 18:17:58 UTC</a></sub>
 * [Kymeta secures $84 million to scale up antenna production](https://spacenews.com/kymeta-secures-84-million-to-scale-up-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T160759">2022-03-15 16:07:59 UTC</a></sub>
-* [Ukrainian space industry players continue work, eye European projects amid war](https://spacenews.com/ukrainian-space-industry-players-continue-work-eye-european-projects-amid-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T125759">2022-03-15 12:57:59 UTC</a></sub>
+* [Astra launches first successful mission with operational satellites](https://spaceflightnow.com/2022/03/15/astra-launches-first-successful-mission-with-operational-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T145755">2022-03-15 14:57:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T143156">2022-03-16 14:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T150530">2022-03-16 15:05:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
