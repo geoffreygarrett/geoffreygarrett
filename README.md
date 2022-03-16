@@ -182,6 +182,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX rapidly stacks Starship and Super Heavy with ‘Mechazilla’](https://www.teslarati.com/spacex-starship-super-heavy-full-stack-round-three/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T110823">2022-03-16 11:08:23 UTC</a></sub>
+* [Spire to build space situational awareness satellites for NorthStar](https://spacenews.com/spire-to-build-space-situational-awareness-satellites-for-northstar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T110759">2022-03-16 11:07:59 UTC</a></sub>
 * [Astronauts prep for new solar arrays on nearly seven-hour spacewalk](https://spaceflightnow.com/2022/03/15/iss-us-eva-79/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T220755">2022-03-15 22:07:55 UTC</a></sub>
 * [NASA Extends Ingenuity Helicopter Mission](https://mars.nasa.gov/news/9146/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T204800">2022-03-15 20:48:00 UTC</a></sub>
 * [DoD estimates $2.5 billion price tag for global constellation to track hypersonic missiles](https://spacenews.com/dod-estimates-2-5-billion-price-tag-for-global-constellation-to-track-hypersonic-missiles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T190759">2022-03-15 19:07:59 UTC</a></sub>
@@ -190,8 +192,6 @@ into a Low Earth Orbit
 * [Ukrainian space industry players continue work, eye European projects amid war](https://spacenews.com/ukrainian-space-industry-players-continue-work-eye-european-projects-amid-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T125759">2022-03-15 12:57:59 UTC</a></sub>
 * [ISS astronauts complete spacewalk as busy period of station operations begins](https://www.nasaspaceflight.com/2022/03/us-eva-79/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T121445">2022-03-15 12:14:45 UTC</a></sub>
 * [NASA ready to roll out SLS](https://spacenews.com/nasa-ready-to-roll-out-sls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T114759">2022-03-15 11:47:59 UTC</a></sub>
-* [Space station operations remain normal despite geopolitical tensions](https://spacenews.com/space-station-operations-remain-normal-despite-geopolitical-tensions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T110759">2022-03-15 11:07:59 UTC</a></sub>
-* [SpaceX preparing for third Starship ‘full stack’](https://www.teslarati.com/spacex-starship-third-full-stack-preparations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T105821">2022-03-15 10:58:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T110222">2022-03-16 11:02:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T113059">2022-03-16 11:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
