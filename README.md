@@ -183,6 +183,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [KSAT invests in dedicated lunar communications network](https://spacenews.com/ksat-invests-in-dedicated-lunar-communications-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T221800">2022-03-16 22:18:00 UTC</a></sub>
 * [NASA Awards Ground Systems and Mission Operations-3 Contract](http://www.nasa.gov/press-release/nasa-awards-ground-systems-and-mission-operations-3-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T210800">2022-03-16 21:08:00 UTC</a></sub>
 * [SpaceX schedules spy satellite, NASA astronaut launches on the same day](https://www.teslarati.com/spacex-crew-4-nrol-85-same-day-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T204820">2022-03-16 20:48:20 UTC</a></sub>
 * [California Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/california-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T202800">2022-03-16 20:28:00 UTC</a></sub>
@@ -192,7 +193,6 @@ into a Low Earth Orbit
 * [NASA’s Webb Reaches Alignment Milestone, Optics Working Successfully](http://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optics-working-successfully) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T153800">2022-03-16 15:38:00 UTC</a></sub>
 * [NASA’s plant-growing technology could be used to produce food at military bases](https://spacenews.com/nasas-plant-growing-technology-could-be-used-to-produce-food-at-military-bases/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T140759">2022-03-16 14:07:59 UTC</a></sub>
 * [NASA Mourns Passing of Visionary Heliophysicist Eugene Parker](http://www.nasa.gov/press-release/nasa-mourns-passing-of-visionary-heliophysicist-eugene-parker) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T135800">2022-03-16 13:58:00 UTC</a></sub>
-* [SpaceX rapidly stacks Starship and Super Heavy with ‘Mechazilla’](https://www.teslarati.com/spacex-starship-super-heavy-full-stack-round-three/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T110823">2022-03-16 11:08:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T223223">2022-03-16 22:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T230312">2022-03-16 23:03:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
