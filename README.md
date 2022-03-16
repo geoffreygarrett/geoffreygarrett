@@ -137,6 +137,7 @@ into a Low Earth Orbit
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>CentiSpace-1 S3 (?)</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 1A | CentiSpace-1 S3 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Without Mission A Beat</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Without Mission A Beat&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b><name missing></b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T000000">2022-04-15 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-85&location=Cape Canaveral, FL, USA&dates=20220415T000000Z%2F20220415T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Crew-4</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T123200">2022-04-15 12:32:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220415T123200Z%2F20220415T123200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -182,6 +183,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [El telescopio Webb de la NASA alcanza un hito en su alineación](http://www.nasa.gov/press-release/el-telescopio-webb-de-la-nasa-alcanza-un-hito-en-su-alineaci-n) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T160800">2022-03-16 16:08:00 UTC</a></sub>
+* [NASA’s Webb Reaches Alignment Milestone, Optics Working Successfully](http://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optics-working-successfully) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T153800">2022-03-16 15:38:00 UTC</a></sub>
 * [NASA’s plant-growing technology could be used to produce food at military bases](https://spacenews.com/nasas-plant-growing-technology-could-be-used-to-produce-food-at-military-bases/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T140759">2022-03-16 14:07:59 UTC</a></sub>
 * [NASA Mourns Passing of Visionary Heliophysicist Eugene Parker](http://www.nasa.gov/press-release/nasa-mourns-passing-of-visionary-heliophysicist-eugene-parker) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T135800">2022-03-16 13:58:00 UTC</a></sub>
 * [SpaceX rapidly stacks Starship and Super Heavy with ‘Mechazilla’](https://www.teslarati.com/spacex-starship-super-heavy-full-stack-round-three/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T110823">2022-03-16 11:08:23 UTC</a></sub>
@@ -190,8 +193,6 @@ into a Low Earth Orbit
 * [NASA Extends Ingenuity Helicopter Mission](https://mars.nasa.gov/news/9146/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T204800">2022-03-15 20:48:00 UTC</a></sub>
 * [DoD estimates $2.5 billion price tag for global constellation to track hypersonic missiles](https://spacenews.com/dod-estimates-2-5-billion-price-tag-for-global-constellation-to-track-hypersonic-missiles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T190759">2022-03-15 19:07:59 UTC</a></sub>
 * [Astra’s Rocket 3.3 returns to flight with successful launch](https://spacenews.com/astras-rocket-3-3-returns-to-flight-with-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T181758">2022-03-15 18:17:58 UTC</a></sub>
-* [Kymeta secures $84 million to scale up antenna production](https://spacenews.com/kymeta-secures-84-million-to-scale-up-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T160759">2022-03-15 16:07:59 UTC</a></sub>
-* [Astra launches first successful mission with operational satellites](https://spaceflightnow.com/2022/03/15/astra-launches-first-successful-mission-with-operational-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T145755">2022-03-15 14:57:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +225,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T160538">2022-03-16 16:05:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T165034">2022-03-16 16:50:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
