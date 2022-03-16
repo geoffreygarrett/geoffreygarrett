@@ -183,6 +183,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing’s satellite communications payload for U.S. Space Force passes design review](https://spacenews.com/boeings-satellite-communications-payload-for-u-s-space-force-passes-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T174759">2022-03-16 17:47:59 UTC</a></sub>
 * [Tomorrow.io weather satellites pass critical design review](https://spacenews.com/tomorrow-io-weather-satellites-pass-critical-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T170759">2022-03-16 17:07:59 UTC</a></sub>
 * [El telescopio Webb de la NASA alcanza un hito en su alineación](http://www.nasa.gov/press-release/el-telescopio-webb-de-la-nasa-alcanza-un-hito-en-su-alineaci-n) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T160800">2022-03-16 16:08:00 UTC</a></sub>
 * [NASA’s Webb Reaches Alignment Milestone, Optics Working Successfully](http://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optics-working-successfully) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T153800">2022-03-16 15:38:00 UTC</a></sub>
@@ -192,7 +193,6 @@ into a Low Earth Orbit
 * [Spire to build space situational awareness satellites for NorthStar](https://spacenews.com/spire-to-build-space-situational-awareness-satellites-for-northstar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T110759">2022-03-16 11:07:59 UTC</a></sub>
 * [Astronauts prep for new solar arrays on nearly seven-hour spacewalk](https://spaceflightnow.com/2022/03/15/iss-us-eva-79/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T220755">2022-03-15 22:07:55 UTC</a></sub>
 * [NASA Extends Ingenuity Helicopter Mission](https://mars.nasa.gov/news/9146/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T204800">2022-03-15 20:48:00 UTC</a></sub>
-* [DoD estimates $2.5 billion price tag for global constellation to track hypersonic missiles](https://spacenews.com/dod-estimates-2-5-billion-price-tag-for-global-constellation-to-track-hypersonic-missiles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T190759">2022-03-15 19:07:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T173446">2022-03-16 17:34:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T180649">2022-03-16 18:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
