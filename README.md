@@ -182,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China launches second Yaogan-34 reconnaissance satellite](https://spacenews.com/china-launches-second-yaogan-34-reconnaissance-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T100759">2022-03-17 10:07:59 UTC</a></sub>
 * [Starship undergoing full-stack cryoproofing while Florida ramps up](https://www.nasaspaceflight.com/2022/03/starship-full-stack-cryo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T011042">2022-03-17 01:10:42 UTC</a></sub>
 * [KSAT invests in dedicated lunar communications network](https://spacenews.com/ksat-invests-in-dedicated-lunar-communications-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T221800">2022-03-16 22:18:00 UTC</a></sub>
 * [NASA Awards Ground Systems and Mission Operations-3 Contract](http://www.nasa.gov/press-release/nasa-awards-ground-systems-and-mission-operations-3-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T210800">2022-03-16 21:08:00 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Low Earth Orbit
 * [Tomorrow.io weather satellites pass critical design review](https://spacenews.com/tomorrow-io-weather-satellites-pass-critical-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T170759">2022-03-16 17:07:59 UTC</a></sub>
 * [El telescopio Webb de la NASA alcanza un hito en su alineación](http://www.nasa.gov/press-release/el-telescopio-webb-de-la-nasa-alcanza-un-hito-en-su-alineaci-n) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T160800">2022-03-16 16:08:00 UTC</a></sub>
 * [NASA’s Webb Reaches Alignment Milestone, Optics Working Successfully](http://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optics-working-successfully) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T153800">2022-03-16 15:38:00 UTC</a></sub>
-* [NASA’s plant-growing technology could be used to produce food at military bases](https://spacenews.com/nasas-plant-growing-technology-could-be-used-to-produce-food-at-military-bases/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T140759">2022-03-16 14:07:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T100247">2022-03-17 10:02:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T103840">2022-03-17 10:38:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
