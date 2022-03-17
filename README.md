@@ -182,6 +182,8 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA suspends work with Russia on ExoMars mission](https://spacenews.com/esa-suspends-work-with-russia-on-exomars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T144758">2022-03-17 14:47:58 UTC</a></sub>
+* [Relic of Apollo will carry NASA’s new moon rocket to launch pad](https://spaceflightnow.com/2022/03/17/relic-of-apollo-will-carry-nasas-new-moon-rocket-to-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T133755">2022-03-17 13:37:55 UTC</a></sub>
 * [Sierra Space to work with Mitsubishi Heavy Industries on commercial space station technologies](https://spacenews.com/sierra-space-to-work-with-mitsubishi-heavy-industries-on-commercial-space-station-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T130759">2022-03-17 13:07:59 UTC</a></sub>
 * [SpaceX tests fully stacked Starship rocket for the first time](https://www.teslarati.com/spacex-starship-first-full-stack-cryoproof/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T110821">2022-03-17 11:08:21 UTC</a></sub>
 * [China launches second Yaogan-34 reconnaissance satellite](https://spacenews.com/china-launches-second-yaogan-34-reconnaissance-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T100759">2022-03-17 10:07:59 UTC</a></sub>
@@ -190,8 +192,6 @@ into a Low Earth Orbit
 * [NASA Awards Ground Systems and Mission Operations-3 Contract](http://www.nasa.gov/press-release/nasa-awards-ground-systems-and-mission-operations-3-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T210800">2022-03-16 21:08:00 UTC</a></sub>
 * [SpaceX schedules spy satellite, NASA astronaut launches on the same day](https://www.teslarati.com/spacex-crew-4-nrol-85-same-day-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T204820">2022-03-16 20:48:20 UTC</a></sub>
 * [California Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/california-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T202800">2022-03-16 20:28:00 UTC</a></sub>
-* [Boeing’s satellite communications payload for U.S. Space Force passes design review](https://spacenews.com/boeings-satellite-communications-payload-for-u-s-space-force-passes-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T174759">2022-03-16 17:47:59 UTC</a></sub>
-* [Tomorrow.io weather satellites pass critical design review](https://spacenews.com/tomorrow-io-weather-satellites-pass-critical-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T170759">2022-03-16 17:07:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T133721">2022-03-17 13:37:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T150318">2022-03-17 15:03:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
