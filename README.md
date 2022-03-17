@@ -182,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [International talks on space norms to continue but U.S. will not engage directly with Russia](https://spacenews.com/international-talks-on-space-norms-will-continue-but-u-s-will-not-engage-directly-with-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T195759">2022-03-17 19:57:59 UTC</a></sub>
 * [NASA moon rocket SLS ready for rollout to “rebuilt” LC-39B ahead of Artemis 1 rehearsal](https://www.nasaspaceflight.com/2022/03/sls-rollout-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T173440">2022-03-17 17:34:40 UTC</a></sub>
 * [Watch live: NASA’s new moon rocket rolls to launch pad tonight](https://spaceflightnow.com/2022/03/17/relic-of-apollo-will-carry-nasas-new-moon-rocket-to-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T164755">2022-03-17 16:47:55 UTC</a></sub>
 * [ESA suspends work with Russia on ExoMars mission](https://spacenews.com/esa-suspends-work-with-russia-on-exomars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T152800">2022-03-17 15:28:00 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Low Earth Orbit
 * [Starship undergoing full-stack cryoproofing while Florida ramps up](https://www.nasaspaceflight.com/2022/03/starship-full-stack-cryo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T011042">2022-03-17 01:10:42 UTC</a></sub>
 * [KSAT invests in dedicated lunar communications network](https://spacenews.com/ksat-invests-in-dedicated-lunar-communications-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T221800">2022-03-16 22:18:00 UTC</a></sub>
 * [NASA Awards Ground Systems and Mission Operations-3 Contract](http://www.nasa.gov/press-release/nasa-awards-ground-systems-and-mission-operations-3-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T210800">2022-03-16 21:08:00 UTC</a></sub>
-* [SpaceX schedules spy satellite, NASA astronaut launches on the same day](https://www.teslarati.com/spacex-crew-4-nrol-85-same-day-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T204820">2022-03-16 20:48:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T193114">2022-03-17 19:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T200544">2022-03-17 20:05:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
