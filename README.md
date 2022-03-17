@@ -182,7 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [ESA suspends work with Russia on ExoMars mission](https://spacenews.com/esa-suspends-work-with-russia-on-exomars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T144758">2022-03-17 14:47:58 UTC</a></sub>
+* [ESA suspends work with Russia on ExoMars mission](https://spacenews.com/esa-suspends-work-with-russia-on-exomars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T152800">2022-03-17 15:28:00 UTC</a></sub>
 * [Relic of Apollo will carry NASA’s new moon rocket to launch pad](https://spaceflightnow.com/2022/03/17/relic-of-apollo-will-carry-nasas-new-moon-rocket-to-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T133755">2022-03-17 13:37:55 UTC</a></sub>
 * [Sierra Space to work with Mitsubishi Heavy Industries on commercial space station technologies](https://spacenews.com/sierra-space-to-work-with-mitsubishi-heavy-industries-on-commercial-space-station-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T130759">2022-03-17 13:07:59 UTC</a></sub>
 * [SpaceX tests fully stacked Starship rocket for the first time](https://www.teslarati.com/spacex-starship-first-full-stack-cryoproof/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T110821">2022-03-17 11:08:21 UTC</a></sub>
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T150318">2022-03-17 15:03:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T154418">2022-03-17 15:44:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
