@@ -203,6 +203,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Beyond the far side](https://www.planetary.org/the-downlink/beyond-the-far-side) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T143439">2022-03-18 14:34:39 UTC</a></sub>
 * [Announcing the First-Ever STEP Grant Winners: Citizen Science SETI and Determining Asteroid Properties](https://www.planetary.org/articles/step-grant-winners-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T142818">2022-03-16 14:28:18 UTC</a></sub>
 * [The two-faced Moon](https://www.planetary.org/articles/the-two-faced-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T140432">2022-03-14 14:04:32 UTC</a></sub>
 * [Dive into these ocean worlds](https://www.planetary.org/the-downlink/dive-into-these-ocean-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T153420">2022-03-11 15:34:20 UTC</a></sub>
@@ -212,7 +213,6 @@ into a Low Earth Orbit
 * [A fascination with Europa](https://www.planetary.org/articles/a-fascination-with-europa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153424">2022-03-07 15:34:24 UTC</a></sub>
 * [Your impact: March Equinox 2022](https://www.planetary.org/articles/your-impact-march-equinox-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153422">2022-03-07 15:34:22 UTC</a></sub>
 * [Where are the ocean worlds in our solar system?](https://www.planetary.org/articles/where-are-the-ocean-worlds-in-our-solar-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153421">2022-03-07 15:34:21 UTC</a></sub>
-* [Space brings out the best in us](https://www.planetary.org/the-downlink/space-brings-out-the-best-in-us) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T153420">2022-03-04 15:34:20 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -225,7 +225,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T143212">2022-03-18 14:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T150356">2022-03-18 15:03:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
