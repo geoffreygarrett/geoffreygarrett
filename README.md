@@ -186,7 +186,7 @@ into a Low Earth Orbit
 * [NASA's Perseverance Rover Hightails It to Martian Delta](https://mars.nasa.gov/news/9149/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T161400">2022-03-18 16:14:00 UTC</a></sub>
 * [NASA’s Mega Moon Rocket, Spacecraft Complete First Roll to Launch Pad](http://www.nasa.gov/press-release/nasa-s-mega-moon-rocket-spacecraft-complete-first-roll-to-launch-pad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T132400">2022-03-18 13:24:00 UTC</a></sub>
 * [Poland, Virgin Orbit partner on Eastern Europe satellite launch initiative](https://spacenews.com/poland-virgin-orbit-partner-on-eastern-europe-launch-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T131420">2022-03-18 13:14:20 UTC</a></sub>
-* [Russia launches first all-Roscosmos cosmonaut mission to station](https://www.nasaspaceflight.com/2022/03/soyuz-ms-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T115955">2022-03-18 11:59:55 UTC</a></sub>
+* [First all-Roscosmos cosmonaut mission arrives at station](https://www.nasaspaceflight.com/2022/03/soyuz-ms-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T115955">2022-03-18 11:59:55 UTC</a></sub>
 * [SpaceX set to break another Falcon 9 reusability record [webcast]](https://www.teslarati.com/spacex-set-to-break-another-falcon-9-reusability-record-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T111444">2022-03-18 11:14:44 UTC</a></sub>
 * [China is developing new solid rockets to boost overall space capabilities](https://spacenews.com/china-is-developing-new-solid-rockets-to-boost-overall-space-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T094759">2022-03-18 09:47:59 UTC</a></sub>
 * [SLS rolls out to pad for countdown test](https://spacenews.com/sls-rolls-out-to-pad-for-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T090759">2022-03-18 09:07:59 UTC</a></sub>
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T190203">2022-03-18 19:02:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T193111">2022-03-18 19:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
