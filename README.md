@@ -190,8 +190,8 @@ into a Low Earth Orbit
 * [Sierra Space to work with Mitsubishi Heavy Industries on commercial space station technologies](https://spacenews.com/sierra-space-to-work-with-mitsubishi-heavy-industries-on-commercial-space-station-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T130759">2022-03-17 13:07:59 UTC</a></sub>
 * [SpaceX tests fully stacked Starship rocket for the first time](https://www.teslarati.com/spacex-starship-first-full-stack-cryoproof/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T110821">2022-03-17 11:08:21 UTC</a></sub>
 * [China launches second Yaogan-34 reconnaissance satellite](https://spacenews.com/china-launches-second-yaogan-34-reconnaissance-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T100759">2022-03-17 10:07:59 UTC</a></sub>
+* [ESA weighs options for replacing Soyuz launches](https://spacenews.com/esa-weighs-options-for-replacing-soyuz-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T023759">2022-03-17 02:37:59 UTC</a></sub>
 * [Starship undergoing full-stack cryoproofing while Florida ramps up](https://www.nasaspaceflight.com/2022/03/starship-full-stack-cryo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T011042">2022-03-17 01:10:42 UTC</a></sub>
-* [KSAT invests in dedicated lunar communications network](https://spacenews.com/ksat-invests-in-dedicated-lunar-communications-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T221800">2022-03-16 22:18:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T015642">2022-03-18 01:56:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T023931">2022-03-18 02:39:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
