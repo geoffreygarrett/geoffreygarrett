@@ -183,16 +183,16 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX set to break another Falcon 9 reusability record [webcast]](https://www.teslarati.com/spacex-set-to-break-another-falcon-9-reusability-record-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T111444">2022-03-18 11:14:44 UTC</a></sub>
 * [China is developing new solid rockets to boost overall space capabilities](https://spacenews.com/china-is-developing-new-solid-rockets-to-boost-overall-space-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T094759">2022-03-18 09:47:59 UTC</a></sub>
 * [SLS rolls out to pad for countdown test](https://spacenews.com/sls-rolls-out-to-pad-for-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T090759">2022-03-18 09:07:59 UTC</a></sub>
 * [SpaceX to launch reusable booster for record 12th time](https://spaceflightnow.com/2022/03/18/spacex-to-launch-reusable-booster-for-record-12th-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T060755">2022-03-18 06:07:55 UTC</a></sub>
 * [Orbit Fab gets $12 million to integrate refueling port with military satellites](https://spacenews.com/orbit-fab-gets-12-million-to-integrate-refueling-port-with-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T221801">2022-03-17 22:18:01 UTC</a></sub>
 * [International talks on space norms to continue but U.S. will not engage directly with Russia](https://spacenews.com/international-talks-on-space-norms-will-continue-but-u-s-will-not-engage-directly-with-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T195759">2022-03-17 19:57:59 UTC</a></sub>
-* [NASA moon rocket SLS ready for rollout to “rebuilt” LC-39B ahead of Artemis 1 rehearsal](https://www.nasaspaceflight.com/2022/03/sls-rollout-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T173440">2022-03-17 17:34:40 UTC</a></sub>
+* [NASA moon rocket SLS rolls out to “rebuilt” LC-39B ahead of Artemis 1 rehearsal](https://www.nasaspaceflight.com/2022/03/sls-rollout-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T173440">2022-03-17 17:34:40 UTC</a></sub>
 * [ESA suspends work with Russia on ExoMars mission](https://spacenews.com/esa-suspends-work-with-russia-on-exomars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T152800">2022-03-17 15:28:00 UTC</a></sub>
 * [Sierra Space to work with Mitsubishi Heavy Industries on commercial space station technologies](https://spacenews.com/sierra-space-to-work-with-mitsubishi-heavy-industries-on-commercial-space-station-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T130759">2022-03-17 13:07:59 UTC</a></sub>
-* [SpaceX tests fully stacked Starship rocket for the first time](https://www.teslarati.com/spacex-starship-first-full-stack-cryoproof/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T110821">2022-03-17 11:08:21 UTC</a></sub>
-* [China launches second Yaogan-34 reconnaissance satellite](https://spacenews.com/china-launches-second-yaogan-34-reconnaissance-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T100759">2022-03-17 10:07:59 UTC</a></sub>
+* [Watch live: NASA’s new moon rocket rolls to launch pad](https://spaceflightnow.com/2022/03/17/relic-of-apollo-will-carry-nasas-new-moon-rocket-to-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T112416">2022-03-17 11:24:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T110228">2022-03-18 11:02:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T113109">2022-03-18 11:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
