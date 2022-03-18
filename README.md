@@ -183,6 +183,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia to launch first all-Roscosmos cosmonaut mission to station](https://www.nasaspaceflight.com/2022/03/soyuz-ms-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T115955">2022-03-18 11:59:55 UTC</a></sub>
 * [SpaceX set to break another Falcon 9 reusability record [webcast]](https://www.teslarati.com/spacex-set-to-break-another-falcon-9-reusability-record-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T111444">2022-03-18 11:14:44 UTC</a></sub>
 * [China is developing new solid rockets to boost overall space capabilities](https://spacenews.com/china-is-developing-new-solid-rockets-to-boost-overall-space-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T094759">2022-03-18 09:47:59 UTC</a></sub>
 * [SLS rolls out to pad for countdown test](https://spacenews.com/sls-rolls-out-to-pad-for-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T090759">2022-03-18 09:07:59 UTC</a></sub>
@@ -192,7 +193,6 @@ into a Low Earth Orbit
 * [NASA moon rocket SLS rolls out to “rebuilt” LC-39B ahead of Artemis 1 rehearsal](https://www.nasaspaceflight.com/2022/03/sls-rollout-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T173440">2022-03-17 17:34:40 UTC</a></sub>
 * [ESA suspends work with Russia on ExoMars mission](https://spacenews.com/esa-suspends-work-with-russia-on-exomars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T152800">2022-03-17 15:28:00 UTC</a></sub>
 * [Sierra Space to work with Mitsubishi Heavy Industries on commercial space station technologies](https://spacenews.com/sierra-space-to-work-with-mitsubishi-heavy-industries-on-commercial-space-station-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T130759">2022-03-17 13:07:59 UTC</a></sub>
-* [Watch live: NASA’s new moon rocket rolls to launch pad](https://spaceflightnow.com/2022/03/17/relic-of-apollo-will-carry-nasas-new-moon-rocket-to-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T112416">2022-03-17 11:24:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T113109">2022-03-18 11:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T120854">2022-03-18 12:08:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
