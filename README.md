@@ -181,6 +181,7 @@ into an Elliptical Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX sets reuse and payload mass records in Starlink launch](https://spacenews.com/spacex-sets-reuse-and-payload-mass-records-in-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T161420">2022-03-19 16:14:20 UTC</a></sub>
 * [SpaceX sets new booster reuse record on Starlink mission](https://www.nasaspaceflight.com/2022/03/spacex-booster-reuse-record-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T004706">2022-03-19 00:47:06 UTC</a></sub>
 * [Telesat mulls downsizing delayed LEO plan as costs mount](https://spacenews.com/telesat-mulls-downsizing-delayed-leo-plan-as-costs-mount/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T223421">2022-03-18 22:34:21 UTC</a></sub>
 * [Another startup joins race to provide high-speed lunar communications](https://spacenews.com/another-startup-joins-race-to-provide-high-speed-lunar-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T194420">2022-03-18 19:44:20 UTC</a></sub>
@@ -190,7 +191,6 @@ into an Elliptical Orbit
 * [Poland, Virgin Orbit partner on Eastern Europe satellite launch initiative](https://spacenews.com/poland-virgin-orbit-partner-on-eastern-europe-launch-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T131420">2022-03-18 13:14:20 UTC</a></sub>
 * [First all-Roscosmos cosmonaut mission arrives at station](https://www.nasaspaceflight.com/2022/03/soyuz-ms-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T115955">2022-03-18 11:59:55 UTC</a></sub>
 * [China is developing new solid rockets to boost overall space capabilities](https://spacenews.com/china-is-developing-new-solid-rockets-to-boost-overall-space-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T094759">2022-03-18 09:47:59 UTC</a></sub>
-* [SLS rolls out to pad for countdown test](https://spacenews.com/sls-rolls-out-to-pad-for-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T090759">2022-03-18 09:07:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ into an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T160626">2022-03-19 16:06:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T164848">2022-03-19 16:48:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
