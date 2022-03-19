@@ -182,6 +182,7 @@ into a Low Earth Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to set new booster reuse record on Starlink mission](https://www.nasaspaceflight.com/2022/03/spacex-booster-reuse-record-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T004706">2022-03-19 00:47:06 UTC</a></sub>
 * [Telesat mulls downsizing delayed LEO plan as costs mount](https://spacenews.com/telesat-mulls-downsizing-delayed-leo-plan-as-costs-mount/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T223421">2022-03-18 22:34:21 UTC</a></sub>
 * [Another startup joins race to provide high-speed lunar communications](https://spacenews.com/another-startup-joins-race-to-provide-high-speed-lunar-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T194420">2022-03-18 19:44:20 UTC</a></sub>
 * [It’s huge, expensive, and years late—but the SLS rocket is finally here](https://arstechnica.com/science/2022/03/its-huge-expensive-and-years-late-but-the-sls-rocket-is-finally-here/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T170158">2022-03-18 17:01:58 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Low Earth Orbit
 * [First all-Roscosmos cosmonaut mission arrives at station](https://www.nasaspaceflight.com/2022/03/soyuz-ms-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T115955">2022-03-18 11:59:55 UTC</a></sub>
 * [SpaceX set to break another Falcon 9 reusability record [webcast]](https://www.teslarati.com/spacex-set-to-break-another-falcon-9-reusability-record-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T111444">2022-03-18 11:14:44 UTC</a></sub>
 * [China is developing new solid rockets to boost overall space capabilities](https://spacenews.com/china-is-developing-new-solid-rockets-to-boost-overall-space-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T094759">2022-03-18 09:47:59 UTC</a></sub>
-* [SLS rolls out to pad for countdown test](https://spacenews.com/sls-rolls-out-to-pad-for-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T090759">2022-03-18 09:07:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T002235">2022-03-19 00:22:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T014804">2022-03-19 01:48:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
