@@ -183,6 +183,8 @@ into an Elliptical Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OneWeb signs with SpaceX to resume launching internet constellation](https://spaceflightnow.com/2022/03/21/oneweb-signs-with-spacex-to-resume-launching-internet-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T144925">2022-03-21 14:49:25 UTC</a></sub>
+* [OneWeb turns to a competitor—SpaceX—to complete its constellation](https://arstechnica.com/science/2022/03/oneweb-turns-to-a-competitor-spacex-to-complete-its-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T143828">2022-03-21 14:38:28 UTC</a></sub>
 * [So how do Russian cosmonauts feel about Russia’s war on Ukraine?](https://arstechnica.com/science/2022/03/so-how-do-russian-cosmonauts-feel-about-russias-war-on-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T140039">2022-03-21 14:00:39 UTC</a></sub>
 * [OneWeb reaches launch deal with SpaceX](https://spacenews.com/oneweb-reaches-launch-deal-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T133949">2022-03-21 13:39:49 UTC</a></sub>
 * [Hope fading for recovery of European radar imaging satellite](https://spacenews.com/hope-fading-for-recovery-of-european-radar-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T093940">2022-03-21 09:39:40 UTC</a></sub>
@@ -191,8 +193,6 @@ into an Elliptical Orbit
 * [General Dynamics’ cloud contract with NGA moves forward after Leidos withdraws protest](https://spacenews.com/general-dynamics-cloud-contract-with-nga-moves-forward-after-leidos-withdraws-protest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T170423">2022-03-19 17:04:23 UTC</a></sub>
 * [SpaceX sets reuse and payload mass records in Starlink launch](https://spacenews.com/spacex-sets-reuse-and-payload-mass-records-in-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T161420">2022-03-19 16:14:20 UTC</a></sub>
 * [SpaceX sets new booster reuse record on Starlink mission](https://www.nasaspaceflight.com/2022/03/spacex-booster-reuse-record-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T004706">2022-03-19 00:47:06 UTC</a></sub>
-* [Telesat mulls downsizing delayed LEO plan as costs mount](https://spacenews.com/telesat-mulls-downsizing-delayed-leo-plan-as-costs-mount/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T223421">2022-03-18 22:34:21 UTC</a></sub>
-* [Another startup joins race to provide high-speed lunar communications](https://spacenews.com/another-startup-joins-race-to-provide-high-speed-lunar-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T194420">2022-03-18 19:44:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T143223">2022-03-21 14:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T150310">2022-03-21 15:03:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
