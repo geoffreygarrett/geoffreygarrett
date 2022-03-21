@@ -183,6 +183,8 @@ into an Elliptical Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [So how do Russian cosmonauts feel about Russia’s war on Ukraine?](https://arstechnica.com/science/2022/03/so-how-do-russian-cosmonauts-feel-about-russias-war-on-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T140039">2022-03-21 14:00:39 UTC</a></sub>
+* [OneWeb reaches launch deal with SpaceX](https://spacenews.com/oneweb-reaches-launch-deal-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T133949">2022-03-21 13:39:49 UTC</a></sub>
 * [Hope fading for recovery of European radar imaging satellite](https://spacenews.com/hope-fading-for-recovery-of-european-radar-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T093940">2022-03-21 09:39:40 UTC</a></sub>
 * [Plato exoplanet mission gets green light for next phase](https://www.esa.int/Science_Exploration/Space_Science/Plato_exoplanet_mission_gets_green_light_for_next_phase) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T080927">2022-03-21 08:09:27 UTC</a></sub>
 * [Cyber warfare gets real for satellite operators](https://spacenews.com/cyber-warfare-gets-real-for-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220320T225420">2022-03-20 22:54:20 UTC</a></sub>
@@ -191,8 +193,6 @@ into an Elliptical Orbit
 * [SpaceX sets new booster reuse record on Starlink mission](https://www.nasaspaceflight.com/2022/03/spacex-booster-reuse-record-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T004706">2022-03-19 00:47:06 UTC</a></sub>
 * [Telesat mulls downsizing delayed LEO plan as costs mount](https://spacenews.com/telesat-mulls-downsizing-delayed-leo-plan-as-costs-mount/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T223421">2022-03-18 22:34:21 UTC</a></sub>
 * [Another startup joins race to provide high-speed lunar communications](https://spacenews.com/another-startup-joins-race-to-provide-high-speed-lunar-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T194420">2022-03-18 19:44:20 UTC</a></sub>
-* [It’s huge, expensive, and years late—but the SLS rocket is finally here](https://arstechnica.com/science/2022/03/its-huge-expensive-and-years-late-but-the-sls-rocket-is-finally-here/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T170158">2022-03-18 17:01:58 UTC</a></sub>
-* [NASA's Perseverance Rover Hightails It to Martian Delta](https://mars.nasa.gov/news/9149/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T161400">2022-03-18 16:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -203,6 +203,7 @@ into an Elliptical Orbit
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Where are the moons that orbit exoplanets?](https://www.planetary.org/articles/where-are-moons-of-exoplanets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T140049">2022-03-21 14:00:49 UTC</a></sub>
 * [Beyond the far side](https://www.planetary.org/the-downlink/beyond-the-far-side) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T143439">2022-03-18 14:34:39 UTC</a></sub>
 * [Announcing the First-Ever STEP Grant Winners: Citizen Science SETI and Determining Asteroid Properties](https://www.planetary.org/articles/step-grant-winners-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T142818">2022-03-16 14:28:18 UTC</a></sub>
 * [The two-faced Moon](https://www.planetary.org/articles/the-two-faced-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T140432">2022-03-14 14:04:32 UTC</a></sub>
@@ -212,7 +213,6 @@ into an Elliptical Orbit
 * [R/S RocketShip: Meet the special ship that brings ULA rockets to the launch site](https://blog.ulalaunch.com/blog/r/s-rocketship-meet-the-special-ship-that-brings-ula-rockets-to-the-launch-site) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T144430">2022-03-08 14:44:30 UTC</a></sub>
 * [A fascination with Europa](https://www.planetary.org/articles/a-fascination-with-europa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153424">2022-03-07 15:34:24 UTC</a></sub>
 * [Your impact: March Equinox 2022](https://www.planetary.org/articles/your-impact-march-equinox-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153422">2022-03-07 15:34:22 UTC</a></sub>
-* [Where are the ocean worlds in our solar system?](https://www.planetary.org/articles/where-are-the-ocean-worlds-in-our-solar-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153421">2022-03-07 15:34:21 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -225,7 +225,7 @@ into an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T140546">2022-03-21 14:05:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T143223">2022-03-21 14:32:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
