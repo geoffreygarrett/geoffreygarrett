@@ -183,6 +183,7 @@ into an Elliptical Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [James Webb teams successfully align mirror, commissioning continues](https://www.nasaspaceflight.com/2022/03/james-webb-align-mirror/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T162440">2022-03-21 16:24:40 UTC</a></sub>
 * [OneWeb signs with SpaceX to resume launching internet constellation](https://spaceflightnow.com/2022/03/21/oneweb-signs-with-spacex-to-resume-launching-internet-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T144925">2022-03-21 14:49:25 UTC</a></sub>
 * [OneWeb turns to a competitor—SpaceX—to complete its constellation](https://arstechnica.com/science/2022/03/oneweb-turns-to-a-competitor-spacex-to-complete-its-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T143828">2022-03-21 14:38:28 UTC</a></sub>
 * [So how do Russian cosmonauts feel about Russia’s war on Ukraine?](https://arstechnica.com/science/2022/03/so-how-do-russian-cosmonauts-feel-about-russias-war-on-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T140039">2022-03-21 14:00:39 UTC</a></sub>
@@ -192,7 +193,6 @@ into an Elliptical Orbit
 * [Cyber warfare gets real for satellite operators](https://spacenews.com/cyber-warfare-gets-real-for-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220320T225420">2022-03-20 22:54:20 UTC</a></sub>
 * [General Dynamics’ cloud contract with NGA moves forward after Leidos withdraws protest](https://spacenews.com/general-dynamics-cloud-contract-with-nga-moves-forward-after-leidos-withdraws-protest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T170423">2022-03-19 17:04:23 UTC</a></sub>
 * [SpaceX sets reuse and payload mass records in Starlink launch](https://spacenews.com/spacex-sets-reuse-and-payload-mass-records-in-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T161420">2022-03-19 16:14:20 UTC</a></sub>
-* [SpaceX sets new booster reuse record on Starlink mission](https://www.nasaspaceflight.com/2022/03/spacex-booster-reuse-record-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T004706">2022-03-19 00:47:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T160651">2022-03-21 16:06:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T165223">2022-03-21 16:52:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
