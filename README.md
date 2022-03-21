@@ -183,6 +183,7 @@ into an Elliptical Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hope fading for recovery of European radar imaging satellite](https://spacenews.com/hope-fading-for-recovery-of-european-radar-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T093940">2022-03-21 09:39:40 UTC</a></sub>
 * [Plato exoplanet mission gets green light for next phase](https://www.esa.int/Science_Exploration/Space_Science/Plato_exoplanet_mission_gets_green_light_for_next_phase) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T080927">2022-03-21 08:09:27 UTC</a></sub>
 * [Cyber warfare gets real for satellite operators](https://spacenews.com/cyber-warfare-gets-real-for-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220320T225420">2022-03-20 22:54:20 UTC</a></sub>
 * [General Dynamics’ cloud contract with NGA moves forward after Leidos withdraws protest](https://spacenews.com/general-dynamics-cloud-contract-with-nga-moves-forward-after-leidos-withdraws-protest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T170423">2022-03-19 17:04:23 UTC</a></sub>
@@ -192,7 +193,6 @@ into an Elliptical Orbit
 * [Another startup joins race to provide high-speed lunar communications](https://spacenews.com/another-startup-joins-race-to-provide-high-speed-lunar-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T194420">2022-03-18 19:44:20 UTC</a></sub>
 * [It’s huge, expensive, and years late—but the SLS rocket is finally here](https://arstechnica.com/science/2022/03/its-huge-expensive-and-years-late-but-the-sls-rocket-is-finally-here/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T170158">2022-03-18 17:01:58 UTC</a></sub>
 * [NASA's Perseverance Rover Hightails It to Martian Delta](https://mars.nasa.gov/news/9149/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T161400">2022-03-18 16:14:00 UTC</a></sub>
-* [NASA’s Mega Moon Rocket, Spacecraft Complete First Roll to Launch Pad](http://www.nasa.gov/press-release/nasa-s-mega-moon-rocket-spacecraft-complete-first-roll-to-launch-pad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T132400">2022-03-18 13:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T100401">2022-03-21 10:04:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T103808">2022-03-21 10:38:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
