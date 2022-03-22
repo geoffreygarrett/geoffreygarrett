@@ -182,6 +182,7 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Discuss Artemis Strategy for Astronaut Moon Landers](http://www.nasa.gov/press-release/nasa-to-discuss-artemis-strategy-for-astronaut-moon-landers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T191900">2022-03-22 19:19:00 UTC</a></sub>
 * [Legally, Russia can’t just take its Space Station and go home](https://arstechnica.com/science/2022/03/heres-why-russia-probably-wont-break-the-space-station-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T163313">2022-03-22 16:33:13 UTC</a></sub>
 * [GEO operators say they can compete against LEO systems on cost](https://spacenews.com/geo-operators-say-they-can-compete-against-leo-systems-on-cost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T151913">2022-03-22 15:19:13 UTC</a></sub>
 * [Telstra to build teleports for OneWeb constellation](https://spacenews.com/telstra-teleports-for-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T134914">2022-03-22 13:49:14 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Suborbital
 * [E-Space taps Rocket Lab to launch three demo sats by July](https://spacenews.com/e-space-taps-rocket-lab-to-launch-three-demo-sats-by-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T222937">2022-03-21 22:29:37 UTC</a></sub>
 * [SpaceX severs ties with longtime partner Spaceflight Inc.](https://spacenews.com/spacex-severs-ties-with-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T215936">2022-03-21 21:59:36 UTC</a></sub>
 * [SpaceX wins OneWeb launch contracts, demonstrating extreme flexibility](https://www.teslarati.com/spacex-wins-oneweb-launch-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T211056">2022-03-21 21:10:56 UTC</a></sub>
-* [Focus for early-stage space companies turning to workforce challenges](https://spacenews.com/focus-for-early-stage-space-companies-turning-to-workforce-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T210940">2022-03-21 21:09:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T190150">2022-03-22 19:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T193128">2022-03-22 19:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
