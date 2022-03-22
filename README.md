@@ -183,6 +183,7 @@ into an Elliptical Orbit
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX assigns newer Starship, Super Heavy booster to orbital launch debut](https://www.teslarati.com/spacex-starship-super-heavy-new-orbital-test-flight-prototypes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T110935">2022-03-22 11:09:35 UTC</a></sub>
 * [SES to acquire Leonardo DRS satcom business for $450 million](https://spacenews.com/ses-to-acquire-leonardo-drs-satcom-business-for-450-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T081914">2022-03-22 08:19:14 UTC</a></sub>
 * [Lockheed Martin to launch new satellite bus aimed at mid-size market](https://spacenews.com/lockheed-martin-to-launch-new-satellite-bus-aimed-at-mid-size-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T232936">2022-03-21 23:29:36 UTC</a></sub>
 * [E-Space taps Rocket Lab to launch three demo sats by July](https://spacenews.com/e-space-taps-rocket-lab-to-launch-three-demo-sats-by-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T222937">2022-03-21 22:29:37 UTC</a></sub>
@@ -192,7 +193,6 @@ into an Elliptical Orbit
 * [Industry proposals sought for ‘cislunar highway patrol’ satellite](https://spacenews.com/industry-proposals-sought-for-cislunar-highway-patrol-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T204944">2022-03-21 20:49:44 UTC</a></sub>
 * [Starlink reaches 250,000 subscribers as it targets aviation and other markets](https://spacenews.com/starlink-reaches-250000-subscribers-as-it-targets-aviation-and-other-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T172940">2022-03-21 17:29:40 UTC</a></sub>
 * [James Webb teams successfully align mirror, commissioning continues](https://www.nasaspaceflight.com/2022/03/james-webb-align-mirror/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T162440">2022-03-21 16:24:40 UTC</a></sub>
-* [OneWeb signs with SpaceX to resume launching internet constellation](https://spaceflightnow.com/2022/03/21/oneweb-signs-with-spacex-to-resume-launching-internet-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T144925">2022-03-21 14:49:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T110218">2022-03-22 11:02:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T113118">2022-03-22 11:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
