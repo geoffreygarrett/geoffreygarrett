@@ -182,6 +182,7 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Telstra to build teleports for OneWeb constellation](https://spacenews.com/telstra-teleports-for-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T134914">2022-03-22 13:49:14 UTC</a></sub>
 * [SpaceX assigns newer Starship, Super Heavy booster to orbital launch debut](https://www.teslarati.com/spacex-starship-super-heavy-new-orbital-test-flight-prototypes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T110935">2022-03-22 11:09:35 UTC</a></sub>
 * [SES to acquire Leonardo DRS satcom business for $450 million](https://spacenews.com/ses-to-acquire-leonardo-drs-satcom-business-for-450-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T081914">2022-03-22 08:19:14 UTC</a></sub>
 * [Lockheed Martin to launch new satellite bus aimed at mid-size market](https://spacenews.com/lockheed-martin-to-launch-new-satellite-bus-aimed-at-mid-size-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T232936">2022-03-21 23:29:36 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Suborbital
 * [Focus for early-stage space companies turning to workforce challenges](https://spacenews.com/focus-for-early-stage-space-companies-turning-to-workforce-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T210940">2022-03-21 21:09:40 UTC</a></sub>
 * [Industry proposals sought for ‘cislunar highway patrol’ satellite](https://spacenews.com/industry-proposals-sought-for-cislunar-highway-patrol-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T204944">2022-03-21 20:49:44 UTC</a></sub>
 * [Starlink reaches 250,000 subscribers as it targets aviation and other markets](https://spacenews.com/starlink-reaches-250000-subscribers-as-it-targets-aviation-and-other-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T172940">2022-03-21 17:29:40 UTC</a></sub>
-* [James Webb teams successfully align mirror, commissioning continues](https://www.nasaspaceflight.com/2022/03/james-webb-align-mirror/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T162440">2022-03-21 16:24:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T140329">2022-03-22 14:03:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T143116">2022-03-22 14:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
