@@ -182,6 +182,7 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Vulcan Centaur on schedule for first launch in 2022 as New Glenn slips](https://spacenews.com/vulcan-centaur-on-schedule-for-first-launch-in-2022-as-new-glenn-slips/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T172927">2022-03-23 17:29:27 UTC</a></sub>
 * [NASA to Host Axiom Mission 1 Flight Readiness Media Teleconference](http://www.nasa.gov/press-release/nasa-to-host-axiom-mission-1-flight-readiness-media-teleconference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T161000">2022-03-23 16:10:00 UTC</a></sub>
 * [SES beat multiple bidders for Leonardo DRS satcom business](https://spacenews.com/ses-beat-multiple-bidders-for-leonardo-drs-satcom-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T154930">2022-03-23 15:49:30 UTC</a></sub>
 * [Ukrainian launch startup Promin juggles research, territorial defense](https://spacenews.com/ukrainian-launch-startup-promin-juggles-research-territorial-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T150925">2022-03-23 15:09:25 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Suborbital
 * [PSN orders Indonesia-focused satellite from Boeing for 2023 launch](https://spacenews.com/psn-orders-indonesia-focused-satellite-from-boeing-for-2023-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T123913">2022-03-23 12:39:13 UTC</a></sub>
 * [ISS astronauts to perform final spacewalk of Expedition 66](https://www.nasaspaceflight.com/2022/03/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T123527">2022-03-23 12:35:27 UTC</a></sub>
 * [Ursa Space raises $16 million in Series C round](https://spacenews.com/ursa-space-series-c/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T121919">2022-03-23 12:19:19 UTC</a></sub>
-* [Firefly raises $75 million as it prepares for second launch](https://spacenews.com/firefly-raises-75-million-as-it-prepares-for-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T111917">2022-03-23 11:19:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T170812">2022-03-23 17:08:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T173551">2022-03-23 17:35:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
