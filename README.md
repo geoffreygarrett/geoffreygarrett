@@ -182,6 +182,8 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Provides Update to Astronaut Moon Lander Plans Under Artemis](http://www.nasa.gov/press-release/nasa-provides-update-to-astronaut-moon-lander-plans-under-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T190000">2022-03-23 19:00:00 UTC</a></sub>
+* [Hispasat buys teleport operator to expand managed services business](https://spacenews.com/hispasat-buys-teleport-operator-to-expand-managed-services-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T184940">2022-03-23 18:49:40 UTC</a></sub>
 * [Satellite supplier with in-house production bid the lowest price for DoD constellation](https://spacenews.com/satellite-supplier-with-in-house-production-bid-the-lowest-price-for-dod-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T182929">2022-03-23 18:29:29 UTC</a></sub>
 * [Vulcan Centaur on schedule for first launch in 2022 as New Glenn slips](https://spacenews.com/vulcan-centaur-on-schedule-for-first-launch-in-2022-as-new-glenn-slips/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T172927">2022-03-23 17:29:27 UTC</a></sub>
 * [NASA to Host Axiom Mission 1 Flight Readiness Media Teleconference](http://www.nasa.gov/press-release/nasa-to-host-axiom-mission-1-flight-readiness-media-teleconference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T161000">2022-03-23 16:10:00 UTC</a></sub>
@@ -190,8 +192,6 @@ into a Suborbital
 * [Watch live: Spacewalk underway for space station maintenance, upgrades](https://spaceflightnow.com/2022/03/23/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T141917">2022-03-23 14:19:17 UTC</a></sub>
 * [Boeing eyes investment candidates at Satellite 2022](https://spacenews.com/boeing-satellite-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T133930">2022-03-23 13:39:30 UTC</a></sub>
 * [Universal connectivity requires extensive collaboration](https://spacenews.com/ubiquitous-connectivity-satellite-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T130932">2022-03-23 13:09:32 UTC</a></sub>
-* [PSN orders Indonesia-focused satellite from Boeing for 2023 launch](https://spacenews.com/psn-orders-indonesia-focused-satellite-from-boeing-for-2023-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T123913">2022-03-23 12:39:13 UTC</a></sub>
-* [ISS astronauts to perform final spacewalk of Expedition 66](https://www.nasaspaceflight.com/2022/03/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T123527">2022-03-23 12:35:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T190218">2022-03-23 19:02:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T193124">2022-03-23 19:31:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
