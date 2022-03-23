@@ -182,6 +182,8 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Host Axiom Mission 1 Flight Readiness Media Teleconference](http://www.nasa.gov/press-release/nasa-to-host-axiom-mission-1-flight-readiness-media-teleconference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T161000">2022-03-23 16:10:00 UTC</a></sub>
+* [SES beat multiple bidders for Leonardo DRS satcom business](https://spacenews.com/ses-beat-multiple-bidders-for-leonardo-drs-satcom-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T154930">2022-03-23 15:49:30 UTC</a></sub>
 * [Ukrainian launch startup Promin juggles research, territorial defense](https://spacenews.com/ukrainian-launch-startup-promin-juggles-research-territorial-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T150925">2022-03-23 15:09:25 UTC</a></sub>
 * [Watch live: Spacewalk underway for space station maintenance, upgrades](https://spaceflightnow.com/2022/03/23/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T141917">2022-03-23 14:19:17 UTC</a></sub>
 * [Boeing eyes investment candidates at Satellite 2022](https://spacenews.com/boeing-satellite-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T133930">2022-03-23 13:39:30 UTC</a></sub>
@@ -190,8 +192,6 @@ into a Suborbital
 * [ISS astronauts to perform final spacewalk of Expedition 66](https://www.nasaspaceflight.com/2022/03/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T123527">2022-03-23 12:35:27 UTC</a></sub>
 * [Ursa Space raises $16 million in Series C round](https://spacenews.com/ursa-space-series-c/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T121919">2022-03-23 12:19:19 UTC</a></sub>
 * [Firefly raises $75 million as it prepares for second launch](https://spacenews.com/firefly-raises-75-million-as-it-prepares-for-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T111917">2022-03-23 11:19:17 UTC</a></sub>
-* [SpaceX’s next Crew Dragon astronaut launch slips into April](https://www.teslarati.com/spacex-crew-dragon-launches-delayed-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T110935">2022-03-23 11:09:35 UTC</a></sub>
-* [Blaming inflation, SpaceX raises Starlink and launch prices](https://spacenews.com/blaming-inflation-spacex-raises-starlink-and-launch-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T102914">2022-03-23 10:29:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T160630">2022-03-23 16:06:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T165031">2022-03-23 16:50:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
