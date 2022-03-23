@@ -182,7 +182,8 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Spacewalk underway for space station maintenance, upgrades](https://spaceflightnow.com/2022/03/23/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T132921">2022-03-23 13:29:21 UTC</a></sub>
+* [Watch live: Spacewalk underway for space station maintenance, upgrades](https://spaceflightnow.com/2022/03/23/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T141917">2022-03-23 14:19:17 UTC</a></sub>
+* [Boeing eyes investment candidates at Satellite 2022](https://spacenews.com/boeing-satellite-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T133930">2022-03-23 13:39:30 UTC</a></sub>
 * [Universal connectivity requires extensive collaboration](https://spacenews.com/ubiquitous-connectivity-satellite-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T130932">2022-03-23 13:09:32 UTC</a></sub>
 * [PSN orders Indonesia-focused satellite from Boeing for 2023 launch](https://spacenews.com/psn-orders-indonesia-focused-satellite-from-boeing-for-2023-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T123913">2022-03-23 12:39:13 UTC</a></sub>
 * [ISS astronauts to perform final spacewalk of Expedition 66](https://www.nasaspaceflight.com/2022/03/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T123527">2022-03-23 12:35:27 UTC</a></sub>
@@ -191,7 +192,6 @@ into a Suborbital
 * [SpaceX’s next Crew Dragon astronaut launch slips into April](https://www.teslarati.com/spacex-crew-dragon-launches-delayed-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T110935">2022-03-23 11:09:35 UTC</a></sub>
 * [Blaming inflation, SpaceX raises Starlink and launch prices](https://spacenews.com/blaming-inflation-spacex-raises-starlink-and-launch-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T102914">2022-03-23 10:29:14 UTC</a></sub>
 * [Ursa Major says its Hadley engine supports vertical launch and hypersonic uses](https://arstechnica.com/science/2022/03/ursa-major-says-its-hadley-engine-supports-vertical-launch-and-hypersonic-uses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T090036">2022-03-23 09:00:36 UTC</a></sub>
-* [Satellite supply chains coming under increasing scrutiny](https://spacenews.com/satellite-supply-chains-coming-under-increasing-scrutiny/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T214913">2022-03-22 21:49:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T140322">2022-03-23 14:03:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T143206">2022-03-23 14:32:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
