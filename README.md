@@ -182,6 +182,8 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blaming inflation, SpaceX raises Starlink and launch prices](https://spacenews.com/blaming-inflation-spacex-raises-starlink-and-launch-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T102914">2022-03-23 10:29:14 UTC</a></sub>
+* [Ursa Major says its Hadley engine supports vertical launch and hypersonic uses](https://arstechnica.com/science/2022/03/ursa-major-says-its-hadley-engine-supports-vertical-launch-and-hypersonic-uses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T090036">2022-03-23 09:00:36 UTC</a></sub>
 * [Satellite supply chains coming under increasing scrutiny](https://spacenews.com/satellite-supply-chains-coming-under-increasing-scrutiny/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T214913">2022-03-22 21:49:13 UTC</a></sub>
 * [Swarm launched satellites on Astra mission](https://spacenews.com/swarm-launched-satellites-on-astra-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T211913">2022-03-22 21:19:13 UTC</a></sub>
 * [NASA Awards Balloon Operations Follow-On Contract](http://www.nasa.gov/press-release/nasa-awards-balloon-operations-follow-on-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T201900">2022-03-22 20:19:00 UTC</a></sub>
@@ -190,8 +192,6 @@ into a Suborbital
 * [NASA to Discuss Artemis Strategy for Astronaut Moon Landers](http://www.nasa.gov/press-release/nasa-to-discuss-artemis-strategy-for-astronaut-moon-landers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T191900">2022-03-22 19:19:00 UTC</a></sub>
 * [Legally, Russia can’t just take its Space Station and go home](https://arstechnica.com/science/2022/03/heres-why-russia-probably-wont-break-the-space-station-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T163313">2022-03-22 16:33:13 UTC</a></sub>
 * [GEO operators say they can compete against LEO systems on cost](https://spacenews.com/geo-operators-say-they-can-compete-against-leo-systems-on-cost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T151913">2022-03-22 15:19:13 UTC</a></sub>
-* [Telstra to build teleports for OneWeb constellation](https://spacenews.com/telstra-teleports-for-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T134914">2022-03-22 13:49:14 UTC</a></sub>
-* [SpaceX assigns newer Starship, Super Heavy booster to orbital launch debut](https://www.teslarati.com/spacex-starship-super-heavy-new-orbital-test-flight-prototypes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T110935">2022-03-22 11:09:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T002928">2022-03-23 00:29:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T110222">2022-03-23 11:02:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
