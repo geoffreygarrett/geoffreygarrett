@@ -182,16 +182,16 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astronauts complete spacewalk for space station maintenance and upgrades](https://spaceflightnow.com/2022/03/23/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T220917">2022-03-23 22:09:17 UTC</a></sub>
 * [NASA to support development of second Artemis lunar lander](https://spacenews.com/nasa-to-support-development-of-second-artemis-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T215933">2022-03-23 21:59:33 UTC</a></sub>
-* [La NASA te invita a enviar tu nombre a la Luna, ¡ahora en español!](http://www.nasa.gov/press-release/la-nasa-te-invita-a-enviar-tu-nombre-a-la-luna-ahora-en-espa-ol) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T205000">2022-03-23 20:50:00 UTC</a></sub>
 * [NASA Invites Public to Send their Name to Moon – Now in Spanish!](http://www.nasa.gov/press-release/nasa-invites-public-to-send-their-name-to-moon-now-in-spanish) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T205000">2022-03-23 20:50:00 UTC</a></sub>
+* [La NASA te invita a enviar tu nombre a la Luna, ¡ahora en español!](http://www.nasa.gov/press-release/la-nasa-te-invita-a-enviar-tu-nombre-a-la-luna-ahora-en-espa-ol) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T205000">2022-03-23 20:50:00 UTC</a></sub>
 * [NASA Provides Update to Astronaut Moon Lander Plans Under Artemis](http://www.nasa.gov/press-release/nasa-provides-update-to-astronaut-moon-lander-plans-under-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T190000">2022-03-23 19:00:00 UTC</a></sub>
 * [Hispasat buys teleport operator to expand managed services business](https://spacenews.com/hispasat-buys-teleport-operator-to-expand-managed-services-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T184940">2022-03-23 18:49:40 UTC</a></sub>
 * [Satellite supplier with in-house production bid the lowest price for DoD constellation](https://spacenews.com/satellite-supplier-with-in-house-production-bid-the-lowest-price-for-dod-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T182929">2022-03-23 18:29:29 UTC</a></sub>
 * [Vulcan Centaur on schedule for first launch in 2022 as New Glenn slips](https://spacenews.com/vulcan-centaur-on-schedule-for-first-launch-in-2022-as-new-glenn-slips/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T172927">2022-03-23 17:29:27 UTC</a></sub>
 * [NASA to Host Axiom Mission 1 Flight Readiness Media Teleconference](http://www.nasa.gov/press-release/nasa-to-host-axiom-mission-1-flight-readiness-media-teleconference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T161000">2022-03-23 16:10:00 UTC</a></sub>
 * [SES beat multiple bidders for Leonardo DRS satcom business](https://spacenews.com/ses-beat-multiple-bidders-for-leonardo-drs-satcom-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T154930">2022-03-23 15:49:30 UTC</a></sub>
-* [Ukrainian launch startup Promin juggles research, territorial defense](https://spacenews.com/ukrainian-launch-startup-promin-juggles-research-territorial-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T150925">2022-03-23 15:09:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T220330">2022-03-23 22:03:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T223517">2022-03-23 22:35:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
