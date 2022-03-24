@@ -183,6 +183,8 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Provide Live Coverage of Record-Setting US Astronaut Return](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-record-setting-us-astronaut-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T195900">2022-03-24 19:59:00 UTC</a></sub>
+* [Panelists agree hiring remains the biggest challenge](https://spacenews.com/biggest-challenge-hiring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T194934">2022-03-24 19:49:34 UTC</a></sub>
 * [Accelerating satellite production timelines improving market health](https://spacenews.com/accelerating-satellite-production-timelines-improving-market-health/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T174935">2022-03-24 17:49:35 UTC</a></sub>
 * [EGS, Jacobs preparing Artemis 1 vehicle at pad for final pre-launch countdown test](https://www.nasaspaceflight.com/2022/03/artemis-1-wdr-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T162917">2022-03-24 16:29:17 UTC</a></sub>
 * [Millennium Space to launch to orbit a 3D printed satellite structure](https://spacenews.com/millennium-space-to-launch-to-orbit-a-3d-printed-satellite-structure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T155928">2022-03-24 15:59:28 UTC</a></sub>
@@ -191,8 +193,6 @@ into a Suborbital
 * [NASA's Ingenuity Helicopter and Asteroid-Monitoring System Honored](https://mars.nasa.gov/news/9152/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T224000">2022-03-23 22:40:00 UTC</a></sub>
 * [Astronauts complete spacewalk for space station maintenance and upgrades](https://spaceflightnow.com/2022/03/23/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T220917">2022-03-23 22:09:17 UTC</a></sub>
 * [NASA to support development of second Artemis lunar lander](https://spacenews.com/nasa-to-support-development-of-second-artemis-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T215933">2022-03-23 21:59:33 UTC</a></sub>
-* [La NASA te invita a enviar tu nombre a la Luna, ¡ahora en español!](http://www.nasa.gov/press-release/la-nasa-te-invita-a-enviar-tu-nombre-a-la-luna-ahora-en-espa-ol) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T205000">2022-03-23 20:50:00 UTC</a></sub>
-* [NASA Invites Public to Send their Name to Moon – Now in Spanish!](http://www.nasa.gov/press-release/nasa-invites-public-to-send-their-name-to-moon-now-in-spanish) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T205000">2022-03-23 20:50:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T193110">2022-03-24 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T200645">2022-03-24 20:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
