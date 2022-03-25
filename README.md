@@ -183,6 +183,8 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX outfits Starship prototype with unique Starlink satellite dispenser](https://www.teslarati.com/spacex-starship-s24-starlink-dispenser/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T111044">2022-03-25 11:10:44 UTC</a></sub>
+* [Rocket Report: SpaceX broomstick cleaning up contracts, Astra back on track](https://arstechnica.com/science/2022/03/rocket-report-spacex-broomstick-cleaning-up-contracts-astra-back-on-track/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T110002">2022-03-25 11:00:02 UTC</a></sub>
 * [Northrop Grumman says customers are ‘lined up’ for on-orbit satellite servicing](https://spacenews.com/northrop-grumman-says-customers-are-lined-up-for-its-satellite-servicing-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T221931">2022-03-24 22:19:31 UTC</a></sub>
 * [SpaceX frees up orbital launch site for upgraded Super Heavy booster](https://www.teslarati.com/spacex-starbase-upgraded-starship-prototypes-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T213032">2022-03-24 21:30:32 UTC</a></sub>
 * [NASA to Provide Live Coverage of Record-Setting US Astronaut Return](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-record-setting-us-astronaut-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T195900">2022-03-24 19:59:00 UTC</a></sub>
@@ -191,8 +193,6 @@ into a Suborbital
 * [EGS, Jacobs preparing Artemis 1 vehicle at pad for final pre-launch countdown test](https://www.nasaspaceflight.com/2022/03/artemis-1-wdr-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T162917">2022-03-24 16:29:17 UTC</a></sub>
 * [Millennium Space to launch to orbit a 3D printed satellite structure](https://spacenews.com/millennium-space-to-launch-to-orbit-a-3d-printed-satellite-structure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T155928">2022-03-24 15:59:28 UTC</a></sub>
 * [Arianespace and SpaceX work to adjust launch manifests](https://spacenews.com/arianespace-and-spacex-work-to-adjust-launch-manifests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T140924">2022-03-24 14:09:24 UTC</a></sub>
-* [NASA, ESA Assign Astronauts to Space Station Mission on Crew Dragon](http://www.nasa.gov/press-release/nasa-esa-assign-astronauts-to-space-station-mission-on-crew-dragon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T140000">2022-03-24 14:00:00 UTC</a></sub>
-* [NASA's Ingenuity Helicopter and Asteroid-Monitoring System Honored](https://mars.nasa.gov/news/9152/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T224000">2022-03-23 22:40:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T110227">2022-03-25 11:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T113120">2022-03-25 11:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
