@@ -183,6 +183,9 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Terran Orbital stock cleared for trading on NYSE](https://spacenews.com/terran-orbital-merger-completed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T231935">2022-03-25 23:19:35 UTC</a></sub>
+* [Additional funding unlikely to accelerate commercial space station projects](https://spacenews.com/additional-funding-unlikely-to-accelerate-commercial-space-station-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T231935">2022-03-25 23:19:35 UTC</a></sub>
+* [Space Force using Spire data to detect satellite jamming](https://spacenews.com/space-force-using-spire-data-to-detect-satellite-jamming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T223926">2022-03-25 22:39:26 UTC</a></sub>
 * [NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-4 Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-4-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T215000">2022-03-25 21:50:00 UTC</a></sub>
 * [Annual State of NASA Address, Media Budget Briefing Set for March 28](http://www.nasa.gov/press-release/annual-state-of-nasa-address-media-budget-briefing-set-for-march-28) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T211000">2022-03-25 21:10:00 UTC</a></sub>
 * [Hydrazine fueling operations underway for SLS booster steering system](https://spaceflightnow.com/2022/03/25/hydrazine-fueling-operations-underway-for-sls-booster-steering-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T194919">2022-03-25 19:49:19 UTC</a></sub>
@@ -190,9 +193,6 @@ into a Suborbital
 * [Rocket Report: SpaceX broomstick cleaning up contracts, Astra back on track](https://arstechnica.com/science/2022/03/rocket-report-spacex-broomstick-cleaning-up-contracts-astra-back-on-track/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T110002">2022-03-25 11:00:02 UTC</a></sub>
 * [Northrop Grumman says customers are ‘lined up’ for on-orbit satellite servicing](https://spacenews.com/northrop-grumman-says-customers-are-lined-up-for-its-satellite-servicing-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T221931">2022-03-24 22:19:31 UTC</a></sub>
 * [SpaceX frees up orbital launch site for upgraded Super Heavy booster](https://www.teslarati.com/spacex-starbase-upgraded-starship-prototypes-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T213032">2022-03-24 21:30:32 UTC</a></sub>
-* [NASA to Provide Live Coverage of Record-Setting US Astronaut Return](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-record-setting-us-astronaut-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T195900">2022-03-24 19:59:00 UTC</a></sub>
-* [Panelists agree hiring remains the biggest challenge](https://spacenews.com/biggest-challenge-hiring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T194934">2022-03-24 19:49:34 UTC</a></sub>
-* [Accelerating satellite production timelines improving market health](https://spacenews.com/accelerating-satellite-production-timelines-improving-market-health/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T174935">2022-03-24 17:49:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T230241">2022-03-25 23:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T233400">2022-03-25 23:34:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
