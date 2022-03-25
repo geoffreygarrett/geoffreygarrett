@@ -183,6 +183,7 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hydrazine fueling operations underway for SLS booster steering system](https://spaceflightnow.com/2022/03/25/hydrazine-fueling-operations-underway-for-sls-booster-steering-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T194919">2022-03-25 19:49:19 UTC</a></sub>
 * [SpaceX outfits Starship prototype with unique Starlink satellite dispenser](https://www.teslarati.com/spacex-starship-s24-starlink-dispenser/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T111044">2022-03-25 11:10:44 UTC</a></sub>
 * [Rocket Report: SpaceX broomstick cleaning up contracts, Astra back on track](https://arstechnica.com/science/2022/03/rocket-report-spacex-broomstick-cleaning-up-contracts-astra-back-on-track/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T110002">2022-03-25 11:00:02 UTC</a></sub>
 * [Northrop Grumman says customers are ‘lined up’ for on-orbit satellite servicing](https://spacenews.com/northrop-grumman-says-customers-are-lined-up-for-its-satellite-servicing-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T221931">2022-03-24 22:19:31 UTC</a></sub>
@@ -192,7 +193,6 @@ into a Suborbital
 * [Accelerating satellite production timelines improving market health](https://spacenews.com/accelerating-satellite-production-timelines-improving-market-health/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T174935">2022-03-24 17:49:35 UTC</a></sub>
 * [EGS, Jacobs preparing Artemis 1 vehicle at pad for final pre-launch countdown test](https://www.nasaspaceflight.com/2022/03/artemis-1-wdr-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T162917">2022-03-24 16:29:17 UTC</a></sub>
 * [Millennium Space to launch to orbit a 3D printed satellite structure](https://spacenews.com/millennium-space-to-launch-to-orbit-a-3d-printed-satellite-structure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T155928">2022-03-24 15:59:28 UTC</a></sub>
-* [Russian military communications satellite launched on Soyuz rocket](https://spaceflightnow.com/2022/03/24/russian-military-communications-satellite-launched-on-soyuz-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T151917">2022-03-24 15:19:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T193112">2022-03-25 19:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T200422">2022-03-25 20:04:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
