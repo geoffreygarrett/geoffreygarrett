@@ -137,7 +137,7 @@ into a Suborbital
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-14</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T000000">2022-04-14 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-14&location=Cape Canaveral, FL, USA&dates=20220414T000000Z%2F20220414T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NROL-85</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T000000">2022-04-15 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-85&location=Vandenberg SFB, CA, USA&dates=20220415T000000Z%2F20220415T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>MKA-R</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T000000">2022-04-19 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | MKA-R&location=Plesetsk Cosmodrome, Russian Federation&dates=20220419T000000Z%2F20220419T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Crew-4</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T104500">2022-04-19 10:45:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220419T104500Z%2F20220419T104500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Crew-4</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T105900">2022-04-19 10:59:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220419T105900Z%2F20220419T105900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -183,6 +183,7 @@ into a Suborbital
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-4 Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-4-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T215000">2022-03-25 21:50:00 UTC</a></sub>
 * [Annual State of NASA Address, Media Budget Briefing Set for March 28](http://www.nasa.gov/press-release/annual-state-of-nasa-address-media-budget-briefing-set-for-march-28) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T211000">2022-03-25 21:10:00 UTC</a></sub>
 * [Hydrazine fueling operations underway for SLS booster steering system](https://spaceflightnow.com/2022/03/25/hydrazine-fueling-operations-underway-for-sls-booster-steering-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T194919">2022-03-25 19:49:19 UTC</a></sub>
 * [SpaceX outfits Starship prototype with unique Starlink satellite dispenser](https://www.teslarati.com/spacex-starship-s24-starlink-dispenser/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T111044">2022-03-25 11:10:44 UTC</a></sub>
@@ -192,7 +193,6 @@ into a Suborbital
 * [NASA to Provide Live Coverage of Record-Setting US Astronaut Return](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-record-setting-us-astronaut-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T195900">2022-03-24 19:59:00 UTC</a></sub>
 * [Panelists agree hiring remains the biggest challenge](https://spacenews.com/biggest-challenge-hiring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T194934">2022-03-24 19:49:34 UTC</a></sub>
 * [Accelerating satellite production timelines improving market health](https://spacenews.com/accelerating-satellite-production-timelines-improving-market-health/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T174935">2022-03-24 17:49:35 UTC</a></sub>
-* [EGS, Jacobs preparing Artemis 1 vehicle at pad for final pre-launch countdown test](https://www.nasaspaceflight.com/2022/03/artemis-1-wdr-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T162917">2022-03-24 16:29:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T220245">2022-03-25 22:02:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T223528">2022-03-25 22:35:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
