@@ -188,7 +188,7 @@ into a Suborbital
 * [Space Force using Spire data to detect satellite jamming](https://spacenews.com/space-force-using-spire-data-to-detect-satellite-jamming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T223926">2022-03-25 22:39:26 UTC</a></sub>
 * [NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-4 Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-4-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T215000">2022-03-25 21:50:00 UTC</a></sub>
 * [Annual State of NASA Address, Media Budget Briefing Set for March 28](http://www.nasa.gov/press-release/annual-state-of-nasa-address-media-budget-briefing-set-for-march-28) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T211000">2022-03-25 21:10:00 UTC</a></sub>
-* [Hydrazine fueling operations underway for SLS booster steering system](https://spaceflightnow.com/2022/03/25/hydrazine-fueling-operations-underway-for-sls-booster-steering-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T194919">2022-03-25 19:49:19 UTC</a></sub>
+* [Hydrazine loading operations conclude at the SLS launch pad](https://spaceflightnow.com/2022/03/25/hydrazine-fueling-operations-underway-for-sls-booster-steering-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T123925">2022-03-25 12:39:25 UTC</a></sub>
 * [SpaceX outfits Starship prototype with unique Starlink satellite dispenser](https://www.teslarati.com/spacex-starship-s24-starlink-dispenser/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T111044">2022-03-25 11:10:44 UTC</a></sub>
 * [Rocket Report: SpaceX broomstick cleaning up contracts, Astra back on track](https://arstechnica.com/science/2022/03/rocket-report-spacex-broomstick-cleaning-up-contracts-astra-back-on-track/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T110002">2022-03-25 11:00:02 UTC</a></sub>
 * [SpaceX’s new Dragon spaceship named ‘Freedom’](https://spaceflightnow.com/2022/03/25/spacexs-new-dragon-spaceship-named-freedom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T054920">2022-03-25 05:49:20 UTC</a></sub>
@@ -225,7 +225,7 @@ into a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T120849">2022-03-26 12:08:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T125049">2022-03-26 12:50:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
