@@ -11,12 +11,13 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 - 🌱 I’m currently learning about the promising subfield of self-supervised learning.
 - 👯 I’m looking to collaborate on a rust library for numerical mathematics/numerical astrodynamics
 - 💬 Ask me about Netflix series, ocean diving, golf, Mauritius, TU Delft or my doggo.
-- 📫 How to reach me: `coming soon!`
+- 📫 How to reach me: `geoffreygarrett99 at gmail dot com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur dog trainer.
 <!-- - 🤔 I’m looking for help with ... -->
 
 ## My GitHub state 📊
+[![README.md 🌀](https://github.com/geoffreygarrett/geoffreygarrett/actions/workflows/update.yml/badge.svg)](https://github.com/geoffreygarrett/geoffreygarrett/actions/workflows/update.yml)
 
 <table>
 <tr>

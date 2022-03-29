@@ -8,6 +8,7 @@ import cv2
 from sfn import get_news_articles, get_blogs, get_reports
 from ll2 import LaunchLibrary2
 from gh import GitHub
+import sys 
 
 # import matplotlib.pyplot as plt
 # import matplotlib.dates as mdates
@@ -431,8 +432,14 @@ def get_readme_data():
         cache_time=3600 // 2)
 
     # github
-    github = GitHub(api_token=os.environ["GH_TOKEN"])
-
+    if "TOKEN" in os.environ:
+        token = os.environ["TOKEN"]
+    else:
+        print(len(sys.argv))
+        print(len(sys.argv[1]))
+        token = sys.argv[1]
+    github = GitHub(api_token=token)
+    
     open_issues = github.get_issue_assigned_to_me(
         cache_dir=CACHE_DIR,
         cache_time=3600 // 2)
