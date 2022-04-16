@@ -435,8 +435,6 @@ def get_readme_data():
     if "TOKEN" in os.environ:
         token = os.environ["TOKEN"]
     else:
-        print(len(sys.argv))
-        print(len(sys.argv[1]))
         token = sys.argv[1]
     github = GitHub(api_token=token)
     
@@ -506,6 +504,8 @@ def get_readme_data():
 
 
 if __name__ == "__main__":
+    os.environ["TOKEN"] = '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'
+
     # load template file
     template_loader = jinja2.FileSystemLoader(searchpath="./templates")
     template_env = jinja2.Environment(loader=template_loader)

@@ -86,15 +86,16 @@ The next launch, retrieved from the
 <a href="{{ next_launch.pad.wiki_url }}">{{ next_launch.pad.name }}</a> in
 {{ next_launch.pad.location.name }}
 <img width="17" src="{{get_country_flag_svg(next_launch.pad.location.country_code)}}" />
-at {{ make_html_linked_time(next_launch.datetime) }}.  Until
+at {{ make_html_linked_time(next_launch.datetime) }}. Until
 then, this launch pad will have seen {{ next_launch.pad.total_launch_count }}
 out of {{ next_launch.pad.location.total_launch_count }} launches in this
 region. The mission's status is currently {{ next_launch.status.name }}
 ({{ next_launch.status.abbrev }}) {{ status_emoji(next_launch.status.abbrev) }} which means:
-*{{ first_letter_lower(next_launch.status.description)  }}* {{% if next_launch.mission %}} The mission type is
+*{{ first_letter_lower(next_launch.status.description)  }}* {% if mission in next_launch %} The mission type is
 {{ next_launch.mission.type }} and the payload will be injected
 into {{ add_article_prefix(next_launch.mission.orbit.name) }}
-({{ next_launch.mission.orbit.abbrev }}). {{% endif %}}
+({{ next_launch.mission.orbit.abbrev }}).
+{% endif %}
 <br>
 <blockquote>
   {{ next_launch.mission.description }}
