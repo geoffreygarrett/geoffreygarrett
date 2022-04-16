@@ -504,7 +504,6 @@ def get_readme_data():
 
 
 if __name__ == "__main__":
-    os.environ["TOKEN"] = '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'
 
     # load template file
     template_loader = jinja2.FileSystemLoader(searchpath="./templates")
