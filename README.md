@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Falcon 9 to launch NROL-85 mission for National Reconnaissance Office](https://www.nasaspaceflight.com/2022/04/falcon-9-nrol-85/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T125711">2022-04-17 12:57:11 UTC</a></sub>
 * [NASA to roll back its mega rocket after failing to complete countdown test](https://arstechnica.com/science/2022/04/nasa-to-roll-back-its-mega-rocket-after-failing-to-complete-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T031036">2022-04-17 03:10:36 UTC</a></sub>
 * [NASA to return Artemis moon rocket to assembly building for repairs](https://spaceflightnow.com/2022/04/17/nasa-to-return-artemis-moon-rocket-to-assembly-building-for-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T015926">2022-04-17 01:59:26 UTC</a></sub>
 * [Shenzhou-13 astronauts return to Earth after 182-day mission](https://spacenews.com/shenzhou-13-astronauts-return-to-earth-after-182-day-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T195937">2022-04-16 19:59:37 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA to roll back SLS for repairs](https://spacenews.com/nasa-works-to-track-down-source-of-hydrogen-leak-from-sls-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T021934">2022-04-16 02:19:34 UTC</a></sub>
 * [Shenzhou-13 mission ends with safe return of Chinese taikonaut trio](https://www.nasaspaceflight.com/2022/04/shenzhou-13-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T015919">2022-04-16 01:59:19 UTC</a></sub>
 * [NASA to Discuss Status of Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T011000">2022-04-16 01:10:00 UTC</a></sub>
-* [NASA ready for Ax-1 return and Crew-4 launch](https://spacenews.com/nasa-ready-for-ax-1-return-and-crew-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T230949">2022-04-15 23:09:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T131417">2022-04-17 13:14:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T133749">2022-04-17 13:37:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
