@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to roll back its mega rocket after failing to complete countdown test](https://arstechnica.com/science/2022/04/nasa-to-roll-back-its-mega-rocket-after-failing-to-complete-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T031036">2022-04-17 03:10:36 UTC</a></sub>
 * [NASA to return Artemis moon rocket to assembly building for repairs](https://spaceflightnow.com/2022/04/17/nasa-to-return-artemis-moon-rocket-to-assembly-building-for-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T015926">2022-04-17 01:59:26 UTC</a></sub>
 * [Shenzhou-13 astronauts return to Earth after 182-day mission](https://spacenews.com/shenzhou-13-astronauts-return-to-earth-after-182-day-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T195937">2022-04-16 19:59:37 UTC</a></sub>
 * [Far side: the moon’s use as a new astronomical site](https://spacenews.com/far-side-the-moons-use-as-a-new-astronomical-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T121941">2022-04-16 12:19:41 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Discuss Status of Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T011000">2022-04-16 01:10:00 UTC</a></sub>
 * [NASA ready for Ax-1 return and Crew-4 launch](https://spacenews.com/nasa-ready-for-ax-1-return-and-crew-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T230949">2022-04-15 23:09:49 UTC</a></sub>
 * [Chinese astronauts undock from space station, head for landing](https://spaceflightnow.com/2022/04/15/chinese-astronauts-undock-from-space-station-head-for-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T223926">2022-04-15 22:39:26 UTC</a></sub>
-* [NASA and Space Force cooperate on near Earth object data](https://spacenews.com/nasa-and-space-force-cooperate-on-near-earth-object-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T202937">2022-04-15 20:29:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T030918">2022-04-17 03:09:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T034718">2022-04-17 03:47:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
