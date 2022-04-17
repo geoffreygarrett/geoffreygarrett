@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to return Artemis moon rocket to assembly building for repairs](https://spaceflightnow.com/2022/04/17/nasa-to-return-artemis-moon-rocket-to-assembly-building-for-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T015926">2022-04-17 01:59:26 UTC</a></sub>
 * [NASA works to track down source of hydrogen leak from SLS countdown test](https://spacenews.com/nasa-works-to-track-down-source-of-hydrogen-leak-from-sls-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T231942">2022-04-16 23:19:42 UTC</a></sub>
 * [Shenzhou-13 astronauts return to Earth after 182-day mission](https://spacenews.com/shenzhou-13-astronauts-return-to-earth-after-182-day-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T195937">2022-04-16 19:59:37 UTC</a></sub>
 * [Far side: the moon’s use as a new astronomical site](https://spacenews.com/far-side-the-moons-use-as-a-new-astronomical-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T121941">2022-04-16 12:19:41 UTC</a></sub>
 * [Chinese astronauts return to Earth after six-month mission on space station](https://spaceflightnow.com/2022/04/16/chinese-astronauts-return-to-earth-after-six-month-mission-on-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T073925">2022-04-16 07:39:25 UTC</a></sub>
 * [Shenzhou-13 mission ends with safe return of Chinese taikonaut trio](https://www.nasaspaceflight.com/2022/04/shenzhou-13-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T015919">2022-04-16 01:59:19 UTC</a></sub>
+* [NASA to Discuss Status of Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T011000">2022-04-16 01:10:00 UTC</a></sub>
 * [NASA ready for Ax-1 return and Crew-4 launch](https://spacenews.com/nasa-ready-for-ax-1-return-and-crew-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T230949">2022-04-15 23:09:49 UTC</a></sub>
 * [Chinese astronauts undock from space station, head for landing](https://spaceflightnow.com/2022/04/15/chinese-astronauts-undock-from-space-station-head-for-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T223926">2022-04-15 22:39:26 UTC</a></sub>
 * [NASA and Space Force cooperate on near Earth object data](https://spacenews.com/nasa-and-space-force-cooperate-on-near-earth-object-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T202937">2022-04-15 20:29:37 UTC</a></sub>
-* [Chinese Shiyan-10 satellite reappears in new Molniya orbit months after launch anomaly](https://spacenews.com/chinese-shiyan-10-satellite-reappears-in-new-molniya-orbit-months-after-launch-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T142943">2022-04-15 14:29:43 UTC</a></sub>
-* [NASA Coverage Set for Axiom Mission 1 Departure from Space Station](http://www.nasa.gov/press-release/nasa-coverage-set-for-axiom-mission-1-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T134000">2022-04-15 13:40:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T002832">2022-04-17 00:28:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T021246">2022-04-17 02:12:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
