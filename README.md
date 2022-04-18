@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [COMSPOC executive to join DoD’s space policy office](https://spacenews.com/comspoc-executive-to-join-dods-space-policy-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T050941">2022-04-18 05:09:41 UTC</a></sub>
 * [SpaceX reuses Falcon 9 booster for second spy satellite launch in two months](https://www.teslarati.com/spacex-second-nro-spy-satellite-launch-two-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T212114">2022-04-17 21:21:14 UTC</a></sub>
 * [SpaceX launches NROL-85 spy satellite for U.S. National Reconnaissance Office](https://spacenews.com/spacex-launches-nrol-85-spy-satellite-for-u-s-national-reconnaissance-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T134940">2022-04-17 13:49:40 UTC</a></sub>
 * [Falcon 9 launches NROL-85 mission for National Reconnaissance Office](https://www.nasaspaceflight.com/2022/04/falcon-9-nrol-85/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T125711">2022-04-17 12:57:11 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Far side: the moon’s use as a new astronomical site](https://spacenews.com/far-side-the-moons-use-as-a-new-astronomical-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T121941">2022-04-16 12:19:41 UTC</a></sub>
 * [Photos: Falcon 9 rocket vertical on Vandenberg launch pad](https://spaceflightnow.com/2022/04/16/photos-falcon-9-rocket-vertical-on-vandenberg-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T120930">2022-04-16 12:09:30 UTC</a></sub>
 * [Chinese astronauts return to Earth after six-month mission on space station](https://spaceflightnow.com/2022/04/16/chinese-astronauts-return-to-earth-after-six-month-mission-on-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T073925">2022-04-16 07:39:25 UTC</a></sub>
-* [NASA to roll back SLS for repairs](https://spacenews.com/nasa-works-to-track-down-source-of-hydrogen-leak-from-sls-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T021934">2022-04-16 02:19:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T050701">2022-04-18 05:07:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T053346">2022-04-18 05:33:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
