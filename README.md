@@ -179,7 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [COMSPOC executive to join DoD’s space policy office](https://spacenews.com/comspoc-executive-to-join-dods-space-policy-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T050941">2022-04-18 05:09:41 UTC</a></sub>
+* [COMSPOC executive to join DoD space policy office](https://spacenews.com/comspoc-executive-to-join-dods-space-policy-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T075936">2022-04-18 07:59:36 UTC</a></sub>
 * [SpaceX reuses Falcon 9 booster for second spy satellite launch in two months](https://www.teslarati.com/spacex-second-nro-spy-satellite-launch-two-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T212114">2022-04-17 21:21:14 UTC</a></sub>
 * [SpaceX launches NROL-85 spy satellite for U.S. National Reconnaissance Office](https://spacenews.com/spacex-launches-nrol-85-spy-satellite-for-u-s-national-reconnaissance-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T134940">2022-04-17 13:49:40 UTC</a></sub>
 * [Falcon 9 launches NROL-85 mission for National Reconnaissance Office](https://www.nasaspaceflight.com/2022/04/falcon-9-nrol-85/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T125711">2022-04-17 12:57:11 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T073414">2022-04-18 07:34:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T080732">2022-04-18 08:07:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
