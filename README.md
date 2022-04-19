@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX sends two drone ships to sea for back-to-back Starlink, astronaut launches](https://www.teslarati.com/spacex-back-to-back-starlink-crew-dragon-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T110935">2022-04-19 11:09:35 UTC</a></sub>
 * [NASA Celebrates Earth Day with Every #NASAEarthling](http://www.nasa.gov/press-release/nasa-celebrates-earth-day-with-every-nasaearthling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T210900">2022-04-18 21:09:00 UTC</a></sub>
 * [Lockheed Martin proposes multi-layer space network for missile defense](https://spacenews.com/lockheed-martin-proposes-multi-layer-space-network-for-missile-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T204918">2022-04-18 20:49:18 UTC</a></sub>
 * [Cosmonauts complete spacewalk to activate space station’s European Robotic Arm](https://www.nasaspaceflight.com/2022/04/cosmonauts-spacewalk-european-robotic-arm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T130420">2022-04-18 13:04:20 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [COMSPOC executive to join DoD space policy office](https://spacenews.com/comspoc-executive-to-join-dods-space-policy-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T075936">2022-04-18 07:59:36 UTC</a></sub>
 * [Russian cosmonauts complete spacewalk to begin activating European robotic arm](https://spaceflightnow.com/2022/04/18/russian-eva-52/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T020914">2022-04-18 02:09:14 UTC</a></sub>
 * [Schedule effects of SLS rollback still uncertain](https://spacenews.com/schedule-effects-of-sls-rollback-still-uncertain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T012918">2022-04-18 01:29:18 UTC</a></sub>
-* [U.S. declares ban on anti-satellite missile tests, calls for other nations to join](https://spacenews.com/u-s-declares-ban-on-anti-satellite-missile-tests-calls-for-other-nations-to-join/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T003919">2022-04-18 00:39:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T110258">2022-04-19 11:02:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T113312">2022-04-19 11:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
