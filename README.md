@@ -182,14 +182,14 @@ region. The mission's status is currently To Be Confirmed
 <!-- spaceflight news starts -->
 * [NASA Celebrates Earth Day with Every #NASAEarthling](http://www.nasa.gov/press-release/nasa-celebrates-earth-day-with-every-nasaearthling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T210900">2022-04-18 21:09:00 UTC</a></sub>
 * [Lockheed Martin proposes multi-layer space network for missile defense](https://spacenews.com/lockheed-martin-proposes-multi-layer-space-network-for-missile-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T204918">2022-04-18 20:49:18 UTC</a></sub>
-* [Russian cosmonauts begin spacewalk to outfit European robotic arm](https://spaceflightnow.com/2022/04/18/russian-eva-52/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T155930">2022-04-18 15:59:30 UTC</a></sub>
 * [Cosmonauts complete spacewalk to activate space station’s European Robotic Arm](https://www.nasaspaceflight.com/2022/04/cosmonauts-spacewalk-european-robotic-arm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T130420">2022-04-18 13:04:20 UTC</a></sub>
 * [Mars scientists look to less expensive missions](https://spacenews.com/mars-scientists-look-to-less-expensive-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T113940">2022-04-18 11:39:40 UTC</a></sub>
 * [NASA asks SpaceX to decide the fate of ‘Dragon XL’ lunar cargo spacecraft](https://www.teslarati.com/nasa-spacex-dragon-xl-lunar-cargo-spacecraft-rfi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T111035">2022-04-18 11:10:35 UTC</a></sub>
 * [Seeking growth in unpredictable times: A conversation with SES CEO Steve Collar](https://spacenews.com/seeking-growth-in-unpredictable-times-a-conversation-with-ses-ceo-steve-collar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T080936">2022-04-18 08:09:36 UTC</a></sub>
 * [COMSPOC executive to join DoD space policy office](https://spacenews.com/comspoc-executive-to-join-dods-space-policy-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T075936">2022-04-18 07:59:36 UTC</a></sub>
-* [Rivada hopes its LEO plan will rise above Kleo Connect legal battles](https://spacenews.com/rivada-hopes-its-leo-plan-will-rise-above-kleo-connect-legal-battles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T000918">2022-04-18 00:09:18 UTC</a></sub>
-* [SpaceX reuses Falcon 9 booster for second spy satellite launch in two months](https://www.teslarati.com/spacex-second-nro-spy-satellite-launch-two-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T212114">2022-04-17 21:21:14 UTC</a></sub>
+* [Russian cosmonauts complete spacewalk to begin activating European robotic arm](https://spaceflightnow.com/2022/04/18/russian-eva-52/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T020914">2022-04-18 02:09:14 UTC</a></sub>
+* [Schedule effects of SLS rollback still uncertain](https://spacenews.com/schedule-effects-of-sls-rollback-still-uncertain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T012918">2022-04-18 01:29:18 UTC</a></sub>
+* [U.S. declares ban on anti-satellite missile tests, calls for other nations to join](https://spacenews.com/u-s-declares-ban-on-anti-satellite-missile-tests-calls-for-other-nations-to-join/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T003919">2022-04-18 00:39:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T002433">2022-04-19 00:24:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T022730">2022-04-19 02:27:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
