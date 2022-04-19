@@ -180,6 +180,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Robotic mission to Uranus receives top priority in decadal survey](https://spaceflightnow.com/2022/04/19/robotic-mission-to-uranus-receives-top-priority-in-decadal-survey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T153914">2022-04-19 15:39:14 UTC</a></sub>
+* [Planetary science decadal endorses Mars sample return, outer planets missions](https://spacenews.com/planetary-science-decadal-endorses-mars-sample-return-outer-planets-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T150918">2022-04-19 15:09:18 UTC</a></sub>
+* [NASA Administrator Statement on White House ASAT Announcement](http://www.nasa.gov/press-release/nasa-administrator-statement-on-white-house-asat-announcement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T150900">2022-04-19 15:09:00 UTC</a></sub>
 * [United States commits to ending “reckless” anti-satellite missile testing](https://arstechnica.com/science/2022/04/united-states-commits-to-ending-reckless-anti-satellite-missile-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T123151">2022-04-19 12:31:51 UTC</a></sub>
 * [India examining crashed space debris suspected to be parts of China’s Long March rocket](https://spacenews.com/india-examining-crashed-space-debris-suspected-to-be-parts-of-chinas-long-march-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T121919">2022-04-19 12:19:19 UTC</a></sub>
 * [SpaceX sends two drone ships to sea for back-to-back Starlink, astronaut launches](https://www.teslarati.com/spacex-back-to-back-starlink-crew-dragon-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T110935">2022-04-19 11:09:35 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Lockheed Martin proposes multi-layer space network for missile defense](https://spacenews.com/lockheed-martin-proposes-multi-layer-space-network-for-missile-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T204918">2022-04-18 20:49:18 UTC</a></sub>
 * [NASA plans to roll first Artemis moon rocket back to hangar next week](https://spaceflightnow.com/2022/04/18/nasa-plans-to-roll-first-artemis-moon-rocket-back-to-hangar-next-week-for-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T134914">2022-04-18 13:49:14 UTC</a></sub>
 * [Two Chinese rockets deploy telecom and environmental monitoring satellites](https://spaceflightnow.com/2022/04/18/two-chinese-rockets-deploy-telecom-and-environmental-monitoring-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T132915">2022-04-18 13:29:15 UTC</a></sub>
-* [Cosmonauts complete spacewalk to activate space station’s European Robotic Arm](https://www.nasaspaceflight.com/2022/04/cosmonauts-spacewalk-european-robotic-arm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T130420">2022-04-18 13:04:20 UTC</a></sub>
-* [Mars scientists look to less expensive missions](https://spacenews.com/mars-scientists-look-to-less-expensive-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T113940">2022-04-18 11:39:40 UTC</a></sub>
-* [NASA asks SpaceX to decide the fate of ‘Dragon XL’ lunar cargo spacecraft](https://www.teslarati.com/nasa-spacex-dragon-xl-lunar-cargo-spacecraft-rfi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T111035">2022-04-18 11:10:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T150436">2022-04-19 15:04:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T154107">2022-04-19 15:41:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
