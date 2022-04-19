@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lonestar emerges from stealth with plans for lunar data centers](https://spacenews.com/lonestar-emerges-from-stealth-with-plans-for-lunar-data-centers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T191918">2022-04-19 19:19:18 UTC</a></sub>
 * [NASA's Perseverance Rover Arrives at Delta for New Science Campaign](https://mars.nasa.gov/news/9170/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T161900">2022-04-19 16:19:00 UTC</a></sub>
 * [Robotic mission to Uranus receives top priority in decadal survey](https://spaceflightnow.com/2022/04/19/robotic-mission-to-uranus-receives-top-priority-in-decadal-survey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T153914">2022-04-19 15:39:14 UTC</a></sub>
 * [Planetary science decadal endorses Mars sample return, outer planets missions](https://spacenews.com/planetary-science-decadal-endorses-mars-sample-return-outer-planets-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T150918">2022-04-19 15:09:18 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX sends two drone ships to sea for back-to-back Starlink, astronaut launches](https://www.teslarati.com/spacex-back-to-back-starlink-crew-dragon-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T110935">2022-04-19 11:09:35 UTC</a></sub>
 * [NASA Celebrates Earth Day with Every #NASAEarthling](http://www.nasa.gov/press-release/nasa-celebrates-earth-day-with-every-nasaearthling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T210900">2022-04-18 21:09:00 UTC</a></sub>
 * [Lockheed Martin proposes multi-layer space network for missile defense](https://spacenews.com/lockheed-martin-proposes-multi-layer-space-network-for-missile-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T204918">2022-04-18 20:49:18 UTC</a></sub>
-* [NASA plans to roll first Artemis moon rocket back to hangar next week](https://spaceflightnow.com/2022/04/18/nasa-plans-to-roll-first-artemis-moon-rocket-back-to-hangar-next-week-for-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T134914">2022-04-18 13:49:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T190226">2022-04-19 19:02:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T193345">2022-04-19 19:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
