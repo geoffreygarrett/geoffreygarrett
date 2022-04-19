@@ -180,6 +180,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [United States commits to ending “reckless” anti-satellite missile testing](https://arstechnica.com/science/2022/04/united-states-commits-to-ending-reckless-anti-satellite-missile-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T123151">2022-04-19 12:31:51 UTC</a></sub>
+* [India examining crashed space debris suspected to be parts of China’s Long March rocket](https://spacenews.com/india-examining-crashed-space-debris-suspected-to-be-parts-of-chinas-long-march-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T121919">2022-04-19 12:19:19 UTC</a></sub>
 * [SpaceX sends two drone ships to sea for back-to-back Starlink, astronaut launches](https://www.teslarati.com/spacex-back-to-back-starlink-crew-dragon-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T110935">2022-04-19 11:09:35 UTC</a></sub>
 * [NASA Celebrates Earth Day with Every #NASAEarthling](http://www.nasa.gov/press-release/nasa-celebrates-earth-day-with-every-nasaearthling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T210900">2022-04-18 21:09:00 UTC</a></sub>
 * [Lockheed Martin proposes multi-layer space network for missile defense](https://spacenews.com/lockheed-martin-proposes-multi-layer-space-network-for-missile-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T204918">2022-04-18 20:49:18 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA asks SpaceX to decide the fate of ‘Dragon XL’ lunar cargo spacecraft](https://www.teslarati.com/nasa-spacex-dragon-xl-lunar-cargo-spacecraft-rfi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T111035">2022-04-18 11:10:35 UTC</a></sub>
 * [Seeking growth in unpredictable times: A conversation with SES CEO Steve Collar](https://spacenews.com/seeking-growth-in-unpredictable-times-a-conversation-with-ses-ceo-steve-collar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T080936">2022-04-18 08:09:36 UTC</a></sub>
 * [COMSPOC executive to join DoD space policy office](https://spacenews.com/comspoc-executive-to-join-dods-space-policy-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T075936">2022-04-18 07:59:36 UTC</a></sub>
-* [Russian cosmonauts complete spacewalk to begin activating European robotic arm](https://spaceflightnow.com/2022/04/18/russian-eva-52/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T020914">2022-04-18 02:09:14 UTC</a></sub>
-* [Schedule effects of SLS rollback still uncertain](https://spacenews.com/schedule-effects-of-sls-rollback-still-uncertain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T012918">2022-04-18 01:29:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T120937">2022-04-19 12:09:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T130411">2022-04-19 13:04:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
