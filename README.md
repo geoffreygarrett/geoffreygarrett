@@ -180,6 +180,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD a main proponent of anti-satellite test ban: ‘We are not disarming’](https://spacenews.com/dod-a-main-proponent-of-anti-satellite-test-ban-we-are-not-disarming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
+* [OneWeb signs contract to launch satellites from India in 2022](https://spacenews.com/oneweb-signs-contract-to-launch-satellites-from-india-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
+* [NASA, Industry to Collaborate on Space Communications by 2025](http://www.nasa.gov/press-release/nasa-industry-to-collaborate-on-space-communications-by-2025) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T202900">2022-04-20 20:29:00 UTC</a></sub>
 * [Next SpaceX crew launch on hold to wait for return of private astronaut mission](https://spaceflightnow.com/2022/04/20/crew-4-delayed-to-wait-for-ax-1-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T195915">2022-04-20 19:59:15 UTC</a></sub>
 * [Astrobotic into testing of Griffin lunar lander for NASA’s Artemis program](https://www.nasaspaceflight.com/2022/04/astrobotic-griffin-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T194220">2022-04-20 19:42:20 UTC</a></sub>
 * [This 40-second solar eclipse seen from the surface of Mars is sublime](https://arstechnica.com/science/2022/04/nasa-rover-captures-an-amazing-view-of-a-solar-eclipse-on-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T184616">2022-04-20 18:46:16 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Canada’s answer to Space Force](https://spacenews.com/canadas-answer-to-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T153918">2022-04-20 15:39:18 UTC</a></sub>
 * [Watch live: SpaceX preps for Falcon 9 test-firing today](https://spaceflightnow.com/2022/04/20/watch-live-spacex-preps-for-falcon-9-test-firing-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T130914">2022-04-20 13:09:14 UTC</a></sub>
 * [SpaceX-launched Uranus mission a top priority of new decadal survey](https://www.teslarati.com/spacex-falcon-heavy-uranus-mission-decadal-survey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T110936">2022-04-20 11:09:36 UTC</a></sub>
-* [Axiom’s private crew gets extra time on space station after landing delay](https://spaceflightnow.com/2022/04/20/axioms-private-astronaut-crew-gets-extra-time-on-space-station-after-weather-delays-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T110914">2022-04-20 11:09:14 UTC</a></sub>
-* [Weather delays Ax-1 return](https://spacenews.com/weather-delays-ax-1-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T104918">2022-04-20 10:49:18 UTC</a></sub>
-* [Rocket Lab to launch HawkEye 360 satellites on first Wallops Electron mission](https://spacenews.com/rocket-lab-to-launch-hawkeye-360-satellites-on-first-wallops-electron-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T100918">2022-04-20 10:09:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203712">2022-04-20 20:37:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T210226">2022-04-20 21:02:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
