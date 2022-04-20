@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: SpaceX preps for Falcon 9 test-firing today](https://spaceflightnow.com/2022/04/20/watch-live-spacex-preps-for-falcon-9-test-firing-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T130914">2022-04-20 13:09:14 UTC</a></sub>
 * [SpaceX-launched Uranus mission a top priority of new decadal survey](https://www.teslarati.com/spacex-falcon-heavy-uranus-mission-decadal-survey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T110936">2022-04-20 11:09:36 UTC</a></sub>
 * [Axiom’s private crew gets extra time on space station after landing delay](https://spaceflightnow.com/2022/04/20/axioms-private-astronaut-crew-gets-extra-time-on-space-station-after-weather-delays-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T110914">2022-04-20 11:09:14 UTC</a></sub>
 * [Weather delays Ax-1 return](https://spacenews.com/weather-delays-ax-1-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T104918">2022-04-20 10:49:18 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA's Perseverance Rover Arrives at Delta for New Science Campaign](https://mars.nasa.gov/news/9170/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T161900">2022-04-19 16:19:00 UTC</a></sub>
 * [Robotic mission to Uranus receives top priority in decadal survey](https://spaceflightnow.com/2022/04/19/robotic-mission-to-uranus-receives-top-priority-in-decadal-survey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T153914">2022-04-19 15:39:14 UTC</a></sub>
 * [Planetary science decadal endorses Mars sample return, outer planets missions](https://spacenews.com/planetary-science-decadal-endorses-mars-sample-return-outer-planets-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T150918">2022-04-19 15:09:18 UTC</a></sub>
-* [NASA Administrator Statement on White House ASAT Announcement](http://www.nasa.gov/press-release/nasa-administrator-statement-on-white-house-asat-announcement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T150900">2022-04-19 15:09:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T130513">2022-04-20 13:05:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T134818">2022-04-20 13:48:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
