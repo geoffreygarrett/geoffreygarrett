@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab to launch HawkEye 360 satellites on first Wallops Electron mission](https://spacenews.com/rocket-lab-to-launch-hawkeye-360-satellites-on-first-wallops-electron-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T100918">2022-04-20 10:09:18 UTC</a></sub>
 * [Ingenuity’s record-breaking year transforms Mars exploration](https://spaceflightnow.com/2022/04/19/ingenuitys-record-breaking-year-transforms-mars-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T215914">2022-04-19 21:59:14 UTC</a></sub>
 * [Lonestar emerges from stealth with plans for lunar data centers](https://spacenews.com/lonestar-emerges-from-stealth-with-plans-for-lunar-data-centers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T191918">2022-04-19 19:19:18 UTC</a></sub>
 * [NASA's Perseverance Rover Arrives at Delta for New Science Campaign](https://mars.nasa.gov/news/9170/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T161900">2022-04-19 16:19:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [United States commits to ending “reckless” anti-satellite missile testing](https://arstechnica.com/science/2022/04/united-states-commits-to-ending-reckless-anti-satellite-missile-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T123151">2022-04-19 12:31:51 UTC</a></sub>
 * [India examining crashed space debris suspected to be parts of China’s Long March rocket](https://spacenews.com/india-examining-crashed-space-debris-suspected-to-be-parts-of-chinas-long-march-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T121919">2022-04-19 12:19:19 UTC</a></sub>
 * [SpaceX sends two drone ships to sea for back-to-back Starlink, astronaut launches](https://www.teslarati.com/spacex-back-to-back-starlink-crew-dragon-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T110935">2022-04-19 11:09:35 UTC</a></sub>
-* [SpaceX discusses Starlink service with Delta Air Lines](https://www.teslarati.com/spacex-starlink-test-delta-air-lines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T040934">2022-04-19 04:09:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T100404">2022-04-20 10:04:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T103854">2022-04-20 10:38:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
