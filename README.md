@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA is supporting some seriously risky missions to the Moon—it’s about time](https://arstechnica.com/science/2022/04/nasas-other-moon-program-is-about-to-take-center-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T155454">2022-04-20 15:54:54 UTC</a></sub>
 * [Canada’s answer to Space Force](https://spacenews.com/canadas-answer-to-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T153918">2022-04-20 15:39:18 UTC</a></sub>
 * [Watch live: SpaceX preps for Falcon 9 test-firing today](https://spaceflightnow.com/2022/04/20/watch-live-spacex-preps-for-falcon-9-test-firing-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T130914">2022-04-20 13:09:14 UTC</a></sub>
 * [SpaceX-launched Uranus mission a top priority of new decadal survey](https://www.teslarati.com/spacex-falcon-heavy-uranus-mission-decadal-survey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T110936">2022-04-20 11:09:36 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Ingenuity’s record-breaking year transforms Mars exploration](https://spaceflightnow.com/2022/04/19/ingenuitys-record-breaking-year-transforms-mars-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T215914">2022-04-19 21:59:14 UTC</a></sub>
 * [Lonestar emerges from stealth with plans for lunar data centers](https://spacenews.com/lonestar-emerges-from-stealth-with-plans-for-lunar-data-centers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T191918">2022-04-19 19:19:18 UTC</a></sub>
 * [NASA's Perseverance Rover Arrives at Delta for New Science Campaign](https://mars.nasa.gov/news/9170/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T161900">2022-04-19 16:19:00 UTC</a></sub>
-* [Robotic mission to Uranus receives top priority in decadal survey](https://spaceflightnow.com/2022/04/19/robotic-mission-to-uranus-receives-top-priority-in-decadal-survey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T153914">2022-04-19 15:39:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T160652">2022-04-20 16:06:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T170028">2022-04-20 17:00:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
