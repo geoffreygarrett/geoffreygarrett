@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [This 40-second solar eclipse seen from the surface of Mars is sublime](https://arstechnica.com/science/2022/04/nasa-rover-captures-an-amazing-view-of-a-solar-eclipse-on-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T184616">2022-04-20 18:46:16 UTC</a></sub>
 * [NASA is supporting some seriously risky missions to the Moon—it’s about time](https://arstechnica.com/science/2022/04/nasas-other-moon-program-is-about-to-take-center-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T155454">2022-04-20 15:54:54 UTC</a></sub>
 * [Canada’s answer to Space Force](https://spacenews.com/canadas-answer-to-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T153918">2022-04-20 15:39:18 UTC</a></sub>
 * [Watch live: SpaceX preps for Falcon 9 test-firing today](https://spaceflightnow.com/2022/04/20/watch-live-spacex-preps-for-falcon-9-test-firing-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T130914">2022-04-20 13:09:14 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Rocket Lab to launch HawkEye 360 satellites on first Wallops Electron mission](https://spacenews.com/rocket-lab-to-launch-hawkeye-360-satellites-on-first-wallops-electron-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T100918">2022-04-20 10:09:18 UTC</a></sub>
 * [Ingenuity’s record-breaking year transforms Mars exploration](https://spaceflightnow.com/2022/04/19/ingenuitys-record-breaking-year-transforms-mars-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T215914">2022-04-19 21:59:14 UTC</a></sub>
 * [Lonestar emerges from stealth with plans for lunar data centers](https://spacenews.com/lonestar-emerges-from-stealth-with-plans-for-lunar-data-centers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T191918">2022-04-19 19:19:18 UTC</a></sub>
-* [NASA's Perseverance Rover Captures Video of Solar Eclipse on Mars](https://mars.nasa.gov/news/9172/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T170900">2022-04-19 17:09:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T190241">2022-04-20 19:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T193108">2022-04-20 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
