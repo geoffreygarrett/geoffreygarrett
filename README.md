@@ -179,16 +179,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launch cadence moves forward with 53 more Starlink satellites to orbit](https://www.nasaspaceflight.com/2022/04/starlink-4-14-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T130649">2022-04-21 13:06:49 UTC</a></sub>
 * [Planet Pelicans to offer high resolution and revisit rates](https://spacenews.com/planet-pelican-details/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T120918">2022-04-21 12:09:18 UTC</a></sub>
 * [SpaceX static fires Crew-4’s Falcon 9 rocket as Axiom-1 return delay grows](https://www.teslarati.com/spacex-crew-4-falcon-9-static-fire-axiom-1-return-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T110937">2022-04-21 11:09:37 UTC</a></sub>
 * [Astrobotic lunar lander on track for late 2022 launch](https://spacenews.com/astrobotic-lunar-lander-on-track-for-late-2022-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T093919">2022-04-21 09:39:19 UTC</a></sub>
 * [South Korea’s double-digit space budget boost](https://spacenews.com/south-koreas-double-digit-space-budget-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T081918">2022-04-21 08:19:18 UTC</a></sub>
 * [NASA selects six companies to demonstrate commercial successors to TDRS](https://spacenews.com/nasa-selects-six-companies-to-demonstrate-commercial-successors-to-tdrs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T080917">2022-04-21 08:09:17 UTC</a></sub>
-* [DoD a main proponent of anti-satellite test ban: ‘We are not disarming’](https://spacenews.com/dod-a-main-proponent-of-anti-satellite-test-ban-we-are-not-disarming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
 * [OneWeb signs contract to launch satellites from India in 2022](https://spacenews.com/oneweb-signs-contract-to-launch-satellites-from-india-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
+* [DoD a main proponent of anti-satellite test ban: ‘We are not disarming’](https://spacenews.com/dod-a-main-proponent-of-anti-satellite-test-ban-we-are-not-disarming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
 * [NASA, Industry to Collaborate on Space Communications by 2025](http://www.nasa.gov/press-release/nasa-industry-to-collaborate-on-space-communications-by-2025) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T202900">2022-04-20 20:29:00 UTC</a></sub>
 * [Next SpaceX crew launch on hold to wait for return of private astronaut mission](https://spaceflightnow.com/2022/04/20/crew-4-delayed-to-wait-for-ax-1-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T195915">2022-04-20 19:59:15 UTC</a></sub>
-* [Astrobotic into testing of Griffin lunar lander for NASA’s Artemis program](https://www.nasaspaceflight.com/2022/04/astrobotic-griffin-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T194220">2022-04-20 19:42:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T132939">2022-04-21 13:29:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T134547">2022-04-21 13:45:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
