@@ -97,7 +97,7 @@ Electron | There and Back Again at the
 <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a> in
 Onenui Station, Mahia Peninsula, New Zealand
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T223500">2022-04-22 22:35:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T223500">2022-04-23 22:35:00 UTC</a>. Until
 then, this launch pad will have seen 24
 out of 25 launches in this
 region. The mission's status is currently To Be Confirmed
@@ -125,7 +125,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>There and Back Again</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T223500">2022-04-22 22:35:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | There and Back Again&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220422T223500Z%2F20220423T004000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>There and Back Again</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T223500">2022-04-23 22:35:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | There and Back Again&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220423T223500Z%2F20220424T004000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Crew-4</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T081500">2022-04-26 08:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220426T081500Z%2F20220426T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>MKA-R</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T000000">2022-04-27 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | MKA-R&location=Plesetsk Cosmodrome, Russian Federation&dates=20220427T000000Z%2F20220427T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-16</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-16&location=Cape Canaveral, FL, USA&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches and lands another Falcon 9 booster 12 times](https://www.teslarati.com/spacex-falcon-9-booster-12th-launch-round-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T192938">2022-04-21 19:29:38 UTC</a></sub>
 * [ULA begins stacking Atlas 5 rocket for Boeing’s Starliner test flight](https://spaceflightnow.com/2022/04/21/ula-begins-stacking-atlas-5-rocket-for-boeings-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T164915">2022-04-21 16:49:15 UTC</a></sub>
 * [NASA Updates Coverage for Axiom Mission 1 Departure from Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-for-axiom-mission-1-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T134900">2022-04-21 13:49:00 UTC</a></sub>
 * [SpaceX launch cadence moves forward with 53 more Starlink satellites to orbit](https://www.nasaspaceflight.com/2022/04/starlink-4-14-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T130649">2022-04-21 13:06:49 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [South Korea’s double-digit space budget boost](https://spacenews.com/south-koreas-double-digit-space-budget-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T081918">2022-04-21 08:19:18 UTC</a></sub>
 * [NASA selects six companies to demonstrate commercial successors to TDRS](https://spacenews.com/nasa-selects-six-companies-to-demonstrate-commercial-successors-to-tdrs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T080917">2022-04-21 08:09:17 UTC</a></sub>
 * [OneWeb signs contract to launch satellites from India in 2022](https://spacenews.com/oneweb-signs-contract-to-launch-satellites-from-india-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
-* [DoD a main proponent of anti-satellite test ban: ‘We are not disarming’](https://spacenews.com/dod-a-main-proponent-of-anti-satellite-test-ban-we-are-not-disarming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T190150">2022-04-21 19:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T193126">2022-04-21 19:31:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
