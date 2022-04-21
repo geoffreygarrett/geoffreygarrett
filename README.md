@@ -178,6 +178,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Iridium in talks to launch more backup satellites this year](https://spacenews.com/iridium-in-talks-to-launch-more-backup-satellites-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T222927">2022-04-21 22:29:27 UTC</a></sub>
+* [Viasat to begin integration of long-delayed Link 16 military communications satellite](https://spacenews.com/viasat-to-begin-integration-of-long-delayed-link-16-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T220918">2022-04-21 22:09:18 UTC</a></sub>
 * [SpaceX testing and building boosters at Starbase as Florida Starship factory begins construction](https://www.nasaspaceflight.com/2022/04/spacex-boosters-florida-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T204723">2022-04-21 20:47:23 UTC</a></sub>
 * [SpaceX launches and lands another Falcon 9 booster 12 times](https://www.teslarati.com/spacex-falcon-9-booster-12th-launch-round-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T192938">2022-04-21 19:29:38 UTC</a></sub>
 * [ULA begins stacking Atlas 5 rocket for Boeing’s Starliner test flight](https://spaceflightnow.com/2022/04/21/ula-begins-stacking-atlas-5-rocket-for-boeings-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T164915">2022-04-21 16:49:15 UTC</a></sub>
@@ -186,8 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [Planet Pelicans to offer high resolution and revisit rates](https://spacenews.com/planet-pelican-details/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T120918">2022-04-21 12:09:18 UTC</a></sub>
 * [SpaceX static fires Crew-4’s Falcon 9 rocket as Axiom-1 return delay grows](https://www.teslarati.com/spacex-crew-4-falcon-9-static-fire-axiom-1-return-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T110937">2022-04-21 11:09:37 UTC</a></sub>
 * [Astrobotic lunar lander on track for late 2022 launch](https://spacenews.com/astrobotic-lunar-lander-on-track-for-late-2022-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T093919">2022-04-21 09:39:19 UTC</a></sub>
-* [South Korea’s double-digit space budget boost](https://spacenews.com/south-koreas-double-digit-space-budget-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T081918">2022-04-21 08:19:18 UTC</a></sub>
-* [NASA selects six companies to demonstrate commercial successors to TDRS](https://spacenews.com/nasa-selects-six-companies-to-demonstrate-commercial-successors-to-tdrs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T080917">2022-04-21 08:09:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T220315">2022-04-21 22:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T223651">2022-04-21 22:36:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
