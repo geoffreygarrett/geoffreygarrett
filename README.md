@@ -97,7 +97,7 @@ Falcon 9 Block 5 | Starlink Group 4-14 at the
 <a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T151400">2022-04-21 15:14:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T175100">2022-04-21 17:51:00 UTC</a>. Until
 then, this launch pad will have seen 139
 out of 839 launches in this
 region. The mission's status is currently Go for Launch
@@ -125,7 +125,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-14</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T151400">2022-04-21 15:14:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-14&location=Cape Canaveral, FL, USA&dates=20220421T151400Z%2F20220421T151400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-14</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T175100">2022-04-21 17:51:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-14&location=Cape Canaveral, FL, USA&dates=20220421T175100Z%2F20220421T175100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>There and Back Again</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T223500">2022-04-22 22:35:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | There and Back Again&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220422T223500Z%2F20220423T004000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Crew-4</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T081500">2022-04-26 08:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220426T081500Z%2F20220426T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>MKA-R</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T000000">2022-04-27 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | MKA-R&location=Plesetsk Cosmodrome, Russian Federation&dates=20220427T000000Z%2F20220427T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Updates Coverage for Axiom Mission 1 Departure from Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-for-axiom-mission-1-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T134900">2022-04-21 13:49:00 UTC</a></sub>
 * [SpaceX launch cadence moves forward with 53 more Starlink satellites to orbit](https://www.nasaspaceflight.com/2022/04/starlink-4-14-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T130649">2022-04-21 13:06:49 UTC</a></sub>
 * [Planet Pelicans to offer high resolution and revisit rates](https://spacenews.com/planet-pelican-details/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T120918">2022-04-21 12:09:18 UTC</a></sub>
 * [SpaceX static fires Crew-4’s Falcon 9 rocket as Axiom-1 return delay grows](https://www.teslarati.com/spacex-crew-4-falcon-9-static-fire-axiom-1-return-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T110937">2022-04-21 11:09:37 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [OneWeb signs contract to launch satellites from India in 2022](https://spacenews.com/oneweb-signs-contract-to-launch-satellites-from-india-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
 * [DoD a main proponent of anti-satellite test ban: ‘We are not disarming’](https://spacenews.com/dod-a-main-proponent-of-anti-satellite-test-ban-we-are-not-disarming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
 * [NASA, Industry to Collaborate on Space Communications by 2025](http://www.nasa.gov/press-release/nasa-industry-to-collaborate-on-space-communications-by-2025) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T202900">2022-04-20 20:29:00 UTC</a></sub>
-* [Next SpaceX crew launch on hold to wait for return of private astronaut mission](https://spaceflightnow.com/2022/04/20/crew-4-delayed-to-wait-for-ax-1-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T195915">2022-04-20 19:59:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -199,6 +199,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Are we trashing space?](https://www.planetary.org/articles/space-trash) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T140932">2022-04-21 14:09:32 UTC</a></sub>
 * [Planetary Science Decadal Survey: After the Red Planet, an Ice Giant](https://www.planetary.org/articles/the-2022-planetary-decadal-released) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T161931">2022-04-19 16:19:31 UTC</a></sub>
 * [Earthlings off-planet](https://www.planetary.org/the-downlink/earthlings-off-planet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T143034">2022-04-15 14:30:34 UTC</a></sub>
 * [Apollo 16](https://www.planetary.org/space-missions/apollo-16) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T140047">2022-04-15 14:00:47 UTC</a></sub>
@@ -208,7 +209,6 @@ region. The mission's status is currently Go for Launch
 * [The value of knowledge](https://www.planetary.org/the-downlink/the-value-of-knowledge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T143930">2022-04-08 14:39:30 UTC</a></sub>
 * [Not a planet? Not a problem.](https://www.planetary.org/the-downlink/not-a-planet-not-a-problem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T143944">2022-04-01 14:39:44 UTC</a></sub>
 * [NASA's FY 2023 Budget](https://www.planetary.org/space-policy/nasas-fy-2023-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T001001">2022-03-28 00:10:01 UTC</a></sub>
-* [Join the exoparty](https://www.planetary.org/the-downlink/join-the-exoparty) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T143016">2022-03-25 14:30:16 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T140530">2022-04-21 14:05:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T143447">2022-04-21 14:34:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
