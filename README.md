@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink signs first inflight Wi-Fi deal for services later this year](https://spacenews.com/starlink-signs-first-inflight-wi-fi-deal-for-services-later-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T145342">2022-04-22 14:53:42 UTC</a></sub>
 * [South Korea “welcomes” U.S. moratorium on anti-satellite missile tests; China skeptical](https://spacenews.com/south-korea-welcomes-u-s-moratorium-on-anti-satellite-missile-tests-china-skeptical/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T125342">2022-04-22 12:53:42 UTC</a></sub>
 * [House appropriator promises to mark up NASA spending bill on schedule](https://spacenews.com/house-appropriator-promises-to-mark-up-nasa-spending-bill-on-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T115342">2022-04-22 11:53:42 UTC</a></sub>
 * [Chinese reusable rocket startup secures new funding round](https://spacenews.com/chinese-reusable-rocket-startup-secures-new-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T112343">2022-04-22 11:23:43 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Viasat to begin integration of long-delayed Link 16 military communications satellite](https://spacenews.com/viasat-to-begin-integration-of-long-delayed-link-16-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T220918">2022-04-21 22:09:18 UTC</a></sub>
 * [SpaceX testing and building boosters at Starbase as Florida Starship factory begins construction](https://www.nasaspaceflight.com/2022/04/spacex-boosters-florida-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T204723">2022-04-21 20:47:23 UTC</a></sub>
 * [SpaceX launches and lands another Falcon 9 booster 12 times](https://www.teslarati.com/spacex-falcon-9-booster-12th-launch-round-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T192938">2022-04-21 19:29:38 UTC</a></sub>
-* [ULA begins stacking Atlas 5 rocket for Boeing’s Starliner test flight](https://spaceflightnow.com/2022/04/21/ula-begins-stacking-atlas-5-rocket-for-boeings-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T164915">2022-04-21 16:49:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T143419">2022-04-22 14:34:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T150424">2022-04-22 15:04:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
