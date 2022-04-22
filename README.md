@@ -179,6 +179,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese reusable rocket startup secures new funding round](https://spacenews.com/chinese-reusable-rocket-startup-secures-new-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T112343">2022-04-22 11:23:43 UTC</a></sub>
+* [SpaceX’s upgraded Starship factory begins to take shape in South Texas](https://www.teslarati.com/spacex-starbase-upgraded-starship-factory-construction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T110407">2022-04-22 11:04:07 UTC</a></sub>
+* [Rocket Report: Falcon 9 says Aloha to Hawaii, Blue Origin to abandon ship?](https://arstechnica.com/science/2022/04/rocket-report-falcon-9-says-aloha-to-hawaii-blue-origin-to-abandon-ship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T110023">2022-04-22 11:00:23 UTC</a></sub>
 * [Iridium in talks to launch more backup satellites this year](https://spacenews.com/iridium-in-talks-to-launch-more-backup-satellites-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T222927">2022-04-21 22:29:27 UTC</a></sub>
 * [Viasat to begin integration of long-delayed Link 16 military communications satellite](https://spacenews.com/viasat-to-begin-integration-of-long-delayed-link-16-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T220918">2022-04-21 22:09:18 UTC</a></sub>
 * [SpaceX testing and building boosters at Starbase as Florida Starship factory begins construction](https://www.nasaspaceflight.com/2022/04/spacex-boosters-florida-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T204723">2022-04-21 20:47:23 UTC</a></sub>
@@ -186,9 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [ULA begins stacking Atlas 5 rocket for Boeing’s Starliner test flight](https://spaceflightnow.com/2022/04/21/ula-begins-stacking-atlas-5-rocket-for-boeings-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T164915">2022-04-21 16:49:15 UTC</a></sub>
 * [NASA Updates Coverage for Axiom Mission 1 Departure from Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-for-axiom-mission-1-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T134900">2022-04-21 13:49:00 UTC</a></sub>
 * [SpaceX launch cadence moves forward with 53 more Starlink satellites to orbit](https://www.nasaspaceflight.com/2022/04/starlink-4-14-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T130649">2022-04-21 13:06:49 UTC</a></sub>
-* [Planet Pelicans to offer high resolution and revisit rates](https://spacenews.com/planet-pelican-details/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T120918">2022-04-21 12:09:18 UTC</a></sub>
-* [SpaceX static fires Crew-4’s Falcon 9 rocket as Axiom-1 return delay grows](https://www.teslarati.com/spacex-crew-4-falcon-9-static-fire-axiom-1-return-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T110937">2022-04-21 11:09:37 UTC</a></sub>
-* [Astrobotic lunar lander on track for late 2022 launch](https://spacenews.com/astrobotic-lunar-lander-on-track-for-late-2022-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T093919">2022-04-21 09:39:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T110237">2022-04-22 11:02:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T113241">2022-04-22 11:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
