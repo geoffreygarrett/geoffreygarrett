@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House appropriator promises to mark up NASA spending bill on schedule](https://spacenews.com/house-appropriator-promises-to-mark-up-nasa-spending-bill-on-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T115342">2022-04-22 11:53:42 UTC</a></sub>
 * [Chinese reusable rocket startup secures new funding round](https://spacenews.com/chinese-reusable-rocket-startup-secures-new-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T112343">2022-04-22 11:23:43 UTC</a></sub>
 * [SpaceX’s upgraded Starship factory begins to take shape in South Texas](https://www.teslarati.com/spacex-starbase-upgraded-starship-factory-construction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T110407">2022-04-22 11:04:07 UTC</a></sub>
 * [Rocket Report: Falcon 9 says Aloha to Hawaii, Blue Origin to abandon ship?](https://arstechnica.com/science/2022/04/rocket-report-falcon-9-says-aloha-to-hawaii-blue-origin-to-abandon-ship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T110023">2022-04-22 11:00:23 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX launches and lands another Falcon 9 booster 12 times](https://www.teslarati.com/spacex-falcon-9-booster-12th-launch-round-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T192938">2022-04-21 19:29:38 UTC</a></sub>
 * [ULA begins stacking Atlas 5 rocket for Boeing’s Starliner test flight](https://spaceflightnow.com/2022/04/21/ula-begins-stacking-atlas-5-rocket-for-boeings-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T164915">2022-04-21 16:49:15 UTC</a></sub>
 * [NASA Updates Coverage for Axiom Mission 1 Departure from Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-for-axiom-mission-1-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T134900">2022-04-21 13:49:00 UTC</a></sub>
-* [SpaceX launch cadence moves forward with 53 more Starlink satellites to orbit](https://www.nasaspaceflight.com/2022/04/starlink-4-14-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T130649">2022-04-21 13:06:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T113241">2022-04-22 11:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T120937">2022-04-22 12:09:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
