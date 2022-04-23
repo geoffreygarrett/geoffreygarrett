@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Iridium and General Dynamics submit joint bid for Space Development Agency contract](https://spacenews.com/iridium-and-general-dynamics-submit-joint-bid-for-space-development-agency-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T101342">2022-04-23 10:13:42 UTC</a></sub>
 * [Copernic Space welcomes Kevin O’Connell to advisory board](https://spacenews.com/oconnell-works-with-copernic-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T225342">2022-04-22 22:53:42 UTC</a></sub>
-* [Space Force radar that monitors low Earth orbit to feed data directly to cloud platform](https://spacenews.com/space-force-radar-that-monitors-low-earth-orbit-to-feed-data-directly-to-cloud-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T200342">2022-04-22 20:03:42 UTC</a></sub>
 * [Japan’s ispace negotiating first commercial moon landing insurance](https://spacenews.com/japans-ispace-negotiating-first-commercial-moon-landing-insurance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T200342">2022-04-22 20:03:42 UTC</a></sub>
+* [Space Force radar that monitors low Earth orbit to feed data directly to cloud platform](https://spacenews.com/space-force-radar-that-monitors-low-earth-orbit-to-feed-data-directly-to-cloud-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T200342">2022-04-22 20:03:42 UTC</a></sub>
 * [Starlink signs first inflight Wi-Fi deal for services later this year](https://spacenews.com/starlink-signs-first-inflight-wi-fi-deal-for-services-later-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T145342">2022-04-22 14:53:42 UTC</a></sub>
 * [South Korea “welcomes” U.S. moratorium on anti-satellite missile tests; China skeptical](https://spacenews.com/south-korea-welcomes-u-s-moratorium-on-anti-satellite-missile-tests-china-skeptical/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T125342">2022-04-22 12:53:42 UTC</a></sub>
 * [House appropriator promises to mark up NASA spending bill on schedule](https://spacenews.com/house-appropriator-promises-to-mark-up-nasa-spending-bill-on-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T115342">2022-04-22 11:53:42 UTC</a></sub>
 * [Chinese reusable rocket startup secures new funding round](https://spacenews.com/chinese-reusable-rocket-startup-secures-new-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T112343">2022-04-22 11:23:43 UTC</a></sub>
 * [SpaceX’s upgraded Starship factory begins to take shape in South Texas](https://www.teslarati.com/spacex-starbase-upgraded-starship-factory-construction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T110407">2022-04-22 11:04:07 UTC</a></sub>
 * [Rocket Report: Falcon 9 says Aloha to Hawaii, Blue Origin to abandon ship?](https://arstechnica.com/science/2022/04/rocket-report-falcon-9-says-aloha-to-hawaii-blue-origin-to-abandon-ship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T110023">2022-04-22 11:00:23 UTC</a></sub>
-* [Iridium in talks to launch more backup satellites this year](https://spacenews.com/iridium-in-talks-to-launch-more-backup-satellites-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T222927">2022-04-21 22:29:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T100546">2022-04-23 10:05:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T103817">2022-04-23 10:38:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
