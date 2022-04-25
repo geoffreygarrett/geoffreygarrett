@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom’s private astronauts depart space station after 15-day stay](https://spaceflightnow.com/2022/04/25/axioms-private-astronauts-depart-space-station-after-15-day-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T092415">2022-04-25 09:24:15 UTC</a></sub>
 * [Kleos unveils dedicated, taskable RF monitoring missions](https://spacenews.com/kleos-mission-as-a-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T060419">2022-04-25 06:04:19 UTC</a></sub>
 * [NASA readies SLS moon rocket for return to Vehicle Assembly Building](https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T220415">2022-04-24 22:04:15 UTC</a></sub>
 * [Historic Axiom-1 mission returning from ISS as Crew-4 prepares for launch](https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T212449">2022-04-24 21:24:49 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [SpaceX again waves off return of Axiom crew mission](https://spaceflightnow.com/2022/04/23/spacex-again-waves-off-return-of-axiom-crew-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T155415">2022-04-23 15:54:15 UTC</a></sub>
 * [Iridium and General Dynamics submit joint bid for Space Development Agency contract](https://spacenews.com/iridium-and-general-dynamics-submit-joint-bid-for-space-development-agency-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T101342">2022-04-23 10:13:42 UTC</a></sub>
 * [NASA space technology programs face “constraining” budget](https://spacenews.com/nasa-space-technology-programs-face-constraining-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T003421">2022-04-23 00:34:21 UTC</a></sub>
-* [Copernic Space welcomes Kevin O’Connell to advisory board](https://spacenews.com/oconnell-works-with-copernic-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T225342">2022-04-22 22:53:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T090456">2022-04-25 09:04:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T093700">2022-04-25 09:37:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
