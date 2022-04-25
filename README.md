@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First all-private mission to the space station will finally come home](https://arstechnica.com/science/2022/04/first-all-private-mission-to-the-space-station-will-finally-come-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T142531">2022-04-25 14:25:31 UTC</a></sub>
 * [A boom in Earth observation satellites creating new demands for intelligence](https://spacenews.com/a-boom-in-earth-observation-satellites-creating-new-demands-for-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T133418">2022-04-25 13:34:18 UTC</a></sub>
 * [Capella raises $97 million to expand radar constellation](https://spacenews.com/capella-series-c/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T130418">2022-04-25 13:04:18 UTC</a></sub>
 * [Orbital Insight brings Satellogic data into its platform](https://spacenews.com/orbital-insight-satellogic-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T120418">2022-04-25 12:04:18 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [Kleos unveils dedicated, taskable RF monitoring missions](https://spacenews.com/kleos-mission-as-a-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T060419">2022-04-25 06:04:19 UTC</a></sub>
 * [NASA readies SLS moon rocket for return to Vehicle Assembly Building](https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T220415">2022-04-24 22:04:15 UTC</a></sub>
 * [Historic Axiom-1 mission returning from ISS as Crew-4 prepares for launch](https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T212449">2022-04-24 21:24:49 UTC</a></sub>
-* [China to conduct asteroid deflection test around 2025](https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T121419">2022-04-24 12:14:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T140404">2022-04-25 14:04:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T143453">2022-04-25 14:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
