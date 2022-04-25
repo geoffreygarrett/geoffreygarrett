@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orbital Insight brings Satellogic data into its platform](https://spacenews.com/orbital-insight-satellogic-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T120418">2022-04-25 12:04:18 UTC</a></sub>
 * [SpaceX’s private Dragon astronauts leave space station five days late](https://www.teslarati.com/spacex-axiom-1-crew-dragon-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T110436">2022-04-25 11:04:36 UTC</a></sub>
 * [U.S. ASAT ban meant to support U.N. discussions on space threats](https://spacenews.com/u-s-asat-ban-meant-to-support-u-n-discussions-on-space-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T105418">2022-04-25 10:54:18 UTC</a></sub>
 * [Axiom’s private astronauts depart space station after 15-day stay](https://spaceflightnow.com/2022/04/25/axioms-private-astronauts-depart-space-station-after-15-day-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T092415">2022-04-25 09:24:15 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [China to conduct asteroid deflection test around 2025](https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T121419">2022-04-24 12:14:19 UTC</a></sub>
 * [Ax-1 undocks from space station after extended stay](https://spacenews.com/ax-1-undocks-from-space-station-after-extended-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T020418">2022-04-24 02:04:18 UTC</a></sub>
 * [Space startups argue for more agile business models](https://spacenews.com/space-startups-argue-for-more-agile-business-models/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T194419">2022-04-23 19:44:19 UTC</a></sub>
-* [SpaceX again waves off return of Axiom crew mission](https://spaceflightnow.com/2022/04/23/spacex-again-waves-off-return-of-axiom-crew-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T155415">2022-04-23 15:54:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T113258">2022-04-25 11:32:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T121010">2022-04-25 12:10:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
