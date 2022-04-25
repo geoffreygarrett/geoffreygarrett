@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Dragon returns private astronauts to Earth after an extra week in space](https://www.teslarati.com/spacex-axiom-1-crew-dragon-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T203437">2022-04-25 20:34:37 UTC</a></sub>
 * [Vice Adm. Sharp: Commercial satellites a key counterforce to Russian disinformation](https://spacenews.com/vice-adm-sharp-commercial-satellites-a-key-counterforce-to-russian-disinformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T193422">2022-04-25 19:34:22 UTC</a></sub>
 * [NASA Extends Exploration for 8 Planetary Science Missions](https://mars.nasa.gov/news/9175/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T192400">2022-04-25 19:24:00 UTC</a></sub>
 * [Coverage Updated for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast](http://www.nasa.gov/press-release/coverage-updated-for-nasa-s-spacex-crew-4-briefing-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T185400">2022-04-25 18:54:00 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [Photos: Close-ups of NASA’s moon rocket on the launch pad](https://spaceflightnow.com/2022/04/25/photos-close-ups-of-nasas-moon-rocket-on-the-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T150415">2022-04-25 15:04:15 UTC</a></sub>
 * [ManTech tracking foreign influence using open-source intelligence](https://spacenews.com/mantech-tracking-foreign-influence-using-open-source-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T144418">2022-04-25 14:44:18 UTC</a></sub>
 * [First all-private mission to the space station will finally come home](https://arstechnica.com/science/2022/04/first-all-private-mission-to-the-space-station-will-finally-come-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T142531">2022-04-25 14:25:31 UTC</a></sub>
-* [A boom in Earth observation satellites creating new demands for intelligence](https://spacenews.com/a-boom-in-earth-observation-satellites-creating-new-demands-for-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T133418">2022-04-25 13:34:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T200533">2022-04-25 20:05:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T203634">2022-04-25 20:36:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
