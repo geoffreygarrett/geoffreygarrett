@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ligado Networks critics step up opposition as service launch nears](https://spacenews.com/ligado-networks-critics-step-up-opposition-as-service-launch-nears/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T195419">2022-04-26 19:54:19 UTC</a></sub>
 * [NASA expects decisions on ISS crew swaps by June](https://spacenews.com/nasa-expects-decisions-on-iss-crew-swaps-by-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T192418">2022-04-26 19:24:18 UTC</a></sub>
 * [NASA’s moon rocket rolls back to Vehicle Assembly Building for repairs](https://spaceflightnow.com/2022/04/26/nasas-moon-rocket-rolls-back-to-vehicle-assembly-building-for-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T185415">2022-04-26 18:54:15 UTC</a></sub>
 * [ACT to embed thermal management in Carbon Mapper structures](https://spacenews.com/act-carbon-mapper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T171419">2022-04-26 17:14:19 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [Space companies donate funds for humanitarian efforts in Ukraine](https://spacenews.com/space-companies-donate-funds-for-humanitarian-efforts-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T151421">2022-04-26 15:14:21 UTC</a></sub>
 * [U.S., South Korea agree to cooperate on space situational awareness for military purposes](https://spacenews.com/u-s-south-korea-agree-to-cooperate-on-space-situational-awareness-for-military-purposes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T134418">2022-04-26 13:44:18 UTC</a></sub>
 * [Adranos, a startup that makes solid rocket motors, closes $20 million funding round](https://spacenews.com/adranos-a-startup-that-makes-solid-rocket-motors-closes-20-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T120418">2022-04-26 12:04:18 UTC</a></sub>
-* [SpaceX rapidly turns around drone ship for sixth launch this month](https://www.teslarati.com/spacex-rapid-drone-ship-turnaround-starlink-launch-prep-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T111438">2022-04-26 11:14:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T193108">2022-04-26 19:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T200545">2022-04-26 20:05:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
