@@ -182,6 +182,8 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Synthetic data helps train algorithms to spot rare objects](https://spacenews.com/synthetic-data-geoint/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T220419">2022-04-26 22:04:19 UTC</a></sub>
+* [Crew-4 mission to ISS set for pre-dawn liftoff](https://www.nasaspaceflight.com/2022/04/crew-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T215813">2022-04-26 21:58:13 UTC</a></sub>
 * [SpaceX, NASA on track for Wednesday astronaut launch [webcast]](https://www.teslarati.com/spacex-nasa-crew-4-astronaut-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T211441">2022-04-26 21:14:41 UTC</a></sub>
 * [Ligado Networks critics step up opposition as service launch nears](https://spacenews.com/ligado-networks-critics-step-up-opposition-as-service-launch-nears/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T195419">2022-04-26 19:54:19 UTC</a></sub>
 * [NASA expects decisions on ISS crew swaps by June](https://spacenews.com/nasa-expects-decisions-on-iss-crew-swaps-by-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T192418">2022-04-26 19:24:18 UTC</a></sub>
@@ -190,8 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [Hubble discovers exoplanet unconventionally forming at an extreme distance, NASA confirms 5,000 discovered exoplanets](https://www.nasaspaceflight.com/2022/04/hubble-discovers-exoplanet-forming-an-extreme-confirms-5000-exoplanets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T161605">2022-04-26 16:16:05 UTC</a></sub>
 * [Halifax International raising funds to build imaging satellites for Ukraine](https://spacenews.com/halifax-international-raising-funds-to-build-imaging-satellites-for-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T155418">2022-04-26 15:54:18 UTC</a></sub>
 * [SpaceX rapidly pivots from Dragon landing to another launch in 39 hours](https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T152151">2022-04-26 15:21:51 UTC</a></sub>
-* [Space companies donate funds for humanitarian efforts in Ukraine](https://spacenews.com/space-companies-donate-funds-for-humanitarian-efforts-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T151421">2022-04-26 15:14:21 UTC</a></sub>
-* [U.S., South Korea agree to cooperate on space situational awareness for military purposes](https://spacenews.com/u-s-south-korea-agree-to-cooperate-on-space-situational-awareness-for-military-purposes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T134418">2022-04-26 13:44:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T213521">2022-04-26 21:35:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T220526">2022-04-26 22:05:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
