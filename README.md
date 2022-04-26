@@ -182,6 +182,8 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX rapidly turns around drone ship for sixth launch this month](https://www.teslarati.com/spacex-rapid-drone-ship-turnaround-starlink-launch-prep-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T111438">2022-04-26 11:14:38 UTC</a></sub>
+* [PredaSAR nears first launch of its radar imaging constellation](https://spacenews.com/predasar-nears-first-launch-of-its-radar-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T110418">2022-04-26 11:04:18 UTC</a></sub>
 * [NASA to repurpose OSIRIS-REx for second asteroid encounter](https://spacenews.com/nasa-to-repurpose-osiris-rex-for-second-asteroid-encounter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T103419">2022-04-26 10:34:19 UTC</a></sub>
 * [NRO plans for immediate and long-term acquisition of commercial satellite data](https://spacenews.com/nro-short-long-term-commercial-data-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T041418">2022-04-26 04:14:18 UTC</a></sub>
 * [Artemis 1 vehicle heads back to VAB while NASA discusses what to do next](https://www.nasaspaceflight.com/2022/04/artemis-1-vab-nasa-discusses-what-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T215137">2022-04-25 21:51:37 UTC</a></sub>
@@ -190,8 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [NASA Extends Exploration for 8 Planetary Science Missions](https://mars.nasa.gov/news/9175/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T192400">2022-04-25 19:24:00 UTC</a></sub>
 * [Coverage Updated for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast](http://www.nasa.gov/press-release/coverage-updated-for-nasa-s-spacex-crew-4-briefing-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T185400">2022-04-25 18:54:00 UTC</a></sub>
 * [Crew Dragon splashes down to end Ax-1 private astronaut mission](https://spacenews.com/crew-dragon-splashes-down-to-end-ax-1-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T173419">2022-04-25 17:34:19 UTC</a></sub>
-* [Historic Axiom-1 mission returned from ISS as Crew-4 prepares for launch](https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T162449">2022-04-25 16:24:49 UTC</a></sub>
-* [Starlink secures first major airline Wi-Fi deal with Hawaiian Airlines](https://spacenews.com/starlink-secures-first-major-airline-wi-fi-deal-with-hawaiian-airlines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T152419">2022-04-25 15:24:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T110440">2022-04-26 11:04:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T113258">2022-04-26 11:32:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
