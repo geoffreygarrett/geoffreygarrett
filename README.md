@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX, NASA on track for Wednesday astronaut launch [webcast]](https://www.teslarati.com/spacex-nasa-crew-4-astronaut-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T211441">2022-04-26 21:14:41 UTC</a></sub>
 * [Ligado Networks critics step up opposition as service launch nears](https://spacenews.com/ligado-networks-critics-step-up-opposition-as-service-launch-nears/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T195419">2022-04-26 19:54:19 UTC</a></sub>
 * [NASA expects decisions on ISS crew swaps by June](https://spacenews.com/nasa-expects-decisions-on-iss-crew-swaps-by-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T192418">2022-04-26 19:24:18 UTC</a></sub>
 * [NASA’s moon rocket rolls back to Vehicle Assembly Building for repairs](https://spaceflightnow.com/2022/04/26/nasas-moon-rocket-rolls-back-to-vehicle-assembly-building-for-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T185415">2022-04-26 18:54:15 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [SpaceX rapidly pivots from Dragon landing to another launch in 39 hours](https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T152151">2022-04-26 15:21:51 UTC</a></sub>
 * [Space companies donate funds for humanitarian efforts in Ukraine](https://spacenews.com/space-companies-donate-funds-for-humanitarian-efforts-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T151421">2022-04-26 15:14:21 UTC</a></sub>
 * [U.S., South Korea agree to cooperate on space situational awareness for military purposes](https://spacenews.com/u-s-south-korea-agree-to-cooperate-on-space-situational-awareness-for-military-purposes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T134418">2022-04-26 13:44:18 UTC</a></sub>
-* [Adranos, a startup that makes solid rocket motors, closes $20 million funding round](https://spacenews.com/adranos-a-startup-that-makes-solid-rocket-motors-closes-20-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T120418">2022-04-26 12:04:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T210325">2022-04-26 21:03:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T213521">2022-04-26 21:35:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
