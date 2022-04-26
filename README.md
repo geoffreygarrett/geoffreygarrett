@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S., South Korea agree to cooperate on space situational awareness for military purposes](https://spacenews.com/u-s-south-korea-agree-to-cooperate-on-space-situational-awareness-for-military-purposes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T134418">2022-04-26 13:44:18 UTC</a></sub>
 * [Adranos, a startup that makes solid rocket motors, closes $20 million funding round](https://spacenews.com/adranos-a-startup-that-makes-solid-rocket-motors-closes-20-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T120418">2022-04-26 12:04:18 UTC</a></sub>
 * [SpaceX rapidly turns around drone ship for sixth launch this month](https://www.teslarati.com/spacex-rapid-drone-ship-turnaround-starlink-launch-prep-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T111438">2022-04-26 11:14:38 UTC</a></sub>
 * [PredaSAR nears first launch of its radar imaging constellation](https://spacenews.com/predasar-nears-first-launch-of-its-radar-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T110418">2022-04-26 11:04:18 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [SpaceX Dragon returns private astronauts to Earth after an extra week in space](https://www.teslarati.com/spacex-axiom-1-crew-dragon-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T203437">2022-04-25 20:34:37 UTC</a></sub>
 * [Vice Adm. Sharp: Commercial satellites a key counterforce to Russian disinformation](https://spacenews.com/vice-adm-sharp-commercial-satellites-a-key-counterforce-to-russian-disinformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T193422">2022-04-25 19:34:22 UTC</a></sub>
 * [NASA Extends Exploration for 8 Planetary Science Missions](https://mars.nasa.gov/news/9175/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T192400">2022-04-25 19:24:00 UTC</a></sub>
-* [Coverage Updated for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast](http://www.nasa.gov/press-release/coverage-updated-for-nasa-s-spacex-crew-4-briefing-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T185400">2022-04-25 18:54:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T130732">2022-04-26 13:07:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T135112">2022-04-26 13:51:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
