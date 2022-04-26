@@ -182,6 +182,8 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hubble discovers exoplanet unconventionally forming at an extreme distance, NASA confirms 5,000 discovered exoplanets](https://www.nasaspaceflight.com/2022/04/hubble-discovers-exoplanet-forming-an-extreme-confirms-5000-exoplanets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T161605">2022-04-26 16:16:05 UTC</a></sub>
+* [Halifax International raising funds to build imaging satellites for Ukraine](https://spacenews.com/halifax-international-raising-funds-to-build-imaging-satellites-for-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T155418">2022-04-26 15:54:18 UTC</a></sub>
 * [SpaceX rapidly pivots from Dragon landing to another launch in 39 hours](https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T152151">2022-04-26 15:21:51 UTC</a></sub>
 * [Space companies donate funds for humanitarian efforts in Ukraine](https://spacenews.com/space-companies-donate-funds-for-humanitarian-efforts-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T151421">2022-04-26 15:14:21 UTC</a></sub>
 * [U.S., South Korea agree to cooperate on space situational awareness for military purposes](https://spacenews.com/u-s-south-korea-agree-to-cooperate-on-space-situational-awareness-for-military-purposes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T134418">2022-04-26 13:44:18 UTC</a></sub>
@@ -190,8 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [PredaSAR nears first launch of its radar imaging constellation](https://spacenews.com/predasar-nears-first-launch-of-its-radar-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T110418">2022-04-26 11:04:18 UTC</a></sub>
 * [NASA to repurpose OSIRIS-REx for second asteroid encounter](https://spacenews.com/nasa-to-repurpose-osiris-rex-for-second-asteroid-encounter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T103419">2022-04-26 10:34:19 UTC</a></sub>
 * [NRO plans for immediate and long-term acquisition of commercial satellite data](https://spacenews.com/nro-short-long-term-commercial-data-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T041418">2022-04-26 04:14:18 UTC</a></sub>
-* [Artemis 1 vehicle heads back to VAB while NASA discusses what to do next](https://www.nasaspaceflight.com/2022/04/artemis-1-vab-nasa-discusses-what-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T215137">2022-04-25 21:51:37 UTC</a></sub>
-* [SpaceX Dragon returns private astronauts to Earth after an extra week in space](https://www.teslarati.com/spacex-axiom-1-crew-dragon-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T203437">2022-04-25 20:34:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T160647">2022-04-26 16:06:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T165611">2022-04-26 16:56:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
