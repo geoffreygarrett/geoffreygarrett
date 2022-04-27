@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD intelligence chief: U.S. made ‘gutsy decision’ to release sensitive imagery to counter Russia’s deception ops](https://spacenews.com/dod-intelligence-chief-u-s-made-gutsy-decision-to-release-sensitive-imagery-to-counter-russias-deception-ops/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T134418">2022-04-27 13:44:18 UTC</a></sub>
 * [China to build a lunar communications and navigation constellation](https://spacenews.com/china-to-build-a-lunar-communications-and-navigation-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T113419">2022-04-27 11:34:19 UTC</a></sub>
 * [SpaceX sends four astronauts into orbit for the second time in a month](https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T084551">2022-04-27 08:45:51 UTC</a></sub>
 * [Falcon 9 launches Crew-4 mission to space station](https://spacenews.com/falcon-9-launches-crew-4-mission-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T083418">2022-04-27 08:34:18 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Selects Investigation Teams to Join Geospace Dynamics Mission](http://www.nasa.gov/press-release/nasa-selects-investigation-teams-to-join-geospace-dynamics-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T223400">2022-04-26 22:34:00 UTC</a></sub>
 * [SpaceX poised for quick turnaround between astronaut missions](https://spaceflightnow.com/2022/04/26/spacex-poised-for-quick-turnaround-between-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T222419">2022-04-26 22:24:19 UTC</a></sub>
 * [Synthetic data helps train algorithms to spot rare objects](https://spacenews.com/synthetic-data-geoint/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T220419">2022-04-26 22:04:19 UTC</a></sub>
-* [Crew-4 mission to ISS begins with pre-dawn liftoff](https://www.nasaspaceflight.com/2022/04/crew-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T215813">2022-04-26 21:58:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T130258">2022-04-27 13:02:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T134927">2022-04-27 13:49:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
