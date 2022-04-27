@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ingenuity helicopter flies over leftover wreckage from Mars landing last year](https://spaceflightnow.com/2022/04/27/ingenuity-helicopter-flies-over-leftover-wreckage-from-mars-landing-last-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T203415">2022-04-27 20:34:15 UTC</a></sub>
+* [NASA's Mars Helicopter Spots Gear That Helped Perseverance Rover Land](https://mars.nasa.gov/news/9177/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T202400">2022-04-27 20:24:00 UTC</a></sub>
 * [Op-ed | South Africa’s Space Journey Charts a Course for the Continent](https://spacenews.com/south-africas-space-journey-charts-a-course-for-the-continent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T190418">2022-04-27 19:04:18 UTC</a></sub>
 * [Three Americans, one Italian launch on SpaceX’s new “Freedom” spacecraft](https://spaceflightnow.com/2022/04/27/three-americans-one-italian-launch-on-first-flight-of-spacexs-freedom-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T180417">2022-04-27 18:04:17 UTC</a></sub>
 * [Government trying to streamline procurement of commercial space data](https://spacenews.com/government-trying-to-streamline-procurement-of-commercial-space-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T141418">2022-04-27 14:14:18 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX sends four astronauts into orbit for the second time in a month](https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T084551">2022-04-27 08:45:51 UTC</a></sub>
 * [Falcon 9 launches Crew-4 mission to space station](https://spacenews.com/falcon-9-launches-crew-4-mission-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T083418">2022-04-27 08:34:18 UTC</a></sub>
 * [NASA’s SpaceX Crew-4 Astronauts Launch to International Space Station](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-launch-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T082400">2022-04-27 08:24:00 UTC</a></sub>
-* [Crew-4 mission timeline](https://spaceflightnow.com/2022/04/27/crew-4-mission-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T001415">2022-04-27 00:14:15 UTC</a></sub>
-* [Dixon calls for greater transparency and data interoperability](https://spacenews.com/dixon-calls-for-transparency-interoperability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T234418">2022-04-26 23:44:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T200653">2022-04-27 20:06:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T203828">2022-04-27 20:38:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
