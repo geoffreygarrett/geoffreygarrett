@@ -182,6 +182,9 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew-4 mission timeline](https://spaceflightnow.com/2022/04/27/crew-4-mission-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T001415">2022-04-27 00:14:15 UTC</a></sub>
+* [Dixon calls for greater transparency and data interoperability](https://spacenews.com/dixon-calls-for-transparency-interoperability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T234418">2022-04-26 23:44:18 UTC</a></sub>
+* [Watch live: SpaceX to launch its sixth crew mission in two years tonight](https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T224051">2022-04-26 22:40:51 UTC</a></sub>
 * [NASA Selects Investigation Teams to Join Geospace Dynamics Mission](http://www.nasa.gov/press-release/nasa-selects-investigation-teams-to-join-geospace-dynamics-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T223400">2022-04-26 22:34:00 UTC</a></sub>
 * [SpaceX poised for quick turnaround between astronaut missions](https://spaceflightnow.com/2022/04/26/spacex-poised-for-quick-turnaround-between-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T222419">2022-04-26 22:24:19 UTC</a></sub>
 * [Synthetic data helps train algorithms to spot rare objects](https://spacenews.com/synthetic-data-geoint/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T220419">2022-04-26 22:04:19 UTC</a></sub>
@@ -189,9 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [SpaceX, NASA on track for Wednesday astronaut launch [webcast]](https://www.teslarati.com/spacex-nasa-crew-4-astronaut-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T211441">2022-04-26 21:14:41 UTC</a></sub>
 * [Ligado Networks critics step up opposition as service launch nears](https://spacenews.com/ligado-networks-critics-step-up-opposition-as-service-launch-nears/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T195419">2022-04-26 19:54:19 UTC</a></sub>
 * [NASA expects decisions on ISS crew swaps by June](https://spacenews.com/nasa-expects-decisions-on-iss-crew-swaps-by-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T192418">2022-04-26 19:24:18 UTC</a></sub>
-* [NASA’s moon rocket rolls back to Vehicle Assembly Building for repairs](https://spaceflightnow.com/2022/04/26/nasas-moon-rocket-rolls-back-to-vehicle-assembly-building-for-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T185415">2022-04-26 18:54:15 UTC</a></sub>
-* [ACT to embed thermal management in Carbon Mapper structures](https://spacenews.com/act-carbon-mapper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T171419">2022-04-26 17:14:19 UTC</a></sub>
-* [Hubble discovers exoplanet unconventionally forming at an extreme distance, NASA confirms 5,000 discovered exoplanets](https://www.nasaspaceflight.com/2022/04/hubble-discovers-exoplanet-forming-an-extreme-confirms-5000-exoplanets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T161605">2022-04-26 16:16:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T233627">2022-04-26 23:36:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T003320">2022-04-27 00:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
