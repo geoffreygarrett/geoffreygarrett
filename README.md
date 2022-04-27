@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to build a lunar communications and navigation constellation](https://spacenews.com/china-to-build-a-lunar-communications-and-navigation-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T113419">2022-04-27 11:34:19 UTC</a></sub>
 * [SpaceX sends four astronauts into orbit for the second time in a month](https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T084551">2022-04-27 08:45:51 UTC</a></sub>
 * [Falcon 9 launches Crew-4 mission to space station](https://spacenews.com/falcon-9-launches-crew-4-mission-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T083418">2022-04-27 08:34:18 UTC</a></sub>
 * [NASA’s SpaceX Crew-4 Astronauts Launch to International Space Station](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-launch-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T082400">2022-04-27 08:24:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX poised for quick turnaround between astronaut missions](https://spaceflightnow.com/2022/04/26/spacex-poised-for-quick-turnaround-between-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T222419">2022-04-26 22:24:19 UTC</a></sub>
 * [Synthetic data helps train algorithms to spot rare objects](https://spacenews.com/synthetic-data-geoint/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T220419">2022-04-26 22:04:19 UTC</a></sub>
 * [Crew-4 mission to ISS begins with pre-dawn liftoff](https://www.nasaspaceflight.com/2022/04/crew-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T215813">2022-04-26 21:58:13 UTC</a></sub>
-* [SpaceX, NASA on track for Wednesday astronaut launch [webcast]](https://www.teslarati.com/spacex-nasa-crew-4-astronaut-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T211441">2022-04-26 21:14:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T113254">2022-04-27 11:32:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T120955">2022-04-27 12:09:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
