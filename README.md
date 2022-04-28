@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Russian cosmonauts begin 250th space station spacewalk](https://spaceflightnow.com/2022/04/28/russian-eva-53/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T160418">2022-04-28 16:04:18 UTC</a></sub>
 * [Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters](https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T153427">2022-04-28 15:34:27 UTC</a></sub>
 * [China’s Wenchang aims to become commercial space hub](https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T113431">2022-04-28 11:34:31 UTC</a></sub>
 * [Inmarsat’s telemetry network for rockets ready for launch](https://spacenews.com/inmarsats-telemetry-network-for-rockets-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T112429">2022-04-28 11:24:29 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Crew Dragon Freedom makes its first docking at the ISS on the Crew-4 mission](https://www.nasaspaceflight.com/2022/04/dragon-freedom-docks-crew-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T233725">2022-04-27 23:37:25 UTC</a></sub>
 * [DalBello to lead Office of Space Commerce](https://spacenews.com/dalbello-to-lead-office-of-space-commerce/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T214418">2022-04-27 21:44:18 UTC</a></sub>
 * [Ingenuity helicopter flies over leftover wreckage from Mars landing last year](https://spaceflightnow.com/2022/04/27/ingenuity-helicopter-flies-over-leftover-wreckage-from-mars-landing-last-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T203415">2022-04-27 20:34:15 UTC</a></sub>
-* [NASA's Mars Helicopter Spots Gear That Helped Perseverance Rover Land](https://mars.nasa.gov/news/9177/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T202400">2022-04-27 20:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T160656">2022-04-28 16:06:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T165441">2022-04-28 16:54:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
