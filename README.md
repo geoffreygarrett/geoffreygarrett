@@ -199,6 +199,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Surreal solar sights](https://www.planetary.org/the-downlink/surreal-solar-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T143039">2022-04-29 14:30:39 UTC</a></sub>
 * [OFT-2: Atlas V rocket assembled to launch Boeing's Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-rocket-assembled-to-launch-boeings-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T203446">2022-04-26 20:34:46 UTC</a></sub>
 * [Our planet’s day in the sun](https://www.planetary.org/the-downlink/our-planets-day-in-the-sun) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T143358">2022-04-22 14:33:58 UTC</a></sub>
 * [Are we trashing space?](https://www.planetary.org/articles/space-trash) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T140932">2022-04-21 14:09:32 UTC</a></sub>
@@ -208,7 +209,6 @@ region. The mission's status is currently To Be Confirmed
 * [When will we explore Enceladus to find alien life?](https://www.planetary.org/articles/alien-life-enceladus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T140933">2022-04-14 14:09:33 UTC</a></sub>
 * [OFT-2: Pegasus barge brings Atlas V to launch site](https://blog.ulalaunch.com/blog/oft-2-pegasus-barge-brings-atlas-v-to-launch-site) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T171935">2022-04-13 17:19:35 UTC</a></sub>
 * [NASA's FY 2023 Budget Stays the Course](https://www.planetary.org/articles/nasas-fy-2023-budget-analysis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T170927">2022-04-08 17:09:27 UTC</a></sub>
-* [The value of knowledge](https://www.planetary.org/the-downlink/the-value-of-knowledge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T143930">2022-04-08 14:39:30 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T140240">2022-04-29 14:02:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T143402">2022-04-29 14:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
