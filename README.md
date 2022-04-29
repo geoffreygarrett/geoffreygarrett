@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First Ariane 5 of 2022 slated for June launch of Measat-3d and GSAT-24](https://spacenews.com/first-ariane-5-of-2022-slated-for-june-launch-of-measat-3d-and-gsat-24/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T123006">2022-04-29 12:30:06 UTC</a></sub>
 * [Rocket Report: FAA decision day, or another delay? Using a balloon first stage](https://arstechnica.com/science/2022/04/rocket-report-faa-decision-day-or-another-delay-using-a-balloon-first-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T110002">2022-04-29 11:00:02 UTC</a></sub>
 * [China launches pair of commercial remote sensing satellites, sea launch scrubbed](https://spacenews.com/china-launches-pair-of-commercial-remote-sensing-satellites-sea-launch-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T095008">2022-04-29 09:50:08 UTC</a></sub>
 * [SpaceX rapidly shipping upgraded Raptor engines to Starbase](https://www.teslarati.com/spacex-starbase-raptor-2-engine-deliveries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T213104">2022-04-28 21:31:04 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters](https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T153427">2022-04-28 15:34:27 UTC</a></sub>
 * [China’s Wenchang aims to become commercial space hub](https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T113431">2022-04-28 11:34:31 UTC</a></sub>
 * [Inmarsat’s telemetry network for rockets ready for launch](https://spacenews.com/inmarsats-telemetry-network-for-rockets-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T112429">2022-04-28 11:24:29 UTC</a></sub>
-* [SpaceX director says six Crew Dragon launches per year is a sustainable goal](https://www.teslarati.com/spacex-crew-dragon-launch-cadence-goals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T111502">2022-04-28 11:15:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T121006">2022-04-29 12:10:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T130542">2022-04-29 13:05:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
