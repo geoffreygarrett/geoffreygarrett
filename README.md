@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Comment on Initial Plans for Mars Sample Return Program](http://www.nasa.gov/press-release/nasa-invites-comment-on-initial-plans-for-mars-sample-return-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T144000">2022-04-29 14:40:00 UTC</a></sub>
 * [After flying 150th Falcon 9, SpaceX continues to make efficiency gains](https://arstechnica.com/science/2022/04/spacex-makes-progress-on-cadence-and-reuse-as-it-passes-150-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T132833">2022-04-29 13:28:33 UTC</a></sub>
 * [First Ariane 5 of 2022 slated for June launch of Measat-3d and GSAT-24](https://spacenews.com/first-ariane-5-of-2022-slated-for-june-launch-of-measat-3d-and-gsat-24/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T123006">2022-04-29 12:30:06 UTC</a></sub>
 * [Rocket Report: FAA decision day, or another delay? Using a balloon first stage](https://arstechnica.com/science/2022/04/rocket-report-faa-decision-day-or-another-delay-using-a-balloon-first-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T110002">2022-04-29 11:00:02 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Chooses Small Businesses to Continue Exploration Tech Development](http://www.nasa.gov/press-release/nasa-chooses-small-businesses-to-continue-exploration-tech-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T182500">2022-04-28 18:25:00 UTC</a></sub>
 * [James Webb telescope completes optical alignment, ready for final instrument calibration phase of commissioning](https://www.nasaspaceflight.com/2022/04/jwst-update-april-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T181637">2022-04-28 18:16:37 UTC</a></sub>
 * [Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters](https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T153427">2022-04-28 15:34:27 UTC</a></sub>
-* [China’s Wenchang aims to become commercial space hub](https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T113431">2022-04-28 11:34:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T143402">2022-04-29 14:34:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T150405">2022-04-29 15:04:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
