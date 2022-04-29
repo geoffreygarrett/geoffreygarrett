@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China launches pair of commercial remote sensing satellites, sea launch scrubbed](https://spacenews.com/china-launches-pair-of-commercial-remote-sensing-satellites-sea-launch-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T095008">2022-04-29 09:50:08 UTC</a></sub>
 * [SpaceX rapidly shipping upgraded Raptor engines to Starbase](https://www.teslarati.com/spacex-starbase-raptor-2-engine-deliveries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T213104">2022-04-28 21:31:04 UTC</a></sub>
 * [Space Force sees room for more competitors in national security launch](https://spacenews.com/space-force-sees-room-for-more-competitors-in-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T201623">2022-04-28 20:16:23 UTC</a></sub>
 * [NASA Chooses Small Businesses to Continue Exploration Tech Development](http://www.nasa.gov/press-release/nasa-chooses-small-businesses-to-continue-exploration-tech-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T182500">2022-04-28 18:25:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Inmarsat’s telemetry network for rockets ready for launch](https://spacenews.com/inmarsats-telemetry-network-for-rockets-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T112429">2022-04-28 11:24:29 UTC</a></sub>
 * [SpaceX director says six Crew Dragon launches per year is a sustainable goal](https://www.teslarati.com/spacex-crew-dragon-launch-cadence-goals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T111502">2022-04-28 11:15:02 UTC</a></sub>
 * [Crew-4 arrives at ISS](https://spacenews.com/crew-4-arrives-at-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T105423">2022-04-28 10:54:23 UTC</a></sub>
-* [Four astronauts arrive at space station for long-term stay](https://spaceflightnow.com/2022/04/28/four-astronauts-arrive-at-space-station-for-long-term-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T051419">2022-04-28 05:14:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T100417">2022-04-29 10:04:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T103824">2022-04-29 10:38:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
