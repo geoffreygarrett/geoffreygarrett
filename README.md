@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. to ramp up spending on classified communications satellites](https://spacenews.com/u-s-to-ramp-up-spending-on-classified-communications-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T171341">2022-05-01 17:13:41 UTC</a></sub>
 * [Emirati astronaut to fly long-duration space station mission](https://spacenews.com/emirati-astronaut-to-fly-long-duration-space-station-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T163737">2022-04-30 16:37:37 UTC</a></sub>
 * [First Dream Chaser vehicle takes shape](https://spacenews.com/first-dream-chaser-vehicle-takes-shape/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T223011">2022-04-29 22:30:11 UTC</a></sub>
 * [SpaceX smashes Falcon 9 booster turnaround record](https://www.teslarati.com/spacex-falcon-9-new-booster-turnaround-record-21-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T222104">2022-04-29 22:21:04 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Invites Comment on Initial Plans for Mars Sample Return Program](http://www.nasa.gov/press-release/nasa-invites-comment-on-initial-plans-for-mars-sample-return-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T144000">2022-04-29 14:40:00 UTC</a></sub>
 * [After flying 150th Falcon 9, SpaceX continues to make efficiency gains](https://arstechnica.com/science/2022/04/spacex-makes-progress-on-cadence-and-reuse-as-it-passes-150-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T132833">2022-04-29 13:28:33 UTC</a></sub>
 * [First Ariane 5 of 2022 slated for June launch of Measat-3d and GSAT-24](https://spacenews.com/first-ariane-5-of-2022-slated-for-june-launch-of-measat-3d-and-gsat-24/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T123006">2022-04-29 12:30:06 UTC</a></sub>
-* [Rocket Report: FAA decision day, or another delay? Using a balloon first stage](https://arstechnica.com/science/2022/04/rocket-report-faa-decision-day-or-another-delay-using-a-balloon-first-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T110002">2022-04-29 11:00:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T171138">2022-05-01 17:11:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T173740">2022-05-01 17:37:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
