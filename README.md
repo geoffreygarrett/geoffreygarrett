@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [‘Mounting evidence’ shows need for Starlink Gen 2 environmental review, says Viasat](https://spacenews.com/mounting-evidence-shows-need-for-starlink-gen-2-environmental-review-says-viasat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T231333">2022-05-02 23:13:33 UTC</a></sub>
 * [SpaceX still on track to launch one Falcon rocket per week in 2022](https://www.teslarati.com/spacex-weekly-falcon-launch-cadence-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T215516">2022-05-02 21:55:16 UTC</a></sub>
 * [Calvelli to assume duties as U.S. Air Force’s space acquisition executive](https://spacenews.com/calvelli-to-assume-duties-as-u-s-air-forces-space-acquisition-executive/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T202320">2022-05-02 20:23:20 UTC</a></sub>
 * [Rocket Lab Set For First Booster Catch Attempt During There And Back Again Mission](https://www.nasaspaceflight.com/2022/05/rocket-lab-booster-catch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T195852">2022-05-02 19:58:52 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Kelly plays down Russian ASAT threat](https://spacenews.com/kelly-plays-down-russian-asat-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T111341">2022-05-02 11:13:41 UTC</a></sub>
 * [U.S. to ramp up spending on classified communications satellites](https://spacenews.com/u-s-to-ramp-up-spending-on-classified-communications-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T171341">2022-05-01 17:13:41 UTC</a></sub>
 * [Falcon 9 busier than ever as Starship reviews delayed again](https://spacenews.com/falcon-9-busier-than-ever-as-starship-reviews-delayed-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T023349">2022-05-01 02:33:49 UTC</a></sub>
-* [Emirati astronaut to fly long-duration space station mission](https://spacenews.com/emirati-astronaut-to-fly-long-duration-space-station-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T163737">2022-04-30 16:37:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T230235">2022-05-02 23:02:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T233704">2022-05-02 23:37:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
