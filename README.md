@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Western space community should put Dmitry Rogozin on “ignore”](https://arstechnica.com/science/2022/05/the-western-space-community-should-put-dmitry-rogozin-on-ignore/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T130255">2022-05-02 13:02:55 UTC</a></sub>
 * [Kelly plays down Russian ASAT threat](https://spacenews.com/kelly-plays-down-russian-asat-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T111341">2022-05-02 11:13:41 UTC</a></sub>
 * [U.S. to ramp up spending on classified communications satellites](https://spacenews.com/u-s-to-ramp-up-spending-on-classified-communications-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T171341">2022-05-01 17:13:41 UTC</a></sub>
 * [Falcon 9 busier than ever as Starship reviews delayed again](https://spacenews.com/falcon-9-busier-than-ever-as-starship-reviews-delayed-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T023349">2022-05-01 02:33:49 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab waiting for ‘ideal’ weather before launch and recovery attempt](https://spaceflightnow.com/2022/04/29/rocket-lab-waiting-for-ideal-weather-before-launch-and-recovery-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T194002">2022-04-29 19:40:02 UTC</a></sub>
 * [Starlink Group 4-16 launches, breaks SpaceX turnaround records](https://www.nasaspaceflight.com/2022/04/starlink-4-16-turnaround-records/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T181938">2022-04-29 18:19:38 UTC</a></sub>
 * [Arabsat orders first fully software-defined satellite](https://spacenews.com/arabsat-orders-first-fully-software-defined-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T165001">2022-04-29 16:50:01 UTC</a></sub>
-* [NASA Invites Comment on Initial Plans for Mars Sample Return Program](http://www.nasa.gov/press-release/nasa-invites-comment-on-initial-plans-for-mars-sample-return-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T144000">2022-04-29 14:40:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T130518">2022-05-02 13:05:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T135125">2022-05-02 13:51:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
