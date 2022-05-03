@@ -179,6 +179,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [South Korea’s Innospace schedules December test launch carrying Brazilian military payload](https://spacenews.com/south-koreas-innospace-schedules-december-test-launch-carrying-brazilian-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T165315">2022-05-03 16:53:15 UTC</a></sub>
+* [NASA's Mars Helicopter Scouts Ridgeline for Perseverance Science Team](https://mars.nasa.gov/news/9179/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T162400">2022-05-03 16:24:00 UTC</a></sub>
+* [NASA chief says cost-plus contracts are a “plague” on the space agency](https://arstechnica.com/science/2022/05/nasa-chief-says-cost-plus-contracts-are-a-plague-on-the-space-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T161447">2022-05-03 16:14:47 UTC</a></sub>
 * [Rocket Lab catches a 1-ton booster falling back from space](https://arstechnica.com/science/2022/05/rocket-lab-catches-a-1-ton-booster-falling-back-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T131205">2022-05-03 13:12:05 UTC</a></sub>
 * [CAPSTONE up next for Rocket Lab](https://spacenews.com/capstone-up-next-for-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T114305">2022-05-03 11:43:05 UTC</a></sub>
 * [Rocket Lab catches Electron booster with a helicopter on first attempt](https://www.teslarati.com/rocket-lab-helicopter-catches-rocket-booster-first-try/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T111436">2022-05-03 11:14:36 UTC</a></sub>
@@ -186,9 +189,6 @@ region. The mission's status is currently Go for Launch
 * [‘Mounting evidence’ shows need for Starlink Gen 2 environmental review, says Viasat](https://spacenews.com/mounting-evidence-shows-need-for-starlink-gen-2-environmental-review-says-viasat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T231333">2022-05-02 23:13:33 UTC</a></sub>
 * [SpaceX still on track to launch one Falcon rocket per week in 2022](https://www.teslarati.com/spacex-weekly-falcon-launch-cadence-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T215516">2022-05-02 21:55:16 UTC</a></sub>
 * [Calvelli to assume duties as U.S. Air Force’s space acquisition executive](https://spacenews.com/calvelli-to-assume-duties-as-u-s-air-forces-space-acquisition-executive/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T202320">2022-05-02 20:23:20 UTC</a></sub>
-* [Rocket Lab makes first booster catch attempt during successful There And Back Again mission](https://www.nasaspaceflight.com/2022/05/rocket-lab-booster-catch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T195852">2022-05-02 19:58:52 UTC</a></sub>
-* [SpaceX engineer says NASA should plan for Starship’s “significant” capability](https://arstechnica.com/science/2022/05/spacex-engineer-says-nasa-should-plan-for-starships-significant-capability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T185316">2022-05-02 18:53:16 UTC</a></sub>
-* [Vyoma agrees data management partnership for SSA constellation](https://spacenews.com/vyoma-agrees-data-management-partnership-for-ssa-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T144328">2022-05-02 14:43:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T160810">2022-05-03 16:08:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T170026">2022-05-03 17:00:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
