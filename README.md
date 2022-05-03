@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab catches a 1-ton booster falling back from space](https://arstechnica.com/science/2022/05/rocket-lab-catches-a-1-ton-booster-falling-back-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T131205">2022-05-03 13:12:05 UTC</a></sub>
 * [CAPSTONE up next for Rocket Lab](https://spacenews.com/capstone-up-next-for-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T114305">2022-05-03 11:43:05 UTC</a></sub>
 * [Rocket Lab catches Electron booster with a helicopter on first attempt](https://www.teslarati.com/rocket-lab-helicopter-catches-rocket-booster-first-try/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T111436">2022-05-03 11:14:36 UTC</a></sub>
 * [Space Force selects 125 industry proposals for on-orbit servicing technologies](https://spacenews.com/space-force-selects-125-industry-proposals-for-on-orbit-servicing-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T235331">2022-05-02 23:53:31 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab makes first booster catch attempt during successful There And Back Again mission](https://www.nasaspaceflight.com/2022/05/rocket-lab-booster-catch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T195852">2022-05-02 19:58:52 UTC</a></sub>
 * [SpaceX engineer says NASA should plan for Starship’s “significant” capability](https://arstechnica.com/science/2022/05/spacex-engineer-says-nasa-should-plan-for-starships-significant-capability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T185316">2022-05-02 18:53:16 UTC</a></sub>
 * [Vyoma agrees data management partnership for SSA constellation](https://spacenews.com/vyoma-agrees-data-management-partnership-for-ssa-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T144328">2022-05-02 14:43:28 UTC</a></sub>
-* [The Western space community should put Dmitry Rogozin on “ignore”](https://arstechnica.com/science/2022/05/the-western-space-community-should-put-dmitry-rogozin-on-ignore/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T130255">2022-05-02 13:02:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T130807">2022-05-03 13:08:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T135228">2022-05-03 13:52:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
