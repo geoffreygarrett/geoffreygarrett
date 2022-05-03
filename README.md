@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab briefly catches booster in mid-air after successful launch](https://spaceflightnow.com/2022/05/03/rocket-lab-briefly-catches-booster-in-mid-air-after-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T194307">2022-05-03 19:43:07 UTC</a></sub>
 * [NASA Announces Winners of 2022 Human Exploration Rover Challenge](http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-human-exploration-rover-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T175400">2022-05-03 17:54:00 UTC</a></sub>
 * [South Korea’s Innospace schedules December test launch carrying Brazilian military payload](https://spacenews.com/south-koreas-innospace-schedules-december-test-launch-carrying-brazilian-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T165315">2022-05-03 16:53:15 UTC</a></sub>
 * [NASA's Mars Helicopter Scouts Ridgeline for Perseverance Science Team](https://mars.nasa.gov/news/9179/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T162400">2022-05-03 16:24:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab catches Electron booster with a helicopter on first attempt](https://www.teslarati.com/rocket-lab-helicopter-catches-rocket-booster-first-try/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T111436">2022-05-03 11:14:36 UTC</a></sub>
 * [Space Force selects 125 industry proposals for on-orbit servicing technologies](https://spacenews.com/space-force-selects-125-industry-proposals-for-on-orbit-servicing-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T235331">2022-05-02 23:53:31 UTC</a></sub>
 * [‘Mounting evidence’ shows need for Starlink Gen 2 environmental review, says Viasat](https://spacenews.com/mounting-evidence-shows-need-for-starlink-gen-2-environmental-review-says-viasat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T231333">2022-05-02 23:13:33 UTC</a></sub>
-* [SpaceX still on track to launch one Falcon rocket per week in 2022](https://www.teslarati.com/spacex-weekly-falcon-launch-cadence-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T215516">2022-05-02 21:55:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T193115">2022-05-03 19:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T200629">2022-05-03 20:06:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
