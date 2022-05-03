@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab catches Electron booster with a helicopter on first attempt](https://www.teslarati.com/rocket-lab-helicopter-catches-rocket-booster-first-try/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T111436">2022-05-03 11:14:36 UTC</a></sub>
 * [Space Force selects 125 industry proposals for on-orbit servicing technologies](https://spacenews.com/space-force-selects-125-industry-proposals-for-on-orbit-servicing-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T235331">2022-05-02 23:53:31 UTC</a></sub>
 * [‘Mounting evidence’ shows need for Starlink Gen 2 environmental review, says Viasat](https://spacenews.com/mounting-evidence-shows-need-for-starlink-gen-2-environmental-review-says-viasat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T231333">2022-05-02 23:13:33 UTC</a></sub>
 * [SpaceX still on track to launch one Falcon rocket per week in 2022](https://www.teslarati.com/spacex-weekly-falcon-launch-cadence-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T215516">2022-05-02 21:55:16 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Vyoma agrees data management partnership for SSA constellation](https://spacenews.com/vyoma-agrees-data-management-partnership-for-ssa-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T144328">2022-05-02 14:43:28 UTC</a></sub>
 * [The Western space community should put Dmitry Rogozin on “ignore”](https://arstechnica.com/science/2022/05/the-western-space-community-should-put-dmitry-rogozin-on-ignore/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T130255">2022-05-02 13:02:55 UTC</a></sub>
 * [Kelly plays down Russian ASAT threat](https://spacenews.com/kelly-plays-down-russian-asat-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T111341">2022-05-02 11:13:41 UTC</a></sub>
-* [Rocket Lab launches smallsats, catches but drops booster](https://spacenews.com/rocket-lab-launches-smallsats-catches-but-drops-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T002342">2022-05-02 00:23:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T110612">2022-05-03 11:06:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T113432">2022-05-03 11:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
