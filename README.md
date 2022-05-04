@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Nelson criticizes “plague” of cost-plus NASA contracts](https://spacenews.com/nelson-criticizes-plague-of-cost-plus-nasa-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T115333">2022-05-04 11:53:33 UTC</a></sub>
 * [SpaceX Falcon Heavy payload arrives in Florida for the first time in years](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-spacecraft-arrives-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T111428">2022-05-04 11:14:28 UTC</a></sub>
 * [NaraSpace Technology closes $7.88 million Series A for nanosatellite project](https://spacenews.com/naraspace-technology-closes-7-88-million-series-a-for-nanosatellite-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T042330">2022-05-04 04:23:30 UTC</a></sub>
 * [ExoMars official says launch unlikely before 2028](https://spacenews.com/exomars-official-says-launch-unlikely-before-2028/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T233321">2022-05-03 23:33:21 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [South Korea’s Innospace schedules December test launch carrying Brazilian military payload](https://spacenews.com/south-koreas-innospace-schedules-december-test-launch-carrying-brazilian-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T165315">2022-05-03 16:53:15 UTC</a></sub>
 * [NASA's Mars Helicopter Scouts Ridgeline for Perseverance Science Team](https://mars.nasa.gov/news/9179/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T162400">2022-05-03 16:24:00 UTC</a></sub>
 * [NASA chief says cost-plus contracts are a “plague” on the space agency](https://arstechnica.com/science/2022/05/nasa-chief-says-cost-plus-contracts-are-a-plague-on-the-space-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T161447">2022-05-03 16:14:47 UTC</a></sub>
-* [Rocket Lab catches a 1-ton booster falling back from space](https://arstechnica.com/science/2022/05/rocket-lab-catches-a-1-ton-booster-falling-back-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T131205">2022-05-03 13:12:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T113322">2022-05-04 11:33:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T121124">2022-05-04 12:11:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
