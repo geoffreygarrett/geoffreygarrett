@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [This time, can Boeing’s Starliner finally shine?](https://arstechnica.com/science/2022/05/this-time-can-boeings-starliner-finally-shine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T142829">2022-05-04 14:28:29 UTC</a></sub>
 * [Nelson criticizes “plague” of cost-plus NASA contracts](https://spacenews.com/nelson-criticizes-plague-of-cost-plus-nasa-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T115333">2022-05-04 11:53:33 UTC</a></sub>
 * [SpaceX Falcon Heavy payload arrives in Florida for the first time in years](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-spacecraft-arrives-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T111428">2022-05-04 11:14:28 UTC</a></sub>
 * [NaraSpace Technology closes $7.88 million Series A for nanosatellite project](https://spacenews.com/naraspace-technology-closes-7-88-million-series-a-for-nanosatellite-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T042330">2022-05-04 04:23:30 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Announces Winners of 2022 Human Exploration Rover Challenge](http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-human-exploration-rover-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T175400">2022-05-03 17:54:00 UTC</a></sub>
 * [South Korea’s Innospace schedules December test launch carrying Brazilian military payload](https://spacenews.com/south-koreas-innospace-schedules-december-test-launch-carrying-brazilian-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T165315">2022-05-03 16:53:15 UTC</a></sub>
 * [NASA's Mars Helicopter Scouts Ridgeline for Perseverance Science Team](https://mars.nasa.gov/news/9179/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T162400">2022-05-03 16:24:00 UTC</a></sub>
-* [NASA chief says cost-plus contracts are a “plague” on the space agency](https://arstechnica.com/science/2022/05/nasa-chief-says-cost-plus-contracts-are-a-plague-on-the-space-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T161447">2022-05-03 16:14:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T140302">2022-05-04 14:03:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T143620">2022-05-04 14:36:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
