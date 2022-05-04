@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [As Station Crew Readies to Return to Earth, NASA Sets TV Coverage](http://www.nasa.gov/press-release/as-station-crew-readies-to-return-to-earth-nasa-sets-tv-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T162300">2022-05-04 16:23:00 UTC</a></sub>
 * [This time, can Boeing’s Starliner finally shine?](https://arstechnica.com/science/2022/05/this-time-can-boeings-starliner-finally-shine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T142829">2022-05-04 14:28:29 UTC</a></sub>
 * [Nelson criticizes “plague” of cost-plus NASA contracts](https://spacenews.com/nelson-criticizes-plague-of-cost-plus-nasa-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T115333">2022-05-04 11:53:33 UTC</a></sub>
 * [SpaceX Falcon Heavy payload arrives in Florida for the first time in years](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-spacecraft-arrives-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T111428">2022-05-04 11:14:28 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab briefly catches booster in mid-air after successful launch](https://spaceflightnow.com/2022/05/03/rocket-lab-briefly-catches-booster-in-mid-air-after-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T194307">2022-05-03 19:43:07 UTC</a></sub>
 * [NASA Announces Winners of 2022 Human Exploration Rover Challenge](http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-human-exploration-rover-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T175400">2022-05-03 17:54:00 UTC</a></sub>
 * [South Korea’s Innospace schedules December test launch carrying Brazilian military payload](https://spacenews.com/south-koreas-innospace-schedules-december-test-launch-carrying-brazilian-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T165315">2022-05-03 16:53:15 UTC</a></sub>
-* [NASA's Mars Helicopter Scouts Ridgeline for Perseverance Science Team](https://mars.nasa.gov/news/9179/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T162400">2022-05-03 16:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T160704">2022-05-04 16:07:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T165926">2022-05-04 16:59:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
