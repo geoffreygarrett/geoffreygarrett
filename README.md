@@ -126,7 +126,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- rocket launches starts -->
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Taiyuan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T023000">2022-05-05 02:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20220505T023000Z%2F20220505T030300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-17</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T094600">2022-05-06 09:46:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-17&location=Kennedy Space Center, FL, USA&dates=20220506T094600Z%2F20220506T094600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-17</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T094200">2022-05-06 09:42:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-17&location=Kennedy Space Center, FL, USA&dates=20220506T094200Z%2F20220506T094200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianzhou-4</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T170000">2022-05-09 17:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-4&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220509T170000Z%2F20220509T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-13</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T185000">2022-05-10 18:50:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-13&location=Vandenberg SFB, CA, USA&dates=20220510T185000Z%2F20220510T185000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-15</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T001000">2022-05-17 00:10:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-15&location=Cape Canaveral, FL, USA&dates=20220517T001000Z%2F20220517T001000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DARPA moving forward with development of nuclear powered spacecraft](https://spacenews.com/darpa-moving-forward-with-development-of-nuclear-powered-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T213307">2022-05-04 21:33:07 UTC</a></sub>
 * [Astroscale debris-removal demo makes close approach despite thruster issues](https://spacenews.com/astroscale-debris-removal-demo-makes-close-approach-despite-thruster-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T182306">2022-05-04 18:23:06 UTC</a></sub>
 * [Boeing’s Starliner crew capsule meets Atlas rocket for long-delayed test flight](https://spaceflightnow.com/2022/05/04/boeings-starliner-crew-capsule-meets-atlas-rocket-for-another-attempt-at-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T173302">2022-05-04 17:33:02 UTC</a></sub>
 * [NASA to Discuss Status of Artemis I Test, Launch](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-artemis-i-test-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T170300">2022-05-04 17:03:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX Falcon Heavy payload arrives in Florida for the first time in years](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-spacecraft-arrives-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T111428">2022-05-04 11:14:28 UTC</a></sub>
 * [NaraSpace Technology closes $7.88 million Series A for nanosatellite project](https://spacenews.com/naraspace-technology-closes-7-88-million-series-a-for-nanosatellite-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T042330">2022-05-04 04:23:30 UTC</a></sub>
 * [ExoMars official says launch unlikely before 2028](https://spacenews.com/exomars-official-says-launch-unlikely-before-2028/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T233321">2022-05-03 23:33:21 UTC</a></sub>
-* [AST SpaceMobile licensed to connect test satellite to US cellular phones](https://spacenews.com/ast-spacemobile-licensed-to-connect-test-satellite-to-us-cellular-phones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T213330">2022-05-03 21:33:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [OFT-2: Atlas V and Starliner joined for launch](https://blog.ulalaunch.com/blog/oft-2-atlas-v-and-starliner-joined-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T205332">2022-05-04 20:53:32 UTC</a></sub>
 * [Job opening: Chief Financial Officer](https://www.planetary.org/careers/job-opening-chief-financial-officer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T203509">2022-05-02 20:35:09 UTC</a></sub>
 * [Surreal solar sights](https://www.planetary.org/the-downlink/surreal-solar-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T143039">2022-04-29 14:30:39 UTC</a></sub>
 * [OFT-2: Atlas V rocket assembled to launch Boeing's Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-rocket-assembled-to-launch-boeings-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T203446">2022-04-26 20:34:46 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [Earthlings off-planet](https://www.planetary.org/the-downlink/earthlings-off-planet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T143034">2022-04-15 14:30:34 UTC</a></sub>
 * [Apollo 16](https://www.planetary.org/space-missions/apollo-16) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T140047">2022-04-15 14:00:47 UTC</a></sub>
 * [When will we explore Enceladus to find alien life?](https://www.planetary.org/articles/alien-life-enceladus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T140933">2022-04-14 14:09:33 UTC</a></sub>
-* [OFT-2: Pegasus barge brings Atlas V to launch site](https://blog.ulalaunch.com/blog/oft-2-pegasus-barge-brings-atlas-v-to-launch-site) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T171935">2022-04-13 17:19:35 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T210445">2022-05-04 21:04:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T213534">2022-05-04 21:35:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
