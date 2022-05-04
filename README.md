@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellogic to launch 68 satellites with SpaceX](https://spacenews.com/satellogic-to-launch-68-satellites-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T233309">2022-05-04 23:33:09 UTC</a></sub>
 * [NASA Deputy Administrator to Visit Artemis Partner Advanced Space](http://www.nasa.gov/press-release/nasa-deputy-administrator-to-visit-artemis-partner-advanced-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T214300">2022-05-04 21:43:00 UTC</a></sub>
 * [DARPA moving forward with development of nuclear powered spacecraft](https://spacenews.com/darpa-moving-forward-with-development-of-nuclear-powered-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T213307">2022-05-04 21:33:07 UTC</a></sub>
 * [Astroscale debris-removal demo makes close approach despite thruster issues](https://spacenews.com/astroscale-debris-removal-demo-makes-close-approach-despite-thruster-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T182306">2022-05-04 18:23:06 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [This time, can Boeing’s Starliner finally shine?](https://arstechnica.com/science/2022/05/this-time-can-boeings-starliner-finally-shine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T142829">2022-05-04 14:28:29 UTC</a></sub>
 * [Nelson criticizes “plague” of cost-plus NASA contracts](https://spacenews.com/nelson-criticizes-plague-of-cost-plus-nasa-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T115333">2022-05-04 11:53:33 UTC</a></sub>
 * [SpaceX Falcon Heavy payload arrives in Florida for the first time in years](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-spacecraft-arrives-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T111428">2022-05-04 11:14:28 UTC</a></sub>
-* [NaraSpace Technology closes $7.88 million Series A for nanosatellite project](https://spacenews.com/naraspace-technology-closes-7-88-million-series-a-for-nanosatellite-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T042330">2022-05-04 04:23:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T230336">2022-05-04 23:03:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T233642">2022-05-04 23:36:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
