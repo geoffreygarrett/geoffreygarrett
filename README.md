@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NOAA seeks input on new satellite sensors and digital twin](https://spacenews.com/noaa-baas-emerging-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T170321">2022-05-05 17:03:21 UTC</a></sub>
 * [Science at Sunrise: Solving the Mystery of Frost Hiding on Mars](https://mars.nasa.gov/news/9184/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T164300">2022-05-05 16:43:00 UTC</a></sub>
 * [NASA, Boeing ready for second Starliner test flight](https://spacenews.com/nasa-boeing-ready-for-second-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T162314">2022-05-05 16:23:14 UTC</a></sub>
 * [NASA to Discuss Webb Telescope Alignment, Instrument Setup](http://www.nasa.gov/press-release/nasa-to-discuss-webb-telescope-alignment-instrument-setup) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T153300">2022-05-05 15:33:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Senate rejects effort to strip NASA lunar lander provision from authorization bill](https://spacenews.com/senate-rejects-effort-to-strip-nasa-lunar-lander-provision-from-authorization-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T113308">2022-05-05 11:33:08 UTC</a></sub>
 * [SpaceX Crew Dragon spacecraft departs space station with NASA, ESA astronauts](https://www.teslarati.com/spacex-nasa-crew-dragon-crew-3-space-station-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T111349">2022-05-05 11:13:49 UTC</a></sub>
 * [Crew-3: Endurance departs the ISS for its return to Earth](https://www.nasaspaceflight.com/2022/05/crew-3-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T052208">2022-05-05 05:22:08 UTC</a></sub>
-* [Air Force’s rocket propulsion arm looking to invest in technologies for ‘responsive launch’](https://spacenews.com/air-forces-rocket-propulsion-arm-looking-to-invest-in-technologies-for-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T235305">2022-05-04 23:53:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T171649">2022-05-05 17:16:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T174139">2022-05-05 17:41:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
