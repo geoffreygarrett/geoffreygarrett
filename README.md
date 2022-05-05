@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Tomorrow.io on track for 2024 weather constellation](https://spacenews.com/tomorrow-io-adds-microwave-sounders/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T180310">2022-05-05 18:03:10 UTC</a></sub>
 * [NOAA seeks input on new satellite sensors and digital twin](https://spacenews.com/noaa-baas-emerging-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T170321">2022-05-05 17:03:21 UTC</a></sub>
 * [Science at Sunrise: Solving the Mystery of Frost Hiding on Mars](https://mars.nasa.gov/news/9184/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T164300">2022-05-05 16:43:00 UTC</a></sub>
 * [NASA, Boeing ready for second Starliner test flight](https://spacenews.com/nasa-boeing-ready-for-second-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T162314">2022-05-05 16:23:14 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [China launches new batches of Jilin-1 commercial remote sensing satellites](https://spacenews.com/china-launches-new-batches-of-jilin-1-commercial-remote-sensing-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T121319">2022-05-05 12:13:19 UTC</a></sub>
 * [Senate rejects effort to strip NASA lunar lander provision from authorization bill](https://spacenews.com/senate-rejects-effort-to-strip-nasa-lunar-lander-provision-from-authorization-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T113308">2022-05-05 11:33:08 UTC</a></sub>
 * [SpaceX Crew Dragon spacecraft departs space station with NASA, ESA astronauts](https://www.teslarati.com/spacex-nasa-crew-dragon-crew-3-space-station-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T111349">2022-05-05 11:13:49 UTC</a></sub>
-* [Crew-3: Endurance departs the ISS for its return to Earth](https://www.nasaspaceflight.com/2022/05/crew-3-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T052208">2022-05-05 05:22:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T180636">2022-05-05 18:06:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T184217">2022-05-05 18:42:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
