@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew-3: Endurance departs the ISS for its return to Earth](https://www.nasaspaceflight.com/2022/05/crew-3-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T052208">2022-05-05 05:22:08 UTC</a></sub>
 * [Air Force’s rocket propulsion arm looking to invest in technologies for ‘responsive launch’](https://spacenews.com/air-forces-rocket-propulsion-arm-looking-to-invest-in-technologies-for-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T235305">2022-05-04 23:53:05 UTC</a></sub>
 * [Satellogic to launch 68 satellites with SpaceX](https://spacenews.com/satellogic-to-launch-68-satellites-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T233309">2022-05-04 23:33:09 UTC</a></sub>
 * [NASA Deputy Administrator to Visit Artemis Partner Advanced Space](http://www.nasa.gov/press-release/nasa-deputy-administrator-to-visit-artemis-partner-advanced-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T214300">2022-05-04 21:43:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Discuss Status of Artemis I Test, Launch](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-artemis-i-test-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T170300">2022-05-04 17:03:00 UTC</a></sub>
 * [As Station Crew Readies to Return to Earth, NASA Sets TV Coverage](http://www.nasa.gov/press-release/as-station-crew-readies-to-return-to-earth-nasa-sets-tv-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T162300">2022-05-04 16:23:00 UTC</a></sub>
 * [This time, can Boeing’s Starliner finally shine?](https://arstechnica.com/science/2022/05/this-time-can-boeings-starliner-finally-shine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T142829">2022-05-04 14:28:29 UTC</a></sub>
-* [Nelson criticizes “plague” of cost-plus NASA contracts](https://spacenews.com/nelson-criticizes-plague-of-cost-plus-nasa-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T115333">2022-05-04 11:53:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T051519">2022-05-05 05:15:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T053848">2022-05-05 05:38:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
