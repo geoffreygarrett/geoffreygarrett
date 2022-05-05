@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Discuss Webb Telescope Alignment, Instrument Setup](http://www.nasa.gov/press-release/nasa-to-discuss-webb-telescope-alignment-instrument-setup) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T153300">2022-05-05 15:33:00 UTC</a></sub>
 * [Dragon crew capsule undocks from space station, heads for splashdown Friday](https://spaceflightnow.com/2022/05/05/dragon-crew-capsule-undocks-from-space-station-heads-for-splashdown-friday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T150304">2022-05-05 15:03:04 UTC</a></sub>
 * [Report: U.S. defense and intelligence agencies slow to embrace small-satellite revolution](https://spacenews.com/report-u-s-defense-and-intelligence-agencies-slow-to-embrace-small-satellite-revolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T131318">2022-05-05 13:13:18 UTC</a></sub>
 * [China launches new batches of Jilin-1 commercial remote sensing satellites](https://spacenews.com/china-launches-new-batches-of-jilin-1-commercial-remote-sensing-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T121319">2022-05-05 12:13:19 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Air Force’s rocket propulsion arm looking to invest in technologies for ‘responsive launch’](https://spacenews.com/air-forces-rocket-propulsion-arm-looking-to-invest-in-technologies-for-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T235305">2022-05-04 23:53:05 UTC</a></sub>
 * [Satellogic to launch 68 satellites with SpaceX](https://spacenews.com/satellogic-to-launch-68-satellites-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T233309">2022-05-04 23:33:09 UTC</a></sub>
 * [NASA Deputy Administrator to Visit Artemis Partner Advanced Space](http://www.nasa.gov/press-release/nasa-deputy-administrator-to-visit-artemis-partner-advanced-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T214300">2022-05-04 21:43:00 UTC</a></sub>
-* [DARPA moving forward with development of nuclear powered spacecraft](https://spacenews.com/darpa-moving-forward-with-development-of-nuclear-powered-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T213307">2022-05-04 21:33:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T150606">2022-05-05 15:06:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T153928">2022-05-05 15:39:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
