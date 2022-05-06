@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Telesat to order 100 fewer satellites for LEO constellation](https://spacenews.com/telesat-to-order-90-fewer-satellites-for-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T200310">2022-05-06 20:03:10 UTC</a></sub>
 * [Virgin Galactic pushes back commercial suborbital flights to 2023](https://spacenews.com/virgin-galactic-pushes-back-commercial-suborbital-flights-to-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T192327">2022-05-06 19:23:27 UTC</a></sub>
 * [SpaceX moved NROL-85 from the Cape to Vandenberg at no extra cost, in exchange for reusing booster](https://spacenews.com/spacex-moved-nrol-85-from-the-cape-to-vandenberg-at-no-extra-cost-in-exchange-for-reusing-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T185324">2022-05-06 18:53:24 UTC</a></sub>
 * [New Intelsat CEO builds out leadership team](https://spacenews.com/new-intelsat-ceo-builds-out-leadership-team/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T154306">2022-05-06 15:43:06 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX launches morning Starlink mission from Kennedy Space Center](https://www.nasaspaceflight.com/2022/05/starlink-4-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T065932">2022-05-06 06:59:32 UTC</a></sub>
 * [SpaceX caps an incredibly busy month with a NASA crew landing Friday morning](https://arstechnica.com/science/2022/05/spacex-caps-an-incredibly-busy-month-with-a-nasa-crew-landing-friday-morning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T065835">2022-05-06 06:58:35 UTC</a></sub>
 * [NASA, ESA Astronauts Safely Return to Earth](http://www.nasa.gov/press-release/nasa-esa-astronauts-safely-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T060300">2022-05-06 06:03:00 UTC</a></sub>
-* [Crew-3 splashes down in Gulf of Mexico](https://spacenews.com/crew-3-splashes-down-in-gulf-of-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T052326">2022-05-06 05:23:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T193110">2022-05-06 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T200700">2022-05-06 20:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
