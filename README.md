@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew-3 splashes down in Gulf of Mexico](https://spacenews.com/crew-3-splashes-down-in-gulf-of-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T052326">2022-05-06 05:23:26 UTC</a></sub>
 * [Psyche asteroid explorer arrives at Kennedy Space Center for launch preps](https://spaceflightnow.com/2022/05/05/psyche-asteroid-explorer-arrives-at-kennedy-space-center-for-final-launch-preps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T233310">2022-05-05 23:33:10 UTC</a></sub>
 * [SpaceX Falcon 9 rocket goes vertical for 44th Starlink launch](https://www.teslarati.com/spacex-falcon-9-44th-starlink-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T220350">2022-05-05 22:03:50 UTC</a></sub>
 * [One year since SN15, Starbase lays groundwork for orbital attempt](https://www.nasaspaceflight.com/2022/05/one-year-since-sn15-starbase-lays-groundwork-for-orbital-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T211211">2022-05-05 21:12:11 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Science at Sunrise: Solving the Mystery of Frost Hiding on Mars](https://mars.nasa.gov/news/9184/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T164300">2022-05-05 16:43:00 UTC</a></sub>
 * [NASA, Boeing ready for second Starliner test flight](https://spacenews.com/nasa-boeing-ready-for-second-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T162314">2022-05-05 16:23:14 UTC</a></sub>
 * [NASA to Discuss Webb Telescope Alignment, Instrument Setup](http://www.nasa.gov/press-release/nasa-to-discuss-webb-telescope-alignment-instrument-setup) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T153300">2022-05-05 15:33:00 UTC</a></sub>
-* [Dragon crew capsule undocks from space station, heads for splashdown Friday](https://spaceflightnow.com/2022/05/05/dragon-crew-capsule-undocks-from-space-station-heads-for-splashdown-friday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T150304">2022-05-05 15:03:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T050638">2022-05-06 05:06:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T053502">2022-05-06 05:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
