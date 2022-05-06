@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russian spacewalks, visiting Dragons, and science: Expedition 67’s first month at the ISS](https://www.nasaspaceflight.com/2022/05/expedition-67-first-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T230052">2022-05-06 23:00:52 UTC</a></sub>
 * [Splashdown of SpaceX capsule caps busy season of space station crew rotations](https://spaceflightnow.com/2022/05/06/splashdown-of-spacex-capsule-caps-busy-season-of-space-station-crew-rotations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T214302">2022-05-06 21:43:02 UTC</a></sub>
 * [Telesat to order 100 fewer satellites for LEO constellation](https://spacenews.com/telesat-to-order-90-fewer-satellites-for-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T200310">2022-05-06 20:03:10 UTC</a></sub>
 * [Virgin Galactic pushes back commercial suborbital flights to 2023](https://spacenews.com/virgin-galactic-pushes-back-commercial-suborbital-flights-to-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T192327">2022-05-06 19:23:27 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA planning next SLS countdown rehearsal in June](https://spacenews.com/nasa-planning-next-sls-countdown-rehearsal-in-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T112321">2022-05-06 11:23:21 UTC</a></sub>
 * [Rocket Report: Virgin Galactic delayed again, June targeted for next SLS test](https://arstechnica.com/science/2022/05/rocket-report-virgin-galactic-delayed-again-june-targeted-for-next-sls-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T110009">2022-05-06 11:00:09 UTC</a></sub>
 * [SpaceX launches morning Starlink mission from Kennedy Space Center](https://www.nasaspaceflight.com/2022/05/starlink-4-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T065932">2022-05-06 06:59:32 UTC</a></sub>
-* [SpaceX caps an incredibly busy month with a NASA crew landing Friday morning](https://arstechnica.com/science/2022/05/spacex-caps-an-incredibly-busy-month-with-a-nasa-crew-landing-friday-morning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T065835">2022-05-06 06:58:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T230502">2022-05-06 23:05:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T233619">2022-05-06 23:36:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
