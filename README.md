@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, ESA Astronauts Safely Return to Earth](http://www.nasa.gov/press-release/nasa-esa-astronauts-safely-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T060300">2022-05-06 06:03:00 UTC</a></sub>
 * [Crew-3 splashes down in Gulf of Mexico](https://spacenews.com/crew-3-splashes-down-in-gulf-of-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T052326">2022-05-06 05:23:26 UTC</a></sub>
 * [Psyche asteroid explorer arrives at Kennedy Space Center for launch preps](https://spaceflightnow.com/2022/05/05/psyche-asteroid-explorer-arrives-at-kennedy-space-center-for-final-launch-preps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T233310">2022-05-05 23:33:10 UTC</a></sub>
 * [SpaceX Falcon 9 rocket goes vertical for 44th Starlink launch](https://www.teslarati.com/spacex-falcon-9-44th-starlink-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T220350">2022-05-05 22:03:50 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NOAA seeks input on new satellite sensors and digital twin](https://spacenews.com/noaa-baas-emerging-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T170321">2022-05-05 17:03:21 UTC</a></sub>
 * [Science at Sunrise: Solving the Mystery of Frost Hiding on Mars](https://mars.nasa.gov/news/9184/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T164300">2022-05-05 16:43:00 UTC</a></sub>
 * [NASA, Boeing ready for second Starliner test flight](https://spacenews.com/nasa-boeing-ready-for-second-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T162314">2022-05-05 16:23:14 UTC</a></sub>
-* [NASA to Discuss Webb Telescope Alignment, Instrument Setup](http://www.nasa.gov/press-release/nasa-to-discuss-webb-telescope-alignment-instrument-setup) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T153300">2022-05-05 15:33:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T053502">2022-05-06 05:35:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T060817">2022-05-06 06:08:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
