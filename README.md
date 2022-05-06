@@ -179,6 +179,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA planning next SLS countdown rehearsal in June](https://spacenews.com/nasa-planning-next-sls-countdown-rehearsal-in-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T112321">2022-05-06 11:23:21 UTC</a></sub>
+* [Rocket Report: Virgin Galactic delayed again, June targeted for next SLS test](https://arstechnica.com/science/2022/05/rocket-report-virgin-galactic-delayed-again-june-targeted-for-next-sls-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T110009">2022-05-06 11:00:09 UTC</a></sub>
 * [SpaceX launches morning Starlink mission from Kennedy Space Center](https://www.nasaspaceflight.com/2022/05/starlink-4-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T065932">2022-05-06 06:59:32 UTC</a></sub>
 * [SpaceX caps an incredibly busy month with a NASA crew landing Friday morning](https://arstechnica.com/science/2022/05/spacex-caps-an-incredibly-busy-month-with-a-nasa-crew-landing-friday-morning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T065835">2022-05-06 06:58:35 UTC</a></sub>
 * [NASA, ESA Astronauts Safely Return to Earth](http://www.nasa.gov/press-release/nasa-esa-astronauts-safely-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T060300">2022-05-06 06:03:00 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX Falcon 9 rocket goes vertical for 44th Starlink launch](https://www.teslarati.com/spacex-falcon-9-44th-starlink-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T220350">2022-05-05 22:03:50 UTC</a></sub>
 * [One year since SN15, Starbase lays groundwork for orbital attempt](https://www.nasaspaceflight.com/2022/05/one-year-since-sn15-starbase-lays-groundwork-for-orbital-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T211211">2022-05-05 21:12:11 UTC</a></sub>
 * [NASA Invites Media to SpaceX’s 25th Cargo Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-25th-cargo-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T191300">2022-05-05 19:13:00 UTC</a></sub>
-* [Tomorrow.io on track for 2024 weather constellation](https://spacenews.com/tomorrow-io-adds-microwave-sounders/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T180310">2022-05-05 18:03:10 UTC</a></sub>
-* [NOAA seeks input on new satellite sensors and digital twin](https://spacenews.com/noaa-baas-emerging-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T170321">2022-05-05 17:03:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T110305">2022-05-06 11:03:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T113306">2022-05-06 11:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
