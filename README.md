@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [30 years after Intelsat VI rescue, Northrop Grumman aims to make in-space servicing a permanent reality](https://www.nasaspaceflight.com/2022/05/intelsatvi-mrv-mep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T184422">2022-05-07 18:44:22 UTC</a></sub>
 * [Astra prepares for TROPICS launch campaign](https://spacenews.com/astra-prepares-for-tropics-launch-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T173338">2022-05-07 17:33:38 UTC</a></sub>
 * [Deep Blue Aerospace completes kilometer-level rocket launch and landing test](https://spacenews.com/deep-blue-aerospace-completes-kilometer-level-rocket-launch-and-landing-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T132336">2022-05-07 13:23:36 UTC</a></sub>
 * [Russian spacewalks, visiting Dragons, and science: Expedition 67’s first month at the ISS](https://www.nasaspaceflight.com/2022/05/expedition-67-first-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T230052">2022-05-06 23:00:52 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX moved NROL-85 from the Cape to Vandenberg at no extra cost, in exchange for reusing booster](https://spacenews.com/spacex-moved-nrol-85-from-the-cape-to-vandenberg-at-no-extra-cost-in-exchange-for-reusing-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T185324">2022-05-06 18:53:24 UTC</a></sub>
 * [New Intelsat CEO builds out leadership team](https://spacenews.com/new-intelsat-ceo-builds-out-leadership-team/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T154306">2022-05-06 15:43:06 UTC</a></sub>
 * [NASA Administrator to Visit Florida Students, Industry](http://www.nasa.gov/press-release/nasa-administrator-to-visit-florida-students-industry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T152300">2022-05-06 15:23:00 UTC</a></sub>
-* [NASA planning next SLS countdown rehearsal in June](https://spacenews.com/nasa-planning-next-sls-countdown-rehearsal-in-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T112321">2022-05-06 11:23:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T190341">2022-05-07 19:03:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T193238">2022-05-07 19:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
