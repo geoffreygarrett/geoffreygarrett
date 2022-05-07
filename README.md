@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra prepares for TROPICS launch campaign](https://spacenews.com/astra-prepares-for-tropics-launch-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T173338">2022-05-07 17:33:38 UTC</a></sub>
 * [Deep Blue Aerospace completes kilometer-level rocket launch and landing test](https://spacenews.com/deep-blue-aerospace-completes-kilometer-level-rocket-launch-and-landing-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T132336">2022-05-07 13:23:36 UTC</a></sub>
 * [Russian spacewalks, visiting Dragons, and science: Expedition 67’s first month at the ISS](https://www.nasaspaceflight.com/2022/05/expedition-67-first-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T230052">2022-05-06 23:00:52 UTC</a></sub>
 * [Splashdown of SpaceX capsule caps busy season of space station crew rotations](https://spaceflightnow.com/2022/05/06/splashdown-of-spacex-capsule-caps-busy-season-of-space-station-crew-rotations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T214302">2022-05-06 21:43:02 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [New Intelsat CEO builds out leadership team](https://spacenews.com/new-intelsat-ceo-builds-out-leadership-team/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T154306">2022-05-06 15:43:06 UTC</a></sub>
 * [NASA Administrator to Visit Florida Students, Industry](http://www.nasa.gov/press-release/nasa-administrator-to-visit-florida-students-industry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T152300">2022-05-06 15:23:00 UTC</a></sub>
 * [NASA planning next SLS countdown rehearsal in June](https://spacenews.com/nasa-planning-next-sls-countdown-rehearsal-in-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T112321">2022-05-06 11:23:21 UTC</a></sub>
-* [Rocket Report: Virgin Galactic delayed again, June targeted for next SLS test](https://arstechnica.com/science/2022/05/rocket-report-virgin-galactic-delayed-again-june-targeted-for-next-sls-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T110009">2022-05-06 11:00:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T170904">2022-05-07 17:09:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T173701">2022-05-07 17:37:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
