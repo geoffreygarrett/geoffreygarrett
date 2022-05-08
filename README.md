@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA defends decision to shut down SOFIA](https://spacenews.com/nasa-defends-decision-to-shut-down-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T211324">2022-05-08 21:13:24 UTC</a></sub>
 * [FAA and NTSB discussing roles in commercial spaceflight investigations](https://spacenews.com/faa-and-ntsb-discussing-roles-in-commercial-spaceflight-investigations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T223319">2022-05-07 22:33:19 UTC</a></sub>
 * [30 years after Intelsat VI rescue, Northrop Grumman aims to make in-space servicing a permanent reality](https://www.nasaspaceflight.com/2022/05/intelsatvi-mrv-mep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T184422">2022-05-07 18:44:22 UTC</a></sub>
 * [Astra prepares for TROPICS launch campaign](https://spacenews.com/astra-prepares-for-tropics-launch-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T173338">2022-05-07 17:33:38 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Telesat to order 100 fewer satellites for LEO constellation](https://spacenews.com/telesat-to-order-90-fewer-satellites-for-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T200310">2022-05-06 20:03:10 UTC</a></sub>
 * [Virgin Galactic pushes back commercial suborbital flights to 2023](https://spacenews.com/virgin-galactic-pushes-back-commercial-suborbital-flights-to-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T192327">2022-05-06 19:23:27 UTC</a></sub>
 * [SpaceX moved NROL-85 from the Cape to Vandenberg at no extra cost, in exchange for reusing booster](https://spacenews.com/spacex-moved-nrol-85-from-the-cape-to-vandenberg-at-no-extra-cost-in-exchange-for-reusing-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T185324">2022-05-06 18:53:24 UTC</a></sub>
-* [New Intelsat CEO builds out leadership team](https://spacenews.com/new-intelsat-ceo-builds-out-leadership-team/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T154306">2022-05-06 15:43:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T210254">2022-05-08 21:02:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T213400">2022-05-08 21:34:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
