@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After an amazing run on Mars, NASA’s helicopter faces a long, dark winter](https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T133228">2022-05-09 13:32:28 UTC</a></sub>
 * [SpaceX Super Heavy booster returns to launch pad after major repairs](https://www.teslarati.com/spacex-super-heavy-booster-b7-completes-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T110509">2022-05-09 11:05:09 UTC</a></sub>
 * [Momentus receives approvals for first tug launch](https://spacenews.com/momentus-receives-approvals-for-first-tug-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T110347">2022-05-09 11:03:47 UTC</a></sub>
 * [NASA defends decision to shut down SOFIA](https://spacenews.com/nasa-defends-decision-to-shut-down-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T211324">2022-05-08 21:13:24 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Deep Blue Aerospace completes kilometer-level rocket launch and landing test](https://spacenews.com/deep-blue-aerospace-completes-kilometer-level-rocket-launch-and-landing-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T132336">2022-05-07 13:23:36 UTC</a></sub>
 * [Russian spacewalks, visiting Dragons, and science: Expedition 67’s first month at the ISS](https://www.nasaspaceflight.com/2022/05/expedition-67-first-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T230052">2022-05-06 23:00:52 UTC</a></sub>
 * [Splashdown of SpaceX capsule caps busy season of space station crew rotations](https://spaceflightnow.com/2022/05/06/splashdown-of-spacex-capsule-caps-busy-season-of-space-station-crew-rotations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T214302">2022-05-06 21:43:02 UTC</a></sub>
-* [Telesat to order 100 fewer satellites for LEO constellation](https://spacenews.com/telesat-to-order-90-fewer-satellites-for-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T200310">2022-05-06 20:03:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T130415">2022-05-09 13:04:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T135139">2022-05-09 13:51:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
