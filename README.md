@@ -180,7 +180,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [After an amazing run on Mars, NASA’s helicopter faces a long, dark winter](https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T133228">2022-05-09 13:32:28 UTC</a></sub>
+* [CACI to launch experimental satellite to demonstrate alternative to GPS navigation](https://spacenews.com/caci-to-launch-experimental-satellite-to-demonstrate-alternative-to-gps-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T140328">2022-05-09 14:03:28 UTC</a></sub>
+* [As Centaur turns 60 years old, ULA prepares to evolve Centaur V](https://www.nasaspaceflight.com/2022/05/centaur-turns-60/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T135331">2022-05-09 13:53:31 UTC</a></sub>
+* [After losing contact with its helicopter, NASA put the entire Mars mission on hold](https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T133228">2022-05-09 13:32:28 UTC</a></sub>
 * [SpaceX Super Heavy booster returns to launch pad after major repairs](https://www.teslarati.com/spacex-super-heavy-booster-b7-completes-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T110509">2022-05-09 11:05:09 UTC</a></sub>
 * [Momentus receives approvals for first tug launch](https://spacenews.com/momentus-receives-approvals-for-first-tug-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T110347">2022-05-09 11:03:47 UTC</a></sub>
 * [NASA defends decision to shut down SOFIA](https://spacenews.com/nasa-defends-decision-to-shut-down-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T211324">2022-05-08 21:13:24 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [30 years after Intelsat VI rescue, Northrop Grumman aims to make in-space servicing a permanent reality](https://www.nasaspaceflight.com/2022/05/intelsatvi-mrv-mep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T184422">2022-05-07 18:44:22 UTC</a></sub>
 * [Astra prepares for TROPICS launch campaign](https://spacenews.com/astra-prepares-for-tropics-launch-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T173338">2022-05-07 17:33:38 UTC</a></sub>
 * [Deep Blue Aerospace completes kilometer-level rocket launch and landing test](https://spacenews.com/deep-blue-aerospace-completes-kilometer-level-rocket-launch-and-landing-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T132336">2022-05-07 13:23:36 UTC</a></sub>
-* [Russian spacewalks, visiting Dragons, and science: Expedition 67’s first month at the ISS](https://www.nasaspaceflight.com/2022/05/expedition-67-first-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T230052">2022-05-06 23:00:52 UTC</a></sub>
-* [Splashdown of SpaceX capsule caps busy season of space station crew rotations](https://spaceflightnow.com/2022/05/06/splashdown-of-spacex-capsule-caps-busy-season-of-space-station-crew-rotations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T214302">2022-05-06 21:43:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T140309">2022-05-09 14:03:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T143428">2022-05-09 14:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
