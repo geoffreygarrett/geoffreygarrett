@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s Glenn Research Center Director to Retire](http://www.nasa.gov/press-release/nasa-s-glenn-research-center-director-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T165300">2022-05-09 16:53:00 UTC</a></sub>
+* [South Korea’s new president seeks independent space agency, deeper US space cooperation](https://spacenews.com/south-koreas-new-president-seeks-independent-space-agency-deeper-us-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T155326">2022-05-09 15:53:26 UTC</a></sub>
 * [NASA’s SpaceX Crew-3 to Discuss Mission After Returning to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-to-discuss-mission-after-returning-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T152300">2022-05-09 15:23:00 UTC</a></sub>
 * [CACI to launch experimental satellite to demonstrate alternative to GPS navigation](https://spacenews.com/caci-to-launch-experimental-satellite-to-demonstrate-alternative-to-gps-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T140328">2022-05-09 14:03:28 UTC</a></sub>
 * [As Centaur turns 60 years old, ULA prepares to evolve Centaur V](https://www.nasaspaceflight.com/2022/05/centaur-turns-60/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T135331">2022-05-09 13:53:31 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Momentus receives approvals for first tug launch](https://spacenews.com/momentus-receives-approvals-for-first-tug-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T110347">2022-05-09 11:03:47 UTC</a></sub>
 * [NASA defends decision to shut down SOFIA](https://spacenews.com/nasa-defends-decision-to-shut-down-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T211324">2022-05-08 21:13:24 UTC</a></sub>
 * [FAA and NTSB discussing roles in commercial spaceflight investigations](https://spacenews.com/faa-and-ntsb-discussing-roles-in-commercial-spaceflight-investigations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T223319">2022-05-07 22:33:19 UTC</a></sub>
-* [30 years after Intelsat VI rescue, Northrop Grumman aims to make in-space servicing a permanent reality](https://www.nasaspaceflight.com/2022/05/intelsatvi-mrv-mep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T184422">2022-05-07 18:44:22 UTC</a></sub>
-* [Astra prepares for TROPICS launch campaign](https://spacenews.com/astra-prepares-for-tropics-launch-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T173338">2022-05-07 17:33:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T160743">2022-05-09 16:07:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T165845">2022-05-09 16:58:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
