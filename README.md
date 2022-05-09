@@ -179,16 +179,16 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's InSight Records Monster Quake on Mars](https://mars.nasa.gov/news/9185/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T223300">2022-05-09 22:33:00 UTC</a></sub>
+* [SpaceX agrees to launch dozens of Satellogic Earth imaging satellites](https://www.teslarati.com/spacex-satellogic-68-satellite-launch-agreement-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222403">2022-05-09 22:24:03 UTC</a></sub>
+* [Globalstar agrees terms with “global customer” for terrestrial connectivity](https://spacenews.com/globalstar-agrees-terms-with-global-customer-for-terrestrial-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222339">2022-05-09 22:23:39 UTC</a></sub>
+* [NASA, Boeing to Discuss Readiness of Uncrewed Flight Test](http://www.nasa.gov/press-release/nasa-boeing-to-discuss-readiness-of-uncrewed-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222300">2022-05-09 22:23:00 UTC</a></sub>
 * [China launches Tianzhou 4 cargo ship for space station](https://spaceflightnow.com/2022/05/09/long-march-7-tianzhou-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T184318">2022-05-09 18:43:18 UTC</a></sub>
 * [Tianzhou 4 cargo launch to begin busy space station year for China](https://www.nasaspaceflight.com/2022/05/tianzhou-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T170739">2022-05-09 17:07:39 UTC</a></sub>
 * [NASA’s Glenn Research Center Director to Retire](http://www.nasa.gov/press-release/nasa-s-glenn-research-center-director-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T165300">2022-05-09 16:53:00 UTC</a></sub>
 * [South Korea’s new president seeks independent space agency, deeper US space cooperation](https://spacenews.com/south-koreas-new-president-seeks-independent-space-agency-deeper-us-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T155326">2022-05-09 15:53:26 UTC</a></sub>
 * [NASA’s SpaceX Crew-3 to Discuss Mission After Returning to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-to-discuss-mission-after-returning-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T152300">2022-05-09 15:23:00 UTC</a></sub>
 * [CACI to launch experimental satellite to demonstrate alternative to GPS navigation](https://spacenews.com/caci-to-launch-experimental-satellite-to-demonstrate-alternative-to-gps-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T140328">2022-05-09 14:03:28 UTC</a></sub>
-* [As Centaur turns 60 years old, ULA prepares to evolve Centaur V](https://www.nasaspaceflight.com/2022/05/centaur-turns-60/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T135331">2022-05-09 13:53:31 UTC</a></sub>
-* [After losing contact with its helicopter, NASA put the entire Mars mission on hold](https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T133228">2022-05-09 13:32:28 UTC</a></sub>
-* [SpaceX Super Heavy booster returns to launch pad after major repairs](https://www.teslarati.com/spacex-super-heavy-booster-b7-completes-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T110509">2022-05-09 11:05:09 UTC</a></sub>
-* [Momentus receives approvals for first tug launch](https://spacenews.com/momentus-receives-approvals-for-first-tug-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T110347">2022-05-09 11:03:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T220341">2022-05-09 22:03:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T223730">2022-05-09 22:37:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
