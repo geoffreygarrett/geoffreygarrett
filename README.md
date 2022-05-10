@@ -180,6 +180,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX training begins this month for first commercial spacewalk mission](https://spaceflightnow.com/2022/05/10/spacex-training-begins-this-month-for-first-commercial-spacewalk-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T213332">2022-05-10 21:33:32 UTC</a></sub>
+* [Space Force to invest in testing infrastructure to evaluate new systems](https://spacenews.com/space-force-to-invest-in-testing-infrastructure-to-evaluate-new-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T212338">2022-05-10 21:23:38 UTC</a></sub>
 * [Spire Global adding high-capacity Ku-band antennas to satellites](https://spacenews.com/spire-global-adding-high-capacity-ku-band-antennas-to-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T201337">2022-05-10 20:13:37 UTC</a></sub>
 * [NASA to Provide Update on InSight Mars Lander](http://www.nasa.gov/press-release/nasa-to-provide-update-on-insight-mars-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T194300">2022-05-10 19:43:00 UTC</a></sub>
 * [National Reconnaissance Office partners with U.K. on space mission to fly on Virgin Orbit rocket](https://spacenews.com/national-reconnaissance-office-to-launch-mission-on-virgin-orbit-rocket-from-u-k-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T145336">2022-05-10 14:53:36 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX preparing for back-to-back Starlink launches from California and Florida](https://www.teslarati.com/spacex-back-to-back-starlink-launches-may-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T111356">2022-05-10 11:13:56 UTC</a></sub>
 * [Astra to launch from U.K. spaceport](https://spacenews.com/astra-to-launch-from-u-k-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T101335">2022-05-10 10:13:35 UTC</a></sub>
 * [Tianzhou-4 cargo craft docks with Chinese space station](https://spacenews.com/tianzhou-4-cargo-craft-docks-with-chinese-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T084336">2022-05-10 08:43:36 UTC</a></sub>
-* [NASA's InSight Records Monster Quake on Mars](https://mars.nasa.gov/news/9185/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T223300">2022-05-09 22:33:00 UTC</a></sub>
-* [SpaceX agrees to launch dozens of Satellogic Earth imaging satellites](https://www.teslarati.com/spacex-satellogic-68-satellite-launch-agreement-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222403">2022-05-09 22:24:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T210240">2022-05-10 21:02:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T213521">2022-05-10 21:35:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
