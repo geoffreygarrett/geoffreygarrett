@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Spire Global adding high-capacity Ku-band antennas to satellites](https://spacenews.com/spire-global-adding-high-capacity-ku-band-antennas-to-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T201337">2022-05-10 20:13:37 UTC</a></sub>
 * [NASA to Provide Update on InSight Mars Lander](http://www.nasa.gov/press-release/nasa-to-provide-update-on-insight-mars-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T194300">2022-05-10 19:43:00 UTC</a></sub>
 * [National Reconnaissance Office partners with U.K. on space mission to fly on Virgin Orbit rocket](https://spacenews.com/national-reconnaissance-office-to-launch-mission-on-virgin-orbit-rocket-from-u-k-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T145336">2022-05-10 14:53:36 UTC</a></sub>
 * [India, France agree to cooperate on secure access to outer space, space-based challenges](https://spacenews.com/india-france-agree-to-cooperate-on-secure-access-to-outer-space-space-based-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T132337">2022-05-10 13:23:37 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Tianzhou-4 cargo craft docks with Chinese space station](https://spacenews.com/tianzhou-4-cargo-craft-docks-with-chinese-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T084336">2022-05-10 08:43:36 UTC</a></sub>
 * [NASA's InSight Records Monster Quake on Mars](https://mars.nasa.gov/news/9185/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T223300">2022-05-09 22:33:00 UTC</a></sub>
 * [SpaceX agrees to launch dozens of Satellogic Earth imaging satellites](https://www.teslarati.com/spacex-satellogic-68-satellite-launch-agreement-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222403">2022-05-09 22:24:03 UTC</a></sub>
-* [Globalstar agrees terms with “global customer” for terrestrial connectivity](https://spacenews.com/globalstar-agrees-terms-with-global-customer-for-terrestrial-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222339">2022-05-09 22:23:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T203642">2022-05-10 20:36:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T210240">2022-05-10 21:02:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
