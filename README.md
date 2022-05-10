@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Tianzhou-4 cargo craft docks with Chinese space station](https://spacenews.com/tianzhou-4-cargo-craft-docks-with-chinese-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T084336">2022-05-10 08:43:36 UTC</a></sub>
 * [NASA's InSight Records Monster Quake on Mars](https://mars.nasa.gov/news/9185/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T223300">2022-05-09 22:33:00 UTC</a></sub>
 * [SpaceX agrees to launch dozens of Satellogic Earth imaging satellites](https://www.teslarati.com/spacex-satellogic-68-satellite-launch-agreement-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222403">2022-05-09 22:24:03 UTC</a></sub>
 * [Globalstar agrees terms with “global customer” for terrestrial connectivity](https://spacenews.com/globalstar-agrees-terms-with-global-customer-for-terrestrial-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222339">2022-05-09 22:23:39 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [South Korea’s new president seeks independent space agency, deeper US space cooperation](https://spacenews.com/south-koreas-new-president-seeks-independent-space-agency-deeper-us-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T155326">2022-05-09 15:53:26 UTC</a></sub>
 * [NASA’s SpaceX Crew-3 to Discuss Mission After Returning to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-to-discuss-mission-after-returning-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T152300">2022-05-09 15:23:00 UTC</a></sub>
 * [CACI to launch experimental satellite to demonstrate alternative to GPS navigation](https://spacenews.com/caci-to-launch-experimental-satellite-to-demonstrate-alternative-to-gps-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T140328">2022-05-09 14:03:28 UTC</a></sub>
-* [As Centaur turns 60 years old, ULA prepares to evolve Centaur V](https://www.nasaspaceflight.com/2022/05/centaur-turns-60/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T135331">2022-05-09 13:53:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T090638">2022-05-10 09:06:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T093804">2022-05-10 09:38:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
