@@ -180,6 +180,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes](https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T112341">2022-05-11 11:23:41 UTC</a></sub>
+* [SpaceX President updates schedule for Starship’s orbital launch debut](https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111417">2022-05-11 11:14:17 UTC</a></sub>
+* [Electric vehicle company with NASA contract issues financial warning](https://spacenews.com/electric-vehicle-company-with-nasa-contract-issues-financial-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111335">2022-05-11 11:13:35 UTC</a></sub>
 * [SpaceX training begins this month for first commercial spacewalk mission](https://spaceflightnow.com/2022/05/10/spacex-training-begins-this-month-for-first-commercial-spacewalk-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T213332">2022-05-10 21:33:32 UTC</a></sub>
 * [Space Force to invest in testing infrastructure to evaluate new systems](https://spacenews.com/space-force-to-invest-in-testing-infrastructure-to-evaluate-new-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T212338">2022-05-10 21:23:38 UTC</a></sub>
 * [Spire Global adding high-capacity Ku-band antennas to satellites](https://spacenews.com/spire-global-adding-high-capacity-ku-band-antennas-to-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T201337">2022-05-10 20:13:37 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [National Reconnaissance Office partners with U.K. on space mission to fly on Virgin Orbit rocket](https://spacenews.com/national-reconnaissance-office-to-launch-mission-on-virgin-orbit-rocket-from-u-k-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T145336">2022-05-10 14:53:36 UTC</a></sub>
 * [India, France agree to cooperate on secure access to outer space, space-based challenges](https://spacenews.com/india-france-agree-to-cooperate-on-secure-access-to-outer-space-space-based-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T132337">2022-05-10 13:23:37 UTC</a></sub>
 * [Entrepreneurs create a space “academy” as commercial space flourishes](https://arstechnica.com/science/2022/05/entrepreneurs-create-a-space-academy-as-commercial-space-flourishes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T130553">2022-05-10 13:05:53 UTC</a></sub>
-* [SpaceX preparing for back-to-back Starlink launches from California and Florida](https://www.teslarati.com/spacex-back-to-back-starlink-launches-may-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T111356">2022-05-10 11:13:56 UTC</a></sub>
-* [Astra to launch from U.K. spaceport](https://spacenews.com/astra-to-launch-from-u-k-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T101335">2022-05-10 10:13:35 UTC</a></sub>
-* [Tianzhou-4 cargo craft docks with Chinese space station](https://spacenews.com/tianzhou-4-cargo-craft-docks-with-chinese-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T084336">2022-05-10 08:43:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T110227">2022-05-11 11:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T113316">2022-05-11 11:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
