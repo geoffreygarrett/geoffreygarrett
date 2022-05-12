@@ -189,7 +189,7 @@ region. The mission's status is currently Go for Launch
 * [SpaceX President updates schedule for Starship’s orbital launch debut](https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111417">2022-05-11 11:14:17 UTC</a></sub>
 * [Electric vehicle company with NASA contract issues financial warning](https://spacenews.com/electric-vehicle-company-with-nasa-contract-issues-financial-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111335">2022-05-11 11:13:35 UTC</a></sub>
 * [Boeing clashes with key supplier ahead of Starliner spacecraft launch](https://www.reuters.com/business/aerospace-defense/exclusive-boeing-clashes-with-key-supplier-ahead-starliner-spacecraft-launch-2022-05-11/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T101500">2022-05-11 10:15:00 UTC</a></sub>
-* [Northrop Grumman ays it has backup plan for ISS resupply, but silent on details](https://spaceflightnow.com/2022/05/11/facing-rocket-supply-crunch-northrop-grumman-says-it-has-backup-options-for-iss-resupply/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T003338">2022-05-11 00:33:38 UTC</a></sub>
+* [Virgin Orbit projects growth despite widening loss](https://spacenews.com/virgin-orbit-projects-growth-despite-widening-loss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T023336">2022-05-11 02:33:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T022909">2022-05-12 02:29:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T032953">2022-05-12 03:29:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
