@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Colorado Students to Hear from Astronauts Aboard Space Station](http://www.nasa.gov/press-release/colorado-students-to-hear-from-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T185300">2022-05-12 18:53:00 UTC</a></sub>
 * [Boeing considering redesign of Starliner valves](https://spacenews.com/boeing-considering-redesign-of-starliner-valves/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T114336">2022-05-12 11:43:36 UTC</a></sub>
 * [Melting Arctic ice opens new front in strategic power competition](https://spacenews.com/melting-arctic-ice-opens-new-front-in-strategic-power-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T112351">2022-05-12 11:23:51 UTC</a></sub>
 * [SpaceX ready to begin training astronauts for first private spacewalk](https://www.teslarati.com/spacex-polaris-first-private-spacewalk-astronaut-training/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T110409">2022-05-12 11:04:09 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [NASA managers clear Boeing’s Starliner for second try to reach space station](https://spaceflightnow.com/2022/05/11/nasa-managers-clear-boeings-starliner-capsule-for-second-try-to-reach-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T170333">2022-05-11 17:03:33 UTC</a></sub>
 * [As U.S. blames Russia for KA-SAT hack, Starlink sees growing threat](https://spacenews.com/as-us-blames-russia-for-ka-sat-hack-starlink-sees-growing-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T125338">2022-05-11 12:53:38 UTC</a></sub>
 * [Colombia signs Artemis Accords](https://spacenews.com/colombia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T115337">2022-05-11 11:53:37 UTC</a></sub>
-* [Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes](https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T112341">2022-05-11 11:23:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T190155">2022-05-12 19:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T193106">2022-05-12 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
