@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing considering redesign of Starliner valves](https://spacenews.com/boeing-considering-redesign-of-starliner-valves/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T114336">2022-05-12 11:43:36 UTC</a></sub>
 * [Melting Arctic ice opens new front in strategic power competition](https://spacenews.com/melting-arctic-ice-opens-new-front-in-strategic-power-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T112351">2022-05-12 11:23:51 UTC</a></sub>
 * [SpaceX ready to begin training astronauts for first private spacewalk](https://www.teslarati.com/spacex-polaris-first-private-spacewalk-astronaut-training/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T110409">2022-05-12 11:04:09 UTC</a></sub>
 * [Boeing, NASA teams give Starliner final go for OFT-2 mission](https://www.nasaspaceflight.com/2022/05/oft-2-frr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T234534">2022-05-11 23:45:34 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [Colombia signs Artemis Accords](https://spacenews.com/colombia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T115337">2022-05-11 11:53:37 UTC</a></sub>
 * [Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes](https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T112341">2022-05-11 11:23:41 UTC</a></sub>
 * [SpaceX President updates schedule for Starship’s orbital launch debut](https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111417">2022-05-11 11:14:17 UTC</a></sub>
-* [Electric vehicle company with NASA contract issues financial warning](https://spacenews.com/electric-vehicle-company-with-nasa-contract-issues-financial-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111335">2022-05-11 11:13:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T113402">2022-05-12 11:34:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T121030">2022-05-12 12:10:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
