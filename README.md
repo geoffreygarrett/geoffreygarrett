@@ -97,15 +97,15 @@ Falcon 9 Block 5 | Starlink Group 4-13 at the
 <a href="">Space Launch Complex 4E</a> in
 Vandenberg SFB, CA, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T222900">2022-05-12 22:29:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T220700">2022-05-13 22:07:00 UTC</a>. Until
 then, this launch pad will have seen 90
 out of 696 launches in this
-region. The mission's status is currently To Be Confirmed
-(TBC) 🟨  which means:
-*awaiting official confirmation - current date is known with some certainty.* 
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -125,7 +125,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-13</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T222900">2022-05-12 22:29:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-13&location=Vandenberg SFB, CA, USA&dates=20220512T222900Z%2F20220512T222900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-13</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T220700">2022-05-13 22:07:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-13&location=Vandenberg SFB, CA, USA&dates=20220513T220700Z%2F20220513T220700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-15</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T203800">2022-05-14 20:38:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-15&location=Cape Canaveral, FL, USA&dates=20220514T203800Z%2F20220514T203800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-18</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T090000">2022-05-18 09:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-18&location=Kennedy Space Center, FL, USA&dates=20220518T090000Z%2F20220518T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>CST-100 Starliner Orbital Flight Test 2 (OFT-2)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T225444">2022-05-19 22:54:44 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)&location=Cape Canaveral, FL, USA&dates=20220519T225444Z%2F20220519T225444Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -189,7 +189,7 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX President updates schedule for Starship’s orbital launch debut](https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111417">2022-05-11 11:14:17 UTC</a></sub>
 * [Electric vehicle company with NASA contract issues financial warning](https://spacenews.com/electric-vehicle-company-with-nasa-contract-issues-financial-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111335">2022-05-11 11:13:35 UTC</a></sub>
 * [Boeing clashes with key supplier ahead of Starliner spacecraft launch](https://www.reuters.com/business/aerospace-defense/exclusive-boeing-clashes-with-key-supplier-ahead-starliner-spacecraft-launch-2022-05-11/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T101500">2022-05-11 10:15:00 UTC</a></sub>
-* [Northrop Grumman ays it has backup plan for ISS resupply, but mum on details](https://spaceflightnow.com/2022/05/11/facing-rocket-supply-crunch-northrop-grumman-says-it-has-backup-options-for-iss-resupply/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T002334">2022-05-11 00:23:34 UTC</a></sub>
+* [Northrop Grumman ays it has backup plan for ISS resupply, but silent on details](https://spaceflightnow.com/2022/05/11/facing-rocket-supply-crunch-northrop-grumman-says-it-has-backup-options-for-iss-resupply/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T003338">2022-05-11 00:33:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T002930">2022-05-12 00:29:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T022909">2022-05-12 02:29:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
