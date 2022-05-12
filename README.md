@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing, NASA teams give Starliner final go for OFT-2 mission](https://www.nasaspaceflight.com/2022/05/oft-2-frr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T234534">2022-05-11 23:45:34 UTC</a></sub>
 * [As US blames Russia for KA-SAT hack, Starlink sees growing threat](https://spacenews.com/as-us-blames-russia-for-ka-sat-hack-starlink-sees-growing-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T214335">2022-05-11 21:43:35 UTC</a></sub>
 * [Vega C prepped for maiden flight in June](https://spaceflightnow.com/2022/05/11/vega-c-prepped-for-maiden-flight-in-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T193332">2022-05-11 19:33:32 UTC</a></sub>
 * [Orbex unveils prototype of rocket preparing for UK’s first vertical launch](https://spacenews.com/orbex-unveils-prototype-of-rocket-preparing-for-uks-first-vertical-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T184335">2022-05-11 18:43:35 UTC</a></sub>
@@ -188,8 +189,7 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX President updates schedule for Starship’s orbital launch debut](https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111417">2022-05-11 11:14:17 UTC</a></sub>
 * [Electric vehicle company with NASA contract issues financial warning](https://spacenews.com/electric-vehicle-company-with-nasa-contract-issues-financial-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111335">2022-05-11 11:13:35 UTC</a></sub>
 * [Boeing clashes with key supplier ahead of Starliner spacecraft launch](https://www.reuters.com/business/aerospace-defense/exclusive-boeing-clashes-with-key-supplier-ahead-starliner-spacecraft-launch-2022-05-11/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T101500">2022-05-11 10:15:00 UTC</a></sub>
-* [SpaceX training begins this month for first commercial spacewalk mission](https://spaceflightnow.com/2022/05/10/spacex-training-begins-this-month-for-first-commercial-spacewalk-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T213332">2022-05-10 21:33:32 UTC</a></sub>
-* [Space Force to invest in testing infrastructure to evaluate new systems](https://spacenews.com/space-force-to-invest-in-testing-infrastructure-to-evaluate-new-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T212338">2022-05-10 21:23:38 UTC</a></sub>
+* [Northrop Grumman ays it has backup plan for ISS resupply, but mum on details](https://spaceflightnow.com/2022/05/11/facing-rocket-supply-crunch-northrop-grumman-says-it-has-backup-options-for-iss-resupply/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T002334">2022-05-11 00:23:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T233831">2022-05-11 23:38:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T002930">2022-05-12 00:29:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
