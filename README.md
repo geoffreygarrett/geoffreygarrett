@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Manchin introduces bipartisan bill to establish Space National Guard](https://spacenews.com/manchin-introduces-bipartisan-bill-to-establish-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T201343">2022-05-12 20:13:43 UTC</a></sub>
 * [Astronomers unveil first image of the Milky Way’s central black hole](https://spaceflightnow.com/2022/05/12/astronomers-unveil-first-image-of-the-milky-ways-central-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T194333">2022-05-12 19:43:33 UTC</a></sub>
 * [Colorado Students to Hear from Astronauts Aboard Space Station](http://www.nasa.gov/press-release/colorado-students-to-hear-from-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T185300">2022-05-12 18:53:00 UTC</a></sub>
 * [Boeing considering redesign of Starliner valves](https://spacenews.com/boeing-considering-redesign-of-starliner-valves/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T114336">2022-05-12 11:43:36 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [Vega C prepped for maiden flight in June](https://spaceflightnow.com/2022/05/11/vega-c-prepped-for-maiden-flight-in-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T193332">2022-05-11 19:33:32 UTC</a></sub>
 * [Orbex unveils prototype of rocket preparing for UK’s first vertical launch](https://spacenews.com/orbex-unveils-prototype-of-rocket-preparing-for-uks-first-vertical-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T184335">2022-05-11 18:43:35 UTC</a></sub>
 * [NASA managers clear Boeing’s Starliner for second try to reach space station](https://spaceflightnow.com/2022/05/11/nasa-managers-clear-boeings-starliner-capsule-for-second-try-to-reach-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T170333">2022-05-11 17:03:33 UTC</a></sub>
-* [As U.S. blames Russia for KA-SAT hack, Starlink sees growing threat](https://spacenews.com/as-us-blames-russia-for-ka-sat-hack-starlink-sees-growing-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T125338">2022-05-11 12:53:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T200707">2022-05-12 20:07:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T203827">2022-05-12 20:38:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
