@@ -182,6 +182,7 @@ NOTE: Payload identity unconfirmed.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Coverage Set for NASA’s Boeing OFT-2 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-oft-2-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T213400">2022-05-12 21:34:00 UTC</a></sub>
 * [SES mulls direct-to-handheld 5G satellite business](https://spacenews.com/ses-mulls-direct-to-handheld-5g-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T213343">2022-05-12 21:33:43 UTC</a></sub>
 * [NOAA reveals first images from new weather satellite](https://spaceflightnow.com/2022/05/12/noaa-reveals-first-images-from-new-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T210332">2022-05-12 21:03:32 UTC</a></sub>
 * [Manchin introduces bipartisan bill to establish Space National Guard](https://spacenews.com/manchin-introduces-bipartisan-bill-to-establish-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T201343">2022-05-12 20:13:43 UTC</a></sub>
@@ -191,7 +192,6 @@ NOTE: Payload identity unconfirmed.
 * [Melting Arctic ice opens new front in strategic power competition](https://spacenews.com/melting-arctic-ice-opens-new-front-in-strategic-power-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T112351">2022-05-12 11:23:51 UTC</a></sub>
 * [SpaceX ready to begin training astronauts for first private spacewalk](https://www.teslarati.com/spacex-polaris-first-private-spacewalk-astronaut-training/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T110409">2022-05-12 11:04:09 UTC</a></sub>
 * [Boeing, NASA teams give Starliner final go for OFT-2 mission](https://www.nasaspaceflight.com/2022/05/oft-2-frr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T234534">2022-05-11 23:45:34 UTC</a></sub>
-* [Vega C prepped for maiden flight in June](https://spaceflightnow.com/2022/05/11/vega-c-prepped-for-maiden-flight-in-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T193332">2022-05-11 19:33:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T213400">2022-05-12 21:34:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T220708">2022-05-12 22:07:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
