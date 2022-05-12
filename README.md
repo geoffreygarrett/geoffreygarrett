@@ -188,10 +188,10 @@ NOTE: Payload identity unconfirmed.
 * [Boeing, NASA teams give Starliner final go for OFT-2 mission](https://www.nasaspaceflight.com/2022/05/oft-2-frr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T234534">2022-05-11 23:45:34 UTC</a></sub>
 * [Vega C prepped for maiden flight in June](https://spaceflightnow.com/2022/05/11/vega-c-prepped-for-maiden-flight-in-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T193332">2022-05-11 19:33:32 UTC</a></sub>
 * [Orbex unveils prototype of rocket preparing for UK’s first vertical launch](https://spacenews.com/orbex-unveils-prototype-of-rocket-preparing-for-uks-first-vertical-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T184335">2022-05-11 18:43:35 UTC</a></sub>
+* [NASA managers clear Boeing’s Starliner for second try to reach space station](https://spaceflightnow.com/2022/05/11/nasa-managers-clear-boeings-starliner-capsule-for-second-try-to-reach-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T170333">2022-05-11 17:03:33 UTC</a></sub>
 * [As U.S. blames Russia for KA-SAT hack, Starlink sees growing threat](https://spacenews.com/as-us-blames-russia-for-ka-sat-hack-starlink-sees-growing-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T125338">2022-05-11 12:53:38 UTC</a></sub>
 * [Colombia signs Artemis Accords](https://spacenews.com/colombia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T115337">2022-05-11 11:53:37 UTC</a></sub>
 * [Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes](https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T112341">2022-05-11 11:23:41 UTC</a></sub>
-* [SpaceX President updates schedule for Starship’s orbital launch debut](https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111417">2022-05-11 11:14:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T172456">2022-05-12 17:24:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T174348">2022-05-12 17:43:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
