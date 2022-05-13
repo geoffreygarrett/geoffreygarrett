@@ -179,6 +179,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese rocket company suffers third consecutive launch failure](https://spacenews.com/chinese-rocket-company-suffers-third-consecutive-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T112339">2022-05-13 11:23:39 UTC</a></sub>
+* [SpaceX’s repaired Starship booster survives back-to-back cryoproof tests](https://www.teslarati.com/spacex-super-heavy-b7-back-to-back-cryoproofs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T111409">2022-05-13 11:14:09 UTC</a></sub>
+* [ISS partnership feeling some effects of sanctions on Russia](https://spacenews.com/iss-partnership-feeling-some-effects-of-sanctions-on-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T111341">2022-05-13 11:13:41 UTC</a></sub>
 * [Arctic connectivity competition is heating up](https://spacenews.com/arctic-connectivity-competition-is-heating-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T102338">2022-05-13 10:23:38 UTC</a></sub>
 * [Coverage Set for NASA’s Boeing OFT-2 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-oft-2-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T213400">2022-05-12 21:34:00 UTC</a></sub>
 * [SES mulls direct-to-handheld 5G satellite business](https://spacenews.com/ses-mulls-direct-to-handheld-5g-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T213343">2022-05-12 21:33:43 UTC</a></sub>
@@ -186,9 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Manchin introduces bipartisan bill to establish Space National Guard](https://spacenews.com/manchin-introduces-bipartisan-bill-to-establish-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T201343">2022-05-12 20:13:43 UTC</a></sub>
 * [Astronomers unveil first image of the Milky Way’s central black hole](https://spaceflightnow.com/2022/05/12/astronomers-unveil-first-image-of-the-milky-ways-central-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T194333">2022-05-12 19:43:33 UTC</a></sub>
 * [Colorado Students to Hear from Astronauts Aboard Space Station](http://www.nasa.gov/press-release/colorado-students-to-hear-from-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T185300">2022-05-12 18:53:00 UTC</a></sub>
-* [Boeing considering redesign of Starliner valves](https://spacenews.com/boeing-considering-redesign-of-starliner-valves/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T114336">2022-05-12 11:43:36 UTC</a></sub>
-* [Melting Arctic ice opens new front in strategic power competition](https://spacenews.com/melting-arctic-ice-opens-new-front-in-strategic-power-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T112351">2022-05-12 11:23:51 UTC</a></sub>
-* [SpaceX ready to begin training astronauts for first private spacewalk](https://www.teslarati.com/spacex-polaris-first-private-spacewalk-astronaut-training/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T110409">2022-05-12 11:04:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T110348">2022-05-13 11:03:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T113455">2022-05-13 11:34:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
