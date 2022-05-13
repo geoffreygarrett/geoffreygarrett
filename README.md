@@ -199,6 +199,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Your cosmic community](https://www.planetary.org/the-downlink/your-cosmic-community) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T143401">2022-05-13 14:34:01 UTC</a></sub>
 * [When to worry about an asteroid striking Earth](https://www.planetary.org/articles/asteroid-hitting-earth-when-to-worry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T140355">2022-05-10 14:03:55 UTC</a></sub>
 * [That’s so metal](https://www.planetary.org/the-downlink/thats-so-metal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T143414">2022-05-06 14:34:14 UTC</a></sub>
 * [OFT-2: Atlas V and Starliner joined for launch](https://blog.ulalaunch.com/blog/oft-2-atlas-v-and-starliner-joined-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T205332">2022-05-04 20:53:32 UTC</a></sub>
@@ -208,7 +209,6 @@ region. The mission's status is currently Go for Launch
 * [Our planet’s day in the sun](https://www.planetary.org/the-downlink/our-planets-day-in-the-sun) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T143358">2022-04-22 14:33:58 UTC</a></sub>
 * [Are we trashing space?](https://www.planetary.org/articles/space-trash) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T140932">2022-04-21 14:09:32 UTC</a></sub>
 * [Planetary Science Decadal Survey: After the Red Planet, an Ice Giant](https://www.planetary.org/articles/the-2022-planetary-decadal-released) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T161931">2022-04-19 16:19:31 UTC</a></sub>
-* [Earthlings off-planet](https://www.planetary.org/the-downlink/earthlings-off-planet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T143034">2022-04-15 14:30:34 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T141753">2022-05-13 14:17:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T143852">2022-05-13 14:38:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
