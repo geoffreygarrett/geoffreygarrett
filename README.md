@@ -191,7 +191,7 @@ NOTE: Payload identity unconfirmed.
 * [Boeing considering redesign of Starliner valves](https://spacenews.com/boeing-considering-redesign-of-starliner-valves/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T114336">2022-05-12 11:43:36 UTC</a></sub>
 * [Melting Arctic ice opens new front in strategic power competition](https://spacenews.com/melting-arctic-ice-opens-new-front-in-strategic-power-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T112351">2022-05-12 11:23:51 UTC</a></sub>
 * [SpaceX ready to begin training astronauts for first private spacewalk](https://www.teslarati.com/spacex-polaris-first-private-spacewalk-astronaut-training/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T110409">2022-05-12 11:04:09 UTC</a></sub>
-* [Boeing, NASA teams give Starliner final go for OFT-2 mission](https://www.nasaspaceflight.com/2022/05/oft-2-frr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T234534">2022-05-11 23:45:34 UTC</a></sub>
+* [Space Force to select small rocket for ‘responsive space’ mission](https://spacenews.com/space-force-to-select-small-rocket-for-responsive-space-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T002340">2022-05-12 00:23:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T233827">2022-05-12 23:38:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T003818">2022-05-13 00:38:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
