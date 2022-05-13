@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese startup suffers third consecutive launch failure](https://spaceflightnow.com/2022/05/13/chinese-startup-suffers-third-consecutive-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T171331">2022-05-13 17:13:31 UTC</a></sub>
 * [SpaceX planning two Starlink launches Friday and Saturday, weather permitting](https://spaceflightnow.com/2022/05/13/spacex-planning-two-starlink-launches-friday-and-saturday-weather-permitting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T144331">2022-05-13 14:43:31 UTC</a></sub>
 * [Chinese rocket company suffers third consecutive launch failure](https://spacenews.com/chinese-rocket-company-suffers-third-consecutive-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T112339">2022-05-13 11:23:39 UTC</a></sub>
 * [SpaceX’s repaired Starship booster survives back-to-back cryoproof tests](https://www.teslarati.com/spacex-super-heavy-b7-back-to-back-cryoproofs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T111409">2022-05-13 11:14:09 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [SES mulls direct-to-handheld 5G satellite business](https://spacenews.com/ses-mulls-direct-to-handheld-5g-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T213343">2022-05-12 21:33:43 UTC</a></sub>
 * [NOAA reveals first images from new weather satellite](https://spaceflightnow.com/2022/05/12/noaa-reveals-first-images-from-new-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T210332">2022-05-12 21:03:32 UTC</a></sub>
 * [Manchin introduces bipartisan bill to establish Space National Guard](https://spacenews.com/manchin-introduces-bipartisan-bill-to-establish-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T201343">2022-05-12 20:13:43 UTC</a></sub>
-* [Astronomers unveil first image of the Milky Way’s central black hole](https://spaceflightnow.com/2022/05/12/astronomers-unveil-first-image-of-the-milky-ways-central-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T194333">2022-05-12 19:43:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T172448">2022-05-13 17:24:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T174447">2022-05-13 17:44:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
