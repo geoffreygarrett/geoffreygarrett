@@ -187,7 +187,7 @@ region. The mission's status is currently Go for Launch
 * [SpaceX’s repaired Starship booster survives back-to-back cryoproof tests](https://www.teslarati.com/spacex-super-heavy-b7-back-to-back-cryoproofs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T111409">2022-05-13 11:14:09 UTC</a></sub>
 * [ISS partnership feeling some effects of sanctions on Russia](https://spacenews.com/iss-partnership-feeling-some-effects-of-sanctions-on-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T111341">2022-05-13 11:13:41 UTC</a></sub>
 * [Arctic connectivity competition is heating up](https://spacenews.com/arctic-connectivity-competition-is-heating-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T102338">2022-05-13 10:23:38 UTC</a></sub>
-* [Coverage Set for NASA’s Boeing OFT-2 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-oft-2-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T213400">2022-05-12 21:34:00 UTC</a></sub>
+* [NASA safety advisors voice concerns over Boeing’s Starliner, SpaceX’s Starship](https://spaceflightnow.com/2022/05/13/nasa-safety-advisors-voice-concerns-over-boeings-starliner-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T024335">2022-05-13 02:43:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T003609">2022-05-14 00:36:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T031013">2022-05-14 03:10:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
