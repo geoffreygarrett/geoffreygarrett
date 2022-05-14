@@ -178,6 +178,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch Starlink 4-15 mission, expand booster fleet](https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T165426">2022-05-14 16:54:26 UTC</a></sub>
 * [Air Force looking at next steps on Space Command basing decision](https://spacenews.com/air-force-looking-at-next-steps-on-space-command-basing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T164337">2022-05-14 16:43:37 UTC</a></sub>
 * [Inmarsat agrees to move ground station out of the Netherlands](https://spacenews.com/inmarsat-agrees-plan-to-move-ground-station-out-of-netherlands/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T215338">2022-05-13 21:53:38 UTC</a></sub>
 * [Pace of work put strain on private astronaut mission to ISS](https://spacenews.com/pace-of-work-put-strain-on-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T212338">2022-05-13 21:23:38 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently Go for Launch
 * [Chinese rocket company suffers third consecutive launch failure](https://spacenews.com/chinese-rocket-company-suffers-third-consecutive-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T112339">2022-05-13 11:23:39 UTC</a></sub>
 * [SpaceX’s repaired Starship booster survives back-to-back cryoproof tests](https://www.teslarati.com/spacex-super-heavy-b7-back-to-back-cryoproofs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T111409">2022-05-13 11:14:09 UTC</a></sub>
 * [ISS partnership feeling some effects of sanctions on Russia](https://spacenews.com/iss-partnership-feeling-some-effects-of-sanctions-on-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T111341">2022-05-13 11:13:41 UTC</a></sub>
-* [Arctic connectivity competition is heating up](https://spacenews.com/arctic-connectivity-competition-is-heating-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T102338">2022-05-13 10:23:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T171139">2022-05-14 17:11:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T173846">2022-05-14 17:38:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
