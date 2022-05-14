@@ -187,7 +187,7 @@ region. The mission's status is currently Go for Launch
 * [SpaceX’s repaired Starship booster survives back-to-back cryoproof tests](https://www.teslarati.com/spacex-super-heavy-b7-back-to-back-cryoproofs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T111409">2022-05-13 11:14:09 UTC</a></sub>
 * [ISS partnership feeling some effects of sanctions on Russia](https://spacenews.com/iss-partnership-feeling-some-effects-of-sanctions-on-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T111341">2022-05-13 11:13:41 UTC</a></sub>
 * [Arctic connectivity competition is heating up](https://spacenews.com/arctic-connectivity-competition-is-heating-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T102338">2022-05-13 10:23:38 UTC</a></sub>
-* [NASA safety advisors voice concerns over Boeing’s Starliner, SpaceX’s Starship](https://spaceflightnow.com/2022/05/13/nasa-safety-advisors-voice-concerns-over-boeings-starliner-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T024335">2022-05-13 02:43:35 UTC</a></sub>
+* [SpaceX passes 2,500 satellites launched for Starlink internet network](https://spaceflightnow.com/2022/05/13/spacex-passes-2500-satellites-launched-for-companys-starlink-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T061335">2022-05-13 06:13:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T055408">2022-05-14 05:54:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T062609">2022-05-14 06:26:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
