@@ -197,6 +197,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [RocketStars: ULA software launches human spaceflight missions](https://blog.ulalaunch.com/blog/rocketstars-ula-software-launches-human-spaceflight-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220515T003430">2022-05-15 00:34:30 UTC</a></sub>
 * [RocketStars:  Meet ULA's mission integration engineer for Starliner](https://blog.ulalaunch.com/blog/rocketstars-meet-ulas-mission-integration-engineer-for-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T183414">2022-05-13 18:34:14 UTC</a></sub>
 * [Your cosmic community](https://www.planetary.org/the-downlink/your-cosmic-community) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T143401">2022-05-13 14:34:01 UTC</a></sub>
 * [When to worry about an asteroid striking Earth](https://www.planetary.org/articles/asteroid-hitting-earth-when-to-worry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T140355">2022-05-10 14:03:55 UTC</a></sub>
@@ -206,7 +207,6 @@ region. The mission's status is currently To Be Confirmed
 * [Surreal solar sights](https://www.planetary.org/the-downlink/surreal-solar-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T143039">2022-04-29 14:30:39 UTC</a></sub>
 * [OFT-2: Atlas V rocket assembled to launch Boeing's Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-rocket-assembled-to-launch-boeings-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T203446">2022-04-26 20:34:46 UTC</a></sub>
 * [Our planet’s day in the sun](https://www.planetary.org/the-downlink/our-planets-day-in-the-sun) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T143358">2022-04-22 14:33:58 UTC</a></sub>
-* [Are we trashing space?](https://www.planetary.org/articles/space-trash) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T140932">2022-04-21 14:09:32 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T003119">2022-05-16 00:31:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T022607">2022-05-16 02:26:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
