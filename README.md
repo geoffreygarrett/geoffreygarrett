@@ -126,6 +126,7 @@ region. The mission's status is currently To Be Confirmed
 
 <!-- rocket launches starts -->
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-18</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T104000">2022-05-18 10:40:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-18&location=Kennedy Space Center, FL, USA&dates=20220518T104000Z%2F20220518T104000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Bars-M No. 3</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T073000">2022-05-19 07:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Bars-M No. 3&location=Plesetsk Cosmodrome, Russian Federation&dates=20220519T073000Z%2F20220519T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>CST-100 Starliner Orbital Flight Test 2 (OFT-2)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T225444">2022-05-19 22:54:44 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)&location=Cape Canaveral, FL, USA&dates=20220519T225444Z%2F20220519T225444Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NS-21</b> from Corn Ranch, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T133000">2022-05-20 13:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-21&location=Corn Ranch, USA&dates=20220520T133000Z%2F20220520T163000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Transporter 5 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182500">2022-05-25 18:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)&location=Cape Canaveral, FL, USA&dates=20220525T182500Z%2F20220525T182500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -178,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, Air Liquide continue working on Artemis 1 WDR issues](https://www.nasaspaceflight.com/2022/05/nasa-air-liquide-artemis-1-wdr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T224220">2022-05-16 22:42:20 UTC</a></sub>
 * [Spacecom plots maritime expansion after netting first customer](https://spacenews.com/spacecom-plots-maritime-expansion-after-netting-first-customer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T202335">2022-05-16 20:23:35 UTC</a></sub>
 * [India hit by more suspected space debris](https://spacenews.com/india-hit-by-more-suspected-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T174336">2022-05-16 17:43:36 UTC</a></sub>
 * [U.S. Space Force sees future demand for surveillance beyond Earth orbit](https://spacenews.com/u-s-space-force-sees-future-demand-for-surveillance-beyond-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T154335">2022-05-16 15:43:35 UTC</a></sub>
@@ -187,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Launcher announces customers for first Orbiter space tug mission](https://spacenews.com/launcher-announces-customers-for-first-orbiter-space-tug-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T110341">2022-05-16 11:03:41 UTC</a></sub>
 * [Redwire warns of volatility in commercial space markets](https://spacenews.com/redwire-warns-of-volatility-in-commercial-space-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T225341">2022-05-14 22:53:41 UTC</a></sub>
 * [SpaceX launches Starlink 4-15 mission, expands booster fleet](https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T165426">2022-05-14 16:54:26 UTC</a></sub>
-* [Air Force looking at next steps on Space Command basing decision](https://spacenews.com/air-force-looking-at-next-steps-on-space-command-basing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T164337">2022-05-14 16:43:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T230248">2022-05-16 23:02:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T233730">2022-05-16 23:37:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
