@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese satellite propulsion startup secures funding as country’s constellation projects grow](https://spacenews.com/chinese-satellite-propulsion-startup-secures-funding-as-countrys-constellation-projects-grow/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T124341">2022-05-16 12:43:41 UTC</a></sub>
 * [SpaceX launches two Starlink missions in 24 hours](https://www.teslarati.com/spacex-two-starlink-launches-24-hours-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T111435">2022-05-16 11:14:35 UTC</a></sub>
 * [Launcher announces customers for first Orbiter space tug mission](https://spacenews.com/launcher-announces-customers-for-first-orbiter-space-tug-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T110341">2022-05-16 11:03:41 UTC</a></sub>
 * [Redwire warns of volatility in commercial space markets](https://spacenews.com/redwire-warns-of-volatility-in-commercial-space-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T225341">2022-05-14 22:53:41 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [Pace of work put strain on private astronaut mission to ISS](https://spacenews.com/pace-of-work-put-strain-on-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T212338">2022-05-13 21:23:38 UTC</a></sub>
 * [SpaceX launches 2,500th Starlink satellite in third back-to-back mission](https://www.nasaspaceflight.com/2022/05/spacex-2500th-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T203603">2022-05-13 20:36:03 UTC</a></sub>
 * [Chinese startup suffers third consecutive launch failure](https://spaceflightnow.com/2022/05/13/chinese-startup-suffers-third-consecutive-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T171331">2022-05-13 17:13:31 UTC</a></sub>
-* [SpaceX planning two Starlink launches Friday and Saturday, weather permitting](https://spaceflightnow.com/2022/05/13/spacex-planning-two-starlink-launches-friday-and-saturday-weather-permitting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T144331">2022-05-13 14:43:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T121042">2022-05-16 12:10:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T130851">2022-05-16 13:08:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
