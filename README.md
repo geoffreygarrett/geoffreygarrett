@@ -178,6 +178,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Space Force sees future demand for surveillance beyond Earth orbit](https://spacenews.com/u-s-space-force-sees-future-demand-for-surveillance-beyond-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T154335">2022-05-16 15:43:35 UTC</a></sub>
+* [Former NASA leaders praise Boeing’s willingness to risk commercial crew](https://arstechnica.com/science/2022/05/actually-boeing-is-probably-the-savior-of-nasas-commercial-crew-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T154041">2022-05-16 15:40:41 UTC</a></sub>
 * [Chinese satellite propulsion startup secures funding as country’s constellation projects grow](https://spacenews.com/chinese-satellite-propulsion-startup-secures-funding-as-countrys-constellation-projects-grow/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T124341">2022-05-16 12:43:41 UTC</a></sub>
 * [SpaceX launches two Starlink missions in 24 hours](https://www.teslarati.com/spacex-two-starlink-launches-24-hours-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T111435">2022-05-16 11:14:35 UTC</a></sub>
 * [Launcher announces customers for first Orbiter space tug mission](https://spacenews.com/launcher-announces-customers-for-first-orbiter-space-tug-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T110341">2022-05-16 11:03:41 UTC</a></sub>
@@ -186,8 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [Air Force looking at next steps on Space Command basing decision](https://spacenews.com/air-force-looking-at-next-steps-on-space-command-basing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T164337">2022-05-14 16:43:37 UTC</a></sub>
 * [SpaceX’s first-gen Starlink fleet halfway complete after back-to-back launches](https://spaceflightnow.com/2022/05/14/spacexs-first-gen-starlink-network-halfway-complete-after-back-to-back-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T151334">2022-05-14 15:13:34 UTC</a></sub>
 * [Inmarsat agrees to move ground station out of the Netherlands](https://spacenews.com/inmarsat-agrees-plan-to-move-ground-station-out-of-netherlands/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T215338">2022-05-13 21:53:38 UTC</a></sub>
-* [Pace of work put strain on private astronaut mission to ISS](https://spacenews.com/pace-of-work-put-strain-on-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T212338">2022-05-13 21:23:38 UTC</a></sub>
-* [SpaceX launches 2,500th Starlink satellite in third back-to-back mission](https://www.nasaspaceflight.com/2022/05/spacex-2500th-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T203603">2022-05-13 20:36:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T160713">2022-05-16 16:07:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T165740">2022-05-16 16:57:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
