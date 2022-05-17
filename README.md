@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Development Agency’s satellite contractors team up to deal with supply shortages](https://spacenews.com/space-development-agencys-satellite-contractors-team-up-to-deal-with-supply-shortages/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T232342">2022-05-17 23:23:42 UTC</a></sub>
 * [Military experiment demonstrates intersatellite laser communications in low Earth orbit](https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T214336">2022-05-17 21:43:36 UTC</a></sub>
 * [SpaceX already raising Falcon 9 rocket vertical for next Starlink launch](https://www.teslarati.com/spacex-starlink-4-18-falcon-9-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T205415">2022-05-17 20:54:15 UTC</a></sub>
 * [Operational AST SpaceMobile satellites could proceed without prototype](https://spacenews.com/operational-ast-spacemobile-satellites-could-proceed-without-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T204336">2022-05-17 20:43:36 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Mars 2020 continues science in Jezero, Mars Odyssey solves Martian frost mystery](https://www.nasaspaceflight.com/2022/05/mars-2020-odyssey-frost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T174201">2022-05-17 17:42:01 UTC</a></sub>
 * [NASA reveals launch dates for Artemis I through the first half of 2023](https://arstechnica.com/science/2022/05/nasa-reveals-launch-dates-for-artemis-i-through-the-first-half-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T174125">2022-05-17 17:41:25 UTC</a></sub>
 * [DIU selects nuclear-powered spacecraft designs for 2027 demonstrations](https://spacenews.com/diu-selects-nuclear-powered-spacecraft-designs-for-2027-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140342">2022-05-17 14:03:42 UTC</a></sub>
-* [Uzbekistan woos Starlink, OneWeb to bring satellite broadband](https://spacenews.com/uzbekistan-woos-starlink-oneweb-to-bring-satellite-broadband/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T134339">2022-05-17 13:43:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T230348">2022-05-17 23:03:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T233644">2022-05-17 23:36:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
