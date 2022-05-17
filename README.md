@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DIU selects nuclear-powered spacecraft designs for 2027 demonstrations](https://spacenews.com/diu-selects-nuclear-powered-spacecraft-designs-for-2027-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140342">2022-05-17 14:03:42 UTC</a></sub>
 * [Satellites key to Canada’s Arctic surveillance strategy](https://spacenews.com/satellites-key-to-canadas-arctic-surveillance-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T134339">2022-05-17 13:43:39 UTC</a></sub>
 * [Uzbekistan woos Starlink, OneWeb to bring satellite broadband](https://spacenews.com/uzbekistan-woos-starlink-oneweb-to-bring-satellite-broadband/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T134339">2022-05-17 13:43:39 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket to launch record-breaking communications satellite](https://www.teslarati.com/spacex-falcon-heavy-jupiter-3-record-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T111415">2022-05-17 11:14:15 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Spacecom plots maritime expansion after netting first customer](https://spacenews.com/spacecom-plots-maritime-expansion-after-netting-first-customer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T202335">2022-05-16 20:23:35 UTC</a></sub>
 * [India hit by more suspected space debris](https://spacenews.com/india-hit-by-more-suspected-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T174336">2022-05-16 17:43:36 UTC</a></sub>
 * [U.S. Space Force sees future demand for surveillance beyond Earth orbit](https://spacenews.com/u-s-space-force-sees-future-demand-for-surveillance-beyond-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T154335">2022-05-16 15:43:35 UTC</a></sub>
-* [Former NASA leaders praise Boeing’s willingness to risk commercial crew](https://arstechnica.com/science/2022/05/actually-boeing-is-probably-the-savior-of-nasas-commercial-crew-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T154041">2022-05-16 15:40:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How Uranus and Neptune are key to unlocking how planets form](https://www.planetary.org/articles/uranus-neptune-how-planets-form) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140410">2022-05-17 14:04:10 UTC</a></sub>
 * [RocketStars: Former Marine leads ULA's astronaut safety system](https://blog.ulalaunch.com/blog/rocketstars-former-marine-leads-ulas-astronaut-safety-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T145443">2022-05-16 14:54:43 UTC</a></sub>
 * [RocketStars: ULA software launches human spaceflight missions](https://blog.ulalaunch.com/blog/rocketstars-ula-software-launches-human-spaceflight-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220515T003430">2022-05-15 00:34:30 UTC</a></sub>
 * [RocketStars:  Meet ULA's mission integration engineer for Starliner](https://blog.ulalaunch.com/blog/rocketstars-meet-ulas-mission-integration-engineer-for-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T183414">2022-05-13 18:34:14 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [OFT-2: Atlas V and Starliner joined for launch](https://blog.ulalaunch.com/blog/oft-2-atlas-v-and-starliner-joined-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T205332">2022-05-04 20:53:32 UTC</a></sub>
 * [Job opening: Chief Financial Officer](https://www.planetary.org/careers/job-opening-chief-financial-officer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T203509">2022-05-02 20:35:09 UTC</a></sub>
 * [Surreal solar sights](https://www.planetary.org/the-downlink/surreal-solar-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T143039">2022-04-29 14:30:39 UTC</a></sub>
-* [OFT-2: Atlas V rocket assembled to launch Boeing's Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-rocket-assembled-to-launch-boeings-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T203446">2022-04-26 20:34:46 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140235">2022-05-17 14:02:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T143314">2022-05-17 14:33:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
