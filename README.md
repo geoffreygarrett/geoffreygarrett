@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Contract for Cybersecurity, Privacy Enterprise Solutions](http://www.nasa.gov/press-release/nasa-awards-contract-for-cybersecurity-privacy-enterprise-solutions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T201400">2022-05-17 20:14:00 UTC</a></sub>
 * [NASA Seeks Input on Moon to Mars Objectives, Comments Due May 31](http://www.nasa.gov/press-release/nasa-seeks-input-on-moon-to-mars-objectives-comments-due-may-31) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T193400">2022-05-17 19:34:00 UTC</a></sub>
 * [NASA's InSight Still Hunting Marsquakes as Power Levels Diminish](https://mars.nasa.gov/insight/news/nasas-insight-still-hunting-marsquakes-as-power-levels-diminish) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T182400">2022-05-17 18:24:00 UTC</a></sub>
 * [Mars 2020 continues science in Jezero, Mars Odyssey solves Martian frost mystery](https://www.nasaspaceflight.com/2022/05/mars-2020-odyssey-frost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T174201">2022-05-17 17:42:01 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Satellites key to Canada’s Arctic surveillance strategy](https://spacenews.com/satellites-key-to-canadas-arctic-surveillance-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T134339">2022-05-17 13:43:39 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket to launch record-breaking communications satellite](https://www.teslarati.com/spacex-falcon-heavy-jupiter-3-record-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T111415">2022-05-17 11:14:15 UTC</a></sub>
 * [Space systems dominate Rocket Lab revenue](https://spacenews.com/space-systems-dominate-rocket-lab-revenue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T100335">2022-05-17 10:03:35 UTC</a></sub>
-* [ABL Space Systems completes acceptance testing of RS1 upper stage](https://spacenews.com/abl-space-systems-completes-acceptance-testing-of-rs1-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T084336">2022-05-17 08:43:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T200454">2022-05-17 20:04:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T203732">2022-05-17 20:37:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
