@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space systems dominate Rocket Lab revenue](https://spacenews.com/space-systems-dominate-rocket-lab-revenue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T100335">2022-05-17 10:03:35 UTC</a></sub>
 * [ABL Space Systems completes acceptance testing of RS1 upper stage](https://spacenews.com/abl-space-systems-completes-acceptance-testing-of-rs1-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T084336">2022-05-17 08:43:36 UTC</a></sub>
 * [NASA, Air Liquide continue working on Artemis 1 WDR issues](https://www.nasaspaceflight.com/2022/05/nasa-air-liquide-artemis-1-wdr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T224220">2022-05-16 22:42:20 UTC</a></sub>
 * [Spacecom plots maritime expansion after netting first customer](https://spacenews.com/spacecom-plots-maritime-expansion-after-netting-first-customer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T202335">2022-05-16 20:23:35 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Chinese satellite propulsion startup secures funding as country’s constellation projects grow](https://spacenews.com/chinese-satellite-propulsion-startup-secures-funding-as-countrys-constellation-projects-grow/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T124341">2022-05-16 12:43:41 UTC</a></sub>
 * [SpaceX launches two Starlink missions in 24 hours](https://www.teslarati.com/spacex-two-starlink-launches-24-hours-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T111435">2022-05-16 11:14:35 UTC</a></sub>
 * [Launcher announces customers for first Orbiter space tug mission](https://spacenews.com/launcher-announces-customers-for-first-orbiter-space-tug-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T110341">2022-05-16 11:03:41 UTC</a></sub>
-* [NASA lander detects biggest ‘marsquake’ yet](https://spaceflightnow.com/2022/05/16/nasa-lander-detects-biggest-marsquake-yet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T001342">2022-05-16 00:13:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T100538">2022-05-17 10:05:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T104039">2022-05-17 10:40:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
