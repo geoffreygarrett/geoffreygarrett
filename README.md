@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's InSight Still Hunting Marsquakes as Power Levels Diminish](https://mars.nasa.gov/insight/news/nasas-insight-still-hunting-marsquakes-as-power-levels-diminish) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T182400">2022-05-17 18:24:00 UTC</a></sub>
+* [Mars 2020 continues science in Jezero, Mars Odyssey solves Martian frost mystery](https://www.nasaspaceflight.com/2022/05/mars-2020-odyssey-frost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T174201">2022-05-17 17:42:01 UTC</a></sub>
+* [NASA reveals launch dates for Artemis I through the first half of 2023](https://arstechnica.com/science/2022/05/nasa-reveals-launch-dates-for-artemis-i-through-the-first-half-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T174125">2022-05-17 17:41:25 UTC</a></sub>
 * [DIU selects nuclear-powered spacecraft designs for 2027 demonstrations](https://spacenews.com/diu-selects-nuclear-powered-spacecraft-designs-for-2027-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140342">2022-05-17 14:03:42 UTC</a></sub>
-* [Satellites key to Canada’s Arctic surveillance strategy](https://spacenews.com/satellites-key-to-canadas-arctic-surveillance-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T134339">2022-05-17 13:43:39 UTC</a></sub>
 * [Uzbekistan woos Starlink, OneWeb to bring satellite broadband](https://spacenews.com/uzbekistan-woos-starlink-oneweb-to-bring-satellite-broadband/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T134339">2022-05-17 13:43:39 UTC</a></sub>
+* [Satellites key to Canada’s Arctic surveillance strategy](https://spacenews.com/satellites-key-to-canadas-arctic-surveillance-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T134339">2022-05-17 13:43:39 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket to launch record-breaking communications satellite](https://www.teslarati.com/spacex-falcon-heavy-jupiter-3-record-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T111415">2022-05-17 11:14:15 UTC</a></sub>
 * [Space systems dominate Rocket Lab revenue](https://spacenews.com/space-systems-dominate-rocket-lab-revenue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T100335">2022-05-17 10:03:35 UTC</a></sub>
 * [ABL Space Systems completes acceptance testing of RS1 upper stage](https://spacenews.com/abl-space-systems-completes-acceptance-testing-of-rs1-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T084336">2022-05-17 08:43:36 UTC</a></sub>
 * [NASA, Air Liquide continue working on Artemis 1 WDR issues](https://www.nasaspaceflight.com/2022/05/nasa-air-liquide-artemis-1-wdr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T224220">2022-05-16 22:42:20 UTC</a></sub>
-* [Spacecom plots maritime expansion after netting first customer](https://spacenews.com/spacecom-plots-maritime-expansion-after-netting-first-customer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T202335">2022-05-16 20:23:35 UTC</a></sub>
-* [India hit by more suspected space debris](https://spacenews.com/india-hit-by-more-suspected-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T174336">2022-05-16 17:43:36 UTC</a></sub>
-* [U.S. Space Force sees future demand for surveillance beyond Earth orbit](https://spacenews.com/u-s-space-force-sees-future-demand-for-surveillance-beyond-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T154335">2022-05-16 15:43:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T180705">2022-05-17 18:07:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T184122">2022-05-17 18:41:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
