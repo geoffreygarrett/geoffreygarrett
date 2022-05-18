@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch Starlink 4-18, third Starlink mission in five days](https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T072620">2022-05-18 07:26:20 UTC</a></sub>
+* [NASA confirms impending end for InSight](https://spacenews.com/nasa-confirms-impending-end-for-insight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T072338">2022-05-18 07:23:38 UTC</a></sub>
 * [Space Development Agency’s satellite contractors team up to deal with supply shortages](https://spacenews.com/space-development-agencys-satellite-contractors-team-up-to-deal-with-supply-shortages/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T232342">2022-05-17 23:23:42 UTC</a></sub>
 * [Military experiment demonstrates intersatellite laser communications in low Earth orbit](https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T214336">2022-05-17 21:43:36 UTC</a></sub>
 * [SpaceX already raising Falcon 9 rocket vertical for next Starlink launch](https://www.teslarati.com/spacex-starlink-4-18-falcon-9-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T205415">2022-05-17 20:54:15 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Seeks Input on Moon to Mars Objectives, Comments Due May 31](http://www.nasa.gov/press-release/nasa-seeks-input-on-moon-to-mars-objectives-comments-due-may-31) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T193400">2022-05-17 19:34:00 UTC</a></sub>
 * [NASA's InSight Still Hunting Marsquakes as Power Levels Diminish](https://mars.nasa.gov/insight/news/nasas-insight-still-hunting-marsquakes-as-power-levels-diminish) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T182400">2022-05-17 18:24:00 UTC</a></sub>
 * [Mars 2020 continues science in Jezero, Mars Odyssey solves Martian frost mystery](https://www.nasaspaceflight.com/2022/05/mars-2020-odyssey-frost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T174201">2022-05-17 17:42:01 UTC</a></sub>
-* [NASA reveals launch dates for Artemis I through the first half of 2023](https://arstechnica.com/science/2022/05/nasa-reveals-launch-dates-for-artemis-i-through-the-first-half-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T174125">2022-05-17 17:41:25 UTC</a></sub>
-* [DIU selects nuclear-powered spacecraft designs for 2027 demonstrations](https://spacenews.com/diu-selects-nuclear-powered-spacecraft-designs-for-2027-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140342">2022-05-17 14:03:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T070515">2022-05-18 07:05:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T073526">2022-05-18 07:35:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
