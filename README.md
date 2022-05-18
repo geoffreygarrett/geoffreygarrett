@@ -181,6 +181,7 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA puts ISS spacewalks on hold to investigate water leak](https://spacenews.com/nasa-puts-iss-spacewalks-on-hold-to-investigate-water-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T215355">2022-05-18 21:53:55 UTC</a></sub>
 * [Military buyers challenged to stay up on the latest commercial space innovations](https://spacenews.com/military-buyers-challenged-to-stay-up-on-the-latest-commercial-space-innovations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T184345">2022-05-18 18:43:45 UTC</a></sub>
 * [Ball and Raytheon win weather instrument study contracts](https://spacenews.com/ball-and-raytheon-weather-instruments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T182353">2022-05-18 18:23:53 UTC</a></sub>
 * [Kongsberg orders satellites for Norwegian maritime surveillance](https://spacenews.com/kongsberg-orders-spy-satellites-for-norwegian-maritime-surveillance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T174348">2022-05-18 17:43:48 UTC</a></sub>
@@ -190,7 +191,6 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 * [NASA confirms impending end for InSight](https://spacenews.com/nasa-confirms-impending-end-for-insight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T072338">2022-05-18 07:23:38 UTC</a></sub>
 * [Space Development Agency’s satellite contractors team up to deal with supply shortages](https://spacenews.com/space-development-agencys-satellite-contractors-team-up-to-deal-with-supply-shortages/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T232342">2022-05-17 23:23:42 UTC</a></sub>
 * [Military experiment demonstrates intersatellite laser communications in low Earth orbit](https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T214336">2022-05-17 21:43:36 UTC</a></sub>
-* [SpaceX already raising Falcon 9 rocket vertical for next Starlink launch](https://www.teslarati.com/spacex-starlink-4-18-falcon-9-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T205415">2022-05-17 20:54:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T220521">2022-05-18 22:05:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T223745">2022-05-18 22:37:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
