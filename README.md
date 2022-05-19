@@ -189,8 +189,8 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 * [Proposed constellations would enhance Arctic weather observations](https://spacenews.com/proposed-constellations-would-enhance-arctic-weather-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T114337">2022-05-18 11:43:37 UTC</a></sub>
 * [SpaceX launches Starlink 4-18, third Starlink mission in five days](https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T072620">2022-05-18 07:26:20 UTC</a></sub>
 * [NASA confirms impending end for InSight](https://spacenews.com/nasa-confirms-impending-end-for-insight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T072338">2022-05-18 07:23:38 UTC</a></sub>
+* [Starliner astronauts eager to see results of crew capsule test flight](https://spaceflightnow.com/2022/05/18/starliner-astronauts-eager-to-see-results-of-crew-capsule-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T034332">2022-05-18 03:43:32 UTC</a></sub>
 * [Space Development Agency’s satellite contractors team up to deal with supply shortages](https://spacenews.com/space-development-agencys-satellite-contractors-team-up-to-deal-with-supply-shortages/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T232342">2022-05-17 23:23:42 UTC</a></sub>
-* [Military experiment demonstrates intersatellite laser communications in low Earth orbit](https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T214336">2022-05-17 21:43:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T025504">2022-05-19 02:55:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T034555">2022-05-19 03:45:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
