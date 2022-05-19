@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Some Tesla customers are now expecting a 2-year wait for their new Model X](https://www.teslarati.com/tesla-model-x-refresh-2-year-wait-deliveries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T154406">2022-05-19 15:44:06 UTC</a></sub>
 * [NASA, Partners Offer Global View of Environmental Changes](http://www.nasa.gov/press-release/nasa-partners-offer-global-view-of-environmental-changes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T140400">2022-05-19 14:04:00 UTC</a></sub>
 * [Today’s the day when Boeing’s Starliner takes to the skies. Probably](https://arstechnica.com/science/2022/05/todays-the-day-when-boeings-starliner-takes-to-the-skies-probably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T131753">2022-05-19 13:17:53 UTC</a></sub>
 * [NASA and Boeing set for second Starliner test flight](https://spacenews.com/nasa-and-boeing-set-for-second-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T115345">2022-05-19 11:53:45 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Ball and Raytheon win weather instrument study contracts](https://spacenews.com/ball-and-raytheon-weather-instruments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T182353">2022-05-18 18:23:53 UTC</a></sub>
 * [Kongsberg orders satellites for Norwegian maritime surveillance](https://spacenews.com/kongsberg-orders-spy-satellites-for-norwegian-maritime-surveillance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T174348">2022-05-18 17:43:48 UTC</a></sub>
 * [Atlas 5 rocket and Starliner capsule return to Florida launch pad](https://spaceflightnow.com/2022/05/18/atlas-5-rocket-and-starliner-capsule-return-to-florida-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T132336">2022-05-18 13:23:36 UTC</a></sub>
-* [SpaceX completes 21st launch and landing of 2022](https://www.teslarati.com/spacex-21st-falcon-9-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T114405">2022-05-18 11:44:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T150820">2022-05-19 15:08:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T155547">2022-05-19 15:55:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
