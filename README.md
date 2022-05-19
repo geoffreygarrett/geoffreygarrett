@@ -178,6 +178,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Atlas 5 launches Starliner on second uncrewed test flight](https://spacenews.com/atlas-5-launches-starliner-on-second-uncrewed-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T233345">2022-05-19 23:33:45 UTC</a></sub>
 * [Telesat tests LEO broadband prototype in India](https://spacenews.com/telesat-tests-leo-broadband-prototype-in-india/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T222349">2022-05-19 22:23:49 UTC</a></sub>
 * [Inmarsat uses ships as stepping stones in mesh network trial](https://spacenews.com/inmarsat-uses-ships-as-stepping-stones-in-mesh-network-trial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T214337">2022-05-19 21:43:37 UTC</a></sub>
 * [NASA seeks input on human exploration objectives](https://spacenews.com/nasa-seeks-input-on-human-exploration-objectives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T205342">2022-05-19 20:53:42 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently Go for Launch
 * [Starliner ready to try again with OFT-2 launch](https://www.nasaspaceflight.com/2022/05/starliner-oft2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T174652">2022-05-19 17:46:52 UTC</a></sub>
 * [NASA, Partners Offer Global View of Environmental Changes](http://www.nasa.gov/press-release/nasa-partners-offer-global-view-of-environmental-changes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T140400">2022-05-19 14:04:00 UTC</a></sub>
 * [Today’s the day when Boeing’s Starliner takes to the skies. Probably](https://arstechnica.com/science/2022/05/todays-the-day-when-boeings-starliner-takes-to-the-skies-probably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T131753">2022-05-19 13:17:53 UTC</a></sub>
-* [NASA and Boeing set for second Starliner test flight](https://spacenews.com/nasa-and-boeing-set-for-second-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T115345">2022-05-19 11:53:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T230444">2022-05-19 23:04:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T233701">2022-05-19 23:37:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
