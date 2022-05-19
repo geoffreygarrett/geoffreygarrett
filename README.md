@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Inmarsat uses ships as stepping stones in mesh network trial](https://spacenews.com/inmarsat-uses-ships-as-stepping-stones-in-mesh-network-trial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T214337">2022-05-19 21:43:37 UTC</a></sub>
 * [NASA seeks input on human exploration objectives](https://spacenews.com/nasa-seeks-input-on-human-exploration-objectives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T205342">2022-05-19 20:53:42 UTC</a></sub>
 * [Ice giants and icy moons: The planetary science decadal survey looks beyond Mars to the outer solar system](https://spacenews.com/ice-giants-and-icy-moons-the-planetary-science-decadal-survey-looks-beyond-mars-to-the-outer-solar-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T201342">2022-05-19 20:13:42 UTC</a></sub>
 * [NASA, Partners to Host CAPSTONE Prelaunch Media Teleconference](http://www.nasa.gov/press-release/nasa-partners-to-host-capstone-prelaunch-media-teleconference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T185400">2022-05-19 18:54:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Today’s the day when Boeing’s Starliner takes to the skies. Probably](https://arstechnica.com/science/2022/05/todays-the-day-when-boeings-starliner-takes-to-the-skies-probably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T131753">2022-05-19 13:17:53 UTC</a></sub>
 * [NASA and Boeing set for second Starliner test flight](https://spacenews.com/nasa-and-boeing-set-for-second-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T115345">2022-05-19 11:53:45 UTC</a></sub>
 * [SpaceX begins installing new ‘Raptor 2’ engines on Super Heavy booster](https://www.teslarati.com/spacex-super-heavy-booster-raptor-2-installation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T110451">2022-05-19 11:04:51 UTC</a></sub>
-* [NASA puts ISS spacewalks on hold to investigate water leak](https://spacenews.com/nasa-puts-iss-spacewalks-on-hold-to-investigate-water-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T215355">2022-05-18 21:53:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T213616">2022-05-19 21:36:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T220638">2022-05-19 22:06:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
