@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, Partners to Host CAPSTONE Prelaunch Media Teleconference](http://www.nasa.gov/press-release/nasa-partners-to-host-capstone-prelaunch-media-teleconference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T185400">2022-05-19 18:54:00 UTC</a></sub>
 * [U.S. Space Force to step up protection of satellite ground systems in the wake of Russia’s cyber attacks](https://spacenews.com/u-s-space-force-to-step-up-protection-of-satellite-ground-systems-in-the-wake-of-russias-cyber-attacks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T175357">2022-05-19 17:53:57 UTC</a></sub>
 * [Starliner ready to try again with OFT-2 launch](https://www.nasaspaceflight.com/2022/05/starliner-oft2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T174652">2022-05-19 17:46:52 UTC</a></sub>
 * [NASA, Partners Offer Global View of Environmental Changes](http://www.nasa.gov/press-release/nasa-partners-offer-global-view-of-environmental-changes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T140400">2022-05-19 14:04:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA puts ISS spacewalks on hold to investigate water leak](https://spacenews.com/nasa-puts-iss-spacewalks-on-hold-to-investigate-water-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T215355">2022-05-18 21:53:55 UTC</a></sub>
 * [Military buyers challenged to stay up on the latest commercial space innovations](https://spacenews.com/military-buyers-challenged-to-stay-up-on-the-latest-commercial-space-innovations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T184345">2022-05-18 18:43:45 UTC</a></sub>
 * [Ball and Raytheon win weather instrument study contracts](https://spacenews.com/ball-and-raytheon-weather-instruments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T182353">2022-05-18 18:23:53 UTC</a></sub>
-* [Kongsberg orders satellites for Norwegian maritime surveillance](https://spacenews.com/kongsberg-orders-spy-satellites-for-norwegian-maritime-surveillance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T174348">2022-05-18 17:43:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T190640">2022-05-19 19:06:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T193144">2022-05-19 19:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
