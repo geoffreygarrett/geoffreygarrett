@@ -133,6 +133,7 @@ region. The mission's status is currently Go for Launch
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-20 (81P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093200">2022-06-03 09:32:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-20 (81P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220603T093200Z%2F20220603T093200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T153000">2022-06-07 15:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-25&location=Kennedy Space Center, FL, USA&dates=20220607T153000Z%2F20220607T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b><name missing></b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T000000">2022-06-10 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nilesat-301&location=Cape Canaveral, FL, USA&dates=20220610T000000Z%2F20220610T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>Flight Test 2</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T060000">2022-06-15 06:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | Flight Test 2&location=Naro Space Center, South Korea&dates=20220615T060000Z%2F20220615T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -178,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX begins installing new ‘Raptor 2’ engines on Super Heavy booster](https://www.teslarati.com/spacex-super-heavy-booster-raptor-2-installation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T110451">2022-05-19 11:04:51 UTC</a></sub>
 * [NASA puts ISS spacewalks on hold to investigate water leak](https://spacenews.com/nasa-puts-iss-spacewalks-on-hold-to-investigate-water-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T215355">2022-05-18 21:53:55 UTC</a></sub>
 * [Military buyers challenged to stay up on the latest commercial space innovations](https://spacenews.com/military-buyers-challenged-to-stay-up-on-the-latest-commercial-space-innovations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T184345">2022-05-18 18:43:45 UTC</a></sub>
 * [Ball and Raytheon win weather instrument study contracts](https://spacenews.com/ball-and-raytheon-weather-instruments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T182353">2022-05-18 18:23:53 UTC</a></sub>
@@ -187,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches Starlink 4-18, third Starlink mission in five days](https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T072620">2022-05-18 07:26:20 UTC</a></sub>
 * [NASA confirms impending end for InSight](https://spacenews.com/nasa-confirms-impending-end-for-insight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T072338">2022-05-18 07:23:38 UTC</a></sub>
 * [SpaceX launches third Starlink mission in five days](https://spaceflightnow.com/2022/05/18/spacex-launches-third-starlink-mission-in-five-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T062332">2022-05-18 06:23:32 UTC</a></sub>
-* [Starliner astronauts eager to see results of crew capsule test flight](https://spaceflightnow.com/2022/05/18/starliner-astronauts-eager-to-see-results-of-crew-capsule-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T034332">2022-05-18 03:43:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T110353">2022-05-19 11:03:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T113355">2022-05-19 11:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
