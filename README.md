@@ -179,16 +179,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Today’s the day when Boeing’s Starliner takes to the skies. Probably](https://arstechnica.com/science/2022/05/todays-the-day-when-boeings-starliner-takes-to-the-skies-probably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T131753">2022-05-19 13:17:53 UTC</a></sub>
 * [NASA and Boeing set for second Starliner test flight](https://spacenews.com/nasa-and-boeing-set-for-second-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T115345">2022-05-19 11:53:45 UTC</a></sub>
 * [SpaceX begins installing new ‘Raptor 2’ engines on Super Heavy booster](https://www.teslarati.com/spacex-super-heavy-booster-raptor-2-installation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T110451">2022-05-19 11:04:51 UTC</a></sub>
 * [NASA puts ISS spacewalks on hold to investigate water leak](https://spacenews.com/nasa-puts-iss-spacewalks-on-hold-to-investigate-water-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T215355">2022-05-18 21:53:55 UTC</a></sub>
 * [Military buyers challenged to stay up on the latest commercial space innovations](https://spacenews.com/military-buyers-challenged-to-stay-up-on-the-latest-commercial-space-innovations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T184345">2022-05-18 18:43:45 UTC</a></sub>
 * [Ball and Raytheon win weather instrument study contracts](https://spacenews.com/ball-and-raytheon-weather-instruments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T182353">2022-05-18 18:23:53 UTC</a></sub>
 * [Kongsberg orders satellites for Norwegian maritime surveillance](https://spacenews.com/kongsberg-orders-spy-satellites-for-norwegian-maritime-surveillance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T174348">2022-05-18 17:43:48 UTC</a></sub>
+* [Atlas 5 rocket and Starliner capsule return to Florida launch pad](https://spaceflightnow.com/2022/05/18/atlas-5-rocket-and-starliner-capsule-return-to-florida-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T132336">2022-05-18 13:23:36 UTC</a></sub>
 * [SpaceX completes 21st launch and landing of 2022](https://www.teslarati.com/spacex-21st-falcon-9-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T114405">2022-05-18 11:44:05 UTC</a></sub>
 * [Proposed constellations would enhance Arctic weather observations](https://spacenews.com/proposed-constellations-would-enhance-arctic-weather-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T114337">2022-05-18 11:43:37 UTC</a></sub>
-* [Starliner astronauts eager to see results from crew capsule test flight](https://spaceflightnow.com/2022/05/18/starliner-astronauts-eager-to-see-results-of-crew-capsule-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T114335">2022-05-18 11:43:35 UTC</a></sub>
-* [SpaceX launches Starlink 4-18, third Starlink mission in five days](https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T072620">2022-05-18 07:26:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T130753">2022-05-19 13:07:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T135259">2022-05-19 13:52:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
