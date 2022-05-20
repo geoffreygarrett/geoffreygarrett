@@ -99,7 +99,7 @@ Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182700">2022-05-25 18:27:00 UTC</a>. Until
 then, this launch pad will have seen 142
-out of 842 launches in this
+out of 843 launches in this
 region. The mission's status is currently To Be Confirmed
 (TBC) 🟨  which means:
 *awaiting official confirmation - current date is known with some certainty.* 
@@ -198,6 +198,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [OFT-2: Atlas V successfully launches Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-successfully-launches-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T154730">2022-05-20 15:47:30 UTC</a></sub>
 * [A little too close for comfort](https://www.planetary.org/the-downlink/a-little-too-close-for-comfort) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T143739">2022-05-20 14:37:39 UTC</a></sub>
 * [How Uranus and Neptune are key to unlocking how planets form](https://www.planetary.org/articles/uranus-neptune-how-planets-form) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140410">2022-05-17 14:04:10 UTC</a></sub>
 * [RocketStars: Former Marine leads ULA's astronaut safety system](https://blog.ulalaunch.com/blog/rocketstars-former-marine-leads-ulas-astronaut-safety-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T145443">2022-05-16 14:54:43 UTC</a></sub>
@@ -207,7 +208,6 @@ region. The mission's status is currently To Be Confirmed
 * [When to worry about an asteroid striking Earth](https://www.planetary.org/articles/asteroid-hitting-earth-when-to-worry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T140355">2022-05-10 14:03:55 UTC</a></sub>
 * [That’s so metal](https://www.planetary.org/the-downlink/thats-so-metal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T143414">2022-05-06 14:34:14 UTC</a></sub>
 * [OFT-2: Atlas V and Starliner joined for launch](https://blog.ulalaunch.com/blog/oft-2-atlas-v-and-starliner-joined-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T205332">2022-05-04 20:53:32 UTC</a></sub>
-* [Job opening: Chief Financial Officer](https://www.planetary.org/careers/job-opening-chief-financial-officer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T203509">2022-05-02 20:35:09 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T160738">2022-05-20 16:07:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T165551">2022-05-20 16:55:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
