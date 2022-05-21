@@ -178,16 +178,16 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starliner makes first docking with ISS on OFT-2 mission](https://www.nasaspaceflight.com/2022/05/oft-2-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T003216">2022-05-21 00:32:16 UTC</a></sub>
 * [Space Perspective raises $17 million](https://spacenews.com/space-perspective-raises-17-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T112654">2022-05-20 11:26:54 UTC</a></sub>
 * [Rocket Report: Starliner soars into orbit; about those Raptor RUDs in Texas](https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T110051">2022-05-20 11:00:51 UTC</a></sub>
 * [Boeing successfully launches Starliner spacecraft to orbit in do-over test flight](https://www.theverge.com/2022/5/19/23131232/boeing-cst-100-starliner-launch-success-iss-nasa-oft-2) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T093000">2022-05-20 09:30:00 UTC</a></sub>
 * [Chinese launch startup Orienspace raises $59.9 million in Series A round](https://spacenews.com/chinese-launch-startup-orienspace-raises-59-9-million-in-series-a-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T082337">2022-05-20 08:23:37 UTC</a></sub>
+* [Starliner docks with ISS for the first time](https://spacenews.com/starliner-docks-with-iss-for-the-first-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T011718">2022-05-20 01:17:18 UTC</a></sub>
 * [Starliner Launches to Space Station on Uncrewed Flight Test for NASA](http://www.nasa.gov/press-release/starliner-launches-to-space-station-on-uncrewed-flight-test-for-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T235400">2022-05-19 23:54:00 UTC</a></sub>
 * [Atlas 5 launches Starliner on second uncrewed test flight](https://spacenews.com/atlas-5-launches-starliner-on-second-uncrewed-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T233345">2022-05-19 23:33:45 UTC</a></sub>
 * [Telesat tests LEO broadband prototype in India](https://spacenews.com/telesat-tests-leo-broadband-prototype-in-india/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T222349">2022-05-19 22:23:49 UTC</a></sub>
 * [Inmarsat uses ships as stepping stones in mesh network trial](https://spacenews.com/inmarsat-uses-ships-as-stepping-stones-in-mesh-network-trial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T214337">2022-05-19 21:43:37 UTC</a></sub>
-* [NASA seeks input on human exploration objectives](https://spacenews.com/nasa-seeks-input-on-human-exploration-objectives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T205342">2022-05-19 20:53:42 UTC</a></sub>
-* [Ice giants and icy moons: The planetary science decadal survey looks beyond Mars to the outer solar system](https://spacenews.com/ice-giants-and-icy-moons-the-planetary-science-decadal-survey-looks-beyond-mars-to-the-outer-solar-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T201342">2022-05-19 20:13:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T002910">2022-05-21 00:29:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T015821">2022-05-21 01:58:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
