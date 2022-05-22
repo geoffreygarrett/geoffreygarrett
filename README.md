@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starliner launches to remain on Atlas 5](https://spacenews.com/starliner-launches-to-remain-on-atlas-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220522T232704">2022-05-22 23:27:04 UTC</a></sub>
 * [NASA plans early June rollout of SLS for next countdown test](https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T230700">2022-05-21 23:07:00 UTC</a></sub>
 * [Boeing’s Starliner capsule completes first “nail-biting” docking at space station](https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T200659">2022-05-21 20:06:59 UTC</a></sub>
 * [Starliner makes first docking with ISS on OFT-2 mission](https://www.nasaspaceflight.com/2022/05/oft-2-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T003216">2022-05-21 00:32:16 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Chinese launch startup Orienspace raises $59.9 million in Series A round](https://spacenews.com/chinese-launch-startup-orienspace-raises-59-9-million-in-series-a-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T082337">2022-05-20 08:23:37 UTC</a></sub>
 * [Starliner docks with ISS for the first time](https://spacenews.com/starliner-docks-with-iss-for-the-first-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T011718">2022-05-20 01:17:18 UTC</a></sub>
 * [Starliner Launches to Space Station on Uncrewed Flight Test for NASA](http://www.nasa.gov/press-release/starliner-launches-to-space-station-on-uncrewed-flight-test-for-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T235400">2022-05-19 23:54:00 UTC</a></sub>
-* [Atlas 5 launches Starliner on second uncrewed test flight](https://spacenews.com/atlas-5-launches-starliner-on-second-uncrewed-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T233345">2022-05-19 23:33:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220522T230430">2022-05-22 23:04:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220522T233632">2022-05-22 23:36:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
