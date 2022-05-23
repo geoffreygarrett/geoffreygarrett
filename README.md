@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Announces Armstrong Flight Research Center Director to Retire](http://www.nasa.gov/press-release/nasa-announces-armstrong-flight-research-center-director-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T172700">2022-05-23 17:27:00 UTC</a></sub>
 * [How NASA finally melted its giant “self-licking ice cream cone”](https://arstechnica.com/science/2022/05/how-nasa-finally-melted-its-giant-self-licking-ice-cream-cone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T154727">2022-05-23 15:47:27 UTC</a></sub>
 * [Industry pushes for NASA reauthorization](https://spacenews.com/industry-pushes-for-nasa-reauthorization/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T111705">2022-05-23 11:17:05 UTC</a></sub>
 * [Boeing Starliner joins SpaceX’s Crew Dragon at the International Space Station](https://www.teslarati.com/boing-starliner-space-crew-dragon-space-station-meetup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T110739">2022-05-23 11:07:39 UTC</a></sub>
@@ -186,9 +187,8 @@ region. The mission's status is currently To Be Confirmed
 * [Starliner launches to remain on Atlas 5](https://spacenews.com/starliner-launches-to-remain-on-atlas-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220522T232704">2022-05-22 23:27:04 UTC</a></sub>
 * [NASA plans early June rollout of SLS for next countdown test](https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T230700">2022-05-21 23:07:00 UTC</a></sub>
 * [Boeing’s Starliner capsule completes first “nail-biting” docking at space station](https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T200659">2022-05-21 20:06:59 UTC</a></sub>
+* [Space station astronauts check out Starliner crew capsule](https://spaceflightnow.com/2022/05/21/space-station-astronauts-check-out-starliner-crew-capsule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T165701">2022-05-21 16:57:01 UTC</a></sub>
 * [Starliner makes first docking with ISS on OFT-2 mission](https://www.nasaspaceflight.com/2022/05/oft-2-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T003216">2022-05-21 00:32:16 UTC</a></sub>
-* [Space Perspective raises $17 million](https://spacenews.com/space-perspective-raises-17-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T112654">2022-05-20 11:26:54 UTC</a></sub>
-* [Rocket Report: Starliner soars into orbit; about those Raptor RUDs in Texas](https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T110051">2022-05-20 11:00:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T171229">2022-05-23 17:12:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T174018">2022-05-23 17:40:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
