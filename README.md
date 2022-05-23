@@ -180,6 +180,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russian spy satellite launched by Soyuz rocket](https://spaceflightnow.com/2022/05/23/russian-spy-satellite-launched-by-soyuz-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T220707">2022-05-23 22:07:07 UTC</a></sub>
+* [President Biden: NASA to Welcome Japanese Astronaut Aboard Gateway](http://www.nasa.gov/press-release/president-biden-nasa-to-welcome-japanese-astronaut-aboard-gateway) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T214700">2022-05-23 21:47:00 UTC</a></sub>
 * [SpaceX valuation set to reach $127 billion after new $1.7 billion funding round](https://www.teslarati.com/spacex-127-billion-valuation-new-funding-round-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T211758">2022-05-23 21:17:58 UTC</a></sub>
 * [Biden vows to expand space cooperation with South Korea, Japan](https://spacenews.com/biden-vows-to-expand-space-cooperation-with-south-korea-japan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T210710">2022-05-23 21:07:10 UTC</a></sub>
 * [Coverage Set for NASA’s Boeing Orbital Flight Test-2 Return to Earth](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-orbital-flight-test-2-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T210700">2022-05-23 21:07:00 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Industry pushes for NASA reauthorization](https://spacenews.com/industry-pushes-for-nasa-reauthorization/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T111705">2022-05-23 11:17:05 UTC</a></sub>
 * [Boeing Starliner joins SpaceX’s Crew Dragon at the International Space Station](https://www.teslarati.com/boing-starliner-space-crew-dragon-space-station-meetup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T110739">2022-05-23 11:07:39 UTC</a></sub>
 * [Military looking for new ways to acquire and use commercial satellite data](https://spacenews.com/military-looking-for-new-ways-to-acquire-and-use-commercial-satellite-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T050655">2022-05-23 05:06:55 UTC</a></sub>
-* [Starliner launches to remain on Atlas 5](https://spacenews.com/starliner-launches-to-remain-on-atlas-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220522T232704">2022-05-22 23:27:04 UTC</a></sub>
-* [NASA plans early June rollout of SLS for next countdown test](https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T230700">2022-05-21 23:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T220417">2022-05-23 22:04:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T223920">2022-05-23 22:39:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
