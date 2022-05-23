@@ -180,6 +180,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX valuation set to reach $127 billion after new $1.7 billion funding round](https://www.teslarati.com/spacex-127-billion-valuation-new-funding-round-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T211758">2022-05-23 21:17:58 UTC</a></sub>
+* [Biden vows to expand space cooperation with South Korea, Japan](https://spacenews.com/biden-vows-to-expand-space-cooperation-with-south-korea-japan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T210710">2022-05-23 21:07:10 UTC</a></sub>
+* [Coverage Set for NASA’s Boeing Orbital Flight Test-2 Return to Earth](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-orbital-flight-test-2-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T210700">2022-05-23 21:07:00 UTC</a></sub>
 * [NASA Announces Armstrong Flight Research Center Director to Retire](http://www.nasa.gov/press-release/nasa-announces-armstrong-flight-research-center-director-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T172700">2022-05-23 17:27:00 UTC</a></sub>
 * [How NASA finally melted its giant “self-licking ice cream cone”](https://arstechnica.com/science/2022/05/how-nasa-finally-melted-its-giant-self-licking-ice-cream-cone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T154727">2022-05-23 15:47:27 UTC</a></sub>
 * [Industry pushes for NASA reauthorization](https://spacenews.com/industry-pushes-for-nasa-reauthorization/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T111705">2022-05-23 11:17:05 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Military looking for new ways to acquire and use commercial satellite data](https://spacenews.com/military-looking-for-new-ways-to-acquire-and-use-commercial-satellite-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T050655">2022-05-23 05:06:55 UTC</a></sub>
 * [Starliner launches to remain on Atlas 5](https://spacenews.com/starliner-launches-to-remain-on-atlas-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220522T232704">2022-05-22 23:27:04 UTC</a></sub>
 * [NASA plans early June rollout of SLS for next countdown test](https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T230700">2022-05-21 23:07:00 UTC</a></sub>
-* [Boeing’s Starliner capsule completes first “nail-biting” docking at space station](https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T200659">2022-05-21 20:06:59 UTC</a></sub>
-* [Space station astronauts check out Starliner crew capsule](https://spaceflightnow.com/2022/05/21/space-station-astronauts-check-out-starliner-crew-capsule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T165701">2022-05-21 16:57:01 UTC</a></sub>
-* [Starliner makes first docking with ISS on OFT-2 mission](https://www.nasaspaceflight.com/2022/05/oft-2-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T003216">2022-05-21 00:32:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T210335">2022-05-23 21:03:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T213547">2022-05-23 21:35:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
