@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Military looking for new ways to acquire and use commercial satellite data](https://spacenews.com/military-looking-for-new-ways-to-acquire-and-use-commercial-satellite-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T050655">2022-05-23 05:06:55 UTC</a></sub>
 * [Starliner launches to remain on Atlas 5](https://spacenews.com/starliner-launches-to-remain-on-atlas-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220522T232704">2022-05-22 23:27:04 UTC</a></sub>
 * [NASA plans early June rollout of SLS for next countdown test](https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T230700">2022-05-21 23:07:00 UTC</a></sub>
 * [Boeing’s Starliner capsule completes first “nail-biting” docking at space station](https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T200659">2022-05-21 20:06:59 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Boeing successfully launches Starliner spacecraft to orbit in do-over test flight](https://www.theverge.com/2022/5/19/23131232/boeing-cst-100-starliner-launch-success-iss-nasa-oft-2) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T093000">2022-05-20 09:30:00 UTC</a></sub>
 * [Chinese launch startup Orienspace raises $59.9 million in Series A round](https://spacenews.com/chinese-launch-startup-orienspace-raises-59-9-million-in-series-a-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T082337">2022-05-20 08:23:37 UTC</a></sub>
 * [Starliner docks with ISS for the first time](https://spacenews.com/starliner-docks-with-iss-for-the-first-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T011718">2022-05-20 01:17:18 UTC</a></sub>
-* [Starliner Launches to Space Station on Uncrewed Flight Test for NASA](http://www.nasa.gov/press-release/starliner-launches-to-space-station-on-uncrewed-flight-test-for-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T235400">2022-05-19 23:54:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T051526">2022-05-23 05:15:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T054007">2022-05-23 05:40:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
