@@ -180,7 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Benchmark works with Space Force to develop reusable engines](https://spacenews.com/benchmark-works-with-space-force-to-develop-reusable-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T090318">2022-05-24 09:03:18 UTC</a></sub>
+* [Benchmark works with Space Forge to develop reusable engines](https://spacenews.com/benchmark-works-with-space-force-to-develop-reusable-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T114315">2022-05-24 11:43:15 UTC</a></sub>
 * [Experimental payload with robotic arm to attempt metal cutting on orbit](https://spacenews.com/experimental-payload-with-robotic-arm-to-attempt-metal-cutting-on-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T235658">2022-05-23 23:56:58 UTC</a></sub>
 * [Launch of NASA’s Psyche asteroid mission delayed to late September](https://spaceflightnow.com/2022/05/23/launch-of-nasas-psyche-asteroid-mission-delayed-to-late-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T225659">2022-05-23 22:56:59 UTC</a></sub>
 * [Lockheed Martin, Filecoin Foundation plan demonstration of decentralized data storage in space](https://spacenews.com/lockheed-martin-filecoin-foundation-plan-demonstration-of-decentralized-data-storage-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T224658">2022-05-23 22:46:58 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T113350">2022-05-24 11:33:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T121134">2022-05-24 12:11:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
