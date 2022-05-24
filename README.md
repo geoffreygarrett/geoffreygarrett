@@ -185,11 +185,11 @@ region. The mission's status is currently To Be Confirmed
 * [Lockheed Martin, Filecoin Foundation plan demonstration of decentralized data storage in space](https://spacenews.com/lockheed-martin-filecoin-foundation-plan-demonstration-of-decentralized-data-storage-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T224658">2022-05-23 22:46:58 UTC</a></sub>
 * [Russian spy satellite launched by Soyuz rocket](https://spaceflightnow.com/2022/05/23/russian-spy-satellite-launched-by-soyuz-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T220707">2022-05-23 22:07:07 UTC</a></sub>
 * [President Biden: NASA to Welcome Japanese Astronaut Aboard Gateway](http://www.nasa.gov/press-release/president-biden-nasa-to-welcome-japanese-astronaut-aboard-gateway) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T214700">2022-05-23 21:47:00 UTC</a></sub>
-* [SpaceX valuation set to reach $127 billion after new $1.7 billion funding round](https://www.teslarati.com/spacex-127-billion-valuation-new-funding-round-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T211758">2022-05-23 21:17:58 UTC</a></sub>
 * [Biden vows to expand space cooperation with South Korea, Japan](https://spacenews.com/biden-vows-to-expand-space-cooperation-with-south-korea-japan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T210710">2022-05-23 21:07:10 UTC</a></sub>
 * [Coverage Set for NASA’s Boeing Orbital Flight Test-2 Return to Earth](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-orbital-flight-test-2-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T210700">2022-05-23 21:07:00 UTC</a></sub>
 * [NASA Announces Armstrong Flight Research Center Director to Retire](http://www.nasa.gov/press-release/nasa-announces-armstrong-flight-research-center-director-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T172700">2022-05-23 17:27:00 UTC</a></sub>
 * [How NASA finally melted its giant “self-licking ice cream cone”](https://arstechnica.com/science/2022/05/how-nasa-finally-melted-its-giant-self-licking-ice-cream-cone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T154727">2022-05-23 15:47:27 UTC</a></sub>
+* [Industry pushes for NASA reauthorization](https://spacenews.com/industry-pushes-for-nasa-reauthorization/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T111705">2022-05-23 11:17:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T060811">2022-05-24 06:08:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T064517">2022-05-24 06:45:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
