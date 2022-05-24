@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Software problem delays NASA Psyche launch](https://spacenews.com/software-problem-delays-nasa-psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T121326">2022-05-24 12:13:26 UTC</a></sub>
 * [Benchmark works with Space Forge to develop reusable engines](https://spacenews.com/benchmark-works-with-space-force-to-develop-reusable-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T114315">2022-05-24 11:43:15 UTC</a></sub>
 * [Experimental payload with robotic arm to attempt metal cutting on orbit](https://spacenews.com/experimental-payload-with-robotic-arm-to-attempt-metal-cutting-on-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T235658">2022-05-23 23:56:58 UTC</a></sub>
 * [Launch of NASA’s Psyche asteroid mission delayed to late September](https://spaceflightnow.com/2022/05/23/launch-of-nasas-psyche-asteroid-mission-delayed-to-late-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T225659">2022-05-23 22:56:59 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Biden vows to expand space cooperation with South Korea, Japan](https://spacenews.com/biden-vows-to-expand-space-cooperation-with-south-korea-japan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T210710">2022-05-23 21:07:10 UTC</a></sub>
 * [Coverage Set for NASA’s Boeing Orbital Flight Test-2 Return to Earth](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-orbital-flight-test-2-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T210700">2022-05-23 21:07:00 UTC</a></sub>
 * [NASA Announces Armstrong Flight Research Center Director to Retire](http://www.nasa.gov/press-release/nasa-announces-armstrong-flight-research-center-director-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T172700">2022-05-23 17:27:00 UTC</a></sub>
-* [How NASA finally melted its giant “self-licking ice cream cone”](https://arstechnica.com/science/2022/05/how-nasa-finally-melted-its-giant-self-licking-ice-cream-cone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T154727">2022-05-23 15:47:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T121134">2022-05-24 12:11:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T130806">2022-05-24 13:08:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
