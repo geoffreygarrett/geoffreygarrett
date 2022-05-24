@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA-Supported Solar Sail Could Take Science to New Heights](http://www.nasa.gov/press-release/nasa-supported-solar-sail-could-take-science-to-new-heights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T155300">2022-05-24 15:53:00 UTC</a></sub>
 * [Azure Space offers Custom Vision tools for satellite imagery](https://spacenews.com/microsoft-custom-vision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T150322">2022-05-24 15:03:22 UTC</a></sub>
 * [Japan Air Self Defense Force awards contract to LeoLabs](https://spacenews.com/leolabs-contract-japan-ministry-of-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T132319">2022-05-24 13:23:19 UTC</a></sub>
 * [New photo reveals a NASA spacecraft cloaked in Martian dust](https://arstechnica.com/science/2022/05/red-dust-has-completely-covered-nasas-seismic-spacecraft-on-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T132030">2022-05-24 13:20:30 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Experimental payload with robotic arm to attempt metal cutting on orbit](https://spacenews.com/experimental-payload-with-robotic-arm-to-attempt-metal-cutting-on-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T235658">2022-05-23 23:56:58 UTC</a></sub>
 * [Launch of NASA’s Psyche asteroid mission delayed to late September](https://spaceflightnow.com/2022/05/23/launch-of-nasas-psyche-asteroid-mission-delayed-to-late-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T225659">2022-05-23 22:56:59 UTC</a></sub>
 * [Lockheed Martin, Filecoin Foundation plan demonstration of decentralized data storage in space](https://spacenews.com/lockheed-martin-filecoin-foundation-plan-demonstration-of-decentralized-data-storage-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T224658">2022-05-23 22:46:58 UTC</a></sub>
-* [Russian spy satellite launched by Soyuz rocket](https://spaceflightnow.com/2022/05/23/russian-spy-satellite-launched-by-soyuz-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T220707">2022-05-23 22:07:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T160712">2022-05-24 16:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T165723">2022-05-24 16:57:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
