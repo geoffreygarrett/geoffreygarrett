@@ -180,6 +180,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Launcher wins Space Force contract to support engine development](https://spacenews.com/launcher-wins-space-force-contract-to-support-engine-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T113335">2022-05-25 11:33:35 UTC</a></sub>
+* [SpaceX set to launch NASA laser satellite, in-space manufacturing demo, and more](https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T111358">2022-05-25 11:13:58 UTC</a></sub>
 * [Supply chain challenges also present opportunities for the space industry](https://spacenews.com/supply-chain-challenges-also-present-opportunities-for-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T092317">2022-05-25 09:23:17 UTC</a></sub>
 * [Experts offer advice for space sector entrepreneurs](https://spacenews.com/advice-for-entrepreneurs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T043317">2022-05-25 04:33:17 UTC</a></sub>
 * [Space Systems Command refines front-door concept](https://spacenews.com/ssc-front-door-pathways/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T233328">2022-05-24 23:33:28 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Awards Contract to National Academy of Science](http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T202300">2022-05-24 20:23:00 UTC</a></sub>
 * [SpaceX swapping heat shield for next crew flight due to ‘manufacturing defect’](https://spaceflightnow.com/2022/05/24/spacex-swapping-heat-shield-for-next-crew-mission-due-to-manufacturing-defect/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T201318">2022-05-24 20:13:18 UTC</a></sub>
 * [AWS picks 10 startups for 2022 space accelerator](https://spacenews.com/aws-picks-10-startups-for-2022-space-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T182329">2022-05-24 18:23:29 UTC</a></sub>
-* [BlueHalo wins $1.4 billion contract to upgrade U.S. satellite control network](https://spacenews.com/bluehalo-wins-1-4-billion-contract-to-upgrade-u-s-satellite-control-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T182329">2022-05-24 18:23:29 UTC</a></sub>
-* [Starlink’s RV service lets users jump the line for a price](https://spacenews.com/starlinks-rv-service-enables-lets-users-jump-the-line-for-a-price/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T181329">2022-05-24 18:13:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T110357">2022-05-25 11:03:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T113430">2022-05-25 11:34:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
