@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to Discuss Space Station Science, Climate Research](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-climate-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T142400">2022-05-25 14:24:00 UTC</a></sub>
+* [SpaceX to launch Falcon 9 on Transporter-5 Rideshare Mission](https://www.nasaspaceflight.com/2022/05/transporter-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T140119">2022-05-25 14:01:19 UTC</a></sub>
 * [Launcher wins Space Force contract to support engine development](https://spacenews.com/launcher-wins-space-force-contract-to-support-engine-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T113335">2022-05-25 11:33:35 UTC</a></sub>
 * [SpaceX set to launch NASA laser satellite, in-space manufacturing demo, and more](https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T111358">2022-05-25 11:13:58 UTC</a></sub>
 * [Supply chain challenges also present opportunities for the space industry](https://spacenews.com/supply-chain-challenges-also-present-opportunities-for-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T092317">2022-05-25 09:23:17 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA denies SpaceX Crew Dragon propellant leak report, reveals unrelated heat shield defect](https://www.teslarati.com/spacex-crew-dragon-heat-shield-nasa-denies-propellant-leak-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T210424">2022-05-24 21:04:24 UTC</a></sub>
 * [NASA Awards Contract to National Academy of Sciences](http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-sciences) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T204300">2022-05-24 20:43:00 UTC</a></sub>
 * [NASA Awards Contract to National Academy of Science](http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T202300">2022-05-24 20:23:00 UTC</a></sub>
-* [SpaceX swapping heat shield for next crew flight due to ‘manufacturing defect’](https://spaceflightnow.com/2022/05/24/spacex-swapping-heat-shield-for-next-crew-mission-due-to-manufacturing-defect/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T201318">2022-05-24 20:13:18 UTC</a></sub>
-* [AWS picks 10 startups for 2022 space accelerator](https://spacenews.com/aws-picks-10-startups-for-2022-space-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T182329">2022-05-24 18:23:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T141004">2022-05-25 14:10:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T143553">2022-05-25 14:35:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
