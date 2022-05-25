@@ -178,16 +178,16 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starliner concludes OFT-2 test flight with landing in New Mexico](https://spacenews.com/starliner-concludes-oft-2-test-flight-with-landing-in-new-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T232328">2022-05-25 23:23:28 UTC</a></sub>
 * [Gogo’s OneWeb partnership could face Starlink in business aviation market](https://spacenews.com/gogos-oneweb-partnership-could-face-starlink-in-business-aviation-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T213332">2022-05-25 21:33:32 UTC</a></sub>
 * [NASA Administrator, Arizona Students to Hear from Station Astronauts](http://www.nasa.gov/press-release/nasa-administrator-arizona-students-to-hear-from-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T213300">2022-05-25 21:33:00 UTC</a></sub>
 * [Virgin Orbit expects first U.K. launch in August](https://spacenews.com/virgin-orbit-expects-first-u-k-launch-in-august/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T212325">2022-05-25 21:23:25 UTC</a></sub>
 * [SpaceX delivers 59 spacecraft to orbit on fifth flawless rideshare launch](https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T200358">2022-05-25 20:03:58 UTC</a></sub>
-* [Starliner undocks from the ISS, prepares to return to Earth](https://www.nasaspaceflight.com/2022/05/oft-2-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T183712">2022-05-25 18:37:12 UTC</a></sub>
+* [Starliner completes OFT-2 test flight with White Sands landing](https://www.nasaspaceflight.com/2022/05/oft-2-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T183712">2022-05-25 18:37:12 UTC</a></sub>
 * [BlackSky, Maxar, Planet win 10-year NRO contracts for satellite imagery](https://spacenews.com/blacksky-maxar-planet-win-10-year-nro-contracts-for-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T170330">2022-05-25 17:03:30 UTC</a></sub>
 * [Industry looks to decentralized approaches to space sustainability](https://spacenews.com/industry-looks-to-decentralized-approaches-to-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T162319">2022-05-25 16:23:19 UTC</a></sub>
 * [Earth’s orbital debris problem is worsening, and policy solutions are difficult](https://arstechnica.com/science/2022/05/earths-orbital-debris-problem-is-worsening-and-policy-solutions-are-difficult/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T150940">2022-05-25 15:09:40 UTC</a></sub>
 * [NASA Invites Media to Discuss Space Station Science, Climate Research](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-climate-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T142400">2022-05-25 14:24:00 UTC</a></sub>
-* [SpaceX launches Falcon 9 on Transporter-5 Rideshare Mission](https://www.nasaspaceflight.com/2022/05/transporter-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T140119">2022-05-25 14:01:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T230337">2022-05-25 23:03:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T233710">2022-05-25 23:37:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
