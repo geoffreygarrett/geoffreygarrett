@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Experts offer advice for space sector entrepreneurs](https://spacenews.com/advice-for-entrepreneurs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T043317">2022-05-25 04:33:17 UTC</a></sub>
 * [Space Systems Command refines front-door concept](https://spacenews.com/ssc-front-door-pathways/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T233328">2022-05-24 23:33:28 UTC</a></sub>
 * [NASA denies SpaceX Crew Dragon propellant leak report, reveals unrelated heat shield defect](https://www.teslarati.com/spacex-crew-dragon-heat-shield-nasa-denies-propellant-leak-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T210424">2022-05-24 21:04:24 UTC</a></sub>
 * [NASA Awards Contract to National Academy of Sciences](http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-sciences) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T204300">2022-05-24 20:43:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [BlueHalo wins $1.4 billion contract to upgrade U.S. satellite control network](https://spacenews.com/bluehalo-wins-1-4-billion-contract-to-upgrade-u-s-satellite-control-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T182329">2022-05-24 18:23:29 UTC</a></sub>
 * [Starlink’s RV service lets users jump the line for a price](https://spacenews.com/starlinks-rv-service-enables-lets-users-jump-the-line-for-a-price/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T181329">2022-05-24 18:13:29 UTC</a></sub>
 * [NASA-Supported Solar Sail Could Take Science to New Heights](http://www.nasa.gov/press-release/nasa-supported-solar-sail-could-take-science-to-new-heights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T155300">2022-05-24 15:53:00 UTC</a></sub>
-* [Azure Space offers Custom Vision tools for satellite imagery](https://spacenews.com/microsoft-custom-vision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T150322">2022-05-24 15:03:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T041759">2022-05-25 04:17:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T045404">2022-05-25 04:54:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
