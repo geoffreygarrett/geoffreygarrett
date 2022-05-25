@@ -178,6 +178,9 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Gogo’s OneWeb partnership could face Starlink in business aviation market](https://spacenews.com/gogos-oneweb-partnership-could-face-starlink-in-business-aviation-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T213332">2022-05-25 21:33:32 UTC</a></sub>
+* [NASA Administrator, Arizona Students to Hear from Station Astronauts](http://www.nasa.gov/press-release/nasa-administrator-arizona-students-to-hear-from-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T213300">2022-05-25 21:33:00 UTC</a></sub>
+* [Virgin Orbit expects first U.K. launch in August](https://spacenews.com/virgin-orbit-expects-first-u-k-launch-in-august/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T212325">2022-05-25 21:23:25 UTC</a></sub>
 * [SpaceX delivers 59 spacecraft to orbit on fifth flawless rideshare launch](https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T200358">2022-05-25 20:03:58 UTC</a></sub>
 * [Starliner undocks from the ISS, prepares to return to Earth](https://www.nasaspaceflight.com/2022/05/oft-2-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T183712">2022-05-25 18:37:12 UTC</a></sub>
 * [BlackSky, Maxar, Planet win 10-year NRO contracts for satellite imagery](https://spacenews.com/blacksky-maxar-planet-win-10-year-nro-contracts-for-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T170330">2022-05-25 17:03:30 UTC</a></sub>
@@ -185,9 +188,6 @@ region. The mission's status is currently To Be Determined
 * [Earth’s orbital debris problem is worsening, and policy solutions are difficult](https://arstechnica.com/science/2022/05/earths-orbital-debris-problem-is-worsening-and-policy-solutions-are-difficult/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T150940">2022-05-25 15:09:40 UTC</a></sub>
 * [NASA Invites Media to Discuss Space Station Science, Climate Research](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-climate-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T142400">2022-05-25 14:24:00 UTC</a></sub>
 * [SpaceX launches Falcon 9 on Transporter-5 Rideshare Mission](https://www.nasaspaceflight.com/2022/05/transporter-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T140119">2022-05-25 14:01:19 UTC</a></sub>
-* [Launcher wins Space Force contract to support engine development](https://spacenews.com/launcher-wins-space-force-contract-to-support-engine-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T113335">2022-05-25 11:33:35 UTC</a></sub>
-* [Supply chain challenges also present opportunities for the space industry](https://spacenews.com/supply-chain-challenges-also-present-opportunities-for-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T092317">2022-05-25 09:23:17 UTC</a></sub>
-* [Experts offer advice for space sector entrepreneurs](https://spacenews.com/advice-for-entrepreneurs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T043317">2022-05-25 04:33:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T210302">2022-05-25 21:03:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T213559">2022-05-25 21:35:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
