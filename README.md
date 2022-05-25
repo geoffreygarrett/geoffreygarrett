@@ -183,7 +183,7 @@ region. The mission's status is currently To Be Determined
 * [Industry looks to decentralized approaches to space sustainability](https://spacenews.com/industry-looks-to-decentralized-approaches-to-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T162319">2022-05-25 16:23:19 UTC</a></sub>
 * [Earth’s orbital debris problem is worsening, and policy solutions are difficult](https://arstechnica.com/science/2022/05/earths-orbital-debris-problem-is-worsening-and-policy-solutions-are-difficult/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T150940">2022-05-25 15:09:40 UTC</a></sub>
 * [NASA Invites Media to Discuss Space Station Science, Climate Research](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-climate-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T142400">2022-05-25 14:24:00 UTC</a></sub>
-* [SpaceX to launch Falcon 9 on Transporter-5 Rideshare Mission](https://www.nasaspaceflight.com/2022/05/transporter-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T140119">2022-05-25 14:01:19 UTC</a></sub>
+* [SpaceX launches Falcon 9 on Transporter-5 Rideshare Mission](https://www.nasaspaceflight.com/2022/05/transporter-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T140119">2022-05-25 14:01:19 UTC</a></sub>
 * [Launcher wins Space Force contract to support engine development](https://spacenews.com/launcher-wins-space-force-contract-to-support-engine-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T113335">2022-05-25 11:33:35 UTC</a></sub>
 * [SpaceX set to launch NASA laser satellite, in-space manufacturing demo, and more](https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T111358">2022-05-25 11:13:58 UTC</a></sub>
 * [Supply chain challenges also present opportunities for the space industry](https://spacenews.com/supply-chain-challenges-also-present-opportunities-for-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T092317">2022-05-25 09:23:17 UTC</a></sub>
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T190244">2022-05-25 19:02:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T193146">2022-05-25 19:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
