@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX’s NASA Psyche Falcon Heavy launch slips to September](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T111453">2022-05-26 11:14:53 UTC</a></sub>
 * [Starliner concludes OFT-2 test flight with landing in New Mexico](https://spacenews.com/starliner-concludes-oft-2-test-flight-with-landing-in-new-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T232328">2022-05-25 23:23:28 UTC</a></sub>
 * [Gogo’s OneWeb partnership could face Starlink in business aviation market](https://spacenews.com/gogos-oneweb-partnership-could-face-starlink-in-business-aviation-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T213332">2022-05-25 21:33:32 UTC</a></sub>
 * [NASA Administrator, Arizona Students to Hear from Station Astronauts](http://www.nasa.gov/press-release/nasa-administrator-arizona-students-to-hear-from-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T213300">2022-05-25 21:33:00 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [BlackSky, Maxar, Planet win 10-year NRO contracts for satellite imagery](https://spacenews.com/blacksky-maxar-planet-win-10-year-nro-contracts-for-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T170330">2022-05-25 17:03:30 UTC</a></sub>
 * [Industry looks to decentralized approaches to space sustainability](https://spacenews.com/industry-looks-to-decentralized-approaches-to-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T162319">2022-05-25 16:23:19 UTC</a></sub>
 * [Earth’s orbital debris problem is worsening, and policy solutions are difficult](https://arstechnica.com/science/2022/05/earths-orbital-debris-problem-is-worsening-and-policy-solutions-are-difficult/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T150940">2022-05-25 15:09:40 UTC</a></sub>
-* [NASA Invites Media to Discuss Space Station Science, Climate Research](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-climate-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T142400">2022-05-25 14:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T110324">2022-05-26 11:03:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T113357">2022-05-26 11:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
