@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Discuss Status of Final Test Needed for Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-final-test-needed-for-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T143300">2022-05-26 14:33:00 UTC</a></sub>
 * [SpaceX launches Transporter-5 dedicated smallsat rideshare mission](https://spacenews.com/spacex-launches-transporter-5-dedicated-smallsat-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T115323">2022-05-26 11:53:23 UTC</a></sub>
 * [SpaceX’s NASA Psyche Falcon Heavy launch slips to September](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T111453">2022-05-26 11:14:53 UTC</a></sub>
 * [Starliner concludes OFT-2 test flight with landing in New Mexico](https://spacenews.com/starliner-concludes-oft-2-test-flight-with-landing-in-new-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T232328">2022-05-25 23:23:28 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [SpaceX delivers 59 spacecraft to orbit on fifth flawless rideshare launch](https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T200358">2022-05-25 20:03:58 UTC</a></sub>
 * [Starliner completes OFT-2 test flight with White Sands landing](https://www.nasaspaceflight.com/2022/05/oft-2-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T183712">2022-05-25 18:37:12 UTC</a></sub>
 * [BlackSky, Maxar, Planet win 10-year NRO contracts for satellite imagery](https://spacenews.com/blacksky-maxar-planet-win-10-year-nro-contracts-for-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T170330">2022-05-25 17:03:30 UTC</a></sub>
-* [Industry looks to decentralized approaches to space sustainability](https://spacenews.com/industry-looks-to-decentralized-approaches-to-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T162319">2022-05-25 16:23:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T140329">2022-05-26 14:03:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T143546">2022-05-26 14:35:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
