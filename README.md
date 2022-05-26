@@ -178,6 +178,8 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Pick Next Generation Spacesuits for Moonwalking, Spacewalking](http://www.nasa.gov/press-release/nasa-to-pick-next-generation-spacesuits-for-moonwalking-spacewalking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T223400">2022-05-26 22:34:00 UTC</a></sub>
+* [General Dynamics wins ground systems contract for Space Development Agency’s megaconstellation](https://spacenews.com/general-dynamics-wins-ground-systems-contract-for-space-development-agencys-megaconstellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T221357">2022-05-26 22:13:57 UTC</a></sub>
 * [Space Force rolls out cybersecurity standards for commercial providers of satellite services](https://spacenews.com/space-force-rolls-out-cybersecurity-standards-for-commercial-providers-of-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T205347">2022-05-26 20:53:47 UTC</a></sub>
 * [NASA Supports Small Business Research to Power Future Exploration](http://www.nasa.gov/press-release/nasa-supports-small-business-research-to-power-future-exploration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T202400">2022-05-26 20:24:00 UTC</a></sub>
 * [No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201500">2022-05-26 20:15:00 UTC</a></sub>
@@ -186,8 +188,6 @@ region. The mission's status is currently To Be Determined
 * [Economy could dampen growth of space industry](https://spacenews.com/economy-could-dampen-growth-of-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201419">2022-05-26 20:14:19 UTC</a></sub>
 * [NASA to Discuss Status of Final Test Needed for Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-final-test-needed-for-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201400">2022-05-26 20:14:00 UTC</a></sub>
 * [Ship 24 rolls out for testing while Booster 7 receives Raptors](https://www.nasaspaceflight.com/2022/05/s24-rollout-b7-raptors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T175510">2022-05-26 17:55:10 UTC</a></sub>
-* [NASA’s verdict on Starliner: “A great vehicle for crew transportation”](https://arstechnica.com/science/2022/05/nasas-verdict-on-starliner-a-great-vehicle-for-crew-transportation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T144334">2022-05-26 14:43:34 UTC</a></sub>
-* [Starliner concludes OFT-2 test flight with landing in New Mexico](https://spacenews.com/starliner-concludes-oft-2-test-flight-with-landing-in-new-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T232328">2022-05-25 23:23:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T220639">2022-05-26 22:06:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T223827">2022-05-26 22:38:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
