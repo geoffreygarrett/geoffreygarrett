@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ball and Raytheon to develop NOAA ocean sensors](https://spacenews.com/noaa-ocean-color-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T180347">2022-05-27 18:03:47 UTC</a></sub>
 * [NASA's Ingenuity Mars Helicopter Captures Video of Record Flight](https://mars.nasa.gov/news/9197/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T161400">2022-05-27 16:14:00 UTC</a></sub>
 * [UK’s Open Cosmos gets ESA funding for space weather constellation](https://spacenews.com/uks-open-cosmos-gets-esa-funding-for-space-weather-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T145349">2022-05-27 14:53:49 UTC</a></sub>
 * [The Philippines gives green light to Starlink](https://spacenews.com/the-philippines-gives-green-light-to-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T135352">2022-05-27 13:53:52 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [Rocket Report: Meet the Gravity-1 rocket; will Starship really cut launch costs?](https://arstechnica.com/science/2022/05/rocket-report-meet-the-gravity-1-rocket-will-starship-really-cut-launch-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T110041">2022-05-27 11:00:41 UTC</a></sub>
 * [NASA to Pick Next Generation Spacesuits for Moonwalking, Spacewalking](http://www.nasa.gov/press-release/nasa-to-pick-next-generation-spacesuits-for-moonwalking-spacewalking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T223400">2022-05-26 22:34:00 UTC</a></sub>
 * [General Dynamics wins ground systems contract for Space Development Agency’s megaconstellation](https://spacenews.com/general-dynamics-wins-ground-systems-contract-for-space-development-agencys-megaconstellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T221357">2022-05-26 22:13:57 UTC</a></sub>
-* [Space Force rolls out cybersecurity standards for commercial providers of satellite services](https://spacenews.com/space-force-rolls-out-cybersecurity-standards-for-commercial-providers-of-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T205347">2022-05-26 20:53:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T180703">2022-05-27 18:07:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T184425">2022-05-27 18:44:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
