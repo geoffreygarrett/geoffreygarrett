@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK’s Open Cosmos gets ESA funding for space weather constellation](https://spacenews.com/uks-open-cosmos-gets-esa-funding-for-space-weather-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T145349">2022-05-27 14:53:49 UTC</a></sub>
 * [The Philippines gives green light to Starlink](https://spacenews.com/the-philippines-gives-green-light-to-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T135352">2022-05-27 13:53:52 UTC</a></sub>
 * [Astroscale gets funds for 2024 debris-removal mission](https://spacenews.com/astroscale-gets-funds-for-2024-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T133352">2022-05-27 13:33:52 UTC</a></sub>
 * [China targets permanently shadowed regions at lunar south pole](https://spacenews.com/china-targets-permanently-shadowed-regions-at-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T124349">2022-05-27 12:43:49 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [General Dynamics wins ground systems contract for Space Development Agency’s megaconstellation](https://spacenews.com/general-dynamics-wins-ground-systems-contract-for-space-development-agencys-megaconstellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T221357">2022-05-26 22:13:57 UTC</a></sub>
 * [Space Force rolls out cybersecurity standards for commercial providers of satellite services](https://spacenews.com/space-force-rolls-out-cybersecurity-standards-for-commercial-providers-of-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T205347">2022-05-26 20:53:47 UTC</a></sub>
 * [NASA Supports Small Business Research to Power Future Exploration](http://www.nasa.gov/press-release/nasa-supports-small-business-research-to-power-future-exploration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T202400">2022-05-26 20:24:00 UTC</a></sub>
-* [No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201500">2022-05-26 20:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T143518">2022-05-27 14:35:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T150638">2022-05-27 15:06:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
