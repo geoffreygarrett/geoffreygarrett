@@ -178,6 +178,8 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX rolls out first new Starship prototype in nine months](https://www.teslarati.com/spacex-starship-first-new-prototype-nine-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T111507">2022-05-27 11:15:07 UTC</a></sub>
+* [Rocket Report: Meet the Gravity-1 rocket; will Starship really cut launch costs?](https://arstechnica.com/science/2022/05/rocket-report-meet-the-gravity-1-rocket-will-starship-really-cut-launch-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T110041">2022-05-27 11:00:41 UTC</a></sub>
 * [NASA to Pick Next Generation Spacesuits for Moonwalking, Spacewalking](http://www.nasa.gov/press-release/nasa-to-pick-next-generation-spacesuits-for-moonwalking-spacewalking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T223400">2022-05-26 22:34:00 UTC</a></sub>
 * [General Dynamics wins ground systems contract for Space Development Agency’s megaconstellation](https://spacenews.com/general-dynamics-wins-ground-systems-contract-for-space-development-agencys-megaconstellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T221357">2022-05-26 22:13:57 UTC</a></sub>
 * [Space Force rolls out cybersecurity standards for commercial providers of satellite services](https://spacenews.com/space-force-rolls-out-cybersecurity-standards-for-commercial-providers-of-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T205347">2022-05-26 20:53:47 UTC</a></sub>
@@ -186,8 +188,6 @@ region. The mission's status is currently To Be Determined
 * [Additive manufacturing has progressed far beyond brackets](https://spacenews.com/additive-space-tech-expo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201419">2022-05-26 20:14:19 UTC</a></sub>
 * [Economy could dampen growth of space industry](https://spacenews.com/economy-could-dampen-growth-of-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201419">2022-05-26 20:14:19 UTC</a></sub>
 * [SpaceX launches Transporter-5 dedicated smallsat rideshare mission](https://spacenews.com/spacex-launches-transporter-5-dedicated-smallsat-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201419">2022-05-26 20:14:19 UTC</a></sub>
-* [NASA to Discuss Status of Final Test Needed for Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-final-test-needed-for-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201400">2022-05-26 20:14:00 UTC</a></sub>
-* [Ship 24 rolls out for testing while Booster 7 receives Raptors](https://www.nasaspaceflight.com/2022/05/s24-rollout-b7-raptors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T175510">2022-05-26 17:55:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T110449">2022-05-27 11:04:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T113434">2022-05-27 11:34:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
