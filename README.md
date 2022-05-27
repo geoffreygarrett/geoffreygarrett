@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Philippines gives green light to Starlink](https://spacenews.com/the-philippines-gives-green-light-to-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T135352">2022-05-27 13:53:52 UTC</a></sub>
 * [Astroscale gets funds for 2024 debris-removal mission](https://spacenews.com/astroscale-gets-funds-for-2024-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T133352">2022-05-27 13:33:52 UTC</a></sub>
 * [China targets permanently shadowed regions at lunar south pole](https://spacenews.com/china-targets-permanently-shadowed-regions-at-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T124349">2022-05-27 12:43:49 UTC</a></sub>
 * [SpaceX rolls out first new Starship prototype in nine months](https://www.teslarati.com/spacex-starship-first-new-prototype-nine-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T111507">2022-05-27 11:15:07 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [Space Force rolls out cybersecurity standards for commercial providers of satellite services](https://spacenews.com/space-force-rolls-out-cybersecurity-standards-for-commercial-providers-of-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T205347">2022-05-26 20:53:47 UTC</a></sub>
 * [NASA Supports Small Business Research to Power Future Exploration](http://www.nasa.gov/press-release/nasa-supports-small-business-research-to-power-future-exploration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T202400">2022-05-26 20:24:00 UTC</a></sub>
 * [No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201500">2022-05-26 20:15:00 UTC</a></sub>
-* [Additive manufacturing has progressed far beyond brackets](https://spacenews.com/additive-space-tech-expo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201419">2022-05-26 20:14:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -198,6 +198,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [It’s not easy being this far out](https://www.planetary.org/the-downlink/its-not-easy-being-this-far-out) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T143423">2022-05-27 14:34:23 UTC</a></sub>
 * [OFT-2: Atlas V successfully launches Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-successfully-launches-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T154730">2022-05-20 15:47:30 UTC</a></sub>
 * [A little too close for comfort](https://www.planetary.org/the-downlink/a-little-too-close-for-comfort) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T143739">2022-05-20 14:37:39 UTC</a></sub>
 * [How Uranus and Neptune are key to unlocking how planets form](https://www.planetary.org/articles/uranus-neptune-how-planets-form) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140410">2022-05-17 14:04:10 UTC</a></sub>
@@ -207,7 +208,6 @@ region. The mission's status is currently To Be Determined
 * [Your cosmic community](https://www.planetary.org/the-downlink/your-cosmic-community) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T143401">2022-05-13 14:34:01 UTC</a></sub>
 * [When to worry about an asteroid striking Earth](https://www.planetary.org/articles/asteroid-hitting-earth-when-to-worry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T140355">2022-05-10 14:03:55 UTC</a></sub>
 * [That’s so metal](https://www.planetary.org/the-downlink/thats-so-metal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T143414">2022-05-06 14:34:14 UTC</a></sub>
-* [OFT-2: Atlas V and Starliner joined for launch](https://blog.ulalaunch.com/blog/oft-2-atlas-v-and-starliner-joined-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T205332">2022-05-04 20:53:32 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T140335">2022-05-27 14:03:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T143518">2022-05-27 14:35:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
