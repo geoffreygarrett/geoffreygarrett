@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink approved in Nigeria and Mozambique, says Elon Musk](https://spacenews.com/starlink-approved-in-nigeria-and-mozambique-says-elon-musk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T214348">2022-05-27 21:43:48 UTC</a></sub>
 * [Ball and Raytheon to develop NOAA ocean sensors](https://spacenews.com/noaa-ocean-color-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T180347">2022-05-27 18:03:47 UTC</a></sub>
 * [NASA's Ingenuity Mars Helicopter Captures Video of Record Flight](https://mars.nasa.gov/news/9197/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T161400">2022-05-27 16:14:00 UTC</a></sub>
 * [UK’s Open Cosmos gets ESA funding for space weather constellation](https://spacenews.com/uks-open-cosmos-gets-esa-funding-for-space-weather-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T145349">2022-05-27 14:53:49 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [SpaceX rolls out first new Starship prototype in nine months](https://www.teslarati.com/spacex-starship-first-new-prototype-nine-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T111507">2022-05-27 11:15:07 UTC</a></sub>
 * [Rocket Report: Meet the Gravity-1 rocket; will Starship really cut launch costs?](https://arstechnica.com/science/2022/05/rocket-report-meet-the-gravity-1-rocket-will-starship-really-cut-launch-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T110041">2022-05-27 11:00:41 UTC</a></sub>
 * [NASA to Pick Next Generation Spacesuits for Moonwalking, Spacewalking](http://www.nasa.gov/press-release/nasa-to-pick-next-generation-spacesuits-for-moonwalking-spacewalking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T223400">2022-05-26 22:34:00 UTC</a></sub>
-* [General Dynamics wins ground systems contract for Space Development Agency’s megaconstellation](https://spacenews.com/general-dynamics-wins-ground-systems-contract-for-space-development-agencys-megaconstellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T221357">2022-05-26 22:13:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T220337">2022-05-27 22:03:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T223751">2022-05-27 22:37:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
