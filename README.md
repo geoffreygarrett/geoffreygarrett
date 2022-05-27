@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astroscale gets funds for 2024 debris-removal mission](https://spacenews.com/astroscale-gets-funds-for-2024-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T133352">2022-05-27 13:33:52 UTC</a></sub>
 * [China targets permanently shadowed regions at lunar south pole](https://spacenews.com/china-targets-permanently-shadowed-regions-at-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T124349">2022-05-27 12:43:49 UTC</a></sub>
 * [SpaceX rolls out first new Starship prototype in nine months](https://www.teslarati.com/spacex-starship-first-new-prototype-nine-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T111507">2022-05-27 11:15:07 UTC</a></sub>
 * [Rocket Report: Meet the Gravity-1 rocket; will Starship really cut launch costs?](https://arstechnica.com/science/2022/05/rocket-report-meet-the-gravity-1-rocket-will-starship-really-cut-launch-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T110041">2022-05-27 11:00:41 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [NASA Supports Small Business Research to Power Future Exploration](http://www.nasa.gov/press-release/nasa-supports-small-business-research-to-power-future-exploration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T202400">2022-05-26 20:24:00 UTC</a></sub>
 * [No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201500">2022-05-26 20:15:00 UTC</a></sub>
 * [Additive manufacturing has progressed far beyond brackets](https://spacenews.com/additive-space-tech-expo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201419">2022-05-26 20:14:19 UTC</a></sub>
-* [Economy could dampen growth of space industry](https://spacenews.com/economy-could-dampen-growth-of-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T201419">2022-05-26 20:14:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T130646">2022-05-27 13:06:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T135138">2022-05-27 13:51:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
