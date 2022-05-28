@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [KARI names KPLO as it begins communication testing](https://www.nasaspaceflight.com/2022/05/kplo-name-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220528T173410">2022-05-28 17:34:10 UTC</a></sub>
 * [NASA to reexamine space-based solar power](https://spacenews.com/nasa-to-reexamine-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220528T172356">2022-05-28 17:23:56 UTC</a></sub>
 * [Starlink approved in Nigeria and Mozambique, says Elon Musk](https://spacenews.com/starlink-approved-in-nigeria-and-mozambique-says-elon-musk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T214348">2022-05-27 21:43:48 UTC</a></sub>
 * [Ball and Raytheon to develop NOAA ocean sensors](https://spacenews.com/noaa-ocean-color-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T180347">2022-05-27 18:03:47 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [Astroscale gets funds for 2024 debris-removal mission](https://spacenews.com/astroscale-gets-funds-for-2024-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T133352">2022-05-27 13:33:52 UTC</a></sub>
 * [China targets permanently shadowed regions at lunar south pole](https://spacenews.com/china-targets-permanently-shadowed-regions-at-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T124349">2022-05-27 12:43:49 UTC</a></sub>
 * [SpaceX rolls out first new Starship prototype in nine months](https://www.teslarati.com/spacex-starship-first-new-prototype-nine-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T111507">2022-05-27 11:15:07 UTC</a></sub>
-* [Rocket Report: Meet the Gravity-1 rocket; will Starship really cut launch costs?](https://arstechnica.com/science/2022/05/rocket-report-meet-the-gravity-1-rocket-will-starship-really-cut-launch-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T110041">2022-05-27 11:00:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220528T180635">2022-05-28 18:06:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220528T184208">2022-05-28 18:42:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
