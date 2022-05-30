@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force identifies national security launches funded in 2022 and 2023](https://spacenews.com/space-force-identifies-national-security-launches-funded-in-2022-and-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T191359">2022-05-30 19:13:59 UTC</a></sub>
 * [Lawmakers seek another big increase for DoD ‘responsive launch’](https://spacenews.com/lawmakers-seek-another-big-increase-for-dod-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T164346">2022-05-30 16:43:46 UTC</a></sub>
 * [UK-launched rocket promises to transform microsatellite launch business](https://spaceflightnow.com/2022/05/30/uk-launched-rocket-promises-to-transform-microsatellite-launch-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T164343">2022-05-30 16:43:43 UTC</a></sub>
 * [SpaceX CEO Elon Musk reveals next-generation Starlink satellite details](https://www.teslarati.com/spacex-elon-musk-next-gen-starlink-satellite-details/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T111420">2022-05-30 11:14:20 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to reexamine space-based solar power](https://spacenews.com/nasa-to-reexamine-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220528T172356">2022-05-28 17:23:56 UTC</a></sub>
 * [Starlink approved in Nigeria and Mozambique, says Elon Musk](https://spacenews.com/starlink-approved-in-nigeria-and-mozambique-says-elon-musk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T214348">2022-05-27 21:43:48 UTC</a></sub>
 * [Ball and Raytheon to develop NOAA ocean sensors](https://spacenews.com/noaa-ocean-color-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T180347">2022-05-27 18:03:47 UTC</a></sub>
-* [NASA's Ingenuity Mars Helicopter Captures Video of Record Flight](https://mars.nasa.gov/news/9197/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T161400">2022-05-27 16:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T190223">2022-05-30 19:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T193138">2022-05-30 19:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
