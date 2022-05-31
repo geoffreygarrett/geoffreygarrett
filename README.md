@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Provide Live Coverage of Space Station Cargo Launch, Docking](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T185400">2022-05-31 18:54:00 UTC</a></sub>
 * [Astrocast buying Hiber to boost funding and expansion plans](https://spacenews.com/astrocast-buying-hiber-to-boost-funding-and-expansion-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T180404">2022-05-31 18:04:04 UTC</a></sub>
 * [AstroForge aims to succeed where other asteroid mining companies have failed](https://arstechnica.com/science/2022/05/astroforge-aims-to-succeed-where-other-asteroid-mining-companies-have-failed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T164801">2022-05-31 16:48:01 UTC</a></sub>
 * [Sierra Space to partner with Spirit AeroSystems on Dream Chaser cargo modules](https://spacenews.com/sierra-space-to-partner-with-spirit-aerosystems-on-dream-chaser-cargo-modules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T160354">2022-05-31 16:03:54 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX repairing upgraded Starship prototype after first test](https://www.teslarati.com/spacex-repairing-upgraded-starship-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T111419">2022-05-31 11:14:19 UTC</a></sub>
 * [Ingenuity “hunkering down” during Martian dust storms and winter](https://spacenews.com/ingenuity-hunkering-down-during-martian-dust-storms-and-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T223357">2022-05-30 22:33:57 UTC</a></sub>
 * [James Webb targets detailed as commissioning nears completion](https://www.nasaspaceflight.com/2022/05/james-webb-first-research-targets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T200659">2022-05-30 20:06:59 UTC</a></sub>
-* [Space Force identifies national security launches funded in 2022 and 2023](https://spacenews.com/space-force-identifies-national-security-launches-funded-in-2022-and-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T191359">2022-05-30 19:13:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T190233">2022-05-31 19:02:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T193204">2022-05-31 19:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
