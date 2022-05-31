@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket to launch China’s next space station module arrives at launch center](https://spacenews.com/rocket-to-launch-chinas-next-space-station-module-arrives-at-launch-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T134346">2022-05-31 13:43:46 UTC</a></sub>
+* [Against Quad? China launches satellite-based Earth observation initiative with BRICS nations](https://spacenews.com/against-quad-china-launches-satellite-based-earth-observation-initiative-with-brics-nations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T132357">2022-05-31 13:23:57 UTC</a></sub>
 * [House committee questions proposed delay in NASA asteroid mission](https://spacenews.com/house-committee-questions-proposed-delay-in-nasa-asteroid-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T113346">2022-05-31 11:33:46 UTC</a></sub>
 * [SpaceX repairing upgraded Starship prototype after first test](https://www.teslarati.com/spacex-repairing-upgraded-starship-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T111419">2022-05-31 11:14:19 UTC</a></sub>
 * [Ingenuity “hunkering down” during Martian dust storms and winter](https://spacenews.com/ingenuity-hunkering-down-during-martian-dust-storms-and-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T223357">2022-05-30 22:33:57 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Lawmakers seek another big increase for DoD ‘responsive launch’](https://spacenews.com/lawmakers-seek-another-big-increase-for-dod-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T164346">2022-05-30 16:43:46 UTC</a></sub>
 * [UK-launched rocket promises to transform microsatellite launch business](https://spaceflightnow.com/2022/05/30/uk-launched-rocket-promises-to-transform-microsatellite-launch-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T164343">2022-05-30 16:43:43 UTC</a></sub>
 * [SpaceX CEO Elon Musk reveals next-generation Starlink satellite details](https://www.teslarati.com/spacex-elon-musk-next-gen-starlink-satellite-details/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T111420">2022-05-30 11:14:20 UTC</a></sub>
-* [China rolls out rocket for Shenzhou-14 crewed mission](https://spacenews.com/china-rolls-out-rocket-for-shenzhou-14-crewed-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220529T111351">2022-05-29 11:13:51 UTC</a></sub>
-* [Next SLS countdown rehearsal scheduled for June 19](https://spacenews.com/next-sls-countdown-rehearsal-scheduled-for-june-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220529T022352">2022-05-29 02:23:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T130707">2022-05-31 13:07:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T135419">2022-05-31 13:54:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
