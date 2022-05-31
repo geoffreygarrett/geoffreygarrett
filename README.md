@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [AstroForge aims to succeed where other asteroid mining companies have failed](https://arstechnica.com/science/2022/05/astroforge-aims-to-succeed-where-other-asteroid-mining-companies-have-failed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T164801">2022-05-31 16:48:01 UTC</a></sub>
+* [Sierra Space to partner with Spirit AeroSystems on Dream Chaser cargo modules](https://spacenews.com/sierra-space-to-partner-with-spirit-aerosystems-on-dream-chaser-cargo-modules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T160354">2022-05-31 16:03:54 UTC</a></sub>
 * [Rocket to launch China’s next space station module arrives at launch center](https://spacenews.com/rocket-to-launch-chinas-next-space-station-module-arrives-at-launch-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T134346">2022-05-31 13:43:46 UTC</a></sub>
 * [Against Quad? China launches satellite-based Earth observation initiative with BRICS nations](https://spacenews.com/against-quad-china-launches-satellite-based-earth-observation-initiative-with-brics-nations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T132357">2022-05-31 13:23:57 UTC</a></sub>
 * [House committee questions proposed delay in NASA asteroid mission](https://spacenews.com/house-committee-questions-proposed-delay-in-nasa-asteroid-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T113346">2022-05-31 11:33:46 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [James Webb targets detailed as commissioning nears completion](https://www.nasaspaceflight.com/2022/05/james-webb-first-research-targets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T200659">2022-05-30 20:06:59 UTC</a></sub>
 * [Space Force identifies national security launches funded in 2022 and 2023](https://spacenews.com/space-force-identifies-national-security-launches-funded-in-2022-and-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T191359">2022-05-30 19:13:59 UTC</a></sub>
 * [Lawmakers seek another big increase for DoD ‘responsive launch’](https://spacenews.com/lawmakers-seek-another-big-increase-for-dod-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T164346">2022-05-30 16:43:46 UTC</a></sub>
-* [UK-launched rocket promises to transform microsatellite launch business](https://spaceflightnow.com/2022/05/30/uk-launched-rocket-promises-to-transform-microsatellite-launch-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T164343">2022-05-30 16:43:43 UTC</a></sub>
-* [SpaceX CEO Elon Musk reveals next-generation Starlink satellite details](https://www.teslarati.com/spacex-elon-musk-next-gen-starlink-satellite-details/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T111420">2022-05-30 11:14:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T160752">2022-05-31 16:07:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T165927">2022-05-31 16:59:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
