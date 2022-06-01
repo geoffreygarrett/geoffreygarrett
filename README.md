@@ -26,6 +26,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <h3 align="center"> Open issues 🆘 </h3>
 
 <!-- github issues starts -->
+* [KaTeX rendering after markdown parser.](https://github.com/geoffreygarrett/notes.geoffreygarrett.com/issues/4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T130043">2022-06-01 13:00:43 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Implement `conda` package of `multidoc` into workflow](https://github.com/tudat-team/tudat-multidoc/issues/43) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T122202">2022-03-07 12:22:02 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Request: change of style for enumeration](https://github.com/tudat-team/tudat-multidoc/issues/35) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T231953">2022-02-22 23:19:53 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Revise "about" page](https://github.com/tudat-team/tudat-space/issues/62) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T130818">2022-02-18 13:08:18 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
@@ -222,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T121146">2022-06-01 12:11:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T131514">2022-06-01 13:15:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
