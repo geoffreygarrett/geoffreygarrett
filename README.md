@@ -181,16 +181,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA chooses two companies to build spacesuits for its 21st century Moonwalkers](https://arstechnica.com/science/2022/06/nasa-announces-a-new-plan-to-buy-private-spacesuits-to-make-lunar-landing-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T221910">2022-06-01 22:19:10 UTC</a></sub>
+* [NASA's Perseverance Studies the Wild Winds of Jezero Crater](https://mars.nasa.gov/news/9201/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T220300">2022-06-01 22:03:00 UTC</a></sub>
+* [NASA selects Axiom Space and Collins Aerospace for spacesuit contracts](https://spacenews.com/nasa-selects-axiom-space-and-collins-aerospace-for-spacesuit-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T215346">2022-06-01 21:53:46 UTC</a></sub>
 * [SpaceX, ULA awarded eight more US military launch contracts](https://www.teslarati.com/spacex-ula-win-8-us-military-launch-contracts-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T210414">2022-06-01 21:04:14 UTC</a></sub>
 * [NASA Administrator to Launch Artemis Learning Lunchbox Initiative](http://www.nasa.gov/press-release/nasa-administrator-to-launch-artemis-learning-lunchbox-initiative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T195400">2022-06-01 19:54:00 UTC</a></sub>
 * [NASA Scientists Available for 2022 Hurricane Season Interviews](http://www.nasa.gov/press-release/nasa-scientists-available-for-2022-hurricane-season-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T181400">2022-06-01 18:14:00 UTC</a></sub>
 * [NASA Partners with Industry for New Spacewalking, Moonwalking Services](http://www.nasa.gov/press-release/nasa-partners-with-industry-for-new-spacewalking-moonwalking-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T180300">2022-06-01 18:03:00 UTC</a></sub>
-* [NASA's MAVEN Spacecraft Resumes Science & Operations, Exits Safe Mode](https://mars.nasa.gov/news/9200/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
 * [Científicas de la NASA disponibles para entrevistas sobre huracanes](http://www.nasa.gov/press-release/cient-ficas-de-la-nasa-disponibles-para-entrevistas-sobre-huracanes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
+* [NASA's MAVEN Spacecraft Resumes Science & Operations, Exits Safe Mode](https://mars.nasa.gov/news/9200/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
 * [MDA sees Canadarm3 commercial spinoff success in robotic partnership with Lockheed Martin, General Motors](https://www.nasaspaceflight.com/2022/06/mda-robotics-lm-gm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T164730">2022-06-01 16:47:30 UTC</a></sub>
-* [Analysts: NRO contracts will have long-term ripple effects on satellite imagery industry](https://spacenews.com/analysts-nro-contracts-will-have-long-term-ripple-effects-on-satellite-imagery-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T163346">2022-06-01 16:33:46 UTC</a></sub>
-* [Arianespace narrows Vega C and Ariane 6 maiden flight windows](https://spacenews.com/arianespace-narrows-vega-c-and-ariane-6-maiden-flight-windows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T144348">2022-06-01 14:43:48 UTC</a></sub>
-* [NASA still “pushing” for a Russian cosmonaut to fly on next SpaceX mission](https://arstechnica.com/science/2022/06/nasa-still-pushing-for-a-russian-cosmonaut-to-fly-on-next-spacex-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T143738">2022-06-01 14:37:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T220445">2022-06-01 22:04:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T223943">2022-06-01 22:39:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
