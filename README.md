@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to begin launching new ‘shell’ of Starlink satellites in July](https://www.teslarati.com/spacex-new-starlink-shell-launches-july-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T111407">2022-06-01 11:14:07 UTC</a></sub>
 * [SpaceX’s Starbase environmental review is inches from the finish line](https://www.teslarati.com/spacex-starbase-environmental-review-fifth-delay-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T205434">2022-05-31 20:54:34 UTC</a></sub>
 * [NASA to Provide Live Coverage of Space Station Cargo Launch, Docking](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T185400">2022-05-31 18:54:00 UTC</a></sub>
 * [Astrocast buying Hiber to boost funding and expansion plans](https://spacenews.com/astrocast-buying-hiber-to-boost-funding-and-expansion-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T180404">2022-05-31 18:04:04 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Against Quad? China launches satellite-based Earth observation initiative with BRICS nations](https://spacenews.com/against-quad-china-launches-satellite-based-earth-observation-initiative-with-brics-nations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T132357">2022-05-31 13:23:57 UTC</a></sub>
 * [House committee questions proposed delay in NASA asteroid mission](https://spacenews.com/house-committee-questions-proposed-delay-in-nasa-asteroid-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T113346">2022-05-31 11:33:46 UTC</a></sub>
 * [SpaceX repairing upgraded Starship prototype after first test](https://www.teslarati.com/spacex-repairing-upgraded-starship-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T111419">2022-05-31 11:14:19 UTC</a></sub>
-* [Ingenuity “hunkering down” during Martian dust storms and winter](https://spacenews.com/ingenuity-hunkering-down-during-martian-dust-storms-and-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T223357">2022-05-30 22:33:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T110227">2022-06-01 11:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T113446">2022-06-01 11:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
