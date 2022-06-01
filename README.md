@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's MAVEN Spacecraft Resumes Science & Operations, Exits Safe Mode](https://mars.nasa.gov/news/9200/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
+* [Científicas de la NASA disponibles para entrevistas sobre huracanes](http://www.nasa.gov/press-release/cient-ficas-de-la-nasa-disponibles-para-entrevistas-sobre-huracanes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
 * [MDA sees Canadarm3 commercial spinoff success in robotic partnership with Lockheed Martin, General Motors](https://www.nasaspaceflight.com/2022/06/mda-robotics-lm-gm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T164730">2022-06-01 16:47:30 UTC</a></sub>
 * [Analysts: NRO contracts will have long-term ripple effects on satellite imagery industry](https://spacenews.com/analysts-nro-contracts-will-have-long-term-ripple-effects-on-satellite-imagery-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T163346">2022-06-01 16:33:46 UTC</a></sub>
 * [Arianespace narrows Vega C and Ariane 6 maiden flight windows](https://spacenews.com/arianespace-narrows-vega-c-and-ariane-6-maiden-flight-windows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T144348">2022-06-01 14:43:48 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Startups raise millions for lunar rovers and asteroid mining](https://spacenews.com/startups-raise-millions-for-lunar-rovers-and-asteroid-mining/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T115350">2022-06-01 11:53:50 UTC</a></sub>
 * [SpaceX to begin launching new ‘shell’ of Starlink satellites in July](https://www.teslarati.com/spacex-new-starlink-shell-launches-july-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T111407">2022-06-01 11:14:07 UTC</a></sub>
 * [SpaceX’s Starbase environmental review is inches from the finish line](https://www.teslarati.com/spacex-starbase-environmental-review-fifth-delay-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T205434">2022-05-31 20:54:34 UTC</a></sub>
-* [NASA to Provide Live Coverage of Space Station Cargo Launch, Docking](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T185400">2022-05-31 18:54:00 UTC</a></sub>
-* [Astrocast buying Hiber to boost funding and expansion plans](https://spacenews.com/astrocast-buying-hiber-to-boost-funding-and-expansion-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T180404">2022-05-31 18:04:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T165757">2022-06-01 16:57:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T173041">2022-06-01 17:30:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
