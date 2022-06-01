@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Scientists Available for 2022 Hurricane Season Interviews](http://www.nasa.gov/press-release/nasa-scientists-available-for-2022-hurricane-season-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T181400">2022-06-01 18:14:00 UTC</a></sub>
 * [NASA Partners with Industry for New Spacewalking, Moonwalking Services](http://www.nasa.gov/press-release/nasa-partners-with-industry-for-new-spacewalking-moonwalking-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T180300">2022-06-01 18:03:00 UTC</a></sub>
 * [NASA's MAVEN Spacecraft Resumes Science & Operations, Exits Safe Mode](https://mars.nasa.gov/news/9200/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
 * [Científicas de la NASA disponibles para entrevistas sobre huracanes](http://www.nasa.gov/press-release/cient-ficas-de-la-nasa-disponibles-para-entrevistas-sobre-huracanes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA still “pushing” for a Russian cosmonaut to fly on next SpaceX mission](https://arstechnica.com/science/2022/06/nasa-still-pushing-for-a-russian-cosmonaut-to-fly-on-next-spacex-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T143738">2022-06-01 14:37:38 UTC</a></sub>
 * [Avio Q&A: Powering the growth trajectory](https://spacenews.com/avio-qa-powering-the-growth-trajectory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T132351">2022-06-01 13:23:51 UTC</a></sub>
 * [Startups raise millions for lunar rovers and asteroid mining](https://spacenews.com/startups-raise-millions-for-lunar-rovers-and-asteroid-mining/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T115350">2022-06-01 11:53:50 UTC</a></sub>
-* [SpaceX to begin launching new ‘shell’ of Starlink satellites in July](https://www.teslarati.com/spacex-new-starlink-shell-launches-july-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T111407">2022-06-01 11:14:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T180732">2022-06-01 18:07:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T184545">2022-06-01 18:45:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
