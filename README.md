@@ -180,6 +180,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Long March 2C launches 9 navigation test satellites for Chinese automaker](https://spacenews.com/long-march-2c-launches-nine-navigation-test-satellites-for-chinese-automaker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T120346">2022-06-02 12:03:46 UTC</a></sub>
+* [Momentus attempting to fix anomalies with first Vigoride tug](https://spacenews.com/momentus-attempting-to-fix-anomalies-with-first-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T114346">2022-06-02 11:43:46 UTC</a></sub>
+* [Chinese automaker launches nine satellites to aid self-driving cars](https://spaceflightnow.com/2022/06/02/chinese-automaker-launches-nine-satellites-to-aid-self-driving-cars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T114343">2022-06-02 11:43:43 UTC</a></sub>
 * [SpaceX making good progress towards Super Heavy static fire campaign](https://www.teslarati.com/spacex-super-heavy-booster-7-static-fire-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T111410">2022-06-02 11:14:10 UTC</a></sub>
 * [NASA chooses two companies to build spacesuits for its 21st century Moonwalkers](https://arstechnica.com/science/2022/06/nasa-announces-a-new-plan-to-buy-private-spacesuits-to-make-lunar-landing-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T221910">2022-06-01 22:19:10 UTC</a></sub>
 * [NASA's Perseverance Studies the Wild Winds of Jezero Crater](https://mars.nasa.gov/news/9201/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T220300">2022-06-01 22:03:00 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX, ULA awarded eight more US military launch contracts](https://www.teslarati.com/spacex-ula-win-8-us-military-launch-contracts-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T210414">2022-06-01 21:04:14 UTC</a></sub>
 * [NASA Administrator to Launch Artemis Learning Lunchbox Initiative](http://www.nasa.gov/press-release/nasa-administrator-to-launch-artemis-learning-lunchbox-initiative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T195400">2022-06-01 19:54:00 UTC</a></sub>
 * [NASA Scientists Available for 2022 Hurricane Season Interviews](http://www.nasa.gov/press-release/nasa-scientists-available-for-2022-hurricane-season-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T181400">2022-06-01 18:14:00 UTC</a></sub>
-* [NASA Partners with Industry for New Spacewalking, Moonwalking Services](http://www.nasa.gov/press-release/nasa-partners-with-industry-for-new-spacewalking-moonwalking-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T180300">2022-06-01 18:03:00 UTC</a></sub>
-* [NASA's MAVEN Spacecraft Resumes Science & Operations, Exits Safe Mode](https://mars.nasa.gov/news/9200/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
-* [Científicas de la NASA disponibles para entrevistas sobre huracanes](http://www.nasa.gov/press-release/cient-ficas-de-la-nasa-disponibles-para-entrevistas-sobre-huracanes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T113513">2022-06-02 11:35:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T121030">2022-06-02 12:10:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
