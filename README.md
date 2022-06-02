@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX making good progress towards Super Heavy static fire campaign](https://www.teslarati.com/spacex-super-heavy-booster-7-static-fire-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T111410">2022-06-02 11:14:10 UTC</a></sub>
 * [NASA chooses two companies to build spacesuits for its 21st century Moonwalkers](https://arstechnica.com/science/2022/06/nasa-announces-a-new-plan-to-buy-private-spacesuits-to-make-lunar-landing-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T221910">2022-06-01 22:19:10 UTC</a></sub>
 * [NASA's Perseverance Studies the Wild Winds of Jezero Crater](https://mars.nasa.gov/news/9201/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T220300">2022-06-01 22:03:00 UTC</a></sub>
 * [NASA selects Axiom Space and Collins Aerospace for spacesuit contracts](https://spacenews.com/nasa-selects-axiom-space-and-collins-aerospace-for-spacesuit-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T215346">2022-06-01 21:53:46 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Partners with Industry for New Spacewalking, Moonwalking Services](http://www.nasa.gov/press-release/nasa-partners-with-industry-for-new-spacewalking-moonwalking-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T180300">2022-06-01 18:03:00 UTC</a></sub>
 * [NASA's MAVEN Spacecraft Resumes Science & Operations, Exits Safe Mode](https://mars.nasa.gov/news/9200/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
 * [Científicas de la NASA disponibles para entrevistas sobre huracanes](http://www.nasa.gov/press-release/cient-ficas-de-la-nasa-disponibles-para-entrevistas-sobre-huracanes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
-* [MDA sees Canadarm3 commercial spinoff success in robotic partnership with Lockheed Martin, General Motors](https://www.nasaspaceflight.com/2022/06/mda-robotics-lm-gm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T164730">2022-06-01 16:47:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T110309">2022-06-02 11:03:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T113513">2022-06-02 11:35:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
