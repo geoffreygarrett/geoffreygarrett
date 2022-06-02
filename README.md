@@ -184,7 +184,7 @@ region. The mission's status is currently Go for Launch
 * [Momentus attempting to fix anomalies with first Vigoride tug](https://spacenews.com/momentus-attempting-to-fix-anomalies-with-first-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T114346">2022-06-02 11:43:46 UTC</a></sub>
 * [Chinese automaker launches nine satellites to aid self-driving cars](https://spaceflightnow.com/2022/06/02/chinese-automaker-launches-nine-satellites-to-aid-self-driving-cars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T114343">2022-06-02 11:43:43 UTC</a></sub>
 * [SpaceX making good progress towards Super Heavy static fire campaign](https://www.teslarati.com/spacex-super-heavy-booster-7-static-fire-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T111410">2022-06-02 11:14:10 UTC</a></sub>
-* [NASA chooses two companies to build spacesuits for its 21st century Moonwalkers](https://arstechnica.com/science/2022/06/nasa-announces-a-new-plan-to-buy-private-spacesuits-to-make-lunar-landing-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T221910">2022-06-01 22:19:10 UTC</a></sub>
+* [NASA chooses two companies to build spacesuits for its 21st-century Moonwalkers](https://arstechnica.com/science/2022/06/nasa-announces-a-new-plan-to-buy-private-spacesuits-to-make-lunar-landing-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T221910">2022-06-01 22:19:10 UTC</a></sub>
 * [NASA's Perseverance Studies the Wild Winds of Jezero Crater](https://mars.nasa.gov/news/9201/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T220300">2022-06-01 22:03:00 UTC</a></sub>
 * [NASA selects Axiom Space and Collins Aerospace for spacesuit contracts](https://spacenews.com/nasa-selects-axiom-space-and-collins-aerospace-for-spacesuit-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T215346">2022-06-01 21:53:46 UTC</a></sub>
 * [SpaceX, ULA awarded eight more US military launch contracts](https://www.teslarati.com/spacex-ula-win-8-us-military-launch-contracts-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T210414">2022-06-01 21:04:14 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T121030">2022-06-02 12:10:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T131415">2022-06-02 13:14:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
