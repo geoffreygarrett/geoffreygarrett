@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Funds Projects that Aim to Inspire Artemis Generation](http://www.nasa.gov/press-release/nasa-funds-projects-that-aim-to-inspire-artemis-generation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T205400">2022-06-02 20:54:00 UTC</a></sub>
+* [NASA to buy five additional Crew Dragon flights](https://spacenews.com/nasa-to-buy-five-additional-crew-dragon-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T201348">2022-06-02 20:13:48 UTC</a></sub>
 * [NASA Selects New Instruments for Priority Artemis Science on Moon](http://www.nasa.gov/press-release/nasa-selects-new-instruments-for-priority-artemis-science-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T200400">2022-06-02 20:04:00 UTC</a></sub>
 * [NASA Invites Media to Headquarters to Meet Commercial Crew Astronauts](http://www.nasa.gov/press-release/nasa-invites-media-to-headquarters-to-meet-commercial-crew-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T194400">2022-06-02 19:44:00 UTC</a></sub>
 * [Lockheed and ABL’s first UK vertical launch slips into 2023](https://spacenews.com/lockheed-and-abls-first-uk-vertical-launch-slips-into-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T194346">2022-06-02 19:43:46 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [After 9 difficult months, Firefly is set to take its next shot at orbit](https://arstechnica.com/science/2022/06/after-9-difficult-months-firefly-is-set-to-take-its-next-shot-at-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140813">2022-06-02 14:08:13 UTC</a></sub>
 * [Long March 2C launches 9 navigation test satellites for Chinese automaker](https://spacenews.com/long-march-2c-launches-nine-navigation-test-satellites-for-chinese-automaker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T120346">2022-06-02 12:03:46 UTC</a></sub>
 * [Momentus attempting to fix anomalies with first Vigoride tug](https://spacenews.com/momentus-attempting-to-fix-anomalies-with-first-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T114346">2022-06-02 11:43:46 UTC</a></sub>
-* [Chinese automaker launches nine satellites to aid self-driving cars](https://spaceflightnow.com/2022/06/02/chinese-automaker-launches-nine-satellites-to-aid-self-driving-cars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T114343">2022-06-02 11:43:43 UTC</a></sub>
-* [SpaceX making good progress towards Super Heavy static fire campaign](https://www.teslarati.com/spacex-super-heavy-booster-7-static-fire-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T111410">2022-06-02 11:14:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T203522">2022-06-02 20:35:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T210244">2022-06-02 21:02:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
