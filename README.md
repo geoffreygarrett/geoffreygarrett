@@ -98,7 +98,7 @@ Soyuz 2.1a | Progress MS-20 (81P) at the
 <a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a> in
 Baikonur Cosmodrome, Republic of Kazakhstan
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093254">2022-06-03 09:32:54 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093216">2022-06-03 09:32:16 UTC</a>. Until
 then, this launch pad will have seen 401
 out of 1531 launches in this
 region. The mission's status is currently Go for Launch
@@ -126,7 +126,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-20 (81P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093254">2022-06-03 09:32:54 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-20 (81P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220603T093254Z%2F20220603T093254Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-20 (81P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093216">2022-06-03 09:32:16 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-20 (81P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220603T093216Z%2F20220603T093216Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NS-21</b> from Corn Ranch, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T130000">2022-06-04 13:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-21&location=Corn Ranch, USA&dates=20220604T130000Z%2F20220604T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Shenzhou 14</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T023700">2022-06-05 02:37:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 14&location=Jiuquan, People&#x27;s Republic of China&dates=20220605T023700Z%2F20220605T025500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b><name missing></b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T210300">2022-06-08 21:03:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nilesat-301&location=Cape Canaveral, FL, USA&dates=20220608T210300Z%2F20220608T210300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [GAO: U.S. Space Command basing decision process fell short on ‘transparency and credibility’](https://spacenews.com/gao-u-s-space-command-basing-decision-process-fell-short-on-transparency-and-credibility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T154351">2022-06-02 15:43:51 UTC</a></sub>
+* [How Lockheed Martin, NASA will send a rocket to Mars to launch samples off the planet to a waiting European Orbiter](https://www.nasaspaceflight.com/2022/06/lockheed-martin-mars-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T154206">2022-06-02 15:42:06 UTC</a></sub>
 * [After 9 difficult months, Firefly is set to take its next shot at orbit](https://arstechnica.com/science/2022/06/after-9-difficult-months-firefly-is-set-to-take-its-next-shot-at-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140813">2022-06-02 14:08:13 UTC</a></sub>
 * [Long March 2C launches 9 navigation test satellites for Chinese automaker](https://spacenews.com/long-march-2c-launches-nine-navigation-test-satellites-for-chinese-automaker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T120346">2022-06-02 12:03:46 UTC</a></sub>
 * [Momentus attempting to fix anomalies with first Vigoride tug](https://spacenews.com/momentus-attempting-to-fix-anomalies-with-first-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T114346">2022-06-02 11:43:46 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA chooses two companies to build spacesuits for its 21st-century Moonwalkers](https://arstechnica.com/science/2022/06/nasa-announces-a-new-plan-to-buy-private-spacesuits-to-make-lunar-landing-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T221910">2022-06-01 22:19:10 UTC</a></sub>
 * [NASA's Perseverance Studies the Wild Winds of Jezero Crater](https://mars.nasa.gov/news/9201/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T220300">2022-06-01 22:03:00 UTC</a></sub>
 * [NASA selects Axiom Space and Collins Aerospace for spacesuit contracts](https://spacenews.com/nasa-selects-axiom-space-and-collins-aerospace-for-spacesuit-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T215346">2022-06-01 21:53:46 UTC</a></sub>
-* [SpaceX, ULA awarded eight more US military launch contracts](https://www.teslarati.com/spacex-ula-win-8-us-military-launch-contracts-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T210414">2022-06-01 21:04:14 UTC</a></sub>
-* [NASA Administrator to Launch Artemis Learning Lunchbox Initiative](http://www.nasa.gov/press-release/nasa-administrator-to-launch-artemis-learning-lunchbox-initiative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T195400">2022-06-01 19:54:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T160721">2022-06-02 16:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T170027">2022-06-02 17:00:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
