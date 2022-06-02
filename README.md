@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA just bought the rest of the space station crew flights from SpaceX](https://arstechnica.com/science/2022/06/nasa-just-bought-all-the-seats-needed-for-space-station-crews-into-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T210256">2022-06-02 21:02:56 UTC</a></sub>
 * [NASA Funds Projects that Aim to Inspire Artemis Generation](http://www.nasa.gov/press-release/nasa-funds-projects-that-aim-to-inspire-artemis-generation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T205400">2022-06-02 20:54:00 UTC</a></sub>
 * [NASA to buy five additional Crew Dragon flights](https://spacenews.com/nasa-to-buy-five-additional-crew-dragon-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T201348">2022-06-02 20:13:48 UTC</a></sub>
 * [NASA Selects New Instruments for Priority Artemis Science on Moon](http://www.nasa.gov/press-release/nasa-selects-new-instruments-for-priority-artemis-science-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T200400">2022-06-02 20:04:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [How Lockheed Martin, NASA will send a rocket to Mars to launch samples off the planet to a waiting European Orbiter](https://www.nasaspaceflight.com/2022/06/lockheed-martin-mars-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T154206">2022-06-02 15:42:06 UTC</a></sub>
 * [After 9 difficult months, Firefly is set to take its next shot at orbit](https://arstechnica.com/science/2022/06/after-9-difficult-months-firefly-is-set-to-take-its-next-shot-at-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140813">2022-06-02 14:08:13 UTC</a></sub>
 * [Long March 2C launches 9 navigation test satellites for Chinese automaker](https://spacenews.com/long-march-2c-launches-nine-navigation-test-satellites-for-chinese-automaker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T120346">2022-06-02 12:03:46 UTC</a></sub>
-* [Momentus attempting to fix anomalies with first Vigoride tug](https://spacenews.com/momentus-attempting-to-fix-anomalies-with-first-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T114346">2022-06-02 11:43:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T210244">2022-06-02 21:02:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T213316">2022-06-02 21:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
