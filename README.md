@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX’s upgraded Starship passes first ‘cryoproof’ test after repairs](https://www.teslarati.com/spacex-starship-24-passes-cryoproof-after-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T111409">2022-06-03 11:14:09 UTC</a></sub>
+* [Rocket Report: India wants its own SpaceX, Firefly targets July for Alpha launch](https://arstechnica.com/science/2022/06/rocket-report-india-wants-its-own-spacex-firefly-targets-july-for-alpha-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T110058">2022-06-03 11:00:58 UTC</a></sub>
 * [Russian Soyuz rocket launches with space station cargo freighter](https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T095342">2022-06-03 09:53:42 UTC</a></sub>
 * [NASA just bought the rest of the space station crew flights from SpaceX](https://arstechnica.com/science/2022/06/nasa-just-bought-all-the-seats-needed-for-space-station-crews-into-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T210256">2022-06-02 21:02:56 UTC</a></sub>
 * [NASA Funds Projects that Aim to Inspire Artemis Generation](http://www.nasa.gov/press-release/nasa-funds-projects-that-aim-to-inspire-artemis-generation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T205400">2022-06-02 20:54:00 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Invites Media to Headquarters to Meet Commercial Crew Astronauts](http://www.nasa.gov/press-release/nasa-invites-media-to-headquarters-to-meet-commercial-crew-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T194400">2022-06-02 19:44:00 UTC</a></sub>
 * [Lockheed and ABL’s first UK vertical launch slips into 2023](https://spacenews.com/lockheed-and-abls-first-uk-vertical-launch-slips-into-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T194346">2022-06-02 19:43:46 UTC</a></sub>
 * [GAO: U.S. Space Command basing decision process fell short on ‘transparency and credibility’](https://spacenews.com/gao-u-s-space-command-basing-decision-process-fell-short-on-transparency-and-credibility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T154351">2022-06-02 15:43:51 UTC</a></sub>
-* [How Lockheed Martin, NASA will send a rocket to Mars to launch samples off the planet to a waiting European Orbiter](https://www.nasaspaceflight.com/2022/06/lockheed-martin-mars-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T154206">2022-06-02 15:42:06 UTC</a></sub>
-* [After 9 difficult months, Firefly is set to take its next shot at orbit](https://arstechnica.com/science/2022/06/after-9-difficult-months-firefly-is-set-to-take-its-next-shot-at-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140813">2022-06-02 14:08:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T110258">2022-06-03 11:02:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T113107">2022-06-03 11:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
