@@ -180,6 +180,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [May on the station: Starliner’s ISS debut, research, and spacesuit troubleshooting](https://www.nasaspaceflight.com/2022/06/may-iss-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T191852">2022-06-03 19:18:52 UTC</a></sub>
+* [Sony launches space laser communications business](https://spacenews.com/sony-launches-space-laser-communications-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T190348">2022-06-03 19:03:48 UTC</a></sub>
+* [NASA Announces Winners of 2022 Student Launch Competition](http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-student-launch-competition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T185400">2022-06-03 18:54:00 UTC</a></sub>
 * [NASA Invites Media to Learn About Mission Studying Thunderstorms](http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-mission-studying-thunderstorms) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T155400">2022-06-03 15:54:00 UTC</a></sub>
 * [European parliamentarian seeks to build up ties between U.S. and E.U. in space](https://spacenews.com/european-parliamentarian-seeks-to-build-up-ties-between-u-s-and-e-u-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T122347">2022-06-03 12:23:47 UTC</a></sub>
 * [SpaceX’s upgraded Starship passes first ‘cryoproof’ test after repairs](https://www.teslarati.com/spacex-starship-24-passes-cryoproof-after-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T111409">2022-06-03 11:14:09 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Russian Soyuz rocket launches with space station cargo freighter](https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T095342">2022-06-03 09:53:42 UTC</a></sub>
 * [NASA just bought the rest of the space station crew flights from SpaceX](https://arstechnica.com/science/2022/06/nasa-just-bought-all-the-seats-needed-for-space-station-crews-into-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T210256">2022-06-02 21:02:56 UTC</a></sub>
 * [NASA Funds Projects that Aim to Inspire Artemis Generation](http://www.nasa.gov/press-release/nasa-funds-projects-that-aim-to-inspire-artemis-generation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T205400">2022-06-02 20:54:00 UTC</a></sub>
-* [NASA to buy five additional Crew Dragon flights](https://spacenews.com/nasa-to-buy-five-additional-crew-dragon-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T201348">2022-06-02 20:13:48 UTC</a></sub>
-* [NASA Selects New Instruments for Priority Artemis Science on Moon](http://www.nasa.gov/press-release/nasa-selects-new-instruments-for-priority-artemis-science-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T200400">2022-06-02 20:04:00 UTC</a></sub>
-* [NASA Invites Media to Headquarters to Meet Commercial Crew Astronauts](http://www.nasa.gov/press-release/nasa-invites-media-to-headquarters-to-meet-commercial-crew-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T194400">2022-06-02 19:44:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T190212">2022-06-03 19:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T193138">2022-06-03 19:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
