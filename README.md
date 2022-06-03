@@ -106,7 +106,7 @@ region. The mission's status is currently Go for Launch
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  NS-20 is the fifth crewed New Shepard flight, carrying six passengers.
+  NS-21 is the fifth crewed New Shepard flight, carrying six passengers.
 </blockquote>
 
 <p float="left" align="center">
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A hazy shade of winter](https://www.planetary.org/the-downlink/a-hazy-shade-of-winter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T143404">2022-06-03 14:34:04 UTC</a></sub>
 * [Mars Pathfinder, the start of modern Mars exploration](https://www.planetary.org/space-missions/pathfinder) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T140413">2022-06-03 14:04:13 UTC</a></sub>
 * [China is getting serious about planetary defense](https://www.planetary.org/articles/china-planetary-defense-plans) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140404">2022-06-02 14:04:04 UTC</a></sub>
 * [What’s up in the night sky: June 2022](https://www.planetary.org/night-sky/night-sky-what-to-see-this-month) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T140410">2022-06-01 14:04:10 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [How Uranus and Neptune are key to unlocking how planets form](https://www.planetary.org/articles/uranus-neptune-how-planets-form) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140410">2022-05-17 14:04:10 UTC</a></sub>
 * [RocketStars: Former Marine leads ULA's astronaut safety system](https://blog.ulalaunch.com/blog/rocketstars-former-marine-leads-ulas-astronaut-safety-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T145443">2022-05-16 14:54:43 UTC</a></sub>
 * [RocketStars: ULA software launches human spaceflight missions](https://blog.ulalaunch.com/blog/rocketstars-ula-software-launches-human-spaceflight-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220515T003430">2022-05-15 00:34:30 UTC</a></sub>
-* [RocketStars:  Meet ULA's mission integration engineer for Starliner](https://blog.ulalaunch.com/blog/rocketstars-meet-ulas-mission-integration-engineer-for-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T183414">2022-05-13 18:34:14 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T143202">2022-06-03 14:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T150509">2022-06-03 15:05:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
