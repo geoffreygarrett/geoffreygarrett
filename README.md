@@ -180,7 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Russian Soyuz rocket poised for launch with space station cargo freighter](https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T000342">2022-06-03 00:03:42 UTC</a></sub>
+* [Russian Soyuz rocket launches with space station cargo freighter](https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T095342">2022-06-03 09:53:42 UTC</a></sub>
 * [NASA just bought the rest of the space station crew flights from SpaceX](https://arstechnica.com/science/2022/06/nasa-just-bought-all-the-seats-needed-for-space-station-crews-into-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T210256">2022-06-02 21:02:56 UTC</a></sub>
 * [NASA Funds Projects that Aim to Inspire Artemis Generation](http://www.nasa.gov/press-release/nasa-funds-projects-that-aim-to-inspire-artemis-generation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T205400">2022-06-02 20:54:00 UTC</a></sub>
 * [NASA to buy five additional Crew Dragon flights](https://spacenews.com/nasa-to-buy-five-additional-crew-dragon-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T201348">2022-06-02 20:13:48 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T100503">2022-06-03 10:05:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T103841">2022-06-03 10:38:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
