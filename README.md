@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Mars Pathfinder, the start of modern Mars exploration](https://www.planetary.org/space-missions/pathfinder) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T140413">2022-06-03 14:04:13 UTC</a></sub>
 * [China is getting serious about planetary defense](https://www.planetary.org/articles/china-planetary-defense-plans) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140404">2022-06-02 14:04:04 UTC</a></sub>
 * [What’s up in the night sky: June 2022](https://www.planetary.org/night-sky/night-sky-what-to-see-this-month) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T140410">2022-06-01 14:04:10 UTC</a></sub>
 * [It’s not easy being this far out](https://www.planetary.org/the-downlink/its-not-easy-being-this-far-out) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T143423">2022-05-27 14:34:23 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [RocketStars: Former Marine leads ULA's astronaut safety system](https://blog.ulalaunch.com/blog/rocketstars-former-marine-leads-ulas-astronaut-safety-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T145443">2022-05-16 14:54:43 UTC</a></sub>
 * [RocketStars: ULA software launches human spaceflight missions](https://blog.ulalaunch.com/blog/rocketstars-ula-software-launches-human-spaceflight-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220515T003430">2022-05-15 00:34:30 UTC</a></sub>
 * [RocketStars:  Meet ULA's mission integration engineer for Starliner](https://blog.ulalaunch.com/blog/rocketstars-meet-ulas-mission-integration-engineer-for-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T183414">2022-05-13 18:34:14 UTC</a></sub>
-* [Your cosmic community](https://www.planetary.org/the-downlink/your-cosmic-community) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T143401">2022-05-13 14:34:01 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T140320">2022-06-03 14:03:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T143202">2022-06-03 14:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
