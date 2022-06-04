@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New Shepard completes fifth crewed suborbital flight](https://spacenews.com/new-shepard-completes-fifth-crewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T141349">2022-06-04 14:13:49 UTC</a></sub>
 * [Blue Origin set to launch six more people to suborbital space](https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T122343">2022-06-04 12:23:43 UTC</a></sub>
 * [NASA to Highlight Climate Research on Cargo Launch, Sets TV Coverage](http://www.nasa.gov/press-release/nasa-to-highlight-climate-research-on-cargo-launch-sets-tv-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T212300">2022-06-03 21:23:00 UTC</a></sub>
 * [May on the station: Starliner’s ISS debut, research, and spacesuit troubleshooting](https://www.nasaspaceflight.com/2022/06/may-iss-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T191852">2022-06-03 19:18:52 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [European parliamentarian seeks to build up ties between U.S. and E.U. in space](https://spacenews.com/european-parliamentarian-seeks-to-build-up-ties-between-u-s-and-e-u-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T122347">2022-06-03 12:23:47 UTC</a></sub>
 * [SpaceX’s upgraded Starship passes first ‘cryoproof’ test after repairs](https://www.teslarati.com/spacex-starship-24-passes-cryoproof-after-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T111409">2022-06-03 11:14:09 UTC</a></sub>
 * [Rocket Report: India wants its own SpaceX, Firefly targets July for Alpha launch](https://arstechnica.com/science/2022/06/rocket-report-india-wants-its-own-spacex-firefly-targets-july-for-alpha-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T110058">2022-06-03 11:00:58 UTC</a></sub>
-* [Russian Soyuz rocket launches with space station cargo freighter](https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T095342">2022-06-03 09:53:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T140216">2022-06-04 14:02:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T143109">2022-06-04 14:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
