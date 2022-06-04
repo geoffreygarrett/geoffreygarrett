@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese astronauts prep for six-month space station construction flight](https://spaceflightnow.com/2022/06/04/chinese-astronauts-prep-for-six-month-space-station-construction-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T165342">2022-06-04 16:53:42 UTC</a></sub>
 * [Blue Origin launches six people to suborbital space](https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T150343">2022-06-04 15:03:43 UTC</a></sub>
 * [New Shepard completes fifth crewed suborbital flight](https://spacenews.com/new-shepard-completes-fifth-crewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T141349">2022-06-04 14:13:49 UTC</a></sub>
 * [NASA to Highlight Climate Research on Cargo Launch, Sets TV Coverage](http://www.nasa.gov/press-release/nasa-to-highlight-climate-research-on-cargo-launch-sets-tv-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T212300">2022-06-03 21:23:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Invites Media to Learn About Mission Studying Thunderstorms](http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-mission-studying-thunderstorms) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T155400">2022-06-03 15:54:00 UTC</a></sub>
 * [European parliamentarian seeks to build up ties between U.S. and E.U. in space](https://spacenews.com/european-parliamentarian-seeks-to-build-up-ties-between-u-s-and-e-u-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T122347">2022-06-03 12:23:47 UTC</a></sub>
 * [SpaceX’s upgraded Starship passes first ‘cryoproof’ test after repairs](https://www.teslarati.com/spacex-starship-24-passes-cryoproof-after-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T111409">2022-06-03 11:14:09 UTC</a></sub>
-* [Rocket Report: India wants its own SpaceX, Firefly targets July for Alpha launch](https://arstechnica.com/science/2022/06/rocket-report-india-wants-its-own-spacex-firefly-targets-july-for-alpha-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T110058">2022-06-03 11:00:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T170230">2022-06-04 17:02:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T173255">2022-06-04 17:32:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
