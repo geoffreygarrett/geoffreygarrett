@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA rolling Artemis 1 back to the pad to finish WDR](https://www.nasaspaceflight.com/2022/06/nasa-rolling-artemis-1-back-to-the-pad-to-finish-wdr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T181311">2022-06-05 18:13:11 UTC</a></sub>
 * [Commercial providers of satellite services face a trust gap with military buyers](https://spacenews.com/commercial-providers-of-satellite-services-face-a-trust-gap-with-military-buyers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T175350">2022-06-05 17:53:50 UTC</a></sub>
 * [Blue Canyon looks to demonstrate small-satellite performance at very low altitude](https://spacenews.com/blue-canyon-looks-to-demonstrate-small-satellite-performance-at-very-low-altitude/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T144347">2022-06-05 14:43:47 UTC</a></sub>
 * [Chinese crew arrives at space station for six-month construction mission](https://spaceflightnow.com/2022/06/05/chinese-astronauts-arrive-at-tiangong-space-station-for-six-month-construction-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T130347">2022-06-05 13:03:47 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Blue Origin launches six people to suborbital space](https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T150343">2022-06-04 15:03:43 UTC</a></sub>
 * [New Shepard completes fifth crewed suborbital flight](https://spacenews.com/new-shepard-completes-fifth-crewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T141349">2022-06-04 14:13:49 UTC</a></sub>
 * [NASA to Highlight Climate Research on Cargo Launch, Sets TV Coverage](http://www.nasa.gov/press-release/nasa-to-highlight-climate-research-on-cargo-launch-sets-tv-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T212300">2022-06-03 21:23:00 UTC</a></sub>
-* [May on the station: Starliner’s ISS debut, research, and spacesuit troubleshooting](https://www.nasaspaceflight.com/2022/06/may-iss-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T191852">2022-06-03 19:18:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T180709">2022-06-05 18:07:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T183858">2022-06-05 18:38:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
