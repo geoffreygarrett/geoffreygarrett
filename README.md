@@ -179,7 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [China to launch Shenzhou 14 mission to support module installation](https://www.nasaspaceflight.com/2022/06/shenzhou-14-mission-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T184123">2022-06-04 18:41:23 UTC</a></sub>
+* [China launches Shenzhou 14 mission to support module installation](https://www.nasaspaceflight.com/2022/06/shenzhou-14-mission-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T184123">2022-06-04 18:41:23 UTC</a></sub>
 * [Chinese astronauts prep for six-month space station construction flight](https://spaceflightnow.com/2022/06/04/chinese-astronauts-prep-for-six-month-space-station-construction-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T165342">2022-06-04 16:53:42 UTC</a></sub>
 * [Blue Origin launches six people to suborbital space](https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T150343">2022-06-04 15:03:43 UTC</a></sub>
 * [New Shepard completes fifth crewed suborbital flight](https://spacenews.com/new-shepard-completes-fifth-crewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T141349">2022-06-04 14:13:49 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T024306">2022-06-05 02:43:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T032851">2022-06-05 03:28:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
