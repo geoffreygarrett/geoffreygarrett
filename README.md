@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Canyon looks to demonstrate small-satellite performance at very low altitude](https://spacenews.com/blue-canyon-looks-to-demonstrate-small-satellite-performance-at-very-low-altitude/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T144347">2022-06-05 14:43:47 UTC</a></sub>
 * [Chinese crew arrives at space station for six-month construction mission](https://spaceflightnow.com/2022/06/05/chinese-astronauts-arrive-at-tiangong-space-station-for-six-month-construction-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T130347">2022-06-05 13:03:47 UTC</a></sub>
 * [Shenzhou-14 crewed mission arrives at Chinese space station](https://spacenews.com/shenzhou-14-crewed-mission-arrives-at-chinese-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T101348">2022-06-05 10:13:48 UTC</a></sub>
 * [China launches Shenzhou 14 mission to support module installation](https://www.nasaspaceflight.com/2022/06/shenzhou-14-mission-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T184123">2022-06-04 18:41:23 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA to Highlight Climate Research on Cargo Launch, Sets TV Coverage](http://www.nasa.gov/press-release/nasa-to-highlight-climate-research-on-cargo-launch-sets-tv-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T212300">2022-06-03 21:23:00 UTC</a></sub>
 * [May on the station: Starliner’s ISS debut, research, and spacesuit troubleshooting](https://www.nasaspaceflight.com/2022/06/may-iss-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T191852">2022-06-03 19:18:52 UTC</a></sub>
 * [Sony launches space laser communications business](https://spacenews.com/sony-launches-space-laser-communications-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T190348">2022-06-03 19:03:48 UTC</a></sub>
-* [NASA Announces Winners of 2022 Student Launch Competition](http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-student-launch-competition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T185400">2022-06-03 18:54:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T143153">2022-06-05 14:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T150345">2022-06-05 15:03:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
