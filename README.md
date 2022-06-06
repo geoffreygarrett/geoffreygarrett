@@ -201,6 +201,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [USSF-12: ULA stacks Atlas V rocket for Space Force launch](https://blog.ulalaunch.com/blog/ussf-12-ula-stacks-atlas-v-rocket-for-space-force-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T195419">2022-06-06 19:54:19 UTC</a></sub>
 * [Request for Proposals for the 2022 Science and Technology Empowered by the Public (STEP) Grants](https://www.planetary.org/articles/step-grants-2022-request-for-proposals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T140411">2022-06-06 14:04:11 UTC</a></sub>
 * [A hazy shade of winter](https://www.planetary.org/the-downlink/a-hazy-shade-of-winter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T143404">2022-06-03 14:34:04 UTC</a></sub>
 * [Mars Pathfinder, the start of modern Mars exploration](https://www.planetary.org/space-missions/pathfinder) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T140413">2022-06-03 14:04:13 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently To Be Confirmed
 * [OFT-2: Atlas V successfully launches Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-successfully-launches-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T154730">2022-05-20 15:47:30 UTC</a></sub>
 * [A little too close for comfort](https://www.planetary.org/the-downlink/a-little-too-close-for-comfort) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T143739">2022-05-20 14:37:39 UTC</a></sub>
 * [How Uranus and Neptune are key to unlocking how planets form](https://www.planetary.org/articles/uranus-neptune-how-planets-form) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140410">2022-05-17 14:04:10 UTC</a></sub>
-* [RocketStars: Former Marine leads ULA's astronaut safety system](https://blog.ulalaunch.com/blog/rocketstars-former-marine-leads-ulas-astronaut-safety-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T145443">2022-05-16 14:54:43 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T193103">2022-06-06 19:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T200404">2022-06-06 20:04:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
