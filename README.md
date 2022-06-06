@@ -181,11 +181,11 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s SLS moon rocket returns to launch pad for more testing](https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T231342">2022-06-06 23:13:42 UTC</a></sub>
 * [Starlink regains permission to operate in France](https://spacenews.com/starlink-regains-permission-to-operate-in-france/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T152347">2022-06-06 15:23:47 UTC</a></sub>
 * [India’s Bellatrix Aerospace raises $8 million Series A for in-space propulsion project](https://spacenews.com/indias-bellatrix-aerospace-raises-8-million-series-a-for-in-space-propulsion-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T145346">2022-06-06 14:53:46 UTC</a></sub>
 * [Russia seeks to hijack German telescope on its X-ray spacecraft](https://arstechnica.com/science/2022/06/russia-and-germany-are-fighting-over-an-x-ray-telescope-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T145016">2022-06-06 14:50:16 UTC</a></sub>
 * [SpaceX’s NASA Crew Dragon launch manifest doubles in three months](https://www.teslarati.com/spacex-nasa-crew-dragon-manifest-doubles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T111412">2022-06-06 11:14:12 UTC</a></sub>
-* [NASA’s SLS moon rocket returning to launch pad today for more testing](https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T071345">2022-06-06 07:13:45 UTC</a></sub>
 * [SpaceX CEO Elon Musk teases next-gen Starlink satellites, Starship factories](https://www.teslarati.com/spacex-elon-musk-all-hands-meeting-starship-starlink-falcon-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T204411">2022-06-05 20:44:11 UTC</a></sub>
 * [NASA rolling Artemis 1 back to the pad to finish WDR](https://www.nasaspaceflight.com/2022/06/nasa-rolling-artemis-1-back-to-the-pad-to-finish-wdr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T181311">2022-06-05 18:13:11 UTC</a></sub>
 * [Commercial providers of satellite services face a trust gap with military buyers](https://spacenews.com/commercial-providers-of-satellite-services-face-a-trust-gap-with-military-buyers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T175350">2022-06-05 17:53:50 UTC</a></sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T230231">2022-06-06 23:02:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T233520">2022-06-06 23:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
