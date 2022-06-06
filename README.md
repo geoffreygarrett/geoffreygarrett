@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX’s NASA Crew Dragon launch manifest doubles in three months](https://www.teslarati.com/spacex-nasa-crew-dragon-manifest-doubles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T111412">2022-06-06 11:14:12 UTC</a></sub>
 * [NASA’s SLS moon rocket returning to launch pad today for more testing](https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T071345">2022-06-06 07:13:45 UTC</a></sub>
 * [SpaceX CEO Elon Musk teases next-gen Starlink satellites, Starship factories](https://www.teslarati.com/spacex-elon-musk-all-hands-meeting-starship-starlink-falcon-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T204411">2022-06-05 20:44:11 UTC</a></sub>
 * [NASA rolling Artemis 1 back to the pad to finish WDR](https://www.nasaspaceflight.com/2022/06/nasa-rolling-artemis-1-back-to-the-pad-to-finish-wdr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T181311">2022-06-05 18:13:11 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Shenzhou-14 crewed mission arrives at Chinese space station](https://spacenews.com/shenzhou-14-crewed-mission-arrives-at-chinese-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T101348">2022-06-05 10:13:48 UTC</a></sub>
 * [China launches Shenzhou 14 mission to support module installation](https://www.nasaspaceflight.com/2022/06/shenzhou-14-mission-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T184123">2022-06-04 18:41:23 UTC</a></sub>
 * [Chinese astronauts prep for six-month space station construction flight](https://spaceflightnow.com/2022/06/04/chinese-astronauts-prep-for-six-month-space-station-construction-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T165342">2022-06-04 16:53:42 UTC</a></sub>
-* [Blue Origin launches six people to suborbital space](https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T150343">2022-06-04 15:03:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T110144">2022-06-06 11:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T113107">2022-06-06 11:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
