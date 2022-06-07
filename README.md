@@ -181,9 +181,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Redwire, MDA, to produce tactical communications antennas for military satellites](https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T160347">2022-06-07 16:03:47 UTC</a></sub>
 * [South Korea cancels Apophis probe](https://spacenews.com/south-korea-cancels-apophis-probe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T150347">2022-06-07 15:03:47 UTC</a></sub>
-* [NASA delays Cargo Dragon flight due to a propellant issue](https://arstechnica.com/science/2022/06/nasa-delays-cargo-dragon-flight-due-to-a-propellant-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T145437">2022-06-07 14:54:37 UTC</a></sub>
-* [Redwire to produce tactical communications antennas for military satellites](https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T123351">2022-06-07 12:33:51 UTC</a></sub>
+* [NASA and SpaceX stand down on Dragon launch to study hydrazine issue](https://arstechnica.com/science/2022/06/nasa-delays-cargo-dragon-flight-due-to-a-propellant-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T145437">2022-06-07 14:54:37 UTC</a></sub>
 * [SpaceX, NASA call off Cargo Dragon launch after discovering fuel leak](https://www.teslarati.com/spacex-nasa-cargo-dragon-fuel-leak-crs-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T111414">2022-06-07 11:14:14 UTC</a></sub>
 * [Cheops AO-3 Programmes](https://sci.esa.int/web/cheops/-/cheops-ao-3-programmes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T074401">2022-06-07 07:44:01 UTC</a></sub>
 * [SpaceX cargo mission grounded to investigate possible fuel leak](https://spaceflightnow.com/2022/06/06/spacex-cargo-mission-grounded-to-investigate-possible-fuel-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T235342">2022-06-06 23:53:42 UTC</a></sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T154000">2022-06-07 15:40:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T160640">2022-06-07 16:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
