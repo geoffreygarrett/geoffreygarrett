@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon 9 rocket set to launch Egyptian communications satellite](https://www.teslarati.com/spacex-falcon-9-egyptian-satellite-nilesat-301-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T211409">2022-06-07 21:14:09 UTC</a></sub>
 * [Xona to test GPS-alternative demo satellite with customer](https://spacenews.com/xona-to-test-gps-alternative-demo-satellite-with-customer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T183350">2022-06-07 18:33:50 UTC</a></sub>
 * [NASA to Inflate Heat Shield on Earth Before Spaceflight Demo](http://www.nasa.gov/press-release/nasa-to-inflate-heat-shield-on-earth-before-spaceflight-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T171400">2022-06-07 17:14:00 UTC</a></sub>
 * [Globalstar spare satellite to launch on SpaceX rocket this month](https://spaceflightnow.com/2022/06/07/globalstar-spare-satellite-to-launch-on-spacex-rocket-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T164343">2022-06-07 16:43:43 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX, NASA call off Cargo Dragon launch after discovering fuel leak](https://www.teslarati.com/spacex-nasa-cargo-dragon-fuel-leak-crs-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T111414">2022-06-07 11:14:14 UTC</a></sub>
 * [Cheops AO-3 Programmes](https://sci.esa.int/web/cheops/-/cheops-ao-3-programmes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T074401">2022-06-07 07:44:01 UTC</a></sub>
 * [SpaceX cargo mission grounded to investigate possible fuel leak](https://spaceflightnow.com/2022/06/06/spacex-cargo-mission-grounded-to-investigate-possible-fuel-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T235342">2022-06-06 23:53:42 UTC</a></sub>
-* [NASA’s SLS moon rocket returns to launch pad for more testing](https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T231342">2022-06-06 23:13:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T213324">2022-06-07 21:33:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T220232">2022-06-07 22:02:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
