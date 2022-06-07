@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Redwire to produce tactical communications antennas for military satellites](https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T123351">2022-06-07 12:33:51 UTC</a></sub>
 * [SpaceX, NASA call off Cargo Dragon launch after discovering fuel leak](https://www.teslarati.com/spacex-nasa-cargo-dragon-fuel-leak-crs-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T111414">2022-06-07 11:14:14 UTC</a></sub>
 * [Cheops AO-3 Programmes](https://sci.esa.int/web/cheops/-/cheops-ao-3-programmes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T074401">2022-06-07 07:44:01 UTC</a></sub>
 * [SpaceX cargo mission grounded to investigate possible fuel leak](https://spaceflightnow.com/2022/06/06/spacex-cargo-mission-grounded-to-investigate-possible-fuel-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T235342">2022-06-06 23:53:42 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Russia seeks to hijack German telescope on its X-ray spacecraft](https://arstechnica.com/science/2022/06/russia-and-germany-are-fighting-over-an-x-ray-telescope-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T145016">2022-06-06 14:50:16 UTC</a></sub>
 * [SpaceX’s NASA Crew Dragon launch manifest doubles in three months](https://www.teslarati.com/spacex-nasa-crew-dragon-manifest-doubles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T111412">2022-06-06 11:14:12 UTC</a></sub>
 * [Cargo Dragon mission postponed to investigate potential propellant leak](https://spacenews.com/cargo-dragon-mission-postponed-to-investigate-potential-propellant-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T022350">2022-06-06 02:23:50 UTC</a></sub>
-* [Small NASA lunar probe to hitch ride on commercial moon mission](https://spaceflightnow.com/2022/06/06/small-nasa-lunar-probe-to-hitch-ride-on-commercial-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T003343">2022-06-06 00:33:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T121116">2022-06-07 12:11:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T130501">2022-06-07 13:05:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
