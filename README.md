@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Cheops AO-3 Programmes](https://sci.esa.int/web/cheops/-/cheops-ao-3-programmes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T074401">2022-06-07 07:44:01 UTC</a></sub>
 * [SpaceX cargo mission grounded to investigate possible fuel leak](https://spaceflightnow.com/2022/06/06/spacex-cargo-mission-grounded-to-investigate-possible-fuel-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T235342">2022-06-06 23:53:42 UTC</a></sub>
 * [NASA’s SLS moon rocket returns to launch pad for more testing](https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T231342">2022-06-06 23:13:42 UTC</a></sub>
 * [Starlink regains permission to operate in France](https://spacenews.com/starlink-regains-permission-to-operate-in-france/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T152347">2022-06-06 15:23:47 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Cargo Dragon mission postponed to investigate potential propellant leak](https://spacenews.com/cargo-dragon-mission-postponed-to-investigate-potential-propellant-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T022350">2022-06-06 02:23:50 UTC</a></sub>
 * [Small NASA lunar probe to hitch ride on commercial moon mission](https://spaceflightnow.com/2022/06/06/small-nasa-lunar-probe-to-hitch-ride-on-commercial-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T003343">2022-06-06 00:33:43 UTC</a></sub>
 * [SpaceX CEO Elon Musk teases next-gen Starlink satellites, Starship factories](https://www.teslarati.com/spacex-elon-musk-all-hands-meeting-starship-starlink-falcon-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T204411">2022-06-05 20:44:11 UTC</a></sub>
-* [NASA rolling Artemis 1 back to the pad to finish WDR](https://www.nasaspaceflight.com/2022/06/nasa-rolling-artemis-1-back-to-the-pad-to-finish-wdr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T181311">2022-06-05 18:13:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T080732">2022-06-07 08:07:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T084157">2022-06-07 08:41:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
