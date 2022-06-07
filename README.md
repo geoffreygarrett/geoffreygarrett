@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX cargo mission grounded to investigate possible fuel leak](https://spaceflightnow.com/2022/06/06/spacex-cargo-mission-grounded-to-investigate-possible-fuel-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T235342">2022-06-06 23:53:42 UTC</a></sub>
 * [NASA’s SLS moon rocket returns to launch pad for more testing](https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T231342">2022-06-06 23:13:42 UTC</a></sub>
 * [Starlink regains permission to operate in France](https://spacenews.com/starlink-regains-permission-to-operate-in-france/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T152347">2022-06-06 15:23:47 UTC</a></sub>
 * [India’s Bellatrix Aerospace raises $8 million Series A for in-space propulsion project](https://spacenews.com/indias-bellatrix-aerospace-raises-8-million-series-a-for-in-space-propulsion-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T145346">2022-06-06 14:53:46 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA rolling Artemis 1 back to the pad to finish WDR](https://www.nasaspaceflight.com/2022/06/nasa-rolling-artemis-1-back-to-the-pad-to-finish-wdr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T181311">2022-06-05 18:13:11 UTC</a></sub>
 * [Commercial providers of satellite services face a trust gap with military buyers](https://spacenews.com/commercial-providers-of-satellite-services-face-a-trust-gap-with-military-buyers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T175350">2022-06-05 17:53:50 UTC</a></sub>
 * [Blue Canyon looks to demonstrate small-satellite performance at very low altitude](https://spacenews.com/blue-canyon-looks-to-demonstrate-small-satellite-performance-at-very-low-altitude/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T144347">2022-06-05 14:43:47 UTC</a></sub>
-* [Chinese crew arrives at space station for six-month construction mission](https://spaceflightnow.com/2022/06/05/chinese-astronauts-arrive-at-tiangong-space-station-for-six-month-construction-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T130347">2022-06-05 13:03:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T233520">2022-06-06 23:35:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T002349">2022-06-07 00:23:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
