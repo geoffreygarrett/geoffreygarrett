@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Leadership to Advocate for Agency Missions at ESA Council Meeting](http://www.nasa.gov/press-release/nasa-leadership-to-advocate-for-agency-missions-at-esa-council-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T181500">2022-06-08 18:15:00 UTC</a></sub>
+* [SpaceX preparing to launch Nilesat-301 on first GTO mission of 2022](https://www.nasaspaceflight.com/2022/06/falcon-9-nilesat-301/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T175800">2022-06-08 17:58:00 UTC</a></sub>
 * [NASA, FEMA Release Comprehensive Climate Action Guide](http://www.nasa.gov/press-release/nasa-fema-release-comprehensive-climate-action-guide) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T170400">2022-06-08 17:04:00 UTC</a></sub>
 * [The large Vulcan rocket is unlikely to make its debut in 2022](https://arstechnica.com/science/2022/06/the-large-vulcan-rocket-is-unlikely-to-make-its-debut-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T165500">2022-06-08 16:55:00 UTC</a></sub>
 * [China aims for space-based solar power test in LEO in 2028, GEO in 2030](https://spacenews.com/china-aims-for-space-based-solar-power-test-in-leo-in-2028-geo-in-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T155411">2022-06-08 15:54:11 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Elon Musk reportedly extends timeline for potential Starlink IPO](https://spacenews.com/elon-musk-reportedly-extends-timeline-for-potential-starlink-ipo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T223348">2022-06-07 22:33:48 UTC</a></sub>
 * [SpaceX Falcon 9 rocket set to launch Egyptian communications satellite](https://www.teslarati.com/spacex-falcon-9-egyptian-satellite-nilesat-301-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T211409">2022-06-07 21:14:09 UTC</a></sub>
 * [Xona to test GPS-alternative demo satellite with customer](https://spacenews.com/xona-to-test-gps-alternative-demo-satellite-with-customer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T183350">2022-06-07 18:33:50 UTC</a></sub>
-* [NASA to Inflate Heat Shield on Earth Before Spaceflight Demo](http://www.nasa.gov/press-release/nasa-to-inflate-heat-shield-on-earth-before-spaceflight-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T171400">2022-06-07 17:14:00 UTC</a></sub>
-* [Globalstar spare satellite to launch on SpaceX rocket this month](https://spaceflightnow.com/2022/06/07/globalstar-spare-satellite-to-launch-on-spacex-rocket-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T164343">2022-06-07 16:43:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T180625">2022-06-08 18:06:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T184103">2022-06-08 18:41:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
