@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, FEMA Release Comprehensive Climate Action Guide](http://www.nasa.gov/press-release/nasa-fema-release-comprehensive-climate-action-guide) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T170400">2022-06-08 17:04:00 UTC</a></sub>
+* [The large Vulcan rocket is unlikely to make its debut in 2022](https://arstechnica.com/science/2022/06/the-large-vulcan-rocket-is-unlikely-to-make-its-debut-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T165500">2022-06-08 16:55:00 UTC</a></sub>
 * [China aims for space-based solar power test in LEO in 2028, GEO in 2030](https://spacenews.com/china-aims-for-space-based-solar-power-test-in-leo-in-2028-geo-in-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T155411">2022-06-08 15:54:11 UTC</a></sub>
 * [France joins Artemis Accords](https://spacenews.com/france-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T113406">2022-06-08 11:34:06 UTC</a></sub>
 * [SpaceX preparing giant crane to assemble Starship’s first Florida launch tower](https://www.teslarati.com/spacex-starship-florida-launch-tower-crane-assembly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T111520">2022-06-08 11:15:20 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Xona to test GPS-alternative demo satellite with customer](https://spacenews.com/xona-to-test-gps-alternative-demo-satellite-with-customer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T183350">2022-06-07 18:33:50 UTC</a></sub>
 * [NASA to Inflate Heat Shield on Earth Before Spaceflight Demo](http://www.nasa.gov/press-release/nasa-to-inflate-heat-shield-on-earth-before-spaceflight-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T171400">2022-06-07 17:14:00 UTC</a></sub>
 * [Globalstar spare satellite to launch on SpaceX rocket this month](https://spaceflightnow.com/2022/06/07/globalstar-spare-satellite-to-launch-on-spacex-rocket-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T164343">2022-06-07 16:43:43 UTC</a></sub>
-* [Redwire, MDA, to produce tactical communications antennas for military satellites](https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T160347">2022-06-07 16:03:47 UTC</a></sub>
-* [South Korea cancels Apophis probe](https://spacenews.com/south-korea-cancels-apophis-probe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T150347">2022-06-07 15:03:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T170826">2022-06-08 17:08:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T173727">2022-06-08 17:37:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
