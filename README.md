@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Administrator, STEM Partner Connect Orlando Children with Artemis](http://www.nasa.gov/press-release/nasa-administrator-stem-partner-connect-orlando-children-with-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T200400">2022-06-08 20:04:00 UTC</a></sub>
 * [Northrop Grumman to boost production of solid rocket motors following big contract from ULA](https://spacenews.com/northrop-grumman-to-boost-production-of-solid-rocket-motors-following-big-contract-from-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T194402">2022-06-08 19:44:02 UTC</a></sub>
 * [NASA Leadership to Advocate for Agency Missions at ESA Council Meeting](http://www.nasa.gov/press-release/nasa-leadership-to-advocate-for-agency-missions-at-esa-council-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T181500">2022-06-08 18:15:00 UTC</a></sub>
 * [SpaceX preparing to launch Nilesat-301 on first GTO mission of 2022](https://www.nasaspaceflight.com/2022/06/falcon-9-nilesat-301/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T175800">2022-06-08 17:58:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [France joins Artemis Accords](https://spacenews.com/france-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T113406">2022-06-08 11:34:06 UTC</a></sub>
 * [SpaceX preparing giant crane to assemble Starship’s first Florida launch tower](https://www.teslarati.com/spacex-starship-florida-launch-tower-crane-assembly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T111520">2022-06-08 11:15:20 UTC</a></sub>
 * [Elon Musk reportedly extends timeline for potential Starlink IPO](https://spacenews.com/elon-musk-reportedly-extends-timeline-for-potential-starlink-ipo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T223348">2022-06-07 22:33:48 UTC</a></sub>
-* [SpaceX Falcon 9 rocket set to launch Egyptian communications satellite](https://www.teslarati.com/spacex-falcon-9-egyptian-satellite-nilesat-301-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T211409">2022-06-07 21:14:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T200441">2022-06-08 20:04:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T203521">2022-06-08 20:35:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
