@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China aims for space-based solar power test in LEO in 2028, GEO in 2030](https://spacenews.com/china-aims-for-space-based-solar-power-test-in-leo-in-2028-geo-in-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T155411">2022-06-08 15:54:11 UTC</a></sub>
 * [France joins Artemis Accords](https://spacenews.com/france-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T113406">2022-06-08 11:34:06 UTC</a></sub>
 * [SpaceX preparing giant crane to assemble Starship’s first Florida launch tower](https://www.teslarati.com/spacex-starship-florida-launch-tower-crane-assembly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T111520">2022-06-08 11:15:20 UTC</a></sub>
 * [Elon Musk reportedly extends timeline for potential Starlink IPO](https://spacenews.com/elon-musk-reportedly-extends-timeline-for-potential-starlink-ipo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T223348">2022-06-07 22:33:48 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Globalstar spare satellite to launch on SpaceX rocket this month](https://spaceflightnow.com/2022/06/07/globalstar-spare-satellite-to-launch-on-spacex-rocket-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T164343">2022-06-07 16:43:43 UTC</a></sub>
 * [Redwire, MDA, to produce tactical communications antennas for military satellites](https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T160347">2022-06-07 16:03:47 UTC</a></sub>
 * [South Korea cancels Apophis probe](https://spacenews.com/south-korea-cancels-apophis-probe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T150347">2022-06-07 15:03:47 UTC</a></sub>
-* [NASA and SpaceX stand down on Dragon launch to study hydrazine issue](https://arstechnica.com/science/2022/06/nasa-delays-cargo-dragon-flight-due-to-a-propellant-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T145437">2022-06-07 14:54:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T160632">2022-06-08 16:06:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T165129">2022-06-08 16:51:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
