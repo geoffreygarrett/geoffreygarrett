@@ -182,6 +182,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA audit reveals massive overruns in SLS mobile launch platform](https://spacenews.com/nasa-audit-reveals-massive-overruns-in-sls-mobile-launch-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T195414">2022-06-09 19:54:14 UTC</a></sub>
 * [NASA’s second mobile launcher is too heavy, years late, and pushing $1 billion](https://arstechnica.com/science/2022/06/nasas-second-mobile-launcher-is-too-heavy-years-late-and-pushing-1-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T170643">2022-06-09 17:06:43 UTC</a></sub>
 * [Starbase orbital duo preps for Static Fire campaign – KSC Starship Progress](https://www.nasaspaceflight.com/2022/06/starbase-duo-static-fire-campaign-ksc-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T165158">2022-06-09 16:51:58 UTC</a></sub>
 * [Egypt’s Nilesat 301 passes health checks after SpaceX launch](https://spacenews.com/egypts-nilesat-301-passes-health-checks-after-spacex-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T163411">2022-06-09 16:34:11 UTC</a></sub>
@@ -191,7 +192,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [SpaceX rolls out Starship tank prototype to test upgraded domes](https://www.teslarati.com/spacex-starship-upgraded-dome-test-tank-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T111508">2022-06-09 11:15:08 UTC</a></sub>
 * [Rocket Report: Four Falcon Heavy launches this year; meet the Baguette-one](https://arstechnica.com/science/2022/06/rocket-report-four-falcon-heavy-launches-this-year-meet-the-baguette-one/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T110010">2022-06-09 11:00:10 UTC</a></sub>
 * [SpaceX’s 23rd launch of the year carries Egyptian satellite into orbit](https://www.teslarati.com/spacex-23rd-falcon-9-launch-2022-nilesat-301/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T222536">2022-06-08 22:25:36 UTC</a></sub>
-* [House armed services panel calls on DoD to buy commercial space technology and data](https://spacenews.com/house-armed-services-panel-calls-on-dod-to-buy-commercial-space-technology-and-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T220405">2022-06-08 22:04:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T193106">2022-06-09 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T200642">2022-06-09 20:06:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
