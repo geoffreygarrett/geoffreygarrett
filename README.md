@@ -100,7 +100,7 @@ Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T160000">2022-06-12 16:00:00 UTC</a>. Until
 then, this launch pad will have seen 5
-out of 844 launches in this
+out of 845 launches in this
 region. The mission's status is currently To Be Confirmed
 (TBC) 🟨  which means:
 *awaiting official confirmation - current date is known with some certainty.* 
@@ -182,6 +182,8 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starbase orbital duo preps for Static Fire campaign – KSC Starship Progress](https://www.nasaspaceflight.com/2022/06/starbase-duo-static-fire-campaign-ksc-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T165158">2022-06-09 16:51:58 UTC</a></sub>
+* [Egypt’s Nilesat 301 passes health checks after SpaceX launch](https://spacenews.com/egypts-nilesat-301-passes-health-checks-after-spacex-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T163411">2022-06-09 16:34:11 UTC</a></sub>
 * [Space Force delivers first of two U.S. payloads to launch on Space Norway’s arctic broadband mission](https://spacenews.com/space-force-delivers-first-of-two-u-s-payloads-to-launch-on-space-norways-arctic-broadband-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T152414">2022-06-09 15:24:14 UTC</a></sub>
 * [NASA to Discuss New Unidentified Aerial Phenomena Study Today](http://www.nasa.gov/press-release/nasa-to-discuss-new-unidentified-aerial-phenomena-study-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T144400">2022-06-09 14:44:00 UTC</a></sub>
 * [Psyche launch delay forcing revamp of rideshare mission](https://spacenews.com/psyche-launch-delay-forcing-revamp-of-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T113437">2022-06-09 11:34:37 UTC</a></sub>
@@ -190,8 +192,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [SpaceX’s 23rd launch of the year carries Egyptian satellite into orbit](https://www.teslarati.com/spacex-23rd-falcon-9-launch-2022-nilesat-301/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T222536">2022-06-08 22:25:36 UTC</a></sub>
 * [House armed services panel calls on DoD to buy commercial space technology and data](https://spacenews.com/house-armed-services-panel-calls-on-dod-to-buy-commercial-space-technology-and-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T220405">2022-06-08 22:04:05 UTC</a></sub>
 * [Inmarsat satellite tests signal for replacing lost UK navigation capability](https://spacenews.com/inmarsat-satellite-tests-signal-for-replacing-lost-uk-navigation-capability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T211418">2022-06-08 21:14:18 UTC</a></sub>
-* [NASA Administrator, STEM Partner Connect Orlando Children with Artemis](http://www.nasa.gov/press-release/nasa-administrator-stem-partner-connect-orlando-children-with-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T200400">2022-06-08 20:04:00 UTC</a></sub>
-* [Northrop Grumman to boost production of solid rocket motors following big contract from ULA](https://spacenews.com/northrop-grumman-to-boost-production-of-solid-rocket-motors-following-big-contract-from-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T194402">2022-06-08 19:44:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T160631">2022-06-09 16:06:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T165512">2022-06-09 16:55:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
