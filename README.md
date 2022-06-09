@@ -94,7 +94,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Astra Rocket 3 | TROPICS 1 & 2 at the
+Astra Rocket 3 | TROPICS-1 at the
 <a href="https://en.wikipedia.org/wiki/Spaceport_Florida_Launch_Complex_46">Space Launch Complex 46</a> in
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
@@ -106,7 +106,7 @@ region. The mission's status is currently To Be Confirmed
 *awaiting official confirmation - current date is known with some certainty.* 
 <br>
 <blockquote>
-  First two satellites for NASA's Time-Resolved Observations of Precipitation Structure and Storm Intensity with a Constellation of SmallSats (TROPICS) mission.
+  First two operational (TROPICS-02 & TROPICS-03) satellites for NASA's Time-Resolved Observations of Precipitation Structure and Storm Intensity with a Constellation of SmallSats (TROPICS) mission.
 
 The CubeSats are designed to provide rapid-refresh microwave measurements that can be used to determine temperature, pressure, and humidity inside hurricanes as they form and evolve.
 </blockquote>
@@ -128,7 +128,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS 1 & 2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T160000">2022-06-12 16:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | TROPICS 1 &amp; 2&location=Cape Canaveral, FL, USA&dates=20220612T160000Z%2F20220612T184500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-1</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T160000">2022-06-12 16:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | TROPICS-1&location=Cape Canaveral, FL, USA&dates=20220612T160000Z%2F20220612T184500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>Flight Test 2</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T060000">2022-06-15 06:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | Flight Test 2&location=Naro Space Center, South Korea&dates=20220615T060000Z%2F20220615T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SARah 1</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T135000">2022-06-18 13:50:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SARah 1&location=Vandenberg SFB, CA, USA&dates=20220618T135000Z%2F20220618T135000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Measat-3d & GSAT 24</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Measat-3d &amp; GSAT 24&location=Kourou, French Guiana&dates=20220622T210300Z%2F20220622T224300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -202,6 +202,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What might JWST reveal about TRAPPIST-1?](https://www.planetary.org/articles/james-webb-space-telescope-trappist-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T140513">2022-06-09 14:05:13 UTC</a></sub>
 * [How The Planetary Society got to Mars](https://www.planetary.org/articles/how-the-planetary-society-got-to-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163415">2022-06-07 16:34:15 UTC</a></sub>
 * [Your impact: June Solstice 2022](https://www.planetary.org/articles/your-impact-june-solstice-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163412">2022-06-07 16:34:12 UTC</a></sub>
 * [Renaissance in red](https://www.planetary.org/articles/renaissance-in-red) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163410">2022-06-07 16:34:10 UTC</a></sub>
@@ -211,7 +212,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [Request for Proposals for the 2022 Science and Technology Empowered by the Public (STEP) Grants](https://www.planetary.org/articles/step-grants-2022-request-for-proposals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T140411">2022-06-06 14:04:11 UTC</a></sub>
 * [A hazy shade of winter](https://www.planetary.org/the-downlink/a-hazy-shade-of-winter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T143404">2022-06-03 14:34:04 UTC</a></sub>
 * [Mars Pathfinder, the start of modern Mars exploration](https://www.planetary.org/space-missions/pathfinder) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T140413">2022-06-03 14:04:13 UTC</a></sub>
-* [China is getting serious about planetary defense](https://www.planetary.org/articles/china-planetary-defense-plans) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140404">2022-06-02 14:04:04 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -224,7 +224,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T140902">2022-06-09 14:09:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T143300">2022-06-09 14:33:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
