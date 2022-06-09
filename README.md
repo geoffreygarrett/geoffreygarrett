@@ -182,6 +182,8 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force delivers first of two U.S. payloads to launch on Space Norway’s arctic broadband mission](https://spacenews.com/space-force-delivers-first-of-two-u-s-payloads-to-launch-on-space-norways-arctic-broadband-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T152414">2022-06-09 15:24:14 UTC</a></sub>
+* [NASA to Discuss New Unidentified Aerial Phenomena Study Today](http://www.nasa.gov/press-release/nasa-to-discuss-new-unidentified-aerial-phenomena-study-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T144400">2022-06-09 14:44:00 UTC</a></sub>
 * [Psyche launch delay forcing revamp of rideshare mission](https://spacenews.com/psyche-launch-delay-forcing-revamp-of-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T113437">2022-06-09 11:34:37 UTC</a></sub>
 * [SpaceX rolls out Starship tank prototype to test upgraded domes](https://www.teslarati.com/spacex-starship-upgraded-dome-test-tank-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T111508">2022-06-09 11:15:08 UTC</a></sub>
 * [Rocket Report: Four Falcon Heavy launches this year; meet the Baguette-one](https://arstechnica.com/science/2022/06/rocket-report-four-falcon-heavy-launches-this-year-meet-the-baguette-one/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T110010">2022-06-09 11:00:10 UTC</a></sub>
@@ -190,8 +192,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [Inmarsat satellite tests signal for replacing lost UK navigation capability](https://spacenews.com/inmarsat-satellite-tests-signal-for-replacing-lost-uk-navigation-capability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T211418">2022-06-08 21:14:18 UTC</a></sub>
 * [NASA Administrator, STEM Partner Connect Orlando Children with Artemis](http://www.nasa.gov/press-release/nasa-administrator-stem-partner-connect-orlando-children-with-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T200400">2022-06-08 20:04:00 UTC</a></sub>
 * [Northrop Grumman to boost production of solid rocket motors following big contract from ULA](https://spacenews.com/northrop-grumman-to-boost-production-of-solid-rocket-motors-following-big-contract-from-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T194402">2022-06-08 19:44:02 UTC</a></sub>
-* [NASA Leadership to Advocate for Agency Missions at ESA Council Meeting](http://www.nasa.gov/press-release/nasa-leadership-to-advocate-for-agency-missions-at-esa-council-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T181500">2022-06-08 18:15:00 UTC</a></sub>
-* [SpaceX launches Nilesat-301 on first GTO mission of 2022](https://www.nasaspaceflight.com/2022/06/falcon-9-nilesat-301/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T175800">2022-06-08 17:58:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T150235">2022-06-09 15:02:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T153734">2022-06-09 15:37:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
