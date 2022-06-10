@@ -183,6 +183,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Xenesis signs launch pact with Evolution Space](https://spacenews.com/xenesis-signs-launch-with-evolution-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T190412">2022-06-10 19:04:12 UTC</a></sub>
 * [Efforts continue to fully deploy Lucy solar array](https://spacenews.com/efforts-continue-to-fully-deploy-lucy-solar-array/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T162417">2022-06-10 16:24:17 UTC</a></sub>
 * [NASA Student Business Competition Gets Boost by White House Initiative](http://www.nasa.gov/press-release/nasa-student-business-competition-gets-boost-by-white-house-initiative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T153500">2022-06-10 15:35:00 UTC</a></sub>
 * [Lockheed Martin powers up Artemis 2 Orion, updates status on other capsules](https://www.nasaspaceflight.com/2022/06/orion-status-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T152242">2022-06-10 15:22:42 UTC</a></sub>
@@ -192,7 +193,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [NASA audit reveals massive overruns in SLS mobile launch platform](https://spacenews.com/nasa-audit-reveals-massive-overruns-in-sls-mobile-launch-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T195414">2022-06-09 19:54:14 UTC</a></sub>
 * [NASA’s second mobile launcher is too heavy, years late, and pushing $1 billion](https://arstechnica.com/science/2022/06/nasas-second-mobile-launcher-is-too-heavy-years-late-and-pushing-1-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T170643">2022-06-09 17:06:43 UTC</a></sub>
 * [Starbase orbital duo preps for Static Fire campaign – KSC Starship Progress](https://www.nasaspaceflight.com/2022/06/starbase-duo-static-fire-campaign-ksc-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T165158">2022-06-09 16:51:58 UTC</a></sub>
-* [Egypt’s Nilesat 301 passes health checks after SpaceX launch](https://spacenews.com/egypts-nilesat-301-passes-health-checks-after-spacex-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T163411">2022-06-09 16:34:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T193103">2022-06-10 19:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T200428">2022-06-10 20:04:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
