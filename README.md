@@ -183,6 +183,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Space Force orders eight launches from ULA and SpaceX](https://spaceflightnow.com/2022/06/10/u-s-space-force-orders-eight-launches-from-ula-and-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T230353">2022-06-10 23:03:53 UTC</a></sub>
 * [NASA to Discuss, Conduct Test to Prepare for Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-conduct-test-to-prepare-for-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T214400">2022-06-10 21:44:00 UTC</a></sub>
 * [Xenesis signs launch pact with Evolution Space](https://spacenews.com/xenesis-signs-launch-with-evolution-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T190412">2022-06-10 19:04:12 UTC</a></sub>
 * [Efforts continue to fully deploy Lucy solar array](https://spacenews.com/efforts-continue-to-fully-deploy-lucy-solar-array/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T162417">2022-06-10 16:24:17 UTC</a></sub>
@@ -192,7 +193,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [SpaceX Starship prototype returns to factory after simulated Raptor testing](https://www.teslarati.com/spacex-starship-s24-completes-simulated-raptor-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T111511">2022-06-10 11:15:11 UTC</a></sub>
 * [NASA Offers Earth Scientist Interviews Ahead of TROPICS Mission](http://www.nasa.gov/press-release/nasa-offers-earth-scientist-interviews-ahead-of-tropics-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T230500">2022-06-09 23:05:00 UTC</a></sub>
 * [NASA audit reveals massive overruns in SLS mobile launch platform](https://spacenews.com/nasa-audit-reveals-massive-overruns-in-sls-mobile-launch-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T195414">2022-06-09 19:54:14 UTC</a></sub>
-* [NASA’s second mobile launcher is too heavy, years late, and pushing $1 billion](https://arstechnica.com/science/2022/06/nasas-second-mobile-launcher-is-too-heavy-years-late-and-pushing-1-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T170643">2022-06-09 17:06:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T230240">2022-06-10 23:02:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T233456">2022-06-10 23:34:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
