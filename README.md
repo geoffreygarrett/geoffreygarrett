@@ -183,6 +183,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Europa Clipper’s main body complete, teams continue work toward 2024 launch](https://www.nasaspaceflight.com/2022/06/europa-clippers-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220611T172758">2022-06-11 17:27:58 UTC</a></sub>
 * [U.S. Space Force orders eight launches from ULA and SpaceX](https://spaceflightnow.com/2022/06/10/u-s-space-force-orders-eight-launches-from-ula-and-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T230353">2022-06-10 23:03:53 UTC</a></sub>
 * [NASA to Discuss, Conduct Test to Prepare for Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-conduct-test-to-prepare-for-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T214400">2022-06-10 21:44:00 UTC</a></sub>
 * [Xenesis signs launch pact with Evolution Space](https://spacenews.com/xenesis-signs-launch-with-evolution-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T190412">2022-06-10 19:04:12 UTC</a></sub>
@@ -192,7 +193,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [NASA embraces high-risk, high-reward research with UAP study](https://spacenews.com/nasa-embraces-high-risk-high-reward-research-with-uap-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T120411">2022-06-10 12:04:11 UTC</a></sub>
 * [SpaceX Starship prototype returns to factory after simulated Raptor testing](https://www.teslarati.com/spacex-starship-s24-completes-simulated-raptor-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T111511">2022-06-10 11:15:11 UTC</a></sub>
 * [NASA to purchase five more Dragon crew missions from SpaceX](https://spaceflightnow.com/2022/06/10/nasa-to-purchase-five-more-dragon-crew-missions-from-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T065354">2022-06-10 06:53:54 UTC</a></sub>
-* [Astra to begin three-launch campaign with NASA hurricane research satellites](https://spaceflightnow.com/2022/06/10/astra-poised-to-begin-three-launch-campaign-with-nasa-hurricane-research-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T040358">2022-06-10 04:03:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220611T173249">2022-06-11 17:32:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220611T180451">2022-06-11 18:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
