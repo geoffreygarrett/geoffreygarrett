@@ -191,8 +191,8 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [Lockheed Martin powers up Artemis 2 Orion, updates status on other capsules](https://www.nasaspaceflight.com/2022/06/orion-status-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T152242">2022-06-10 15:22:42 UTC</a></sub>
 * [NASA embraces high-risk, high-reward research with UAP study](https://spacenews.com/nasa-embraces-high-risk-high-reward-research-with-uap-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T120411">2022-06-10 12:04:11 UTC</a></sub>
 * [SpaceX Starship prototype returns to factory after simulated Raptor testing](https://www.teslarati.com/spacex-starship-s24-completes-simulated-raptor-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T111511">2022-06-10 11:15:11 UTC</a></sub>
+* [Astra to begin three-launch campaign with NASA hurricane research satellites](https://spaceflightnow.com/2022/06/10/astra-poised-to-begin-three-launch-campaign-with-nasa-hurricane-research-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T040358">2022-06-10 04:03:58 UTC</a></sub>
 * [NASA Offers Earth Scientist Interviews Ahead of TROPICS Mission](http://www.nasa.gov/press-release/nasa-offers-earth-scientist-interviews-ahead-of-tropics-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T230500">2022-06-09 23:05:00 UTC</a></sub>
-* [NASA audit reveals massive overruns in SLS mobile launch platform](https://spacenews.com/nasa-audit-reveals-massive-overruns-in-sls-mobile-launch-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T195414">2022-06-09 19:54:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220611T033658">2022-06-11 03:36:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220611T040947">2022-06-11 04:09:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
