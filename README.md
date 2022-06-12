@@ -180,7 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Astra to launch first TROPICS flight for NASA](https://www.nasaspaceflight.com/2022/06/astra-tropics-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T150138">2022-06-12 15:01:38 UTC</a></sub>
+* [Astra launch fails on first TROPICS flight for NASA](https://www.nasaspaceflight.com/2022/06/astra-tropics-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T150138">2022-06-12 15:01:38 UTC</a></sub>
 * [DoD space agency to acquire 10 satellites for experiments in low Earth orbit](https://spacenews.com/dod-space-agency-to-acquire-10-satellites-for-experiments-in-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T145408">2022-06-12 14:54:08 UTC</a></sub>
 * [Europa Clipper’s main body complete, teams continue work toward 2024 launch](https://www.nasaspaceflight.com/2022/06/europa-clippers-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220611T172758">2022-06-11 17:27:58 UTC</a></sub>
 * [U.S. Space Force orders eight launches from ULA and SpaceX](https://spaceflightnow.com/2022/06/10/u-s-space-force-orders-eight-launches-from-ula-and-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T230353">2022-06-10 23:03:53 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T180512">2022-06-12 18:05:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T183835">2022-06-12 18:38:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
