@@ -181,6 +181,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [FAA environmental review to allow Starship orbital launches after changes](https://spacenews.com/faa-environmental-review-to-allow-starship-orbital-launches-after-changes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T195221">2022-06-13 19:52:21 UTC</a></sub>
+* [Ariane 6 launch debut pushed into 2023](https://spacenews.com/ariane-6-launch-debut-pushed-into-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T194246">2022-06-13 19:42:46 UTC</a></sub>
 * [FAA moves SpaceX a step closer to receiving Starship launch license](https://spaceflightnow.com/2022/06/13/faa-moves-spacex-a-step-closer-to-receiving-starship-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T183216">2022-06-13 18:32:16 UTC</a></sub>
 * [BlueWalker 3 launch window opens Aug. 15](https://spacenews.com/bluewalker-3-launch-window-opens-aug-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T162231">2022-06-13 16:22:31 UTC</a></sub>
 * [NASA Discoveries Highlighted at American Astronomical Society Meeting](http://www.nasa.gov/press-release/nasa-discoveries-highlighted-at-american-astronomical-society-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T142300">2022-06-13 14:23:00 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Photos: Artemis 1 rocket hauled to launch pad for another countdown rehearsal](https://spaceflightnow.com/2022/06/12/photos-artemis-1-rocket-hauled-to-launch-pad-for-another-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T214354">2022-06-12 21:43:54 UTC</a></sub>
 * [Two hurricane research satellites lost in Astra launch failure](https://spaceflightnow.com/2022/06/12/two-hurricane-research-satellites-lost-in-astra-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T210350">2022-06-12 21:03:50 UTC</a></sub>
 * [Astra launch of NASA TROPICS cubesats fails](https://spacenews.com/astra-launch-of-nasa-tropics-cubesats-fails/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T190412">2022-06-12 19:04:12 UTC</a></sub>
-* [Astra launch fails on first TROPICS flight for NASA](https://www.nasaspaceflight.com/2022/06/astra-tropics-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T150138">2022-06-12 15:01:38 UTC</a></sub>
-* [DoD space agency to acquire 10 satellites for experiments in low Earth orbit](https://spacenews.com/dod-space-agency-to-acquire-10-satellites-for-experiments-in-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T145408">2022-06-12 14:54:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T193059">2022-06-13 19:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T200419">2022-06-13 20:04:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
