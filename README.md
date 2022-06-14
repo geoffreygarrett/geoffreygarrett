@@ -181,16 +181,16 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Momentus increasingly pessimistic about first Vigoride mission](https://spacenews.com/momentus-increasingly-pessimistic-about-first-vigoride-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T232240">2022-06-14 23:22:40 UTC</a></sub>
 * [Momentus orbital transfer vehicle suffers power problem after launch](https://spaceflightnow.com/2022/06/14/momentus-orbital-transfer-vehicle-suffers-power-problem-after-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T212219">2022-06-14 21:22:19 UTC</a></sub>
 * [Starlink and OneWeb reach spectrum coordination plan](https://spacenews.com/starlink-and-oneweb-reach-spectrum-coordination-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T193238">2022-06-14 19:32:38 UTC</a></sub>
 * [Aerospacelab to build “megafactory” in Belgium](https://spacenews.com/aerospacelab-factory-charleroi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T180236">2022-06-14 18:02:36 UTC</a></sub>
 * [Lockheed talks OSIRIS-REx success, readiness for APEX mission to Apophis](https://www.nasaspaceflight.com/2022/06/osiris-rex-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173321">2022-06-14 17:33:21 UTC</a></sub>
-* [Sierra Space to start astronaut training program](https://spacenews.com/sierra-space-to-start-astronaut-training-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173226">2022-06-14 17:32:26 UTC</a></sub>
 * [Explosion at Chinese space launch center revealed by satellite imagery](https://spacenews.com/explosion-at-chinese-space-launch-center-revealed-by-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173226">2022-06-14 17:32:26 UTC</a></sub>
+* [Sierra Space to start astronaut training program](https://spacenews.com/sierra-space-to-start-astronaut-training-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173226">2022-06-14 17:32:26 UTC</a></sub>
 * [NASA, Partner Establish New Research Group for Mars Sample Return Program](https://mars.nasa.gov/news/9205/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T171300">2022-06-14 17:13:00 UTC</a></sub>
 * [NASA Invites Media, Public to View Webb Telescope’s First Images](http://www.nasa.gov/press-release/nasa-invites-media-public-to-view-webb-telescope-s-first-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T155300">2022-06-14 15:53:00 UTC</a></sub>
 * [Northrop Grumman demonstrates Mynaric laser terminals for military constellation](https://spacenews.com/northrop-grumman-demonstrates-mynaric-laser-terminals-for-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T133236">2022-06-14 13:32:36 UTC</a></sub>
-* [Cargo Dragon launch rescheduled for July after identifying hydrazine leak](https://spacenews.com/cargo-dragon-launch-rescheduled-for-july-after-identifying-hydrazine-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T112224">2022-06-14 11:22:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T230325">2022-06-14 23:03:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T233418">2022-06-14 23:34:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
