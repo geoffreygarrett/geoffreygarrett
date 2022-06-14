@@ -181,6 +181,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Sierra Space to start astronaut training program](https://spacenews.com/sierra-space-to-start-astronaut-training-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173226">2022-06-14 17:32:26 UTC</a></sub>
+* [Explosion at Chinese space launch center revealed by satellite imagery](https://spacenews.com/explosion-at-chinese-space-launch-center-revealed-by-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173226">2022-06-14 17:32:26 UTC</a></sub>
+* [NASA, Partner Establish New Research Group for Mars Sample Return Program](https://mars.nasa.gov/news/9205/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T171300">2022-06-14 17:13:00 UTC</a></sub>
 * [NASA Invites Media, Public to View Webb Telescope’s First Images](http://www.nasa.gov/press-release/nasa-invites-media-public-to-view-webb-telescope-s-first-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T155300">2022-06-14 15:53:00 UTC</a></sub>
 * [Northrop Grumman demonstrates Mynaric laser terminals for military constellation](https://spacenews.com/northrop-grumman-demonstrates-mynaric-laser-terminals-for-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T133236">2022-06-14 13:32:36 UTC</a></sub>
 * [Cargo Dragon launch rescheduled for July after identifying hydrazine leak](https://spacenews.com/cargo-dragon-launch-rescheduled-for-july-after-identifying-hydrazine-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T112224">2022-06-14 11:22:24 UTC</a></sub>
@@ -188,9 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Chinese university completes space-based solar power ground test facility](https://spacenews.com/chinese-university-completes-space-based-solar-power-ground-test-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T082236">2022-06-14 08:22:36 UTC</a></sub>
 * [BlueHalo wins $11 million Air Force contract for laser communications terminals](https://spacenews.com/bluehalo-wins-11-million-air-force-contract-for-laser-communications-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T071215">2022-06-14 07:12:15 UTC</a></sub>
 * [Air Force scientist takes over as director of Space Force rapid procurement agency](https://spacenews.com/air-force-scientist-takes-over-as-director-of-space-force-rapid-procurement-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T061234">2022-06-14 06:12:34 UTC</a></sub>
-* [SpaceX a big step closer to orbital Starship launches after passing FAA environmental review](https://www.teslarati.com/spacex-a-big-step-closer-to-orbital-starship-launches-after-passing-faa-environmental-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T215308">2022-06-13 21:53:08 UTC</a></sub>
-* [Atlas wins Defense Innovation Unit Award for hybrid network](https://spacenews.com/atlas-diu-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T215222">2022-06-13 21:52:22 UTC</a></sub>
-* [FAA environmental review to allow Starship orbital launches after changes](https://spacenews.com/faa-environmental-review-to-allow-starship-orbital-launches-after-changes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T195221">2022-06-13 19:52:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T171037">2022-06-14 17:10:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173810">2022-06-14 17:38:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
