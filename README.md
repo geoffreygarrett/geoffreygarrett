@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese university completes space-based solar power ground test facility](https://spacenews.com/chinese-university-completes-space-based-solar-power-ground-test-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T082236">2022-06-14 08:22:36 UTC</a></sub>
 * [BlueHalo wins $11 million Air Force contract for laser communications terminals](https://spacenews.com/bluehalo-wins-11-million-air-force-contract-for-laser-communications-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T071215">2022-06-14 07:12:15 UTC</a></sub>
 * [Air Force scientist takes over as director of Space Force rapid procurement agency](https://spacenews.com/air-force-scientist-takes-over-as-director-of-space-force-rapid-procurement-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T061234">2022-06-14 06:12:34 UTC</a></sub>
 * [SpaceX a big step closer to orbital Starship launches after passing FAA environmental review](https://www.teslarati.com/spacex-a-big-step-closer-to-orbital-starship-launches-after-passing-faa-environmental-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T215308">2022-06-13 21:53:08 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [FAA moves SpaceX a step closer to receiving Starship launch license](https://spaceflightnow.com/2022/06/13/faa-moves-spacex-a-step-closer-to-receiving-starship-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T183216">2022-06-13 18:32:16 UTC</a></sub>
 * [BlueWalker 3 launch window opens Aug. 15](https://spacenews.com/bluewalker-3-launch-window-opens-aug-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T162231">2022-06-13 16:22:31 UTC</a></sub>
 * [NASA Discoveries Highlighted at American Astronomical Society Meeting](http://www.nasa.gov/press-release/nasa-discoveries-highlighted-at-american-astronomical-society-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T142300">2022-06-13 14:23:00 UTC</a></sub>
-* [GAO finds CASIS not making full use of advisory committee](https://spacenews.com/gao-finds-casis-not-making-full-use-of-advisory-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T113232">2022-06-13 11:32:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T080815">2022-06-14 08:08:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T084105">2022-06-14 08:41:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
