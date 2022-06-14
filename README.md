@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Momentus orbital transfer vehicle suffers power problem after launch](https://spaceflightnow.com/2022/06/14/momentus-orbital-transfer-vehicle-suffers-power-problem-after-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T212219">2022-06-14 21:22:19 UTC</a></sub>
 * [Starlink and OneWeb reach spectrum coordination plan](https://spacenews.com/starlink-and-oneweb-reach-spectrum-coordination-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T193238">2022-06-14 19:32:38 UTC</a></sub>
 * [Aerospacelab to build “megafactory” in Belgium](https://spacenews.com/aerospacelab-factory-charleroi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T180236">2022-06-14 18:02:36 UTC</a></sub>
 * [Lockheed talks OSIRIS-REx success, readiness for APEX mission to Apophis](https://www.nasaspaceflight.com/2022/06/osiris-rex-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173321">2022-06-14 17:33:21 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Invites Media, Public to View Webb Telescope’s First Images](http://www.nasa.gov/press-release/nasa-invites-media-public-to-view-webb-telescope-s-first-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T155300">2022-06-14 15:53:00 UTC</a></sub>
 * [Northrop Grumman demonstrates Mynaric laser terminals for military constellation](https://spacenews.com/northrop-grumman-demonstrates-mynaric-laser-terminals-for-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T133236">2022-06-14 13:32:36 UTC</a></sub>
 * [Cargo Dragon launch rescheduled for July after identifying hydrazine leak](https://spacenews.com/cargo-dragon-launch-rescheduled-for-july-after-identifying-hydrazine-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T112224">2022-06-14 11:22:24 UTC</a></sub>
-* [SpaceX, NASA blame Cargo Dragon leak on faulty valve, delay launch further](https://www.teslarati.com/spacex-nasa-cargo-dragon-crs-25-delay-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T111335">2022-06-14 11:13:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T210247">2022-06-14 21:02:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T213148">2022-06-14 21:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
