@@ -98,7 +98,7 @@ Nuri | Flight Test 2 at the
 <a href="https://en.wikipedia.org/wiki/Naro_Space_Center">LC-2</a> in
 Naro Space Center, South Korea
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T060000">2022-06-15 06:00:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T060000">2022-06-16 06:00:00 UTC</a>. Until
 then, this launch pad will have seen 1
 out of 4 launches in this
 region. The mission's status is currently To Be Confirmed
@@ -126,7 +126,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>Flight Test 2</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T060000">2022-06-15 06:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | Flight Test 2&location=Naro Space Center, South Korea&dates=20220615T060000Z%2F20220615T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>Flight Test 2</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T060000">2022-06-16 06:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | Flight Test 2&location=Naro Space Center, South Korea&dates=20220616T060000Z%2F20220616T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-19</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T145000">2022-06-17 14:50:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-19&location=Kennedy Space Center, FL, USA&dates=20220617T145000Z%2F20220617T145000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SARah 1</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T135000">2022-06-18 13:50:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SARah 1&location=Vandenberg SFB, CA, USA&dates=20220618T135000Z%2F20220618T135000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Globalstar-2 FM15 & others</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T043000">2022-06-19 04:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Globalstar-2 FM15 &amp; others&location=Cape Canaveral, FL, USA&dates=20220619T043000Z%2F20220619T043000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -190,7 +190,7 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Discoveries Highlighted at American Astronomical Society Meeting](http://www.nasa.gov/press-release/nasa-discoveries-highlighted-at-american-astronomical-society-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T142300">2022-06-13 14:23:00 UTC</a></sub>
 * [GAO finds CASIS not making full use of advisory committee](https://spacenews.com/gao-finds-casis-not-making-full-use-of-advisory-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T113232">2022-06-13 11:32:32 UTC</a></sub>
 * [SpaceX faces NASA hurdle for Starship backup launch pad](https://www.reuters.com/technology/spacex-faces-nasa-hurdle-starship-backup-launch-pad-2022-06-13/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T100800">2022-06-13 10:08:00 UTC</a></sub>
-* [Photos: Artemis 1 rocket hauled to launch pad for another countdown rehearsal](https://spaceflightnow.com/2022/06/12/photos-artemis-1-rocket-hauled-to-launch-pad-for-another-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T214354">2022-06-12 21:43:54 UTC</a></sub>
+* [Okapi:Orbits raises $5.7 million in seed funding round](https://spacenews.com/okapi-seed-round-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T000238">2022-06-13 00:02:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T233436">2022-06-13 23:34:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T003708">2022-06-14 00:37:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
