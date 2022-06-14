@@ -181,6 +181,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Cargo Dragon launch rescheduled for July after identifying hydrazine leak](https://spacenews.com/cargo-dragon-launch-rescheduled-for-july-after-identifying-hydrazine-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T112224">2022-06-14 11:22:24 UTC</a></sub>
+* [SpaceX, NASA blame Cargo Dragon leak on faulty valve, delay launch further](https://www.teslarati.com/spacex-nasa-cargo-dragon-crs-25-delay-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T111335">2022-06-14 11:13:35 UTC</a></sub>
 * [Chinese university completes space-based solar power ground test facility](https://spacenews.com/chinese-university-completes-space-based-solar-power-ground-test-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T082236">2022-06-14 08:22:36 UTC</a></sub>
 * [BlueHalo wins $11 million Air Force contract for laser communications terminals](https://spacenews.com/bluehalo-wins-11-million-air-force-contract-for-laser-communications-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T071215">2022-06-14 07:12:15 UTC</a></sub>
 * [Air Force scientist takes over as director of Space Force rapid procurement agency](https://spacenews.com/air-force-scientist-takes-over-as-director-of-space-force-rapid-procurement-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T061234">2022-06-14 06:12:34 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [FAA environmental review to allow Starship orbital launches after changes](https://spacenews.com/faa-environmental-review-to-allow-starship-orbital-launches-after-changes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T195221">2022-06-13 19:52:21 UTC</a></sub>
 * [Ariane 6 launch debut pushed into 2023](https://spacenews.com/ariane-6-launch-debut-pushed-into-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T194246">2022-06-13 19:42:46 UTC</a></sub>
 * [FAA moves SpaceX a step closer to receiving Starship launch license](https://spaceflightnow.com/2022/06/13/faa-moves-spacex-a-step-closer-to-receiving-starship-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T183216">2022-06-13 18:32:16 UTC</a></sub>
-* [BlueWalker 3 launch window opens Aug. 15](https://spacenews.com/bluewalker-3-launch-window-opens-aug-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T162231">2022-06-13 16:22:31 UTC</a></sub>
-* [NASA Discoveries Highlighted at American Astronomical Society Meeting](http://www.nasa.gov/press-release/nasa-discoveries-highlighted-at-american-astronomical-society-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T142300">2022-06-13 14:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T110213">2022-06-14 11:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T113123">2022-06-14 11:31:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
