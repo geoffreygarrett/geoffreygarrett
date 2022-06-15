@@ -201,6 +201,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [USSF-12: Atlas V receives two SSC satellite payloads](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-receives-two-ssc-satellite-payloads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T173417">2022-06-15 17:34:17 UTC</a></sub>
 * [Why can't the ISS operate forever?](https://www.planetary.org/articles/why-international-space-station-cant-operate-forever) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T140306">2022-06-14 14:03:06 UTC</a></sub>
 * [First steps and big leaps](https://www.planetary.org/the-downlink/first-steps-and-big-leaps) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T143518">2022-06-10 14:35:18 UTC</a></sub>
 * [What might JWST reveal about TRAPPIST-1?](https://www.planetary.org/articles/james-webb-space-telescope-trappist-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T140513">2022-06-09 14:05:13 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently To Be Confirmed
 * [What is a supermoon?](https://www.planetary.org/night-sky/what-is-a-supermoon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T162415">2022-06-07 16:24:15 UTC</a></sub>
 * [Remembering our journey](https://www.planetary.org/articles/remembering-our-journey) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T070405">2022-06-07 07:04:05 UTC</a></sub>
 * [USSF-12: ULA stacks Atlas V rocket for Space Force launch](https://blog.ulalaunch.com/blog/ussf-12-ula-stacks-atlas-v-rocket-for-space-force-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T195419">2022-06-06 19:54:19 UTC</a></sub>
-* [Request for Proposals for the 2022 Science and Technology Empowered by the Public (STEP) Grants](https://www.planetary.org/articles/step-grants-2022-request-for-proposals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T140411">2022-06-06 14:04:11 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T170847">2022-06-15 17:08:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T173700">2022-06-15 17:37:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
