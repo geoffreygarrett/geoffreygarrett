@@ -181,6 +181,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, ESA Finalize Agreements on Climate, Artemis Cooperation](http://www.nasa.gov/press-release/nasa-esa-finalize-agreements-on-climate-artemis-cooperation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T164300">2022-06-15 16:43:00 UTC</a></sub>
+* [An In-Orbit Game of Cat and Mouse: Close approaches prompt calls for communications and norms](https://spacenews.com/an-in-orbit-game-of-cat-and-mouse-close-approaches-prompt-calls-for-communications-and-norms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T154220">2022-06-15 15:42:20 UTC</a></sub>
 * [SpaceX CEO Elon Musk claims Starship will be ready for first orbital launch in July](https://www.teslarati.com/spacex-elon-musk-starship-orbital-launch-debut-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T111335">2022-06-15 11:13:35 UTC</a></sub>
 * [Momentus increasingly pessimistic about first Vigoride mission](https://spacenews.com/momentus-increasingly-pessimistic-about-first-vigoride-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T232240">2022-06-14 23:22:40 UTC</a></sub>
 * [Momentus orbital transfer vehicle suffers power problem after launch](https://spaceflightnow.com/2022/06/14/momentus-orbital-transfer-vehicle-suffers-power-problem-after-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T212219">2022-06-14 21:22:19 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Lockheed talks OSIRIS-REx success, readiness for APEX mission to Apophis](https://www.nasaspaceflight.com/2022/06/osiris-rex-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173321">2022-06-14 17:33:21 UTC</a></sub>
 * [Explosion at Chinese space launch center revealed by satellite imagery](https://spacenews.com/explosion-at-chinese-space-launch-center-revealed-by-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173226">2022-06-14 17:32:26 UTC</a></sub>
 * [Sierra Space to start astronaut training program](https://spacenews.com/sierra-space-to-start-astronaut-training-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173226">2022-06-14 17:32:26 UTC</a></sub>
-* [NASA, Partner Establish New Research Group for Mars Sample Return Program](https://mars.nasa.gov/news/9205/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T171300">2022-06-14 17:13:00 UTC</a></sub>
-* [NASA Invites Media, Public to View Webb Telescope’s First Images](http://www.nasa.gov/press-release/nasa-invites-media-public-to-view-webb-telescope-s-first-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T155300">2022-06-14 15:53:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T160644">2022-06-15 16:06:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T165109">2022-06-15 16:51:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
