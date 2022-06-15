@@ -181,6 +181,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Tensions mount between Russia and Europe over joint Spektr-RG telescope](https://www.nasaspaceflight.com/2022/06/tensions-spektr-rg/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T194630">2022-06-15 19:46:30 UTC</a></sub>
+* [NASA, Partner Agency Leaders to Talk to Space Station Astronauts](http://www.nasa.gov/press-release/nasa-partner-agency-leaders-to-talk-to-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T193300">2022-06-15 19:33:00 UTC</a></sub>
+* [NASA says it’s ready for a fourth attempt to fuel the massive SLS rocket](https://arstechnica.com/science/2022/06/nasa-says-its-ready-for-a-fourth-attempt-to-fuel-the-massive-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T192353">2022-06-15 19:23:53 UTC</a></sub>
 * [ESA and NASA to cooperate on Earth science and lunar mission](https://spacenews.com/esa-and-nasa-to-cooperate-on-earth-science-and-lunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T191226">2022-06-15 19:12:26 UTC</a></sub>
 * [Retired four-star general John Hyten joins Blue Origin as strategic advisor](https://spacenews.com/retired-four-star-general-john-hyten-joins-blue-origin-as-strategic-advisor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T180236">2022-06-15 18:02:36 UTC</a></sub>
 * [NASA, ESA Finalize Agreements on Climate, Artemis Cooperation](http://www.nasa.gov/press-release/nasa-esa-finalize-agreements-on-climate-artemis-cooperation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T164300">2022-06-15 16:43:00 UTC</a></sub>
@@ -188,9 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX CEO Elon Musk claims Starship will be ready for first orbital launch in July](https://www.teslarati.com/spacex-elon-musk-starship-orbital-launch-debut-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T111335">2022-06-15 11:13:35 UTC</a></sub>
 * [Momentus increasingly pessimistic about first Vigoride mission](https://spacenews.com/momentus-increasingly-pessimistic-about-first-vigoride-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T232240">2022-06-14 23:22:40 UTC</a></sub>
 * [Momentus orbital transfer vehicle suffers power problem after launch](https://spaceflightnow.com/2022/06/14/momentus-orbital-transfer-vehicle-suffers-power-problem-after-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T212219">2022-06-14 21:22:19 UTC</a></sub>
-* [Starlink and OneWeb reach spectrum coordination plan](https://spacenews.com/starlink-and-oneweb-reach-spectrum-coordination-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T193238">2022-06-14 19:32:38 UTC</a></sub>
-* [Aerospacelab to build “megafactory” in Belgium](https://spacenews.com/aerospacelab-factory-charleroi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T180236">2022-06-14 18:02:36 UTC</a></sub>
-* [Lockheed talks OSIRIS-REx success, readiness for APEX mission to Apophis](https://www.nasaspaceflight.com/2022/06/osiris-rex-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173321">2022-06-14 17:33:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T193101">2022-06-15 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T200524">2022-06-15 20:05:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
