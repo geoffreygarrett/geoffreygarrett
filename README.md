@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX CEO Elon Musk claims Starship will be ready for first orbital launch in July](https://www.teslarati.com/spacex-elon-musk-starship-orbital-launch-debut-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T111335">2022-06-15 11:13:35 UTC</a></sub>
 * [Momentus increasingly pessimistic about first Vigoride mission](https://spacenews.com/momentus-increasingly-pessimistic-about-first-vigoride-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T232240">2022-06-14 23:22:40 UTC</a></sub>
 * [Momentus orbital transfer vehicle suffers power problem after launch](https://spaceflightnow.com/2022/06/14/momentus-orbital-transfer-vehicle-suffers-power-problem-after-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T212219">2022-06-14 21:22:19 UTC</a></sub>
 * [Starlink and OneWeb reach spectrum coordination plan](https://spacenews.com/starlink-and-oneweb-reach-spectrum-coordination-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T193238">2022-06-14 19:32:38 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Sierra Space to start astronaut training program](https://spacenews.com/sierra-space-to-start-astronaut-training-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173226">2022-06-14 17:32:26 UTC</a></sub>
 * [NASA, Partner Establish New Research Group for Mars Sample Return Program](https://mars.nasa.gov/news/9205/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T171300">2022-06-14 17:13:00 UTC</a></sub>
 * [NASA Invites Media, Public to View Webb Telescope’s First Images](http://www.nasa.gov/press-release/nasa-invites-media-public-to-view-webb-telescope-s-first-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T155300">2022-06-14 15:53:00 UTC</a></sub>
-* [Northrop Grumman demonstrates Mynaric laser terminals for military constellation](https://spacenews.com/northrop-grumman-demonstrates-mynaric-laser-terminals-for-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T133236">2022-06-14 13:32:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T110351">2022-06-15 11:03:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T113335">2022-06-15 11:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
