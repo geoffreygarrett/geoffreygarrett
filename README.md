@@ -101,9 +101,9 @@ Kennedy Space Center, FL, USA
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a>. Until
 then, this launch pad will have seen 145
 out of 202 launches in this
-region. The mission's status is currently To Be Confirmed
-(TBC) 🟨  which means:
-*awaiting official confirmation - current date is known with some certainty.* 
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
   A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
@@ -126,7 +126,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-19</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-19&location=Kennedy Space Center, FL, USA&dates=20220617T160850Z%2F20220617T160850Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-19</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-19&location=Kennedy Space Center, FL, USA&dates=20220617T160850Z%2F20220617T160850Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SARah 1</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T135000">2022-06-18 13:50:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SARah 1&location=Vandenberg SFB, CA, USA&dates=20220618T135000Z%2F20220618T135000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Globalstar-2 FM15 & others</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T042500">2022-06-19 04:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Globalstar-2 FM15 &amp; others&location=Cape Canaveral, FL, USA&dates=20220619T042500Z%2F20220619T042500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Measat-3d & GSAT 24</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Measat-3d &amp; GSAT 24&location=Kourou, French Guiana&dates=20220622T210300Z%2F20220622T224300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -181,16 +181,16 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Fourth SLS countdown test set for June 20](https://spacenews.com/fourth-sls-countdown-test-set-for-june-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T233224">2022-06-15 23:32:24 UTC</a></sub>
 * [OneWeb tests inflight connectivity on Boeing 777](https://spacenews.com/oneweb-tests-inflight-connectivity-on-boeing-777/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T214223">2022-06-15 21:42:23 UTC</a></sub>
 * [House appropriators approve funding increase for DoD, support space programs](https://spacenews.com/house-appropriators-approve-funding-increase-for-dod-support-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T210226">2022-06-15 21:02:26 UTC</a></sub>
 * [Tensions mount between Russia and Europe over joint Spektr-RG telescope](https://www.nasaspaceflight.com/2022/06/tensions-spektr-rg/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T194630">2022-06-15 19:46:30 UTC</a></sub>
 * [NASA, Partner Agency Leaders to Talk to Space Station Astronauts](http://www.nasa.gov/press-release/nasa-partner-agency-leaders-to-talk-to-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T193300">2022-06-15 19:33:00 UTC</a></sub>
-* [NASA says it’s ready for a fourth attempt to fuel the massive SLS rocket](https://arstechnica.com/science/2022/06/nasa-says-its-ready-for-a-fourth-attempt-to-fuel-the-massive-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T192353">2022-06-15 19:23:53 UTC</a></sub>
+* [NASA says its ready for a fourth attempt to fuel the massive SLS rocket](https://arstechnica.com/science/2022/06/nasa-says-its-ready-for-a-fourth-attempt-to-fuel-the-massive-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T192353">2022-06-15 19:23:53 UTC</a></sub>
 * [ESA and NASA to cooperate on Earth science and lunar mission](https://spacenews.com/esa-and-nasa-to-cooperate-on-earth-science-and-lunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T191226">2022-06-15 19:12:26 UTC</a></sub>
 * [Retired four-star general John Hyten joins Blue Origin as strategic advisor](https://spacenews.com/retired-four-star-general-john-hyten-joins-blue-origin-as-strategic-advisor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T180236">2022-06-15 18:02:36 UTC</a></sub>
 * [NASA, ESA Finalize Agreements on Climate, Artemis Cooperation](http://www.nasa.gov/press-release/nasa-esa-finalize-agreements-on-climate-artemis-cooperation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T164300">2022-06-15 16:43:00 UTC</a></sub>
 * [An In-Orbit Game of Cat and Mouse: Close approaches prompt calls for communications and norms](https://spacenews.com/an-in-orbit-game-of-cat-and-mouse-close-approaches-prompt-calls-for-communications-and-norms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T154220">2022-06-15 15:42:20 UTC</a></sub>
-* [SpaceX CEO Elon Musk claims Starship will be ready for first orbital launch in July](https://www.teslarati.com/spacex-elon-musk-starship-orbital-launch-debut-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T111335">2022-06-15 11:13:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T230510">2022-06-15 23:05:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T233550">2022-06-15 23:35:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
