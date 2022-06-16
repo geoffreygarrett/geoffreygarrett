@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA assigns two astronauts to Starliner test flight](https://spacenews.com/nasa-assigns-two-astronauts-to-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T195235">2022-06-16 19:52:35 UTC</a></sub>
+* [Senate Armed Services Committee proposes DoD funding boost for 2023](https://spacenews.com/senate-armed-services-committee-proposes-dod-funding-boost-for-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T194230">2022-06-16 19:42:30 UTC</a></sub>
 * [Europe’s major new rocket, the Ariane 6, is delayed again](https://arstechnica.com/science/2022/06/europes-major-new-rocket-the-ariane-6-is-delayed-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T190427">2022-06-16 19:04:27 UTC</a></sub>
 * [NASA Updates Astronaut Assignments for Boeing Starliner Test Flight](http://www.nasa.gov/press-release/nasa-updates-astronaut-assignments-for-boeing-starliner-test-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T184300">2022-06-16 18:43:00 UTC</a></sub>
 * [Quadsat gets ESA funding for ready-to-fly antenna testing kits](https://spacenews.com/quadsat-gets-esa-funding-for-ready-to-fly-antenna-testing-kits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T164240">2022-06-16 16:42:40 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Firefly co-founder Markusic to step down as CEO](https://spacenews.com/firefly-co-founder-markusic-to-step-down-as-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T113223">2022-06-16 11:32:23 UTC</a></sub>
 * [D-Orbit charts ambitious course for space logistics business](https://spacenews.com/d-orbit-ambitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T234235">2022-06-15 23:42:35 UTC</a></sub>
 * [Fourth SLS countdown test set for June 20](https://spacenews.com/fourth-sls-countdown-test-set-for-june-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T233224">2022-06-15 23:32:24 UTC</a></sub>
-* [OneWeb tests inflight connectivity on Boeing 777](https://spacenews.com/oneweb-tests-inflight-connectivity-on-boeing-777/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T214223">2022-06-15 21:42:23 UTC</a></sub>
-* [House appropriators approve funding increase for DoD, support space programs](https://spacenews.com/house-appropriators-approve-funding-increase-for-dod-support-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T210226">2022-06-15 21:02:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T193110">2022-06-16 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T200402">2022-06-16 20:04:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
