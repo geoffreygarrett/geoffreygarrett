@@ -181,16 +181,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astronomers want “strong finish” for SOFIA](https://spacenews.com/astronomers-want-strong-finish-for-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T070231">2022-06-17 07:02:31 UTC</a></sub>
 * [NASA assigns two astronauts to Starliner test flight](https://spacenews.com/nasa-assigns-two-astronauts-to-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T195235">2022-06-16 19:52:35 UTC</a></sub>
-* [Senate Armed Services Committee proposes DoD funding boost for 2023](https://spacenews.com/senate-armed-services-committee-proposes-dod-funding-boost-for-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T194230">2022-06-16 19:42:30 UTC</a></sub>
 * [Europe’s major new rocket, the Ariane 6, is delayed again](https://arstechnica.com/science/2022/06/europes-major-new-rocket-the-ariane-6-is-delayed-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T190427">2022-06-16 19:04:27 UTC</a></sub>
 * [NASA Updates Astronaut Assignments for Boeing Starliner Test Flight](http://www.nasa.gov/press-release/nasa-updates-astronaut-assignments-for-boeing-starliner-test-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T184300">2022-06-16 18:43:00 UTC</a></sub>
 * [Quadsat gets ESA funding for ready-to-fly antenna testing kits](https://spacenews.com/quadsat-gets-esa-funding-for-ready-to-fly-antenna-testing-kits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T164240">2022-06-16 16:42:40 UTC</a></sub>
 * [Euroconsult anticipates growing demand for last-mile logistics](https://spacenews.com/euroconsult-last-mile-logistics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T150219">2022-06-16 15:02:19 UTC</a></sub>
 * [SpaceX planning another trifecta of launches this weekend](https://spaceflightnow.com/2022/06/16/spacex-planning-another-trifecta-of-launches-this-weekend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T150208">2022-06-16 15:02:08 UTC</a></sub>
 * [Firefly co-founder Markusic to step down as CEO](https://spacenews.com/firefly-co-founder-markusic-to-step-down-as-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T113223">2022-06-16 11:32:23 UTC</a></sub>
+* [Senate Armed Services Committee proposes $45 billion funding boost for DoD](https://spacenews.com/senate-armed-services-committee-proposes-dod-funding-boost-for-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T073232">2022-06-16 07:32:32 UTC</a></sub>
 * [House Armed Services chairman calls on Space Force to change how it buys launch services](https://spacenews.com/house-armed-services-chairman-calls-on-space-force-to-change-how-it-buys-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T015250">2022-06-16 01:52:50 UTC</a></sub>
-* [SpaceX considers second Crew Dragon launch pad to reduce risk from Starship](https://www.teslarati.com/spacex-starship-39a-crew-dragon-launch-pad-backup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T013329">2022-06-16 01:33:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T070601">2022-06-17 07:06:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T073640">2022-06-17 07:36:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
