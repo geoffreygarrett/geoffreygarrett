@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Starlink Group 4-19 at the
-<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a> in
-Kennedy Space Center, FL, USA
+Falcon 9 Block 5 | SARah 1 at the
+<a href="">Space Launch Complex 4E</a> in
+Vandenberg SFB, CA, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a>. Until
-then, this launch pad will have seen 145
-out of 202 launches in this
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T141900">2022-06-18 14:19:00 UTC</a>. Until
+then, this launch pad will have seen 91
+out of 697 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  First of three radar remote sensing satellite built by Airbus for the German military.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.608+N,+80.604+W" >
+  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-19</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-19&location=Kennedy Space Center, FL, USA&dates=20220617T160850Z%2F20220617T160850Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SARah 1</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T141900">2022-06-18 14:19:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SARah 1&location=Vandenberg SFB, CA, USA&dates=20220618T141900Z%2F20220618T141900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Globalstar-2 FM15 & others</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T042700">2022-06-19 04:27:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Globalstar-2 FM15 &amp; others&location=Cape Canaveral, FL, USA&dates=20220619T042700Z%2F20220619T042700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>Flight Test 2</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T060000">2022-06-21 06:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | Flight Test 2&location=Naro Space Center, South Korea&dates=20220621T060000Z%2F20220621T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -181,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Impulse Space raises an additional $10 million for orbital transfer vehicles](https://spacenews.com/impulse-space-raises-an-additional-10-million-for-orbital-transfer-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T154234">2022-06-17 15:42:34 UTC</a></sub>
 * [Getting SSA off the ground](https://spacenews.com/getting-ssa-off-the-ground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T145234">2022-06-17 14:52:34 UTC</a></sub>
 * [SpaceX to kick off launch triple-header with record-breaking Falcon reuse](https://www.teslarati.com/spacex-falcon-9-record-breaking-starlink-launch-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T135328">2022-06-17 13:53:28 UTC</a></sub>
 * [SpaceX set to launch Starlink satellites on booster’s 13th flight](https://www.nasaspaceflight.com/2022/06/starlink-4-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T131304">2022-06-17 13:13:04 UTC</a></sub>
@@ -190,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA assigns two astronauts to Starliner test flight](https://spacenews.com/nasa-assigns-two-astronauts-to-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T195235">2022-06-16 19:52:35 UTC</a></sub>
 * [Europe’s major new rocket, the Ariane 6, is delayed again](https://arstechnica.com/science/2022/06/europes-major-new-rocket-the-ariane-6-is-delayed-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T190427">2022-06-16 19:04:27 UTC</a></sub>
 * [NASA Updates Astronaut Assignments for Boeing Starliner Test Flight](http://www.nasa.gov/press-release/nasa-updates-astronaut-assignments-for-boeing-starliner-test-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T184300">2022-06-16 18:43:00 UTC</a></sub>
-* [Quadsat gets ESA funding for ready-to-fly antenna testing kits](https://spacenews.com/quadsat-gets-esa-funding-for-ready-to-fly-antenna-testing-kits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T164240">2022-06-16 16:42:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160634">2022-06-17 16:06:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T165137">2022-06-17 16:51:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
