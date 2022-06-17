@@ -189,8 +189,8 @@ region. The mission's status is currently Go for Launch
 * [Euroconsult anticipates growing demand for last-mile logistics](https://spacenews.com/euroconsult-last-mile-logistics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T150219">2022-06-16 15:02:19 UTC</a></sub>
 * [SpaceX planning another trifecta of launches this weekend](https://spaceflightnow.com/2022/06/16/spacex-planning-another-trifecta-of-launches-this-weekend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T150208">2022-06-16 15:02:08 UTC</a></sub>
 * [Firefly co-founder Markusic to step down as CEO](https://spacenews.com/firefly-co-founder-markusic-to-step-down-as-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T113223">2022-06-16 11:32:23 UTC</a></sub>
-* [D-Orbit charts ambitious course for space logistics business](https://spacenews.com/d-orbit-ambitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T234235">2022-06-15 23:42:35 UTC</a></sub>
-* [Fourth SLS countdown test set for June 20](https://spacenews.com/fourth-sls-countdown-test-set-for-june-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T233224">2022-06-15 23:32:24 UTC</a></sub>
+* [House Armed Services chairman calls on Space Force to change how it buys launch services](https://spacenews.com/house-armed-services-chairman-calls-on-space-force-to-change-how-it-buys-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T015250">2022-06-16 01:52:50 UTC</a></sub>
+* [SpaceX considers second Crew Dragon launch pad to reduce risk from Starship](https://www.teslarati.com/spacex-starship-39a-crew-dragon-launch-pad-backup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T013329">2022-06-16 01:33:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T002615">2022-06-17 00:26:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T023436">2022-06-17 02:34:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
