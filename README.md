@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to kick off launch triple-header with record-breaking Falcon reuse](https://www.teslarati.com/spacex-falcon-9-record-breaking-starlink-launch-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T135328">2022-06-17 13:53:28 UTC</a></sub>
 * [SpaceX set to launch Starlink satellites on booster’s 13th flight](https://www.nasaspaceflight.com/2022/06/starlink-4-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T131304">2022-06-17 13:13:04 UTC</a></sub>
 * [Astronomers renew concerns about Starlink satellite brightness](https://spacenews.com/astronomers-renew-concerns-about-starlink-satellite-brightness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T120238">2022-06-17 12:02:38 UTC</a></sub>
 * [SpaceX fires employees involved in letter rebuking Musk](https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T075200">2022-06-17 07:52:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Updates Astronaut Assignments for Boeing Starliner Test Flight](http://www.nasa.gov/press-release/nasa-updates-astronaut-assignments-for-boeing-starliner-test-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T184300">2022-06-16 18:43:00 UTC</a></sub>
 * [Quadsat gets ESA funding for ready-to-fly antenna testing kits](https://spacenews.com/quadsat-gets-esa-funding-for-ready-to-fly-antenna-testing-kits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T164240">2022-06-16 16:42:40 UTC</a></sub>
 * [Euroconsult anticipates growing demand for last-mile logistics](https://spacenews.com/euroconsult-last-mile-logistics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T150219">2022-06-16 15:02:19 UTC</a></sub>
-* [SpaceX planning another trifecta of launches this weekend](https://spaceflightnow.com/2022/06/16/spacex-planning-another-trifecta-of-launches-this-weekend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T150208">2022-06-16 15:02:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Persevering through it all](https://www.planetary.org/the-downlink/persevering-through-it-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T143318">2022-06-17 14:33:18 UTC</a></sub>
 * [A joint-letter in support of NEO Surveyor](https://www.planetary.org/articles/tps-nss-joint-letter-supporting-neo-surveyor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T190326">2022-06-16 19:03:26 UTC</a></sub>
 * [USSF-12: Atlas V receives two SSC satellite payloads](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-receives-two-ssc-satellite-payloads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T173417">2022-06-15 17:34:17 UTC</a></sub>
 * [Why can't the ISS operate forever?](https://www.planetary.org/articles/why-international-space-station-cant-operate-forever) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T140306">2022-06-14 14:03:06 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [Your impact: June Solstice 2022](https://www.planetary.org/articles/your-impact-june-solstice-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163412">2022-06-07 16:34:12 UTC</a></sub>
 * [Renaissance in red](https://www.planetary.org/articles/renaissance-in-red) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163410">2022-06-07 16:34:10 UTC</a></sub>
 * [What is a supermoon?](https://www.planetary.org/night-sky/what-is-a-supermoon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T162415">2022-06-07 16:24:15 UTC</a></sub>
-* [Remembering our journey](https://www.planetary.org/articles/remembering-our-journey) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T070405">2022-06-07 07:04:05 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T140430">2022-06-17 14:04:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T143424">2022-06-17 14:34:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
