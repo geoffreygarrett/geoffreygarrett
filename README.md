@@ -183,7 +183,7 @@ region. The mission's status is currently Go for Launch
 * [Impulse Space raises an additional $10 million for orbital transfer vehicles](https://spacenews.com/impulse-space-raises-an-additional-10-million-for-orbital-transfer-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T154234">2022-06-17 15:42:34 UTC</a></sub>
 * [Getting SSA off the ground](https://spacenews.com/getting-ssa-off-the-ground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T145234">2022-06-17 14:52:34 UTC</a></sub>
 * [SpaceX to kick off launch triple-header with record-breaking Falcon reuse](https://www.teslarati.com/spacex-falcon-9-record-breaking-starlink-launch-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T135328">2022-06-17 13:53:28 UTC</a></sub>
-* [SpaceX set to launch Starlink satellites on booster’s 13th flight](https://www.nasaspaceflight.com/2022/06/starlink-4-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T131304">2022-06-17 13:13:04 UTC</a></sub>
+* [SpaceX launches Starlink satellites on booster’s 13th flight](https://www.nasaspaceflight.com/2022/06/starlink-4-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T131304">2022-06-17 13:13:04 UTC</a></sub>
 * [Astronomers renew concerns about Starlink satellite brightness](https://spacenews.com/astronomers-renew-concerns-about-starlink-satellite-brightness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T120238">2022-06-17 12:02:38 UTC</a></sub>
 * [SpaceX fires employees involved in letter rebuking Musk](https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T075200">2022-06-17 07:52:00 UTC</a></sub>
 * [Astronomers want “strong finish” for SOFIA](https://spacenews.com/astronomers-want-strong-finish-for-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T070231">2022-06-17 07:02:31 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T171327">2022-06-17 17:13:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T174043">2022-06-17 17:40:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
