@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches German military radar satellite from California](https://spaceflightnow.com/2022/06/18/spacex-launches-german-military-radar-satellite-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T171211">2022-06-18 17:12:11 UTC</a></sub>
 * [Falcon 9 launches Germany’s SARah-1 from Vandenberg](https://www.nasaspaceflight.com/2022/06/falcon-9-sarah-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T131551">2022-06-18 13:15:51 UTC</a></sub>
 * [Speedcast plotting major satellite capacity expansion](https://spacenews.com/speedcast-plotting-major-satellite-capacity-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T195222">2022-06-17 19:52:22 UTC</a></sub>
 * [South Korean rocket’s second launch rescheduled for June 21](https://spacenews.com/south-korean-rockets-second-launch-rescheduled-for-june-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T183226">2022-06-17 18:32:26 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches Starlink satellites on booster’s 13th flight](https://www.nasaspaceflight.com/2022/06/starlink-4-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T131304">2022-06-17 13:13:04 UTC</a></sub>
 * [SpaceX deploys more Starlink satellites as astronomers renew brightness concerns](https://spaceflightnow.com/2022/06/17/spacex-deploys-more-starlink-satellites-as-astronomers-renew-brightness-concerns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T131211">2022-06-17 13:12:11 UTC</a></sub>
 * [Astronomers renew concerns about Starlink satellite brightness](https://spacenews.com/astronomers-renew-concerns-about-starlink-satellite-brightness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T120238">2022-06-17 12:02:38 UTC</a></sub>
-* [SpaceX fires employees involved in letter rebuking Musk](https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T075200">2022-06-17 07:52:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T170458">2022-06-18 17:04:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T173342">2022-06-18 17:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
