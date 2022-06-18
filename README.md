@@ -189,7 +189,7 @@ region. The mission's status is currently Go for Launch
 * [Astronomers renew concerns about Starlink satellite brightness](https://spacenews.com/astronomers-renew-concerns-about-starlink-satellite-brightness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T120238">2022-06-17 12:02:38 UTC</a></sub>
 * [SpaceX fires employees involved in letter rebuking Musk](https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T075200">2022-06-17 07:52:00 UTC</a></sub>
 * [Astronomers want “strong finish” for SOFIA](https://spacenews.com/astronomers-want-strong-finish-for-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T070231">2022-06-17 07:02:31 UTC</a></sub>
-* [NASA assigns two astronauts to Starliner test flight](https://spacenews.com/nasa-assigns-two-astronauts-to-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T195235">2022-06-16 19:52:35 UTC</a></sub>
+* [VP Hosts NASA for Family STEM Event, Disney Pixar’s Lightyear Viewing](http://www.nasa.gov/press-release/vp-hosts-nasa-for-family-stem-event-disney-pixar-s-lightyear-viewing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T033300">2022-06-17 03:33:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T025056">2022-06-18 02:50:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T033846">2022-06-18 03:38:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
