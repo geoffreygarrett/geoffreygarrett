@@ -179,7 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX to launch Globalstar satellite on mysterious Falcon 9 mission](https://www.nasaspaceflight.com/2022/06/spacex-globalstar-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T210002">2022-06-18 21:00:02 UTC</a></sub>
+* [SpaceX launches Globalstar satellite on mysterious Falcon 9 mission](https://www.nasaspaceflight.com/2022/06/spacex-globalstar-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T210002">2022-06-18 21:00:02 UTC</a></sub>
 * [Globalstar hush-hush ahead of launch with SpaceX](https://spaceflightnow.com/2022/06/18/globalstar-hush-hush-ahead-of-launch-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T202219">2022-06-18 20:22:19 UTC</a></sub>
 * [SpaceX launches German military radar satellite from California](https://spaceflightnow.com/2022/06/18/spacex-launches-german-military-radar-satellite-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T171211">2022-06-18 17:12:11 UTC</a></sub>
 * [Falcon 9 launches Germany’s SARah-1 from Vandenberg](https://www.nasaspaceflight.com/2022/06/falcon-9-sarah-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T131551">2022-06-18 13:15:51 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T050842">2022-06-19 05:08:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T053416">2022-06-19 05:34:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
