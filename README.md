@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Researchers use Hubble to observe dead star destroying planetary system](https://www.nasaspaceflight.com/2022/06/hubble-dead-star-destroying-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T174835">2022-06-19 17:48:35 UTC</a></sub>
 * [SpaceX performs three launches within two days amid internal dissent](https://spacenews.com/spacex-performs-three-launches-within-two-days-amid-internal-dissent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T162238">2022-06-19 16:22:38 UTC</a></sub>
 * [SpaceX launches third Falcon 9 rocket in less than two days](https://spaceflightnow.com/2022/06/19/spacex-launches-third-falcon-9-rocket-in-less-than-two-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T091212">2022-06-19 09:12:12 UTC</a></sub>
 * [SpaceX launches Globalstar satellite on mysterious Falcon 9 mission](https://www.nasaspaceflight.com/2022/06/spacex-globalstar-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T210002">2022-06-18 21:00:02 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA tries again to complete moon rocket’s practice countdown](https://spaceflightnow.com/2022/06/18/nasa-tries-again-to-complete-moon-rockets-practice-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T092219">2022-06-18 09:22:19 UTC</a></sub>
 * [Speedcast plotting major satellite capacity expansion](https://spacenews.com/speedcast-plotting-major-satellite-capacity-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T195222">2022-06-17 19:52:22 UTC</a></sub>
 * [South Korean rocket’s second launch rescheduled for June 21](https://spacenews.com/south-korean-rockets-second-launch-rescheduled-for-june-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T183226">2022-06-17 18:32:26 UTC</a></sub>
-* [Impulse Space raises an additional $10 million for orbital transfer vehicles](https://spacenews.com/impulse-space-raises-an-additional-10-million-for-orbital-transfer-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T154234">2022-06-17 15:42:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T173348">2022-06-19 17:33:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T180409">2022-06-19 18:04:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
