@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches three Falcon 9 rockets in 36 hours](https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T220328">2022-06-19 22:03:28 UTC</a></sub>
 * [Researchers use Hubble to observe dead star destroying planetary system](https://www.nasaspaceflight.com/2022/06/hubble-dead-star-destroying-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T174835">2022-06-19 17:48:35 UTC</a></sub>
 * [SpaceX performs three launches within two days amid internal dissent](https://spacenews.com/spacex-performs-three-launches-within-two-days-amid-internal-dissent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T162238">2022-06-19 16:22:38 UTC</a></sub>
 * [SpaceX launches third Falcon 9 rocket in less than two days](https://spaceflightnow.com/2022/06/19/spacex-launches-third-falcon-9-rocket-in-less-than-two-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T091212">2022-06-19 09:12:12 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Falcon 9 launches Germany’s SARah-1 from Vandenberg](https://www.nasaspaceflight.com/2022/06/falcon-9-sarah-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T131551">2022-06-18 13:15:51 UTC</a></sub>
 * [NASA tries again to complete moon rocket’s practice countdown](https://spaceflightnow.com/2022/06/18/nasa-tries-again-to-complete-moon-rockets-practice-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T092219">2022-06-18 09:22:19 UTC</a></sub>
 * [Speedcast plotting major satellite capacity expansion](https://spacenews.com/speedcast-plotting-major-satellite-capacity-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T195222">2022-06-17 19:52:22 UTC</a></sub>
-* [South Korean rocket’s second launch rescheduled for June 21](https://spacenews.com/south-korean-rockets-second-launch-rescheduled-for-june-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T183226">2022-06-17 18:32:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T220241">2022-06-19 22:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T223438">2022-06-19 22:34:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
