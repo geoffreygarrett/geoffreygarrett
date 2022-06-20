@@ -181,6 +181,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to attempt to crush Starship test tank](https://www.teslarati.com/spacex-starship-booster-tank-can-crusher-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T110324">2022-06-20 11:03:24 UTC</a></sub>
+* [We got a leaked look at NASA’s future Moon missions—and likely delays](https://arstechnica.com/science/2022/06/we-got-a-leaked-look-at-nasas-future-moon-missions-and-likely-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104518">2022-06-20 10:45:18 UTC</a></sub>
+* [China aims to bring Mars samples to Earth 2 years before NASA, ESA mission](https://spacenews.com/china-aims-to-bring-mars-samples-to-earth-2-years-before-nasa-esa-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104225">2022-06-20 10:42:25 UTC</a></sub>
 * [Space Force to establish intelligence unit at Wright-Patterson Air Force Base](https://spacenews.com/space-force-to-establish-intelligence-unit-at-wright-patterson-air-force-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T062225">2022-06-20 06:22:25 UTC</a></sub>
 * [SpaceX launches three Falcon 9 rockets in 36 hours](https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T220328">2022-06-19 22:03:28 UTC</a></sub>
 * [Researchers use Hubble to observe dead star destroying planetary system](https://www.nasaspaceflight.com/2022/06/hubble-dead-star-destroying-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T174835">2022-06-19 17:48:35 UTC</a></sub>
@@ -188,9 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX launches third Falcon 9 rocket in less than two days](https://spaceflightnow.com/2022/06/19/spacex-launches-third-falcon-9-rocket-in-less-than-two-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T091212">2022-06-19 09:12:12 UTC</a></sub>
 * [SpaceX launches Globalstar satellite on mysterious Falcon 9 mission](https://www.nasaspaceflight.com/2022/06/spacex-globalstar-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T210002">2022-06-18 21:00:02 UTC</a></sub>
 * [Globalstar hush-hush ahead of launch with SpaceX](https://spaceflightnow.com/2022/06/18/globalstar-hush-hush-ahead-of-launch-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T202219">2022-06-18 20:22:19 UTC</a></sub>
-* [SpaceX launches German military radar satellite from California](https://spaceflightnow.com/2022/06/18/spacex-launches-german-military-radar-satellite-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T171211">2022-06-18 17:12:11 UTC</a></sub>
-* [Falcon 9 launches Germany’s SARah-1 from Vandenberg](https://www.nasaspaceflight.com/2022/06/falcon-9-sarah-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T131551">2022-06-18 13:15:51 UTC</a></sub>
-* [NASA tries again to complete moon rocket’s practice countdown](https://spaceflightnow.com/2022/06/18/nasa-tries-again-to-complete-moon-rockets-practice-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T092219">2022-06-18 09:22:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T110230">2022-06-20 11:02:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T113205">2022-06-20 11:32:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
