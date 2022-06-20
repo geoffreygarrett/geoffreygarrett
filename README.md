@@ -101,9 +101,9 @@ Naro Space Center, South Korea
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T060000">2022-06-21 06:00:00 UTC</a>. Until
 then, this launch pad will have seen 1
 out of 4 launches in this
-region. The mission's status is currently To Be Confirmed
-(TBC) 🟨  which means:
-*awaiting official confirmation - current date is known with some certainty.* 
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
   Second flight of the KSLV-II "Nuri" launch vehicle, carrying a dummy Payload of 1500 kg to sun-synchronous orbit.
@@ -126,7 +126,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>Flight Test 2</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T060000">2022-06-21 06:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | Flight Test 2&location=Naro Space Center, South Korea&dates=20220621T060000Z%2F20220621T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>Flight Test 2</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T060000">2022-06-21 06:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | Flight Test 2&location=Naro Space Center, South Korea&dates=20220621T060000Z%2F20220621T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Measat-3d & GSAT 24</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Measat-3d &amp; GSAT 24&location=Kourou, French Guiana&dates=20220622T210300Z%2F20220622T224300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T100000">2022-06-25 10:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | CAPSTONE&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220625T100000Z%2F20220625T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-21</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T004300">2022-06-26 00:43:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-21&location=Kennedy Space Center, FL, USA&dates=20220626T004300Z%2F20220626T004300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House Armed Services bill proposes $75 million for rapid space launch activities](https://spacenews.com/house-armed-services-bill-proposes-75-million-for-rapid-space-launch-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T153222">2022-06-20 15:32:22 UTC</a></sub>
 * [NASA making fourth attempt to complete Artemis 1 Wet Dress Rehearsal](https://www.nasaspaceflight.com/2022/06/artemis-1-wdr-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T133907">2022-06-20 13:39:07 UTC</a></sub>
 * [SpaceX to attempt to crush Starship test tank](https://www.teslarati.com/spacex-starship-booster-tank-can-crusher-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T110324">2022-06-20 11:03:24 UTC</a></sub>
 * [We got a leaked look at NASA’s future Moon missions—and likely delays](https://arstechnica.com/science/2022/06/we-got-a-leaked-look-at-nasas-future-moon-missions-and-likely-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104518">2022-06-20 10:45:18 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Researchers use Hubble to observe dead star destroying planetary system](https://www.nasaspaceflight.com/2022/06/hubble-dead-star-destroying-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T174835">2022-06-19 17:48:35 UTC</a></sub>
 * [SpaceX performs three launches within two days amid internal dissent](https://spacenews.com/spacex-performs-three-launches-within-two-days-amid-internal-dissent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T162238">2022-06-19 16:22:38 UTC</a></sub>
 * [SpaceX launches third Falcon 9 rocket in less than two days](https://spaceflightnow.com/2022/06/19/spacex-launches-third-falcon-9-rocket-in-less-than-two-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T091212">2022-06-19 09:12:12 UTC</a></sub>
-* [SpaceX launches Globalstar satellite on mysterious Falcon 9 mission](https://www.nasaspaceflight.com/2022/06/spacex-globalstar-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T210002">2022-06-18 21:00:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T150406">2022-06-20 15:04:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T153903">2022-06-20 15:39:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
