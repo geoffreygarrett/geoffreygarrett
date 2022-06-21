@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [KARI reaches orbit on second test flight of domestic Nuri rocket](https://www.nasaspaceflight.com/2022/06/nuri-second-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T142541">2022-06-21 14:25:41 UTC</a></sub>
 * [Sierra Space signs agreement for Dream Chaser landings at Spaceport America](https://spacenews.com/sierra-space-signs-agreement-for-dream-chaser-landings-at-spaceport-america/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T130245">2022-06-21 13:02:45 UTC</a></sub>
 * [South Korean rocket puts satellites in orbit for the first time in second flight](https://spacenews.com/south-korean-rocket-puts-satellites-in-orbit-for-the-first-time-in-second-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T125227">2022-06-21 12:52:27 UTC</a></sub>
 * [NASA approves demonstration flight for circular DiskSats](https://spacenews.com/disksat-demo-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T213233">2022-06-20 21:32:33 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX to attempt to crush Starship test tank](https://www.teslarati.com/spacex-starship-booster-tank-can-crusher-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T110324">2022-06-20 11:03:24 UTC</a></sub>
 * [We got a leaked look at NASA’s future Moon missions—and likely delays](https://arstechnica.com/science/2022/06/we-got-a-leaked-look-at-nasas-future-moon-missions-and-likely-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104518">2022-06-20 10:45:18 UTC</a></sub>
 * [China aims to bring Mars samples to Earth 2 years before NASA, ESA mission](https://spacenews.com/china-aims-to-bring-mars-samples-to-earth-2-years-before-nasa-esa-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104225">2022-06-20 10:42:25 UTC</a></sub>
-* [NASA nearly completes SLS countdown test](https://spacenews.com/nasa-nearly-completes-sls-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T094222">2022-06-20 09:42:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How do planets get rings?](https://www.planetary.org/articles/how-do-planets-get-rings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T140329">2022-06-21 14:03:29 UTC</a></sub>
 * [Updates from our Shoemaker NEO Grant winners](https://www.planetary.org/articles/updates-from-our-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T180305">2022-06-20 18:03:05 UTC</a></sub>
 * [Persevering through it all](https://www.planetary.org/the-downlink/persevering-through-it-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T143318">2022-06-17 14:33:18 UTC</a></sub>
 * [A joint-letter in support of NEO Surveyor](https://www.planetary.org/articles/tps-nss-joint-letter-supporting-neo-surveyor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T190326">2022-06-16 19:03:26 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [What might JWST reveal about TRAPPIST-1?](https://www.planetary.org/articles/james-webb-space-telescope-trappist-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T140513">2022-06-09 14:05:13 UTC</a></sub>
 * [How The Planetary Society got to Mars](https://www.planetary.org/articles/how-the-planetary-society-got-to-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163415">2022-06-07 16:34:15 UTC</a></sub>
 * [Your impact: June Solstice 2022](https://www.planetary.org/articles/your-impact-june-solstice-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163412">2022-06-07 16:34:12 UTC</a></sub>
-* [Renaissance in red](https://www.planetary.org/articles/renaissance-in-red) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163410">2022-06-07 16:34:10 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T141136">2022-06-21 14:11:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T143442">2022-06-21 14:34:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
