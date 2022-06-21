@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Sierra Space signs agreement for Dream Chaser landings at Spaceport America](https://spacenews.com/sierra-space-signs-agreement-for-dream-chaser-landings-at-spaceport-america/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T130245">2022-06-21 13:02:45 UTC</a></sub>
+* [South Korean rocket puts satellites in orbit for the first time in second flight](https://spacenews.com/south-korean-rocket-puts-satellites-in-orbit-for-the-first-time-in-second-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T125227">2022-06-21 12:52:27 UTC</a></sub>
 * [NASA approves demonstration flight for circular DiskSats](https://spacenews.com/disksat-demo-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T213233">2022-06-20 21:32:33 UTC</a></sub>
 * [Epsilon3 raises $15 million for space project management platform](https://spacenews.com/epsilon3-raises-15-million-for-space-project-management-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T211233">2022-06-20 21:12:33 UTC</a></sub>
 * [House Armed Services bill proposes $75 million for rapid space launch activities](https://spacenews.com/house-armed-services-bill-proposes-75-million-for-rapid-space-launch-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T153222">2022-06-20 15:32:22 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [We got a leaked look at NASA’s future Moon missions—and likely delays](https://arstechnica.com/science/2022/06/we-got-a-leaked-look-at-nasas-future-moon-missions-and-likely-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104518">2022-06-20 10:45:18 UTC</a></sub>
 * [China aims to bring Mars samples to Earth 2 years before NASA, ESA mission](https://spacenews.com/china-aims-to-bring-mars-samples-to-earth-2-years-before-nasa-esa-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104225">2022-06-20 10:42:25 UTC</a></sub>
 * [NASA nearly completes SLS countdown test](https://spacenews.com/nasa-nearly-completes-sls-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T094222">2022-06-20 09:42:22 UTC</a></sub>
-* [Space Force to establish intelligence unit at Wright-Patterson Air Force Base](https://spacenews.com/space-force-to-establish-intelligence-unit-at-wright-patterson-air-force-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T062225">2022-06-20 06:22:25 UTC</a></sub>
-* [NASA’s Artemis moon rocket fully fueled for first time in practice countdown](https://spaceflightnow.com/2022/06/20/nasas-artemis-moon-rocket-fully-fueled-for-first-time-in-countdown-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T021217">2022-06-20 02:12:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T121044">2022-06-21 12:10:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T130839">2022-06-21 13:08:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
