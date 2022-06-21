@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's InSight Gets a Few Extra Weeks of Mars Science](https://mars.nasa.gov/news/9207/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T192200">2022-06-21 19:22:00 UTC</a></sub>
 * [NASA counts down to within 29 seconds of launching the large SLS rocket](https://arstechnica.com/science/2022/06/nasa-almost-finishes-a-critical-fueling-test-of-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T174504">2022-06-21 17:45:04 UTC</a></sub>
 * [House Appropriations Committee warns of cost pressures in Space Force programs](https://spacenews.com/house-appropriations-committee-warns-of-cost-pressures-in-space-force-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T164230">2022-06-21 16:42:30 UTC</a></sub>
 * [NASA Announces Artemis Concept Awards for Nuclear Power on Moon](http://www.nasa.gov/press-release/nasa-announces-artemis-concept-awards-for-nuclear-power-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T152300">2022-06-21 15:23:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Sierra Space signs agreement for Dream Chaser landings at Spaceport America](https://spacenews.com/sierra-space-signs-agreement-for-dream-chaser-landings-at-spaceport-america/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T130245">2022-06-21 13:02:45 UTC</a></sub>
 * [South Korean rocket puts satellites in orbit for the first time in second flight](https://spacenews.com/south-korean-rocket-puts-satellites-in-orbit-for-the-first-time-in-second-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T125227">2022-06-21 12:52:27 UTC</a></sub>
 * [NASA approves demonstration flight for circular DiskSats](https://spacenews.com/disksat-demo-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T213233">2022-06-20 21:32:33 UTC</a></sub>
-* [Epsilon3 raises $15 million for space project management platform](https://spacenews.com/epsilon3-raises-15-million-for-space-project-management-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T211233">2022-06-20 21:12:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T190214">2022-06-21 19:02:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T193107">2022-06-21 19:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
