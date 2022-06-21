@@ -106,7 +106,13 @@ region. The mission's status is currently Go for Launch
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Second flight of the KSLV-II "Nuri" launch vehicle, carrying a dummy Payload of 1500 kg to sun-synchronous orbit.
+  Second flight of the KSLV-II "Nuri" launch vehicle, carrying a dummy performance verification satellite (PVSAT) Payload of 1500 kg to sun-synchronous orbit.
+
+The mission will in addition launch four Cubesats:
+- CubeSat (6U) STEP Cube Lab-II
+- CubeSat (3U) SNUGLITE-II
+- CubeSat (3U) MIMAN
+- CubeSat (3U) RANDEV
 </blockquote>
 
 <p float="left" align="center">
@@ -223,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T025525">2022-06-21 02:55:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T035201">2022-06-21 03:52:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
