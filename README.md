@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House Appropriations Committee warns of cost pressures in Space Force programs](https://spacenews.com/house-appropriations-committee-warns-of-cost-pressures-in-space-force-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T164230">2022-06-21 16:42:30 UTC</a></sub>
 * [NASA Announces Artemis Concept Awards for Nuclear Power on Moon](http://www.nasa.gov/press-release/nasa-announces-artemis-concept-awards-for-nuclear-power-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T152300">2022-06-21 15:23:00 UTC</a></sub>
-* [NASA, SpaceX to test satellite crash-prevention strategies](https://spacenews.com/nasa-spacex-to-test-satellite-crash-prevention-strategies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T152230">2022-06-21 15:22:30 UTC</a></sub>
 * [Through Starling, NASA will test complex swarm operations](https://spacenews.com/through-starling-nasa-will-test-complex-swarm-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T152230">2022-06-21 15:22:30 UTC</a></sub>
+* [NASA, SpaceX to test satellite crash-prevention strategies](https://spacenews.com/nasa-spacex-to-test-satellite-crash-prevention-strategies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T152230">2022-06-21 15:22:30 UTC</a></sub>
 * [KARI reaches orbit on second test flight of domestic Nuri rocket](https://www.nasaspaceflight.com/2022/06/nuri-second-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T142541">2022-06-21 14:25:41 UTC</a></sub>
 * [Sierra Space signs agreement for Dream Chaser landings at Spaceport America](https://spacenews.com/sierra-space-signs-agreement-for-dream-chaser-landings-at-spaceport-america/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T130245">2022-06-21 13:02:45 UTC</a></sub>
 * [South Korean rocket puts satellites in orbit for the first time in second flight](https://spacenews.com/south-korean-rocket-puts-satellites-in-orbit-for-the-first-time-in-second-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T125227">2022-06-21 12:52:27 UTC</a></sub>
 * [NASA approves demonstration flight for circular DiskSats](https://spacenews.com/disksat-demo-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T213233">2022-06-20 21:32:33 UTC</a></sub>
 * [Epsilon3 raises $15 million for space project management platform](https://spacenews.com/epsilon3-raises-15-million-for-space-project-management-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T211233">2022-06-20 21:12:33 UTC</a></sub>
 * [House Armed Services bill proposes $75 million for rapid space launch activities](https://spacenews.com/house-armed-services-bill-proposes-75-million-for-rapid-space-launch-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T153222">2022-06-20 15:32:22 UTC</a></sub>
-* [NASA completes fourth Artemis 1 Wet Dress Rehearsal attempt](https://www.nasaspaceflight.com/2022/06/artemis-1-wdr-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T133907">2022-06-20 13:39:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T160926">2022-06-21 16:09:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T170203">2022-06-21 17:02:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
