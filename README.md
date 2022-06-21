@@ -187,9 +187,9 @@ region. The mission's status is currently Go for Launch
 * [SpaceX to attempt to crush Starship test tank](https://www.teslarati.com/spacex-starship-booster-tank-can-crusher-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T110324">2022-06-20 11:03:24 UTC</a></sub>
 * [We got a leaked look at NASA’s future Moon missions—and likely delays](https://arstechnica.com/science/2022/06/we-got-a-leaked-look-at-nasas-future-moon-missions-and-likely-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104518">2022-06-20 10:45:18 UTC</a></sub>
 * [China aims to bring Mars samples to Earth 2 years before NASA, ESA mission](https://spacenews.com/china-aims-to-bring-mars-samples-to-earth-2-years-before-nasa-esa-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104225">2022-06-20 10:42:25 UTC</a></sub>
+* [NASA nearly completes SLS countdown test](https://spacenews.com/nasa-nearly-completes-sls-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T094222">2022-06-20 09:42:22 UTC</a></sub>
 * [Space Force to establish intelligence unit at Wright-Patterson Air Force Base](https://spacenews.com/space-force-to-establish-intelligence-unit-at-wright-patterson-air-force-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T062225">2022-06-20 06:22:25 UTC</a></sub>
 * [NASA’s Artemis moon rocket fully fueled for first time in practice countdown](https://spaceflightnow.com/2022/06/20/nasas-artemis-moon-rocket-fully-fueled-for-first-time-in-countdown-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T021217">2022-06-20 02:12:17 UTC</a></sub>
-* [SpaceX launches three Falcon 9 rockets in 36 hours](https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T220328">2022-06-19 22:03:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T091604">2022-06-21 09:16:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T094844">2022-06-21 09:48:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
