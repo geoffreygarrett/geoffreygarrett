@@ -134,7 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>USSF-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T000000">2022-06-29 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 541 | USSF-12&location=Cape Canaveral, FL, USA&dates=20220629T000000Z%2F20220629T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20220630T000000Z%2F20220630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Maiden Flight&location=Cape Canaveral, FL, USA&dates=20220630T000000Z%2F20220630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
-* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>DS-EO & others</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | DS-EO &amp; others&location=Sriharikota, Republic of India&dates=20220630T000000Z%2F20220630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Maiden Flight</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220630T000000Z%2F20220630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Viasat shareholders approve Inmarsat acquisition](https://spacenews.com/viasat-shareholders-approve-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T135230">2022-06-22 13:52:30 UTC</a></sub>
 * [House bill trims NASA budget proposal](https://spacenews.com/house-bill-trims-nasa-budget-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T120225">2022-06-22 12:02:25 UTC</a></sub>
 * [NASA encouraged by SLS countdown rehearsal](https://spacenews.com/nasa-encouraged-by-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T115218">2022-06-22 11:52:18 UTC</a></sub>
 * [Kuaizhou-1A returns to flight with test satellite launch](https://spacenews.com/kuaizhou-1a-returns-to-flight-with-test-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T092221">2022-06-22 09:22:21 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA's InSight Gets a Few Extra Weeks of Mars Science](https://mars.nasa.gov/news/9207/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T192200">2022-06-21 19:22:00 UTC</a></sub>
 * [NASA counts down to within 29 seconds of launching the large SLS rocket](https://arstechnica.com/science/2022/06/nasa-almost-finishes-a-critical-fueling-test-of-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T174504">2022-06-21 17:45:04 UTC</a></sub>
 * [House Appropriations Committee warns of cost pressures in Space Force programs](https://spacenews.com/house-appropriations-committee-warns-of-cost-pressures-in-space-force-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T164230">2022-06-21 16:42:30 UTC</a></sub>
-* [NASA Announces Artemis Concept Awards for Nuclear Power on Moon](http://www.nasa.gov/press-release/nasa-announces-artemis-concept-awards-for-nuclear-power-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T152300">2022-06-21 15:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T130557">2022-06-22 13:05:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T135312">2022-06-22 13:53:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
