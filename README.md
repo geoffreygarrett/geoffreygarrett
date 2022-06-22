@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD Satcom: Big money for military satellites, slow shift to commercial services](https://spacenews.com/dod-satcom-big-money-for-military-satellites-slow-shift-to-commercial-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T140229">2022-06-22 14:02:29 UTC</a></sub>
 * [Viasat shareholders approve Inmarsat acquisition](https://spacenews.com/viasat-shareholders-approve-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T135230">2022-06-22 13:52:30 UTC</a></sub>
 * [House bill trims NASA budget proposal](https://spacenews.com/house-bill-trims-nasa-budget-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T120225">2022-06-22 12:02:25 UTC</a></sub>
 * [NASA encouraged by SLS countdown rehearsal](https://spacenews.com/nasa-encouraged-by-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T115218">2022-06-22 11:52:18 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX warns 5G plan would deny Starlink to most Americans](https://spacenews.com/spacex-warns-5g-plan-would-deny-starlink-to-most-americans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T205222">2022-06-21 20:52:22 UTC</a></sub>
 * [NASA's InSight Gets a Few Extra Weeks of Mars Science](https://mars.nasa.gov/news/9207/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T192200">2022-06-21 19:22:00 UTC</a></sub>
 * [NASA counts down to within 29 seconds of launching the large SLS rocket](https://arstechnica.com/science/2022/06/nasa-almost-finishes-a-critical-fueling-test-of-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T174504">2022-06-21 17:45:04 UTC</a></sub>
-* [House Appropriations Committee warns of cost pressures in Space Force programs](https://spacenews.com/house-appropriations-committee-warns-of-cost-pressures-in-space-force-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T164230">2022-06-21 16:42:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T140808">2022-06-22 14:08:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T143408">2022-06-22 14:34:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
