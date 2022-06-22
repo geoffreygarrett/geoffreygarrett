@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House bill trims NASA budget proposal](https://spacenews.com/house-bill-trims-nasa-budget-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T120225">2022-06-22 12:02:25 UTC</a></sub>
+* [NASA encouraged by SLS countdown rehearsal](https://spacenews.com/nasa-encouraged-by-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T115218">2022-06-22 11:52:18 UTC</a></sub>
 * [Kuaizhou-1A returns to flight with test satellite launch](https://spacenews.com/kuaizhou-1a-returns-to-flight-with-test-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T092221">2022-06-22 09:22:21 UTC</a></sub>
 * [SpaceX gets permit for “Project Echo” in Central Texas](https://www.teslarati.com/spacex-project-echo-bastrop-county-texas-permits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T090321">2022-06-22 09:03:21 UTC</a></sub>
 * [SmallSat Alliance unveils Collegiate Space Competition](https://spacenews.com/first-collegiate-smallsat-c/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T235229">2022-06-21 23:52:29 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA counts down to within 29 seconds of launching the large SLS rocket](https://arstechnica.com/science/2022/06/nasa-almost-finishes-a-critical-fueling-test-of-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T174504">2022-06-21 17:45:04 UTC</a></sub>
 * [House Appropriations Committee warns of cost pressures in Space Force programs](https://spacenews.com/house-appropriations-committee-warns-of-cost-pressures-in-space-force-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T164230">2022-06-21 16:42:30 UTC</a></sub>
 * [NASA Announces Artemis Concept Awards for Nuclear Power on Moon](http://www.nasa.gov/press-release/nasa-announces-artemis-concept-awards-for-nuclear-power-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T152300">2022-06-21 15:23:00 UTC</a></sub>
-* [NASA, SpaceX to test satellite crash-prevention strategies](https://spacenews.com/nasa-spacex-to-test-satellite-crash-prevention-strategies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T152230">2022-06-21 15:22:30 UTC</a></sub>
-* [Through Starling, NASA will test complex swarm operations](https://spacenews.com/through-starling-nasa-will-test-complex-swarm-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T152230">2022-06-21 15:22:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T113312">2022-06-22 11:33:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T121027">2022-06-22 12:10:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
