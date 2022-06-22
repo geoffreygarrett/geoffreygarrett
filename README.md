@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Contracts for Mission Enabling Services](http://www.nasa.gov/press-release/nasa-awards-contracts-for-mission-enabling-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T201300">2022-06-22 20:13:00 UTC</a></sub>
+* [NASA moves up Lunar Trailblazer launch](https://spacenews.com/nasa-moves-up-lunar-trailblazer-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T201225">2022-06-22 20:12:25 UTC</a></sub>
 * [NASA Introduces 2022 Class of Flight Directors](http://www.nasa.gov/press-release/nasa-introduces-2022-class-of-flight-directors) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T193300">2022-06-22 19:33:00 UTC</a></sub>
 * [La NASA presenta sus nuevos directores de vuelo](http://www.nasa.gov/press-release/la-nasa-presenta-sus-nuevos-directores-de-vuelo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T192300">2022-06-22 19:23:00 UTC</a></sub>
 * [UK mulls Starlink expansion plan under new NGSO regulations](https://spacenews.com/uk-mulls-starlink-expansion-plan-under-new-ngso-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T190229">2022-06-22 19:02:29 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [For the first time, a small rocket will launch a private spacecraft to the Moon](https://arstechnica.com/science/2022/06/for-the-first-time-a-small-rocket-will-launch-a-private-spacecraft-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T153500">2022-06-22 15:35:00 UTC</a></sub>
 * [DoD Satcom: Big money for military satellites, slow shift to commercial services](https://spacenews.com/dod-satcom-big-money-for-military-satellites-slow-shift-to-commercial-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T140229">2022-06-22 14:02:29 UTC</a></sub>
 * [Viasat shareholders approve Inmarsat acquisition](https://spacenews.com/viasat-shareholders-approve-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T135230">2022-06-22 13:52:30 UTC</a></sub>
-* [House bill trims NASA budget proposal](https://spacenews.com/house-bill-trims-nasa-budget-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T120225">2022-06-22 12:02:25 UTC</a></sub>
-* [NASA encouraged by SLS countdown rehearsal](https://spacenews.com/nasa-encouraged-by-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T115218">2022-06-22 11:52:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T200442">2022-06-22 20:04:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T203613">2022-06-22 20:36:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
