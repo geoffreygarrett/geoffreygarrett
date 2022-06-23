@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>USSF-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 541 | USSF-12&location=Cape Canaveral, FL, USA&dates=20220630T000000Z%2F20220630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Maiden Flight</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220630T000000Z%2F20220630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Straight Up</b> from Air launch to orbit. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T050000">2022-06-30 05:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Straight Up&location=Air launch to orbit&dates=20220630T050000Z%2F20220630T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>DS-EO & others</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123000">2022-06-30 12:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | DS-EO &amp; others&location=Sriharikota, Republic of India&dates=20220630T123000Z%2F20220630T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -179,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OneWeb to resume launches in fourth quarter](https://spacenews.com/oneweb-to-resume-launches-in-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T221230">2022-06-23 22:12:30 UTC</a></sub>
 * [NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon](http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T201300">2022-06-23 20:13:00 UTC</a></sub>
 * [NASA Mars Orbiter Releasing One of Its Last Rainbow-Colored Maps](https://mars.nasa.gov/news/9211/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T201300">2022-06-23 20:13:00 UTC</a></sub>
-* [SatixFy names CEO to lead its public company transformation](https://spacenews.com/satixfy-names-ceo-to-lead-its-public-company-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T185232">2022-06-23 18:52:32 UTC</a></sub>
 * [Hughes and OneWeb deploy high-speed internet for U.S. military at remote Arctic base](https://spacenews.com/hughes-and-oneweb-deploy-high-speed-internet-for-u-s-military-at-remote-arctic-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T185232">2022-06-23 18:52:32 UTC</a></sub>
+* [SatixFy names CEO to lead its public company transformation](https://spacenews.com/satixfy-names-ceo-to-lead-its-public-company-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T185232">2022-06-23 18:52:32 UTC</a></sub>
 * [First Ariane 5 flight of 2022 launches two satellites for Asia-Pacific](https://spacenews.com/first-ariane-5-flight-of-2022-launches-two-satellites-for-asia-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T151225">2022-06-23 15:12:25 UTC</a></sub>
 * [Second segment added to Starship launch tower at Kennedy Space Center](https://spaceflightnow.com/2022/06/23/second-segment-added-to-starship-launch-tower-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T131211">2022-06-23 13:12:11 UTC</a></sub>
 * [Microsoft, Xplore and NOAA demonstrate cloud-based satellite operations](https://spacenews.com/noaa-microsoft-xplore-noaa-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T130238">2022-06-23 13:02:38 UTC</a></sub>
 * [Office of Space Commerce on a “listening tour” for civil space traffic management](https://spacenews.com/office-of-space-commerce-on-a-listening-tour-for-civil-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T120229">2022-06-23 12:02:29 UTC</a></sub>
 * [SpaceX’s record-breaking Falcon 9 booster returns to port](https://www.teslarati.com/spacex-record-breaking-falcon-9-booster-returns-to-port-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T110332">2022-06-23 11:03:32 UTC</a></sub>
-* [House Armed Services Committee advances 2023 NDAA, increases DoD spending by $37 billion](https://spacenews.com/house-armed-services-committee-advances-2023-ndaa-increases-dod-spending-by-37-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T080237">2022-06-23 08:02:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T220315">2022-06-23 22:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T223546">2022-06-23 22:35:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
