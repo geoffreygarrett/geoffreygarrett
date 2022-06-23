@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House Armed Services Committee advances 2023 NDAA, increases DoD spending by $37 billion](https://spacenews.com/house-armed-services-committee-advances-2023-ndaa-increases-dod-spending-by-37-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T080237">2022-06-23 08:02:37 UTC</a></sub>
 * [Velo3D makes in-kind investment in Plasmos](https://spacenews.com/plasmos-velo3d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T232233">2022-06-22 23:22:33 UTC</a></sub>
 * [NASA Administrator Announces Next NAC Meeting, New Members](http://www.nasa.gov/press-release/nasa-administrator-announces-next-nac-meeting-new-members) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T213200">2022-06-22 21:32:00 UTC</a></sub>
 * [NASA Awards Contracts for Mission Enabling Services](http://www.nasa.gov/press-release/nasa-awards-contracts-for-mission-enabling-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T201300">2022-06-22 20:13:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [UK mulls Starlink expansion plan under new NGSO regulations](https://spacenews.com/uk-mulls-starlink-expansion-plan-under-new-ngso-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T190229">2022-06-22 19:02:29 UTC</a></sub>
 * [The final five: Ariane 5’s march to retirement begins with dual passenger launch](https://www.nasaspaceflight.com/2022/06/ariane-5-final-five/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T170904">2022-06-22 17:09:04 UTC</a></sub>
 * [NASA's Curiosity Captures Stunning Views of a Changing Mars Landscape](https://mars.nasa.gov/news/9209/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T162300">2022-06-22 16:23:00 UTC</a></sub>
-* [For the first time, a small rocket will launch a private spacecraft to the Moon](https://arstechnica.com/science/2022/06/for-the-first-time-a-small-rocket-will-launch-a-private-spacecraft-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T153500">2022-06-22 15:35:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T073420">2022-06-23 07:34:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T080820">2022-06-23 08:08:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
