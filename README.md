@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First Ariane 5 flight of 2022 launches two satellites for Asia-Pacific](https://spacenews.com/first-ariane-5-flight-of-2022-launches-two-satellites-for-asia-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T151225">2022-06-23 15:12:25 UTC</a></sub>
 * [Second segment added to Starship launch tower at Kennedy Space Center](https://spaceflightnow.com/2022/06/23/second-segment-added-to-starship-launch-tower-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T131211">2022-06-23 13:12:11 UTC</a></sub>
 * [Microsoft, Xplore and NOAA demonstrate cloud-based satellite operations](https://spacenews.com/noaa-microsoft-xplore-noaa-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T130238">2022-06-23 13:02:38 UTC</a></sub>
 * [Office of Space Commerce on a “listening tour” for civil space traffic management](https://spacenews.com/office-of-space-commerce-on-a-listening-tour-for-civil-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T120229">2022-06-23 12:02:29 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Administrator Announces Next NAC Meeting, New Members](http://www.nasa.gov/press-release/nasa-administrator-announces-next-nac-meeting-new-members) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T213200">2022-06-22 21:32:00 UTC</a></sub>
 * [NASA Awards Contracts for Mission Enabling Services](http://www.nasa.gov/press-release/nasa-awards-contracts-for-mission-enabling-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T201300">2022-06-22 20:13:00 UTC</a></sub>
 * [NASA moves up Lunar Trailblazer launch](https://spacenews.com/nasa-moves-up-lunar-trailblazer-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T201225">2022-06-22 20:12:25 UTC</a></sub>
-* [NASA Introduces 2022 Class of Flight Directors](http://www.nasa.gov/press-release/nasa-introduces-2022-class-of-flight-directors) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T193300">2022-06-22 19:33:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T150419">2022-06-23 15:04:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T154127">2022-06-23 15:41:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
