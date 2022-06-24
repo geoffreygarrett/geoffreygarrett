@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [RocketStars: Ly brings together requirements for USSF-12 launch](https://blog.ulalaunch.com/blog/rocketstars-ly-brings-together-requirements-for-ussf-12-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T132339">2022-06-24 13:23:39 UTC</a></sub>
 * [How do planets get rings?](https://www.planetary.org/articles/how-do-planets-get-rings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T140329">2022-06-21 14:03:29 UTC</a></sub>
 * [Updates from our Shoemaker NEO Grant winners](https://www.planetary.org/articles/updates-from-our-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T180305">2022-06-20 18:03:05 UTC</a></sub>
 * [Persevering through it all](https://www.planetary.org/the-downlink/persevering-through-it-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T143318">2022-06-17 14:33:18 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [First steps and big leaps](https://www.planetary.org/the-downlink/first-steps-and-big-leaps) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T143518">2022-06-10 14:35:18 UTC</a></sub>
 * [What might JWST reveal about TRAPPIST-1?](https://www.planetary.org/articles/james-webb-space-telescope-trappist-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T140513">2022-06-09 14:05:13 UTC</a></sub>
 * [How The Planetary Society got to Mars](https://www.planetary.org/articles/how-the-planetary-society-got-to-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163415">2022-06-07 16:34:15 UTC</a></sub>
-* [Your impact: June Solstice 2022](https://www.planetary.org/articles/your-impact-june-solstice-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163412">2022-06-07 16:34:12 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T130727">2022-06-24 13:07:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T135140">2022-06-24 13:51:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
