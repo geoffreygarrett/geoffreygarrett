@@ -182,8 +182,8 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [OneWeb to resume launches in fourth quarter](https://spacenews.com/oneweb-to-resume-launches-in-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T221230">2022-06-23 22:12:30 UTC</a></sub>
-* [NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon](http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T201300">2022-06-23 20:13:00 UTC</a></sub>
 * [NASA Mars Orbiter Releasing One of Its Last Rainbow-Colored Maps](https://mars.nasa.gov/news/9211/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T201300">2022-06-23 20:13:00 UTC</a></sub>
+* [NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon](http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T201300">2022-06-23 20:13:00 UTC</a></sub>
 * [Hughes and OneWeb deploy high-speed internet for U.S. military at remote Arctic base](https://spacenews.com/hughes-and-oneweb-deploy-high-speed-internet-for-u-s-military-at-remote-arctic-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T185232">2022-06-23 18:52:32 UTC</a></sub>
 * [SatixFy names CEO to lead its public company transformation](https://spacenews.com/satixfy-names-ceo-to-lead-its-public-company-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T185232">2022-06-23 18:52:32 UTC</a></sub>
 * [First Ariane 5 flight of 2022 launches two satellites for Asia-Pacific](https://spacenews.com/first-ariane-5-flight-of-2022-launches-two-satellites-for-asia-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T151225">2022-06-23 15:12:25 UTC</a></sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T070346">2022-06-24 07:03:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T073402">2022-06-24 07:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
