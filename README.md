@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX installs Super Heavy booster on launch mount with giant robot arms](https://www.teslarati.com/spacex-starship-super-heavy-booster-rollout-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T114321">2022-06-24 11:43:21 UTC</a></sub>
+* [X Prize Foundation studying active debris removal competition](https://spacenews.com/x-prize-foundation-studying-active-debris-removal-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T114218">2022-06-24 11:42:18 UTC</a></sub>
 * [Rocket Report: SpaceX steamroller rolls on; Russian rocket workers are idled](https://arstechnica.com/science/2022/06/rocket-report-spacex-steamroller-rolls-on-russian-rocket-workers-are-idled/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T110059">2022-06-24 11:00:59 UTC</a></sub>
 * [Parallel Paths for Space Sustainability](https://spacenews.com/parallel-paths-for-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T082222">2022-06-24 08:22:22 UTC</a></sub>
 * [OneWeb to resume launches in fourth quarter](https://spacenews.com/oneweb-to-resume-launches-in-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T221230">2022-06-23 22:12:30 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SatixFy names CEO to lead its public company transformation](https://spacenews.com/satixfy-names-ceo-to-lead-its-public-company-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T185232">2022-06-23 18:52:32 UTC</a></sub>
 * [Hughes and OneWeb deploy high-speed internet for U.S. military at remote Arctic base](https://spacenews.com/hughes-and-oneweb-deploy-high-speed-internet-for-u-s-military-at-remote-arctic-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T185232">2022-06-23 18:52:32 UTC</a></sub>
 * [First Ariane 5 flight of 2022 launches two satellites for Asia-Pacific](https://spacenews.com/first-ariane-5-flight-of-2022-launches-two-satellites-for-asia-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T151225">2022-06-23 15:12:25 UTC</a></sub>
-* [Second segment added to Starship launch tower at Kennedy Space Center](https://spaceflightnow.com/2022/06/23/second-segment-added-to-starship-launch-tower-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T131211">2022-06-23 13:12:11 UTC</a></sub>
-* [Microsoft, Xplore and NOAA demonstrate cloud-based satellite operations](https://spacenews.com/noaa-microsoft-xplore-noaa-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T130238">2022-06-23 13:02:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T113210">2022-06-24 11:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T120954">2022-06-24 12:09:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
