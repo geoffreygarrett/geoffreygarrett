@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA declares SLS countdown rehearsal complete](https://spacenews.com/nasa-declares-sls-countdown-rehearsal-complete/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T173203">2022-06-24 17:32:03 UTC</a></sub>
 * [Orbion to supply propulsion for General Atomics weather satellite](https://spacenews.com/orbion-ga-ems-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T164203">2022-06-24 16:42:03 UTC</a></sub>
 * [NASA to Discuss Psyche Asteroid Mission](http://www.nasa.gov/press-release/nasa-to-discuss-psyche-asteroid-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T140200">2022-06-24 14:02:00 UTC</a></sub>
 * [SpaceX moves a massive rocket with 33 engines to its launch pad for tests](https://arstechnica.com/science/2022/06/spacex-making-progress-toward-orbital-starship-test-flight-later-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T134909">2022-06-24 13:49:09 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Parallel Paths for Space Sustainability](https://spacenews.com/parallel-paths-for-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T082222">2022-06-24 08:22:22 UTC</a></sub>
 * [OneWeb to resume launches in fourth quarter](https://spacenews.com/oneweb-to-resume-launches-in-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T221230">2022-06-23 22:12:30 UTC</a></sub>
 * [NASA Mars Orbiter Releasing One of Its Last Rainbow-Colored Maps](https://mars.nasa.gov/news/9211/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T201300">2022-06-23 20:13:00 UTC</a></sub>
-* [NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon](http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T201300">2022-06-23 20:13:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T171206">2022-06-24 17:12:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T173802">2022-06-24 17:38:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
