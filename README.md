@@ -181,16 +181,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Discuss Psyche Asteroid Mission](http://www.nasa.gov/press-release/nasa-to-discuss-psyche-asteroid-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T140200">2022-06-24 14:02:00 UTC</a></sub>
+* [SpaceX moves a massive rocket with 33 engines to its launch pad for tests](https://arstechnica.com/science/2022/06/spacex-making-progress-toward-orbital-starship-test-flight-later-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T134909">2022-06-24 13:49:09 UTC</a></sub>
 * [SpaceX installs Super Heavy booster on launch mount with giant robot arms](https://www.teslarati.com/spacex-starship-super-heavy-booster-rollout-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T114321">2022-06-24 11:43:21 UTC</a></sub>
 * [X Prize Foundation studying active debris removal competition](https://spacenews.com/x-prize-foundation-studying-active-debris-removal-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T114218">2022-06-24 11:42:18 UTC</a></sub>
 * [Rocket Report: SpaceX steamroller rolls on; Russian rocket workers are idled](https://arstechnica.com/science/2022/06/rocket-report-spacex-steamroller-rolls-on-russian-rocket-workers-are-idled/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T110059">2022-06-24 11:00:59 UTC</a></sub>
 * [Parallel Paths for Space Sustainability](https://spacenews.com/parallel-paths-for-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T082222">2022-06-24 08:22:22 UTC</a></sub>
 * [OneWeb to resume launches in fourth quarter](https://spacenews.com/oneweb-to-resume-launches-in-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T221230">2022-06-23 22:12:30 UTC</a></sub>
-* [NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon](http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T201300">2022-06-23 20:13:00 UTC</a></sub>
 * [NASA Mars Orbiter Releasing One of Its Last Rainbow-Colored Maps](https://mars.nasa.gov/news/9211/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T201300">2022-06-23 20:13:00 UTC</a></sub>
+* [NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon](http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T201300">2022-06-23 20:13:00 UTC</a></sub>
 * [SatixFy names CEO to lead its public company transformation](https://spacenews.com/satixfy-names-ceo-to-lead-its-public-company-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T185232">2022-06-23 18:52:32 UTC</a></sub>
-* [Hughes and OneWeb deploy high-speed internet for U.S. military at remote Arctic base](https://spacenews.com/hughes-and-oneweb-deploy-high-speed-internet-for-u-s-military-at-remote-arctic-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T185232">2022-06-23 18:52:32 UTC</a></sub>
-* [First Ariane 5 flight of 2022 launches two satellites for Asia-Pacific](https://spacenews.com/first-ariane-5-flight-of-2022-launches-two-satellites-for-asia-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T151225">2022-06-23 15:12:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Defend your planet](https://www.planetary.org/the-downlink/defend-your-planet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T143227">2022-06-24 14:32:27 UTC</a></sub>
+* [LightSail 2 getting lower as it completes third year in space](https://www.planetary.org/articles/lightsail-2-third-anniversary-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T140227">2022-06-24 14:02:27 UTC</a></sub>
 * [RocketStars: Ly brings together requirements for USSF-12 launch](https://blog.ulalaunch.com/blog/rocketstars-ly-brings-together-requirements-for-ussf-12-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T132339">2022-06-24 13:23:39 UTC</a></sub>
 * [How do planets get rings?](https://www.planetary.org/articles/how-do-planets-get-rings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T140329">2022-06-21 14:03:29 UTC</a></sub>
 * [Updates from our Shoemaker NEO Grant winners](https://www.planetary.org/articles/updates-from-our-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T180305">2022-06-20 18:03:05 UTC</a></sub>
@@ -209,8 +211,6 @@ region. The mission's status is currently Go for Launch
 * [USSF-12: Atlas V receives two SSC satellite payloads](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-receives-two-ssc-satellite-payloads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T173417">2022-06-15 17:34:17 UTC</a></sub>
 * [Why can't the ISS operate forever?](https://www.planetary.org/articles/why-international-space-station-cant-operate-forever) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T140306">2022-06-14 14:03:06 UTC</a></sub>
 * [First steps and big leaps](https://www.planetary.org/the-downlink/first-steps-and-big-leaps) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T143518">2022-06-10 14:35:18 UTC</a></sub>
-* [What might JWST reveal about TRAPPIST-1?](https://www.planetary.org/articles/james-webb-space-telescope-trappist-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T140513">2022-06-09 14:05:13 UTC</a></sub>
-* [How The Planetary Society got to Mars](https://www.planetary.org/articles/how-the-planetary-society-got-to-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163415">2022-06-07 16:34:15 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T140248">2022-06-24 14:02:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T143239">2022-06-24 14:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
