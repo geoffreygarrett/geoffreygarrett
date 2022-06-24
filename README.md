@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New head of Space Force acquisitions looks to get back to basics](https://spacenews.com/new-head-of-space-force-acquisitions-looks-to-get-back-to-basics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T221206">2022-06-24 22:12:06 UTC</a></sub>
 * [Telespazio to play key role in satellite servicing market](https://spacenews.com/telespazio-in-orbit-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T212223">2022-06-24 21:22:23 UTC</a></sub>
 * [Software testing problem delays Psyche launch](https://spacenews.com/software-testing-problem-delays-psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T204208">2022-06-24 20:42:08 UTC</a></sub>
 * [Telesat requests UK license to connect Lightspeed terminals](https://spacenews.com/telesat-requests-uk-license-to-connect-lightspeed-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T203209">2022-06-24 20:32:09 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SLS readies for roll back to VAB; final launch preparations to begin](https://www.nasaspaceflight.com/2022/06/sls-readiness-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T180100">2022-06-24 18:01:00 UTC</a></sub>
 * [NASA declares SLS countdown rehearsal complete](https://spacenews.com/nasa-declares-sls-countdown-rehearsal-complete/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T173203">2022-06-24 17:32:03 UTC</a></sub>
 * [Orbion to supply propulsion for General Atomics weather satellite](https://spacenews.com/orbion-ga-ems-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T164203">2022-06-24 16:42:03 UTC</a></sub>
-* [NASA to Discuss Psyche Asteroid Mission](http://www.nasa.gov/press-release/nasa-to-discuss-psyche-asteroid-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T140200">2022-06-24 14:02:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T220412">2022-06-24 22:04:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T223518">2022-06-24 22:35:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
