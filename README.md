@@ -181,16 +181,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.K. government announces new space sustainability measures](https://spacenews.com/u-k-government-announces-new-space-sustainability-measures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T202204">2022-06-25 20:22:04 UTC</a></sub>
 * [InSight teams push for more science in lander’s final months, Curiosity continues trek around Gale Crater](https://www.nasaspaceflight.com/2022/06/insight-curiosity-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T164233">2022-06-25 16:42:33 UTC</a></sub>
 * [New head of Space Force acquisitions looks to get back to basics](https://spacenews.com/new-head-of-space-force-acquisitions-looks-to-get-back-to-basics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T221206">2022-06-24 22:12:06 UTC</a></sub>
 * [Telespazio to play key role in satellite servicing market](https://spacenews.com/telespazio-in-orbit-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T212223">2022-06-24 21:22:23 UTC</a></sub>
+* [NASA targeting late summer launch for first Artemis moon rocket](https://spaceflightnow.com/2022/06/24/nasa-targeting-late-summer-launch-for-first-artemis-moon-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T210200">2022-06-24 21:02:00 UTC</a></sub>
 * [Software testing problem delays Psyche launch](https://spacenews.com/software-testing-problem-delays-psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T204208">2022-06-24 20:42:08 UTC</a></sub>
 * [Telesat requests UK license to connect Lightspeed terminals](https://spacenews.com/telesat-requests-uk-license-to-connect-lightspeed-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T203209">2022-06-24 20:32:09 UTC</a></sub>
 * [NASA Awards Facilities Engineering Design, Inspection Services Contract](http://www.nasa.gov/press-release/nasa-awards-facilities-engineering-design-inspection-services-contract-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T201200">2022-06-24 20:12:00 UTC</a></sub>
 * [NASA Announces Launch Delay for Psyche Asteroid Mission](http://www.nasa.gov/press-release/nasa-announces-launch-delay-for-psyche-asteroid-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T181200">2022-06-24 18:12:00 UTC</a></sub>
 * [Space Force establishes intelligence unit to put sharper focus on orbital threats](https://spacenews.com/space-force-establishes-intelligence-unit-to-put-sharper-focus-on-orbital-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T180205">2022-06-24 18:02:05 UTC</a></sub>
-* [SLS readies for roll back to VAB; final launch preparations to begin](https://www.nasaspaceflight.com/2022/06/sls-readiness-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T180100">2022-06-24 18:01:00 UTC</a></sub>
-* [NASA declares SLS countdown rehearsal complete](https://spacenews.com/nasa-declares-sls-countdown-rehearsal-complete/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T173203">2022-06-24 17:32:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T203529">2022-06-25 20:35:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T210254">2022-06-25 21:02:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
