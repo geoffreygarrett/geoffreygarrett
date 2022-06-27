@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After software delays, NASA says Psyche asteroid mission won’t launch this year](https://spaceflightnow.com/2022/06/27/after-software-delays-nasa-gives-up-on-launching-psyche-asteroid-mission-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T172120">2022-06-27 17:21:20 UTC</a></sub>
 * [House appropriators partially restore funding for planetary defense mission](https://spacenews.com/house-appropriators-partially-restore-funding-for-planetary-defense-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T163127">2022-06-27 16:31:27 UTC</a></sub>
 * [Orbital Starship prepares for Static Fire campaign](https://www.nasaspaceflight.com/2022/06/orbital-starship-static-fire-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T161456">2022-06-27 16:14:56 UTC</a></sub>
 * [NASA to Cover Northrop Grumman Cygnus Departure from Space Station](http://www.nasa.gov/press-release/nasa-to-cover-northrop-grumman-cygnus-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T145100">2022-06-27 14:51:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [U.K. government announces new space sustainability measures](https://spacenews.com/u-k-government-announces-new-space-sustainability-measures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T202204">2022-06-25 20:22:04 UTC</a></sub>
 * [InSight teams push for more science in lander’s final months, Curiosity continues trek around Gale Crater](https://www.nasaspaceflight.com/2022/06/insight-curiosity-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T164233">2022-06-25 16:42:33 UTC</a></sub>
 * [New head of Space Force acquisitions looks to get back to basics](https://spacenews.com/new-head-of-space-force-acquisitions-looks-to-get-back-to-basics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T221206">2022-06-24 22:12:06 UTC</a></sub>
-* [Telespazio to play key role in satellite servicing market](https://spacenews.com/telespazio-in-orbit-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T212223">2022-06-24 21:22:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T171850">2022-06-27 17:18:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T174113">2022-06-27 17:41:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
