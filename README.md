@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon Heavy rocket’s NASA Psyche launch delayed to 2023](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T115147">2022-06-27 11:51:47 UTC</a></sub>
 * [Axiom and Collins only bidders for NASA spacesuit contracts](https://spacenews.com/axiom-and-collins-only-bidders-for-nasa-spacesuit-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T231123">2022-06-26 23:11:23 UTC</a></sub>
 * [U.K. government announces new space sustainability measures](https://spacenews.com/u-k-government-announces-new-space-sustainability-measures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T202204">2022-06-25 20:22:04 UTC</a></sub>
 * [InSight teams push for more science in lander’s final months, Curiosity continues trek around Gale Crater](https://www.nasaspaceflight.com/2022/06/insight-curiosity-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T164233">2022-06-25 16:42:33 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Software testing problem delays Psyche launch](https://spacenews.com/software-testing-problem-delays-psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T204208">2022-06-24 20:42:08 UTC</a></sub>
 * [Telesat requests UK license to connect Lightspeed terminals](https://spacenews.com/telesat-requests-uk-license-to-connect-lightspeed-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T203209">2022-06-24 20:32:09 UTC</a></sub>
 * [NASA Awards Facilities Engineering Design, Inspection Services Contract](http://www.nasa.gov/press-release/nasa-awards-facilities-engineering-design-inspection-services-contract-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T201200">2022-06-24 20:12:00 UTC</a></sub>
-* [NASA Announces Launch Delay for Psyche Asteroid Mission](http://www.nasa.gov/press-release/nasa-announces-launch-delay-for-psyche-asteroid-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T181200">2022-06-24 18:12:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T113329">2022-06-27 11:33:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T121115">2022-06-27 12:11:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
