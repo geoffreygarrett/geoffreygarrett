@@ -188,8 +188,8 @@ region. The mission's status is currently Go for Launch
 * [NASA to Cover Northrop Grumman Cygnus Departure from Space Station](http://www.nasa.gov/press-release/nasa-to-cover-northrop-grumman-cygnus-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T145100">2022-06-27 14:51:00 UTC</a></sub>
 * [Lawmakers seek to accelerate asteroid finder and want more Mars helicopters](https://arstechnica.com/science/2022/06/lawmakers-seek-to-accelerate-asteroid-finder-and-want-more-mars-helicopters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T142612">2022-06-27 14:26:12 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket’s NASA Psyche launch delayed to 2023](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T115147">2022-06-27 11:51:47 UTC</a></sub>
+* [Mini-mission to blaze NASA’s trail back to the moon](https://spaceflightnow.com/2022/06/27/mini-mission-to-blaze-nasas-trail-back-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T073122">2022-06-27 07:31:22 UTC</a></sub>
 * [Axiom and Collins only bidders for NASA spacesuit contracts](https://spacenews.com/axiom-and-collins-only-bidders-for-nasa-spacesuit-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T231123">2022-06-26 23:11:23 UTC</a></sub>
-* [U.K. government announces new space sustainability measures](https://spacenews.com/u-k-government-announces-new-space-sustainability-measures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T202204">2022-06-25 20:22:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T070305">2022-06-28 07:03:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T073414">2022-06-28 07:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
