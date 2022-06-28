@@ -199,6 +199,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [China looks to outer Solar System with nuclear Neptune orbiter](https://www.planetary.org/articles/china-nuclear-neptune-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T140151">2022-06-28 14:01:51 UTC</a></sub>
 * [RocketStars: Gleba's job powers WFOV during launch](https://blog.ulalaunch.com/blog/rocketstars-glebas-job-powers-wfov-during-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T130154">2022-06-27 13:01:54 UTC</a></sub>
 * [Defend your planet](https://www.planetary.org/the-downlink/defend-your-planet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T143227">2022-06-24 14:32:27 UTC</a></sub>
 * [LightSail 2 getting lower as it completes third year in space](https://www.planetary.org/articles/lightsail-2-third-anniversary-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T140227">2022-06-24 14:02:27 UTC</a></sub>
@@ -208,7 +209,6 @@ region. The mission's status is currently Go for Launch
 * [Persevering through it all](https://www.planetary.org/the-downlink/persevering-through-it-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T143318">2022-06-17 14:33:18 UTC</a></sub>
 * [A joint-letter in support of NEO Surveyor](https://www.planetary.org/articles/tps-nss-joint-letter-supporting-neo-surveyor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T190326">2022-06-16 19:03:26 UTC</a></sub>
 * [USSF-12: Atlas V receives two SSC satellite payloads](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-receives-two-ssc-satellite-payloads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T173417">2022-06-15 17:34:17 UTC</a></sub>
-* [Why can't the ISS operate forever?](https://www.planetary.org/articles/why-international-space-station-cant-operate-forever) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T140306">2022-06-14 14:03:06 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T140316">2022-06-28 14:03:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T143421">2022-06-28 14:34:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
