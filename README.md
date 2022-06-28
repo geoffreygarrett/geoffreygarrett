@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CubeSat launches on scouting mission for NASA’s Artemis moon program](https://spaceflightnow.com/2022/06/28/capstone-cubesat-launches-on-scouting-mission-for-nasas-artemis-moon-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T184120">2022-06-28 18:41:20 UTC</a></sub>
+* [Ovzon needs to piggyback another Ariane 5 ride for late 2022 launch](https://spacenews.com/ovzon-needs-to-piggyback-another-ariane-5-ride-for-late-2022-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T182124">2022-06-28 18:21:24 UTC</a></sub>
 * [Help NASA Scientists Find Clouds on Mars](https://mars.nasa.gov/news/9215/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T163100">2022-06-28 16:31:00 UTC</a></sub>
 * [Chinese commercial launch firm Expace raises $237 million](https://spacenews.com/chinese-commercial-launch-firm-expace-raises-237-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T154124">2022-06-28 15:41:24 UTC</a></sub>
 * [Northrop Grumman’s Cygnus supply ship departs space station](https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T115120">2022-06-28 11:51:20 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [CAPSTONE Launches to Test New Orbit for NASA’s Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-launches-to-test-new-orbit-for-nasa-s-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T113100">2022-06-28 11:31:00 UTC</a></sub>
 * [SpaceX to surpass weekly launch target in first half of 2022](https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T105153">2022-06-28 10:51:53 UTC</a></sub>
 * [Rocket Lab & NASA launch CAPSTONE to the Moon](https://www.nasaspaceflight.com/2022/06/capstone-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T024354">2022-06-28 02:43:54 UTC</a></sub>
-* [NASA's Curiosity Takes Inventory of Key Life Ingredient on Mars](https://mars.nasa.gov/news/9214/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T200100">2022-06-27 20:01:00 UTC</a></sub>
-* [After software delays, NASA says Psyche asteroid mission won’t launch this year](https://spaceflightnow.com/2022/06/27/after-software-delays-nasa-gives-up-on-launching-psyche-asteroid-mission-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T172120">2022-06-27 17:21:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T180641">2022-06-28 18:06:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T184755">2022-06-28 18:47:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
