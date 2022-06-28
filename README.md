@@ -179,16 +179,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman’s Cygnus supply ship departs space station](https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T115120">2022-06-28 11:51:20 UTC</a></sub>
+* [Cygnus departs ISS after reboost test](https://spacenews.com/cygnus-departs-iss-after-reboost-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T114124">2022-06-28 11:41:24 UTC</a></sub>
+* [Electron launches CAPSTONE lunar cubesat](https://spacenews.com/electron-launches-capstone-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T114124">2022-06-28 11:41:24 UTC</a></sub>
 * [CAPSTONE Launches to Test New Orbit for NASA’s Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-launches-to-test-new-orbit-for-nasa-s-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T113100">2022-06-28 11:31:00 UTC</a></sub>
-* [Watch live: Northrop Grumman’s Cygnus supply ship to depart space station](https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T110121">2022-06-28 11:01:21 UTC</a></sub>
 * [SpaceX to surpass weekly launch target in first half of 2022](https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T105153">2022-06-28 10:51:53 UTC</a></sub>
 * [Rocket Lab & NASA launch CAPSTONE to the Moon](https://www.nasaspaceflight.com/2022/06/capstone-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T024354">2022-06-28 02:43:54 UTC</a></sub>
 * [NASA's Curiosity Takes Inventory of Key Life Ingredient on Mars](https://mars.nasa.gov/news/9214/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T200100">2022-06-27 20:01:00 UTC</a></sub>
 * [After software delays, NASA says Psyche asteroid mission won’t launch this year](https://spaceflightnow.com/2022/06/27/after-software-delays-nasa-gives-up-on-launching-psyche-asteroid-mission-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T172120">2022-06-27 17:21:20 UTC</a></sub>
 * [House appropriators partially restore funding for planetary defense mission](https://spacenews.com/house-appropriators-partially-restore-funding-for-planetary-defense-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T163127">2022-06-27 16:31:27 UTC</a></sub>
 * [Orbital Starship prepares for Static Fire campaign](https://www.nasaspaceflight.com/2022/06/orbital-starship-static-fire-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T161456">2022-06-27 16:14:56 UTC</a></sub>
-* [NASA to Cover Northrop Grumman Cygnus Departure from Space Station](http://www.nasa.gov/press-release/nasa-to-cover-northrop-grumman-cygnus-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T145100">2022-06-27 14:51:00 UTC</a></sub>
-* [Lawmakers seek to accelerate asteroid finder and want more Mars helicopters](https://arstechnica.com/science/2022/06/lawmakers-seek-to-accelerate-asteroid-finder-and-want-more-mars-helicopters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T142612">2022-06-27 14:26:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T113222">2022-06-28 11:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T121141">2022-06-28 12:11:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
