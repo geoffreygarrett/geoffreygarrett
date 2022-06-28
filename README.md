@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force acquisition chief to meet with ULA and Blue Origin, expects Vulcan to launch in December](https://spacenews.com/space-force-acquisition-chief-to-meet-with-ula-and-blue-origin-expects-vulcan-to-launch-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T233126">2022-06-28 23:31:26 UTC</a></sub>
+* [Virgin Orbit ready for first night launch](https://spacenews.com/virgin-orbit-ready-for-first-night-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T231123">2022-06-28 23:11:23 UTC</a></sub>
 * [NASA aims to launch the SLS rocket in just 2 months](https://arstechnica.com/science/2022/06/nasa-aims-to-launch-the-sls-rocket-in-just-2-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T213955">2022-06-28 21:39:55 UTC</a></sub>
 * [CubeSat launches on scouting mission for NASA’s Artemis moon program](https://spaceflightnow.com/2022/06/28/capstone-cubesat-launches-on-scouting-mission-for-nasas-artemis-moon-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T184120">2022-06-28 18:41:20 UTC</a></sub>
 * [Ovzon needs to piggyback another Ariane 5 ride for late 2022 launch](https://spacenews.com/ovzon-needs-to-piggyback-another-ariane-5-ride-for-late-2022-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T182124">2022-06-28 18:21:24 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Northrop Grumman’s Cygnus supply ship departs space station](https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T115120">2022-06-28 11:51:20 UTC</a></sub>
 * [Cygnus departs ISS after reboost test](https://spacenews.com/cygnus-departs-iss-after-reboost-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T114124">2022-06-28 11:41:24 UTC</a></sub>
 * [Electron launches CAPSTONE lunar cubesat](https://spacenews.com/electron-launches-capstone-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T114124">2022-06-28 11:41:24 UTC</a></sub>
-* [CAPSTONE Launches to Test New Orbit for NASA’s Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-launches-to-test-new-orbit-for-nasa-s-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T113100">2022-06-28 11:31:00 UTC</a></sub>
-* [SpaceX to surpass weekly launch target in first half of 2022](https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T105153">2022-06-28 10:51:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T230254">2022-06-28 23:02:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T233459">2022-06-28 23:34:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
