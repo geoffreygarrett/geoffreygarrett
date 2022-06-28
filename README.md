@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA aims to launch the SLS rocket in just 2 months](https://arstechnica.com/science/2022/06/nasa-aims-to-launch-the-sls-rocket-in-just-2-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T213955">2022-06-28 21:39:55 UTC</a></sub>
 * [CubeSat launches on scouting mission for NASA’s Artemis moon program](https://spaceflightnow.com/2022/06/28/capstone-cubesat-launches-on-scouting-mission-for-nasas-artemis-moon-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T184120">2022-06-28 18:41:20 UTC</a></sub>
 * [Ovzon needs to piggyback another Ariane 5 ride for late 2022 launch](https://spacenews.com/ovzon-needs-to-piggyback-another-ariane-5-ride-for-late-2022-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T182124">2022-06-28 18:21:24 UTC</a></sub>
 * [Help NASA Scientists Find Clouds on Mars](https://mars.nasa.gov/news/9215/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T163100">2022-06-28 16:31:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Electron launches CAPSTONE lunar cubesat](https://spacenews.com/electron-launches-capstone-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T114124">2022-06-28 11:41:24 UTC</a></sub>
 * [CAPSTONE Launches to Test New Orbit for NASA’s Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-launches-to-test-new-orbit-for-nasa-s-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T113100">2022-06-28 11:31:00 UTC</a></sub>
 * [SpaceX to surpass weekly launch target in first half of 2022](https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T105153">2022-06-28 10:51:53 UTC</a></sub>
-* [Rocket Lab & NASA launch CAPSTONE to the Moon](https://www.nasaspaceflight.com/2022/06/capstone-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T024354">2022-06-28 02:43:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T213336">2022-06-28 21:33:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T220600">2022-06-28 22:06:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
