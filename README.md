@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>LARES-2 (Maiden flight)</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T111300">2022-07-07 11:13:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | LARES-2 (Maiden flight)&location=Kourou, French Guiana&dates=20220707T111300Z%2F20220707T111300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-21</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T223000">2022-07-07 22:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-21&location=Cape Canaveral, FL, USA&dates=20220707T223000Z%2F20220707T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 3-1</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T000000">2022-07-08 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-1&location=Vandenberg SFB, CA, USA&dates=20220708T000000Z%2F20220708T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-22</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T000000">2022-07-10 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-22&location=Cape Canaveral, FL, USA&dates=20220710T000000Z%2F20220710T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -179,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Help NASA Scientists Find Clouds on Mars](https://mars.nasa.gov/news/9215/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T163100">2022-06-28 16:31:00 UTC</a></sub>
+* [Chinese commercial launch firm Expace raises $237 million](https://spacenews.com/chinese-commercial-launch-firm-expace-raises-237-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T154124">2022-06-28 15:41:24 UTC</a></sub>
 * [Northrop Grumman’s Cygnus supply ship departs space station](https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T115120">2022-06-28 11:51:20 UTC</a></sub>
 * [Cygnus departs ISS after reboost test](https://spacenews.com/cygnus-departs-iss-after-reboost-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T114124">2022-06-28 11:41:24 UTC</a></sub>
 * [Electron launches CAPSTONE lunar cubesat](https://spacenews.com/electron-launches-capstone-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T114124">2022-06-28 11:41:24 UTC</a></sub>
@@ -187,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab & NASA launch CAPSTONE to the Moon](https://www.nasaspaceflight.com/2022/06/capstone-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T024354">2022-06-28 02:43:54 UTC</a></sub>
 * [NASA's Curiosity Takes Inventory of Key Life Ingredient on Mars](https://mars.nasa.gov/news/9214/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T200100">2022-06-27 20:01:00 UTC</a></sub>
 * [After software delays, NASA says Psyche asteroid mission won’t launch this year](https://spaceflightnow.com/2022/06/27/after-software-delays-nasa-gives-up-on-launching-psyche-asteroid-mission-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T172120">2022-06-27 17:21:20 UTC</a></sub>
-* [House appropriators partially restore funding for planetary defense mission](https://spacenews.com/house-appropriators-partially-restore-funding-for-planetary-defense-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T163127">2022-06-27 16:31:27 UTC</a></sub>
-* [Orbital Starship prepares for Static Fire campaign](https://www.nasaspaceflight.com/2022/06/orbital-starship-static-fire-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T161456">2022-06-27 16:14:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T160657">2022-06-28 16:06:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T165845">2022-06-28 16:58:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
