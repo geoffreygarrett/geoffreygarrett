@@ -179,6 +179,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CAPSTONE Launches to Test New Orbit for NASA’s Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-launches-to-test-new-orbit-for-nasa-s-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T113100">2022-06-28 11:31:00 UTC</a></sub>
+* [Watch live: Northrop Grumman’s Cygnus supply ship to depart space station](https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T110121">2022-06-28 11:01:21 UTC</a></sub>
+* [SpaceX to surpass weekly launch target in first half of 2022](https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T105153">2022-06-28 10:51:53 UTC</a></sub>
 * [Rocket Lab & NASA launch CAPSTONE to the Moon](https://www.nasaspaceflight.com/2022/06/capstone-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T024354">2022-06-28 02:43:54 UTC</a></sub>
 * [NASA's Curiosity Takes Inventory of Key Life Ingredient on Mars](https://mars.nasa.gov/news/9214/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T200100">2022-06-27 20:01:00 UTC</a></sub>
 * [After software delays, NASA says Psyche asteroid mission won’t launch this year](https://spaceflightnow.com/2022/06/27/after-software-delays-nasa-gives-up-on-launching-psyche-asteroid-mission-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T172120">2022-06-27 17:21:20 UTC</a></sub>
@@ -186,9 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Orbital Starship prepares for Static Fire campaign](https://www.nasaspaceflight.com/2022/06/orbital-starship-static-fire-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T161456">2022-06-27 16:14:56 UTC</a></sub>
 * [NASA to Cover Northrop Grumman Cygnus Departure from Space Station](http://www.nasa.gov/press-release/nasa-to-cover-northrop-grumman-cygnus-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T145100">2022-06-27 14:51:00 UTC</a></sub>
 * [Lawmakers seek to accelerate asteroid finder and want more Mars helicopters](https://arstechnica.com/science/2022/06/lawmakers-seek-to-accelerate-asteroid-finder-and-want-more-mars-helicopters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T142612">2022-06-27 14:26:12 UTC</a></sub>
-* [SpaceX Falcon Heavy rocket’s NASA Psyche launch delayed to 2023](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T115147">2022-06-27 11:51:47 UTC</a></sub>
-* [Mini-mission to blaze NASA’s trail back to the moon](https://spaceflightnow.com/2022/06/27/mini-mission-to-blaze-nasas-trail-back-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T073122">2022-06-27 07:31:22 UTC</a></sub>
-* [Axiom and Collins only bidders for NASA spacesuit contracts](https://spacenews.com/axiom-and-collins-only-bidders-for-nasa-spacesuit-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T231123">2022-06-26 23:11:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T110346">2022-06-28 11:03:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T113222">2022-06-28 11:32:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
