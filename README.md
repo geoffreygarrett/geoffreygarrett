@@ -181,16 +181,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral](https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T175119">2022-06-29 17:51:19 UTC</a></sub>
+* [NASA teases extraordinary images captured by its Webb telescope](https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T174553">2022-06-29 17:45:53 UTC</a></sub>
 * [Falcon 9 set to launch SES-22 geostationary communications satellite](https://www.nasaspaceflight.com/2022/06/ses-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171034">2022-06-29 17:10:34 UTC</a></sub>
 * [My Favorite Martian Image: 'Enchanted' Rocks at Jezero Crater](https://mars.nasa.gov/news/9217/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T161100">2022-06-29 16:11:00 UTC</a></sub>
 * [Avio gets pandemic recovery funds to develop launchers for the 2030s](https://spacenews.com/avio-gets-pandemic-recovery-funds-to-develop-launchers-for-the-2030s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T144123">2022-06-29 14:41:23 UTC</a></sub>
 * [Sierra Space signs agreement with Turkish Space Agency](https://spacenews.com/sierra-space-signs-agreement-with-turkish-space-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T130127">2022-06-29 13:01:27 UTC</a></sub>
-* [ULA ready to roll Atlas 5 rocket to launch pad today](https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T120120">2022-06-29 12:01:20 UTC</a></sub>
 * [SpaceX, ULA targeting back-to-back geostationary launches](https://www.teslarati.com/spacex-ula-back-to-back-geostationary-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T105144">2022-06-29 10:51:44 UTC</a></sub>
 * [Space Force acquisition chief to meet with ULA and Blue Origin, expects Vulcan to launch in December](https://spacenews.com/space-force-acquisition-chief-to-meet-with-ula-and-blue-origin-expects-vulcan-to-launch-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T233126">2022-06-28 23:31:26 UTC</a></sub>
 * [Virgin Orbit ready for first night launch](https://spacenews.com/virgin-orbit-ready-for-first-night-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T231123">2022-06-28 23:11:23 UTC</a></sub>
 * [NASA aims to launch the SLS rocket in just 2 months](https://arstechnica.com/science/2022/06/nasa-aims-to-launch-the-sls-rocket-in-just-2-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T213955">2022-06-28 21:39:55 UTC</a></sub>
-* [CubeSat launches on scouting mission for NASA’s Artemis moon program](https://spaceflightnow.com/2022/06/28/capstone-cubesat-launches-on-scouting-mission-for-nasas-artemis-moon-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T184120">2022-06-28 18:41:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171625">2022-06-29 17:16:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T175740">2022-06-29 17:57:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
