@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Shares Climate, Earth Science Resources at Folklife Festival](http://www.nasa.gov/press-release/nasa-shares-climate-earth-science-resources-at-folklife-festival) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T191100">2022-06-29 19:11:00 UTC</a></sub>
 * [ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral](https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T175119">2022-06-29 17:51:19 UTC</a></sub>
 * [NASA scientists say images from the Webb telescope nearly brought them to tears](https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T174553">2022-06-29 17:45:53 UTC</a></sub>
 * [Falcon 9 set to launch SES-22 geostationary communications satellite](https://www.nasaspaceflight.com/2022/06/ses-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171034">2022-06-29 17:10:34 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX, ULA targeting back-to-back geostationary launches](https://www.teslarati.com/spacex-ula-back-to-back-geostationary-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T105144">2022-06-29 10:51:44 UTC</a></sub>
 * [Space Force acquisition chief to meet with ULA and Blue Origin, expects Vulcan to launch in December](https://spacenews.com/space-force-acquisition-chief-to-meet-with-ula-and-blue-origin-expects-vulcan-to-launch-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T233126">2022-06-28 23:31:26 UTC</a></sub>
 * [Virgin Orbit ready for first night launch](https://spacenews.com/virgin-orbit-ready-for-first-night-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T231123">2022-06-28 23:11:23 UTC</a></sub>
-* [NASA aims to launch the SLS rocket in just 2 months](https://arstechnica.com/science/2022/06/nasa-aims-to-launch-the-sls-rocket-in-just-2-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T213955">2022-06-28 21:39:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T190222">2022-06-29 19:02:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T193203">2022-06-29 19:32:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
