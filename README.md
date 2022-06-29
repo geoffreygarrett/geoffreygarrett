@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Sierra Space signs agreement with Turkish Space Agency](https://spacenews.com/sierra-space-signs-agreement-with-turkish-space-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T130127">2022-06-29 13:01:27 UTC</a></sub>
 * [ULA ready to roll Atlas 5 rocket to launch pad today](https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T120120">2022-06-29 12:01:20 UTC</a></sub>
 * [SpaceX, ULA targeting back-to-back geostationary launches](https://www.teslarati.com/spacex-ula-back-to-back-geostationary-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T105144">2022-06-29 10:51:44 UTC</a></sub>
 * [Space Force acquisition chief to meet with ULA and Blue Origin, expects Vulcan to launch in December](https://spacenews.com/space-force-acquisition-chief-to-meet-with-ula-and-blue-origin-expects-vulcan-to-launch-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T233126">2022-06-28 23:31:26 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Ovzon needs to piggyback another Ariane 5 ride for late 2022 launch](https://spacenews.com/ovzon-needs-to-piggyback-another-ariane-5-ride-for-late-2022-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T182124">2022-06-28 18:21:24 UTC</a></sub>
 * [Help NASA Scientists Find Clouds on Mars](https://mars.nasa.gov/news/9215/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T163100">2022-06-28 16:31:00 UTC</a></sub>
 * [Chinese commercial launch firm Expace raises $237 million](https://spacenews.com/chinese-commercial-launch-firm-expace-raises-237-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T154124">2022-06-28 15:41:24 UTC</a></sub>
-* [Northrop Grumman’s Cygnus supply ship departs space station](https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T115120">2022-06-28 11:51:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T120946">2022-06-29 12:09:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T130831">2022-06-29 13:08:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
