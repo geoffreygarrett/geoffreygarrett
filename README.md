@@ -182,7 +182,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral](https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T175119">2022-06-29 17:51:19 UTC</a></sub>
-* [NASA teases extraordinary images captured by its Webb telescope](https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T174553">2022-06-29 17:45:53 UTC</a></sub>
+* [NASA scientists say images from the Webb telescope nearly brought them to tears](https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T174553">2022-06-29 17:45:53 UTC</a></sub>
 * [Falcon 9 set to launch SES-22 geostationary communications satellite](https://www.nasaspaceflight.com/2022/06/ses-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171034">2022-06-29 17:10:34 UTC</a></sub>
 * [My Favorite Martian Image: 'Enchanted' Rocks at Jezero Crater](https://mars.nasa.gov/news/9217/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T161100">2022-06-29 16:11:00 UTC</a></sub>
 * [Avio gets pandemic recovery funds to develop launchers for the 2030s](https://spacenews.com/avio-gets-pandemic-recovery-funds-to-develop-launchers-for-the-2030s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T144123">2022-06-29 14:41:23 UTC</a></sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T181702">2022-06-29 18:17:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T184610">2022-06-29 18:46:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
