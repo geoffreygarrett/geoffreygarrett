@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | SES-22 at the
-<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
-Cape Canaveral, FL, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T210400">2022-06-29 21:04:00 UTC</a>. Until
-then, this launch pad will have seen 145
-out of 847 launches in this
+PSLV-CA | DS-EO & others at the
+<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad">Satish Dhawan Space Centre Second Launch Pad</a> in
+Sriharikota, Republic of India
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123000">2022-06-30 12:30:00 UTC</a>. Until
+then, this launch pad will have seen 20
+out of 79 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Geostationary communications satellite
+  DS-EO is an electro-optical multispectral Earth observation satellite for DSTA from Singapore. Secondary payloads are NeuSAR and SCOOB-I, both also from Singapore.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=13.7199,80.2304" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,10 +126,9 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SES-22</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T210400">2022-06-29 21:04:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-22&location=Cape Canaveral, FL, USA&dates=20220629T210400Z%2F20220629T230400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Straight Up</b> from Air launch to orbit. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T050000">2022-06-30 05:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Straight Up&location=Air launch to orbit&dates=20220630T050000Z%2F20220630T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>DS-EO & others</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123000">2022-06-30 12:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | DS-EO &amp; others&location=Sriharikota, Republic of India&dates=20220630T123000Z%2F20220630T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>USSF-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T220000">2022-06-30 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 541 | USSF-12&location=Cape Canaveral, FL, USA&dates=20220630T220000Z%2F20220701T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Straight Up</b> from Air launch to orbit. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T050000">2022-07-01 05:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Straight Up&location=Air launch to orbit&dates=20220701T050000Z%2F20220701T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> <b>SISTINE</b> from Arnhem Space Centre. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T105400">2022-07-04 10:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Black Brant IX | SISTINE&location=Arnhem Space Centre&dates=20220704T105400Z%2F20220704T105400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>LARES-2 (Maiden flight)</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T111300">2022-07-07 11:13:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | LARES-2 (Maiden flight)&location=Kourou, French Guiana&dates=20220707T111300Z%2F20220707T111300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-21</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T223000">2022-07-07 22:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-21&location=Cape Canaveral, FL, USA&dates=20220707T223000Z%2F20220707T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -181,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX completes 35th Falcon 9 launch in 33 weeks](https://www.teslarati.com/spacex-falcon-9-rocket-35-launches-33-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235147">2022-06-29 23:51:47 UTC</a></sub>
+* [Virgin Orbit delays launch of seven satellites for US Space Force and NASA](https://www.nasaspaceflight.com/2022/06/virgin-orbit-straight-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235105">2022-06-29 23:51:05 UTC</a></sub>
+* [SpaceX launches SES-22 C-band replacement satellite](https://spacenews.com/spacex-launches-ses-22-c-band-replacement-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T215123">2022-06-29 21:51:23 UTC</a></sub>
+* [NASA administrator tests positive for COVID](https://spacenews.com/nasa-administrator-tests-positive-for-covid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T205123">2022-06-29 20:51:23 UTC</a></sub>
 * [NASA to Industry: Let’s Develop Flight Tech to Reduce Carbon Emissions](http://www.nasa.gov/press-release/nasa-to-industry-let-s-develop-flight-tech-to-reduce-carbon-emissions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T200100">2022-06-29 20:01:00 UTC</a></sub>
 * [Space Force considering strategy for procuring national security launch services](https://spacenews.com/space-force-considering-strategy-for-procuring-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T194123">2022-06-29 19:41:23 UTC</a></sub>
 * [NASA Shares Climate, Earth Science Resources at Folklife Festival](http://www.nasa.gov/press-release/nasa-shares-climate-earth-science-resources-at-folklife-festival) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T191100">2022-06-29 19:11:00 UTC</a></sub>
 * [ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral](https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T175119">2022-06-29 17:51:19 UTC</a></sub>
 * [NASA scientists say images from the Webb telescope nearly brought them to tears](https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T174553">2022-06-29 17:45:53 UTC</a></sub>
-* [Falcon 9 set to launch SES-22 geostationary communications satellite](https://www.nasaspaceflight.com/2022/06/ses-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171034">2022-06-29 17:10:34 UTC</a></sub>
-* [My Favorite Martian Image: 'Enchanted' Rocks at Jezero Crater](https://mars.nasa.gov/news/9217/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T161100">2022-06-29 16:11:00 UTC</a></sub>
-* [Avio gets pandemic recovery funds to develop launchers for the 2030s](https://spacenews.com/avio-gets-pandemic-recovery-funds-to-develop-launchers-for-the-2030s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T144123">2022-06-29 14:41:23 UTC</a></sub>
-* [Sierra Space signs agreement with Turkish Space Agency](https://spacenews.com/sierra-space-signs-agreement-with-turkish-space-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T130127">2022-06-29 13:01:27 UTC</a></sub>
-* [SpaceX, ULA targeting back-to-back geostationary launches](https://www.teslarati.com/spacex-ula-back-to-back-geostationary-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T105144">2022-06-29 10:51:44 UTC</a></sub>
+* [Falcon 9 launches SES-22 geostationary communications satellite](https://www.nasaspaceflight.com/2022/06/ses-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171034">2022-06-29 17:10:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T210242">2022-06-29 21:02:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T050022">2022-06-30 05:00:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
