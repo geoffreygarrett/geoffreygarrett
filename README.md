@@ -98,7 +98,7 @@ PSLV-CA | DS-EO & others at the
 <a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad">Satish Dhawan Space Centre Second Launch Pad</a> in
 Sriharikota, Republic of India
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123000">2022-06-30 12:30:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123200">2022-06-30 12:32:00 UTC</a>. Until
 then, this launch pad will have seen 20
 out of 79 launches in this
 region. The mission's status is currently Go for Launch
@@ -126,7 +126,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>DS-EO & others</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123000">2022-06-30 12:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | DS-EO &amp; others&location=Sriharikota, Republic of India&dates=20220630T123000Z%2F20220630T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>DS-EO & others</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123200">2022-06-30 12:32:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | DS-EO &amp; others&location=Sriharikota, Republic of India&dates=20220630T123200Z%2F20220630T123200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>USSF-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T220000">2022-06-30 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 541 | USSF-12&location=Cape Canaveral, FL, USA&dates=20220630T220000Z%2F20220701T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Straight Up</b> from Air launch to orbit. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T050000">2022-07-01 05:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Straight Up&location=Air launch to orbit&dates=20220701T050000Z%2F20220701T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> <b>SISTINE</b> from Arnhem Space Centre. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T105400">2022-07-04 10:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Black Brant IX | SISTINE&location=Arnhem Space Centre&dates=20220704T105400Z%2F20220704T105400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T113243">2022-06-30 11:32:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T121059">2022-06-30 12:10:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
