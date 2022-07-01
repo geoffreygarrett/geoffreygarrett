@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Venus orbiter, lunar constellation and exoplanets telescopes among candidates as China selects new space science missions](https://spacenews.com/venus-orbiter-lunar-constellation-and-exoplanets-telescopes-among-candidates-as-china-selects-new-space-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T081123">2022-07-01 08:11:23 UTC</a></sub>
 * [SpaceX Cargo Dragon launch slips to mid-July](https://www.teslarati.com/spacex-cargo-dragon-launch-slips-to-mid-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T212146">2022-06-30 21:21:46 UTC</a></sub>
 * [NASA Awards Engineering, Technology, Science Contract](http://www.nasa.gov/press-release/nasa-awards-engineering-technology-science-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T201100">2022-06-30 20:11:00 UTC</a></sub>
 * [Florida Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/florida-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T174100">2022-06-30 17:41:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [House appropriators reduce proposed budget for FAA commercial space office](https://spacenews.com/house-appropriators-reduce-proposed-budget-for-faa-commercial-space-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T004123">2022-06-30 00:41:23 UTC</a></sub>
 * [Kepler books orbital transfer vehicle for next launch](https://spacenews.com/kepler-books-orbital-transfer-vehicle-for-next-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000122">2022-06-30 00:01:22 UTC</a></sub>
 * [SpaceX completes 35th Falcon 9 launch in 33 weeks](https://www.teslarati.com/spacex-falcon-9-rocket-35-launches-33-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235147">2022-06-29 23:51:47 UTC</a></sub>
-* [Virgin Orbit delays launch of seven satellites for US Space Force and NASA](https://www.nasaspaceflight.com/2022/06/virgin-orbit-straight-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235105">2022-06-29 23:51:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T080802">2022-07-01 08:08:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T084159">2022-07-01 08:41:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
