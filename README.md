@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Orbit launches Space Force mission](https://spacenews.com/virgin-orbit-launches-space-force-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T082124">2022-07-02 08:21:24 UTC</a></sub>
+* [Watch live: NASA moving SLS moon rocket back to hangar this morning](https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T082120">2022-07-02 08:21:20 UTC</a></sub>
 * [Watch live: NASA moving SLS moon rocket back to hangar tonight](https://spaceflightnow.com/2022/07/02/watch-live-nasa-moving-sls-moon-rocket-back-to-hangar-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T020126">2022-07-02 02:01:26 UTC</a></sub>
 * [ULA’s Atlas 5 launches U.S. Space Force experimental missile-warning satellite](https://spacenews.com/ulas-atlas-5-launches-u-s-space-force-experimental-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T235124">2022-07-01 23:51:24 UTC</a></sub>
 * [Agile to consolidate operations in new Colorado plant](https://spacenews.com/agile-consolidates-design-manufacturing-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T175123">2022-07-01 17:51:23 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [OneWeb to launch second-generation satellites with Relativity Space](https://spacenews.com/oneweb-to-launch-second-generation-satellites-with-relativity-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T120128">2022-07-01 12:01:28 UTC</a></sub>
 * [Rocket Report: ULA starts military lobbying campaign, SLS to launch in 2 months](https://arstechnica.com/science/2022/07/rocket-report-ula-starts-military-lobbying-campaign-sls-to-launch-in-2-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T110028">2022-07-01 11:00:28 UTC</a></sub>
 * [Venus orbiter, lunar constellation and exoplanets telescopes among candidates as China selects new space science missions](https://spacenews.com/venus-orbiter-lunar-constellation-and-exoplanets-telescopes-among-candidates-as-china-selects-new-space-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T081123">2022-07-01 08:11:23 UTC</a></sub>
-* [Virgin Orbit launches seven satellites for US Space Force and NASA](https://www.nasaspaceflight.com/2022/07/virgin-orbit-straight-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T055105">2022-07-01 05:51:05 UTC</a></sub>
-* [SpaceX Cargo Dragon launch slips to mid-July](https://www.teslarati.com/spacex-cargo-dragon-launch-slips-to-mid-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T212146">2022-06-30 21:21:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T080727">2022-07-02 08:07:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T083935">2022-07-02 08:39:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
