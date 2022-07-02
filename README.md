@@ -179,9 +179,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [In a step closer to launch, NASA’s Artemis 1 moon rocket rolls back to hangar](https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T182121">2022-07-02 18:21:21 UTC</a></sub>
 * [Atlas 5 rocket launches two U.S. military satellites on $1.1 billion mission](https://spaceflightnow.com/2022/07/02/atlas-5-rocket-launches-two-u-s-military-satellites-on-1-1-billion-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T132120">2022-07-02 13:21:20 UTC</a></sub>
 * [Virgin Orbit launches Space Force mission](https://spacenews.com/virgin-orbit-launches-space-force-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T082124">2022-07-02 08:21:24 UTC</a></sub>
-* [Watch live: NASA moving SLS moon rocket back to hangar this morning](https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T082120">2022-07-02 08:21:20 UTC</a></sub>
 * [Watch live: NASA moving SLS moon rocket back to hangar tonight](https://spaceflightnow.com/2022/07/02/watch-live-nasa-moving-sls-moon-rocket-back-to-hangar-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T020126">2022-07-02 02:01:26 UTC</a></sub>
 * [ULA’s Atlas 5 launches U.S. Space Force experimental missile-warning satellite](https://spacenews.com/ulas-atlas-5-launches-u-s-space-force-experimental-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T235124">2022-07-01 23:51:24 UTC</a></sub>
 * [Agile to consolidate operations in new Colorado plant](https://spacenews.com/agile-consolidates-design-manufacturing-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T175123">2022-07-01 17:51:23 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T180518">2022-07-02 18:05:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T183919">2022-07-02 18:39:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
