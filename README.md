@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> <b>DEUCE</b> from Arnhem Space Centre. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T105700">2022-07-12 10:57:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Black Brant IX | DEUCE&location=Arnhem Space Centre&dates=20220712T105700Z%2F20220712T105700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-25</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T000000">2022-07-14 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-25&location=Cape Canaveral, FL, USA&dates=20220714T000000Z%2F20220714T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 3-2</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T000000">2022-07-14 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-2&location=Vandenberg SFB, CA, USA&dates=20220714T000000Z%2F20220714T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T003000">2022-07-15 00:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-25&location=Kennedy Space Center, FL, USA&dates=20220715T003000Z%2F20220715T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -179,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA and Roscosmos continue seat barter discussions](https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-discussions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T224123">2022-07-02 22:41:23 UTC</a></sub>
 * [SLS rolled back to VAB for final launch preparations](https://www.nasaspaceflight.com/2022/07/sls-rolled-back-final-launch-preps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T214913">2022-07-02 21:49:13 UTC</a></sub>
 * [In a step closer to launch, NASA’s Artemis 1 moon rocket rolls back to hangar](https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T182121">2022-07-02 18:21:21 UTC</a></sub>
 * [Atlas 5 rocket launches two U.S. military satellites on $1.1 billion mission](https://spaceflightnow.com/2022/07/02/atlas-5-rocket-launches-two-u-s-military-satellites-on-1-1-billion-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T132120">2022-07-02 13:21:20 UTC</a></sub>
@@ -188,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Agile to consolidate operations in new Colorado plant](https://spacenews.com/agile-consolidates-design-manufacturing-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T175123">2022-07-01 17:51:23 UTC</a></sub>
 * [Yes, Boeing’s Starliner spacecraft really could fly astronauts this year](https://arstechnica.com/science/2022/07/yes-boeings-starliner-spacecraft-really-could-fly-astronauts-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T153416">2022-07-01 15:34:16 UTC</a></sub>
 * [Atlas V launches two experimental military satellites on USSF-12 mission](https://www.nasaspaceflight.com/2022/07/atlas-v-ussf-12/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T141019">2022-07-01 14:10:19 UTC</a></sub>
-* [OneWeb to launch second-generation satellites with Relativity Space](https://spacenews.com/oneweb-to-launch-second-generation-satellites-with-relativity-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T120128">2022-07-01 12:01:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -199,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [USSF-12: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T232149">2022-07-02 23:21:49 UTC</a></sub>
 * [Planetary accessorizing](https://www.planetary.org/the-downlink/planetary-accessorizing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T143142">2022-07-01 14:31:42 UTC</a></sub>
 * [How do planets get moons?](https://www.planetary.org/articles/how-planets-get-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T140141">2022-06-30 14:01:41 UTC</a></sub>
 * [China looks to outer Solar System with nuclear Neptune orbiter](https://www.planetary.org/articles/china-nuclear-neptune-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T140151">2022-06-28 14:01:51 UTC</a></sub>
@@ -208,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [RocketStars: Ly brings together requirements for USSF-12 launch](https://blog.ulalaunch.com/blog/rocketstars-ly-brings-together-requirements-for-ussf-12-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T132339">2022-06-24 13:23:39 UTC</a></sub>
 * [How do planets get rings?](https://www.planetary.org/articles/how-do-planets-get-rings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T140329">2022-06-21 14:03:29 UTC</a></sub>
 * [Updates from our Shoemaker NEO Grant winners](https://www.planetary.org/articles/updates-from-our-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T180305">2022-06-20 18:03:05 UTC</a></sub>
-* [Persevering through it all](https://www.planetary.org/the-downlink/persevering-through-it-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T143318">2022-06-17 14:33:18 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T230221">2022-07-02 23:02:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T233347">2022-07-02 23:33:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
