@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lucy continues to stabilize its solar array before its October flyby](https://www.nasaspaceflight.com/2022/07/lucy-solar-array-before-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T171752">2022-07-03 17:17:52 UTC</a></sub>
 * [NASA and Roscosmos continue seat barter discussions](https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-discussions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T224123">2022-07-02 22:41:23 UTC</a></sub>
 * [SLS rolled back to VAB for final launch preparations](https://www.nasaspaceflight.com/2022/07/sls-rolled-back-final-launch-preps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T214913">2022-07-02 21:49:13 UTC</a></sub>
 * [In a step closer to launch, NASA’s Artemis 1 moon rocket rolls back to hangar](https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T182121">2022-07-02 18:21:21 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [ULA’s Atlas 5 launches U.S. Space Force experimental missile-warning satellite](https://spacenews.com/ulas-atlas-5-launches-u-s-space-force-experimental-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T235124">2022-07-01 23:51:24 UTC</a></sub>
 * [Agile to consolidate operations in new Colorado plant](https://spacenews.com/agile-consolidates-design-manufacturing-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T175123">2022-07-01 17:51:23 UTC</a></sub>
 * [Yes, Boeing’s Starliner spacecraft really could fly astronauts this year](https://arstechnica.com/science/2022/07/yes-boeings-starliner-spacecraft-really-could-fly-astronauts-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T153416">2022-07-01 15:34:16 UTC</a></sub>
-* [Atlas V launches two experimental military satellites on USSF-12 mission](https://www.nasaspaceflight.com/2022/07/atlas-v-ussf-12/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T141019">2022-07-01 14:10:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T170649">2022-07-03 17:06:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T173425">2022-07-03 17:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
