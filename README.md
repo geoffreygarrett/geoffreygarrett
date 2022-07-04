@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CAPSTONE heads to the moon](https://spacenews.com/capstone-heads-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T133246">2022-07-04 13:32:46 UTC</a></sub>
 * [SpaceX eyes several Starlink launches in July](https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T224234">2022-07-03 22:42:34 UTC</a></sub>
 * [Lucy continues to stabilize its solar array before its October flyby](https://www.nasaspaceflight.com/2022/07/lucy-solar-array-before-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T171752">2022-07-03 17:17:52 UTC</a></sub>
 * [SpaceX outfits Starship, Super Heavy with dozens of Raptor engines](https://www.teslarati.com/spacex-starship-super-heavy-39-raptors-installed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T052300">2022-07-03 05:23:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [In a step closer to launch, NASA’s Artemis 1 moon rocket rolls back to hangar](https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T182121">2022-07-02 18:21:21 UTC</a></sub>
 * [Atlas 5 rocket launches two U.S. military satellites on $1.1 billion mission](https://spaceflightnow.com/2022/07/02/atlas-5-rocket-launches-two-u-s-military-satellites-on-1-1-billion-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T132120">2022-07-02 13:21:20 UTC</a></sub>
 * [Virgin Orbit launches Space Force mission](https://spacenews.com/virgin-orbit-launches-space-force-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T082124">2022-07-02 08:21:24 UTC</a></sub>
-* [Watch live: NASA moving SLS moon rocket back to hangar tonight](https://spaceflightnow.com/2022/07/02/watch-live-nasa-moving-sls-moon-rocket-back-to-hangar-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T020126">2022-07-02 02:01:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T131229">2022-07-04 13:12:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T135133">2022-07-04 13:51:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
