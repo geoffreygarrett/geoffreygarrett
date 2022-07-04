@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [SpaceX eyes several Starlink launches in July](https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T224234">2022-07-03 22:42:34 UTC</a></sub>
 * [Lucy continues to stabilize its solar array before its October flyby](https://www.nasaspaceflight.com/2022/07/lucy-solar-array-before-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T171752">2022-07-03 17:17:52 UTC</a></sub>
+* [New Zealand joins ASAT testing ban](https://spacenews.com/new-zealand-joins-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T004214">2022-07-03 00:42:14 UTC</a></sub>
 * [NASA and Roscosmos continue seat barter discussions](https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-discussions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T224123">2022-07-02 22:41:23 UTC</a></sub>
 * [SLS rolled back to VAB for final launch preparations](https://www.nasaspaceflight.com/2022/07/sls-rolled-back-final-launch-preps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T214913">2022-07-02 21:49:13 UTC</a></sub>
 * [In a step closer to launch, NASA’s Artemis 1 moon rocket rolls back to hangar](https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T182121">2022-07-02 18:21:21 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Virgin Orbit launches Space Force mission](https://spacenews.com/virgin-orbit-launches-space-force-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T082124">2022-07-02 08:21:24 UTC</a></sub>
 * [Watch live: NASA moving SLS moon rocket back to hangar tonight](https://spaceflightnow.com/2022/07/02/watch-live-nasa-moving-sls-moon-rocket-back-to-hangar-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T020126">2022-07-02 02:01:26 UTC</a></sub>
 * [ULA’s Atlas 5 launches U.S. Space Force experimental missile-warning satellite](https://spacenews.com/ulas-atlas-5-launches-u-s-space-force-experimental-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T235124">2022-07-01 23:51:24 UTC</a></sub>
-* [Agile to consolidate operations in new Colorado plant](https://spacenews.com/agile-consolidates-design-manufacturing-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T175123">2022-07-01 17:51:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T003727">2022-07-04 00:37:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T030837">2022-07-04 03:08:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
