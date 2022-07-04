@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space botany, cargo arrivals, and autonomous robots: a busy June on the ISS](https://www.nasaspaceflight.com/2022/07/june-on-the-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T170958">2022-07-04 17:09:58 UTC</a></sub>
 * [CAPSTONE heads to the moon](https://spacenews.com/capstone-heads-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T133246">2022-07-04 13:32:46 UTC</a></sub>
 * [SpaceX eyes several Starlink launches in July](https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T224234">2022-07-03 22:42:34 UTC</a></sub>
 * [Lucy continues to stabilize its solar array before its October flyby](https://www.nasaspaceflight.com/2022/07/lucy-solar-array-before-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T171752">2022-07-03 17:17:52 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SLS rolled back to VAB for final launch preparations](https://www.nasaspaceflight.com/2022/07/sls-rolled-back-final-launch-preps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T214913">2022-07-02 21:49:13 UTC</a></sub>
 * [In a step closer to launch, NASA’s Artemis 1 moon rocket rolls back to hangar](https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T182121">2022-07-02 18:21:21 UTC</a></sub>
 * [Atlas 5 rocket launches two U.S. military satellites on $1.1 billion mission](https://spaceflightnow.com/2022/07/02/atlas-5-rocket-launches-two-u-s-military-satellites-on-1-1-billion-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T132120">2022-07-02 13:21:20 UTC</a></sub>
-* [Virgin Orbit launches Space Force mission](https://spacenews.com/virgin-orbit-launches-space-force-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T082124">2022-07-02 08:21:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T171154">2022-07-04 17:11:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T173832">2022-07-04 17:38:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
