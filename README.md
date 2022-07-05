@@ -201,6 +201,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Ingenuity, NASA’s Mars Helicopter](https://www.planetary.org/space-missions/ingenuity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T140446">2022-07-05 14:04:46 UTC</a></sub>
 * [USSF-12: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T232149">2022-07-02 23:21:49 UTC</a></sub>
 * [Planetary accessorizing](https://www.planetary.org/the-downlink/planetary-accessorizing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T143142">2022-07-01 14:31:42 UTC</a></sub>
 * [How do planets get moons?](https://www.planetary.org/articles/how-planets-get-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T140141">2022-06-30 14:01:41 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently To Be Determined
 * [LightSail 2 getting lower as it completes third year in space](https://www.planetary.org/articles/lightsail-2-third-anniversary-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T140227">2022-06-24 14:02:27 UTC</a></sub>
 * [RocketStars: Ly brings together requirements for USSF-12 launch](https://blog.ulalaunch.com/blog/rocketstars-ly-brings-together-requirements-for-ussf-12-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T132339">2022-06-24 13:23:39 UTC</a></sub>
 * [How do planets get rings?](https://www.planetary.org/articles/how-do-planets-get-rings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T140329">2022-06-21 14:03:29 UTC</a></sub>
-* [Updates from our Shoemaker NEO Grant winners](https://www.planetary.org/articles/updates-from-our-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T180305">2022-06-20 18:03:05 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T140659">2022-07-05 14:06:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T143437">2022-07-05 14:34:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
