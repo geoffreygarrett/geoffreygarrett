@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Soyuz 2.1b/Fregat | Glonass-K1 at the
-<a href="">43/4 (43R)</a> in
-Plesetsk Cosmodrome, Russian Federation
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T080000">2022-07-07 08:00:00 UTC</a>. Until
-then, this launch pad will have seen 306
-out of 1651 launches in this
-region. The mission's status is currently Go for Launch
-(Go) 🟩  which means:
-*current T-0 confirmed by official or reliable sources.* 
+Black Brant IX | SISTINE at the
+<a href="https://en.wikipedia.org/wiki/Arnhem_Land#Economy">Suborbital Launch Ramp</a> in
+Arnhem Space Centre
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T105400">2022-07-06 10:54:00 UTC</a>. Until
+then, this launch pad will have seen 1
+out of 1 launches in this
+region. The mission's status is currently To Be Determined
+(TBD) 🟧  which means:
+*current date is a placeholder or rough estimation based on unreliable or interpreted sources.* 
 <br>
 <blockquote>
-  
+  The Suborbital Imaging Spectrograph for Transition region Irradiance from Nearby Exoplanet host stars (SISTINE) is a payload from the University of Colorado. Its objective is to study how light from stars affects the atmospheres of the planets around them, including the gases thought to be signs of life. For this flight, it will measure the ultraviolet light output from α Centauri A and B, two stars of the three-star α Centauri system that are the closest stars to our Sun.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
+  <a href="https://en.wikipedia.org/wiki/Black_Brant_(rocket)#Black_Brant_IX" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=62.929+N,+40.457+E" >
+  <a href="http://maps.google.com/maps?q=-12.3892948,136.7903215" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,6 +126,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> <b>SISTINE</b> from Arnhem Space Centre. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T105400">2022-07-06 10:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Black Brant IX | SISTINE&location=Arnhem Space Centre&dates=20220706T105400Z%2F20220706T105400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b><name missing></b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T080000">2022-07-07 08:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1&location=Plesetsk Cosmodrome, Russian Federation&dates=20220707T080000Z%2F20220707T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-21</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T130000">2022-07-07 13:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-21&location=Cape Canaveral, FL, USA&dates=20220707T130000Z%2F20220707T130000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-22</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T000000">2022-07-10 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-22&location=Cape Canaveral, FL, USA&dates=20220710T000000Z%2F20220710T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kongsberg to acquire majority stake in NanoAvionics](https://spacenews.com/kongsberg-to-acquire-majority-stake-in-nanoavionics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T113425">2022-07-05 11:34:25 UTC</a></sub>
 * [Space botany, cargo arrivals, and autonomous robots: a busy June on the ISS](https://www.nasaspaceflight.com/2022/07/june-on-the-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T170958">2022-07-04 17:09:58 UTC</a></sub>
 * [CAPSTONE heads to the moon](https://spacenews.com/capstone-heads-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T133246">2022-07-04 13:32:46 UTC</a></sub>
 * [SpaceX eyes several Starlink launches in July](https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T224234">2022-07-03 22:42:34 UTC</a></sub>
@@ -189,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA and Roscosmos continue seat barter discussions](https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-discussions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T224123">2022-07-02 22:41:23 UTC</a></sub>
 * [SLS rolled back to VAB for final launch preparations](https://www.nasaspaceflight.com/2022/07/sls-rolled-back-final-launch-preps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T214913">2022-07-02 21:49:13 UTC</a></sub>
 * [In a step closer to launch, NASA’s Artemis 1 moon rocket rolls back to hangar](https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T182121">2022-07-02 18:21:21 UTC</a></sub>
-* [Atlas 5 rocket launches two U.S. military satellites on $1.1 billion mission](https://spaceflightnow.com/2022/07/02/atlas-5-rocket-launches-two-u-s-military-satellites-on-1-1-billion-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T132120">2022-07-02 13:21:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T113337">2022-07-05 11:33:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T120946">2022-07-05 12:09:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
