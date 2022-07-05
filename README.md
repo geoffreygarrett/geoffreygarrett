@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Tesla’s Solar Range Extender with Starlink prototype could save lives during disasters](https://www.teslarati.com/teslas-solar-range-extender-with-starlink-prototype-could-save-lives-during-disasters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T195443">2022-07-05 19:54:43 UTC</a></sub>
 * [CAPSTONE suffers communications problem](https://spacenews.com/capstone-suffers-communications-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T184422">2022-07-05 18:44:22 UTC</a></sub>
 * [Northrop Grumman selects Airbus to supply satellite buses for U.S. military constellation](https://spacenews.com/northrop-grumman-selects-airbus-to-supply-satellite-buses-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T133424">2022-07-05 13:34:24 UTC</a></sub>
 * [Russian astronauts use space station to promote anti-Ukraine propaganda](https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T123857">2022-07-05 12:38:57 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Determined
 * [SpaceX eyes several Starlink launches in July](https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T224234">2022-07-03 22:42:34 UTC</a></sub>
 * [Lucy continues to stabilize its solar array before its October flyby](https://www.nasaspaceflight.com/2022/07/lucy-solar-array-before-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T171752">2022-07-03 17:17:52 UTC</a></sub>
 * [SpaceX outfits Starship, Super Heavy with dozens of Raptor engines](https://www.teslarati.com/spacex-starship-super-heavy-39-raptors-installed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T052300">2022-07-03 05:23:00 UTC</a></sub>
-* [New Zealand joins ASAT testing ban](https://spacenews.com/new-zealand-joins-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T004214">2022-07-03 00:42:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T193102">2022-07-05 19:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T200451">2022-07-05 20:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
