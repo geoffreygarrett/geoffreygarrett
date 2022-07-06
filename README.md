@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic selects Aurora Flight Sciences to build new motherships](https://spacenews.com/virgin-galactic-selects-aurora-flight-sciences-to-build-new-motherships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T201500">2022-07-06 20:15:00 UTC</a></sub>
 * [L3Harris makes strategic investment in Mynaric](https://spacenews.com/l3harris-makes-strategic-investment-in-mynaric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T110458">2022-07-06 11:04:58 UTC</a></sub>
 * [New launch vehicles set for test flights from China’s Jiuquan spaceport](https://spacenews.com/new-launch-vehicles-set-for-test-flights-from-chinas-jiuquan-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T092458">2022-07-06 09:24:58 UTC</a></sub>
 * [Tesla’s Solar Range Extender with Starlink prototype could save lives during disasters](https://www.teslarati.com/teslas-solar-range-extender-with-starlink-prototype-could-save-lives-during-disasters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T195443">2022-07-05 19:54:43 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Kongsberg to acquire majority stake in NanoAvionics](https://spacenews.com/kongsberg-to-acquire-majority-stake-in-nanoavionics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T113425">2022-07-05 11:34:25 UTC</a></sub>
 * [SpaceX sends Starship prototype to launch pad after engine installation](https://www.teslarati.com/spacex-starship-s24-nears-static-fire-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T045522">2022-07-05 04:55:22 UTC</a></sub>
 * [Space botany, cargo arrivals, and autonomous robots: a busy June on the ISS](https://www.nasaspaceflight.com/2022/07/june-on-the-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T170958">2022-07-04 17:09:58 UTC</a></sub>
-* [CAPSTONE heads to the moon](https://spacenews.com/capstone-heads-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T133246">2022-07-04 13:32:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T200520">2022-07-06 20:05:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T203608">2022-07-06 20:36:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
