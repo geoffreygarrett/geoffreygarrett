@@ -180,6 +180,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CAPSTONE communications restored](https://spacenews.com/capstone-communications-restored/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T222459">2022-07-06 22:24:59 UTC</a></sub>
+* [Satellite companies watching where DoD goes with 5G](https://spacenews.com/satellite-companies-watching-where-dod-goes-with-5g/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T220459">2022-07-06 22:04:59 UTC</a></sub>
+* [Communications established with payload on stabilized PSLV upper stage](https://spacenews.com/communications-established-with-payload-on-stabilized-pslv-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T215500">2022-07-06 21:55:00 UTC</a></sub>
 * [Looking to the future, Virgin Galactic purchases 2 more motherships](https://arstechnica.com/science/2022/07/looking-to-the-future-virgin-galactic-purchases-2-more-motherships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T211347">2022-07-06 21:13:47 UTC</a></sub>
 * [Virgin Galactic selects Aurora Flight Sciences to build new motherships](https://spacenews.com/virgin-galactic-selects-aurora-flight-sciences-to-build-new-motherships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T201500">2022-07-06 20:15:00 UTC</a></sub>
 * [L3Harris makes strategic investment in Mynaric](https://spacenews.com/l3harris-makes-strategic-investment-in-mynaric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T110458">2022-07-06 11:04:58 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Tesla’s Solar Range Extender with Starlink prototype could save lives during disasters](https://www.teslarati.com/teslas-solar-range-extender-with-starlink-prototype-could-save-lives-during-disasters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T195443">2022-07-05 19:54:43 UTC</a></sub>
 * [CAPSTONE suffers communications problem](https://spacenews.com/capstone-suffers-communications-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T184422">2022-07-05 18:44:22 UTC</a></sub>
 * [Northrop Grumman selects Airbus to supply satellite buses for U.S. military constellation](https://spacenews.com/northrop-grumman-selects-airbus-to-supply-satellite-buses-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T133424">2022-07-05 13:34:24 UTC</a></sub>
-* [Russian astronauts use space station to promote anti-Ukraine propaganda](https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T123857">2022-07-05 12:38:57 UTC</a></sub>
-* [Kongsberg to acquire majority stake in NanoAvionics](https://spacenews.com/kongsberg-to-acquire-majority-stake-in-nanoavionics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T113425">2022-07-05 11:34:25 UTC</a></sub>
-* [SpaceX sends Starship prototype to launch pad after engine installation](https://www.teslarati.com/spacex-starship-s24-nears-static-fire-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T045522">2022-07-05 04:55:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T220342">2022-07-06 22:03:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T223653">2022-07-06 22:36:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
