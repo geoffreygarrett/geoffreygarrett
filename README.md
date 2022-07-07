@@ -179,6 +179,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink Maritime is now available for ocean-going vessels.](https://www.teslarati.com/starlink-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T233551">2022-07-07 23:35:51 UTC</a></sub>
+* [Space Force coming to grips with cybersecurity threats](https://spacenews.com/space-force-coming-to-grips-with-cybersecurity-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T230528">2022-07-07 23:05:28 UTC</a></sub>
+* [NASA rebukes Russian use of space station for propaganda purposes [Updated]](https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T223057">2022-07-07 22:30:57 UTC</a></sub>
 * [ESA studies options for Vega C upper stage engine ahead of first launch](https://spacenews.com/esa-studies-options-for-vega-c-upper-stage-engine-ahead-of-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T222529">2022-07-07 22:25:29 UTC</a></sub>
 * [Dish says SpaceX’s Starlink 5G interference study is flawed](https://spacenews.com/dish-says-spacexs-starlink-5g-interference-study-is-flawed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T220528">2022-07-07 22:05:28 UTC</a></sub>
 * [Space Force effort to open doors to private sector is a slow go](https://spacenews.com/space-force-effort-to-open-doors-to-private-sector-is-a-slow-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T212528">2022-07-07 21:25:28 UTC</a></sub>
@@ -186,9 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Stellar Ventures unveils $23 million early-stage fund](https://spacenews.com/introducing-stellar-ventures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T160533">2022-07-07 16:05:33 UTC</a></sub>
 * [Defense Innovation Unit selects contractors to build hybrid space network](https://spacenews.com/defense-innovation-unit-selects-contractors-to-build-hybrid-space-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140531">2022-07-07 14:05:31 UTC</a></sub>
 * [Even the Webb telescope’s engineering test images manage to wow](https://arstechnica.com/science/2022/07/even-the-webb-telescopes-engineering-test-images-manage-to-wow/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T132107">2022-07-07 13:21:07 UTC</a></sub>
-* [SpaceX opens busy second half of 2022 with Starlink launch](https://www.nasaspaceflight.com/2022/07/starlink-4-21-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T104729">2022-07-07 10:47:29 UTC</a></sub>
-* [CAPSTONE communications restored](https://spacenews.com/capstone-communications-restored/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T222459">2022-07-06 22:24:59 UTC</a></sub>
-* [Satellite companies watching where DoD goes with 5G](https://spacenews.com/satellite-companies-watching-where-dod-goes-with-5g/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T220459">2022-07-06 22:04:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T230404">2022-07-07 23:04:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T233631">2022-07-07 23:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
