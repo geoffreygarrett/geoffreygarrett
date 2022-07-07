@@ -187,9 +187,9 @@ region. The mission's status is currently Go for Launch
 * [Virgin Galactic selects Aurora Flight Sciences to build new motherships](https://spacenews.com/virgin-galactic-selects-aurora-flight-sciences-to-build-new-motherships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T201500">2022-07-06 20:15:00 UTC</a></sub>
 * [L3Harris makes strategic investment in Mynaric](https://spacenews.com/l3harris-makes-strategic-investment-in-mynaric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T110458">2022-07-06 11:04:58 UTC</a></sub>
 * [New launch vehicles set for test flights from China’s Jiuquan spaceport](https://spacenews.com/new-launch-vehicles-set-for-test-flights-from-chinas-jiuquan-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T092458">2022-07-06 09:24:58 UTC</a></sub>
+* [World’s rockets on pace for record year of launch activity](https://spaceflightnow.com/2022/07/06/worlds-rockets-on-pace-for-record-year-of-launch-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T060524">2022-07-06 06:05:24 UTC</a></sub>
 * [SpaceX closing in on South Korean Moon launch](https://www.teslarati.com/spacex-south-korea-moon-launch-preparations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T050548">2022-07-06 05:05:48 UTC</a></sub>
 * [Tesla’s Solar Range Extender with Starlink prototype could save lives during disasters](https://www.teslarati.com/teslas-solar-range-extender-with-starlink-prototype-could-save-lives-during-disasters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T195443">2022-07-05 19:54:43 UTC</a></sub>
-* [CAPSTONE suffers communications problem](https://spacenews.com/capstone-suffers-communications-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T184422">2022-07-05 18:44:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T060758">2022-07-07 06:07:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T064426">2022-07-07 06:44:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
