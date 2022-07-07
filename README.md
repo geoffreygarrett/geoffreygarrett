@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to start off busy second half of 2022 with Starlink launch](https://www.nasaspaceflight.com/2022/07/starlink-4-21-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T104729">2022-07-07 10:47:29 UTC</a></sub>
 * [CAPSTONE communications restored](https://spacenews.com/capstone-communications-restored/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T222459">2022-07-06 22:24:59 UTC</a></sub>
 * [Satellite companies watching where DoD goes with 5G](https://spacenews.com/satellite-companies-watching-where-dod-goes-with-5g/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T220459">2022-07-06 22:04:59 UTC</a></sub>
 * [Communications established with payload on stabilized PSLV upper stage](https://spacenews.com/communications-established-with-payload-on-stabilized-pslv-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T215500">2022-07-06 21:55:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [New launch vehicles set for test flights from China’s Jiuquan spaceport](https://spacenews.com/new-launch-vehicles-set-for-test-flights-from-chinas-jiuquan-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T092458">2022-07-06 09:24:58 UTC</a></sub>
 * [SpaceX to continue Starlink network deployment with Thursday launch](https://spaceflightnow.com/2022/07/06/spacex-to-continue-starlink-network-deployment-with-thursday-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T064523">2022-07-06 06:45:23 UTC</a></sub>
 * [World’s rockets on pace for record year of launch activity](https://spaceflightnow.com/2022/07/06/worlds-rockets-on-pace-for-record-year-of-launch-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T060524">2022-07-06 06:05:24 UTC</a></sub>
-* [SpaceX closing in on South Korean Moon launch](https://www.teslarati.com/spacex-south-korea-moon-launch-preparations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T050548">2022-07-06 05:05:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T104020">2022-07-07 10:40:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T111231">2022-07-07 11:12:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
