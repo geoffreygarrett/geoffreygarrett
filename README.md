@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Updates Coverage for Webb Telescope’s First Images Reveal](http://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T192500">2022-07-07 19:25:00 UTC</a></sub>
 * [Stellar Ventures unveils $23 million early-stage fund](https://spacenews.com/introducing-stellar-ventures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T160533">2022-07-07 16:05:33 UTC</a></sub>
 * [Defense Innovation Unit selects contractors to build hybrid space network](https://spacenews.com/defense-innovation-unit-selects-contractors-to-build-hybrid-space-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140531">2022-07-07 14:05:31 UTC</a></sub>
 * [Even the Webb telescope’s engineering test images manage to wow](https://arstechnica.com/science/2022/07/even-the-webb-telescopes-engineering-test-images-manage-to-wow/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T132107">2022-07-07 13:21:07 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Communications established with payload on stabilized PSLV upper stage](https://spacenews.com/communications-established-with-payload-on-stabilized-pslv-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T215500">2022-07-06 21:55:00 UTC</a></sub>
 * [Looking to the future, Virgin Galactic purchases 2 more motherships](https://arstechnica.com/science/2022/07/looking-to-the-future-virgin-galactic-purchases-2-more-motherships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T211347">2022-07-06 21:13:47 UTC</a></sub>
 * [Virgin Galactic selects Aurora Flight Sciences to build new motherships](https://spacenews.com/virgin-galactic-selects-aurora-flight-sciences-to-build-new-motherships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T201500">2022-07-06 20:15:00 UTC</a></sub>
-* [L3Harris makes strategic investment in Mynaric](https://spacenews.com/l3harris-makes-strategic-investment-in-mynaric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T110458">2022-07-06 11:04:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T190213">2022-07-07 19:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T193110">2022-07-07 19:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
