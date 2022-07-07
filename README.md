@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Defense Innovation Unit selects contractors to build hybrid space network](https://spacenews.com/defense-innovation-unit-selects-contractors-to-build-hybrid-space-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140531">2022-07-07 14:05:31 UTC</a></sub>
 * [Even the Webb telescope’s engineering test images manage to wow](https://arstechnica.com/science/2022/07/even-the-webb-telescopes-engineering-test-images-manage-to-wow/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T132107">2022-07-07 13:21:07 UTC</a></sub>
 * [SpaceX opens busy second half of 2022 with Starlink launch](https://www.nasaspaceflight.com/2022/07/starlink-4-21-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T104729">2022-07-07 10:47:29 UTC</a></sub>
 * [CAPSTONE communications restored](https://spacenews.com/capstone-communications-restored/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T222459">2022-07-06 22:24:59 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Virgin Galactic selects Aurora Flight Sciences to build new motherships](https://spacenews.com/virgin-galactic-selects-aurora-flight-sciences-to-build-new-motherships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T201500">2022-07-06 20:15:00 UTC</a></sub>
 * [L3Harris makes strategic investment in Mynaric](https://spacenews.com/l3harris-makes-strategic-investment-in-mynaric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T110458">2022-07-06 11:04:58 UTC</a></sub>
 * [New launch vehicles set for test flights from China’s Jiuquan spaceport](https://spacenews.com/new-launch-vehicles-set-for-test-flights-from-chinas-jiuquan-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T092458">2022-07-06 09:24:58 UTC</a></sub>
-* [SpaceX to continue Starlink network deployment with Thursday launch](https://spaceflightnow.com/2022/07/06/spacex-to-continue-starlink-network-deployment-with-thursday-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T064523">2022-07-06 06:45:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -199,6 +199,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The 2022 Student Rocket Launch: Preparing for Liftoff!](https://blog.ulalaunch.com/blog/the-2022-student-rocket-launch-preparing-for-liftoff) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140612">2022-07-07 14:06:12 UTC</a></sub>
+* [Why this Ceres mission could change the search for alien life](https://www.planetary.org/articles/ceres-sample-return-mission-alien-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140555">2022-07-07 14:05:55 UTC</a></sub>
 * [Ingenuity, NASA’s Mars Helicopter](https://www.planetary.org/space-missions/ingenuity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T140446">2022-07-05 14:04:46 UTC</a></sub>
 * [USSF-12: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T232149">2022-07-02 23:21:49 UTC</a></sub>
 * [Planetary accessorizing](https://www.planetary.org/the-downlink/planetary-accessorizing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T143142">2022-07-01 14:31:42 UTC</a></sub>
@@ -207,8 +209,6 @@ region. The mission's status is currently To Be Confirmed
 * [RocketStars: Gleba's job powers WFOV during launch](https://blog.ulalaunch.com/blog/rocketstars-glebas-job-powers-wfov-during-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T130154">2022-06-27 13:01:54 UTC</a></sub>
 * [Defend your planet](https://www.planetary.org/the-downlink/defend-your-planet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T143227">2022-06-24 14:32:27 UTC</a></sub>
 * [LightSail 2 getting lower as it completes third year in space](https://www.planetary.org/articles/lightsail-2-third-anniversary-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T140227">2022-06-24 14:02:27 UTC</a></sub>
-* [RocketStars: Ly brings together requirements for USSF-12 launch](https://blog.ulalaunch.com/blog/rocketstars-ly-brings-together-requirements-for-ussf-12-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T132339">2022-06-24 13:23:39 UTC</a></sub>
-* [How do planets get rings?](https://www.planetary.org/articles/how-do-planets-get-rings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T140329">2022-06-21 14:03:29 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140717">2022-07-07 14:07:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T143446">2022-07-07 14:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
