@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis 1 launch team overcomes obstacles to complete WDR test objectives](https://www.nasaspaceflight.com/2022/07/artemis-1-wdr-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T144402">2022-07-08 14:44:02 UTC</a></sub>
 * [Rocket Report: A Minotaur explodes after launch; Starship rolls to the pad](https://arstechnica.com/science/2022/07/rocket-report-a-minotaur-explodes-after-launch-starship-rolls-to-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T110044">2022-07-08 11:00:44 UTC</a></sub>
 * [Starlink Maritime is now available for ocean-going vessels.](https://www.teslarati.com/starlink-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T233551">2022-07-07 23:35:51 UTC</a></sub>
 * [Space Force coming to grips with cybersecurity threats](https://spacenews.com/space-force-coming-to-grips-with-cybersecurity-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T230528">2022-07-07 23:05:28 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Space Force effort to open doors to private sector is a slow go](https://spacenews.com/space-force-effort-to-open-doors-to-private-sector-is-a-slow-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T212528">2022-07-07 21:25:28 UTC</a></sub>
 * [NASA Updates Coverage for Webb Telescope’s First Images Reveal](http://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T192500">2022-07-07 19:25:00 UTC</a></sub>
 * [Stellar Ventures unveils $23 million early-stage fund](https://spacenews.com/introducing-stellar-ventures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T160533">2022-07-07 16:05:33 UTC</a></sub>
-* [Defense Innovation Unit selects contractors to build hybrid space network](https://spacenews.com/defense-innovation-unit-selects-contractors-to-build-hybrid-space-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140531">2022-07-07 14:05:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T150447">2022-07-08 15:04:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T154024">2022-07-08 15:40:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
