@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: A Minotaur explodes after launch; Starship rolls to the pad](https://arstechnica.com/science/2022/07/rocket-report-a-minotaur-explodes-after-launch-starship-rolls-to-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T110044">2022-07-08 11:00:44 UTC</a></sub>
 * [Starlink Maritime is now available for ocean-going vessels.](https://www.teslarati.com/starlink-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T233551">2022-07-07 23:35:51 UTC</a></sub>
 * [Space Force coming to grips with cybersecurity threats](https://spacenews.com/space-force-coming-to-grips-with-cybersecurity-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T230528">2022-07-07 23:05:28 UTC</a></sub>
 * [NASA rebukes Russian use of space station for propaganda purposes [Updated]](https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T223057">2022-07-07 22:30:57 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Updates Coverage for Webb Telescope’s First Images Reveal](http://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T192500">2022-07-07 19:25:00 UTC</a></sub>
 * [Stellar Ventures unveils $23 million early-stage fund](https://spacenews.com/introducing-stellar-ventures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T160533">2022-07-07 16:05:33 UTC</a></sub>
 * [Defense Innovation Unit selects contractors to build hybrid space network](https://spacenews.com/defense-innovation-unit-selects-contractors-to-build-hybrid-space-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140531">2022-07-07 14:05:31 UTC</a></sub>
-* [Even the Webb telescope’s engineering test images manage to wow](https://arstechnica.com/science/2022/07/even-the-webb-telescopes-engineering-test-images-manage-to-wow/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T132107">2022-07-07 13:21:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T110225">2022-07-08 11:02:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T113327">2022-07-08 11:33:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
