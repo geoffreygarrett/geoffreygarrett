@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japanese startup to demo robotic arm onboard ISS in 2023](https://spacenews.com/japanese-startup-to-demo-robotic-arm-onboard-iss-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T212530">2022-07-11 21:25:30 UTC</a></sub>
 * [Hyten: Space Force ‘hasn’t cracked the code’ on faster acquisitions](https://spacenews.com/hyten-space-force-hasnt-cracked-the-code-on-faster-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T194531">2022-07-11 19:45:31 UTC</a></sub>
 * [Watch live: President Biden to unveil first science image from Webb telescope](https://spaceflightnow.com/2022/07/11/webb-first-image/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T192524">2022-07-11 19:25:24 UTC</a></sub>
 * [NASA's Perseverance Scouts Mars Sample Return Campaign Landing Sites](https://mars.nasa.gov/news/9222/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T181500">2022-07-11 18:15:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX’s 50th dedicated Starlink mission begins filling new network layer](https://spaceflightnow.com/2022/07/11/spacexs-50th-dedicated-starlink-mission-begins-filling-new-network-layer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T064524">2022-07-11 06:45:24 UTC</a></sub>
 * [Astronomers eagerly await first images from the James Webb Space Telescope](https://spaceflightnow.com/2022/07/10/astronomers-eagerly-await-first-images-from-the-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T225524">2022-07-10 22:55:24 UTC</a></sub>
 * [CAPSTONE probe overcomes radio glitch on course for moon](https://spaceflightnow.com/2022/07/10/capstone-probe-overcomes-communications-glitch-on-course-for-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T175524">2022-07-10 17:55:24 UTC</a></sub>
-* [SpaceX launches first mission to third shell of Starlink constellation](https://www.nasaspaceflight.com/2022/07/starlink-3-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T172616">2022-07-10 17:26:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T210242">2022-07-11 21:02:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T213609">2022-07-11 21:36:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
