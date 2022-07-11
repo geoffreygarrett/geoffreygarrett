@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Black Brant IX | DEUCE at the
-<a href="https://en.wikipedia.org/wiki/Arnhem_Land#Economy">Suborbital Launch Ramp</a> in
-Arnhem Space Centre
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T105700">2022-07-11 10:57:00 UTC</a>. Until
-then, this launch pad will have seen 2
-out of 2 launches in this
+Long March 3B/E | Tianlian 2-03 at the
+<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 2 (LC-2)</a> in
+Xichang Satellite Launch Center, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T161900">2022-07-12 16:19:00 UTC</a>. Until
+then, this launch pad will have seen 89
+out of 171 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  The Dual-channel Extreme Ultraviolet Continuum Experiment (DEUCE) is a payload from the University of Colorado. its objective is to observe α Centauri A & B and measure a so-far unstudied part of their extreme ultraviolet light spectrum. These measurements are needed to model stars similar to and smaller than our Sun, as well as understand their effects on planetary atmospheres.
+  Tianlian is a Chinese data tracking and relay communications satellite series.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Black_Brant_(rocket)#Black_Brant_IX" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=-12.3892948,136.7903215" >
+  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> <b>DEUCE</b> from Arnhem Space Centre. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T105700">2022-07-11 10:57:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Black Brant IX | DEUCE&location=Arnhem Space Centre&dates=20220711T105700Z%2F20220711T144500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianlian 2-03</b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T161900">2022-07-12 16:19:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Tianlian 2-03&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20220712T161900Z%2F20220712T170400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NROL-162 (RASR-3)</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T050000">2022-07-13 05:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Wise One Looks Ahead (NROL-162)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220713T050000Z%2F20220713T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>LARES-2 (Maiden flight)</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T111300">2022-07-13 11:13:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | LARES-2 (Maiden flight)&location=Kourou, French Guiana&dates=20220713T111300Z%2F20220713T111300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -222,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T103936">2022-07-11 10:39:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T110336">2022-07-11 11:03:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
