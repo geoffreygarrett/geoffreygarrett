@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Department of Homeland Security publishes space policy](https://spacenews.com/department-of-homeland-security-publishes-space-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T113529">2022-07-11 11:35:29 UTC</a></sub>
+* [Richard Branson won the space tourism battle, but his company lost the war](https://arstechnica.com/science/2022/07/a-year-after-sir-richards-historic-flight-were-still-waiting-for-an-encore/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T112537">2022-07-11 11:25:37 UTC</a></sub>
 * [SpaceX’s 50th dedicated Starlink mission begins filling new network layer](https://spaceflightnow.com/2022/07/11/spacexs-50th-dedicated-starlink-mission-begins-filling-new-network-layer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T064524">2022-07-11 06:45:24 UTC</a></sub>
 * [Astronomers eagerly await first images from the James Webb Space Telescope](https://spaceflightnow.com/2022/07/10/astronomers-eagerly-await-first-images-from-the-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T225524">2022-07-10 22:55:24 UTC</a></sub>
 * [SpaceX launches first mission to third shell of Starlink constellation](https://www.nasaspaceflight.com/2022/07/starlink-3-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T172616">2022-07-10 17:26:16 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Elon Musk & Everyday Astronaut share detailed tour of SpaceX Raptor 2 engine](https://www.teslarati.com/elon-musk-detailed-tour-spacex-raptor-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220709T210547">2022-07-09 21:05:47 UTC</a></sub>
 * [Northrop Grumman gets $22 million Space Force contract to build small-satellite carrier bus](https://spacenews.com/northrop-grumman-gets-22-million-space-force-contract-to-build-small-satellite-carrier-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220709T175528">2022-07-09 17:55:28 UTC</a></sub>
 * [Second commercial Lynk Global satellite still looking for launch](https://spacenews.com/second-commercial-lynk-global-satellite-still-looking-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T203528">2022-07-08 20:35:28 UTC</a></sub>
-* [NASA Highlights Climate Research on Cargo Launch, Sets Coverage](http://www.nasa.gov/press-release/nasa-highlights-climate-research-on-cargo-launch-sets-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T181500">2022-07-08 18:15:00 UTC</a></sub>
-* [Artemis 1 launch team overcomes obstacles to complete WDR test objectives](https://www.nasaspaceflight.com/2022/07/artemis-1-wdr-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T144402">2022-07-08 14:44:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T113215">2022-07-11 11:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T121307">2022-07-11 12:13:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
