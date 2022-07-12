@@ -181,16 +181,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Earth imagery companies reimagine satellite tasking](https://spacenews.com/satellite-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
+* [BAE Systems delivers jam-resistant GPS receivers to Germany](https://spacenews.com/bae-systems-delivers-jam-resistant-gps-receivers-to-germany/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T130823">2022-07-12 13:08:23 UTC</a></sub>
+* [Space cybersecurity firm SpiderOak adds retired general Pawlikowski to its advisory board](https://spacenews.com/space-cybersecurity-firm-spideroak-adds-retired-general-pawlikowski-to-its-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T130823">2022-07-12 13:08:23 UTC</a></sub>
+* [China to target near-Earth object 2020 PN1 for asteroid deflection mission](https://spacenews.com/china-to-target-near-earth-object-2020-pn1-for-asteroid-deflection-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T121824">2022-07-12 12:18:24 UTC</a></sub>
 * [BlackSky and Esri unveil tasking through ArcGIS Online](https://spacenews.com/blacksky-esri-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
+* [Earth imagery companies reimagine satellite tasking](https://spacenews.com/satellite-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
 * [Starship booster test ends in fiery anomaly](https://spacenews.com/starship-booster-test-ends-in-fiery-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T093823">2022-07-12 09:38:23 UTC</a></sub>
 * [ABL static fires rocket for first orbital launch attempt](https://spacenews.com/abl-static-fires-rocket-for-first-orbital-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T085823">2022-07-12 08:58:23 UTC</a></sub>
 * [NASA releases first color image from James Webb Space Telescope](https://spacenews.com/nasa-releases-first-color-image-from-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T234527">2022-07-11 23:45:27 UTC</a></sub>
 * [Webb telescope peers deeper into the universe than ever before](https://spaceflightnow.com/2022/07/11/webb-first-image/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T232524">2022-07-11 23:25:24 UTC</a></sub>
 * [Webb’s first image reveals fine details of galaxies from billions of years ago](https://arstechnica.com/science/2022/07/webbs-first-light-reveals-a-plethora-of-galaxies-in-a-tiny-patch-of-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T230922">2022-07-11 23:09:22 UTC</a></sub>
-* [President Biden Reveals First Image from NASA’s Webb Telescope](http://www.nasa.gov/press-release/president-biden-reveals-first-image-from-nasa-s-webb-telescope) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T230500">2022-07-11 23:05:00 UTC</a></sub>
-* [Biden revela la primera imagen del telescopio Webb de la NASA](http://www.nasa.gov/press-release/biden-revela-la-primera-imagen-del-telescopio-webb-de-la-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T225500">2022-07-11 22:55:00 UTC</a></sub>
-* [Japanese startup to demo robotic arm onboard ISS in 2023](https://spacenews.com/japanese-startup-to-demo-robotic-arm-onboard-iss-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T212530">2022-07-11 21:25:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T121143">2022-07-12 12:11:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T131340">2022-07-12 13:13:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
