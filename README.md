@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Long March 3B/E | Tianlian 2-03 at the
-<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 2 (LC-2)</a> in
-Xichang Satellite Launch Center, People's Republic of China
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T161900">2022-07-12 16:19:00 UTC</a>. Until
-then, this launch pad will have seen 89
-out of 171 launches in this
+Electron | Wise One Looks Ahead (NROL-162) at the
+<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a> in
+Onenui Station, Mahia Peninsula, New Zealand
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T050000">2022-07-13 05:00:00 UTC</a>. Until
+then, this launch pad will have seen 25
+out of 27 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Tianlian is a Chinese data tracking and relay communications satellite series.
+  Classified payload for the US National Reconnaissance Office (NRO).
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
+  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianlian 2-03</b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T161900">2022-07-12 16:19:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Tianlian 2-03&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20220712T161900Z%2F20220712T170400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NROL-162 (RASR-3)</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T050000">2022-07-13 05:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Wise One Looks Ahead (NROL-162)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220713T050000Z%2F20220713T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>LARES-2 (Maiden flight)</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T111300">2022-07-13 11:13:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | LARES-2 (Maiden flight)&location=Kourou, French Guiana&dates=20220713T111300Z%2F20220713T111300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T004420">2022-07-15 00:44:20 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-25&location=Kennedy Space Center, FL, USA&dates=20220715T004420Z%2F20220715T004420Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -181,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Webb views the ‘cosmic cliffs’ of Carina Nebula](https://spaceflightnow.com/2022/07/12/webb-views-the-cosmic-cliffs-of-carina-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T161820">2022-07-12 16:18:20 UTC</a></sub>
+* [La NASA revela las primeras imágenes del telescopio Webb de un universo nunca antes visto](http://www.nasa.gov/press-release/la-nasa-revela-las-primeras-im-genes-del-telescopio-webb-de-un-universo-nunca-antes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154800">2022-07-12 15:48:00 UTC</a></sub>
+* [NASA Reveals Webb Telescope’s First Images of Unseen Universe](http://www.nasa.gov/press-release/nasa-reveals-webb-telescope-s-first-images-of-unseen-universe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154800">2022-07-12 15:48:00 UTC</a></sub>
+* [SpaceX starts testing its Super Heavy booster, and it’s “not good”](https://arstechnica.com/science/2022/07/spacex-starts-testing-its-super-heavy-booster-and-its-not-good/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154028">2022-07-12 15:40:28 UTC</a></sub>
 * [NRO space missions mark new level of US-Australia cooperation](https://spacenews.com/nro-space-missions-mark-new-level-of-us-australia-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T143825">2022-07-12 14:38:25 UTC</a></sub>
 * [Watch live: Scientists releasing more images from Webb telescope today](https://spaceflightnow.com/2022/07/12/webb-first-light/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T141820">2022-07-12 14:18:20 UTC</a></sub>
 * [BAE Systems delivers jam-resistant GPS receivers to Germany](https://spacenews.com/bae-systems-delivers-jam-resistant-gps-receivers-to-germany/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T130823">2022-07-12 13:08:23 UTC</a></sub>
 * [Space cybersecurity firm SpiderOak adds retired general Pawlikowski to its advisory board](https://spacenews.com/space-cybersecurity-firm-spideroak-adds-retired-general-pawlikowski-to-its-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T130823">2022-07-12 13:08:23 UTC</a></sub>
 * [China to target near-Earth object 2020 PN1 for asteroid deflection mission](https://spacenews.com/china-to-target-near-earth-object-2020-pn1-for-asteroid-deflection-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T121824">2022-07-12 12:18:24 UTC</a></sub>
-* [Earth imagery companies reimagine satellite tasking](https://spacenews.com/satellite-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
 * [BlackSky and Esri unveil tasking through ArcGIS Online](https://spacenews.com/blacksky-esri-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
-* [Starship booster test ends in fiery anomaly](https://spacenews.com/starship-booster-test-ends-in-fiery-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T093823">2022-07-12 09:38:23 UTC</a></sub>
-* [ABL static fires rocket for first orbital launch attempt](https://spacenews.com/abl-static-fires-rocket-for-first-orbital-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T085823">2022-07-12 08:58:23 UTC</a></sub>
-* [NASA releases first color image from James Webb Space Telescope](https://spacenews.com/nasa-releases-first-color-image-from-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T234527">2022-07-11 23:45:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T160658">2022-07-12 16:06:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T165521">2022-07-12 16:55:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
