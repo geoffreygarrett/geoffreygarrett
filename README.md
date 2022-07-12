@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA releases first color image from James Webb Space Telescope](https://spacenews.com/nasa-releases-first-color-image-from-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T234527">2022-07-11 23:45:27 UTC</a></sub>
 * [Webb telescope peers deeper into the universe than ever before](https://spaceflightnow.com/2022/07/11/webb-first-image/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T232524">2022-07-11 23:25:24 UTC</a></sub>
 * [Webb’s first image reveals fine details of galaxies from billions of years ago](https://arstechnica.com/science/2022/07/webbs-first-light-reveals-a-plethora-of-galaxies-in-a-tiny-patch-of-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T230922">2022-07-11 23:09:22 UTC</a></sub>
 * [President Biden Reveals First Image from NASA’s Webb Telescope](http://www.nasa.gov/press-release/president-biden-reveals-first-image-from-nasa-s-webb-telescope) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T230500">2022-07-11 23:05:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA's Perseverance Scouts Mars Sample Return Campaign Landing Sites](https://mars.nasa.gov/news/9222/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T181500">2022-07-11 18:15:00 UTC</a></sub>
 * [Space industry warned to prepare for impact from lurking recession](https://spacenews.com/space-industry-warned-to-prepare-for-impact-from-lurking-recession/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T175528">2022-07-11 17:55:28 UTC</a></sub>
 * [Department of Homeland Security publishes space policy](https://spacenews.com/department-of-homeland-security-publishes-space-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T113529">2022-07-11 11:35:29 UTC</a></sub>
-* [Richard Branson won the space tourism battle, but his company lost the war](https://arstechnica.com/science/2022/07/a-year-after-sir-richards-historic-flight-were-still-waiting-for-an-encore/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T112537">2022-07-11 11:25:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T233519">2022-07-11 23:35:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T003334">2022-07-12 00:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
