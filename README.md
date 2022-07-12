@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First JWST images excite and relieve astronomers](https://spacenews.com/first-jwst-images-excite-and-relieve-astronomers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T225823">2022-07-12 22:58:23 UTC</a></sub>
+* [Rocket Lab to launch first of two back-to-back missions for NRO](https://www.nasaspaceflight.com/2022/07/rocket-lab-wise-one-looks-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T223721">2022-07-12 22:37:21 UTC</a></sub>
 * [NASA unveils new “first light” images from Webb](https://spaceflightnow.com/2022/07/12/webb-first-light/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T221820">2022-07-12 22:18:20 UTC</a></sub>
 * [JWST teases new era in exoplanet astronomy](https://spaceflightnow.com/2022/07/12/jwst-teases-new-era-in-exoplanet-research/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T213819">2022-07-12 21:38:19 UTC</a></sub>
 * [OneWeb backs up Starlink 5G interference warning](https://spacenews.com/oneweb-backs-up-starlink-5g-interference-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T204825">2022-07-12 20:48:25 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Webb views the ‘cosmic cliffs’ of Carina Nebula](https://spaceflightnow.com/2022/07/12/webb-views-the-cosmic-cliffs-of-carina-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T161820">2022-07-12 16:18:20 UTC</a></sub>
 * [La NASA revela las primeras imágenes del telescopio Webb de un universo nunca antes visto](http://www.nasa.gov/press-release/la-nasa-revela-las-primeras-im-genes-del-telescopio-webb-de-un-universo-nunca-antes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154800">2022-07-12 15:48:00 UTC</a></sub>
 * [NASA Reveals Webb Telescope’s First Images of Unseen Universe](http://www.nasa.gov/press-release/nasa-reveals-webb-telescope-s-first-images-of-unseen-universe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154800">2022-07-12 15:48:00 UTC</a></sub>
-* [SpaceX starts testing its Super Heavy booster, and it’s “not good”](https://arstechnica.com/science/2022/07/spacex-starts-testing-its-super-heavy-booster-and-its-not-good/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154028">2022-07-12 15:40:28 UTC</a></sub>
-* [NRO space missions mark new level of US-Australia cooperation](https://spacenews.com/nro-space-missions-mark-new-level-of-us-australia-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T143825">2022-07-12 14:38:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T230507">2022-07-12 23:05:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T233541">2022-07-12 23:35:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
