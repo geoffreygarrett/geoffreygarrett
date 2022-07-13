@@ -181,6 +181,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Office of Space Commerce to start developing architecture for traffic management](https://spacenews.com/office-of-space-commerce-to-start-developing-architecture-for-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T224835">2022-07-13 22:48:35 UTC</a></sub>
 * [NASA Administrator Joins President Biden’s Cancer Cabinet](http://www.nasa.gov/press-release/nasa-administrator-joins-president-biden-s-cancer-cabinet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T221900">2022-07-13 22:19:00 UTC</a></sub>
 * [Second ViaSat-3 payload arrives in California for integration](https://spacenews.com/second-viasat-3-payload-arrives-in-california-for-integration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T203835">2022-07-13 20:38:35 UTC</a></sub>
 * [Air Force completes draft environmental review of U.S. Space Command candidate locations](https://spacenews.com/air-force-completes-draft-environmental-review-of-u-s-space-command-candidate-locations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T190837">2022-07-13 19:08:37 UTC</a></sub>
@@ -190,7 +191,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [As rumors swirl about his future, Russia’s space chief darkens his rhetoric](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T154433">2022-07-13 15:44:33 UTC</a></sub>
 * [Russia threatens ISS European robotic arm after ExoMars termination](https://spacenews.com/russia-threatens-iss-european-robotic-arm-after-exomars-termination/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T111838">2022-07-13 11:18:38 UTC</a></sub>
 * [ESA launches upgraded Vega-C rocket on first mission](https://www.nasaspaceflight.com/2022/07/vega-c-debut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T110747">2022-07-13 11:07:47 UTC</a></sub>
-* [NASA sees JWST success helping win agency support and funding](https://spacenews.com/nasa-sees-jwst-success-helping-win-agency-support-and-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T082844">2022-07-13 08:28:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T230306">2022-07-13 23:03:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T233558">2022-07-13 23:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
