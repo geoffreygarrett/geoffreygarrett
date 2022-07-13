@@ -181,6 +181,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Air Force completes draft environmental review of U.S. Space Command candidate locations](https://spacenews.com/air-force-completes-draft-environmental-review-of-u-s-space-command-candidate-locations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T190837">2022-07-13 19:08:37 UTC</a></sub>
 * [NASA, ESA, CSA release historic first images from the James Webb Space Telescope](https://www.nasaspaceflight.com/2022/07/webb-first-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T164621">2022-07-13 16:46:21 UTC</a></sub>
 * [Decade of Excellence: NASA Named Best Place to Work 10th Year in a Row](http://www.nasa.gov/press-release/decade-of-excellence-nasa-named-best-place-to-work-10th-year-in-a-row) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T162800">2022-07-13 16:28:00 UTC</a></sub>
 * [Vega C lifts off on maiden flight](https://spacenews.com/vega-c-lifts-off-on-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T160849">2022-07-13 16:08:49 UTC</a></sub>
@@ -190,7 +191,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [NASA sees JWST success helping win agency support and funding](https://spacenews.com/nasa-sees-jwst-success-helping-win-agency-support-and-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T082844">2022-07-13 08:28:44 UTC</a></sub>
 * [Analysis: Space Force budget growth could be short lived](https://spacenews.com/analysis-space-force-budget-growth-could-be-short-lived/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T080842">2022-07-13 08:08:42 UTC</a></sub>
 * [First JWST images excite and relieve astronomers](https://spacenews.com/first-jwst-images-excite-and-relieve-astronomers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T225823">2022-07-12 22:58:23 UTC</a></sub>
-* [Rocket Lab launches first of two back-to-back missions for NRO](https://www.nasaspaceflight.com/2022/07/rocket-lab-wise-one-looks-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T223721">2022-07-12 22:37:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T190255">2022-07-13 19:02:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T193114">2022-07-13 19:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
