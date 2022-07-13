@@ -135,6 +135,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Wentian</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T061200">2022-07-24 06:12:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5B | Wentian&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220724T061200Z%2F20220724T062900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> <b><name missing></b> from Uchinoura Space Center, Japan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Epsilon | RAISE-3 &amp; Others&location=Uchinoura Space Center, Japan&dates=20220731T000000Z%2F20220731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Maiden Flight&location=Cape Canaveral, FL, USA&dates=20220731T000000Z%2F20220731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-25</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-25&location=Kennedy Space Center, FL, USA&dates=20220731T000000Z%2F20220731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -180,16 +181,16 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Vega-C lifts off on maiden flight](https://spacenews.com/vega-c-lifts-off-on-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T133837">2022-07-13 13:38:37 UTC</a></sub>
+* [NASA, ESA, CSA release historic first images from the James Webb Space Telescope](https://www.nasaspaceflight.com/2022/07/webb-first-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T164621">2022-07-13 16:46:21 UTC</a></sub>
+* [Decade of Excellence: NASA Named Best Place to Work 10th Year in a Row](http://www.nasa.gov/press-release/decade-of-excellence-nasa-named-best-place-to-work-10th-year-in-a-row) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T162800">2022-07-13 16:28:00 UTC</a></sub>
+* [Vega C lifts off on maiden flight](https://spacenews.com/vega-c-lifts-off-on-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T160849">2022-07-13 16:08:49 UTC</a></sub>
+* [As rumors swirl about his future, Russia’s space chief darkens his rhetoric](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T154433">2022-07-13 15:44:33 UTC</a></sub>
 * [Russia threatens ISS European robotic arm after ExoMars termination](https://spacenews.com/russia-threatens-iss-european-robotic-arm-after-exomars-termination/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T111838">2022-07-13 11:18:38 UTC</a></sub>
 * [ESA launches upgraded Vega-C rocket on first mission](https://www.nasaspaceflight.com/2022/07/vega-c-debut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T110747">2022-07-13 11:07:47 UTC</a></sub>
 * [NASA sees JWST success helping win agency support and funding](https://spacenews.com/nasa-sees-jwst-success-helping-win-agency-support-and-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T082844">2022-07-13 08:28:44 UTC</a></sub>
 * [Analysis: Space Force budget growth could be short lived](https://spacenews.com/analysis-space-force-budget-growth-could-be-short-lived/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T080842">2022-07-13 08:08:42 UTC</a></sub>
 * [First JWST images excite and relieve astronomers](https://spacenews.com/first-jwst-images-excite-and-relieve-astronomers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T225823">2022-07-12 22:58:23 UTC</a></sub>
 * [Rocket Lab launches first of two back-to-back missions for NRO](https://www.nasaspaceflight.com/2022/07/rocket-lab-wise-one-looks-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T223721">2022-07-12 22:37:21 UTC</a></sub>
-* [JWST teases new era in exoplanet astronomy](https://spaceflightnow.com/2022/07/12/jwst-teases-new-era-in-exoplanet-research/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T213819">2022-07-12 21:38:19 UTC</a></sub>
-* [OneWeb backs up Starlink 5G interference warning](https://spacenews.com/oneweb-backs-up-starlink-5g-interference-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T204825">2022-07-12 20:48:25 UTC</a></sub>
-* [A dying star through the eyes of the James Webb Space Telescope](https://spaceflightnow.com/2022/07/12/a-dying-star-through-the-eyes-of-the-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T190819">2022-07-12 19:08:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +223,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T160721">2022-07-13 16:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T165655">2022-07-13 16:56:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
