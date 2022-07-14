@@ -183,6 +183,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX and NASA set to launch CRS-25 mission to the ISS](https://www.nasaspaceflight.com/2022/07/spacex-crs-25-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T152131">2022-07-14 15:21:31 UTC</a></sub>
 * [China prepares for July 24 launch of second space station module](https://spacenews.com/china-prepares-for-july-24-launch-of-second-space-station-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T131840">2022-07-14 13:18:40 UTC</a></sub>
 * [NASA and Roscosmos nearing completion of seat barter agreement](https://spacenews.com/nasa-and-roscosmos-nearing-completion-of-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T114842">2022-07-14 11:48:42 UTC</a></sub>
 * [Office of Space Commerce to start developing architecture for traffic management](https://spacenews.com/office-of-space-commerce-to-start-developing-architecture-for-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T224835">2022-07-13 22:48:35 UTC</a></sub>
@@ -192,7 +193,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [NASA, ESA, CSA release historic first images from the James Webb Space Telescope](https://www.nasaspaceflight.com/2022/07/webb-first-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T164621">2022-07-13 16:46:21 UTC</a></sub>
 * [Decade of Excellence: NASA Named Best Place to Work 10th Year in a Row](http://www.nasa.gov/press-release/decade-of-excellence-nasa-named-best-place-to-work-10th-year-in-a-row) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T162800">2022-07-13 16:28:00 UTC</a></sub>
 * [Vega C lifts off on maiden flight](https://spacenews.com/vega-c-lifts-off-on-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T160849">2022-07-13 16:08:49 UTC</a></sub>
-* [As rumors swirl about his future, Russia’s space chief darkens his rhetoric](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T154433">2022-07-13 15:44:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T150356">2022-07-14 15:03:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T154238">2022-07-14 15:42:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
