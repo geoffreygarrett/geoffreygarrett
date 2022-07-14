@@ -137,6 +137,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-25</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-25&location=Kennedy Space Center, FL, USA&dates=20220731T000000Z%2F20220731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>SSLV Demo 1</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | EOS-02 (Microsat-2A) (Demo 1)&location=Sriharikota, Republic of India&dates=20220731T000000Z%2F20220731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Maiden Flight</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220731T000000Z%2F20220731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NROL-91</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T000000">2022-08-01 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-91&location=Vandenberg SFB, CA, USA&dates=20220801T000000Z%2F20220801T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -182,6 +183,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China prepares for July 24 launch of second space station module](https://spacenews.com/china-prepares-for-july-24-launch-of-second-space-station-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T131840">2022-07-14 13:18:40 UTC</a></sub>
 * [NASA and Roscosmos nearing completion of seat barter agreement](https://spacenews.com/nasa-and-roscosmos-nearing-completion-of-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T114842">2022-07-14 11:48:42 UTC</a></sub>
 * [Office of Space Commerce to start developing architecture for traffic management](https://spacenews.com/office-of-space-commerce-to-start-developing-architecture-for-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T224835">2022-07-13 22:48:35 UTC</a></sub>
 * [NASA Administrator Joins President Biden’s Cancer Cabinet](http://www.nasa.gov/press-release/nasa-administrator-joins-president-biden-s-cancer-cabinet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T221900">2022-07-13 22:19:00 UTC</a></sub>
@@ -191,7 +193,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Decade of Excellence: NASA Named Best Place to Work 10th Year in a Row](http://www.nasa.gov/press-release/decade-of-excellence-nasa-named-best-place-to-work-10th-year-in-a-row) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T162800">2022-07-13 16:28:00 UTC</a></sub>
 * [Vega C lifts off on maiden flight](https://spacenews.com/vega-c-lifts-off-on-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T160849">2022-07-13 16:08:49 UTC</a></sub>
 * [As rumors swirl about his future, Russia’s space chief darkens his rhetoric](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T154433">2022-07-13 15:44:33 UTC</a></sub>
-* [Russia threatens ISS European robotic arm after ExoMars termination](https://spacenews.com/russia-threatens-iss-european-robotic-arm-after-exomars-termination/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T111838">2022-07-13 11:18:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +225,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T130752">2022-07-14 13:07:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T135521">2022-07-14 13:55:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
