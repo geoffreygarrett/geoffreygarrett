@@ -186,7 +186,7 @@ region. The mission's status is currently Go for Launch
 * [GeoOptics, PlanetIQ and Spire to supply NOAA with space weather data](https://spacenews.com/noaa-cwdp-space-weather/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T210841">2022-07-14 21:08:41 UTC</a></sub>
 * [SpaceX ready to launch space station resupply mission after five-week delay](https://spaceflightnow.com/2022/07/14/spacex-ready-to-launch-space-station-resupply-mission-after-five-week-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T202824">2022-07-14 20:28:24 UTC</a></sub>
 * [National Reconnaissance Office seeks proposals from commercial providers of RF space imagery](https://spacenews.com/national-reconnaissance-office-seeks-proposals-from-commercial-rf-space-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T190834">2022-07-14 19:08:34 UTC</a></sub>
-* [SpaceX and NASA set to launch CRS-25 mission to the ISS](https://www.nasaspaceflight.com/2022/07/spacex-crs-25-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T152131">2022-07-14 15:21:31 UTC</a></sub>
+* [SpaceX and NASA launch CRS-25 mission to the ISS](https://www.nasaspaceflight.com/2022/07/spacex-crs-25-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T152131">2022-07-14 15:21:31 UTC</a></sub>
 * [China prepares for July 24 launch of second space station module](https://spacenews.com/china-prepares-for-july-24-launch-of-second-space-station-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T131840">2022-07-14 13:18:40 UTC</a></sub>
 * [NASA and Roscosmos nearing completion of seat barter agreement](https://spacenews.com/nasa-and-roscosmos-nearing-completion-of-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T114842">2022-07-14 11:48:42 UTC</a></sub>
 * [SpaceX sends Dragon to space station for 30th launch of 2022](https://www.teslarati.com/spacex-cargo-dragon-crs-25-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T031118">2022-07-14 03:11:18 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T031236">2022-07-15 03:12:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T044255">2022-07-15 04:42:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
