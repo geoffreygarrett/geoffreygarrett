@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Registration Now Open for NASA 2022 International Space Apps Challenge](http://www.nasa.gov/press-release/registration-now-open-for-nasa-2022-international-space-apps-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T151000">2022-07-15 15:10:00 UTC</a></sub>
 * [The trampoline is now international: NASA and Roscosmos agree to seat swap](https://arstechnica.com/science/2022/07/its-official-a-russian-cosmonaut-will-fly-on-crew-dragon-this-fall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T140056">2022-07-15 14:00:56 UTC</a></sub>
 * [Dmitry Rogozin has been dismissed as director general of Roscosmos [Updated]](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T123033">2022-07-15 12:30:33 UTC</a></sub>
 * [Virgin Galactic selects Arizona for spaceplane manufacturing facility](https://spacenews.com/virgin-galactic-selects-arizona-for-spaceplane-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T114010">2022-07-15 11:40:10 UTC</a></sub>
 * [Rocket Report: Vega-C is a sight to see; will Europe push SpaceX aside?](https://arstechnica.com/science/2022/07/rocket-report-vega-c-is-a-sight-to-see-will-europe-push-spacex-aside/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T113050">2022-07-15 11:30:50 UTC</a></sub>
-* [A common ground system for military satellites is proving to be harder than envisioned](https://spacenews.com/a-common-ground-system-for-military-satellites-is-proving-to-be-harder-than-envisioned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
-* [NASA division proposing program to send scientists to ISS](https://spacenews.com/nasa-division-proposing-program-to-send-scientists-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
 * [Georgia approves Starlink services in Eastern Europe](https://spacenews.com/georgia-approves-starlink-services-in-eastern-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
+* [NASA division proposing program to send scientists to ISS](https://spacenews.com/nasa-division-proposing-program-to-send-scientists-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
+* [A common ground system for military satellites is proving to be harder than envisioned](https://spacenews.com/a-common-ground-system-for-military-satellites-is-proving-to-be-harder-than-envisioned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
 * [GeoOptics, PlanetIQ and Spire to supply NOAA with space weather data](https://spacenews.com/noaa-cwdp-space-weather/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T210841">2022-07-14 21:08:41 UTC</a></sub>
 * [SpaceX ready to launch space station resupply mission after five-week delay](https://spaceflightnow.com/2022/07/14/spacex-ready-to-launch-space-station-resupply-mission-after-five-week-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T202824">2022-07-14 20:28:24 UTC</a></sub>
-* [National Reconnaissance Office seeks proposals from commercial providers of RF space imagery](https://spacenews.com/national-reconnaissance-office-seeks-proposals-from-commercial-rf-space-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T190834">2022-07-14 19:08:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T150333">2022-07-15 15:03:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T154137">2022-07-15 15:41:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
