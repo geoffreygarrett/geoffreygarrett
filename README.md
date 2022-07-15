@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Dmitry Rogozin has been dismissed as director general of Roscosmos [Updated]](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T123033">2022-07-15 12:30:33 UTC</a></sub>
 * [Virgin Galactic selects Arizona for spaceplane manufacturing facility](https://spacenews.com/virgin-galactic-selects-arizona-for-spaceplane-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T114010">2022-07-15 11:40:10 UTC</a></sub>
 * [Rocket Report: Vega-C is a sight to see; will Europe push SpaceX aside?](https://arstechnica.com/science/2022/07/rocket-report-vega-c-is-a-sight-to-see-will-europe-push-spacex-aside/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T113050">2022-07-15 11:30:50 UTC</a></sub>
 * [A common ground system for military satellites is proving to be harder than envisioned](https://spacenews.com/a-common-ground-system-for-military-satellites-is-proving-to-be-harder-than-envisioned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX ready to launch space station resupply mission after five-week delay](https://spaceflightnow.com/2022/07/14/spacex-ready-to-launch-space-station-resupply-mission-after-five-week-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T202824">2022-07-14 20:28:24 UTC</a></sub>
 * [National Reconnaissance Office seeks proposals from commercial providers of RF space imagery](https://spacenews.com/national-reconnaissance-office-seeks-proposals-from-commercial-rf-space-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T190834">2022-07-14 19:08:34 UTC</a></sub>
 * [SpaceX and NASA launch CRS-25 mission to the ISS](https://www.nasaspaceflight.com/2022/07/spacex-crs-25-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T152131">2022-07-14 15:21:31 UTC</a></sub>
-* [China prepares for July 24 launch of second space station module](https://spacenews.com/china-prepares-for-july-24-launch-of-second-space-station-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T131840">2022-07-14 13:18:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T121203">2022-07-15 12:12:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T131142">2022-07-15 13:11:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
