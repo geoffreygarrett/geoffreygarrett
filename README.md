@@ -192,7 +192,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [SpaceX and NASA set to launch CRS-25 mission to the ISS](https://www.nasaspaceflight.com/2022/07/spacex-crs-25-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T152131">2022-07-14 15:21:31 UTC</a></sub>
 * [China prepares for July 24 launch of second space station module](https://spacenews.com/china-prepares-for-july-24-launch-of-second-space-station-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T131840">2022-07-14 13:18:40 UTC</a></sub>
 * [NASA and Roscosmos nearing completion of seat barter agreement](https://spacenews.com/nasa-and-roscosmos-nearing-completion-of-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T114842">2022-07-14 11:48:42 UTC</a></sub>
-* [Office of Space Commerce to start developing architecture for traffic management](https://spacenews.com/office-of-space-commerce-to-start-developing-architecture-for-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T224835">2022-07-13 22:48:35 UTC</a></sub>
+* [House of Representatives passes 2023 defense authorization bill](https://spacenews.com/house-of-representatives-passes-2023-defense-authorization-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T001835">2022-07-14 00:18:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T233715">2022-07-14 23:37:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T003803">2022-07-15 00:38:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
