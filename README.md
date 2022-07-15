@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Elon Musk: “Tesla is to protect life on Earth”](https://www.teslarati.com/elon-musk-tesla-protect-life-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T171107">2022-07-15 17:11:07 UTC</a></sub>
 * [Rogozin removed as head of Roscosmos as seat barter agreement signed](https://spacenews.com/rogozin-removed-as-head-of-roscosmos-as-seat-barter-agreement-signed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T165012">2022-07-15 16:50:12 UTC</a></sub>
 * [We want to hear from you](https://spacenews.com/we-want-to-hear-from-you/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T164019">2022-07-15 16:40:19 UTC</a></sub>
 * [Registration Now Open for NASA 2022 International Space Apps Challenge](http://www.nasa.gov/press-release/registration-now-open-for-nasa-2022-international-space-apps-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T151000">2022-07-15 15:10:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Report: Vega-C is a sight to see; will Europe push SpaceX aside?](https://arstechnica.com/science/2022/07/rocket-report-vega-c-is-a-sight-to-see-will-europe-push-spacex-aside/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T113050">2022-07-15 11:30:50 UTC</a></sub>
 * [NASA division proposing program to send scientists to ISS](https://spacenews.com/nasa-division-proposing-program-to-send-scientists-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
 * [A common ground system for military satellites is proving to be harder than envisioned](https://spacenews.com/a-common-ground-system-for-military-satellites-is-proving-to-be-harder-than-envisioned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
-* [Georgia approves Starlink services in Eastern Europe](https://spacenews.com/georgia-approves-starlink-services-in-eastern-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T171825">2022-07-15 17:18:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T174244">2022-07-15 17:42:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
