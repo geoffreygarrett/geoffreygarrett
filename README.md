@@ -94,28 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Dragon CRS-2 SpX-25 at the
-<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a> in
-Kennedy Space Center, FL, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T004420">2022-07-15 00:44:20 UTC</a>. Until
-then, this launch pad will have seen 146
-out of 203 launches in this
+Long March 2C | Unknown Payload at the
+<a href="">Launch Complex 9</a> in
+Taiyuan, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T224300">2022-07-15 22:43:00 UTC</a>. Until
+then, this launch pad will have seen 34
+out of 108 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  25th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.
-
-Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.
+  
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.608+N,+80.604+W" >
+  <a href="http://maps.google.com/maps?q=38.849+N,+111.608+E" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -128,7 +126,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T004420">2022-07-15 00:44:20 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-25&location=Kennedy Space Center, FL, USA&dates=20220715T004420Z%2F20220715T004420Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Taiyuan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T224300">2022-07-15 22:43:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20220715T224300Z%2F20220715T230700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-22</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T145000">2022-07-17 14:50:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-22&location=Cape Canaveral, FL, USA&dates=20220717T145000Z%2F20220717T145000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 3-2</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T171300">2022-07-21 17:13:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-2&location=Vandenberg SFB, CA, USA&dates=20220721T171300Z%2F20220721T171300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -183,16 +180,16 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA division proposing program to send scientists to ISS](https://spacenews.com/nasa-division-proposing-program-to-send-scientists-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
 * [Georgia approves Starlink services in Eastern Europe](https://spacenews.com/georgia-approves-starlink-services-in-eastern-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
 * [A common ground system for military satellites is proving to be harder than envisioned](https://spacenews.com/a-common-ground-system-for-military-satellites-is-proving-to-be-harder-than-envisioned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
-* [NASA division proposing program to send scientists to ISS](https://spacenews.com/nasa-division-proposing-program-to-send-scientists-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
 * [GeoOptics, PlanetIQ and Spire to supply NOAA with space weather data](https://spacenews.com/noaa-cwdp-space-weather/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T210841">2022-07-14 21:08:41 UTC</a></sub>
 * [SpaceX ready to launch space station resupply mission after five-week delay](https://spaceflightnow.com/2022/07/14/spacex-ready-to-launch-space-station-resupply-mission-after-five-week-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T202824">2022-07-14 20:28:24 UTC</a></sub>
 * [National Reconnaissance Office seeks proposals from commercial providers of RF space imagery](https://spacenews.com/national-reconnaissance-office-seeks-proposals-from-commercial-rf-space-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T190834">2022-07-14 19:08:34 UTC</a></sub>
 * [SpaceX and NASA set to launch CRS-25 mission to the ISS](https://www.nasaspaceflight.com/2022/07/spacex-crs-25-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T152131">2022-07-14 15:21:31 UTC</a></sub>
 * [China prepares for July 24 launch of second space station module](https://spacenews.com/china-prepares-for-july-24-launch-of-second-space-station-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T131840">2022-07-14 13:18:40 UTC</a></sub>
 * [NASA and Roscosmos nearing completion of seat barter agreement](https://spacenews.com/nasa-and-roscosmos-nearing-completion-of-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T114842">2022-07-14 11:48:42 UTC</a></sub>
-* [House of Representatives passes 2023 defense authorization bill](https://spacenews.com/house-of-representatives-passes-2023-defense-authorization-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T001835">2022-07-14 00:18:35 UTC</a></sub>
+* [SpaceX sends Dragon to space station for 30th launch of 2022](https://www.teslarati.com/spacex-cargo-dragon-crs-25-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T031118">2022-07-14 03:11:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +222,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T003803">2022-07-15 00:38:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T031236">2022-07-15 03:12:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
