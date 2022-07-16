@@ -180,8 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX cargo ship delivers dust storm instrument to International Space Station](https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T162003">2022-07-16 16:20:03 UTC</a></sub>
 * [Cargo Dragon C208-3 arrives at Station loaded with science experiments](https://www.nasaspaceflight.com/2022/07/crs-25-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T152148">2022-07-16 15:21:48 UTC</a></sub>
-* [Watch live: SpaceX cargo ship on course for docking at International Space Station](https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T142003">2022-07-16 14:20:03 UTC</a></sub>
 * [SpaceX launches 25th Dragon resupply mission to space station](https://spaceflightnow.com/2022/07/15/spacex-launches-25th-dragon-resupply-mission-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T233004">2022-07-15 23:30:04 UTC</a></sub>
 * [NASA Administrator, Deputy to Attend Farnborough Airshow](http://www.nasa.gov/press-release/nasa-administrator-deputy-to-attend-farnborough-airshow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T205000">2022-07-15 20:50:00 UTC</a></sub>
 * [Elon Musk: “Tesla is to protect life on Earth”](https://www.teslarati.com/elon-musk-tesla-protect-life-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T171107">2022-07-15 17:11:07 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T160502">2022-07-16 16:05:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T164805">2022-07-16 16:48:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
