@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Saudi Arabia signs Artemis Accords](https://spacenews.com/saudi-arabia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T202014">2022-07-16 20:20:14 UTC</a></sub>
 * [SpaceX cargo ship delivers dust storm instrument to International Space Station](https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T162003">2022-07-16 16:20:03 UTC</a></sub>
 * [Cargo Dragon C208-3 arrives at Station loaded with science experiments](https://www.nasaspaceflight.com/2022/07/crs-25-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T152148">2022-07-16 15:21:48 UTC</a></sub>
 * [SpaceX launches 25th Dragon resupply mission to space station](https://spaceflightnow.com/2022/07/15/spacex-launches-25th-dragon-resupply-mission-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T233004">2022-07-15 23:30:04 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [We want to hear from you](https://spacenews.com/we-want-to-hear-from-you/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T164019">2022-07-15 16:40:19 UTC</a></sub>
 * [Russian space chief dismissed; NASA gets deal for joint crews](https://spaceflightnow.com/2022/07/15/russian-space-chief-dismissed-nasa-gets-deal-for-joint-crews/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T152002">2022-07-15 15:20:02 UTC</a></sub>
 * [Registration Now Open for NASA 2022 International Space Apps Challenge](http://www.nasa.gov/press-release/registration-now-open-for-nasa-2022-international-space-apps-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T151000">2022-07-15 15:10:00 UTC</a></sub>
-* [The trampoline is now international: NASA and Roscosmos agree to seat swap](https://arstechnica.com/science/2022/07/its-official-a-russian-cosmonaut-will-fly-on-crew-dragon-this-fall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T140056">2022-07-15 14:00:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T200332">2022-07-16 20:03:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T203459">2022-07-16 20:34:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
