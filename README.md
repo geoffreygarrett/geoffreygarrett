@@ -185,12 +185,12 @@ region. The mission's status is currently Go for Launch
 * [Saudi Arabia signs Artemis Accords](https://spacenews.com/saudi-arabia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T202014">2022-07-16 20:20:14 UTC</a></sub>
 * [SpaceX cargo ship delivers dust storm instrument to International Space Station](https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T162003">2022-07-16 16:20:03 UTC</a></sub>
 * [Cargo Dragon C208-3 arrives at Station loaded with science experiments](https://www.nasaspaceflight.com/2022/07/crs-25-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T152148">2022-07-16 15:21:48 UTC</a></sub>
+* [Weather iffy for SpaceX’s next Starlink launch Sunday](https://spaceflightnow.com/2022/07/16/weather-iffy-for-spacexs-next-starlink-launch-sunday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T034959">2022-07-16 03:49:59 UTC</a></sub>
 * [SpaceX launches 25th Dragon resupply mission to space station](https://spaceflightnow.com/2022/07/15/spacex-launches-25th-dragon-resupply-mission-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T233004">2022-07-15 23:30:04 UTC</a></sub>
 * [NASA Administrator, Deputy to Attend Farnborough Airshow](http://www.nasa.gov/press-release/nasa-administrator-deputy-to-attend-farnborough-airshow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T205000">2022-07-15 20:50:00 UTC</a></sub>
 * [Elon Musk: “Tesla is to protect life on Earth”](https://www.teslarati.com/elon-musk-tesla-protect-life-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T171107">2022-07-15 17:11:07 UTC</a></sub>
 * [Rogozin removed as head of Roscosmos as seat barter agreement signed](https://spacenews.com/rogozin-removed-as-head-of-roscosmos-as-seat-barter-agreement-signed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T165012">2022-07-15 16:50:12 UTC</a></sub>
 * [We want to hear from you](https://spacenews.com/we-want-to-hear-from-you/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T164019">2022-07-15 16:40:19 UTC</a></sub>
-* [Russian space chief dismissed; NASA gets deal for joint crews](https://spaceflightnow.com/2022/07/15/russian-space-chief-dismissed-nasa-gets-deal-for-joint-crews/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T152002">2022-07-15 15:20:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T030657">2022-07-17 03:06:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T040808">2022-07-17 04:08:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
