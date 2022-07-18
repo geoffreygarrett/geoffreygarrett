@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [L3Harris, Northrop Grumman to build 28 missile-tracking satellites for U.S. Space Development Agency](https://spacenews.com/l3harris-northrop-grumman-to-build-28-missile-tracking-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T190017">2022-07-18 19:00:17 UTC</a></sub>
 * [As Webb begins observing exoplanets, scientists use Spitzer data & brown dwarfs to reveal how silicate clouds form](https://www.nasaspaceflight.com/2022/07/spitzer-brown-dwarfs-silicate-clouds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T174312">2022-07-18 17:43:12 UTC</a></sub>
 * [SpaceX is now launching 10 rockets for every one by its main competitor](https://arstechnica.com/science/2022/07/spacex-just-matched-its-record-for-annual-launches-and-its-only-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T171750">2022-07-18 17:17:50 UTC</a></sub>
 * [Raytheon to acquire UK startup Northern Space and Security](https://spacenews.com/raytheon-to-acquire-uk-startup-northern-space-and-security/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T154008">2022-07-18 15:40:08 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year](https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T212003">2022-07-17 21:20:03 UTC</a></sub>
 * [SpaceX ties annual launch record seven months into 2022](https://www.teslarati.com/spacex-ties-annual-launch-record-seven-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T210106">2022-07-17 21:01:06 UTC</a></sub>
 * [Fourth shell of Starlink constellation reaches 1,000 satellites](https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T130046">2022-07-17 13:00:46 UTC</a></sub>
-* [Fireball sends SpaceX Super Heavy booster back to the factory](https://www.teslarati.com/spacex-super-heavy-booster-fireball-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T065117">2022-07-17 06:51:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T190228">2022-07-18 19:02:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T193109">2022-07-18 19:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
