@@ -200,6 +200,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Chandrayaan-1, India’s first Moon mission](https://www.planetary.org/space-missions/chandrayaan-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T140054">2022-07-18 14:00:54 UTC</a></sub>
 * [Love at first sights](https://www.planetary.org/the-downlink/love-at-first-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T143050">2022-07-15 14:30:50 UTC</a></sub>
 * [See JWST's amazing first science images](https://www.planetary.org/articles/james-webb-space-telescope-first-science-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T152841">2022-07-12 15:28:41 UTC</a></sub>
 * [See JWST’s first deep field image](https://www.planetary.org/articles/jwst-first-deep-field-image) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T223549">2022-07-11 22:35:49 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently To Be Confirmed
 * [Why this Ceres mission could change the search for alien life](https://www.planetary.org/articles/ceres-sample-return-mission-alien-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140555">2022-07-07 14:05:55 UTC</a></sub>
 * [Ingenuity, NASA’s Mars Helicopter](https://www.planetary.org/space-missions/ingenuity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T140446">2022-07-05 14:04:46 UTC</a></sub>
 * [USSF-12: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T232149">2022-07-02 23:21:49 UTC</a></sub>
-* [Planetary accessorizing](https://www.planetary.org/the-downlink/planetary-accessorizing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T143142">2022-07-01 14:31:42 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T135750">2022-07-18 13:57:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T145029">2022-07-18 14:50:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
