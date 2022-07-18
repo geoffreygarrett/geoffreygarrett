@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX is now launching 10 rockets for every one by its main competitor](https://arstechnica.com/science/2022/07/spacex-just-matched-its-record-for-annual-launches-and-its-only-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T171750">2022-07-18 17:17:50 UTC</a></sub>
 * [Raytheon to acquire UK startup Northern Space and Security](https://spacenews.com/raytheon-to-acquire-uk-startup-northern-space-and-security/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T154008">2022-07-18 15:40:08 UTC</a></sub>
 * [US-UK special relationship deepens in space](https://spacenews.com/us-uk-special-relationship-deepens-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T131012">2022-07-18 13:10:12 UTC</a></sub>
 * [UAE announces plans for radar satellite constellation and space fund](https://spacenews.com/uae-announces-plans-for-radar-satellite-constellation-and-space-fund/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T110015">2022-07-18 11:00:15 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Fourth shell of Starlink constellation reaches 1,000 satellites](https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T130046">2022-07-17 13:00:46 UTC</a></sub>
 * [Fireball sends SpaceX Super Heavy booster back to the factory](https://www.teslarati.com/spacex-super-heavy-booster-fireball-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T065117">2022-07-17 06:51:17 UTC</a></sub>
 * [Return To Space documentary nominated for an Emmy](https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T232100">2022-07-16 23:21:00 UTC</a></sub>
-* [Saudi Arabia signs Artemis Accords](https://spacenews.com/saudi-arabia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T202014">2022-07-16 20:20:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T171736">2022-07-18 17:17:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T174248">2022-07-18 17:42:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
