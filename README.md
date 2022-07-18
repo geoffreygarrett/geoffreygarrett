@@ -184,12 +184,12 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year](https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T212003">2022-07-17 21:20:03 UTC</a></sub>
 * [SpaceX ties annual launch record seven months into 2022](https://www.teslarati.com/spacex-ties-annual-launch-record-seven-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T210106">2022-07-17 21:01:06 UTC</a></sub>
 * [Fourth shell of Starlink constellation reaches 1,000 satellites](https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T130046">2022-07-17 13:00:46 UTC</a></sub>
+* [Fireball sends SpaceX Super Heavy booster back to the factory](https://www.teslarati.com/spacex-super-heavy-booster-fireball-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T065117">2022-07-17 06:51:17 UTC</a></sub>
 * [Return To Space documentary nominated for an Emmy](https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T232100">2022-07-16 23:21:00 UTC</a></sub>
 * [Saudi Arabia signs Artemis Accords](https://spacenews.com/saudi-arabia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T202014">2022-07-16 20:20:14 UTC</a></sub>
 * [SpaceX cargo ship delivers dust storm instrument to International Space Station](https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T162003">2022-07-16 16:20:03 UTC</a></sub>
 * [Cargo Dragon C208-3 arrives at Station loaded with science experiments](https://www.nasaspaceflight.com/2022/07/crs-25-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T152148">2022-07-16 15:21:48 UTC</a></sub>
 * [Weather iffy for SpaceX’s next Starlink launch Sunday](https://spaceflightnow.com/2022/07/16/weather-iffy-for-spacexs-next-starlink-launch-sunday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T034959">2022-07-16 03:49:59 UTC</a></sub>
-* [SpaceX launches 25th Dragon resupply mission to space station](https://spaceflightnow.com/2022/07/15/spacex-launches-25th-dragon-resupply-mission-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T233004">2022-07-15 23:30:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T070314">2022-07-18 07:03:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T073457">2022-07-18 07:34:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
