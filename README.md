@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DirecTV says 5G plan would degrade satellite TV reception](https://spacenews.com/directv-says-5g-plan-would-degrade-satellite-tv-reception/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T232020">2022-07-18 23:20:20 UTC</a></sub>
 * [Northrop Grumman taps Solstar for HALO Module Wi-Fi](https://spacenews.com/solstar-halo-wi-fi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T194009">2022-07-18 19:40:09 UTC</a></sub>
 * [L3Harris, Northrop Grumman to build 28 missile-tracking satellites for U.S. Space Development Agency](https://spacenews.com/l3harris-northrop-grumman-to-build-28-missile-tracking-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T190017">2022-07-18 19:00:17 UTC</a></sub>
 * [As Webb begins observing exoplanets, scientists use Spitzer data & brown dwarfs to reveal how silicate clouds form](https://www.nasaspaceflight.com/2022/07/spitzer-brown-dwarfs-silicate-clouds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T174312">2022-07-18 17:43:12 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [UAE announces plans for radar satellite constellation and space fund](https://spacenews.com/uae-announces-plans-for-radar-satellite-constellation-and-space-fund/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T110015">2022-07-18 11:00:15 UTC</a></sub>
 * [Firefly gears up for second Alpha launch](https://spacenews.com/firefly-gears-up-for-second-alpha-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T231014">2022-07-17 23:10:14 UTC</a></sub>
 * [SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year](https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T212003">2022-07-17 21:20:03 UTC</a></sub>
-* [SpaceX ties annual launch record seven months into 2022](https://www.teslarati.com/spacex-ties-annual-launch-record-seven-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T210106">2022-07-17 21:01:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T230306">2022-07-18 23:03:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T233528">2022-07-18 23:35:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
