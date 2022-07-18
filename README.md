@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [US-UK special relationship deepens in space](https://spacenews.com/us-uk-special-relationship-deepens-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T131012">2022-07-18 13:10:12 UTC</a></sub>
 * [UAE announces plans for radar satellite constellation and space fund](https://spacenews.com/uae-announces-plans-for-radar-satellite-constellation-and-space-fund/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T110015">2022-07-18 11:00:15 UTC</a></sub>
 * [Firefly gears up for second Alpha launch](https://spacenews.com/firefly-gears-up-for-second-alpha-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T231014">2022-07-17 23:10:14 UTC</a></sub>
 * [SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year](https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T212003">2022-07-17 21:20:03 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Return To Space documentary nominated for an Emmy](https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T232100">2022-07-16 23:21:00 UTC</a></sub>
 * [Saudi Arabia signs Artemis Accords](https://spacenews.com/saudi-arabia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T202014">2022-07-16 20:20:14 UTC</a></sub>
 * [SpaceX cargo ship delivers dust storm instrument to International Space Station](https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T162003">2022-07-16 16:20:03 UTC</a></sub>
-* [Cargo Dragon C208-3 arrives at Station loaded with science experiments](https://www.nasaspaceflight.com/2022/07/crs-25-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T152148">2022-07-16 15:21:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T121552">2022-07-18 12:15:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T135750">2022-07-18 13:57:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
