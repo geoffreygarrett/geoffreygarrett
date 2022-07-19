@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Microsoft reveals Azure Space Partner Community](https://spacenews.com/microsoft-azure-space-partner-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T151029">2022-07-19 15:10:29 UTC</a></sub>
 * [Two companies join SpaceX in the race to Mars, with a launch possible in 2024](https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T121543">2022-07-19 12:15:43 UTC</a></sub>
 * [Relativity to launch Impulse Space’s Mars Lander as early as 2024](https://www.nasaspaceflight.com/2022/07/relativity-impulse-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T121532">2022-07-19 12:15:32 UTC</a></sub>
 * [NASA delays VIPER lunar rover launch by a year](https://spacenews.com/nasa-delays-viper-lunar-rover-launch-by-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T111010">2022-07-19 11:10:10 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [L3Harris, Northrop Grumman to build 28 missile-tracking satellites for U.S. Space Development Agency](https://spacenews.com/l3harris-northrop-grumman-to-build-28-missile-tracking-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T190017">2022-07-18 19:00:17 UTC</a></sub>
 * [As Webb begins observing exoplanets, scientists use Spitzer data & brown dwarfs to reveal how silicate clouds form](https://www.nasaspaceflight.com/2022/07/spitzer-brown-dwarfs-silicate-clouds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T174312">2022-07-18 17:43:12 UTC</a></sub>
 * [SpaceX is now launching 10 rockets for every one by its main competitor](https://arstechnica.com/science/2022/07/spacex-just-matched-its-record-for-annual-launches-and-its-only-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T171750">2022-07-18 17:17:50 UTC</a></sub>
-* [Raytheon to acquire UK startup Northern Space and Security](https://spacenews.com/raytheon-to-acquire-uk-startup-northern-space-and-security/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T154008">2022-07-18 15:40:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T150427">2022-07-19 15:04:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T154232">2022-07-19 15:42:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
