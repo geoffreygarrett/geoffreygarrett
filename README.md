@@ -180,16 +180,16 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope](https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T215106">2022-07-19 21:51:06 UTC</a></sub>
 * [Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T211000">2022-07-19 21:10:00 UTC</a></sub>
-* [Oxford Space and SSTL unveil Wrapped Rib SAR antenna](https://spacenews.com/oss-sstl-wrapped-rib/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
 * [ESA funds Skimsat demonstrator study for VLEO](https://spacenews.com/esa-funds-skimsat-demonstrator-study-for-vleo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
+* [Oxford Space and SSTL unveil Wrapped Rib SAR antenna](https://spacenews.com/oss-sstl-wrapped-rib/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
 * [NASA Awards Launch Services Contract for Roman Space Telescope](http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-roman-space-telescope) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T201000">2022-07-19 20:10:00 UTC</a></sub>
 * [Microsoft reveals Azure Space Partner Community](https://spacenews.com/microsoft-azure-space-partner-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T151029">2022-07-19 15:10:29 UTC</a></sub>
 * [Two companies join SpaceX in the race to Mars, with a launch possible in 2024](https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T121543">2022-07-19 12:15:43 UTC</a></sub>
 * [Relativity to launch Impulse Space’s Mars Lander as early as 2024](https://www.nasaspaceflight.com/2022/07/relativity-impulse-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T121532">2022-07-19 12:15:32 UTC</a></sub>
 * [NASA delays VIPER lunar rover launch by a year](https://spacenews.com/nasa-delays-viper-lunar-rover-launch-by-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T111010">2022-07-19 11:10:10 UTC</a></sub>
 * [The Great British Lift-Off](https://spacenews.com/the-great-british-lift-off/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T061018">2022-07-19 06:10:18 UTC</a></sub>
-* [DirecTV says 5G plan would degrade satellite TV reception](https://spacenews.com/directv-says-5g-plan-would-degrade-satellite-tv-reception/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T232020">2022-07-18 23:20:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T220311">2022-07-19 22:03:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T223638">2022-07-19 22:36:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
