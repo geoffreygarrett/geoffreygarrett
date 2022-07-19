@@ -188,8 +188,8 @@ region. The mission's status is currently To Be Confirmed
 * [Raytheon to acquire UK startup Northern Space and Security](https://spacenews.com/raytheon-to-acquire-uk-startup-northern-space-and-security/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T154008">2022-07-18 15:40:08 UTC</a></sub>
 * [US-UK special relationship deepens in space](https://spacenews.com/us-uk-special-relationship-deepens-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T131012">2022-07-18 13:10:12 UTC</a></sub>
 * [UAE announces plans for radar satellite constellation and space fund](https://spacenews.com/uae-announces-plans-for-radar-satellite-constellation-and-space-fund/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T110015">2022-07-18 11:00:15 UTC</a></sub>
+* [Long March rocket launches two radar satellites for China Siwei](https://spaceflightnow.com/2022/07/18/long-march-rocket-launches-two-radar-satellites-for-china-siwei/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T041003">2022-07-18 04:10:03 UTC</a></sub>
 * [Firefly gears up for second Alpha launch](https://spacenews.com/firefly-gears-up-for-second-alpha-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T231014">2022-07-17 23:10:14 UTC</a></sub>
-* [SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year](https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T212003">2022-07-17 21:20:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T031544">2022-07-19 03:15:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T044831">2022-07-19 04:48:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
