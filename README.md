@@ -180,6 +180,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA funds Skimsat demonstrator study for VLEO](https://spacenews.com/esa-funds-skimsat-demonstrator-study-for-vleo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
+* [Oxford Space and SSTL unveil Wrapped Rib SAR antenna](https://spacenews.com/oss-sstl-wrapped-rib/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
+* [NASA Awards Launch Services Contract for Roman Space Telescope](http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-roman-space-telescope) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T201000">2022-07-19 20:10:00 UTC</a></sub>
 * [Microsoft reveals Azure Space Partner Community](https://spacenews.com/microsoft-azure-space-partner-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T151029">2022-07-19 15:10:29 UTC</a></sub>
 * [Two companies join SpaceX in the race to Mars, with a launch possible in 2024](https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T121543">2022-07-19 12:15:43 UTC</a></sub>
 * [Relativity to launch Impulse Space’s Mars Lander as early as 2024](https://www.nasaspaceflight.com/2022/07/relativity-impulse-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T121532">2022-07-19 12:15:32 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [The Great British Lift-Off](https://spacenews.com/the-great-british-lift-off/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T061018">2022-07-19 06:10:18 UTC</a></sub>
 * [DirecTV says 5G plan would degrade satellite TV reception](https://spacenews.com/directv-says-5g-plan-would-degrade-satellite-tv-reception/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T232020">2022-07-18 23:20:20 UTC</a></sub>
 * [Northrop Grumman taps Solstar for HALO Module Wi-Fi](https://spacenews.com/solstar-halo-wi-fi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T194009">2022-07-18 19:40:09 UTC</a></sub>
-* [L3Harris, Northrop Grumman to build 28 missile-tracking satellites for U.S. Space Development Agency](https://spacenews.com/l3harris-northrop-grumman-to-build-28-missile-tracking-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T190017">2022-07-18 19:00:17 UTC</a></sub>
-* [As Webb begins observing exoplanets, scientists use Spitzer data & brown dwarfs to reveal how silicate clouds form](https://www.nasaspaceflight.com/2022/07/spitzer-brown-dwarfs-silicate-clouds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T174312">2022-07-18 17:43:12 UTC</a></sub>
-* [SpaceX is now launching 10 rockets for every one by its main competitor](https://arstechnica.com/science/2022/07/spacex-just-matched-its-record-for-annual-launches-and-its-only-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T171750">2022-07-18 17:17:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T200630">2022-07-19 20:06:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T203747">2022-07-19 20:37:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
