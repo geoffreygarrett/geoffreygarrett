@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The UK’s ‘Astra Carta’ moment: Building a Space Sustainability Growth Platform](https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T061016">2022-07-20 06:10:16 UTC</a></sub>
 * [NASA selects Falcon Heavy to launch Roman Space Telescope](https://spacenews.com/nasa-selects-falcon-heavy-to-launch-roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T232009">2022-07-19 23:20:09 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope](https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T215106">2022-07-19 21:51:06 UTC</a></sub>
 * [Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T211000">2022-07-19 21:10:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Microsoft reveals Azure Space Partner Community](https://spacenews.com/microsoft-azure-space-partner-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T151029">2022-07-19 15:10:29 UTC</a></sub>
 * [Two companies join SpaceX in the race to Mars, with a launch possible in 2024](https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T121543">2022-07-19 12:15:43 UTC</a></sub>
 * [Relativity to launch Impulse Space’s Mars Lander as early as 2024](https://www.nasaspaceflight.com/2022/07/relativity-impulse-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T121532">2022-07-19 12:15:32 UTC</a></sub>
-* [NASA delays VIPER lunar rover launch by a year](https://spacenews.com/nasa-delays-viper-lunar-rover-launch-by-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T111010">2022-07-19 11:10:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T060737">2022-07-20 06:07:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T064404">2022-07-20 06:44:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
