@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA sets late August and early September launch dates for Artemis 1](https://spacenews.com/nasa-sets-late-august-and-early-september-launch-dates-for-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T203019">2022-07-20 20:30:19 UTC</a></sub>
 * [SpaceX’s first Starlink V2 satellites spotted at Starbase](https://www.teslarati.com/spacex-starlink-v2-satellites-spotted-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T174046">2022-07-20 17:40:46 UTC</a></sub>
 * [The SLS rocket finally has a believable launch date, and it’s soon](https://arstechnica.com/science/2022/07/nasa-sets-a-late-august-launch-date-for-sls-and-it-may-actually-happen/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T164018">2022-07-20 16:40:18 UTC</a></sub>
 * [Millennium Space reveals results of DARPA’s ‘Red-Eye’ smallsat experiment](https://spacenews.com/millennium-space-reveals-results-of-darpas-red-eye-smallsat-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T155017">2022-07-20 15:50:17 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [The UK’s ‘Astra Carta’ moment: Building a Space Sustainability Growth Platform](https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T061016">2022-07-20 06:10:16 UTC</a></sub>
 * [NASA selects Falcon Heavy to launch Roman Space Telescope](https://spacenews.com/nasa-selects-falcon-heavy-to-launch-roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T232009">2022-07-19 23:20:09 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope](https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T215106">2022-07-19 21:51:06 UTC</a></sub>
-* [Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T211000">2022-07-19 21:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T200721">2022-07-20 20:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T203909">2022-07-20 20:39:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
