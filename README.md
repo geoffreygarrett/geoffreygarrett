@@ -180,6 +180,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA sets a late-August launch date for SLS, and it may actually happen](https://arstechnica.com/science/2022/07/nasa-sets-a-late-august-launch-date-for-sls-and-it-may-actually-happen/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T164018">2022-07-20 16:40:18 UTC</a></sub>
+* [Millennium Space reveals results of DARPA’s ‘Red-Eye’ smallsat experiment](https://spacenews.com/millennium-space-reveals-results-of-darpas-red-eye-smallsat-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T155017">2022-07-20 15:50:17 UTC</a></sub>
 * [NASA Sets Coverage for Russian, European Spacewalk](http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-european-spacewalk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T151000">2022-07-20 15:10:00 UTC</a></sub>
 * [OneWeb and Hanwha partner to tap Australia’s military broadband market](https://spacenews.com/oneweb-and-hanwha-partner-to-tap-australias-military-broadband-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T150013">2022-07-20 15:00:13 UTC</a></sub>
 * [Impulse and Relativity announce proposal for joint Mars landing mission](https://spacenews.com/impulse-and-relativity-announce-proposal-for-joint-mars-landing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T111013">2022-07-20 11:10:13 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope](https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T215106">2022-07-19 21:51:06 UTC</a></sub>
 * [Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T211000">2022-07-19 21:10:00 UTC</a></sub>
 * [ESA funds Skimsat demonstrator study for VLEO](https://spacenews.com/esa-funds-skimsat-demonstrator-study-for-vleo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
-* [Oxford Space and SSTL unveil Wrapped Rib SAR antenna](https://spacenews.com/oss-sstl-wrapped-rib/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
-* [NASA Awards Launch Services Contract for Roman Space Telescope](http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-roman-space-telescope) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T201000">2022-07-19 20:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Job Opening: Host/Producer, Planetary Radio](https://www.planetary.org/careers/job-opening-host-producer-planetary-radio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T161044">2022-07-20 16:10:44 UTC</a></sub>
+* [A Personal Message to Planetary Radio Listeners](https://www.planetary.org/articles/personal-message-planetary-radio-listeners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T155101">2022-07-20 15:51:01 UTC</a></sub>
 * [SBIRS GEO 6: Atlas V to complete SBIRS constellation](https://blog.ulalaunch.com/blog/sbirs-geo-6-atlas-v-to-complete-sbirs-constellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T193135">2022-07-18 19:31:35 UTC</a></sub>
 * [Chandrayaan-1, India’s first Moon mission](https://www.planetary.org/space-missions/chandrayaan-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T140054">2022-07-18 14:00:54 UTC</a></sub>
 * [Love at first sights](https://www.planetary.org/the-downlink/love-at-first-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T143050">2022-07-15 14:30:50 UTC</a></sub>
@@ -208,8 +210,6 @@ region. The mission's status is currently To Be Confirmed
 * [JWST versus Hubble: How are they different?](https://www.planetary.org/articles/jwst-versus-hubble) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T140547">2022-07-11 14:05:47 UTC</a></sub>
 * [Breaking new ground](https://www.planetary.org/the-downlink/breaking-new-ground) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T143548">2022-07-08 14:35:48 UTC</a></sub>
 * [The 2022 Student Rocket Launch: Preparing for Liftoff!](https://blog.ulalaunch.com/blog/the-2022-student-rocket-launch-preparing-for-liftoff) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140612">2022-07-07 14:06:12 UTC</a></sub>
-* [Why this Ceres mission could change the search for alien life](https://www.planetary.org/articles/ceres-sample-return-mission-alien-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140555">2022-07-07 14:05:55 UTC</a></sub>
-* [Ingenuity, NASA’s Mars Helicopter](https://www.planetary.org/space-missions/ingenuity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T140446">2022-07-05 14:04:46 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T160729">2022-07-20 16:07:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T165535">2022-07-20 16:55:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
