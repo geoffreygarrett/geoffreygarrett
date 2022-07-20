@@ -180,16 +180,16 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OneWeb and Hanwha partner to tap Australia’s military broadband market](https://spacenews.com/oneweb-and-hanwha-partner-to-tap-australias-military-broadband-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T150013">2022-07-20 15:00:13 UTC</a></sub>
 * [Impulse and Relativity announce proposal for joint Mars landing mission](https://spacenews.com/impulse-and-relativity-announce-proposal-for-joint-mars-landing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T111013">2022-07-20 11:10:13 UTC</a></sub>
 * [The UK’s ‘Astra Carta’ moment: Building a Space Sustainability Growth Platform](https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T061016">2022-07-20 06:10:16 UTC</a></sub>
 * [NASA selects Falcon Heavy to launch Roman Space Telescope](https://spacenews.com/nasa-selects-falcon-heavy-to-launch-roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T232009">2022-07-19 23:20:09 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope](https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T215106">2022-07-19 21:51:06 UTC</a></sub>
 * [Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T211000">2022-07-19 21:10:00 UTC</a></sub>
-* [Oxford Space and SSTL unveil Wrapped Rib SAR antenna](https://spacenews.com/oss-sstl-wrapped-rib/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
 * [ESA funds Skimsat demonstrator study for VLEO](https://spacenews.com/esa-funds-skimsat-demonstrator-study-for-vleo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
+* [Oxford Space and SSTL unveil Wrapped Rib SAR antenna](https://spacenews.com/oss-sstl-wrapped-rib/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
 * [NASA Awards Launch Services Contract for Roman Space Telescope](http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-roman-space-telescope) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T201000">2022-07-19 20:10:00 UTC</a></sub>
 * [Microsoft reveals Azure Space Partner Community](https://spacenews.com/microsoft-azure-space-partner-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T151029">2022-07-19 15:10:29 UTC</a></sub>
-* [Two companies join SpaceX in the race to Mars, with a launch possible in 2024](https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T121543">2022-07-19 12:15:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T143526">2022-07-20 14:35:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T150618">2022-07-20 15:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
