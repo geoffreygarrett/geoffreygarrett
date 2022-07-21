@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to break 2021 record with 32nd launch of 2022](https://www.nasaspaceflight.com/2022/07/starlink-3-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T153354">2022-07-21 15:33:54 UTC</a></sub>
+* [China could shift to fully reusable super heavy-launcher in wake of Starship](https://spacenews.com/china-could-shift-to-fully-reusable-super-heavy-launcher-in-wake-of-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T151017">2022-07-21 15:10:17 UTC</a></sub>
 * [SpaceX adds fourth tower segment to Florida Starship launch pad](https://spaceflightnow.com/2022/07/21/spacex-adds-fourth-tower-segment-to-florida-starship-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T133002">2022-07-21 13:30:02 UTC</a></sub>
 * [Isar Aerospace to launch from French Guiana](https://spacenews.com/isar-aerospace-to-launch-from-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T111022">2022-07-21 11:10:22 UTC</a></sub>
 * [UK’s ‘Astra Carta’ movement sees space sustainability as chance to lead](https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T234019">2022-07-20 23:40:19 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Spire adding microwave sounders to improve weather forecasts](https://spacenews.com/spire-adding-microwave-sounders-to-improve-weather-forecasts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T215015">2022-07-20 21:50:15 UTC</a></sub>
 * [Northrop Grumman to conduct FSB-2 SLS solid rocket booster test](https://www.nasaspaceflight.com/2022/07/fsb-2-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T205832">2022-07-20 20:58:32 UTC</a></sub>
 * [NASA sets late August and early September launch dates for Artemis 1](https://spacenews.com/nasa-sets-late-august-and-early-september-launch-dates-for-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T203019">2022-07-20 20:30:19 UTC</a></sub>
-* [SpaceX’s first Starlink V2 satellites spotted at Starbase](https://www.teslarati.com/spacex-starlink-v2-satellites-spotted-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T174046">2022-07-20 17:40:46 UTC</a></sub>
-* [The SLS rocket finally has a believable launch date, and it’s soon](https://arstechnica.com/science/2022/07/nasa-sets-a-late-august-launch-date-for-sls-and-it-may-actually-happen/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T164018">2022-07-20 16:40:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T150419">2022-07-21 15:04:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T154154">2022-07-21 15:41:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
