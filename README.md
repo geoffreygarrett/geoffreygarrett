@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Senate NDAA directs independent review how the Space Force acquires technologies](https://spacenews.com/senate-ndaa-directs-independent-review-how-the-space-force-acquires-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T191015">2022-07-21 19:10:15 UTC</a></sub>
+* [Watch live: SLS moon rocket booster ready for test-firing in Utah](https://spaceflightnow.com/2022/07/21/sls-flight-support-booster-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T191004">2022-07-21 19:10:04 UTC</a></sub>
+* [Satellite Vu orders second satellite for tracking heat waste](https://spacenews.com/satellite-vu-orders-second-satellite-for-tracking-heat-waste/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T190022">2022-07-21 19:00:22 UTC</a></sub>
+* [NASA, ESA to Discuss Mars Sample Return Mission](http://www.nasa.gov/press-release/nasa-esa-to-discuss-mars-sample-return-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T190000">2022-07-21 19:00:00 UTC</a></sub>
 * [Watch live: Russian cosmonaut, European astronaut head outside ISS on spacewalk](https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T160958">2022-07-21 16:09:58 UTC</a></sub>
 * [SpaceX scrubs Starlink 3-2 launch attempt](https://www.nasaspaceflight.com/2022/07/starlink-3-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T153354">2022-07-21 15:33:54 UTC</a></sub>
 * [China could shift to fully reusable super heavy-launcher in wake of Starship](https://spacenews.com/china-could-shift-to-fully-reusable-super-heavy-launcher-in-wake-of-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T151017">2022-07-21 15:10:17 UTC</a></sub>
 * [SpaceX adds fourth tower segment to Florida Starship launch pad](https://spaceflightnow.com/2022/07/21/spacex-adds-fourth-tower-segment-to-florida-starship-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T133002">2022-07-21 13:30:02 UTC</a></sub>
 * [Isar Aerospace to launch from French Guiana](https://spacenews.com/isar-aerospace-to-launch-from-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T111022">2022-07-21 11:10:22 UTC</a></sub>
 * [UK’s ‘Astra Carta’ movement sees space sustainability as chance to lead](https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T234019">2022-07-20 23:40:19 UTC</a></sub>
-* [NASA tentatively targeting Aug. 29 for maiden flight of SLS moon rocket](https://spaceflightnow.com/2022/07/20/nasa-tentatively-targeting-aug-29-for-maiden-flight-of-sls-moon-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T234010">2022-07-20 23:40:10 UTC</a></sub>
-* [NASA authorization included in CHIPS Act](https://spacenews.com/nasa-authorization-included-in-chips-act/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T233020">2022-07-20 23:30:20 UTC</a></sub>
-* [Spire adding microwave sounders to improve weather forecasts](https://spacenews.com/spire-adding-microwave-sounders-to-improve-weather-forecasts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T215015">2022-07-20 21:50:15 UTC</a></sub>
-* [Northrop Grumman to conduct FSB-2 SLS solid rocket booster test](https://www.nasaspaceflight.com/2022/07/fsb-2-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T205832">2022-07-20 20:58:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T190612">2022-07-21 19:06:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T193146">2022-07-21 19:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
