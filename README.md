@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russian cosmonaut, European astronaut complete joint spacewalk](https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T223000">2022-07-21 22:30:00 UTC</a></sub>
+* [SpaceX calls rare last-minute abort during California launch countdown](https://spaceflightnow.com/2022/07/21/spacex-calls-rare-last-minute-abort-during-california-launch-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T222002">2022-07-21 22:20:02 UTC</a></sub>
+* [Crew Dragon mission delayed after booster damaged in transport](https://spacenews.com/crew-dragon-mission-delayed-after-booster-damaged-in-transport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T220021">2022-07-21 22:00:21 UTC</a></sub>
 * [NASA to Host Media Activities in Houston Ahead of Lunar Mission](http://www.nasa.gov/press-release/nasa-to-host-media-activities-in-houston-ahead-of-lunar-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T212000">2022-07-21 21:20:00 UTC</a></sub>
 * [SLS moon rocket booster test-fired in Utah](https://spaceflightnow.com/2022/07/21/sls-flight-support-booster-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T204003">2022-07-21 20:40:03 UTC</a></sub>
 * [NASA Selects Draper to Fly Research to Far Side of Moon](http://www.nasa.gov/press-release/nasa-selects-draper-to-fly-research-to-far-side-of-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T203100">2022-07-21 20:31:00 UTC</a></sub>
 * [Senate NDAA directs independent review how the Space Force acquires technologies](https://spacenews.com/senate-ndaa-directs-independent-review-how-the-space-force-acquires-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T191015">2022-07-21 19:10:15 UTC</a></sub>
 * [Satellite Vu orders second satellite for tracking heat waste](https://spacenews.com/satellite-vu-orders-second-satellite-for-tracking-heat-waste/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T190022">2022-07-21 19:00:22 UTC</a></sub>
 * [NASA, ESA to Discuss Mars Sample Return Mission](http://www.nasa.gov/press-release/nasa-esa-to-discuss-mars-sample-return-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T190000">2022-07-21 19:00:00 UTC</a></sub>
-* [Watch live: Russian cosmonaut, European astronaut head outside ISS on spacewalk](https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T160958">2022-07-21 16:09:58 UTC</a></sub>
 * [SpaceX scrubs Starlink 3-2 launch attempt](https://www.nasaspaceflight.com/2022/07/starlink-3-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T153354">2022-07-21 15:33:54 UTC</a></sub>
-* [China could shift to fully reusable super heavy-launcher in wake of Starship](https://spacenews.com/china-could-shift-to-fully-reusable-super-heavy-launcher-in-wake-of-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T151017">2022-07-21 15:10:17 UTC</a></sub>
-* [SpaceX adds fourth tower segment to Florida Starship launch pad](https://spaceflightnow.com/2022/07/21/spacex-adds-fourth-tower-segment-to-florida-starship-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T133002">2022-07-21 13:30:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T220300">2022-07-21 22:03:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T223805">2022-07-21 22:38:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
