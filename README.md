@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX adds fourth tower segment to Florida Starship launch pad](https://spaceflightnow.com/2022/07/21/spacex-adds-fourth-tower-segment-to-florida-starship-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T133002">2022-07-21 13:30:02 UTC</a></sub>
 * [Isar Aerospace to launch from French Guiana](https://spacenews.com/isar-aerospace-to-launch-from-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T111022">2022-07-21 11:10:22 UTC</a></sub>
 * [UK’s ‘Astra Carta’ movement sees space sustainability as chance to lead](https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T234019">2022-07-20 23:40:19 UTC</a></sub>
 * [NASA tentatively targeting Aug. 29 for maiden flight of SLS moon rocket](https://spaceflightnow.com/2022/07/20/nasa-tentatively-targeting-aug-29-for-maiden-flight-of-sls-moon-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T234010">2022-07-20 23:40:10 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA sets late August and early September launch dates for Artemis 1](https://spacenews.com/nasa-sets-late-august-and-early-september-launch-dates-for-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T203019">2022-07-20 20:30:19 UTC</a></sub>
 * [SpaceX’s first Starlink V2 satellites spotted at Starbase](https://www.teslarati.com/spacex-starlink-v2-satellites-spotted-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T174046">2022-07-20 17:40:46 UTC</a></sub>
 * [The SLS rocket finally has a believable launch date, and it’s soon](https://arstechnica.com/science/2022/07/nasa-sets-a-late-august-launch-date-for-sls-and-it-may-actually-happen/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T164018">2022-07-20 16:40:18 UTC</a></sub>
-* [Millennium Space reveals results of DARPA’s ‘Red-Eye’ smallsat experiment](https://spacenews.com/millennium-space-reveals-results-of-darpas-red-eye-smallsat-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T155017">2022-07-20 15:50:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T130641">2022-07-21 13:06:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T135414">2022-07-21 13:54:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
