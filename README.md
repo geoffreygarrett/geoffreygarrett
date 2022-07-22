@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Mapping the Sky: Finding asteroids requires a combination of tools](https://spacenews.com/mapping-the-sky-finding-asteroids-requires-a-combination-of-tools/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T091012">2022-07-22 09:10:12 UTC</a></sub>
 * [Russian cosmonaut, European astronaut complete joint spacewalk](https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T223000">2022-07-21 22:30:00 UTC</a></sub>
 * [SpaceX calls rare last-minute abort during California launch countdown](https://spaceflightnow.com/2022/07/21/spacex-calls-rare-last-minute-abort-during-california-launch-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T222002">2022-07-21 22:20:02 UTC</a></sub>
 * [Crew Dragon mission delayed after booster damaged in transport](https://spacenews.com/crew-dragon-mission-delayed-after-booster-damaged-in-transport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T220021">2022-07-21 22:00:21 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Senate NDAA directs independent review how the Space Force acquires technologies](https://spacenews.com/senate-ndaa-directs-independent-review-how-the-space-force-acquires-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T191015">2022-07-21 19:10:15 UTC</a></sub>
 * [Satellite Vu orders second satellite for tracking heat waste](https://spacenews.com/satellite-vu-orders-second-satellite-for-tracking-heat-waste/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T190022">2022-07-21 19:00:22 UTC</a></sub>
 * [NASA, ESA to Discuss Mars Sample Return Mission](http://www.nasa.gov/press-release/nasa-esa-to-discuss-mars-sample-return-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T190000">2022-07-21 19:00:00 UTC</a></sub>
-* [SpaceX scrubs Starlink 3-2 launch attempt](https://www.nasaspaceflight.com/2022/07/starlink-3-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T153354">2022-07-21 15:33:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T090442">2022-07-22 09:04:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T093744">2022-07-22 09:37:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
