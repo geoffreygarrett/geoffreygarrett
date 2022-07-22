@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK launches consultation on Virgin Orbit launch](https://spacenews.com/uk-launches-consultation-on-virgin-orbit-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T211014">2022-07-22 21:10:14 UTC</a></sub>
 * [SCOUT wins defense contract to demonstrate utility of commercial data from sensors in space](https://spacenews.com/scout-wins-defense-contract-to-demonstrate-utility-of-commercial-data-from-sensors-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T195022">2022-07-22 19:50:22 UTC</a></sub>
 * [SpaceX breaks 2021 record with 32nd launch of the year](https://www.nasaspaceflight.com/2022/07/starlink-3-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143354">2022-07-22 14:33:54 UTC</a></sub>
 * [Rocket Report: A heavy-lift rocket funded by crypto; Falcon 9 damaged in transport](https://arstechnica.com/science/2022/07/rocket-report-a-heavy-lift-rocket-funded-by-crypto-falcon-9-damaged-in-transport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T110053">2022-07-22 11:00:53 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX calls rare last-minute abort during California launch countdown](https://spaceflightnow.com/2022/07/21/spacex-calls-rare-last-minute-abort-during-california-launch-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T222002">2022-07-21 22:20:02 UTC</a></sub>
 * [Crew Dragon mission delayed after booster damaged in transport](https://spacenews.com/crew-dragon-mission-delayed-after-booster-damaged-in-transport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T220021">2022-07-21 22:00:21 UTC</a></sub>
 * [NASA to Host Media Activities in Houston Ahead of Lunar Mission](http://www.nasa.gov/press-release/nasa-to-host-media-activities-in-houston-ahead-of-lunar-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T212000">2022-07-21 21:20:00 UTC</a></sub>
-* [SLS moon rocket booster test-fired in Utah](https://spaceflightnow.com/2022/07/21/sls-flight-support-booster-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T204003">2022-07-21 20:40:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T210251">2022-07-22 21:02:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T213529">2022-07-22 21:35:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
