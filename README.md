@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink is now available in 36 countries](https://www.teslarati.com/starlink-available-36-countries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T140051">2022-07-23 14:00:51 UTC</a></sub>
 * [SpaceX test-fires Falcon 9 rocket for Sunday launch from Florida](https://spaceflightnow.com/2022/07/23/starlink-4-25-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T133004">2022-07-23 13:30:04 UTC</a></sub>
 * [Watch live: SpaceX preps for Falcon 9 test-firing in Florida](https://spaceflightnow.com/2022/07/23/watch-live-spacex-preps-for-falcon-9-test-firing-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T124955">2022-07-23 12:49:55 UTC</a></sub>
 * [SpaceX and Mattel partner to create rocket ship toys to encourage tapping into your inner space explorer](https://www.teslarati.com/spacex-and-mattel-create-rocket-ship-toys/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T222059">2022-07-22 22:20:59 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches 32nd mission of the year, breaking record set in 2021](https://spaceflightnow.com/2022/07/22/spacex-launches-32nd-mission-of-the-year-breaking-record-set-in-2021/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T122002">2022-07-22 12:20:02 UTC</a></sub>
 * [Rocket Report: A heavy-lift rocket funded by crypto; Falcon 9 damaged in transport](https://arstechnica.com/science/2022/07/rocket-report-a-heavy-lift-rocket-funded-by-crypto-falcon-9-damaged-in-transport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T110053">2022-07-22 11:00:53 UTC</a></sub>
 * [NASA safety advisers warn ISS transition plans on “precarious trajectory”](https://spacenews.com/nasa-safety-advisers-warn-iss-transition-plans-on-precarious-trajectory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T100015">2022-07-22 10:00:15 UTC</a></sub>
-* [Mapping the Sky: Finding asteroids requires a combination of tools](https://spacenews.com/mapping-the-sky-finding-asteroids-requires-a-combination-of-tools/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T091012">2022-07-22 09:10:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T140303">2022-07-23 14:03:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T143400">2022-07-23 14:34:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
