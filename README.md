@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: SpaceX preps for Falcon 9 test-firing in Florida](https://spaceflightnow.com/2022/07/23/watch-live-spacex-preps-for-falcon-9-test-firing-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T124955">2022-07-23 12:49:55 UTC</a></sub>
 * [SpaceX and Mattel partner to create rocket ship toys to encourage tapping into your inner space explorer](https://www.teslarati.com/spacex-and-mattel-create-rocket-ship-toys/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T222059">2022-07-22 22:20:59 UTC</a></sub>
 * [UK launches consultation on Virgin Orbit launch](https://spacenews.com/uk-launches-consultation-on-virgin-orbit-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T211014">2022-07-22 21:10:14 UTC</a></sub>
 * [SCOUT wins defense contract to demonstrate utility of commercial data from sensors in space](https://spacenews.com/scout-wins-defense-contract-to-demonstrate-utility-of-commercial-data-from-sensors-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T195022">2022-07-22 19:50:22 UTC</a></sub>
 * [SpaceX breaks 2021 record with 32nd launch of the year](https://www.nasaspaceflight.com/2022/07/starlink-3-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143354">2022-07-22 14:33:54 UTC</a></sub>
+* [SpaceX launches 32nd mission of the year, breaking record set in 2021](https://spaceflightnow.com/2022/07/22/spacex-launches-32nd-mission-of-the-year-breaking-record-set-in-2021/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T122002">2022-07-22 12:20:02 UTC</a></sub>
 * [Rocket Report: A heavy-lift rocket funded by crypto; Falcon 9 damaged in transport](https://arstechnica.com/science/2022/07/rocket-report-a-heavy-lift-rocket-funded-by-crypto-falcon-9-damaged-in-transport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T110053">2022-07-22 11:00:53 UTC</a></sub>
 * [NASA safety advisers warn ISS transition plans on “precarious trajectory”](https://spacenews.com/nasa-safety-advisers-warn-iss-transition-plans-on-precarious-trajectory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T100015">2022-07-22 10:00:15 UTC</a></sub>
 * [Mapping the Sky: Finding asteroids requires a combination of tools](https://spacenews.com/mapping-the-sky-finding-asteroids-requires-a-combination-of-tools/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T091012">2022-07-22 09:10:12 UTC</a></sub>
 * [Russian cosmonaut, European astronaut complete joint spacewalk](https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T223000">2022-07-21 22:30:00 UTC</a></sub>
-* [SpaceX calls rare last-minute abort during California launch countdown](https://spaceflightnow.com/2022/07/21/spacex-calls-rare-last-minute-abort-during-california-launch-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T222002">2022-07-21 22:20:02 UTC</a></sub>
-* [Crew Dragon mission delayed after booster damaged in transport](https://spacenews.com/crew-dragon-mission-delayed-after-booster-damaged-in-transport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T220021">2022-07-21 22:00:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T120940">2022-07-23 12:09:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T125741">2022-07-23 12:57:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
