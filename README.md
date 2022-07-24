@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Second module docks at China’s space station, large rocket stage tracked in orbit](https://spacenews.com/second-module-docks-at-chinas-space-station-large-rocket-stage-tracked-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T202022">2022-07-24 20:20:22 UTC</a></sub>
 * [Roman Space Telescope top challenge for new NASA astrophysics director](https://spacenews.com/roman-space-telescope-top-challenge-for-new-nasa-astrophysics-director/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T150021">2022-07-24 15:00:21 UTC</a></sub>
 * [Video: SpaceX Falcon 9 over the moon](https://www.teslarati.com/spacex-falcon-9-over-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T144109">2022-07-24 14:41:09 UTC</a></sub>
 * [SpaceX continues Starlink deployment with Starlink 4-25 mission](https://www.nasaspaceflight.com/2022/07/starlink-4-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T104617">2022-07-24 10:46:17 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [Starlink is now available in 36 countries](https://www.teslarati.com/starlink-available-36-countries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T140051">2022-07-23 14:00:51 UTC</a></sub>
 * [SpaceX test-fires Falcon 9 rocket for Sunday launch from Florida](https://spaceflightnow.com/2022/07/23/starlink-4-25-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T133004">2022-07-23 13:30:04 UTC</a></sub>
 * [Watch live: SpaceX preps for Falcon 9 test-firing in Florida](https://spaceflightnow.com/2022/07/23/watch-live-spacex-preps-for-falcon-9-test-firing-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T124955">2022-07-23 12:49:55 UTC</a></sub>
-* [SpaceX and Mattel partner to create rocket ship toys to encourage tapping into your inner space explorer](https://www.teslarati.com/spacex-and-mattel-create-rocket-ship-toys/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T222059">2022-07-22 22:20:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T200422">2022-07-24 20:04:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T203701">2022-07-24 20:37:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
