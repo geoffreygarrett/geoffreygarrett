@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: New science lab for China’s space station poised for launch Sunday](https://spaceflightnow.com/2022/07/24/long-march-5b-wentian-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T031010">2022-07-24 03:10:10 UTC</a></sub>
 * [Chang Zheng 5B set to launch Wentian Laboratory Module](https://www.nasaspaceflight.com/2022/07/wentian-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T021223">2022-07-24 02:12:23 UTC</a></sub>
 * [Vaya Space aims for flight operations next year with STAR-3D vortex hybrid engine](https://www.nasaspaceflight.com/2022/07/vaya-space-star-3d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T172114">2022-07-23 17:21:14 UTC</a></sub>
 * [Starlink is now available in 36 countries](https://www.teslarati.com/starlink-available-36-countries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T140051">2022-07-23 14:00:51 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [UK launches consultation on Virgin Orbit launch](https://spacenews.com/uk-launches-consultation-on-virgin-orbit-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T211014">2022-07-22 21:10:14 UTC</a></sub>
 * [SCOUT wins defense contract to demonstrate utility of commercial data from sensors in space](https://spacenews.com/scout-wins-defense-contract-to-demonstrate-utility-of-commercial-data-from-sensors-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T195022">2022-07-22 19:50:22 UTC</a></sub>
 * [SpaceX breaks 2021 record with 32nd launch of the year](https://www.nasaspaceflight.com/2022/07/starlink-3-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143354">2022-07-22 14:33:54 UTC</a></sub>
-* [SpaceX launches 32nd mission of the year, breaking record set in 2021](https://spaceflightnow.com/2022/07/22/spacex-launches-32nd-mission-of-the-year-breaking-record-set-in-2021/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T122002">2022-07-22 12:20:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T030456">2022-07-24 03:04:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T040630">2022-07-24 04:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
