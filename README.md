@@ -178,7 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX to continue Starlink deployment with Starlink 4-25 mission](https://www.nasaspaceflight.com/2022/07/starlink-4-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T104617">2022-07-24 10:46:17 UTC</a></sub>
+* [SpaceX continues Starlink deployment with Starlink 4-25 mission](https://www.nasaspaceflight.com/2022/07/starlink-4-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T104617">2022-07-24 10:46:17 UTC</a></sub>
 * [New science lab for China’s space station launches on Long March 5B rocket](https://spaceflightnow.com/2022/07/24/long-march-5b-wentian-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T103002">2022-07-24 10:30:02 UTC</a></sub>
 * [Chang Zheng 5B launches Wentian Laboratory Module](https://www.nasaspaceflight.com/2022/07/wentian-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T061223">2022-07-24 06:12:23 UTC</a></sub>
 * [Vaya Space aims for flight operations next year with STAR-3D vortex hybrid engine](https://www.nasaspaceflight.com/2022/07/vaya-space-star-3d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T172114">2022-07-23 17:21:14 UTC</a></sub>
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T140239">2022-07-24 14:02:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T143406">2022-07-24 14:34:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
