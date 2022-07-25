@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD signaling demand for satellite support services in geostationary orbit](https://spacenews.com/dod-signaling-demand-for-satellite-support-services-in-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T200011">2022-07-25 20:00:11 UTC</a></sub>
 * [NASA Goddard Center Director Shares Plans to Retire](http://www.nasa.gov/press-release/nasa-goddard-center-director-shares-plans-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T170000">2022-07-25 17:00:00 UTC</a></sub>
 * [Boeing aiming to deliver second SLS Core Stage to NASA in March](https://www.nasaspaceflight.com/2022/07/boeing-second-sls-core-march/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T161443">2022-07-25 16:14:43 UTC</a></sub>
 * [NASA Air’s Space Station R&D, Benefits to Humanity Conference](http://www.nasa.gov/press-release/nasa-air-s-space-station-rd-benefits-to-humanity-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T140000">2022-07-25 14:00:00 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [SpaceX launches sixth mission in 17 days](https://spaceflightnow.com/2022/07/24/spacex-launches-sixth-mission-in-17-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T151000">2022-07-24 15:10:00 UTC</a></sub>
 * [Roman Space Telescope top challenge for new NASA astrophysics director](https://spacenews.com/roman-space-telescope-top-challenge-for-new-nasa-astrophysics-director/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T150021">2022-07-24 15:00:21 UTC</a></sub>
 * [Video: SpaceX Falcon 9 over the moon](https://www.teslarati.com/spacex-falcon-9-over-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T144109">2022-07-24 14:41:09 UTC</a></sub>
-* [SpaceX continues Starlink deployment with Starlink 4-25 mission](https://www.nasaspaceflight.com/2022/07/starlink-4-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T104617">2022-07-24 10:46:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T193105">2022-07-25 19:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T200542">2022-07-25 20:05:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
