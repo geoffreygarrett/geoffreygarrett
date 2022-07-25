@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Streamlined and ready for Africa’s growth markets: Q&A with Avanti Communications CEO Kyle Whitehill](https://spacenews.com/streamlined-and-ready-for-africas-growth-markets-qa-with-avanti-communications-ceo-kyle-whitehill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T072009">2022-07-25 07:20:09 UTC</a></sub>
 * [Second module docks at China’s space station, large rocket stage tracked in orbit](https://spacenews.com/second-module-docks-at-chinas-space-station-large-rocket-stage-tracked-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T202022">2022-07-24 20:20:22 UTC</a></sub>
 * [Roman Space Telescope top challenge for new NASA astrophysics director](https://spacenews.com/roman-space-telescope-top-challenge-for-new-nasa-astrophysics-director/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T150021">2022-07-24 15:00:21 UTC</a></sub>
 * [Video: SpaceX Falcon 9 over the moon](https://www.teslarati.com/spacex-falcon-9-over-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T144109">2022-07-24 14:41:09 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [SpaceX ends busy July with pair of Starlink launches](https://www.teslarati.com/spacex-july-2022-six-falcon-9-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T061108">2022-07-24 06:11:08 UTC</a></sub>
 * [Vaya Space aims for flight operations next year with STAR-3D vortex hybrid engine](https://www.nasaspaceflight.com/2022/07/vaya-space-star-3d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T172114">2022-07-23 17:21:14 UTC</a></sub>
 * [Starlink is now available in 36 countries](https://www.teslarati.com/starlink-available-36-countries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T140051">2022-07-23 14:00:51 UTC</a></sub>
-* [SpaceX test-fires Falcon 9 rocket for Sunday launch from Florida](https://spaceflightnow.com/2022/07/23/starlink-4-25-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T133004">2022-07-23 13:30:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T070532">2022-07-25 07:05:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T073544">2022-07-25 07:35:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
