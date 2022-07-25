@@ -182,12 +182,12 @@ region. The mission's status is currently To Be Determined
 * [Eutelsat and OneWeb discussing multi-orbit merger plan](https://spacenews.com/eutelsat-and-oneweb-discussing-multi-orbit-merger-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T135009">2022-07-25 13:50:09 UTC</a></sub>
 * [Streamlined and ready for Africa’s growth markets: Q&A with Avanti Communications CEO Kyle Whitehill](https://spacenews.com/streamlined-and-ready-for-africas-growth-markets-qa-with-avanti-communications-ceo-kyle-whitehill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T072009">2022-07-25 07:20:09 UTC</a></sub>
 * [Second module docks at China’s space station, large rocket stage tracked in orbit](https://spacenews.com/second-module-docks-at-chinas-space-station-large-rocket-stage-tracked-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T202022">2022-07-24 20:20:22 UTC</a></sub>
+* [SpaceX launches sixth mission in 17 days](https://spaceflightnow.com/2022/07/24/spacex-launches-sixth-mission-in-17-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T151000">2022-07-24 15:10:00 UTC</a></sub>
 * [Roman Space Telescope top challenge for new NASA astrophysics director](https://spacenews.com/roman-space-telescope-top-challenge-for-new-nasa-astrophysics-director/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T150021">2022-07-24 15:00:21 UTC</a></sub>
 * [Video: SpaceX Falcon 9 over the moon](https://www.teslarati.com/spacex-falcon-9-over-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T144109">2022-07-24 14:41:09 UTC</a></sub>
 * [SpaceX continues Starlink deployment with Starlink 4-25 mission](https://www.nasaspaceflight.com/2022/07/starlink-4-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T104617">2022-07-24 10:46:17 UTC</a></sub>
 * [New science lab for China’s space station launches on Long March 5B rocket](https://spaceflightnow.com/2022/07/24/long-march-5b-wentian-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T103002">2022-07-24 10:30:02 UTC</a></sub>
 * [Chang Zheng 5B launches Wentian Laboratory Module](https://www.nasaspaceflight.com/2022/07/wentian-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T061223">2022-07-24 06:12:23 UTC</a></sub>
-* [SpaceX ends busy July with pair of Starlink launches](https://www.teslarati.com/spacex-july-2022-six-falcon-9-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T061108">2022-07-24 06:11:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T150315">2022-07-25 15:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T154116">2022-07-25 15:41:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
