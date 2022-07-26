@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [HawkEye 360 opens satellite manufacturing facility in Virginia](https://spacenews.com/hawkeye-360-opens-satellite-manufacturing-facility-in-virginia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T074014">2022-07-26 07:40:14 UTC</a></sub>
 * [DoD signaling demand for satellite support services in geostationary orbit](https://spacenews.com/dod-signaling-demand-for-satellite-support-services-in-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T200011">2022-07-25 20:00:11 UTC</a></sub>
 * [NASA Goddard Center Director Shares Plans to Retire](http://www.nasa.gov/press-release/nasa-goddard-center-director-shares-plans-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T170000">2022-07-25 17:00:00 UTC</a></sub>
 * [Boeing aiming to deliver second SLS Core Stage to NASA in March](https://www.nasaspaceflight.com/2022/07/boeing-second-sls-core-march/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T161443">2022-07-25 16:14:43 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Determined
 * [SpaceX’s next crew launch delayed by booster damage](https://spaceflightnow.com/2022/07/25/spacexs-next-crew-launch-delayed-by-booster-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T050958">2022-07-25 05:09:58 UTC</a></sub>
 * [Wentian science module docks with China’s space station](https://spaceflightnow.com/2022/07/24/wentian-science-module-docks-with-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T211009">2022-07-24 21:10:09 UTC</a></sub>
 * [Second module docks at China’s space station, large rocket stage tracked in orbit](https://spacenews.com/second-module-docks-at-chinas-space-station-large-rocket-stage-tracked-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T202022">2022-07-24 20:20:22 UTC</a></sub>
-* [SpaceX launches sixth mission in 17 days](https://spaceflightnow.com/2022/07/24/spacex-launches-sixth-mission-in-17-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T151000">2022-07-24 15:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T073357">2022-07-26 07:33:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T084049">2022-07-26 08:40:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
