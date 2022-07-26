@@ -184,10 +184,10 @@ region. The mission's status is currently To Be Determined
 * [NASA Air’s Space Station R&D, Benefits to Humanity Conference](http://www.nasa.gov/press-release/nasa-air-s-space-station-rd-benefits-to-humanity-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T140000">2022-07-25 14:00:00 UTC</a></sub>
 * [Eutelsat and OneWeb discussing multi-orbit merger plan](https://spacenews.com/eutelsat-and-oneweb-discussing-multi-orbit-merger-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T135009">2022-07-25 13:50:09 UTC</a></sub>
 * [Streamlined and ready for Africa’s growth markets: Q&A with Avanti Communications CEO Kyle Whitehill](https://spacenews.com/streamlined-and-ready-for-africas-growth-markets-qa-with-avanti-communications-ceo-kyle-whitehill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T072009">2022-07-25 07:20:09 UTC</a></sub>
+* [SpaceX’s next crew launch delayed by booster damage](https://spaceflightnow.com/2022/07/25/spacexs-next-crew-launch-delayed-by-booster-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T050958">2022-07-25 05:09:58 UTC</a></sub>
 * [Wentian science module docks with China’s space station](https://spaceflightnow.com/2022/07/24/wentian-science-module-docks-with-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T211009">2022-07-24 21:10:09 UTC</a></sub>
 * [Second module docks at China’s space station, large rocket stage tracked in orbit](https://spacenews.com/second-module-docks-at-chinas-space-station-large-rocket-stage-tracked-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T202022">2022-07-24 20:20:22 UTC</a></sub>
 * [SpaceX launches sixth mission in 17 days](https://spaceflightnow.com/2022/07/24/spacex-launches-sixth-mission-in-17-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T151000">2022-07-24 15:10:00 UTC</a></sub>
-* [Roman Space Telescope top challenge for new NASA astrophysics director](https://spacenews.com/roman-space-telescope-top-challenge-for-new-nasa-astrophysics-director/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T150021">2022-07-24 15:00:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T044839">2022-07-26 04:48:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T053331">2022-07-26 05:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
