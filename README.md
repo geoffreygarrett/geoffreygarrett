@@ -178,6 +178,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Will Inspire World When It Returns Mars Samples to Earth in 2033](http://www.nasa.gov/press-release/nasa-will-inspire-world-when-it-returns-mars-samples-to-earth-in-2033) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T150000">2022-07-27 15:00:00 UTC</a></sub>
 * [NASA prepares to award SLS launch services contract to Boeing-Northrop joint venture](https://spacenews.com/nasa-prepares-to-award-sls-launch-services-contract-to-boeing-northrop-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T090010">2022-07-27 09:00:10 UTC</a></sub>
 * [CAS Space puts six satellites in orbit with first orbital launch](https://spacenews.com/cas-space-puts-six-satellites-in-orbit-with-first-orbital-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T085015">2022-07-27 08:50:15 UTC</a></sub>
 * [ESA selects Viasat for multi-orbit satellite communications study](https://spacenews.com/esa-selects-viasat-for-multi-orbit-satellite-communication-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T222013">2022-07-26 22:20:13 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently Go for Launch
 * [Russia says it will quit the International Space Station after 2024 and build its own](https://www.euronews.com/next/2022/07/26/russia-says-it-will-quit-the-international-space-station-after-2024-and-build-its-own-stat) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T180000">2022-07-26 18:00:00 UTC</a></sub>
 * [Data from OSIRIS-REx reveals loose surface of asteroid Bennu and “early aging” of asteroids](https://www.nasaspaceflight.com/2022/07/osiris-rex-bennu-aging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165237">2022-07-26 16:52:37 UTC</a></sub>
 * [NASA: no notification by Russia to end ISS participation](https://spacenews.com/nasa-no-notification-by-russia-to-end-iss-participation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165020">2022-07-26 16:50:20 UTC</a></sub>
-* [Sierra Space establishes national security advisory group](https://spacenews.com/sierra-space-establishes-national-security-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140019">2022-07-26 14:00:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T150504">2022-07-27 15:05:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T154000">2022-07-27 15:40:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
