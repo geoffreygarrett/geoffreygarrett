@@ -178,6 +178,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Announces Astronaut Shane Kimbrough to Retire](http://www.nasa.gov/press-release/nasa-announces-astronaut-shane-kimbrough-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T192000">2022-07-27 19:20:00 UTC</a></sub>
 * [NASA Marks 25 Years Since Pathfinder Touched Down on Mars](https://mars.nasa.gov/news/9232/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T181000">2022-07-27 18:10:00 UTC</a></sub>
 * [Orion teams ready for Artemis 1 as pre-launch preparations head into the home stretch](https://www.nasaspaceflight.com/2022/07/orion-artemis-1-home-stretch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T174530">2022-07-27 17:45:30 UTC</a></sub>
 * [NASA Will Inspire World When It Returns Mars Samples to Earth in 2033](http://www.nasa.gov/press-release/nasa-will-inspire-world-when-it-returns-mars-samples-to-earth-in-2033) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T150000">2022-07-27 15:00:00 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently Go for Launch
 * [Startup Wallaroo Labs wins Space Force contract to model performance of AI on edge devices](https://spacenews.com/startup-wallaroo-labs-wins-space-force-contract-to-model-performance-of-ai-on-edge-devices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T213022">2022-07-26 21:30:22 UTC</a></sub>
 * [NASA Prepares for Space Launch System Rocket Services Contract](http://www.nasa.gov/press-release/nasa-prepares-for-space-launch-system-rocket-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T203000">2022-07-26 20:30:00 UTC</a></sub>
 * [Massive Long March 5B booster predicted to reenter on July 31](https://spacenews.com/massive-long-march-5b-booster-predicted-to-reenter-on-july-31/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T181008">2022-07-26 18:10:08 UTC</a></sub>
-* [Russia says it will quit the International Space Station after 2024 and build its own](https://www.euronews.com/next/2022/07/26/russia-says-it-will-quit-the-international-space-station-after-2024-and-build-its-own-stat) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T180000">2022-07-26 18:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T190440">2022-07-27 19:04:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T193213">2022-07-27 19:32:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
