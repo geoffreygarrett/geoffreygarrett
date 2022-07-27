@@ -198,6 +198,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [SBIRS GEO 6: Atlas V to maximize payload's orbital delivery](https://blog.ulalaunch.com/blog/sbirs-geo-6-atlas-v-to-maximize-payloads-orbital-delivery) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T154118">2022-07-27 15:41:18 UTC</a></sub>
 * [Life on Venus? New updates on the search](https://www.planetary.org/articles/life-on-venus-new-updates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140100">2022-07-26 14:01:00 UTC</a></sub>
 * [A space smorgasbord](https://www.planetary.org/the-downlink/a-space-smorgasbord) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143050">2022-07-22 14:30:50 UTC</a></sub>
 * [Slowly returning to in-person member events](https://www.planetary.org/articles/returning-to-in-person-member-events) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T140115">2022-07-21 14:01:15 UTC</a></sub>
@@ -207,7 +208,6 @@ region. The mission's status is currently Go for Launch
 * [SBIRS GEO 6: Atlas V to complete SBIRS constellation](https://blog.ulalaunch.com/blog/sbirs-geo-6-atlas-v-to-complete-sbirs-constellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T193135">2022-07-18 19:31:35 UTC</a></sub>
 * [Chandrayaan-1, India’s first Moon mission](https://www.planetary.org/space-missions/chandrayaan-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T140054">2022-07-18 14:00:54 UTC</a></sub>
 * [Love at first sights](https://www.planetary.org/the-downlink/love-at-first-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T143050">2022-07-15 14:30:50 UTC</a></sub>
-* [See JWST's amazing first science images](https://www.planetary.org/articles/james-webb-space-telescope-first-science-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T152841">2022-07-12 15:28:41 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T160757">2022-07-27 16:07:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T165712">2022-07-27 16:57:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
