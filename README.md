@@ -178,6 +178,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Host Briefings to Preview Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-to-preview-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T221000">2022-07-27 22:10:00 UTC</a></sub>
 * [NASA Announces Astronaut Shane Kimbrough to Retire](http://www.nasa.gov/press-release/nasa-announces-astronaut-shane-kimbrough-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T192000">2022-07-27 19:20:00 UTC</a></sub>
 * [NASA Marks 25 Years Since Pathfinder Touched Down on Mars](https://mars.nasa.gov/news/9232/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T181000">2022-07-27 18:10:00 UTC</a></sub>
 * [Orion teams ready for Artemis 1 as pre-launch preparations head into the home stretch](https://www.nasaspaceflight.com/2022/07/orion-artemis-1-home-stretch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T174530">2022-07-27 17:45:30 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently Go for Launch
 * [ESA selects Viasat for multi-orbit satellite communications study](https://spacenews.com/esa-selects-viasat-for-multi-orbit-satellite-communication-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T222013">2022-07-26 22:20:13 UTC</a></sub>
 * [Startup Wallaroo Labs wins Space Force contract to model performance of AI on edge devices](https://spacenews.com/startup-wallaroo-labs-wins-space-force-contract-to-model-performance-of-ai-on-edge-devices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T213022">2022-07-26 21:30:22 UTC</a></sub>
 * [NASA Prepares for Space Launch System Rocket Services Contract](http://www.nasa.gov/press-release/nasa-prepares-for-space-launch-system-rocket-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T203000">2022-07-26 20:30:00 UTC</a></sub>
-* [Massive Long March 5B booster predicted to reenter on July 31](https://spacenews.com/massive-long-march-5b-booster-predicted-to-reenter-on-july-31/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T181008">2022-07-26 18:10:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T220322">2022-07-27 22:03:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T223901">2022-07-27 22:39:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
