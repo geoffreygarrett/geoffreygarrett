@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Zhuque-2 | Maiden Flight at the
-<a href="">Unknown Pad</a> in
-Jiuquan, People's Republic of China
+Long March 2D | Unknown Payload at the
+<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a> in
+Xichang Satellite Launch Center, People's Republic of China
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>. Until
-then, this launch pad will have seen 30
-out of 167 launches in this
-region. The mission's status is currently To Be Determined
-(TBD) 🟧  which means:
-*current date is a placeholder or rough estimation based on unreliable or interpreted sources.* 
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T131600">2022-07-29 13:16:00 UTC</a>. Until
+then, this launch pad will have seen 62
+out of 172 launches in this
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  First flight of the new methalox rocket developed by Chinese startup LandSpace.
+  
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="" >
+  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,6 +126,7 @@ region. The mission's status is currently To Be Determined
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T131600">2022-07-29 13:16:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20220729T131600Z%2F20220729T133700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Maiden Flight</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220731T000000Z%2F20220731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NROL-199 (RASR-4)</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Antipodean Adventure (NROL-199)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220731T000000Z%2F20220731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>KPLO (Korean Pathfinder Lunar Orbiter)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T233700">2022-08-02 23:37:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | KPLO (Korean Pathfinder Lunar Orbiter)&location=Cape Canaveral, FL, USA&dates=20220802T233700Z%2F20220802T233700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -178,16 +179,16 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA selects Viasat for multi-orbit satellite communications study](https://spacenews.com/esa-selects-viasat-for-multi-orbit-satellite-communication-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T222013">2022-07-26 22:20:13 UTC</a></sub>
+* [Startup Wallaroo Labs wins Space Force contract to model performance of AI on edge devices](https://spacenews.com/startup-wallaroo-labs-wins-space-force-contract-to-model-performance-of-ai-on-edge-devices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T213022">2022-07-26 21:30:22 UTC</a></sub>
+* [NASA Prepares for Space Launch System Rocket Services Contract](http://www.nasa.gov/press-release/nasa-prepares-for-space-launch-system-rocket-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T203000">2022-07-26 20:30:00 UTC</a></sub>
+* [Massive Long March 5B booster predicted to reenter on July 31](https://spacenews.com/massive-long-march-5b-booster-predicted-to-reenter-on-july-31/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T181008">2022-07-26 18:10:08 UTC</a></sub>
+* [Russia says it will quit the International Space Station after 2024 and build its own](https://www.euronews.com/next/2022/07/26/russia-says-it-will-quit-the-international-space-station-after-2024-and-build-its-own-stat) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T180000">2022-07-26 18:00:00 UTC</a></sub>
+* [Data from OSIRIS-REx reveals loose surface of asteroid Bennu and “early aging” of asteroids](https://www.nasaspaceflight.com/2022/07/osiris-rex-bennu-aging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165237">2022-07-26 16:52:37 UTC</a></sub>
+* [NASA: no notification by Russia to end ISS participation](https://spacenews.com/nasa-no-notification-by-russia-to-end-iss-participation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165020">2022-07-26 16:50:20 UTC</a></sub>
+* [Sierra Space establishes national security advisory group](https://spacenews.com/sierra-space-establishes-national-security-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140019">2022-07-26 14:00:19 UTC</a></sub>
+* [Orbit Fab to donate regolith to lunar resources trust](https://spacenews.com/orbit-fab-to-donate-regolith-to-lunar-resources-trust/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T131019">2022-07-26 13:10:19 UTC</a></sub>
 * [HawkEye 360 opens satellite manufacturing facility in Virginia](https://spacenews.com/hawkeye-360-opens-satellite-manufacturing-facility-in-virginia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T074014">2022-07-26 07:40:14 UTC</a></sub>
-* [DoD signaling demand for satellite support services in geostationary orbit](https://spacenews.com/dod-signaling-demand-for-satellite-support-services-in-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T200011">2022-07-25 20:00:11 UTC</a></sub>
-* [NASA Goddard Center Director Shares Plans to Retire](http://www.nasa.gov/press-release/nasa-goddard-center-director-shares-plans-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T170000">2022-07-25 17:00:00 UTC</a></sub>
-* [Boeing aiming to deliver second SLS Core Stage to NASA in March](https://www.nasaspaceflight.com/2022/07/boeing-second-sls-core-march/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T161443">2022-07-25 16:14:43 UTC</a></sub>
-* [NASA Air’s Space Station R&D, Benefits to Humanity Conference](http://www.nasa.gov/press-release/nasa-air-s-space-station-rd-benefits-to-humanity-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T140000">2022-07-25 14:00:00 UTC</a></sub>
-* [Streamlined and ready for Africa’s growth markets: Q&A with Avanti Communications CEO Kyle Whitehill](https://spacenews.com/streamlined-and-ready-for-africas-growth-markets-qa-with-avanti-communications-ceo-kyle-whitehill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T072009">2022-07-25 07:20:09 UTC</a></sub>
-* [Eutelsat and OneWeb agree multi-orbit merger plan](https://spacenews.com/eutelsat-and-oneweb-discussing-multi-orbit-merger-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T063014">2022-07-25 06:30:14 UTC</a></sub>
-* [SpaceX’s next crew launch delayed by booster damage](https://spaceflightnow.com/2022/07/25/spacexs-next-crew-launch-delayed-by-booster-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T050958">2022-07-25 05:09:58 UTC</a></sub>
-* [Wentian science module docks with China’s space station](https://spaceflightnow.com/2022/07/24/wentian-science-module-docks-with-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T211009">2022-07-24 21:10:09 UTC</a></sub>
-* [Second module docks at China’s space station, large rocket stage tracked in orbit](https://spacenews.com/second-module-docks-at-chinas-space-station-large-rocket-stage-tracked-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T202022">2022-07-24 20:20:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -198,6 +199,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Life on Venus? New updates on the search](https://www.planetary.org/articles/life-on-venus-new-updates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140100">2022-07-26 14:01:00 UTC</a></sub>
 * [A space smorgasbord](https://www.planetary.org/the-downlink/a-space-smorgasbord) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143050">2022-07-22 14:30:50 UTC</a></sub>
 * [Slowly returning to in-person member events](https://www.planetary.org/articles/returning-to-in-person-member-events) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T140115">2022-07-21 14:01:15 UTC</a></sub>
 * [Faith, Doubt, and Contact](https://www.planetary.org/articles/contact-movie-25th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T130053">2022-07-21 13:00:53 UTC</a></sub>
@@ -207,7 +209,6 @@ region. The mission's status is currently To Be Determined
 * [Chandrayaan-1, India’s first Moon mission](https://www.planetary.org/space-missions/chandrayaan-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T140054">2022-07-18 14:00:54 UTC</a></sub>
 * [Love at first sights](https://www.planetary.org/the-downlink/love-at-first-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T143050">2022-07-15 14:30:50 UTC</a></sub>
 * [See JWST's amazing first science images](https://www.planetary.org/articles/james-webb-space-telescope-first-science-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T152841">2022-07-12 15:28:41 UTC</a></sub>
-* [See JWST’s first deep field image](https://www.planetary.org/articles/jwst-first-deep-field-image) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T223549">2022-07-11 22:35:49 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -220,7 +221,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T100433">2022-07-26 10:04:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T043101">2022-07-27 04:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
