@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA prepares to award SLS launch services contract to Boeing-Northrop joint venture](https://spacenews.com/nasa-prepares-to-award-sls-launch-services-contract-to-boeing-northrop-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T090010">2022-07-27 09:00:10 UTC</a></sub>
+* [CAS Space puts six satellites in orbit with first orbital launch](https://spacenews.com/cas-space-puts-six-satellites-in-orbit-with-first-orbital-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T085015">2022-07-27 08:50:15 UTC</a></sub>
 * [ESA selects Viasat for multi-orbit satellite communications study](https://spacenews.com/esa-selects-viasat-for-multi-orbit-satellite-communication-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T222013">2022-07-26 22:20:13 UTC</a></sub>
 * [Startup Wallaroo Labs wins Space Force contract to model performance of AI on edge devices](https://spacenews.com/startup-wallaroo-labs-wins-space-force-contract-to-model-performance-of-ai-on-edge-devices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T213022">2022-07-26 21:30:22 UTC</a></sub>
 * [NASA Prepares for Space Launch System Rocket Services Contract](http://www.nasa.gov/press-release/nasa-prepares-for-space-launch-system-rocket-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T203000">2022-07-26 20:30:00 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Data from OSIRIS-REx reveals loose surface of asteroid Bennu and “early aging” of asteroids](https://www.nasaspaceflight.com/2022/07/osiris-rex-bennu-aging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165237">2022-07-26 16:52:37 UTC</a></sub>
 * [NASA: no notification by Russia to end ISS participation](https://spacenews.com/nasa-no-notification-by-russia-to-end-iss-participation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165020">2022-07-26 16:50:20 UTC</a></sub>
 * [Sierra Space establishes national security advisory group](https://spacenews.com/sierra-space-establishes-national-security-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140019">2022-07-26 14:00:19 UTC</a></sub>
-* [Orbit Fab to donate regolith to lunar resources trust](https://spacenews.com/orbit-fab-to-donate-regolith-to-lunar-resources-trust/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T131019">2022-07-26 13:10:19 UTC</a></sub>
-* [HawkEye 360 opens satellite manufacturing facility in Virginia](https://spacenews.com/hawkeye-360-opens-satellite-manufacturing-facility-in-virginia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T074014">2022-07-26 07:40:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T090428">2022-07-27 09:04:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T093624">2022-07-27 09:36:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
