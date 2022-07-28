@@ -177,6 +177,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Awaiting Static Fire as SpaceX sets up Starship’s test campaign](https://www.nasaspaceflight.com/2022/07/starship-24-awaiting-static-fires/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T201158">2022-07-28 20:11:58 UTC</a></sub>
+* [Senate appropriators boost military space programs in proposed 2023 spending bill](https://spacenews.com/senate-appropriators-boost-military-space-programs-in-proposed-2023-spending-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T201014">2022-07-28 20:10:14 UTC</a></sub>
 * [Northrop Grumman dismisses speculation that its 2018 acquisition of Orbital ATK could be challenged](https://spacenews.com/northrop-grumman-dismisses-speculation-that-its-2018-acquisition-of-orbital-atk-could-be-challenged/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T161013">2022-07-28 16:10:13 UTC</a></sub>
 * [SOAR High School Student Wins NASA Armstrong Scholarship](http://www.nasa.gov/centers/armstrong/news/newsreleases/2022/22-04NR.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T145000">2022-07-28 14:50:00 UTC</a></sub>
 * [Boeing takes another Starliner charge against its earnings](https://spacenews.com/boeing-takes-another-starliner-charge-against-its-earnings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T101011">2022-07-28 10:10:11 UTC</a></sub>
@@ -185,8 +187,6 @@ region. The mission's status is currently Go for Launch
 * [NASA and ESA remove rover from Mars Sample Return plans](https://spacenews.com/nasa-and-esa-remove-rover-from-mars-sample-return-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T233023">2022-07-27 23:30:23 UTC</a></sub>
 * [Rocket Lab to supply solar power units for U.S. Space Force missile warning satellites](https://spacenews.com/rocket-lab-to-supply-solar-power-units-for-u-s-space-force-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T225019">2022-07-27 22:50:19 UTC</a></sub>
 * [NASA to Host Briefings to Preview Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-to-preview-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T221000">2022-07-27 22:10:00 UTC</a></sub>
-* [NASA Announces Astronaut Shane Kimbrough to Retire](http://www.nasa.gov/press-release/nasa-announces-astronaut-shane-kimbrough-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T192000">2022-07-27 19:20:00 UTC</a></sub>
-* [NASA Marks 25 Years Since Pathfinder Touched Down on Mars](https://mars.nasa.gov/news/9232/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T181000">2022-07-27 18:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T200442">2022-07-28 20:04:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T203803">2022-07-28 20:38:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
