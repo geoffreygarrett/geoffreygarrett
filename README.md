@@ -177,6 +177,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SOAR High School Student Wins NASA Armstrong Scholarship](http://www.nasa.gov/centers/armstrong/news/newsreleases/2022/22-04NR.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T145000">2022-07-28 14:50:00 UTC</a></sub>
 * [Boeing takes another Starliner charge against its earnings](https://spacenews.com/boeing-takes-another-starliner-charge-against-its-earnings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T101011">2022-07-28 10:10:11 UTC</a></sub>
 * [Saltzman tapped to succeed Raymond as chief of the U.S. Space Force](https://spacenews.com/saltzman-tapped-to-succeed-raymond-as-chief-of-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T074022">2022-07-28 07:40:22 UTC</a></sub>
 * [NASA and ESA remove rover from Mars Sample Return plans](https://spacenews.com/nasa-and-esa-remove-rover-from-mars-sample-return-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T233023">2022-07-27 23:30:23 UTC</a></sub>
@@ -186,7 +187,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Announces Astronaut Shane Kimbrough to Retire](http://www.nasa.gov/press-release/nasa-announces-astronaut-shane-kimbrough-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T192000">2022-07-27 19:20:00 UTC</a></sub>
 * [NASA Marks 25 Years Since Pathfinder Touched Down on Mars](https://mars.nasa.gov/news/9232/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T181000">2022-07-27 18:10:00 UTC</a></sub>
 * [Orion teams ready for Artemis 1 as pre-launch preparations head into the home stretch](https://www.nasaspaceflight.com/2022/07/orion-artemis-1-home-stretch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T174530">2022-07-27 17:45:30 UTC</a></sub>
-* [NASA Will Inspire World When It Returns Mars Samples to Earth in 2033](http://www.nasa.gov/press-release/nasa-will-inspire-world-when-it-returns-mars-samples-to-earth-in-2033) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T150000">2022-07-27 15:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T150625">2022-07-28 15:06:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T154050">2022-07-28 15:40:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
