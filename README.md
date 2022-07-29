@@ -178,6 +178,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA taps Draper for first U.S. landing on far side of the moon](https://spaceflightnow.com/2022/07/29/nasa-taps-draper-for-first-u-s-landing-on-far-side-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T220004">2022-07-29 22:00:04 UTC</a></sub>
 * [Hydrosat secures Tier 1 remote sensing operating license](https://spacenews.com/hydrosat-secures-tier-1-remote-sensing-operating-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T202017">2022-07-29 20:20:17 UTC</a></sub>
 * [Masten Space Systems files for bankruptcy](https://spacenews.com/masten-space-systems-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T172014">2022-07-29 17:20:14 UTC</a></sub>
 * [Congress passes NASA authorization bill](https://spacenews.com/congress-passes-nasa-authorization-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T113014">2022-07-29 11:30:14 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently Go for Launch
 * [Senate appropriators boost military space programs in proposed 2023 spending bill](https://spacenews.com/senate-appropriators-boost-military-space-programs-in-proposed-2023-spending-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T201014">2022-07-28 20:10:14 UTC</a></sub>
 * [Northrop Grumman dismisses speculation that its 2018 acquisition of Orbital ATK could be challenged](https://spacenews.com/northrop-grumman-dismisses-speculation-that-its-2018-acquisition-of-orbital-atk-could-be-challenged/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T161013">2022-07-28 16:10:13 UTC</a></sub>
 * [SOAR High School Student Wins NASA Armstrong Scholarship](http://www.nasa.gov/centers/armstrong/news/newsreleases/2022/22-04NR.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T145000">2022-07-28 14:50:00 UTC</a></sub>
-* [Boeing takes another Starliner charge against its earnings](https://spacenews.com/boeing-takes-another-starliner-charge-against-its-earnings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T101011">2022-07-28 10:10:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T220241">2022-07-29 22:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T223644">2022-07-29 22:36:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
