@@ -197,6 +197,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Sights beyond the visible](https://www.planetary.org/the-downlink/sights-beyond-the-visible) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T143058">2022-07-29 14:30:58 UTC</a></sub>
 * [Uranus' mysterious moons: why NASA wants to explore Ariel and Miranda](https://www.planetary.org/articles/nasa-mission-uranus-moons-ariel-miranda) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T140058">2022-07-28 14:00:58 UTC</a></sub>
 * [SBIRS GEO 6: Atlas V to maximize payload's orbital delivery](https://blog.ulalaunch.com/blog/sbirs-geo-6-atlas-v-to-maximize-payloads-orbital-delivery) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T154118">2022-07-27 15:41:18 UTC</a></sub>
 * [Life on Venus? New updates on the search](https://www.planetary.org/articles/life-on-venus-new-updates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140100">2022-07-26 14:01:00 UTC</a></sub>
@@ -206,7 +207,6 @@ region. The mission's status is currently Go for Launch
 * [Job Opening: Host/Producer, Planetary Radio](https://www.planetary.org/careers/job-opening-host-producer-planetary-radio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T161044">2022-07-20 16:10:44 UTC</a></sub>
 * [A Personal Message to Planetary Radio Listeners](https://www.planetary.org/articles/personal-message-planetary-radio-listeners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T155101">2022-07-20 15:51:01 UTC</a></sub>
 * [SBIRS GEO 6: Atlas V to complete SBIRS constellation](https://blog.ulalaunch.com/blog/sbirs-geo-6-atlas-v-to-complete-sbirs-constellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T193135">2022-07-18 19:31:35 UTC</a></sub>
-* [Chandrayaan-1, India’s first Moon mission](https://www.planetary.org/space-missions/chandrayaan-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T140054">2022-07-18 14:00:54 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T140352">2022-07-29 14:03:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T143337">2022-07-29 14:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
