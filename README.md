@@ -178,6 +178,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Congress passes NASA authorization bill](https://spacenews.com/congress-passes-nasa-authorization-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T113014">2022-07-29 11:30:14 UTC</a></sub>
 * [Draft Senate appropriations bill matches overall NASA request for fiscal year 2023](https://spacenews.com/draft-senate-appropriations-bill-matches-overall-nasa-request-for-fiscal-year-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T104016">2022-07-29 10:40:16 UTC</a></sub>
 * [NASA Administrator Statement on Agency Authorization Bill](http://www.nasa.gov/press-release/nasa-administrator-statement-on-agency-authorization-bill) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T220000">2022-07-28 22:00:00 UTC</a></sub>
 * [Awaiting Static Fire as SpaceX sets up Starship’s test campaign](https://www.nasaspaceflight.com/2022/07/starship-24-awaiting-static-fires/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T201158">2022-07-28 20:11:58 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently Go for Launch
 * [Boeing takes another Starliner charge against its earnings](https://spacenews.com/boeing-takes-another-starliner-charge-against-its-earnings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T101011">2022-07-28 10:10:11 UTC</a></sub>
 * [Saltzman tapped to succeed Raymond as chief of the U.S. Space Force](https://spacenews.com/saltzman-tapped-to-succeed-raymond-as-chief-of-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T074022">2022-07-28 07:40:22 UTC</a></sub>
 * [NRO satellite upgrades delay the second of two back-to-back Rocket Lab launches](https://spacenews.com/nro-satellite-upgrades-delay-the-second-of-two-back-to-back-rocket-lab-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T003012">2022-07-28 00:30:12 UTC</a></sub>
-* [Iridium enters development deal to bring its network to smartphones](https://spacenews.com/iridium-agrees-development-deal-to-bring-its-network-to-smartphones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T233023">2022-07-27 23:30:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T110208">2022-07-29 11:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T113227">2022-07-29 11:32:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
