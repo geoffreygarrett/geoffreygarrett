@@ -185,9 +185,9 @@ region. The mission's status is currently Go for Launch
 * [SOAR High School Student Wins NASA Armstrong Scholarship](http://www.nasa.gov/centers/armstrong/news/newsreleases/2022/22-04NR.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T145000">2022-07-28 14:50:00 UTC</a></sub>
 * [Boeing takes another Starliner charge against its earnings](https://spacenews.com/boeing-takes-another-starliner-charge-against-its-earnings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T101011">2022-07-28 10:10:11 UTC</a></sub>
 * [Saltzman tapped to succeed Raymond as chief of the U.S. Space Force](https://spacenews.com/saltzman-tapped-to-succeed-raymond-as-chief-of-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T074022">2022-07-28 07:40:22 UTC</a></sub>
-* [Iridium enters development deal to bring its network to smartphones](https://spacenews.com/iridium-agrees-development-deal-to-bring-its-network-to-smartphones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T233023">2022-07-27 23:30:23 UTC</a></sub>
+* [NRO satellite upgrades delay the second of two back-to-back Rocket Lab launches](https://spacenews.com/nro-satellite-upgrades-delay-the-second-of-two-back-to-back-rocket-lab-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T003012">2022-07-28 00:30:12 UTC</a></sub>
 * [NASA and ESA remove rover from Mars Sample Return plans](https://spacenews.com/nasa-and-esa-remove-rover-from-mars-sample-return-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T233023">2022-07-27 23:30:23 UTC</a></sub>
-* [Rocket Lab to supply solar power units for U.S. Space Force missile warning satellites](https://spacenews.com/rocket-lab-to-supply-solar-power-units-for-u-s-space-force-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T225019">2022-07-27 22:50:19 UTC</a></sub>
+* [Iridium enters development deal to bring its network to smartphones](https://spacenews.com/iridium-agrees-development-deal-to-bring-its-network-to-smartphones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T233023">2022-07-27 23:30:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T233717">2022-07-28 23:37:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T003339">2022-07-29 00:33:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
