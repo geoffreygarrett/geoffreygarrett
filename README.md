@@ -183,11 +183,11 @@ region. The mission's status is currently Go for Launch
 * [Masten Space Systems files for bankruptcy](https://spacenews.com/masten-space-systems-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T172014">2022-07-29 17:20:14 UTC</a></sub>
 * [Congress passes NASA authorization bill](https://spacenews.com/congress-passes-nasa-authorization-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T113014">2022-07-29 11:30:14 UTC</a></sub>
 * [Draft Senate appropriations bill matches overall NASA request for fiscal year 2023](https://spacenews.com/draft-senate-appropriations-bill-matches-overall-nasa-request-for-fiscal-year-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T104016">2022-07-29 10:40:16 UTC</a></sub>
+* [SpaceX may launch Starlink in the Philippines in December](https://www.teslarati.com/spacex-launch-starlink-philippines-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T015058">2022-07-29 01:50:58 UTC</a></sub>
 * [NASA Administrator Statement on Agency Authorization Bill](http://www.nasa.gov/press-release/nasa-administrator-statement-on-agency-authorization-bill) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T220000">2022-07-28 22:00:00 UTC</a></sub>
 * [Awaiting Static Fire as SpaceX sets up Starship’s test campaign](https://www.nasaspaceflight.com/2022/07/starship-24-awaiting-static-fires/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T201158">2022-07-28 20:11:58 UTC</a></sub>
 * [Senate appropriators boost military space programs in proposed 2023 spending bill](https://spacenews.com/senate-appropriators-boost-military-space-programs-in-proposed-2023-spending-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T201014">2022-07-28 20:10:14 UTC</a></sub>
 * [Northrop Grumman dismisses speculation that its 2018 acquisition of Orbital ATK could be challenged](https://spacenews.com/northrop-grumman-dismisses-speculation-that-its-2018-acquisition-of-orbital-atk-could-be-challenged/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T161013">2022-07-28 16:10:13 UTC</a></sub>
-* [SOAR High School Student Wins NASA Armstrong Scholarship](http://www.nasa.gov/centers/armstrong/news/newsreleases/2022/22-04NR.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T145000">2022-07-28 14:50:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T002842">2022-07-30 00:28:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T025044">2022-07-30 02:50:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
