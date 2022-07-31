@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Roscosmos head revises comments about quitting ISS after 2024](https://spacenews.com/roscosmos-head-revises-comments-about-quitting-iss-after-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T214120">2022-07-31 21:41:20 UTC</a></sub>
 * [House appropriator discusses space priorities](https://spacenews.com/house-appropriator-discusses-space-priorities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T152121">2022-07-31 15:21:21 UTC</a></sub>
 * [NASA, ESA unveil advanced architecture for Mars Sample Return](https://www.nasaspaceflight.com/2022/07/nasa-esa-msr-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T200840">2022-07-30 20:08:40 UTC</a></sub>
 * [ESA scaling back design of X-ray astronomy mission](https://spacenews.com/esa-scaling-back-design-of-x-ray-astronomy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T195008">2022-07-30 19:50:08 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [South Korean spacecraft fueled for ride from Cape Canaveral to the moon](https://spaceflightnow.com/2022/07/30/south-korean-spacecraft-fueled-for-ride-from-cape-canaveral-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T051111">2022-07-30 05:11:11 UTC</a></sub>
 * [Re-entry of large Chinese rocket booster spotted over Borneo](https://spaceflightnow.com/2022/07/30/long-march-5b-re-entry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T040106">2022-07-30 04:01:06 UTC</a></sub>
 * [NASA taps Draper for first U.S. landing on far side of the moon](https://spaceflightnow.com/2022/07/29/nasa-taps-draper-for-first-u-s-landing-on-far-side-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T220004">2022-07-29 22:00:04 UTC</a></sub>
-* [Hydrosat secures Tier 1 remote sensing operating license](https://spacenews.com/hydrosat-secures-tier-1-remote-sensing-operating-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T202017">2022-07-29 20:20:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T213306">2022-07-31 21:33:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T220318">2022-07-31 22:03:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
