@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX shares how it’s making Starlink satellite less bright.](https://www.teslarati.com/spacex-shares-how-its-making-starlink-satellite-less-bright/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T235100">2022-07-30 23:51:00 UTC</a></sub>
 * [NASA, ESA unveil advanced architecture for Mars Sample Return](https://www.nasaspaceflight.com/2022/07/nasa-esa-msr-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T200840">2022-07-30 20:08:40 UTC</a></sub>
 * [ESA scaling back design of X-ray astronomy mission](https://spacenews.com/esa-scaling-back-design-of-x-ray-astronomy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T195008">2022-07-30 19:50:08 UTC</a></sub>
 * [Long March 5B rocket stage makes fiery uncontrolled reentry over Indian Ocean](https://spacenews.com/long-march-5b-rocket-stage-makes-uncontrolled-reentry-over-indian-ocean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T181019">2022-07-30 18:10:19 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Hydrosat secures Tier 1 remote sensing operating license](https://spacenews.com/hydrosat-secures-tier-1-remote-sensing-operating-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T202017">2022-07-29 20:20:17 UTC</a></sub>
 * [Masten Space Systems files for bankruptcy](https://spacenews.com/masten-space-systems-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T172014">2022-07-29 17:20:14 UTC</a></sub>
 * [Masten Space Systems, a NASA moon landing contractor, files for bankruptcy](https://spaceflightnow.com/2022/07/29/masten-space-systems-one-of-nasas-moon-landing-contractors-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T160002">2022-07-29 16:00:02 UTC</a></sub>
-* [Congress passes NASA authorization bill](https://spacenews.com/congress-passes-nasa-authorization-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T113014">2022-07-29 11:30:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T233440">2022-07-30 23:34:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T003405">2022-07-31 00:34:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
