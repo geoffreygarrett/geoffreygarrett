@@ -184,11 +184,11 @@ region. The mission's status is currently Go for Launch
 * [ESA scaling back design of X-ray astronomy mission](https://spacenews.com/esa-scaling-back-design-of-x-ray-astronomy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T195008">2022-07-30 19:50:08 UTC</a></sub>
 * [Long March 5B rocket stage makes fiery uncontrolled reentry over Indian Ocean](https://spacenews.com/long-march-5b-rocket-stage-makes-uncontrolled-reentry-over-indian-ocean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T181019">2022-07-30 18:10:19 UTC</a></sub>
 * [NASA Administrator Statement on Chinese Space Debris](http://www.nasa.gov/press-release/nasa-administrator-statement-on-chinese-space-debris) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T181000">2022-07-30 18:10:00 UTC</a></sub>
+* [South Korean spacecraft fueled for ride from Cape Canaveral to the moon](https://spaceflightnow.com/2022/07/30/south-korean-spacecraft-fueled-for-ride-from-cape-canaveral-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T051111">2022-07-30 05:11:11 UTC</a></sub>
 * [Re-entry of large Chinese rocket booster spotted over Borneo](https://spaceflightnow.com/2022/07/30/long-march-5b-re-entry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T040106">2022-07-30 04:01:06 UTC</a></sub>
 * [NASA taps Draper for first U.S. landing on far side of the moon](https://spaceflightnow.com/2022/07/29/nasa-taps-draper-for-first-u-s-landing-on-far-side-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T220004">2022-07-29 22:00:04 UTC</a></sub>
 * [Hydrosat secures Tier 1 remote sensing operating license](https://spacenews.com/hydrosat-secures-tier-1-remote-sensing-operating-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T202017">2022-07-29 20:20:17 UTC</a></sub>
 * [Masten Space Systems files for bankruptcy](https://spacenews.com/masten-space-systems-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T172014">2022-07-29 17:20:14 UTC</a></sub>
-* [Masten Space Systems, a NASA moon landing contractor, files for bankruptcy](https://spaceflightnow.com/2022/07/29/masten-space-systems-one-of-nasas-moon-landing-contractors-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T160002">2022-07-29 16:00:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T050927">2022-07-31 05:09:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T053516">2022-07-31 05:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
