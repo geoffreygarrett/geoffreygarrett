@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Television Transponder Change Monday, Aug. 29](http://www.nasa.gov/press-release/nasa-television-transponder-change-monday-aug-29) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T211200">2022-08-01 21:12:00 UTC</a></sub>
 * [December launch planned for Polaris Dawn](https://spacenews.com/december-launch-planned-for-polaris-dawn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T173116">2022-08-01 17:31:16 UTC</a></sub>
 * [SES closes $450 million acquisition of DRS’ satellite communications business](https://spacenews.com/ses-closes-450-million-acquisition-of-drs-satellite-communications-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T170129">2022-08-01 17:01:29 UTC</a></sub>
 * [SLS Stages in assembly at MAF for future NASA Artemis launches](https://www.nasaspaceflight.com/2022/08/sls-stages-assembly-maf-future-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T155815">2022-08-01 15:58:15 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Roscosmos head revises comments about quitting ISS after 2024](https://spacenews.com/roscosmos-head-revises-comments-about-quitting-iss-after-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T214120">2022-07-31 21:41:20 UTC</a></sub>
 * [House appropriator discusses space priorities](https://spacenews.com/house-appropriator-discusses-space-priorities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T152121">2022-07-31 15:21:21 UTC</a></sub>
 * [NASA, companies reject concerns over commercial space station development schedules](https://spacenews.com/nasa-companies-reject-concerns-over-commercial-space-station-development-schedules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T031114">2022-07-31 03:11:14 UTC</a></sub>
-* [NASA, ESA unveil advanced architecture for Mars Sample Return](https://www.nasaspaceflight.com/2022/07/nasa-esa-msr-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T200840">2022-07-30 20:08:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T210452">2022-08-01 21:04:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T213703">2022-08-01 21:37:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
