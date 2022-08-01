@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force to take on bigger role planning future DoD space investments](https://spacenews.com/space-force-to-take-on-bigger-role-planning-future-dod-space-investments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T115119">2022-08-01 11:51:19 UTC</a></sub>
 * [Isotropic Systems rebrands as All.Space and unveils latest terminal](https://spacenews.com/isotropic-rebrands-as-all-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T080127">2022-08-01 08:01:27 UTC</a></sub>
 * [Roscosmos head revises comments about quitting ISS after 2024](https://spacenews.com/roscosmos-head-revises-comments-about-quitting-iss-after-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T214120">2022-07-31 21:41:20 UTC</a></sub>
 * [House appropriator discusses space priorities](https://spacenews.com/house-appropriator-discusses-space-priorities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T152121">2022-07-31 15:21:21 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Long March 5B rocket stage makes fiery uncontrolled reentry over Indian Ocean](https://spacenews.com/long-march-5b-rocket-stage-makes-uncontrolled-reentry-over-indian-ocean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T181019">2022-07-30 18:10:19 UTC</a></sub>
 * [NASA Administrator Statement on Chinese Space Debris](http://www.nasa.gov/press-release/nasa-administrator-statement-on-chinese-space-debris) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T181000">2022-07-30 18:10:00 UTC</a></sub>
 * [SpaceX shares how it’s making Starlink satellites less bright.](https://www.teslarati.com/spacex-shares-how-its-making-starlink-satellite-less-bright/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T151214">2022-07-30 15:12:14 UTC</a></sub>
-* [South Korean spacecraft fueled for ride from Cape Canaveral to the moon](https://spaceflightnow.com/2022/07/30/south-korean-spacecraft-fueled-for-ride-from-cape-canaveral-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T051111">2022-07-30 05:11:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T113312">2022-08-01 11:33:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T121242">2022-08-01 12:12:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
