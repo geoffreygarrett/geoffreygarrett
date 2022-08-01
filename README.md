@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [December launch planned for Polaris Dawn](https://spacenews.com/december-launch-planned-for-polaris-dawn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T173116">2022-08-01 17:31:16 UTC</a></sub>
+* [SES closes $450 million acquisition of DRS’ satellite communications business](https://spacenews.com/ses-closes-450-million-acquisition-of-drs-satellite-communications-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T170129">2022-08-01 17:01:29 UTC</a></sub>
 * [SLS Stages in assembly at MAF for future NASA Artemis launches](https://www.nasaspaceflight.com/2022/08/sls-stages-assembly-maf-future-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T155815">2022-08-01 15:58:15 UTC</a></sub>
 * [Isotropic Systems rebrands as All.Space and unveils latest terminal](https://spacenews.com/isotropic-rebrands-as-all-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T153117">2022-08-01 15:31:17 UTC</a></sub>
 * [We’re about to enter the heart of the Atlantic hurricane season](https://arstechnica.com/science/2022/08/the-atlantic-hurricane-season-is-off-to-a-slow-start-but-that-probably-wont-last/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T140304">2022-08-01 14:03:04 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [House appropriator discusses space priorities](https://spacenews.com/house-appropriator-discusses-space-priorities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T152121">2022-07-31 15:21:21 UTC</a></sub>
 * [NASA, companies reject concerns over commercial space station development schedules](https://spacenews.com/nasa-companies-reject-concerns-over-commercial-space-station-development-schedules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T031114">2022-07-31 03:11:14 UTC</a></sub>
 * [NASA, ESA unveil advanced architecture for Mars Sample Return](https://www.nasaspaceflight.com/2022/07/nasa-esa-msr-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T200840">2022-07-30 20:08:40 UTC</a></sub>
-* [ESA scaling back design of X-ray astronomy mission](https://spacenews.com/esa-scaling-back-design-of-x-ray-astronomy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T195008">2022-07-30 19:50:08 UTC</a></sub>
-* [Long March 5B rocket stage makes fiery uncontrolled reentry over Indian Ocean](https://spacenews.com/long-march-5b-rocket-stage-makes-uncontrolled-reentry-over-indian-ocean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T181019">2022-07-30 18:10:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T172010">2022-08-01 17:20:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T174259">2022-08-01 17:42:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
