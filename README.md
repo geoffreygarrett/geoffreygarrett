@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Triton, Neptune's largest moon](https://www.planetary.org/worlds/triton) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T140202">2022-08-02 14:02:02 UTC</a></sub>
 * [RocketStars: Ron McKee serves as SBIRS GEO 6 launch conductor](https://blog.ulalaunch.com/blog/rocketstars-ron-mckee-serves-as-sbirs-geo-6-launch-conductor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T162233">2022-08-01 16:22:33 UTC</a></sub>
 * [Sights beyond the visible](https://www.planetary.org/the-downlink/sights-beyond-the-visible) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T143058">2022-07-29 14:30:58 UTC</a></sub>
 * [Uranus' mysterious moons: why NASA wants to explore Ariel and Miranda](https://www.planetary.org/articles/nasa-mission-uranus-moons-ariel-miranda) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T140058">2022-07-28 14:00:58 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [Slowly returning to in-person member events](https://www.planetary.org/articles/returning-to-in-person-member-events) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T140115">2022-07-21 14:01:15 UTC</a></sub>
 * [Faith, Doubt, and Contact](https://www.planetary.org/articles/contact-movie-25th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T130053">2022-07-21 13:00:53 UTC</a></sub>
 * [Job Opening: Host/Producer, Planetary Radio](https://www.planetary.org/careers/job-opening-host-producer-planetary-radio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T161044">2022-07-20 16:10:44 UTC</a></sub>
-* [A Personal Message to Planetary Radio Listeners](https://www.planetary.org/articles/personal-message-planetary-radio-listeners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T155101">2022-07-20 15:51:01 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T140634">2022-08-02 14:06:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T143621">2022-08-02 14:36:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
