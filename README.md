@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA revises requirements for ISS private astronaut missions](https://spacenews.com/nasa-revises-requirements-for-iss-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T114117">2022-08-02 11:41:17 UTC</a></sub>
 * [Rocket Lab’s Electron to launch NROL-199 mission](https://www.nasaspaceflight.com/2022/08/rocket-labs-nrol-199/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T214101">2022-08-01 21:41:01 UTC</a></sub>
 * [NASA Television Transponder Change Monday, Aug. 29](http://www.nasa.gov/press-release/nasa-television-transponder-change-monday-aug-29) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T211200">2022-08-01 21:12:00 UTC</a></sub>
 * [December launch planned for Polaris Dawn](https://spacenews.com/december-launch-planned-for-polaris-dawn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T173116">2022-08-01 17:31:16 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [We’re about to enter the heart of the Atlantic hurricane season](https://arstechnica.com/science/2022/08/the-atlantic-hurricane-season-is-off-to-a-slow-start-but-that-probably-wont-last/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T140304">2022-08-01 14:03:04 UTC</a></sub>
 * [Space Force to take on bigger role planning future DoD space investments](https://spacenews.com/space-force-to-take-on-bigger-role-planning-future-dod-space-investments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T115119">2022-08-01 11:51:19 UTC</a></sub>
 * [SpaceX Super Heavy tank prototype survives crush testing](https://www.teslarati.com/spacex-super-heavy-tank-survives-crush-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T055153">2022-08-01 05:51:53 UTC</a></sub>
-* [Roscosmos head revises comments about quitting ISS after 2024](https://spacenews.com/roscosmos-head-revises-comments-about-quitting-iss-after-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T214120">2022-07-31 21:41:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T113243">2022-08-02 11:32:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T121333">2022-08-02 12:13:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
