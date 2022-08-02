@@ -187,6 +187,8 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA’s Atlas 5 rocket moved to launch pad with U.S. military missile warning satellite](https://spaceflightnow.com/2022/08/02/ulas-atlas-5-rocket-moved-to-launch-pad-with-u-s-military-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T232113">2022-08-02 23:21:13 UTC</a></sub>
+* [Biden to sign chips bill in a boost for satellite supply chains](https://spacenews.com/biden-to-sign-chips-bill-in-a-boost-for-satellite-supply-chains/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T225125">2022-08-02 22:51:25 UTC</a></sub>
 * [Report: U.S. should push for global rules on space traffic management](https://spacenews.com/report-u-s-should-push-for-global-rules-on-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T173126">2022-08-02 17:31:26 UTC</a></sub>
 * [Why space debris keeps falling out of the sky—and will continue to do so](https://arstechnica.com/science/2022/08/why-space-debris-keeps-falling-out-of-the-sky-and-will-continue-to-do-so/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T162723">2022-08-02 16:27:23 UTC</a></sub>
 * [NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-5 Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-5-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T162100">2022-08-02 16:21:00 UTC</a></sub>
@@ -195,8 +197,6 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 * [Rocket Lab’s Electron to launch NROL-199 mission](https://www.nasaspaceflight.com/2022/08/rocket-labs-nrol-199/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T214101">2022-08-01 21:41:01 UTC</a></sub>
 * [NASA Television Transponder Change Monday, Aug. 29](http://www.nasa.gov/press-release/nasa-television-transponder-change-monday-aug-29) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T211200">2022-08-01 21:12:00 UTC</a></sub>
 * [December launch planned for Polaris Dawn](https://spacenews.com/december-launch-planned-for-polaris-dawn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T173116">2022-08-01 17:31:16 UTC</a></sub>
-* [SES closes $450 million acquisition of DRS’ satellite communications business](https://spacenews.com/ses-closes-450-million-acquisition-of-drs-satellite-communications-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T170129">2022-08-01 17:01:29 UTC</a></sub>
-* [SLS Stages in assembly at MAF for future NASA Artemis launches](https://www.nasaspaceflight.com/2022/08/sls-stages-assembly-maf-future-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T155815">2022-08-01 15:58:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T230318">2022-08-02 23:03:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T233646">2022-08-02 23:36:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
