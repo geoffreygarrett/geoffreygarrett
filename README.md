@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Report: U.S. should push for global rules on space traffic management](https://spacenews.com/report-u-s-should-push-for-global-rules-on-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T173126">2022-08-02 17:31:26 UTC</a></sub>
 * [Why space debris keeps falling out of the sky—and will continue to do so](https://arstechnica.com/science/2022/08/why-space-debris-keeps-falling-out-of-the-sky-and-will-continue-to-do-so/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T162723">2022-08-02 16:27:23 UTC</a></sub>
 * [NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-5 Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-5-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T162100">2022-08-02 16:21:00 UTC</a></sub>
 * [Hyundai partners with research institutes to develop vehicle for lunar surface exploration](https://spacenews.com/hyundai-partners-with-research-institutes-to-develop-vehicle-for-lunar-surface-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T133123">2022-08-02 13:31:23 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [December launch planned for Polaris Dawn](https://spacenews.com/december-launch-planned-for-polaris-dawn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T173116">2022-08-01 17:31:16 UTC</a></sub>
 * [SES closes $450 million acquisition of DRS’ satellite communications business](https://spacenews.com/ses-closes-450-million-acquisition-of-drs-satellite-communications-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T170129">2022-08-01 17:01:29 UTC</a></sub>
 * [SLS Stages in assembly at MAF for future NASA Artemis launches](https://www.nasaspaceflight.com/2022/08/sls-stages-assembly-maf-future-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T155815">2022-08-01 15:58:15 UTC</a></sub>
-* [Isotropic Systems rebrands as All.Space and unveils latest terminal](https://spacenews.com/isotropic-rebrands-as-all-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T153117">2022-08-01 15:31:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T171928">2022-08-02 17:19:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T174310">2022-08-02 17:43:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
