@@ -187,6 +187,7 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [With solar arrays now operational, Lucy’s got some shimmering to do](https://arstechnica.com/science/2022/08/with-solar-arrays-now-operational-lucys-got-some-shimmering-to-do/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T212310">2022-08-03 21:23:10 UTC</a></sub>
 * [Lockheed invests in Xona’s GPS-alternative constellation](https://spacenews.com/lockheed-invests-in-xonas-gps-alternative-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T191126">2022-08-03 19:11:26 UTC</a></sub>
 * [SpaceX working to improve fairing recovery for continued success](https://www.nasaspaceflight.com/2022/08/spacex-fairing-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T165353">2022-08-03 16:53:53 UTC</a></sub>
 * [Russia wants a better look at what America’s newest spy satellite can do](https://arstechnica.com/science/2022/08/russia-apparently-just-launched-a-satellite-to-snoop-on-a-new-us-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T164659">2022-08-03 16:46:59 UTC</a></sub>
@@ -196,7 +197,6 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 * [ULA’s Atlas 5 rocket moved to launch pad with U.S. military missile warning satellite](https://spaceflightnow.com/2022/08/02/ulas-atlas-5-rocket-moved-to-launch-pad-with-u-s-military-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T232113">2022-08-02 23:21:13 UTC</a></sub>
 * [Biden to sign chips bill in a boost for satellite supply chains](https://spacenews.com/biden-to-sign-chips-bill-in-a-boost-for-satellite-supply-chains/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T225125">2022-08-02 22:51:25 UTC</a></sub>
 * [Final SBIRS missile warning satellite ready for launch](https://spaceflightnow.com/2022/08/02/final-sbirs-missile-warning-satellite-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T174109">2022-08-02 17:41:09 UTC</a></sub>
-* [Report: U.S. should push for global rules on space traffic management](https://spacenews.com/report-u-s-should-push-for-global-rules-on-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T173126">2022-08-02 17:31:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T210324">2022-08-03 21:03:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T213509">2022-08-03 21:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
