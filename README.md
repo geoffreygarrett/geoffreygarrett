@@ -194,9 +194,9 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 * [Momentus deploys additional satellites from Vigoride tug](https://spacenews.com/momentus-deploys-additional-satellites-from-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T105124">2022-08-03 10:51:24 UTC</a></sub>
 * [ULA’s Atlas 5 rocket moved to launch pad with U.S. military missile warning satellite](https://spaceflightnow.com/2022/08/02/ulas-atlas-5-rocket-moved-to-launch-pad-with-u-s-military-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T232113">2022-08-02 23:21:13 UTC</a></sub>
 * [Biden to sign chips bill in a boost for satellite supply chains](https://spacenews.com/biden-to-sign-chips-bill-in-a-boost-for-satellite-supply-chains/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T225125">2022-08-02 22:51:25 UTC</a></sub>
+* [Final SBIRS missile warning satellite ready for launch](https://spaceflightnow.com/2022/08/02/final-sbirs-missile-warning-satellite-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T174109">2022-08-02 17:41:09 UTC</a></sub>
 * [Report: U.S. should push for global rules on space traffic management](https://spacenews.com/report-u-s-should-push-for-global-rules-on-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T173126">2022-08-02 17:31:26 UTC</a></sub>
 * [Why space debris keeps falling out of the sky—and will continue to do so](https://arstechnica.com/science/2022/08/why-space-debris-keeps-falling-out-of-the-sky-and-will-continue-to-do-so/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T162723">2022-08-02 16:27:23 UTC</a></sub>
-* [NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-5 Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-5-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T162100">2022-08-02 16:21:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T180700">2022-08-03 18:07:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T184248">2022-08-03 18:42:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
