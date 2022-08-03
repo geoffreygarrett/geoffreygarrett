@@ -187,6 +187,7 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Momentus deploys additional satellites from Vigoride tug](https://spacenews.com/momentus-deploys-additional-satellites-from-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T105124">2022-08-03 10:51:24 UTC</a></sub>
 * [ULA’s Atlas 5 rocket moved to launch pad with U.S. military missile warning satellite](https://spaceflightnow.com/2022/08/02/ulas-atlas-5-rocket-moved-to-launch-pad-with-u-s-military-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T232113">2022-08-02 23:21:13 UTC</a></sub>
 * [Biden to sign chips bill in a boost for satellite supply chains](https://spacenews.com/biden-to-sign-chips-bill-in-a-boost-for-satellite-supply-chains/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T225125">2022-08-02 22:51:25 UTC</a></sub>
 * [Report: U.S. should push for global rules on space traffic management](https://spacenews.com/report-u-s-should-push-for-global-rules-on-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T173126">2022-08-02 17:31:26 UTC</a></sub>
@@ -196,7 +197,6 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 * [NASA revises requirements for ISS private astronaut missions](https://spacenews.com/nasa-revises-requirements-for-iss-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T114117">2022-08-02 11:41:17 UTC</a></sub>
 * [Elon Musk sets expectations for SpaceX’s first orbital Starship launches](https://www.teslarati.com/spacex-starship-orbital-launch-debut-elon-musk-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T051210">2022-08-02 05:12:10 UTC</a></sub>
 * [RS-25 delays impact Aerojet earnings](https://spacenews.com/rs-25-delays-impact-aerojet-earnings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T021116">2022-08-02 02:11:16 UTC</a></sub>
-* [Rocket Lab’s Electron to launch NROL-199 mission](https://www.nasaspaceflight.com/2022/08/rocket-labs-nrol-199/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T214101">2022-08-01 21:41:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T110257">2022-08-03 11:02:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T113251">2022-08-03 11:32:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
