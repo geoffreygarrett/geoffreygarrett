@@ -100,7 +100,7 @@ Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T230800">2022-08-04 23:08:00 UTC</a>. Until
 then, this launch pad will have seen 148
-out of 851 launches in this
+out of 852 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
@@ -176,6 +176,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Insurance claim for failed Measat-3 satellite in dispute](https://spacenews.com/insurance-claim-for-failed-measat-3-satellite-in-dispute/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T165108">2022-08-04 16:51:08 UTC</a></sub>
 * [Consolidation wave pushes rivals SES and Intelsat into merger talks](https://spacenews.com/consolidation-wave-pushes-rivals-ses-and-intelsat-into-merger-talks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T151105">2022-08-04 15:11:05 UTC</a></sub>
 * [Blue Origin launches six more passengers to suborbital space](https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T145103">2022-08-04 14:51:03 UTC</a></sub>
 * [Blue Origin launches sixth New Shepard crewed suborbital flight](https://spacenews.com/blue-origin-launches-sixth-new-shepard-crewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T143109">2022-08-04 14:31:09 UTC</a></sub>
@@ -185,7 +186,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab launches classified mission for National Reconnaissance Office](https://spacenews.com/rocket-lab-launches-classified-mission-for-national-reconnaissance-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T073107">2022-08-04 07:31:07 UTC</a></sub>
 * [First SLS launch remains on schedule for late August](https://spacenews.com/first-sls-launch-remains-on-schedule-for-late-august/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T223116">2022-08-03 22:31:16 UTC</a></sub>
 * [With solar arrays now operational, Lucy’s got some shimmering to do](https://arstechnica.com/science/2022/08/with-solar-arrays-now-operational-lucys-got-some-shimmering-to-do/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T212310">2022-08-03 21:23:10 UTC</a></sub>
-* [Lockheed invests in Xona’s GPS-alternative constellation](https://spacenews.com/lockheed-invests-in-xonas-gps-alternative-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T191126">2022-08-03 19:11:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -218,7 +218,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T160712">2022-08-04 16:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T165600">2022-08-04 16:56:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
