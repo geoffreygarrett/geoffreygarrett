@@ -94,26 +94,30 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-New Shepard | NS-22 at the
-<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a> in
-Corn Ranch, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T133000">2022-08-04 13:30:00 UTC</a>. Until
-then, this launch pad will have seen 21
-out of 21 launches in this
+Long March 2F | Chinese Reusable Space Vehicle (???) at the
+<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a> in
+Jiuquan, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T155200">2022-08-04 15:52:00 UTC</a>. Until
+then, this launch pad will have seen 17
+out of 168 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  NS-22 is the sixth crewed New Shepard flight, carrying six passengers.
+  Note: Identity of launch itself and launch vehicle/payload extremely uncertain; information may be completely wrong.
+
+Probable reflight of the Chinese spaceplane capable of returning to Earth, which flew in orbit September 4 - 6, 2020.
+
+Existence of mission currently based on probable rocket drop zones only with high uncertainty.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_2F" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps/place/31%C2%B025'22.4%22N+104%C2%B045'25.6%22W" >
+  <a href="http://maps.google.com/maps?q=40.958093,100.291188" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +130,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NS-22</b> from Corn Ranch, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T133000">2022-08-04 13:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-22&location=Corn Ranch, USA&dates=20220804T133000Z%2F20220804T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Chinese Reusable Space Vehicle (???)</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T155200">2022-08-04 15:52:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F | Chinese Reusable Space Vehicle (???)&location=Jiuquan, People&#x27;s Republic of China&dates=20220804T155200Z%2F20220804T174000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>KPLO (Korean Pathfinder Lunar Orbiter)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T230800">2022-08-04 23:08:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Danuri (KPLO - Korean Pathfinder Lunar Orbiter)&location=Cape Canaveral, FL, USA&dates=20220804T230800Z%2F20220804T230800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>SSLV Demo 1</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T034800">2022-08-07 03:48:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | EOS-02 (Microsat-2A) (Demo 1)&location=Sriharikota, Republic of India&dates=20220807T034800Z%2F20220807T034800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -178,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Blue Origin to launch six more passengers to suborbital space](https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T133103">2022-08-04 13:31:03 UTC</a></sub>
 * [Geospatial analysis provider Descartes Labs sold to private equity firm](https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T130105">2022-08-04 13:01:05 UTC</a></sub>
 * [ULA launches the last SBIRS U.S. Space Force missile warning satellite](https://spacenews.com/ula-launches-the-last-sbirs-u-s-space-force-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T105110">2022-08-04 10:51:10 UTC</a></sub>
 * [ULA’s Atlas V launches final SBIRS GEO missile detection satellite](https://www.nasaspaceflight.com/2022/08/atlas-final-sbirs-geo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T080424">2022-08-04 08:04:24 UTC</a></sub>
@@ -187,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Lockheed invests in Xona’s GPS-alternative constellation](https://spacenews.com/lockheed-invests-in-xonas-gps-alternative-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T191126">2022-08-03 19:11:26 UTC</a></sub>
 * [SpaceX working to improve fairing recovery for continued success](https://www.nasaspaceflight.com/2022/08/spacex-fairing-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T165353">2022-08-03 16:53:53 UTC</a></sub>
 * [Russia wants a better look at what America’s newest spy satellite can do](https://arstechnica.com/science/2022/08/russia-apparently-just-launched-a-satellite-to-snoop-on-a-new-us-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T164659">2022-08-03 16:46:59 UTC</a></sub>
-* [ESA ends efforts to recover Sentinel-1B](https://spacenews.com/esa-ends-efforts-to-recover-sentinel-1b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T151116">2022-08-03 15:11:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T130638">2022-08-04 13:06:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T135136">2022-08-04 13:51:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
