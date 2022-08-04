@@ -176,6 +176,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Spire to host second optical payload for South Korea’s Hancom](https://spacenews.com/spire-to-host-second-optical-payload-for-south-koreas-hancom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T193106">2022-08-04 19:31:06 UTC</a></sub>
+* [Key Russian official confirms his country’s commitment to the space station](https://arstechnica.com/science/2022/08/key-russian-official-confirms-his-countrys-commitment-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T191000">2022-08-04 19:10:00 UTC</a></sub>
 * [SAM's Top 5 Discoveries Aboard NASA's Curiosity Rover at Mars](https://mars.nasa.gov/news/9239/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T181100">2022-08-04 18:11:00 UTC</a></sub>
 * [NRO’s spy satellite fleet to become more diverse](https://spacenews.com/nros-spy-satellite-fleet-to-become-more-diverse/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T175105">2022-08-04 17:51:05 UTC</a></sub>
 * [Rocket Lab launches top secret payload for U.S. spy satellite agency](https://spaceflightnow.com/2022/08/04/rocket-lab-launches-top-secret-payload-for-u-s-spy-satellite-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T175102">2022-08-04 17:51:02 UTC</a></sub>
@@ -184,8 +186,6 @@ region. The mission's status is currently Go for Launch
 * [Blue Origin launches six more passengers to suborbital space](https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T145103">2022-08-04 14:51:03 UTC</a></sub>
 * [Blue Origin launches sixth New Shepard crewed suborbital flight](https://spacenews.com/blue-origin-launches-sixth-new-shepard-crewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T143109">2022-08-04 14:31:09 UTC</a></sub>
 * [Geospatial analysis provider Descartes Labs sold to private equity firm](https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T130105">2022-08-04 13:01:05 UTC</a></sub>
-* [ULA launches the last SBIRS U.S. Space Force missile warning satellite](https://spacenews.com/ula-launches-the-last-sbirs-u-s-space-force-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T105110">2022-08-04 10:51:10 UTC</a></sub>
-* [ULA’s Atlas V launches final SBIRS GEO missile detection satellite](https://www.nasaspaceflight.com/2022/08/atlas-final-sbirs-geo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T080424">2022-08-04 08:04:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -218,7 +218,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T190218">2022-08-04 19:02:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T193252">2022-08-04 19:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
