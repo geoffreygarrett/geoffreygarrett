@@ -94,30 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Long March 2F | Chinese Reusable Space Vehicle (???) at the
-<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a> in
-Jiuquan, People's Republic of China
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T155200">2022-08-04 15:52:00 UTC</a>. Until
-then, this launch pad will have seen 17
-out of 168 launches in this
+Falcon 9 Block 5 | Danuri (KPLO - Korean Pathfinder Lunar Orbiter) at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T230800">2022-08-04 23:08:00 UTC</a>. Until
+then, this launch pad will have seen 148
+out of 851 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Note: Identity of launch itself and launch vehicle/payload extremely uncertain; information may be completely wrong.
-
-Probable reflight of the Chinese spaceplane capable of returning to Earth, which flew in orbit September 4 - 6, 2020.
-
-Existence of mission currently based on probable rocket drop zones only with high uncertainty.
+  Lunar orbiter designed by the Korea Aerospace Research Institute (KARI) to demonstrate technologies, survey lunar resources and produce a topographic map.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2F" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=40.958093,100.291188" >
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -130,7 +126,6 @@ Existence of mission currently based on probable rocket drop zones only with hig
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Chinese Reusable Space Vehicle (???)</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T155200">2022-08-04 15:52:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F | Chinese Reusable Space Vehicle (???)&location=Jiuquan, People&#x27;s Republic of China&dates=20220804T155200Z%2F20220804T174000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>KPLO (Korean Pathfinder Lunar Orbiter)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T230800">2022-08-04 23:08:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Danuri (KPLO - Korean Pathfinder Lunar Orbiter)&location=Cape Canaveral, FL, USA&dates=20220804T230800Z%2F20220804T230800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>SSLV Demo 1</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T034800">2022-08-07 03:48:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | EOS-02 (Microsat-2A) (Demo 1)&location=Sriharikota, Republic of India&dates=20220807T034800Z%2F20220807T034800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b><name missing></b> from Vostochny Cosmodrome, Siberia, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T000000">2022-08-09 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Meteor-M No.2-4&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20220809T000000Z%2F20220809T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -223,7 +218,7 @@ Existence of mission currently based on probable rocket drop zones only with hig
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T154143">2022-08-04 15:41:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T160712">2022-08-04 16:07:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
