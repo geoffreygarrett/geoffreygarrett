@@ -181,6 +181,7 @@ Existence of mission currently based on probable rocket drop zones only with hig
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin launches sixth New Shepard crewed suborbital flight](https://spacenews.com/blue-origin-launches-sixth-new-shepard-crewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T143109">2022-08-04 14:31:09 UTC</a></sub>
 * [Watch live: Blue Origin to launch six more passengers to suborbital space](https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T133103">2022-08-04 13:31:03 UTC</a></sub>
 * [Geospatial analysis provider Descartes Labs sold to private equity firm](https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T130105">2022-08-04 13:01:05 UTC</a></sub>
 * [ULA launches the last SBIRS U.S. Space Force missile warning satellite](https://spacenews.com/ula-launches-the-last-sbirs-u-s-space-force-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T105110">2022-08-04 10:51:10 UTC</a></sub>
@@ -190,7 +191,6 @@ Existence of mission currently based on probable rocket drop zones only with hig
 * [With solar arrays now operational, Lucy’s got some shimmering to do](https://arstechnica.com/science/2022/08/with-solar-arrays-now-operational-lucys-got-some-shimmering-to-do/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T212310">2022-08-03 21:23:10 UTC</a></sub>
 * [Lockheed invests in Xona’s GPS-alternative constellation](https://spacenews.com/lockheed-invests-in-xonas-gps-alternative-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T191126">2022-08-03 19:11:26 UTC</a></sub>
 * [SpaceX working to improve fairing recovery for continued success](https://www.nasaspaceflight.com/2022/08/spacex-fairing-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T165353">2022-08-03 16:53:53 UTC</a></sub>
-* [Russia wants a better look at what America’s newest spy satellite can do](https://arstechnica.com/science/2022/08/russia-apparently-just-launched-a-satellite-to-snoop-on-a-new-us-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T164659">2022-08-03 16:46:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ Existence of mission currently based on probable rocket drop zones only with hig
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [SBIRS GEO 6: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T142140">2022-08-04 14:21:40 UTC</a></sub>
 * [Why we have the SLS](https://www.planetary.org/articles/why-we-have-the-sls) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T123151">2022-08-03 12:31:51 UTC</a></sub>
 * [The Cost of SLS and Orion](https://www.planetary.org/space-policy/cost-of-sls-and-orion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T120202">2022-08-03 12:02:02 UTC</a></sub>
 * [Triton, Neptune's largest moon](https://www.planetary.org/worlds/triton) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T140202">2022-08-02 14:02:02 UTC</a></sub>
@@ -210,7 +211,6 @@ Existence of mission currently based on probable rocket drop zones only with hig
 * [SBIRS GEO 6: Atlas V to maximize payload's orbital delivery](https://blog.ulalaunch.com/blog/sbirs-geo-6-atlas-v-to-maximize-payloads-orbital-delivery) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T154118">2022-07-27 15:41:18 UTC</a></sub>
 * [Life on Venus? New updates on the search](https://www.planetary.org/articles/life-on-venus-new-updates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140100">2022-07-26 14:01:00 UTC</a></sub>
 * [A space smorgasbord](https://www.planetary.org/the-downlink/a-space-smorgasbord) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143050">2022-07-22 14:30:50 UTC</a></sub>
-* [Slowly returning to in-person member events](https://www.planetary.org/articles/returning-to-in-person-member-events) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T140115">2022-07-21 14:01:15 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ Existence of mission currently based on probable rocket drop zones only with hig
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T140230">2022-08-04 14:02:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T143359">2022-08-04 14:33:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
