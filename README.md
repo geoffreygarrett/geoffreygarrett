@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [FCC considers opening up more Ku-band to non-GEO satellite operators](https://spacenews.com/fcc-considers-opening-up-more-ku-band-to-non-geo-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T183455">2022-08-05 18:34:55 UTC</a></sub>
 * [As losses mount, Astra announces a radical pivot to a larger launch vehicle](https://arstechnica.com/science/2022/08/as-losses-mount-astra-announces-a-radical-pivot-to-a-larger-launch-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T162546">2022-08-05 16:25:46 UTC</a></sub>
 * [10 Years Since Landing, NASA's Curiosity Mars Rover Still Has Drive](https://mars.nasa.gov/news/9240/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T161500">2022-08-05 16:15:00 UTC</a></sub>
 * [South Korea’s first lunar orbiter on way to the moon](https://spacenews.com/south-koreas-first-lunar-orbiter-on-way-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T125455">2022-08-05 12:54:55 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA and Roscosmos officials restate intent to operate ISS after 2024](https://spacenews.com/nasa-and-roscosmos-officials-restate-intent-to-operate-iss-after-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T231106">2022-08-04 23:11:06 UTC</a></sub>
 * [SpaceX launches Danuri, South Korea’s first mission to the Moon](https://www.nasaspaceflight.com/2022/08/spacex-danuri-south-korea/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T204211">2022-08-04 20:42:11 UTC</a></sub>
 * [China launches secretive reusable test spacecraft](https://spacenews.com/china-launches-secretive-reusable-test-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T202107">2022-08-04 20:21:07 UTC</a></sub>
-* [NESDIS awards enterprise cloud contract to SAIC and Carahsoft](https://spacenews.com/saic-carahsoft-noaa-cloud/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T200105">2022-08-04 20:01:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T180652">2022-08-05 18:06:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T184303">2022-08-05 18:43:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
