@@ -178,6 +178,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [South Korea’s first lunar orbiter on way to the moon](https://spacenews.com/south-koreas-first-lunar-orbiter-on-way-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T125455">2022-08-05 12:54:55 UTC</a></sub>
 * [Rocket Report: SpaceX launches Korea to the Moon, Georgia’s litigious spaceport](https://arstechnica.com/science/2022/08/rocket-report-spacex-launches-korea-to-the-moon-georgias-litigious-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T113024">2022-08-05 11:30:24 UTC</a></sub>
 * [Chinese space firm raises funds for commercial weather data satellite constellation](https://spacenews.com/chinese-space-firm-raises-funds-for-commercial-weather-data-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T101454">2022-08-05 10:14:54 UTC</a></sub>
 * [Virgin Galactic again delays start of commercial suborbital flights](https://spacenews.com/virgin-galactic-again-delays-start-of-commercial-suborbital-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T075454">2022-08-05 07:54:54 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently Go for Launch
 * [NESDIS awards enterprise cloud contract to SAIC and Carahsoft](https://spacenews.com/saic-carahsoft-noaa-cloud/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T200105">2022-08-04 20:01:05 UTC</a></sub>
 * [Spire to host second optical payload for South Korea’s Hancom](https://spacenews.com/spire-to-host-second-optical-payload-for-south-koreas-hancom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T193106">2022-08-04 19:31:06 UTC</a></sub>
 * [Key Russian official confirms his country’s commitment to the space station](https://arstechnica.com/science/2022/08/key-russian-official-confirms-his-countrys-commitment-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T191000">2022-08-04 19:10:00 UTC</a></sub>
-* [SAM's Top 5 Discoveries Aboard NASA's Curiosity Rover at Mars](https://mars.nasa.gov/news/9239/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T181100">2022-08-04 18:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T121040">2022-08-05 12:10:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T130839">2022-08-05 13:08:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
