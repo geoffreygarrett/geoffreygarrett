@@ -176,7 +176,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [NASA and Roscosmos officials restate intent to operate ISS after 2024](https://spacenews.com/nasa-and-roscosmos-officials-restate-intent-to-operate-iss-after-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T231106">2022-08-04 23:11:06 UTC</a></sub>
-* [SpaceX to launch Danuri, South Korea’s first mission to the Moon](https://www.nasaspaceflight.com/2022/08/spacex-danuri-south-korea/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T204211">2022-08-04 20:42:11 UTC</a></sub>
+* [SpaceX launches Danuri, South Korea’s first mission to the Moon](https://www.nasaspaceflight.com/2022/08/spacex-danuri-south-korea/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T204211">2022-08-04 20:42:11 UTC</a></sub>
 * [China launches secretive reusable test spacecraft](https://spacenews.com/china-launches-secretive-reusable-test-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T202107">2022-08-04 20:21:07 UTC</a></sub>
 * [NESDIS awards enterprise cloud contract to SAIC and Carahsoft](https://spacenews.com/saic-carahsoft-noaa-cloud/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T200105">2022-08-04 20:01:05 UTC</a></sub>
 * [Spire to host second optical payload for South Korea’s Hancom](https://spacenews.com/spire-to-host-second-optical-payload-for-south-koreas-hancom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T193106">2022-08-04 19:31:06 UTC</a></sub>
@@ -217,7 +217,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T003926">2022-08-05 00:39:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T030613">2022-08-05 03:06:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
