@@ -177,6 +177,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic again delays start of commercial suborbital flights](https://spacenews.com/virgin-galactic-again-delays-start-of-commercial-suborbital-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T075454">2022-08-05 07:54:54 UTC</a></sub>
 * [NASA and Roscosmos officials restate intent to operate ISS after 2024](https://spacenews.com/nasa-and-roscosmos-officials-restate-intent-to-operate-iss-after-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T231106">2022-08-04 23:11:06 UTC</a></sub>
 * [SpaceX launches Danuri, South Korea’s first mission to the Moon](https://www.nasaspaceflight.com/2022/08/spacex-danuri-south-korea/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T204211">2022-08-04 20:42:11 UTC</a></sub>
 * [China launches secretive reusable test spacecraft](https://spacenews.com/china-launches-secretive-reusable-test-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T202107">2022-08-04 20:21:07 UTC</a></sub>
@@ -186,7 +187,6 @@ region. The mission's status is currently Go for Launch
 * [SAM's Top 5 Discoveries Aboard NASA's Curiosity Rover at Mars](https://mars.nasa.gov/news/9239/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T181100">2022-08-04 18:11:00 UTC</a></sub>
 * [NRO’s spy satellite fleet to become more diverse](https://spacenews.com/nros-spy-satellite-fleet-to-become-more-diverse/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T175105">2022-08-04 17:51:05 UTC</a></sub>
 * [Rocket Lab launches top secret payload for U.S. spy satellite agency](https://spaceflightnow.com/2022/08/04/rocket-lab-launches-top-secret-payload-for-u-s-spy-satellite-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T175102">2022-08-04 17:51:02 UTC</a></sub>
-* [Insurance claim for failed Measat-3 satellite in dispute](https://spacenews.com/insurance-claim-for-failed-measat-3-satellite-in-dispute/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T165108">2022-08-04 16:51:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T073409">2022-08-05 07:34:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T080825">2022-08-05 08:08:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
