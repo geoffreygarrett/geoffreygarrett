@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> <b><name missing></b> from Uchinoura Space Center, Japan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Epsilon | RAISE-3 &amp; Others&location=Uchinoura Space Center, Japan&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Maiden Flight&location=Cape Canaveral, FL, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-27</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-27&location=Cape Canaveral, FL, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -179,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [As losses mount, Astra announces a radical pivot to a larger launch vehicle](https://arstechnica.com/science/2022/08/as-losses-mount-astra-announces-a-radical-pivot-to-a-larger-launch-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T162546">2022-08-05 16:25:46 UTC</a></sub>
+* [10 Years Since Landing, NASA's Curiosity Mars Rover Still Has Drive](https://mars.nasa.gov/news/9240/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T161500">2022-08-05 16:15:00 UTC</a></sub>
 * [South Korea’s first lunar orbiter on way to the moon](https://spacenews.com/south-koreas-first-lunar-orbiter-on-way-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T125455">2022-08-05 12:54:55 UTC</a></sub>
 * [Rocket Report: SpaceX launches Korea to the Moon, Georgia’s litigious spaceport](https://arstechnica.com/science/2022/08/rocket-report-spacex-launches-korea-to-the-moon-georgias-litigious-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T113024">2022-08-05 11:30:24 UTC</a></sub>
 * [Chinese space firm raises funds for commercial weather data satellite constellation](https://spacenews.com/chinese-space-firm-raises-funds-for-commercial-weather-data-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T101454">2022-08-05 10:14:54 UTC</a></sub>
@@ -187,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches Danuri, South Korea’s first mission to the Moon](https://www.nasaspaceflight.com/2022/08/spacex-danuri-south-korea/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T204211">2022-08-04 20:42:11 UTC</a></sub>
 * [China launches secretive reusable test spacecraft](https://spacenews.com/china-launches-secretive-reusable-test-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T202107">2022-08-04 20:21:07 UTC</a></sub>
 * [NESDIS awards enterprise cloud contract to SAIC and Carahsoft](https://spacenews.com/saic-carahsoft-noaa-cloud/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T200105">2022-08-04 20:01:05 UTC</a></sub>
-* [Spire to host second optical payload for South Korea’s Hancom](https://spacenews.com/spire-to-host-second-optical-payload-for-south-koreas-hancom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T193106">2022-08-04 19:31:06 UTC</a></sub>
-* [Key Russian official confirms his country’s commitment to the space station](https://arstechnica.com/science/2022/08/key-russian-official-confirms-his-countrys-commitment-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T191000">2022-08-04 19:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T160714">2022-08-05 16:07:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T165658">2022-08-05 16:56:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
