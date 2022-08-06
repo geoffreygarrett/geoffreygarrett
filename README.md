@@ -181,6 +181,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ellie In Space X Teslarati (double interview)](https://www.teslarati.com/ellie-in-space-x-teslarati-double-interview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T160523">2022-08-06 16:05:23 UTC</a></sub>
+* [Entire NASA astronaut corps eligible for Artemis missions](https://spacenews.com/entire-nasa-astronaut-corps-eligible-for-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T155455">2022-08-06 15:54:55 UTC</a></sub>
+* [Curiosity marks 10 years on Mars as discoveries continue](https://www.nasaspaceflight.com/2022/08/curiosity-10-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T154354">2022-08-06 15:43:54 UTC</a></sub>
 * [Italian satellite may fly NASA Earth science payload](https://spacenews.com/italian-satellite-may-fly-nasa-earth-science-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T150456">2022-08-06 15:04:56 UTC</a></sub>
 * [Space Development Agency to take another stab at space-to-aircraft laser communications](https://spacenews.com/space-development-agency-to-take-another-stab-at-space-to-aircraft-laser-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T203458">2022-08-05 20:34:58 UTC</a></sub>
 * [Aging Telesat satellite running out of fuel as projected LEO costs soar](https://spacenews.com/aging-telesat-satellite-running-out-of-fuel-as-projected-leo-costs-soar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T202456">2022-08-05 20:24:56 UTC</a></sub>
@@ -188,9 +191,6 @@ region. The mission's status is currently Go for Launch
 * [As losses mount, Astra announces a radical pivot to a larger launch vehicle](https://arstechnica.com/science/2022/08/as-losses-mount-astra-announces-a-radical-pivot-to-a-larger-launch-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T162546">2022-08-05 16:25:46 UTC</a></sub>
 * [10 Years Since Landing, NASA's Curiosity Mars Rover Still Has Drive](https://mars.nasa.gov/news/9240/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T161500">2022-08-05 16:15:00 UTC</a></sub>
 * [South Korea’s first lunar orbiter on way to the moon](https://spacenews.com/south-koreas-first-lunar-orbiter-on-way-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T125455">2022-08-05 12:54:55 UTC</a></sub>
-* [Rocket Report: SpaceX launches Korea to the Moon, Georgia’s litigious spaceport](https://arstechnica.com/science/2022/08/rocket-report-spacex-launches-korea-to-the-moon-georgias-litigious-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T113024">2022-08-05 11:30:24 UTC</a></sub>
-* [Chinese space firm raises funds for commercial weather data satellite constellation](https://spacenews.com/chinese-space-firm-raises-funds-for-commercial-weather-data-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T101454">2022-08-05 10:14:54 UTC</a></sub>
-* [Virgin Galactic again delays start of commercial suborbital flights](https://spacenews.com/virgin-galactic-again-delays-start-of-commercial-suborbital-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T075454">2022-08-05 07:54:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T160521">2022-08-06 16:05:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T164851">2022-08-06 16:48:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
