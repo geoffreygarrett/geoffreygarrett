@@ -182,7 +182,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [India’s new SSLV rocket suffers “data loss” in maiden flight; satellites’ status unaccounted for](https://spacenews.com/indias-new-sslv-rocket-suffers-data-loss-in-maiden-flight-satellites-status-unaccounted-for/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T131510">2022-08-07 13:15:10 UTC</a></sub>
+* [India’s new SSLV rocket fails in first launch](https://spacenews.com/indias-new-sslv-rocket-suffers-data-loss-in-maiden-flight-satellites-status-unaccounted-for/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T164512">2022-08-07 16:45:12 UTC</a></sub>
 * [India’s new small satellite launcher fails to put satellites into correct orbit](https://spaceflightnow.com/2022/08/07/indias-new-small-satellite-launcher-fails-to-put-satellites-into-correct-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T092504">2022-08-07 09:25:04 UTC</a></sub>
 * [Ellie In Space X Teslarati (double interview)](https://www.teslarati.com/ellie-in-space-x-teslarati-double-interview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T160523">2022-08-06 16:05:23 UTC</a></sub>
 * [Entire NASA astronaut corps eligible for Artemis missions](https://spacenews.com/entire-nasa-astronaut-corps-eligible-for-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T155455">2022-08-06 15:54:55 UTC</a></sub>
@@ -224,7 +224,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T160530">2022-08-07 16:05:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T164838">2022-08-07 16:48:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
