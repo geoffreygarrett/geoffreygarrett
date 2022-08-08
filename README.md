@@ -183,6 +183,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Peter Beck explains why Electron may only ever launch 10-15 times a year](https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T173221">2022-08-08 17:32:21 UTC</a></sub>
+* [Northrop Grumman and Firefly to partner on upgraded Antares](https://spacenews.com/northrop-grumman-and-firefly-to-partner-on-upgraded-antares/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T170510">2022-08-08 17:05:10 UTC</a></sub>
 * [NASA Announces New CubeSat Launch Initiative Partnership Opportunities](http://www.nasa.gov/press-release/nasa-announces-new-cubesat-launch-initiative-partnership-opportunities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T163500">2022-08-08 16:35:00 UTC</a></sub>
 * [SpaceLink and U.S. Army to study use of relay constellation to deliver data to troops in the field](https://spacenews.com/spacelink-and-u-s-army-to-study-use-of-relay-constellation-to-deliver-data-to-troops-in-the-field/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T160508">2022-08-08 16:05:08 UTC</a></sub>
 * [Benchmark acquires Alameda Applied Science Corp. electric propulsion](https://spacenews.com/benchmark-acquires-aasc-electric-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T135508">2022-08-08 13:55:08 UTC</a></sub>
@@ -191,8 +193,6 @@ region. The mission's status is currently Go for Launch
 * [NASA heliophysics smallsats to share launch with astrophysics mission](https://spacenews.com/nasa-heliophysics-smallsats-to-share-launch-with-astrophysics-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T033509">2022-08-07 03:35:09 UTC</a></sub>
 * [Ellie In Space X Teslarati (double interview)](https://www.teslarati.com/ellie-in-space-x-teslarati-double-interview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T160523">2022-08-06 16:05:23 UTC</a></sub>
 * [Entire NASA astronaut corps eligible for Artemis missions](https://spacenews.com/entire-nasa-astronaut-corps-eligible-for-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T155455">2022-08-06 15:54:55 UTC</a></sub>
-* [Curiosity marks 10 years on Mars as discoveries continue](https://www.nasaspaceflight.com/2022/08/curiosity-10-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T154354">2022-08-06 15:43:54 UTC</a></sub>
-* [Italian satellite may fly NASA Earth science payload](https://spacenews.com/italian-satellite-may-fly-nasa-earth-science-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T150456">2022-08-06 15:04:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T171152">2022-08-08 17:11:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T174035">2022-08-08 17:40:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
