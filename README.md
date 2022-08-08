@@ -183,6 +183,7 @@ Two commercial Earth observation satellites built by Minospace.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman partners with Firefly and SpaceX to save Antares rocket, launch Cygnus spacecraft](https://www.teslarati.com/northrop-grumman-firefly-next-gen-antares-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T221531">2022-08-08 22:15:31 UTC</a></sub>
 * [Launch startup SpaceRyde fortifies advisory board](https://spacenews.com/launch-startup-spaceryde-fortifies-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T212507">2022-08-08 21:25:07 UTC</a></sub>
 * [Beck: CAPSTONE demonstrates feasibility of low-cost interplanetary smallsats](https://spacenews.com/beck-capstone-demonstrates-feasibility-of-low-cost-interplanetary-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T211509">2022-08-08 21:15:09 UTC</a></sub>
 * [NASA looking for new launch of remaining TROPICS cubesats](https://spacenews.com/nasa-looking-for-new-launch-of-remaining-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T184508">2022-08-08 18:45:08 UTC</a></sub>
@@ -192,7 +193,6 @@ Two commercial Earth observation satellites built by Minospace.
 * [SpaceLink and U.S. Army to study use of relay constellation to deliver data to troops in the field](https://spacenews.com/spacelink-and-u-s-army-to-study-use-of-relay-constellation-to-deliver-data-to-troops-in-the-field/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T160508">2022-08-08 16:05:08 UTC</a></sub>
 * [Benchmark acquires Alameda Applied Science Corp. electric propulsion](https://spacenews.com/benchmark-acquires-aasc-electric-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T135508">2022-08-08 13:55:08 UTC</a></sub>
 * [India’s new SSLV rocket fails in first launch](https://spacenews.com/indias-new-sslv-rocket-suffers-data-loss-in-maiden-flight-satellites-status-unaccounted-for/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T164512">2022-08-07 16:45:12 UTC</a></sub>
-* [India’s new small satellite launcher fails to put satellites into correct orbit](https://spaceflightnow.com/2022/08/07/indias-new-small-satellite-launcher-fails-to-put-satellites-into-correct-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T092504">2022-08-07 09:25:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Two commercial Earth observation satellites built by Minospace.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T220658">2022-08-08 22:06:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T223820">2022-08-08 22:38:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
