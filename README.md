@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Benchmark acquires Alameda Applied Science Corp. electric propulsion](https://spacenews.com/benchmark-acquires-aasc-electric-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T135508">2022-08-08 13:55:08 UTC</a></sub>
 * [India’s new SSLV rocket fails in first launch](https://spacenews.com/indias-new-sslv-rocket-suffers-data-loss-in-maiden-flight-satellites-status-unaccounted-for/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T164512">2022-08-07 16:45:12 UTC</a></sub>
 * [India’s new small satellite launcher fails to put satellites into correct orbit](https://spaceflightnow.com/2022/08/07/indias-new-small-satellite-launcher-fails-to-put-satellites-into-correct-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T092504">2022-08-07 09:25:04 UTC</a></sub>
 * [NASA heliophysics smallsats to share launch with astrophysics mission](https://spacenews.com/nasa-heliophysics-smallsats-to-share-launch-with-astrophysics-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T033509">2022-08-07 03:35:09 UTC</a></sub>
@@ -192,7 +193,6 @@ region. The mission's status is currently Go for Launch
 * [Italian satellite may fly NASA Earth science payload](https://spacenews.com/italian-satellite-may-fly-nasa-earth-science-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T150456">2022-08-06 15:04:56 UTC</a></sub>
 * [Space Development Agency to take another stab at space-to-aircraft laser communications](https://spacenews.com/space-development-agency-to-take-another-stab-at-space-to-aircraft-laser-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T203458">2022-08-05 20:34:58 UTC</a></sub>
 * [Aging Telesat satellite running out of fuel as projected LEO costs soar](https://spacenews.com/aging-telesat-satellite-running-out-of-fuel-as-projected-leo-costs-soar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T202456">2022-08-05 20:24:56 UTC</a></sub>
-* [FCC considers opening up more Ku-band to non-GEO satellite operators](https://spacenews.com/fcc-considers-opening-up-more-ku-band-to-non-geo-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T183455">2022-08-05 18:34:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T130922">2022-08-08 13:09:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T135552">2022-08-08 13:55:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
