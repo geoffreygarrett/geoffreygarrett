@@ -183,6 +183,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Announces New CubeSat Launch Initiative Partnership Opportunities](http://www.nasa.gov/press-release/nasa-announces-new-cubesat-launch-initiative-partnership-opportunities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T163500">2022-08-08 16:35:00 UTC</a></sub>
+* [SpaceLink and U.S. Army to study use of relay constellation to deliver data to troops in the field](https://spacenews.com/spacelink-and-u-s-army-to-study-use-of-relay-constellation-to-deliver-data-to-troops-in-the-field/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T160508">2022-08-08 16:05:08 UTC</a></sub>
 * [Benchmark acquires Alameda Applied Science Corp. electric propulsion](https://spacenews.com/benchmark-acquires-aasc-electric-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T135508">2022-08-08 13:55:08 UTC</a></sub>
 * [India’s new SSLV rocket fails in first launch](https://spacenews.com/indias-new-sslv-rocket-suffers-data-loss-in-maiden-flight-satellites-status-unaccounted-for/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T164512">2022-08-07 16:45:12 UTC</a></sub>
 * [India’s new small satellite launcher fails to put satellites into correct orbit](https://spaceflightnow.com/2022/08/07/indias-new-small-satellite-launcher-fails-to-put-satellites-into-correct-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T092504">2022-08-07 09:25:04 UTC</a></sub>
@@ -191,8 +193,6 @@ region. The mission's status is currently Go for Launch
 * [Entire NASA astronaut corps eligible for Artemis missions](https://spacenews.com/entire-nasa-astronaut-corps-eligible-for-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T155455">2022-08-06 15:54:55 UTC</a></sub>
 * [Curiosity marks 10 years on Mars as discoveries continue](https://www.nasaspaceflight.com/2022/08/curiosity-10-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T154354">2022-08-06 15:43:54 UTC</a></sub>
 * [Italian satellite may fly NASA Earth science payload](https://spacenews.com/italian-satellite-may-fly-nasa-earth-science-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T150456">2022-08-06 15:04:56 UTC</a></sub>
-* [Space Development Agency to take another stab at space-to-aircraft laser communications](https://spacenews.com/space-development-agency-to-take-another-stab-at-space-to-aircraft-laser-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T203458">2022-08-05 20:34:58 UTC</a></sub>
-* [Aging Telesat satellite running out of fuel as projected LEO costs soar](https://spacenews.com/aging-telesat-satellite-running-out-of-fuel-as-projected-leo-costs-soar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T202456">2022-08-05 20:24:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T160749">2022-08-08 16:07:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T165413">2022-08-08 16:54:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
