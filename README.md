@@ -183,6 +183,7 @@ Two commercial Earth observation satellites built by Minospace.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA looking for new launch of remaining TROPICS cubesats](https://spacenews.com/nasa-looking-for-new-launch-of-remaining-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T184508">2022-08-08 18:45:08 UTC</a></sub>
 * [Peter Beck explains why Electron may only ever launch 10-15 times a year](https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T173221">2022-08-08 17:32:21 UTC</a></sub>
 * [Northrop Grumman and Firefly to partner on upgraded Antares](https://spacenews.com/northrop-grumman-and-firefly-to-partner-on-upgraded-antares/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T170510">2022-08-08 17:05:10 UTC</a></sub>
 * [NASA Announces New CubeSat Launch Initiative Partnership Opportunities](http://www.nasa.gov/press-release/nasa-announces-new-cubesat-launch-initiative-partnership-opportunities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T163500">2022-08-08 16:35:00 UTC</a></sub>
@@ -192,7 +193,6 @@ Two commercial Earth observation satellites built by Minospace.
 * [India’s new small satellite launcher fails to put satellites into correct orbit](https://spaceflightnow.com/2022/08/07/indias-new-small-satellite-launcher-fails-to-put-satellites-into-correct-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T092504">2022-08-07 09:25:04 UTC</a></sub>
 * [NASA heliophysics smallsats to share launch with astrophysics mission](https://spacenews.com/nasa-heliophysics-smallsats-to-share-launch-with-astrophysics-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T033509">2022-08-07 03:35:09 UTC</a></sub>
 * [Ellie In Space X Teslarati (double interview)](https://www.teslarati.com/ellie-in-space-x-teslarati-double-interview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T160523">2022-08-06 16:05:23 UTC</a></sub>
-* [Entire NASA astronaut corps eligible for Artemis missions](https://spacenews.com/entire-nasa-astronaut-corps-eligible-for-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T155455">2022-08-06 15:54:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Two commercial Earth observation satellites built by Minospace.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T190211">2022-08-08 19:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T193152">2022-08-08 19:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
