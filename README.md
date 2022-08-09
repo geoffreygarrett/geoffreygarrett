@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Download your ‘News from the 2022 Small Satellite show’ digital edition](https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T171523">2022-08-09 17:15:23 UTC</a></sub>
+* [Terran Orbital prioritizes work on SDA smallsats over PredaSAR](https://spacenews.com/terran-orbital-prioritizes-work-on-sda-smallsats-over-predasar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T170522">2022-08-09 17:05:22 UTC</a></sub>
 * [Starlink satellites encounter Russian ASAT debris squalls](https://spacenews.com/starlink-satellites-encounter-russian-asat-debris-squalls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T152520">2022-08-09 15:25:20 UTC</a></sub>
 * [California, Indiana Students to Hear from Astronauts on Space Station](http://www.nasa.gov/press-release/california-indiana-students-to-hear-from-astronauts-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140600">2022-08-09 14:06:00 UTC</a></sub>
 * [SpaceX rolls out Falcon 9 rocket as Starship work continues at pad 39A](https://spaceflightnow.com/2022/08/09/spacex-rolls-out-falcon-9-rocket-as-starship-work-continues-at-pad-39a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140520">2022-08-09 14:05:20 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [TransAstra and Slooh to offer students asteroid detection tool](https://spacenews.com/transastra-and-slooh-to-offer-students-asteroid-detection-tool/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T100523">2022-08-09 10:05:23 UTC</a></sub>
 * [Benchmark unveils small satellite collision-avoidance kit](https://spacenews.com/benchmark-cola-kit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T070509">2022-08-09 07:05:09 UTC</a></sub>
 * [Northrop Grumman partners with Firefly and SpaceX to save Antares rocket, launch Cygnus spacecraft](https://www.teslarati.com/northrop-grumman-firefly-next-gen-antares-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T221531">2022-08-08 22:15:31 UTC</a></sub>
-* [Launch startup SpaceRyde fortifies advisory board](https://spacenews.com/launch-startup-spaceryde-fortifies-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T212507">2022-08-08 21:25:07 UTC</a></sub>
-* [Beck: CAPSTONE demonstrates feasibility of low-cost interplanetary smallsats](https://spacenews.com/beck-capstone-demonstrates-feasibility-of-low-cost-interplanetary-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T211509">2022-08-08 21:15:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T171102">2022-08-09 17:11:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T173811">2022-08-09 17:38:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
