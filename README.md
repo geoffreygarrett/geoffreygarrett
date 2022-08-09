@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Galactic Energy of China registers third consecutive successful launch](https://spacenews.com/galactic-energy-of-china-registers-third-consecutive-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T104527">2022-08-09 10:45:27 UTC</a></sub>
 * [TransAstra and Slooh to offer students asteroid detection tool](https://spacenews.com/transastra-and-slooh-to-offer-students-asteroid-detection-tool/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T100523">2022-08-09 10:05:23 UTC</a></sub>
 * [Benchmark unveils small satellite collision-avoidance kit](https://spacenews.com/benchmark-cola-kit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T070509">2022-08-09 07:05:09 UTC</a></sub>
 * [Northrop Grumman partners with Firefly and SpaceX to save Antares rocket, launch Cygnus spacecraft](https://www.teslarati.com/northrop-grumman-firefly-next-gen-antares-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T221531">2022-08-08 22:15:31 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab’s launch cadence now “100 percent” driven by market demand [Updated]](https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T173221">2022-08-08 17:32:21 UTC</a></sub>
 * [Northrop Grumman and Firefly to partner on upgraded Antares](https://spacenews.com/northrop-grumman-and-firefly-to-partner-on-upgraded-antares/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T170510">2022-08-08 17:05:10 UTC</a></sub>
 * [NASA Announces New CubeSat Launch Initiative Partnership Opportunities](http://www.nasa.gov/press-release/nasa-announces-new-cubesat-launch-initiative-partnership-opportunities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T163500">2022-08-08 16:35:00 UTC</a></sub>
-* [SpaceLink and U.S. Army to study use of relay constellation to deliver data to troops in the field](https://spacenews.com/spacelink-and-u-s-army-to-study-use-of-relay-constellation-to-deliver-data-to-troops-in-the-field/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T160508">2022-08-08 16:05:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T110314">2022-08-09 11:03:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T113253">2022-08-09 11:32:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
