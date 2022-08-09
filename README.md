@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink satellites encounter Russian ASAT debris squalls](https://spacenews.com/starlink-satellites-encounter-russian-asat-debris-squalls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T152520">2022-08-09 15:25:20 UTC</a></sub>
 * [California, Indiana Students to Hear from Astronauts on Space Station](http://www.nasa.gov/press-release/california-indiana-students-to-hear-from-astronauts-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140600">2022-08-09 14:06:00 UTC</a></sub>
 * [SpaceX rolls out Falcon 9 rocket as Starship work continues at pad 39A](https://spaceflightnow.com/2022/08/09/spacex-rolls-out-falcon-9-rocket-as-starship-work-continues-at-pad-39a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140520">2022-08-09 14:05:20 UTC</a></sub>
 * [Busek finds headroom to double in size](https://spacenews.com/busek-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T120530">2022-08-09 12:05:30 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Northrop Grumman partners with Firefly and SpaceX to save Antares rocket, launch Cygnus spacecraft](https://www.teslarati.com/northrop-grumman-firefly-next-gen-antares-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T221531">2022-08-08 22:15:31 UTC</a></sub>
 * [Launch startup SpaceRyde fortifies advisory board](https://spacenews.com/launch-startup-spaceryde-fortifies-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T212507">2022-08-08 21:25:07 UTC</a></sub>
 * [Beck: CAPSTONE demonstrates feasibility of low-cost interplanetary smallsats](https://spacenews.com/beck-capstone-demonstrates-feasibility-of-low-cost-interplanetary-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T211509">2022-08-08 21:15:09 UTC</a></sub>
-* [NASA looking for new launch of remaining TROPICS cubesats](https://spacenews.com/nasa-looking-for-new-launch-of-remaining-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T184508">2022-08-08 18:45:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T150411">2022-08-09 15:04:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T154207">2022-08-09 15:42:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
