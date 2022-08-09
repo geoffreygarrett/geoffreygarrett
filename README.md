@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX sees continued strong demand for rideshare missions](https://spacenews.com/spacex-sees-continued-strong-demand-for-rideshare-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200513">2022-08-09 20:05:13 UTC</a></sub>
 * [Sidus open to ISS and rideshare deployments for LizzieSat constellation](https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T192522">2022-08-09 19:25:22 UTC</a></sub>
 * [Atlas Space Operations upgrades user interface to ease scheduling](https://spacenews.com/atlas-user-interface/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
 * [Telespazio unveils product line for NewSpace market](https://spacenews.com/telespazio-ease-product-line/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [California, Indiana Students to Hear from Astronauts on Space Station](http://www.nasa.gov/press-release/california-indiana-students-to-hear-from-astronauts-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140600">2022-08-09 14:06:00 UTC</a></sub>
 * [SpaceX rolls out Falcon 9 rocket as Starship work continues at pad 39A](https://spaceflightnow.com/2022/08/09/spacex-rolls-out-falcon-9-rocket-as-starship-work-continues-at-pad-39a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140520">2022-08-09 14:05:20 UTC</a></sub>
 * [Busek finds headroom to double in size](https://spacenews.com/busek-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T120530">2022-08-09 12:05:30 UTC</a></sub>
-* [Galactic Energy of China registers third consecutive successful launch](https://spacenews.com/galactic-energy-of-china-registers-third-consecutive-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T104527">2022-08-09 10:45:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T193527">2022-08-09 19:35:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200651">2022-08-09 20:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
