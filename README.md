@@ -98,7 +98,7 @@ Falcon 9 Block 5 | Starlink Group 4-26 at the
 <a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a> in
 Kennedy Space Center, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T225700">2022-08-09 22:57:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T021400">2022-08-10 02:14:00 UTC</a>. Until
 then, this launch pad will have seen 148
 out of 205 launches in this
 region. The mission's status is currently Go for Launch
@@ -126,7 +126,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-26</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T225700">2022-08-09 22:57:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-26&location=Kennedy Space Center, FL, USA&dates=20220809T225700Z%2F20220809T225700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-26</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T021400">2022-08-10 02:14:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-26&location=Kennedy Space Center, FL, USA&dates=20220810T021400Z%2F20220810T021400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Jilin-1 x n</b> from Taiyuan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T044300">2022-08-10 04:43:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Jilin-1 x n&location=Taiyuan, People&#x27;s Republic of China&dates=20220810T044300Z%2F20220810T052100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 3-3</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T213000">2022-08-12 21:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-3&location=Vandenberg SFB, CA, USA&dates=20220812T213000Z%2F20220812T213000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Artemis-1</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T123300">2022-08-29 12:33:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis-1&location=Kennedy Space Center, FL, USA&dates=20220829T123300Z%2F20220829T143300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -179,16 +179,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Space Command basing decision approaching final stretch](https://spacenews.com/u-s-space-command-basing-decision-approaching-final-stretch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T222519">2022-08-09 22:25:19 UTC</a></sub>
+* [D-Orbit to deploy 20 Astrocast satellites over three years](https://spacenews.com/d-orbit-to-deploy-20-astrocast-satellites-over-three-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T220533">2022-08-09 22:05:33 UTC</a></sub>
+* [Aerospace develops low-cost optical ground network](https://spacenews.com/aerospace-optical-ground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T213527">2022-08-09 21:35:27 UTC</a></sub>
+* [Maxar to supply 14 satellites for U.S. military missile-tracking constellation](https://spacenews.com/maxar-to-supply-14-satellites-for-u-s-military-missile-tracking-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T213527">2022-08-09 21:35:27 UTC</a></sub>
 * [Sidus Space could launch LizzieSat-1 without thrusters](https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T205524">2022-08-09 20:55:24 UTC</a></sub>
 * [Starlink Group 4-26 slated for Tuesday launch from LC-39A](https://www.nasaspaceflight.com/2022/08/starlink-4-26/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T204326">2022-08-09 20:43:26 UTC</a></sub>
-* [Aerospace develops lost-cost optical ground network](https://spacenews.com/aerospace-optical-ground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T203519">2022-08-09 20:35:19 UTC</a></sub>
 * [China’s secretive space plane flies higher and longer than before](https://arstechnica.com/science/2022/08/chinas-secretive-space-plane-flies-higher-and-longer-than-before/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200651">2022-08-09 20:06:51 UTC</a></sub>
 * [SpaceX sees continued strong demand for rideshare missions](https://spacenews.com/spacex-sees-continued-strong-demand-for-rideshare-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200513">2022-08-09 20:05:13 UTC</a></sub>
-* [Telespazio unveils product line for NewSpace market](https://spacenews.com/telespazio-ease-product-line/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
 * [Atlas Space Operations upgrades user interface to ease scheduling](https://spacenews.com/atlas-user-interface/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
-* [Download your Tuesday ‘News from the 2022 Small Satellite show’ digital edition](https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T184520">2022-08-09 18:45:20 UTC</a></sub>
-* [Terran Orbital prioritizes work on SDA smallsats over PredaSAR](https://spacenews.com/terran-orbital-prioritizes-work-on-sda-smallsats-over-predasar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T170522">2022-08-09 17:05:22 UTC</a></sub>
-* [Starlink satellites encounter Russian ASAT debris squalls](https://spacenews.com/starlink-satellites-encounter-russian-asat-debris-squalls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T152520">2022-08-09 15:25:20 UTC</a></sub>
+* [Telespazio unveils product line for NewSpace market](https://spacenews.com/telespazio-ease-product-line/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T220401">2022-08-09 22:04:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T223709">2022-08-09 22:37:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
