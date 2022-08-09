@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Sidus Space mulls rideshare mission for debut satellite](https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T182526">2022-08-09 18:25:26 UTC</a></sub>
 * [Download your ‘News from the 2022 Small Satellite show’ digital edition](https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T171523">2022-08-09 17:15:23 UTC</a></sub>
 * [Terran Orbital prioritizes work on SDA smallsats over PredaSAR](https://spacenews.com/terran-orbital-prioritizes-work-on-sda-smallsats-over-predasar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T170522">2022-08-09 17:05:22 UTC</a></sub>
 * [Starlink satellites encounter Russian ASAT debris squalls](https://spacenews.com/starlink-satellites-encounter-russian-asat-debris-squalls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T152520">2022-08-09 15:25:20 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Galactic Energy of China registers third consecutive successful launch](https://spacenews.com/galactic-energy-of-china-registers-third-consecutive-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T104527">2022-08-09 10:45:27 UTC</a></sub>
 * [TransAstra and Slooh to offer students asteroid detection tool](https://spacenews.com/transastra-and-slooh-to-offer-students-asteroid-detection-tool/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T100523">2022-08-09 10:05:23 UTC</a></sub>
 * [Benchmark unveils small satellite collision-avoidance kit](https://spacenews.com/benchmark-cola-kit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T070509">2022-08-09 07:05:09 UTC</a></sub>
-* [Northrop Grumman partners with Firefly and SpaceX to save Antares rocket, launch Cygnus spacecraft](https://www.teslarati.com/northrop-grumman-firefly-next-gen-antares-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T221531">2022-08-08 22:15:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T180651">2022-08-09 18:06:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T184230">2022-08-09 18:42:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
