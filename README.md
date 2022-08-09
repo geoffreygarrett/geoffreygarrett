@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [California, Indiana Students to Hear from Astronauts on Space Station](http://www.nasa.gov/press-release/california-indiana-students-to-hear-from-astronauts-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140600">2022-08-09 14:06:00 UTC</a></sub>
+* [SpaceX rolls out Falcon 9 rocket as Starship work continues at pad 39A](https://spaceflightnow.com/2022/08/09/spacex-rolls-out-falcon-9-rocket-as-starship-work-continues-at-pad-39a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140520">2022-08-09 14:05:20 UTC</a></sub>
 * [Busek finds headroom to double in size](https://spacenews.com/busek-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T120530">2022-08-09 12:05:30 UTC</a></sub>
 * [Galactic Energy of China registers third consecutive successful launch](https://spacenews.com/galactic-energy-of-china-registers-third-consecutive-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T104527">2022-08-09 10:45:27 UTC</a></sub>
 * [TransAstra and Slooh to offer students asteroid detection tool](https://spacenews.com/transastra-and-slooh-to-offer-students-asteroid-detection-tool/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T100523">2022-08-09 10:05:23 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Launch startup SpaceRyde fortifies advisory board](https://spacenews.com/launch-startup-spaceryde-fortifies-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T212507">2022-08-08 21:25:07 UTC</a></sub>
 * [Beck: CAPSTONE demonstrates feasibility of low-cost interplanetary smallsats](https://spacenews.com/beck-capstone-demonstrates-feasibility-of-low-cost-interplanetary-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T211509">2022-08-08 21:15:09 UTC</a></sub>
 * [NASA looking for new launch of remaining TROPICS cubesats](https://spacenews.com/nasa-looking-for-new-launch-of-remaining-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T184508">2022-08-08 18:45:08 UTC</a></sub>
-* [Rocket Lab’s launch cadence now “100 percent” driven by market demand [Updated]](https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T173221">2022-08-08 17:32:21 UTC</a></sub>
-* [Northrop Grumman and Firefly to partner on upgraded Antares](https://spacenews.com/northrop-grumman-and-firefly-to-partner-on-upgraded-antares/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T170510">2022-08-08 17:05:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -199,6 +199,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Artemis I launch guide: What to expect](https://www.planetary.org/articles/artemis-i-launch-guide) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140615">2022-08-09 14:06:15 UTC</a></sub>
 * [European Spaceflight Update - ESA goes nuclear](https://www.getrevue.co/profile/andrewparsonson/issues/esa-goes-nuclear-1291428) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T140544">2022-08-08 14:05:44 UTC</a></sub>
 * [Rather remarkable robots](https://www.planetary.org/the-downlink/rather-remarkable-robots) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T143514">2022-08-05 14:35:14 UTC</a></sub>
 * [European Spaceflight Update - ESA wants space-based solar power](https://www.getrevue.co/profile/andrewparsonson/issues/esa-wants-space-based-solar-power-1281360) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T132526">2022-08-05 13:25:26 UTC</a></sub>
@@ -208,7 +209,6 @@ region. The mission's status is currently Go for Launch
 * [Triton, Neptune's largest moon](https://www.planetary.org/worlds/triton) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T140202">2022-08-02 14:02:02 UTC</a></sub>
 * [RocketStars: Ron McKee serves as SBIRS GEO 6 launch conductor](https://blog.ulalaunch.com/blog/rocketstars-ron-mckee-serves-as-sbirs-geo-6-launch-conductor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T162233">2022-08-01 16:22:33 UTC</a></sub>
 * [Sights beyond the visible](https://www.planetary.org/the-downlink/sights-beyond-the-visible) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T143058">2022-07-29 14:30:58 UTC</a></sub>
-* [Uranus' mysterious moons: why NASA wants to explore Ariel and Miranda](https://www.planetary.org/articles/nasa-mission-uranus-moons-ariel-miranda) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T140058">2022-07-28 14:00:58 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T141922">2022-08-09 14:19:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T143721">2022-08-09 14:37:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
