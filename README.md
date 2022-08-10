@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Falcon 9 rocket deploys SpaceX’s 3,000th Starlink internet satellite](https://spaceflightnow.com/2022/08/10/falcon-9-rocket-deploys-spacexs-3000th-starlink-internet-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T065508">2022-08-10 06:55:08 UTC</a></sub>
 * [Blue Canyon Technologies to build Tomorrow.io constellation](https://spacenews.com/blue-canyon-tomorrow-io/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T041520">2022-08-10 04:15:20 UTC</a></sub>
 * [SpaceX fires up Starship booster at orbital launch pad](https://www.teslarati.com/spacex-starship-booster-7-first-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T235552">2022-08-09 23:55:52 UTC</a></sub>
 * [U.S. Space Command basing decision approaching final stretch](https://spacenews.com/u-s-space-command-basing-decision-approaching-final-stretch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T222519">2022-08-09 22:25:19 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Determined
 * [Sidus Space could launch LizzieSat-1 without thrusters](https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T205524">2022-08-09 20:55:24 UTC</a></sub>
 * [Starlink Group 4-26 launches on Falcon 9 from LC-39A](https://www.nasaspaceflight.com/2022/08/starlink-4-26/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T204326">2022-08-09 20:43:26 UTC</a></sub>
 * [China’s secretive space plane flies higher and longer than before](https://arstechnica.com/science/2022/08/chinas-secretive-space-plane-flies-higher-and-longer-than-before/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200651">2022-08-09 20:06:51 UTC</a></sub>
-* [SpaceX sees continued strong demand for rideshare missions](https://spacenews.com/spacex-sees-continued-strong-demand-for-rideshare-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200513">2022-08-09 20:05:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T070358">2022-08-10 07:03:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T073446">2022-08-10 07:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
