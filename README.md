@@ -179,6 +179,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA cubesat bumped from rideshare launch because of orbital debris mitigation concerns](https://spacenews.com/nasa-cubesat-bumped-from-rideshare-launch-because-of-orbital-debris-mitigation-concerns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T183519">2022-08-10 18:35:19 UTC</a></sub>
+* [NASA Seeks Student Experiments to Soar in Second TechRise Challenge](http://www.nasa.gov/press-release/nasa-seeks-student-experiments-to-soar-in-second-techrise-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T181500">2022-08-10 18:15:00 UTC</a></sub>
+* [Maxar’s satellite business looks to gain foothold in defense market](https://spacenews.com/maxars-satellite-business-looks-to-gain-foothold-in-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T175520">2022-08-10 17:55:20 UTC</a></sub>
 * [Expedition 67 in final stretch as European Robotic Arm commissioning continues](https://www.nasaspaceflight.com/2022/08/expedition-67-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T173031">2022-08-10 17:30:31 UTC</a></sub>
 * [First cubesat completed for NASA space science constellation](https://spacenews.com/first-cubesat-completed-for-nasa-space-science-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T160524">2022-08-10 16:05:24 UTC</a></sub>
 * [Student payloads to fly on RocketStar suborbital test flight](https://spacenews.com/student-payloads-rocketstar-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T145535">2022-08-10 14:55:35 UTC</a></sub>
@@ -186,9 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX breathes fire in South Texas for the first time in 2022](https://arstechnica.com/science/2022/08/spacex-breathes-fire-in-south-texas-for-the-first-time-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T141144">2022-08-10 14:11:44 UTC</a></sub>
 * [Capella unveils a new generation of radar satellites](https://spacenews.com/capella-acadia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T130524">2022-08-10 13:05:24 UTC</a></sub>
 * [Blue Canyon Technologies to build Tomorrow.io microwave satellites](https://spacenews.com/blue-canyon-tomorrow-io/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T124521">2022-08-10 12:45:21 UTC</a></sub>
-* [Nelson satisfied with NASA authorization act](https://spacenews.com/nelson-satisfied-with-nasa-authorization-act/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T112517">2022-08-10 11:25:17 UTC</a></sub>
-* [Falcon 9 rocket deploys SpaceX’s 3,000th Starlink internet satellite](https://spaceflightnow.com/2022/08/10/falcon-9-rocket-deploys-spacexs-3000th-starlink-internet-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T065508">2022-08-10 06:55:08 UTC</a></sub>
-* [SpaceX fires up Starship booster at orbital launch pad](https://www.teslarati.com/spacex-starship-booster-7-first-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T235552">2022-08-09 23:55:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T180700">2022-08-10 18:07:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T184303">2022-08-10 18:43:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
