@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets Coverage for Russian Spacewalk](http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-spacewalk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T204500">2022-08-10 20:45:00 UTC</a></sub>
 * [DARPA selects companies for inter-satellite laser communications project](https://spacenews.com/darpa-selects-companies-for-inter-satellite-laser-communications-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T195521">2022-08-10 19:55:21 UTC</a></sub>
 * [La NASA busca experimentos de estudiantes para remontarse en el segundo reto TechRise](http://www.nasa.gov/press-release/la-nasa-busca-experimentos-de-estudiantes-para-remontarse-en-el-segundo-reto-techrise) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T185500">2022-08-10 18:55:00 UTC</a></sub>
 * [NASA cubesat bumped from rideshare launch because of orbital debris mitigation concerns](https://spacenews.com/nasa-cubesat-bumped-from-rideshare-launch-because-of-orbital-debris-mitigation-concerns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T183519">2022-08-10 18:35:19 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [First cubesat completed for NASA space science constellation](https://spacenews.com/first-cubesat-completed-for-nasa-space-science-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T160524">2022-08-10 16:05:24 UTC</a></sub>
 * [Student payloads to fly on RocketStar suborbital test flight](https://spacenews.com/student-payloads-rocketstar-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T145535">2022-08-10 14:55:35 UTC</a></sub>
 * [NanoAvionics expands into heavier smallsat market](https://spacenews.com/nanoavionics-expands-into-heavier-smallsat-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T143530">2022-08-10 14:35:30 UTC</a></sub>
-* [SpaceX breathes fire in South Texas for the first time in 2022](https://arstechnica.com/science/2022/08/spacex-breathes-fire-in-south-texas-for-the-first-time-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T141144">2022-08-10 14:11:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T203655">2022-08-10 20:36:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T210406">2022-08-10 21:04:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
