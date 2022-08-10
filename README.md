@@ -179,9 +179,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Canyon Technologies to build Tomorrow.io microwave satellites](https://spacenews.com/blue-canyon-tomorrow-io/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T124521">2022-08-10 12:45:21 UTC</a></sub>
 * [Nelson satisfied with NASA authorization act](https://spacenews.com/nelson-satisfied-with-nasa-authorization-act/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T112517">2022-08-10 11:25:17 UTC</a></sub>
 * [Falcon 9 rocket deploys SpaceX’s 3,000th Starlink internet satellite](https://spaceflightnow.com/2022/08/10/falcon-9-rocket-deploys-spacexs-3000th-starlink-internet-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T065508">2022-08-10 06:55:08 UTC</a></sub>
-* [Blue Canyon Technologies to build Tomorrow.io constellation](https://spacenews.com/blue-canyon-tomorrow-io/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T041520">2022-08-10 04:15:20 UTC</a></sub>
 * [SpaceX fires up Starship booster at orbital launch pad](https://www.teslarati.com/spacex-starship-booster-7-first-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T235552">2022-08-09 23:55:52 UTC</a></sub>
 * [U.S. Space Command basing decision approaching final stretch](https://spacenews.com/u-s-space-command-basing-decision-approaching-final-stretch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T222519">2022-08-09 22:25:19 UTC</a></sub>
 * [D-Orbit to deploy 20 Astrocast satellites over three years](https://spacenews.com/d-orbit-to-deploy-20-astrocast-satellites-over-three-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T220533">2022-08-09 22:05:33 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T121049">2022-08-10 12:10:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T130134">2022-08-10 13:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
