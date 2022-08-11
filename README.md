@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Army looking at new ways to use space technology for unconventional warfare](https://spacenews.com/army-looking-at-new-ways-to-use-space-technology-for-unconventional-warfare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T212516">2022-08-11 21:25:16 UTC</a></sub>
+* [NASA TV to Cover SpaceX Cargo Dragon Departure from Space Station](http://www.nasa.gov/press-release/nasa-tv-to-cover-spacex-cargo-dragon-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T212500">2022-08-11 21:25:00 UTC</a></sub>
 * [NASA Transfers Landsat 9 Satellite to USGS to Monitor Earth’s Changes](http://www.nasa.gov/press-release/nasa-transfers-landsat-9-satellite-to-usgs-to-monitor-earth-s-changes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T205500">2022-08-11 20:55:00 UTC</a></sub>
 * [NASA, Boeing to Hold Media Update on Starliner Progress](http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-starliner-progress) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T191500">2022-08-11 19:15:00 UTC</a></sub>
 * [Small launch vehicle industry growth slows](https://spacenews.com/small-launch-vehicle-industry-growth-slows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T181524">2022-08-11 18:15:24 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Download your Thursday ‘News from the 2022 Small Satellite show’ digital edition](https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T155527">2022-08-11 15:55:27 UTC</a></sub>
 * [Lunar Reconnaissance Orbiter discovers thermally stable areas in surface pits suitable for future lunar bases](https://www.nasaspaceflight.com/2022/08/lro-surface-pit-temperatures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T151548">2022-08-11 15:15:48 UTC</a></sub>
 * [Spaceflight’s chemically powered space tug heads for launch](https://spacenews.com/spaceflights-chemically-powered-space-tug-heads-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T141523">2022-08-11 14:15:23 UTC</a></sub>
-* [Astro Digital Q&A: Taking smallsats to the mainstream](https://spacenews.com/astro-digital-qa-taking-smallsats-to-the-mainstream/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T110526">2022-08-11 11:05:26 UTC</a></sub>
-* [SpaceX fires up Starship and Super Heavy booster hours apart](https://www.teslarati.com/spacex-starship-super-heavy-back-to-back-static-fires/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T074619">2022-08-11 07:46:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T210404">2022-08-11 21:04:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T213527">2022-08-11 21:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
