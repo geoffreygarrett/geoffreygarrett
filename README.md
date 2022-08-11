@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Spaceflight’s chemically powered space tug heads for launch](https://spacenews.com/spaceflights-chemically-powered-space-tug-heads-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T141523">2022-08-11 14:15:23 UTC</a></sub>
 * [Astro Digital Q&A: Taking smallsats to the mainstream](https://spacenews.com/astro-digital-qa-taking-smallsats-to-the-mainstream/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T110526">2022-08-11 11:05:26 UTC</a></sub>
 * [SpaceX fires up Starship and Super Heavy booster hours apart](https://www.teslarati.com/spacex-starship-super-heavy-back-to-back-static-fires/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T074619">2022-08-11 07:46:19 UTC</a></sub>
 * [Canada’s MDA eyes UK expansion](https://spacenews.com/canadas-mda-eyes-uk-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T235527">2022-08-10 23:55:27 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Increased solar activity creates new challenges for smallsats](https://spacenews.com/increased-solar-activity-creates-new-challenges-for-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T211528">2022-08-10 21:15:28 UTC</a></sub>
 * [NASA to Stream Artemis I Rollout, Briefings on Science, Tech Payloads](http://www.nasa.gov/press-release/nasa-to-stream-artemis-i-rollout-briefings-on-science-tech-payloads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T211500">2022-08-10 21:15:00 UTC</a></sub>
 * [U.S. Army a key customer of BlackSky’s next-generation imaging satellite](https://spacenews.com/u-s-army-a-key-customer-of-blackskys-next-generation-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T210517">2022-08-10 21:05:17 UTC</a></sub>
-* [NASA Sets Coverage for Russian Spacewalk](http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-spacewalk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T204500">2022-08-10 20:45:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Lunar Trailblazer, NASA’s Moon water mapper](https://www.planetary.org/space-missions/lunar-trailblazer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T140558">2022-08-11 14:05:58 UTC</a></sub>
 * [Artemis I launch guide: What to expect](https://www.planetary.org/articles/artemis-i-launch-guide) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140615">2022-08-09 14:06:15 UTC</a></sub>
 * [European Spaceflight Update - ESA goes nuclear](https://www.getrevue.co/profile/andrewparsonson/issues/esa-goes-nuclear-1291428) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T140544">2022-08-08 14:05:44 UTC</a></sub>
 * [Rather remarkable robots](https://www.planetary.org/the-downlink/rather-remarkable-robots) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T143514">2022-08-05 14:35:14 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently To Be Confirmed
 * [The Cost of SLS and Orion](https://www.planetary.org/space-policy/cost-of-sls-and-orion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T120202">2022-08-03 12:02:02 UTC</a></sub>
 * [Triton, Neptune's largest moon](https://www.planetary.org/worlds/triton) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T140202">2022-08-02 14:02:02 UTC</a></sub>
 * [RocketStars: Ron McKee serves as SBIRS GEO 6 launch conductor](https://blog.ulalaunch.com/blog/rocketstars-ron-mckee-serves-as-sbirs-geo-6-launch-conductor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T162233">2022-08-01 16:22:33 UTC</a></sub>
-* [Sights beyond the visible](https://www.planetary.org/the-downlink/sights-beyond-the-visible) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T143058">2022-07-29 14:30:58 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T140330">2022-08-11 14:03:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T143433">2022-08-11 14:34:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
