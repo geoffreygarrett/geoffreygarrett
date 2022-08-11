@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Transfers Landsat 9 Satellite to USGS to Monitor Earth’s Changes](http://www.nasa.gov/press-release/nasa-transfers-landsat-9-satellite-to-usgs-to-monitor-earth-s-changes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T205500">2022-08-11 20:55:00 UTC</a></sub>
 * [NASA, Boeing to Hold Media Update on Starliner Progress](http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-starliner-progress) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T191500">2022-08-11 19:15:00 UTC</a></sub>
 * [Small launch vehicle industry growth slows](https://spacenews.com/small-launch-vehicle-industry-growth-slows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T181524">2022-08-11 18:15:24 UTC</a></sub>
 * [Kayhan updates Pathfinder spaceflight safety platform](https://spacenews.com/kayhan-update-smallsat-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T173521">2022-08-11 17:35:21 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Spaceflight’s chemically powered space tug heads for launch](https://spacenews.com/spaceflights-chemically-powered-space-tug-heads-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T141523">2022-08-11 14:15:23 UTC</a></sub>
 * [Astro Digital Q&A: Taking smallsats to the mainstream](https://spacenews.com/astro-digital-qa-taking-smallsats-to-the-mainstream/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T110526">2022-08-11 11:05:26 UTC</a></sub>
 * [SpaceX fires up Starship and Super Heavy booster hours apart](https://www.teslarati.com/spacex-starship-super-heavy-back-to-back-static-fires/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T074619">2022-08-11 07:46:19 UTC</a></sub>
-* [Canada’s MDA eyes UK expansion](https://spacenews.com/canadas-mda-eyes-uk-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T235527">2022-08-10 23:55:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T203625">2022-08-11 20:36:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T210404">2022-08-11 21:04:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
