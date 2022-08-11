@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kayhan updates Pathfinder spaceflight safety platform](https://spacenews.com/kayhan-update-smallsat-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T173521">2022-08-11 17:35:21 UTC</a></sub>
 * [FCC considers new rules for emerging space capabilities](https://spacenews.com/fcc-considers-new-rules-for-emerging-space-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T161516">2022-08-11 16:15:16 UTC</a></sub>
 * [Download your Thursday ‘News from the 2022 Small Satellite show’ digital edition](https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T155527">2022-08-11 15:55:27 UTC</a></sub>
 * [Lunar Reconnaissance Orbiter discovers thermally stable areas in surface pits suitable for future lunar bases](https://www.nasaspaceflight.com/2022/08/lro-surface-pit-temperatures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T151548">2022-08-11 15:15:48 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Canada’s MDA eyes UK expansion](https://spacenews.com/canadas-mda-eyes-uk-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T235527">2022-08-10 23:55:27 UTC</a></sub>
 * [Lockheed Martin’s venture fund to increase investments in space companies](https://spacenews.com/lockheed-martins-venture-fund-to-increase-investments-in-space-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T231527">2022-08-10 23:15:27 UTC</a></sub>
 * [Orbital Insight and Asterra join forces to monitor infrastructure](https://spacenews.com/orbital-insight-asterra/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T225530">2022-08-10 22:55:30 UTC</a></sub>
-* [SpaceX loses $900 million in rural broadband subsidies](https://spacenews.com/spacex-loses-900-million-rural-broadband-subsidy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T214517">2022-08-10 21:45:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T171031">2022-08-11 17:10:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T173643">2022-08-11 17:36:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
