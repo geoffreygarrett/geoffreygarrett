@@ -101,12 +101,12 @@ Vandenberg SFB, CA, USA
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T214020">2022-08-12 21:40:20 UTC</a>. Until
 then, this launch pad will have seen 94
 out of 700 launches in this
-region. The mission's status is currently To Be Confirmed
-(TBC) 🟨  which means:
-*awaiting official confirmation - current date is known with some certainty.* 
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 46 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -126,7 +126,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 3-3</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T214020">2022-08-12 21:40:20 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-3&location=Vandenberg SFB, CA, USA&dates=20220812T214020Z%2F20220812T214020Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 3-3</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T214020">2022-08-12 21:40:20 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-3&location=Vandenberg SFB, CA, USA&dates=20220812T214020Z%2F20220812T214020Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-27</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T000000">2022-08-16 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-27&location=Cape Canaveral, FL, USA&dates=20220816T000000Z%2F20220816T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-23</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T000000">2022-08-24 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-23&location=Cape Canaveral, FL, USA&dates=20220824T000000Z%2F20220824T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Artemis-1</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T123300">2022-08-29 12:33:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis-1&location=Kennedy Space Center, FL, USA&dates=20220829T123300Z%2F20220829T143300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Small launch vehicle industry growth slows](https://spacenews.com/small-launch-vehicle-industry-growth-slows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T181524">2022-08-11 18:15:24 UTC</a></sub>
 * [Kayhan updates Pathfinder spaceflight safety platform](https://spacenews.com/kayhan-update-smallsat-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T173521">2022-08-11 17:35:21 UTC</a></sub>
 * [FCC considers new rules for emerging space capabilities](https://spacenews.com/fcc-considers-new-rules-for-emerging-space-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T161516">2022-08-11 16:15:16 UTC</a></sub>
 * [Download your Thursday ‘News from the 2022 Small Satellite show’ digital edition](https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T155527">2022-08-11 15:55:27 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX fires up Starship and Super Heavy booster hours apart](https://www.teslarati.com/spacex-starship-super-heavy-back-to-back-static-fires/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T074619">2022-08-11 07:46:19 UTC</a></sub>
 * [Canada’s MDA eyes UK expansion](https://spacenews.com/canadas-mda-eyes-uk-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T235527">2022-08-10 23:55:27 UTC</a></sub>
 * [Lockheed Martin’s venture fund to increase investments in space companies](https://spacenews.com/lockheed-martins-venture-fund-to-increase-investments-in-space-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T231527">2022-08-10 23:15:27 UTC</a></sub>
-* [Orbital Insight and Asterra join forces to monitor infrastructure](https://spacenews.com/orbital-insight-asterra/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T225530">2022-08-10 22:55:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T180737">2022-08-11 18:07:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T184332">2022-08-11 18:43:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
