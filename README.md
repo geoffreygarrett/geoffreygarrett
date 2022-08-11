@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Canada’s MDA eyes UK expansion](https://spacenews.com/canadas-mda-eyes-uk-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T235527">2022-08-10 23:55:27 UTC</a></sub>
 * [Lockheed Martin’s venture fund to increase investments in space companies](https://spacenews.com/lockheed-martins-venture-fund-to-increase-investments-in-space-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T231527">2022-08-10 23:15:27 UTC</a></sub>
 * [Orbital Insight and Asterra join forces to monitor infrastructure](https://spacenews.com/orbital-insight-asterra/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T225530">2022-08-10 22:55:30 UTC</a></sub>
 * [SpaceX loses $900 million in rural broadband subsidies](https://spacenews.com/spacex-loses-900-million-rural-broadband-subsidy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T214517">2022-08-10 21:45:17 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Sets Coverage for Russian Spacewalk](http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-spacewalk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T204500">2022-08-10 20:45:00 UTC</a></sub>
 * [DARPA selects companies for inter-satellite laser communications project](https://spacenews.com/darpa-selects-companies-for-inter-satellite-laser-communications-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T195521">2022-08-10 19:55:21 UTC</a></sub>
 * [La NASA busca experimentos de estudiantes para remontarse en el segundo reto TechRise](http://www.nasa.gov/press-release/la-nasa-busca-experimentos-de-estudiantes-para-remontarse-en-el-segundo-reto-techrise) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T185500">2022-08-10 18:55:00 UTC</a></sub>
-* [NASA cubesat bumped from rideshare launch because of orbital debris mitigation concerns](https://spacenews.com/nasa-cubesat-bumped-from-rideshare-launch-because-of-orbital-debris-mitigation-concerns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T183519">2022-08-10 18:35:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T233540">2022-08-10 23:35:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T003451">2022-08-11 00:34:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
