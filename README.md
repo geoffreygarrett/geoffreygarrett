@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX preps 46 more Starlink satellites for launch into polar orbit](https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T194514">2022-08-12 19:45:14 UTC</a></sub>
 * [Anuvu buys Signal Mountain Networks to expand government business](https://spacenews.com/anuvu-buys-signal-mountain-networks-to-expand-government-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T182517">2022-08-12 18:25:17 UTC</a></sub>
 * [Intelsat and OneWeb to provide multi-orbit inflight connectivity](https://spacenews.com/intelsat-and-oneweb-to-provide-multi-orbit-inflight-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T170529">2022-08-12 17:05:29 UTC</a></sub>
 * [SpaceX to continue Starlink expansion with third launch to shell 3](https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T165059">2022-08-12 16:50:59 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA TV to Cover SpaceX Cargo Dragon Departure from Space Station](http://www.nasa.gov/press-release/nasa-tv-to-cover-spacex-cargo-dragon-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T212500">2022-08-11 21:25:00 UTC</a></sub>
 * [NASA Transfers Landsat 9 Satellite to USGS to Monitor Earth’s Changes](http://www.nasa.gov/press-release/nasa-transfers-landsat-9-satellite-to-usgs-to-monitor-earth-s-changes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T205500">2022-08-11 20:55:00 UTC</a></sub>
 * [NASA, Boeing to Hold Media Update on Starliner Progress](http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-starliner-progress) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T191500">2022-08-11 19:15:00 UTC</a></sub>
-* [Small launch vehicle industry growth slows](https://spacenews.com/small-launch-vehicle-industry-growth-slows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T181524">2022-08-11 18:15:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T193113">2022-08-12 19:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T200635">2022-08-12 20:06:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
