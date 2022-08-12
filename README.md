@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Starlink Group 3-3 at the
-<a href="">Space Launch Complex 4E</a> in
-Vandenberg SFB, CA, USA
+Falcon 9 Block 5 | Starlink Group 4-27 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T214020">2022-08-12 21:40:20 UTC</a>. Until
-then, this launch pad will have seen 94
-out of 700 launches in this
-region. The mission's status is currently Go for Launch
-(Go) 🟩  which means:
-*current T-0 confirmed by official or reliable sources.* 
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T000000">2022-08-19 00:00:00 UTC</a>. Until
+then, this launch pad will have seen 149
+out of 853 launches in this
+region. The mission's status is currently To Be Determined
+(TBD) 🟧  which means:
+*current date is a placeholder or rough estimation based on unreliable or interpreted sources.* 
 <br>
 <blockquote>
-  A batch of 46 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 3-3</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T214020">2022-08-12 21:40:20 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-3&location=Vandenberg SFB, CA, USA&dates=20220812T214020Z%2F20220812T214020Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-27</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T000000">2022-08-19 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-27&location=Cape Canaveral, FL, USA&dates=20220819T000000Z%2F20220819T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-23</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T000000">2022-08-24 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-23&location=Cape Canaveral, FL, USA&dates=20220824T000000Z%2F20220824T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Artemis-1</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T123300">2022-08-29 12:33:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis-1&location=Kennedy Space Center, FL, USA&dates=20220829T123300Z%2F20220829T143300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -181,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Harris says U.S. to update commercial space regulations](https://spacenews.com/harris-says-u-s-to-update-commercial-space-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T215520">2022-08-12 21:55:20 UTC</a></sub>
 * [SpaceX preps 46 more Starlink satellites for launch into polar orbit](https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T194514">2022-08-12 19:45:14 UTC</a></sub>
 * [Anuvu buys Signal Mountain Networks to expand government business](https://spacenews.com/anuvu-buys-signal-mountain-networks-to-expand-government-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T182517">2022-08-12 18:25:17 UTC</a></sub>
 * [Intelsat and OneWeb to provide multi-orbit inflight connectivity](https://spacenews.com/intelsat-and-oneweb-to-provide-multi-orbit-inflight-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T170529">2022-08-12 17:05:29 UTC</a></sub>
-* [SpaceX to continue Starlink expansion with third launch to shell 3](https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T165059">2022-08-12 16:50:59 UTC</a></sub>
+* [SpaceX continues Starlink expansion with third launch to shell 3](https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T165059">2022-08-12 16:50:59 UTC</a></sub>
 * [Rocket Report: SpaceX sees rideshare demand, Russia’s odd launch deal with Iran](https://arstechnica.com/science/2022/08/rocket-report-a-big-deal-to-keep-cygnus-flying-sizing-up-the-methalox-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T113056">2022-08-12 11:30:56 UTC</a></sub>
 * [SpaceX set to launch third batch of sun-synchronous Starlink satellites](https://www.teslarati.com/spacex-sun-synchronous-starlink-launch-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T073620">2022-08-12 07:36:20 UTC</a></sub>
 * [Army looking at new ways to use space technology for unconventional warfare](https://spacenews.com/army-looking-at-new-ways-to-use-space-technology-for-unconventional-warfare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T212516">2022-08-11 21:25:16 UTC</a></sub>
 * [NASA TV to Cover SpaceX Cargo Dragon Departure from Space Station](http://www.nasa.gov/press-release/nasa-tv-to-cover-spacex-cargo-dragon-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T212500">2022-08-11 21:25:00 UTC</a></sub>
 * [NASA Transfers Landsat 9 Satellite to USGS to Monitor Earth’s Changes](http://www.nasa.gov/press-release/nasa-transfers-landsat-9-satellite-to-usgs-to-monitor-earth-s-changes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T205500">2022-08-11 20:55:00 UTC</a></sub>
-* [NASA, Boeing to Hold Media Update on Starliner Progress](http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-starliner-progress) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T191500">2022-08-11 19:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T213428">2022-08-12 21:34:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T220631">2022-08-12 22:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
