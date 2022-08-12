@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: SpaceX sees rideshare demand, Russia’s odd launch deal with Iran](https://arstechnica.com/science/2022/08/rocket-report-a-big-deal-to-keep-cygnus-flying-sizing-up-the-methalox-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T113056">2022-08-12 11:30:56 UTC</a></sub>
 * [SpaceX set to launch third batch of sun-synchronous Starlink satellites](https://www.teslarati.com/spacex-sun-synchronous-starlink-launch-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T073620">2022-08-12 07:36:20 UTC</a></sub>
 * [Army looking at new ways to use space technology for unconventional warfare](https://spacenews.com/army-looking-at-new-ways-to-use-space-technology-for-unconventional-warfare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T212516">2022-08-11 21:25:16 UTC</a></sub>
 * [NASA TV to Cover SpaceX Cargo Dragon Departure from Space Station](http://www.nasa.gov/press-release/nasa-tv-to-cover-spacex-cargo-dragon-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T212500">2022-08-11 21:25:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Kayhan updates Pathfinder spaceflight safety platform](https://spacenews.com/kayhan-update-smallsat-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T173521">2022-08-11 17:35:21 UTC</a></sub>
 * [FCC considers new rules for emerging space capabilities](https://spacenews.com/fcc-considers-new-rules-for-emerging-space-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T161516">2022-08-11 16:15:16 UTC</a></sub>
 * [Download your Thursday ‘News from the 2022 Small Satellite show’ digital edition](https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T155527">2022-08-11 15:55:27 UTC</a></sub>
-* [Lunar Reconnaissance Orbiter discovers thermally stable areas in surface pits suitable for future lunar bases](https://www.nasaspaceflight.com/2022/08/lro-surface-pit-temperatures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T151548">2022-08-11 15:15:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T113140">2022-08-12 11:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T121029">2022-08-12 12:10:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
