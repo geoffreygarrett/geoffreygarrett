@@ -181,7 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [U.S. Army hands over satellite operations to Space Force, but keeps a foothold in space](https://spacenews.com/u-s-army-hands-over-satellite-operations-to-space-force-but-keeps-a-foothold-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T092800">2022-08-14 09:28:00 UTC</a></sub>
+* [U.S. Army hands over satellite operations to Space Force, but keeps a foothold in space](https://spacenews.com/u-s-army-hands-over-satellite-operations-to-space-force-but-keeps-a-foothold-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T094706">2022-08-14 09:47:06 UTC</a></sub>
 * [NASA, Space Force resolve SLS flight termination system issue](https://spacenews.com/nasa-space-force-resolve-sls-flight-termination-system-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T214731">2022-08-13 21:47:31 UTC</a></sub>
 * [Harris says U.S. to update commercial space regulations](https://spacenews.com/harris-says-u-s-to-update-commercial-space-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T215520">2022-08-12 21:55:20 UTC</a></sub>
 * [SpaceX preps 46 more Starlink satellites for launch into polar orbit](https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T194514">2022-08-12 19:45:14 UTC</a></sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T100310">2022-08-14 10:03:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T103744">2022-08-14 10:37:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
