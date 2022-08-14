@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Army hands over satellite operations to Space Force, but keeps a foothold in space](https://spacenews.com/u-s-army-hands-over-satellite-operations-to-space-force-but-keeps-a-foothold-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T092800">2022-08-14 09:28:00 UTC</a></sub>
 * [NASA, Space Force resolve SLS flight termination system issue](https://spacenews.com/nasa-space-force-resolve-sls-flight-termination-system-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T214731">2022-08-13 21:47:31 UTC</a></sub>
 * [Harris says U.S. to update commercial space regulations](https://spacenews.com/harris-says-u-s-to-update-commercial-space-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T215520">2022-08-12 21:55:20 UTC</a></sub>
 * [SpaceX preps 46 more Starlink satellites for launch into polar orbit](https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T194514">2022-08-12 19:45:14 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Rocket Report: SpaceX sees rideshare demand, Russia’s odd launch deal with Iran](https://arstechnica.com/science/2022/08/rocket-report-a-big-deal-to-keep-cygnus-flying-sizing-up-the-methalox-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T113056">2022-08-12 11:30:56 UTC</a></sub>
 * [SpaceX set to launch third batch of sun-synchronous Starlink satellites](https://www.teslarati.com/spacex-sun-synchronous-starlink-launch-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T073620">2022-08-12 07:36:20 UTC</a></sub>
 * [SpaceX launches more Starlink satellites in afternoon launch from California](https://spaceflightnow.com/2022/08/12/spacex-launches-more-starlink-satellites-in-afternoon-launch-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T005511">2022-08-12 00:55:11 UTC</a></sub>
-* [Army looking at new ways to use space technology for unconventional warfare](https://spacenews.com/army-looking-at-new-ways-to-use-space-technology-for-unconventional-warfare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T212516">2022-08-11 21:25:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T090435">2022-08-14 09:04:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T093523">2022-08-14 09:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
