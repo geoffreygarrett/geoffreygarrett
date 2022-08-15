@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [No, seriously, NASA’s Space Launch System is ready to take flight](https://arstechnica.com/science/2022/08/nasa-declares-that-its-space-launch-system-rocket-is-now-ready-to-fly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T181346">2022-08-15 18:13:46 UTC</a></sub>
 * [D-Orbit cancels SPAC merger plan](https://spacenews.com/d-orbit-cancels-spac-merger-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T171135">2022-08-15 17:11:35 UTC</a></sub>
 * [SpaceX gets $1.9 million Air Force contract for Starlink services in Europe and Africa](https://spacenews.com/spacex-gets-1-9-million-air-force-contract-for-starlink-services-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T153131">2022-08-15 15:31:31 UTC</a></sub>
 * [Stacey Morgan recounts hitting “the wall” during her husband’s spaceflight](https://arstechnica.com/science/2022/08/a-peek-behind-the-curtain-of-what-a-nasa-spouse-endures-during-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T133228">2022-08-15 13:32:28 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA, Space Force resolve SLS flight termination system issue](https://spacenews.com/nasa-space-force-resolve-sls-flight-termination-system-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T214731">2022-08-13 21:47:31 UTC</a></sub>
 * [Harris says U.S. to update commercial space regulations](https://spacenews.com/harris-says-u-s-to-update-commercial-space-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T215520">2022-08-12 21:55:20 UTC</a></sub>
 * [SpaceX preps 46 more Starlink satellites for launch into polar orbit](https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T194514">2022-08-12 19:45:14 UTC</a></sub>
-* [Anuvu buys Signal Mountain Networks to expand government business](https://spacenews.com/anuvu-buys-signal-mountain-networks-to-expand-government-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T182517">2022-08-12 18:25:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T180759">2022-08-15 18:07:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T184500">2022-08-15 18:45:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
