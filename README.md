@@ -181,16 +181,16 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Virgin Orbit reduces launch forecast while increasing per-launch revenue](https://spacenews.com/virgin-orbit-reduces-launch-forecast-while-increasing-per-launch-revenue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T224127">2022-08-14 22:41:27 UTC</a></sub>
-* [U.S. Army hands over satellite operations to Space Force, but keeps a foothold in space](https://spacenews.com/u-s-army-hands-over-satellite-operations-to-space-force-but-keeps-a-foothold-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T094706">2022-08-14 09:47:06 UTC</a></sub>
+* [D-Orbit cancels SPAC merger plan](https://spacenews.com/d-orbit-cancels-spac-merger-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T171135">2022-08-15 17:11:35 UTC</a></sub>
+* [SpaceX gets $1.9 million Air Force contract for Starlink services in Europe and Africa](https://spacenews.com/spacex-gets-1-9-million-air-force-contract-for-starlink-services-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T153131">2022-08-15 15:31:31 UTC</a></sub>
+* [Stacey Morgan recounts hitting “the wall” during her husband’s spaceflight](https://arstechnica.com/science/2022/08/a-peek-behind-the-curtain-of-what-a-nasa-spouse-endures-during-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T133228">2022-08-15 13:32:28 UTC</a></sub>
+* [Virgin Orbit reduces launch forecast while increasing per-launch revenue](https://spacenews.com/virgin-orbit-reduces-launch-forecast-while-increasing-per-launch-revenue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T225144">2022-08-14 22:51:44 UTC</a></sub>
+* [Chinese spaceplane marks 10 days in orbit](https://spaceflightnow.com/2022/08/14/reusable-chinese-spacecraft-marks-10-days-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T152124">2022-08-14 15:21:24 UTC</a></sub>
+* [U.S. Army hands over satellite operations to Space Force, but keeps a foothold in space](https://spacenews.com/u-s-army-hands-over-satellite-operations-to-space-force-but-keeps-a-foothold-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T100700">2022-08-14 10:07:00 UTC</a></sub>
 * [NASA, Space Force resolve SLS flight termination system issue](https://spacenews.com/nasa-space-force-resolve-sls-flight-termination-system-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T214731">2022-08-13 21:47:31 UTC</a></sub>
 * [Harris says U.S. to update commercial space regulations](https://spacenews.com/harris-says-u-s-to-update-commercial-space-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T215520">2022-08-12 21:55:20 UTC</a></sub>
 * [SpaceX preps 46 more Starlink satellites for launch into polar orbit](https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T194514">2022-08-12 19:45:14 UTC</a></sub>
 * [Anuvu buys Signal Mountain Networks to expand government business](https://spacenews.com/anuvu-buys-signal-mountain-networks-to-expand-government-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T182517">2022-08-12 18:25:17 UTC</a></sub>
-* [Intelsat and OneWeb to provide multi-orbit inflight connectivity](https://spacenews.com/intelsat-and-oneweb-to-provide-multi-orbit-inflight-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T170529">2022-08-12 17:05:29 UTC</a></sub>
-* [SpaceX continues Starlink expansion with third launch to shell 3](https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T165059">2022-08-12 16:50:59 UTC</a></sub>
-* [Rocket Report: SpaceX sees rideshare demand, Russia’s odd launch deal with Iran](https://arstechnica.com/science/2022/08/rocket-report-a-big-deal-to-keep-cygnus-flying-sizing-up-the-methalox-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T113056">2022-08-12 11:30:56 UTC</a></sub>
-* [SpaceX set to launch third batch of sun-synchronous Starlink satellites](https://www.teslarati.com/spacex-sun-synchronous-starlink-launch-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T073620">2022-08-12 07:36:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [European Spaceflight Update - What is Avio up to in Kourou?](https://www.getrevue.co/profile/andrewparsonson/issues/what-is-avio-up-to-in-kourou-1302016) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T123244">2022-08-15 12:32:44 UTC</a></sub>
 * [Comets: big, beautiful, and surprisingly smelly](https://www.planetary.org/the-downlink/comets-big-beautiful-and-surprisingly-smelly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T143555">2022-08-12 14:35:55 UTC</a></sub>
 * [Lunar Trailblazer, NASA’s Moon water mapper](https://www.planetary.org/space-missions/lunar-trailblazer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T140558">2022-08-11 14:05:58 UTC</a></sub>
 * [Artemis I launch guide: What to expect](https://www.planetary.org/articles/artemis-i-launch-guide) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140615">2022-08-09 14:06:15 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently To Be Confirmed
 * [SBIRS GEO 6: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T142140">2022-08-04 14:21:40 UTC</a></sub>
 * [Why we have the SLS](https://www.planetary.org/articles/why-we-have-the-sls) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T123151">2022-08-03 12:31:51 UTC</a></sub>
 * [The Cost of SLS and Orion](https://www.planetary.org/space-policy/cost-of-sls-and-orion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T120202">2022-08-03 12:02:02 UTC</a></sub>
-* [Triton, Neptune's largest moon](https://www.planetary.org/worlds/triton) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T140202">2022-08-02 14:02:02 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T171805">2022-08-15 17:18:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T174159">2022-08-15 17:41:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
