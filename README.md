@@ -181,16 +181,16 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Science Leadership to Hold Town Hall Meeting](http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T190200">2022-08-15 19:02:00 UTC</a></sub>
 * [No, seriously, NASA’s Space Launch System is ready to take flight](https://arstechnica.com/science/2022/08/nasa-declares-that-its-space-launch-system-rocket-is-now-ready-to-fly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T181346">2022-08-15 18:13:46 UTC</a></sub>
 * [D-Orbit cancels SPAC merger plan](https://spacenews.com/d-orbit-cancels-spac-merger-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T171135">2022-08-15 17:11:35 UTC</a></sub>
 * [SpaceX gets $1.9 million Air Force contract for Starlink services in Europe and Africa](https://spacenews.com/spacex-gets-1-9-million-air-force-contract-for-starlink-services-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T153131">2022-08-15 15:31:31 UTC</a></sub>
 * [Stacey Morgan recounts hitting “the wall” during her husband’s spaceflight](https://arstechnica.com/science/2022/08/a-peek-behind-the-curtain-of-what-a-nasa-spouse-endures-during-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T133228">2022-08-15 13:32:28 UTC</a></sub>
 * [Virgin Orbit reduces launch forecast while increasing per-launch revenue](https://spacenews.com/virgin-orbit-reduces-launch-forecast-while-increasing-per-launch-revenue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T225144">2022-08-14 22:51:44 UTC</a></sub>
+* [Smallsat’s supply chain woes](https://spacenews.com/smallsats-supply-chain-woes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T191134">2022-08-14 19:11:34 UTC</a></sub>
 * [Chinese spaceplane marks 10 days in orbit](https://spaceflightnow.com/2022/08/14/reusable-chinese-spacecraft-marks-10-days-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T152124">2022-08-14 15:21:24 UTC</a></sub>
 * [U.S. Army hands over satellite operations to Space Force, but keeps a foothold in space](https://spacenews.com/u-s-army-hands-over-satellite-operations-to-space-force-but-keeps-a-foothold-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T100700">2022-08-14 10:07:00 UTC</a></sub>
 * [NASA, Space Force resolve SLS flight termination system issue](https://spacenews.com/nasa-space-force-resolve-sls-flight-termination-system-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T214731">2022-08-13 21:47:31 UTC</a></sub>
-* [Harris says U.S. to update commercial space regulations](https://spacenews.com/harris-says-u-s-to-update-commercial-space-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T215520">2022-08-12 21:55:20 UTC</a></sub>
-* [SpaceX preps 46 more Starlink satellites for launch into polar orbit](https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T194514">2022-08-12 19:45:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T190141">2022-08-15 19:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T193138">2022-08-15 19:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
