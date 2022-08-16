@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SLS ready to roll to LC-39B for launch, teams prepare for multiple launch trajectories](https://www.nasaspaceflight.com/2022/08/artemis-1-launch-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T182514">2022-08-16 18:25:14 UTC</a></sub>
 * [After ICBM test, US stresses it was “not the result of current world events”](https://arstechnica.com/science/2022/08/after-icbm-test-us-stresses-it-was-not-the-result-of-current-world-events/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T143015">2022-08-16 14:30:15 UTC</a></sub>
 * [Astrobotic bids for Masten Space Systems assets](https://spacenews.com/astrobotic-bids-for-masten-space-systems-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T112136">2022-08-16 11:21:36 UTC</a></sub>
 * [China’s spaceplane remains in orbit but clues emerge from recovered launch debris](https://spacenews.com/chinas-spaceplane-remains-in-orbit-but-clues-emerge-from-recovered-launch-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T111131">2022-08-16 11:11:31 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [D-Orbit cancels SPAC merger plan](https://spacenews.com/d-orbit-cancels-spac-merger-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T171135">2022-08-15 17:11:35 UTC</a></sub>
 * [SpaceX gets $1.9 million Air Force contract for Starlink services in Europe and Africa](https://spacenews.com/spacex-gets-1-9-million-air-force-contract-for-starlink-services-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T153131">2022-08-15 15:31:31 UTC</a></sub>
 * [NASA to move moon rocket to Florida launch pad after destruct system testing](https://spaceflightnow.com/2022/08/15/nasa-to-move-moon-rocket-to-florida-launch-pad-after-completing-destruct-system-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T151126">2022-08-15 15:11:26 UTC</a></sub>
-* [Stacey Morgan recounts hitting “the wall” during her husband’s spaceflight](https://arstechnica.com/science/2022/08/a-peek-behind-the-curtain-of-what-a-nasa-spouse-endures-during-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T133228">2022-08-15 13:32:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T180906">2022-08-16 18:09:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T184533">2022-08-16 18:45:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
