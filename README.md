@@ -181,6 +181,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrobotic bids for Masten Space Systems assets](https://spacenews.com/astrobotic-bids-for-masten-space-systems-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T112136">2022-08-16 11:21:36 UTC</a></sub>
+* [China’s spaceplane remains in orbit but clues emerge from recovered launch debris](https://spacenews.com/chinas-spaceplane-remains-in-orbit-but-clues-emerge-from-recovered-launch-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T111131">2022-08-16 11:11:31 UTC</a></sub>
 * [NASA Awards Next-Generation Spaceflight Computing Processor Contract](http://www.nasa.gov/press-release/nasa-awards-next-generation-spaceflight-computing-processor-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T210100">2022-08-15 21:01:00 UTC</a></sub>
 * [NASA Science Leadership to Hold Town Hall Meeting](http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T190200">2022-08-15 19:02:00 UTC</a></sub>
 * [No, seriously, NASA’s Space Launch System is ready to take flight](https://arstechnica.com/science/2022/08/nasa-declares-that-its-space-launch-system-rocket-is-now-ready-to-fly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T181346">2022-08-15 18:13:46 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Stacey Morgan recounts hitting “the wall” during her husband’s spaceflight](https://arstechnica.com/science/2022/08/a-peek-behind-the-curtain-of-what-a-nasa-spouse-endures-during-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T133228">2022-08-15 13:32:28 UTC</a></sub>
 * [Virgin Orbit reduces launch forecast while increasing per-launch revenue](https://spacenews.com/virgin-orbit-reduces-launch-forecast-while-increasing-per-launch-revenue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T225144">2022-08-14 22:51:44 UTC</a></sub>
 * [Smallsat’s supply chain woes](https://spacenews.com/smallsats-supply-chain-woes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T191134">2022-08-14 19:11:34 UTC</a></sub>
-* [Chinese spaceplane marks 10 days in orbit](https://spaceflightnow.com/2022/08/14/reusable-chinese-spacecraft-marks-10-days-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T152124">2022-08-14 15:21:24 UTC</a></sub>
-* [U.S. Army hands over satellite operations to Space Force, but keeps a foothold in space](https://spacenews.com/u-s-army-hands-over-satellite-operations-to-space-force-but-keeps-a-foothold-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T100700">2022-08-14 10:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T110207">2022-08-16 11:02:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T113124">2022-08-16 11:31:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
