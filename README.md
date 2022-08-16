@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After ICBM test, US stresses it was “not the result of current world events”](https://arstechnica.com/science/2022/08/after-icbm-test-us-stresses-it-was-not-the-result-of-current-world-events/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T143015">2022-08-16 14:30:15 UTC</a></sub>
 * [Astrobotic bids for Masten Space Systems assets](https://spacenews.com/astrobotic-bids-for-masten-space-systems-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T112136">2022-08-16 11:21:36 UTC</a></sub>
 * [China’s spaceplane remains in orbit but clues emerge from recovered launch debris](https://spacenews.com/chinas-spaceplane-remains-in-orbit-but-clues-emerge-from-recovered-launch-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T111131">2022-08-16 11:11:31 UTC</a></sub>
 * [NASA Awards Next-Generation Spaceflight Computing Processor Contract](http://www.nasa.gov/press-release/nasa-awards-next-generation-spaceflight-computing-processor-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T210100">2022-08-15 21:01:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX gets $1.9 million Air Force contract for Starlink services in Europe and Africa](https://spacenews.com/spacex-gets-1-9-million-air-force-contract-for-starlink-services-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T153131">2022-08-15 15:31:31 UTC</a></sub>
 * [Stacey Morgan recounts hitting “the wall” during her husband’s spaceflight](https://arstechnica.com/science/2022/08/a-peek-behind-the-curtain-of-what-a-nasa-spouse-endures-during-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T133228">2022-08-15 13:32:28 UTC</a></sub>
 * [Virgin Orbit reduces launch forecast while increasing per-launch revenue](https://spacenews.com/virgin-orbit-reduces-launch-forecast-while-increasing-per-launch-revenue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T225144">2022-08-14 22:51:44 UTC</a></sub>
-* [Smallsat’s supply chain woes](https://spacenews.com/smallsats-supply-chain-woes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220814T191134">2022-08-14 19:11:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T140220">2022-08-16 14:02:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T143522">2022-08-16 14:35:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
