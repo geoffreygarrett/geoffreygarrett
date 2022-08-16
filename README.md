@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orion Space wins U.S. Space Force contract for on-orbit services experiment](https://spacenews.com/orion-space-wins-u-s-space-force-contract-for-on-orbit-services-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T205127">2022-08-16 20:51:27 UTC</a></sub>
 * [SLS ready to roll to LC-39B for launch, teams prepare for multiple launch trajectories](https://www.nasaspaceflight.com/2022/08/artemis-1-launch-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T182514">2022-08-16 18:25:14 UTC</a></sub>
 * [After ICBM test, US stresses it was “not the result of current world events”](https://arstechnica.com/science/2022/08/after-icbm-test-us-stresses-it-was-not-the-result-of-current-world-events/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T143015">2022-08-16 14:30:15 UTC</a></sub>
 * [Astrobotic bids for Masten Space Systems assets](https://spacenews.com/astrobotic-bids-for-masten-space-systems-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T112136">2022-08-16 11:21:36 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [No, seriously, NASA’s Space Launch System is ready to take flight](https://arstechnica.com/science/2022/08/nasa-declares-that-its-space-launch-system-rocket-is-now-ready-to-fly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T181346">2022-08-15 18:13:46 UTC</a></sub>
 * [D-Orbit cancels SPAC merger plan](https://spacenews.com/d-orbit-cancels-spac-merger-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T171135">2022-08-15 17:11:35 UTC</a></sub>
 * [SpaceX gets $1.9 million Air Force contract for Starlink services in Europe and Africa](https://spacenews.com/spacex-gets-1-9-million-air-force-contract-for-starlink-services-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T153131">2022-08-15 15:31:31 UTC</a></sub>
-* [NASA to move moon rocket to Florida launch pad after destruct system testing](https://spaceflightnow.com/2022/08/15/nasa-to-move-moon-rocket-to-florida-launch-pad-after-completing-destruct-system-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T151126">2022-08-15 15:11:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T203637">2022-08-16 20:36:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T210355">2022-08-16 21:03:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
