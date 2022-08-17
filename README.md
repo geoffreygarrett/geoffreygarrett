@@ -181,8 +181,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russian spacewalk cut short by spacesuit power system problem](https://spaceflightnow.com/2022/08/17/russian-eva-54/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T195112">2022-08-17 19:51:12 UTC</a></sub>
 * [NOAA, NASA, and Northrop Grumman complete major testing for JPSS-2 before launch](https://www.nasaspaceflight.com/2022/08/jpss-2-testing-complete/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T160204">2022-08-17 16:02:04 UTC</a></sub>
-* [Watch live: Russian cosmonauts begin spacewalk to continue outfitting European robot arm](https://spaceflightnow.com/2022/08/17/russian-eva-54/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T141110">2022-08-17 14:11:10 UTC</a></sub>
 * [Russian spacewalk to end early as suit power issue appears](https://www.nasaspaceflight.com/2022/08/rs-eva-54-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T135504">2022-08-17 13:55:04 UTC</a></sub>
 * [Rocket Lab will self-fund a mission to search for life in the clouds of Venus](https://arstechnica.com/science/2022/08/rocket-lab-will-self-fund-a-mission-to-search-for-life-in-the-clouds-of-venus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T130947">2022-08-17 13:09:47 UTC</a></sub>
 * [Seeking Regulatory Mercy: The case for extending constellation deployment deadlines](https://spacenews.com/seeking-regulatory-mercy-the-case-for-extending-constellation-deployment-deadlines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T080124">2022-08-17 08:01:24 UTC</a></sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T193116">2022-08-17 19:31:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T200636">2022-08-17 20:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
