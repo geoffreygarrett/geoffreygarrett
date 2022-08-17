@@ -186,7 +186,7 @@ region. The mission's status is currently To Be Confirmed
 * [AST SpaceMobile delays commercial satellite debut by six months](https://spacenews.com/ast-spacemobile-delays-commercial-satellite-debut-by-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T222125">2022-08-16 22:21:25 UTC</a></sub>
 * [Blue Origin scraps original recovery ship for New Glenn boosters](https://spacenews.com/blue-origin-scraps-original-recovery-ship-for-new-glenn-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T220125">2022-08-16 22:01:25 UTC</a></sub>
 * [Orion Space wins U.S. Space Force contract for on-orbit services experiment](https://spacenews.com/orion-space-wins-u-s-space-force-contract-for-on-orbit-services-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T205127">2022-08-16 20:51:27 UTC</a></sub>
-* [SLS rolling to LC-39B for launch, teams prepare for multiple launch trajectories](https://www.nasaspaceflight.com/2022/08/artemis-1-launch-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T182514">2022-08-16 18:25:14 UTC</a></sub>
+* [SLS arrives at LC-39B for launch, teams prepare for multiple launch trajectories](https://www.nasaspaceflight.com/2022/08/artemis-1-launch-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T182514">2022-08-16 18:25:14 UTC</a></sub>
 * [After ICBM test, US stresses it was “not the result of current world events”](https://arstechnica.com/science/2022/08/after-icbm-test-us-stresses-it-was-not-the-result-of-current-world-events/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T143015">2022-08-16 14:30:15 UTC</a></sub>
 * [Astrobotic bids for Masten Space Systems assets](https://spacenews.com/astrobotic-bids-for-masten-space-systems-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T112136">2022-08-16 11:21:36 UTC</a></sub>
 * [China’s spaceplane remains in orbit but clues emerge from recovered launch debris](https://spacenews.com/chinas-spaceplane-remains-in-orbit-but-clues-emerge-from-recovered-launch-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T111131">2022-08-16 11:11:31 UTC</a></sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T110255">2022-08-17 11:02:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T113446">2022-08-17 11:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
