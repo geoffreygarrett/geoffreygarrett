@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [R3-IoT becomes Krucial to branch out of aquaculture](https://spacenews.com/scottish-startup-rebrands-as-krucial-to-branch-out-of-aquaculture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T080119">2022-08-18 08:01:19 UTC</a></sub>
 * [NASA to Announce Candidate Landing Regions for Artemis III Moon Mission](http://www.nasa.gov/press-release/nasa-to-announce-candidate-landing-regions-for-artemis-iii-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T231100">2022-08-17 23:11:00 UTC</a></sub>
 * [SLS arrives at the pad for Artemis 1 launch](https://spacenews.com/sls-arrives-at-the-pad-for-artemis-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T224126">2022-08-17 22:41:26 UTC</a></sub>
 * [Commercial geospatial technologies that detect GPS disruptions to be tested in military exercises](https://spacenews.com/commercial-geospatial-technologies-that-detect-gps-disruptions-to-be-tested-in-military-exercises/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T223116">2022-08-17 22:31:16 UTC</a></sub>
@@ -192,7 +193,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab will self-fund a mission to search for life in the clouds of Venus](https://arstechnica.com/science/2022/08/rocket-lab-will-self-fund-a-mission-to-search-for-life-in-the-clouds-of-venus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T130947">2022-08-17 13:09:47 UTC</a></sub>
 * [Seeking Regulatory Mercy: The case for extending constellation deployment deadlines](https://spacenews.com/seeking-regulatory-mercy-the-case-for-extending-constellation-deployment-deadlines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T080124">2022-08-17 08:01:24 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket could still launch first military mission in 2022](https://www.teslarati.com/spacex-falcon-heavy-first-military-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T020216">2022-08-17 02:02:16 UTC</a></sub>
-* [AST SpaceMobile delays commercial satellite debut by six months](https://spacenews.com/ast-spacemobile-delays-commercial-satellite-debut-by-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T222125">2022-08-16 22:21:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T073415">2022-08-18 07:34:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T080814">2022-08-18 08:08:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
