@@ -183,6 +183,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Maxar receives delayed Ovzon 3 satellite parts](https://spacenews.com/maxar-receives-delayed-ovzon-3-satellite-parts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T221115">2022-08-18 22:11:15 UTC</a></sub>
+* [As DoD shifts to smaller satellites, new questions emerge on how to manage rideshare launches](https://spacenews.com/as-dod-shifts-to-smaller-satellites-new-questions-emerge-on-how-to-manage-rideshare-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T221115">2022-08-18 22:11:15 UTC</a></sub>
 * [SpaceX’s next-gen Starship rocket wins first satellite launch contract](https://www.teslarati.com/spacex-starship-first-satellite-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T211215">2022-08-18 21:12:15 UTC</a></sub>
 * [NASA Selects Proposals to Study Stellar Explosions, Galaxies, Stars](http://www.nasa.gov/press-release/nasa-selects-proposals-to-study-stellar-explosions-galaxies-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T202200">2022-08-18 20:22:00 UTC</a></sub>
 * [Media Invited to Learn About NASA Tools, Resources for Agriculture](http://www.nasa.gov/press-release/media-invited-to-learn-about-nasa-tools-resources-for-agriculture) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T195100">2022-08-18 19:51:00 UTC</a></sub>
@@ -191,8 +193,6 @@ region. The mission's status is currently Go for Launch
 * [La NASA ofrece una sesión informativa y entrevistas con el astronauta Frank Rubio antes de su despegue](http://www.nasa.gov/press-release/la-nasa-ofrece-una-sesi-n-informativa-y-entrevistas-con-el-astronauta-frank-rubio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T165200">2022-08-18 16:52:00 UTC</a></sub>
 * [NASA Hosts Astronaut Frank Rubio’s Prelaunch News Briefing, Interviews](http://www.nasa.gov/press-release/nasa-hosts-astronaut-frank-rubio-s-prelaunch-news-briefing-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T163100">2022-08-18 16:31:00 UTC</a></sub>
 * [Europe is seriously considering a major investment in space-based solar power](https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T125423">2022-08-18 12:54:23 UTC</a></sub>
-* [Mynaric hires president to oversee production of laser communications systems](https://spacenews.com/mynaric-hires-president-to-oversee-production-of-laser-communications-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T114122">2022-08-18 11:41:22 UTC</a></sub>
-* [R3-IoT becomes Krucial to branch out of aquaculture](https://spacenews.com/scottish-startup-rebrands-as-krucial-to-branch-out-of-aquaculture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T080119">2022-08-18 08:01:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T220640">2022-08-18 22:06:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T223745">2022-08-18 22:37:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
