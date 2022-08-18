@@ -183,7 +183,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [European space chief says continent will lead in space-based solar power](https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T125423">2022-08-18 12:54:23 UTC</a></sub>
+* [Europe is seriously considering a major investment in space-based solar power](https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T125423">2022-08-18 12:54:23 UTC</a></sub>
 * [Mynaric hires president to oversee production of laser communications systems](https://spacenews.com/mynaric-hires-president-to-oversee-production-of-laser-communications-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T114122">2022-08-18 11:41:22 UTC</a></sub>
 * [R3-IoT becomes Krucial to branch out of aquaculture](https://spacenews.com/scottish-startup-rebrands-as-krucial-to-branch-out-of-aquaculture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T080119">2022-08-18 08:01:19 UTC</a></sub>
 * [NASA to Announce Candidate Landing Regions for Artemis III Moon Mission](http://www.nasa.gov/press-release/nasa-to-announce-candidate-landing-regions-for-artemis-iii-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T231100">2022-08-17 23:11:00 UTC</a></sub>
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T131034">2022-08-18 13:10:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T135648">2022-08-18 13:56:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
