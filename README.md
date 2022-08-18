@@ -183,6 +183,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Media Invited to Learn About NASA Tools, Resources for Agriculture](http://www.nasa.gov/press-release/media-invited-to-learn-about-nasa-tools-resources-for-agriculture) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T195100">2022-08-18 19:51:00 UTC</a></sub>
+* [Sky Perfect JSAT picks SpaceX’s Starship for 2024 satellite launch](https://spacenews.com/sky-perfect-jsat-picks-spacexs-starship-for-2024-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T194117">2022-08-18 19:41:17 UTC</a></sub>
 * [Ukraine gains enhanced access to Iceye imagery and data](https://spacenews.com/iceye-ukraine-sar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T181116">2022-08-18 18:11:16 UTC</a></sub>
 * [La NASA ofrece una sesión informativa y entrevistas con el astronauta Frank Rubio antes de su despegue](http://www.nasa.gov/press-release/la-nasa-ofrece-una-sesi-n-informativa-y-entrevistas-con-el-astronauta-frank-rubio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T165200">2022-08-18 16:52:00 UTC</a></sub>
 * [NASA Hosts Astronaut Frank Rubio’s Prelaunch News Briefing, Interviews](http://www.nasa.gov/press-release/nasa-hosts-astronaut-frank-rubio-s-prelaunch-news-briefing-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T163100">2022-08-18 16:31:00 UTC</a></sub>
@@ -191,8 +193,6 @@ region. The mission's status is currently Go for Launch
 * [R3-IoT becomes Krucial to branch out of aquaculture](https://spacenews.com/scottish-startup-rebrands-as-krucial-to-branch-out-of-aquaculture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T080119">2022-08-18 08:01:19 UTC</a></sub>
 * [NASA to Announce Candidate Landing Regions for Artemis III Moon Mission](http://www.nasa.gov/press-release/nasa-to-announce-candidate-landing-regions-for-artemis-iii-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T231100">2022-08-17 23:11:00 UTC</a></sub>
 * [SLS arrives at the pad for Artemis 1 launch](https://spacenews.com/sls-arrives-at-the-pad-for-artemis-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T224126">2022-08-17 22:41:26 UTC</a></sub>
-* [Commercial geospatial technologies that detect GPS disruptions to be tested in military exercises](https://spacenews.com/commercial-geospatial-technologies-that-detect-gps-disruptions-to-be-tested-in-military-exercises/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T223116">2022-08-17 22:31:16 UTC</a></sub>
-* [Russian spacewalk cut short by spacesuit power system problem](https://spaceflightnow.com/2022/08/17/russian-eva-54/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T195112">2022-08-17 19:51:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T193115">2022-08-18 19:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T200658">2022-08-18 20:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
