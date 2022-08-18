@@ -183,6 +183,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [La NASA ofrece una sesión informativa y entrevistas con el astronauta Frank Rubio antes de su despegue](http://www.nasa.gov/press-release/la-nasa-ofrece-una-sesi-n-informativa-y-entrevistas-con-el-astronauta-frank-rubio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T165200">2022-08-18 16:52:00 UTC</a></sub>
+* [NASA Hosts Astronaut Frank Rubio’s Prelaunch News Briefing, Interviews](http://www.nasa.gov/press-release/nasa-hosts-astronaut-frank-rubio-s-prelaunch-news-briefing-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T163100">2022-08-18 16:31:00 UTC</a></sub>
 * [Europe is seriously considering a major investment in space-based solar power](https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T125423">2022-08-18 12:54:23 UTC</a></sub>
 * [Mynaric hires president to oversee production of laser communications systems](https://spacenews.com/mynaric-hires-president-to-oversee-production-of-laser-communications-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T114122">2022-08-18 11:41:22 UTC</a></sub>
 * [R3-IoT becomes Krucial to branch out of aquaculture](https://spacenews.com/scottish-startup-rebrands-as-krucial-to-branch-out-of-aquaculture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T080119">2022-08-18 08:01:19 UTC</a></sub>
@@ -190,9 +192,7 @@ region. The mission's status is currently Go for Launch
 * [SLS arrives at the pad for Artemis 1 launch](https://spacenews.com/sls-arrives-at-the-pad-for-artemis-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T224126">2022-08-17 22:41:26 UTC</a></sub>
 * [Commercial geospatial technologies that detect GPS disruptions to be tested in military exercises](https://spacenews.com/commercial-geospatial-technologies-that-detect-gps-disruptions-to-be-tested-in-military-exercises/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T223116">2022-08-17 22:31:16 UTC</a></sub>
 * [Russian spacewalk cut short by spacesuit power system problem](https://spaceflightnow.com/2022/08/17/russian-eva-54/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T195112">2022-08-17 19:51:12 UTC</a></sub>
-* [NOAA, NASA, and Northrop Grumman complete major testing for JPSS-2 before launch](https://www.nasaspaceflight.com/2022/08/jpss-2-testing-complete/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T160204">2022-08-17 16:02:04 UTC</a></sub>
-* [Russian spacewalk to end early as suit power issue appears](https://www.nasaspaceflight.com/2022/08/rs-eva-54-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T135504">2022-08-17 13:55:04 UTC</a></sub>
-* [Rocket Lab will self-fund a mission to search for life in the clouds of Venus](https://arstechnica.com/science/2022/08/rocket-lab-will-self-fund-a-mission-to-search-for-life-in-the-clouds-of-venus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T130947">2022-08-17 13:09:47 UTC</a></sub>
+* [NASA’s Artemis 1 moon rocket arrives at launch pad for lunar test flight](https://spaceflightnow.com/2022/08/17/nasas-artemis-1-moon-rocket-arrives-at-launch-pad-for-lunar-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T161118">2022-08-17 16:11:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T161110">2022-08-18 16:11:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T170742">2022-08-18 17:07:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
