@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA selects potential lunar landing sites for Artemis 3](https://spacenews.com/nasa-selects-potential-lunar-landing-sites-for-artemis-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T212110">2022-08-19 21:21:10 UTC</a></sub>
+* [SpaceX’s Starlink fleet gets 53 new satellites with launch from Florida](https://spaceflightnow.com/2022/08/19/spacexs-starlink-fleet-gets-53-new-satellites-with-successful-launch-from-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T205109">2022-08-19 20:51:09 UTC</a></sub>
 * [NASA Identifies Candidate Regions for Landing Next Americans on Moon](http://www.nasa.gov/press-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T170100">2022-08-19 17:01:00 UTC</a></sub>
 * [La NASA identifica regiones candidatas para un alunizaje humano](http://www.nasa.gov/press-release/la-nasa-identifica-regiones-candidatas-para-un-alunizaje-humano) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T170100">2022-08-19 17:01:00 UTC</a></sub>
 * [SpaceX rolls out Falcon 9 rocket for Starlink launch](https://spaceflightnow.com/2022/08/19/spacex-rolls-out-falcon-9-rocket-for-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T165113">2022-08-19 16:51:13 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Dragon cargo ship departs space station, heads for splashdown near Florida](https://spaceflightnow.com/2022/08/19/dragon-crs-25-iss-undocking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T153109">2022-08-19 15:31:09 UTC</a></sub>
 * [NASA Sets Launch Coverage for Artemis Mega Moon Rocket, Spacecraft](http://www.nasa.gov/press-release/nasa-sets-launch-coverage-for-artemis-mega-moon-rocket-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T144100">2022-08-19 14:41:00 UTC</a></sub>
 * [NASA selects astrophysics mission proposals for study](https://spacenews.com/nasa-selects-astrophysics-mission-proposals-for-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T120114">2022-08-19 12:01:14 UTC</a></sub>
-* [Rocket Report: Europe wants a super-heavy lifter, Starship nets launch contract](https://arstechnica.com/science/2022/08/rocket-report-europe-wants-a-super-heavy-lifter-starship-nets-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T110044">2022-08-19 11:00:44 UTC</a></sub>
-* [Maxar receives delayed Ovzon 3 satellite parts](https://spacenews.com/maxar-receives-delayed-ovzon-3-satellite-parts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T221115">2022-08-18 22:11:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T210335">2022-08-19 21:03:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T213446">2022-08-19 21:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
