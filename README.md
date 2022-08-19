@@ -183,16 +183,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA selects astrophysics mission proposals for study](https://spacenews.com/nasa-selects-astrophysics-mission-proposals-for-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T120114">2022-08-19 12:01:14 UTC</a></sub>
 * [Rocket Report: Europe wants a super-heavy lifter, Starship nets launch contract](https://arstechnica.com/science/2022/08/rocket-report-europe-wants-a-super-heavy-lifter-starship-nets-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T110044">2022-08-19 11:00:44 UTC</a></sub>
-* [Maxar receives delayed Ovzon 3 satellite parts](https://spacenews.com/maxar-receives-delayed-ovzon-3-satellite-parts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T221115">2022-08-18 22:11:15 UTC</a></sub>
 * [As DoD shifts to smaller satellites, new questions emerge on how to manage rideshare launches](https://spacenews.com/as-dod-shifts-to-smaller-satellites-new-questions-emerge-on-how-to-manage-rideshare-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T221115">2022-08-18 22:11:15 UTC</a></sub>
+* [Maxar receives delayed Ovzon 3 satellite parts](https://spacenews.com/maxar-receives-delayed-ovzon-3-satellite-parts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T221115">2022-08-18 22:11:15 UTC</a></sub>
 * [SpaceX’s next-gen Starship rocket wins first satellite launch contract](https://www.teslarati.com/spacex-starship-first-satellite-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T211215">2022-08-18 21:12:15 UTC</a></sub>
 * [NASA Selects Proposals to Study Stellar Explosions, Galaxies, Stars](http://www.nasa.gov/press-release/nasa-selects-proposals-to-study-stellar-explosions-galaxies-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T202200">2022-08-18 20:22:00 UTC</a></sub>
 * [Media Invited to Learn About NASA Tools, Resources for Agriculture](http://www.nasa.gov/press-release/media-invited-to-learn-about-nasa-tools-resources-for-agriculture) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T195100">2022-08-18 19:51:00 UTC</a></sub>
 * [Sky Perfect JSAT picks SpaceX’s Starship for 2024 satellite launch](https://spacenews.com/sky-perfect-jsat-picks-spacexs-starship-for-2024-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T194117">2022-08-18 19:41:17 UTC</a></sub>
 * [Ukraine gains enhanced access to Iceye imagery and data](https://spacenews.com/iceye-ukraine-sar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T181116">2022-08-18 18:11:16 UTC</a></sub>
 * [La NASA ofrece una sesión informativa y entrevistas con el astronauta Frank Rubio antes de su despegue](http://www.nasa.gov/press-release/la-nasa-ofrece-una-sesi-n-informativa-y-entrevistas-con-el-astronauta-frank-rubio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T165200">2022-08-18 16:52:00 UTC</a></sub>
-* [NASA Hosts Astronaut Frank Rubio’s Prelaunch News Briefing, Interviews](http://www.nasa.gov/press-release/nasa-hosts-astronaut-frank-rubio-s-prelaunch-news-briefing-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T163100">2022-08-18 16:31:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T113338">2022-08-19 11:33:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T121034">2022-08-19 12:10:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
