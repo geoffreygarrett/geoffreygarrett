@@ -183,7 +183,7 @@ region. The mission's status is currently Go for Launch
 * [La NASA identifica regiones candidatas para un alunizaje humano](http://www.nasa.gov/press-release/la-nasa-identifica-regiones-candidatas-para-un-alunizaje-humano) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T170100">2022-08-19 17:01:00 UTC</a></sub>
 * [SpaceX rolls out Falcon 9 rocket for Starlink launch](https://spaceflightnow.com/2022/08/19/spacex-rolls-out-falcon-9-rocket-for-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T165113">2022-08-19 16:51:13 UTC</a></sub>
 * [Kentucky, Oklahoma Students to Hear from NASA Astronaut in Space](http://www.nasa.gov/press-release/kentucky-oklahoma-students-to-hear-from-nasa-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T161100">2022-08-19 16:11:00 UTC</a></sub>
-* [SpaceX to launch third Starlink mission in less than two weeks](https://www.nasaspaceflight.com/2022/08/spacex-starlink-4-27/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T161005">2022-08-19 16:10:05 UTC</a></sub>
+* [SpaceX launches third Starlink mission in less than two weeks](https://www.nasaspaceflight.com/2022/08/spacex-starlink-4-27/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T161005">2022-08-19 16:10:05 UTC</a></sub>
 * [Dragon cargo ship departs space station, heads for splashdown near Florida](https://spaceflightnow.com/2022/08/19/dragon-crs-25-iss-undocking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T153109">2022-08-19 15:31:09 UTC</a></sub>
 * [NASA Sets Launch Coverage for Artemis Mega Moon Rocket, Spacecraft](http://www.nasa.gov/press-release/nasa-sets-launch-coverage-for-artemis-mega-moon-rocket-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T144100">2022-08-19 14:41:00 UTC</a></sub>
 * [NASA selects astrophysics mission proposals for study](https://spacenews.com/nasa-selects-astrophysics-mission-proposals-for-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T120114">2022-08-19 12:01:14 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T193107">2022-08-19 19:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T200701">2022-08-19 20:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
