@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Intelsat working to regain control of Galaxy 15 satellite](https://spacenews.com/intelsat-working-to-regain-control-of-galaxy-15-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T224119">2022-08-19 22:41:19 UTC</a></sub>
 * [Big plans for mini-launchers](https://spacenews.com/big-plans-for-mini-launchers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T215119">2022-08-19 21:51:19 UTC</a></sub>
 * [NASA selects potential lunar landing sites for Artemis 3](https://spacenews.com/nasa-selects-potential-lunar-landing-sites-for-artemis-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T212110">2022-08-19 21:21:10 UTC</a></sub>
 * [SpaceX’s Starlink fleet gets 53 new satellites with launch from Florida](https://spaceflightnow.com/2022/08/19/spacexs-starlink-fleet-gets-53-new-satellites-with-successful-launch-from-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T205109">2022-08-19 20:51:09 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Kentucky, Oklahoma Students to Hear from NASA Astronaut in Space](http://www.nasa.gov/press-release/kentucky-oklahoma-students-to-hear-from-nasa-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T161100">2022-08-19 16:11:00 UTC</a></sub>
 * [SpaceX launches third Starlink mission in less than two weeks](https://www.nasaspaceflight.com/2022/08/spacex-starlink-4-27/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T161005">2022-08-19 16:10:05 UTC</a></sub>
 * [Dragon cargo ship departs space station, heads for splashdown near Florida](https://spaceflightnow.com/2022/08/19/dragon-crs-25-iss-undocking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T153109">2022-08-19 15:31:09 UTC</a></sub>
-* [NASA Sets Launch Coverage for Artemis Mega Moon Rocket, Spacecraft](http://www.nasa.gov/press-release/nasa-sets-launch-coverage-for-artemis-mega-moon-rocket-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T144100">2022-08-19 14:41:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T230257">2022-08-19 23:02:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T233604">2022-08-19 23:36:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
