@@ -203,6 +203,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Cloudy with a chance of life](https://www.planetary.org/the-downlink/cloudy-with-a-chance-of-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T143155">2022-08-19 14:31:55 UTC</a></sub>
 * [NASA's InSight mission is dying. Next could come the ‘Mars Life Explorer’](https://www.planetary.org/articles/mars-life-explorer-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T140205">2022-08-18 14:02:05 UTC</a></sub>
 * [European Spaceflight Update - What is Avio up to in Kourou?](https://www.getrevue.co/profile/andrewparsonson/issues/what-is-avio-up-to-in-kourou-1302016) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T123244">2022-08-15 12:32:44 UTC</a></sub>
 * [Comets: big, beautiful, and surprisingly smelly](https://www.planetary.org/the-downlink/comets-big-beautiful-and-surprisingly-smelly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T143555">2022-08-12 14:35:55 UTC</a></sub>
@@ -212,7 +213,6 @@ region. The mission's status is currently Go for Launch
 * [Rather remarkable robots](https://www.planetary.org/the-downlink/rather-remarkable-robots) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T143514">2022-08-05 14:35:14 UTC</a></sub>
 * [European Spaceflight Update - ESA wants space-based solar power](https://www.getrevue.co/profile/andrewparsonson/issues/esa-wants-space-based-solar-power-1281360) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T132526">2022-08-05 13:25:26 UTC</a></sub>
 * [SBIRS GEO 6: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T142140">2022-08-04 14:21:40 UTC</a></sub>
-* [Why we have the SLS](https://www.planetary.org/articles/why-we-have-the-sls) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T123151">2022-08-03 12:31:51 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T140657">2022-08-19 14:06:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T143527">2022-08-19 14:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
