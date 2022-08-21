@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Booster 7 prepares for additional Static Fires as future plans evolve](https://www.nasaspaceflight.com/2022/08/booster-7-additional-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T193653">2022-08-21 19:36:53 UTC</a></sub>
 * [Space Force wargame challenges satellite operators to think critically](https://spacenews.com/space-force-wargame-challenges-satellite-operators-to-think-critically/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T180114">2022-08-21 18:01:14 UTC</a></sub>
 * [NASA asks industry for input on ISS deorbit capabilities](https://spacenews.com/nasa-asks-industry-for-input-on-iss-deorbit-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220820T162124">2022-08-20 16:21:24 UTC</a></sub>
 * [Data from ESA’s Gaia mission reveals our Sun’s future and past](https://www.nasaspaceflight.com/2022/08/gaia-reveals-sun-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220820T153535">2022-08-20 15:35:35 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX’s Starlink fleet gets 53 new satellites with launch from Florida](https://spaceflightnow.com/2022/08/19/spacexs-starlink-fleet-gets-53-new-satellites-with-successful-launch-from-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T205109">2022-08-19 20:51:09 UTC</a></sub>
 * [NASA Identifies Candidate Regions for Landing Next Americans on Moon](http://www.nasa.gov/press-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T170100">2022-08-19 17:01:00 UTC</a></sub>
 * [La NASA identifica regiones candidatas para un alunizaje humano](http://www.nasa.gov/press-release/la-nasa-identifica-regiones-candidatas-para-un-alunizaje-humano) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T170100">2022-08-19 17:01:00 UTC</a></sub>
-* [SpaceX rolls out Falcon 9 rocket for Starlink launch](https://spaceflightnow.com/2022/08/19/spacex-rolls-out-falcon-9-rocket-for-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T165113">2022-08-19 16:51:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T193059">2022-08-21 19:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T200444">2022-08-21 20:04:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
