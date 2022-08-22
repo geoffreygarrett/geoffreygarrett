@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [APL’s Future Vision: Q&A with Robert Braun](https://spacenews.com/apls-future-vision-qa-with-robert-braun/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T155121">2022-08-22 15:51:21 UTC</a></sub>
 * [Orbital Reef passes NASA review](https://spacenews.com/orbital-reef-passes-nasa-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T140125">2022-08-22 14:01:25 UTC</a></sub>
 * [For its latest images, the Webb telescope looked closer to home](https://arstechnica.com/science/2022/08/new-webb-images-of-jupiter-show-dazzling-auroras-and-two-small-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T132000">2022-08-22 13:20:00 UTC</a></sub>
 * [SpaceLink partners with Parsons for DARPA’s inter-satellite communications project](https://spacenews.com/spacelink-partners-with-parsons-for-darpas-inter-satellite-communications-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T130123">2022-08-22 13:01:23 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Booster 7 prepares for additional Static Fires as future plans evolve](https://www.nasaspaceflight.com/2022/08/booster-7-additional-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T193653">2022-08-21 19:36:53 UTC</a></sub>
 * [Space Force wargame challenges satellite operators to think critically](https://spacenews.com/space-force-wargame-challenges-satellite-operators-to-think-critically/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T180114">2022-08-21 18:01:14 UTC</a></sub>
 * [SpaceX cargo capsule returns to Earth with leaky NASA spacesuit](https://spaceflightnow.com/2022/08/21/spacex-cargo-capsule-returns-to-earth-with-leaky-nasa-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T151110">2022-08-21 15:11:10 UTC</a></sub>
-* [Propulsion deal offers boost for Scottish horizontal space launches](https://spaceflightnow.com/2022/08/21/propulsion-deal-offers-boost-for-scottish-horizontal-space-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T141108">2022-08-21 14:11:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T160704">2022-08-22 16:07:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T165146">2022-08-22 16:51:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
