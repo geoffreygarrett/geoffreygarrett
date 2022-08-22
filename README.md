@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orbital Reef passes NASA review](https://spacenews.com/orbital-reef-passes-nasa-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T140125">2022-08-22 14:01:25 UTC</a></sub>
 * [For its latest images, the Webb telescope looked closer to home](https://arstechnica.com/science/2022/08/new-webb-images-of-jupiter-show-dazzling-auroras-and-two-small-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T132000">2022-08-22 13:20:00 UTC</a></sub>
 * [SpaceLink partners with Parsons for DARPA’s inter-satellite communications project](https://spacenews.com/spacelink-partners-with-parsons-for-darpas-inter-satellite-communications-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T130123">2022-08-22 13:01:23 UTC</a></sub>
 * [China claims progress on rockets for crewed lunar landings and moon base](https://spacenews.com/china-claims-progress-on-rockets-for-crewed-lunar-landings-and-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T124115">2022-08-22 12:41:15 UTC</a></sub>
@@ -188,9 +189,8 @@ region. The mission's status is currently Go for Launch
 * [Five companies win $4.8 billion in contracts from the National Air and Space Intelligence Center](https://spacenews.com/five-companies-win-4-8-billion-in-contracts-from-the-national-air-and-space-intelligence-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T205112">2022-08-21 20:51:12 UTC</a></sub>
 * [Booster 7 prepares for additional Static Fires as future plans evolve](https://www.nasaspaceflight.com/2022/08/booster-7-additional-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T193653">2022-08-21 19:36:53 UTC</a></sub>
 * [Space Force wargame challenges satellite operators to think critically](https://spacenews.com/space-force-wargame-challenges-satellite-operators-to-think-critically/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T180114">2022-08-21 18:01:14 UTC</a></sub>
+* [Propulsion deal offers boost for Scottish horizontal space launches](https://spaceflightnow.com/2022/08/21/propulsion-deal-offers-boost-for-scottish-horizontal-space-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T141108">2022-08-21 14:11:08 UTC</a></sub>
 * [Three mannequins installed on Orion spacecraft for flight around the moon](https://spaceflightnow.com/2022/08/21/three-mannequins-installed-on-orion-spacecraft-for-flight-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T135108">2022-08-21 13:51:08 UTC</a></sub>
-* [NASA asks industry for input on ISS deorbit capabilities](https://spacenews.com/nasa-asks-industry-for-input-on-iss-deorbit-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220820T162124">2022-08-20 16:21:24 UTC</a></sub>
-* [Data from ESA’s Gaia mission reveals our Sun’s future and past](https://www.nasaspaceflight.com/2022/08/gaia-reveals-sun-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220820T153535">2022-08-20 15:35:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [European Spaceflight Update - Let’s talk about RFA](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-rfa-1311921) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T141234">2022-08-22 14:12:34 UTC</a></sub>
 * [Cloudy with a chance of life](https://www.planetary.org/the-downlink/cloudy-with-a-chance-of-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T143155">2022-08-19 14:31:55 UTC</a></sub>
 * [NASA's InSight mission is dying. Next could come the ‘Mars Life Explorer’](https://www.planetary.org/articles/mars-life-explorer-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T140205">2022-08-18 14:02:05 UTC</a></sub>
 * [European Spaceflight Update - What is Avio up to in Kourou?](https://www.getrevue.co/profile/andrewparsonson/issues/what-is-avio-up-to-in-kourou-1302016) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T123244">2022-08-15 12:32:44 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [European Spaceflight Update - ESA goes nuclear](https://www.getrevue.co/profile/andrewparsonson/issues/esa-goes-nuclear-1291428) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T140544">2022-08-08 14:05:44 UTC</a></sub>
 * [Rather remarkable robots](https://www.planetary.org/the-downlink/rather-remarkable-robots) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T143514">2022-08-05 14:35:14 UTC</a></sub>
 * [European Spaceflight Update - ESA wants space-based solar power](https://www.getrevue.co/profile/andrewparsonson/issues/esa-wants-space-based-solar-power-1281360) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T132526">2022-08-05 13:25:26 UTC</a></sub>
-* [SBIRS GEO 6: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T142140">2022-08-04 14:21:40 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T140632">2022-08-22 14:06:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T143419">2022-08-22 14:34:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
