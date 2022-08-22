@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceLink partners with Parsons for DARPA’s inter-satellite communications project](https://spacenews.com/spacelink-partners-with-parsons-for-darpas-inter-satellite-communications-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T130123">2022-08-22 13:01:23 UTC</a></sub>
+* [China claims progress on rockets for crewed lunar landings and moon base](https://spacenews.com/china-claims-progress-on-rockets-for-crewed-lunar-landings-and-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T124115">2022-08-22 12:41:15 UTC</a></sub>
 * [NASA cautions planetary science funding falls short of decadal projections](https://spacenews.com/nasa-cautions-planetary-science-funding-falls-short-of-decadal-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T230121">2022-08-21 23:01:21 UTC</a></sub>
 * [Five companies win $4.8 billion in contracts from the National Air and Space Intelligence Center](https://spacenews.com/five-companies-win-4-8-billion-in-contracts-from-the-national-air-and-space-intelligence-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T205112">2022-08-21 20:51:12 UTC</a></sub>
 * [Booster 7 prepares for additional Static Fires as future plans evolve](https://www.nasaspaceflight.com/2022/08/booster-7-additional-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T193653">2022-08-21 19:36:53 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Data from ESA’s Gaia mission reveals our Sun’s future and past](https://www.nasaspaceflight.com/2022/08/gaia-reveals-sun-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220820T153535">2022-08-20 15:35:35 UTC</a></sub>
 * [Intelsat working to regain control of Galaxy 15 satellite](https://spacenews.com/intelsat-working-to-regain-control-of-galaxy-15-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T224119">2022-08-19 22:41:19 UTC</a></sub>
 * [Big plans for mini-launchers](https://spacenews.com/big-plans-for-mini-launchers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T215119">2022-08-19 21:51:19 UTC</a></sub>
-* [NASA selects potential lunar landing sites for Artemis 3](https://spacenews.com/nasa-selects-potential-lunar-landing-sites-for-artemis-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T212110">2022-08-19 21:21:10 UTC</a></sub>
-* [SpaceX’s Starlink fleet gets 53 new satellites with launch from Florida](https://spaceflightnow.com/2022/08/19/spacexs-starlink-fleet-gets-53-new-satellites-with-successful-launch-from-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T205109">2022-08-19 20:51:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T121209">2022-08-22 12:12:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T131043">2022-08-22 13:10:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
