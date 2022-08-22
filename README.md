@@ -181,16 +181,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [For its latest images, the Webb telescope looked closer to home](https://arstechnica.com/science/2022/08/new-webb-images-of-jupiter-show-dazzling-auroras-and-two-small-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T132000">2022-08-22 13:20:00 UTC</a></sub>
 * [SpaceLink partners with Parsons for DARPA’s inter-satellite communications project](https://spacenews.com/spacelink-partners-with-parsons-for-darpas-inter-satellite-communications-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T130123">2022-08-22 13:01:23 UTC</a></sub>
 * [China claims progress on rockets for crewed lunar landings and moon base](https://spacenews.com/china-claims-progress-on-rockets-for-crewed-lunar-landings-and-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T124115">2022-08-22 12:41:15 UTC</a></sub>
 * [NASA cautions planetary science funding falls short of decadal projections](https://spacenews.com/nasa-cautions-planetary-science-funding-falls-short-of-decadal-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T230121">2022-08-21 23:01:21 UTC</a></sub>
 * [Five companies win $4.8 billion in contracts from the National Air and Space Intelligence Center](https://spacenews.com/five-companies-win-4-8-billion-in-contracts-from-the-national-air-and-space-intelligence-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T205112">2022-08-21 20:51:12 UTC</a></sub>
 * [Booster 7 prepares for additional Static Fires as future plans evolve](https://www.nasaspaceflight.com/2022/08/booster-7-additional-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T193653">2022-08-21 19:36:53 UTC</a></sub>
 * [Space Force wargame challenges satellite operators to think critically](https://spacenews.com/space-force-wargame-challenges-satellite-operators-to-think-critically/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T180114">2022-08-21 18:01:14 UTC</a></sub>
+* [Three mannequins installed on Orion spacecraft for flight around the moon](https://spaceflightnow.com/2022/08/21/three-mannequins-installed-on-orion-spacecraft-for-flight-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T135108">2022-08-21 13:51:08 UTC</a></sub>
 * [NASA asks industry for input on ISS deorbit capabilities](https://spacenews.com/nasa-asks-industry-for-input-on-iss-deorbit-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220820T162124">2022-08-20 16:21:24 UTC</a></sub>
 * [Data from ESA’s Gaia mission reveals our Sun’s future and past](https://www.nasaspaceflight.com/2022/08/gaia-reveals-sun-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220820T153535">2022-08-20 15:35:35 UTC</a></sub>
-* [Intelsat working to regain control of Galaxy 15 satellite](https://spacenews.com/intelsat-working-to-regain-control-of-galaxy-15-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T224119">2022-08-19 22:41:19 UTC</a></sub>
-* [Big plans for mini-launchers](https://spacenews.com/big-plans-for-mini-launchers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T215119">2022-08-19 21:51:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T131043">2022-08-22 13:10:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T135351">2022-08-22 13:53:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
