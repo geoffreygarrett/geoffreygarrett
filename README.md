@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The SLS rocket is the worst thing to happen to NASA—but maybe also the best?](https://arstechnica.com/science/2022/08/the-sls-rocket-is-the-worst-thing-to-happen-to-nasa-but-maybe-also-the-best/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T113057">2022-08-23 11:30:57 UTC</a></sub>
+* [Artemis 1 passes flight readiness review](https://spacenews.com/artemis-1-passes-flight-readiness-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T110119">2022-08-23 11:01:19 UTC</a></sub>
 * [Schiess takes over U.S. Space Command’s coalition forces component](https://spacenews.com/schiess-takes-over-u-s-space-commands-coalition-forces-component/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T184120">2022-08-22 18:41:20 UTC</a></sub>
 * [SpaceX adds Falcon 9 back to second-gen Starlink launch plan](https://spacenews.com/spacex-adds-falcon-9-back-to-second-gen-starlink-launch-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T182120">2022-08-22 18:21:20 UTC</a></sub>
 * [APL’s Future Vision: Q&A with Robert Braun](https://spacenews.com/apls-future-vision-qa-with-robert-braun/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T155121">2022-08-22 15:51:21 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceLink partners with Parsons for DARPA’s inter-satellite communications project](https://spacenews.com/spacelink-partners-with-parsons-for-darpas-inter-satellite-communications-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T130123">2022-08-22 13:01:23 UTC</a></sub>
 * [China claims progress on rockets for crewed lunar landings and moon base](https://spacenews.com/china-claims-progress-on-rockets-for-crewed-lunar-landings-and-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T124115">2022-08-22 12:41:15 UTC</a></sub>
 * [NASA managers give “go” for Artemis 1 launch after flight readiness review](https://spaceflightnow.com/2022/08/22/nasa-managers-give-go-for-artemis-1-launch-after-flight-readiness-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T053108">2022-08-22 05:31:08 UTC</a></sub>
-* [SpaceX tweaks Starlink Gen2 plans to add Falcon 9 launch option](https://www.teslarati.com/spacex-starlink-gen2-falcon-9-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T002206">2022-08-22 00:22:06 UTC</a></sub>
-* [NASA cautions planetary science funding falls short of decadal projections](https://spacenews.com/nasa-cautions-planetary-science-funding-falls-short-of-decadal-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T230121">2022-08-21 23:01:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T110256">2022-08-23 11:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T113334">2022-08-23 11:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
