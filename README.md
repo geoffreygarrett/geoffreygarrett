@@ -187,9 +187,9 @@ region. The mission's status is currently Go for Launch
 * [For its latest images, the Webb telescope looked closer to home](https://arstechnica.com/science/2022/08/new-webb-images-of-jupiter-show-dazzling-auroras-and-two-small-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T132000">2022-08-22 13:20:00 UTC</a></sub>
 * [SpaceLink partners with Parsons for DARPA’s inter-satellite communications project](https://spacenews.com/spacelink-partners-with-parsons-for-darpas-inter-satellite-communications-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T130123">2022-08-22 13:01:23 UTC</a></sub>
 * [China claims progress on rockets for crewed lunar landings and moon base](https://spacenews.com/china-claims-progress-on-rockets-for-crewed-lunar-landings-and-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T124115">2022-08-22 12:41:15 UTC</a></sub>
+* [NASA managers give “go” for Artemis 1 launch after flight readiness review](https://spaceflightnow.com/2022/08/22/nasa-managers-give-go-for-artemis-1-launch-after-flight-readiness-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T053108">2022-08-22 05:31:08 UTC</a></sub>
 * [SpaceX tweaks Starlink Gen2 plans to add Falcon 9 launch option](https://www.teslarati.com/spacex-starlink-gen2-falcon-9-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T002206">2022-08-22 00:22:06 UTC</a></sub>
 * [NASA cautions planetary science funding falls short of decadal projections](https://spacenews.com/nasa-cautions-planetary-science-funding-falls-short-of-decadal-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T230121">2022-08-21 23:01:21 UTC</a></sub>
-* [Five companies win $4.8 billion in contracts from the National Air and Space Intelligence Center](https://spacenews.com/five-companies-win-4-8-billion-in-contracts-from-the-national-air-and-space-intelligence-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T205112">2022-08-21 20:51:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T045740">2022-08-23 04:57:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T054908">2022-08-23 05:49:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
