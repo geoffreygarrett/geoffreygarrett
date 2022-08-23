@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How NASA will use helicopters to return samples from Mars in 2033](https://www.planetary.org/articles/nasa-mars-sample-return-helicopters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T140144">2022-08-23 14:01:44 UTC</a></sub>
 * [European Spaceflight Update - Let’s talk about RFA](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-rfa-1311921) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T141234">2022-08-22 14:12:34 UTC</a></sub>
 * [Cloudy with a chance of life](https://www.planetary.org/the-downlink/cloudy-with-a-chance-of-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T143155">2022-08-19 14:31:55 UTC</a></sub>
 * [NASA's InSight mission is dying. Next could come the ‘Mars Life Explorer’](https://www.planetary.org/articles/mars-life-explorer-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T140205">2022-08-18 14:02:05 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [Artemis I launch guide: What to expect](https://www.planetary.org/articles/artemis-i-launch-guide) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140615">2022-08-09 14:06:15 UTC</a></sub>
 * [European Spaceflight Update - ESA goes nuclear](https://www.getrevue.co/profile/andrewparsonson/issues/esa-goes-nuclear-1291428) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T140544">2022-08-08 14:05:44 UTC</a></sub>
 * [Rather remarkable robots](https://www.planetary.org/the-downlink/rather-remarkable-robots) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T143514">2022-08-05 14:35:14 UTC</a></sub>
-* [European Spaceflight Update - ESA wants space-based solar power](https://www.getrevue.co/profile/andrewparsonson/issues/esa-wants-space-based-solar-power-1281360) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T132526">2022-08-05 13:25:26 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T140429">2022-08-23 14:04:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T143523">2022-08-23 14:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
