@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom taps Epsilon3 software platform for space station development](https://spacenews.com/axiom-taps-epsilon3-software-platform-for-space-station-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T191118">2022-08-23 19:11:18 UTC</a></sub>
 * [China’s official view of NASA’s Artemis program appears to be dismissive](https://arstechnica.com/science/2022/08/chinese-view-of-nasas-moon-plans-trying-hard-to-relive-apollo-glories/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T173006">2022-08-23 17:30:06 UTC</a></sub>
 * [NASA Invites Media to Witness World’s First Planetary Defense Test](http://www.nasa.gov/press-release/nasa-invites-media-to-witness-world-s-first-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T170200">2022-08-23 17:02:00 UTC</a></sub>
 * [La NASA invita a la prensa a la primera prueba de defensa planetaria](http://www.nasa.gov/press-release/la-nasa-invita-a-la-prensa-a-la-primera-prueba-de-defensa-planetaria) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T170200">2022-08-23 17:02:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX adds Falcon 9 back to second-gen Starlink launch plan](https://spacenews.com/spacex-adds-falcon-9-back-to-second-gen-starlink-launch-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T182120">2022-08-22 18:21:20 UTC</a></sub>
 * [Webb images of Jupiter show auroras, rings, moons](https://spaceflightnow.com/2022/08/22/webb-images-of-jupiter-show-auroras-rings-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T163108">2022-08-22 16:31:08 UTC</a></sub>
 * [APL’s Future Vision: Q&A with Robert Braun](https://spacenews.com/apls-future-vision-qa-with-robert-braun/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T155121">2022-08-22 15:51:21 UTC</a></sub>
-* [Orbital Reef passes NASA review](https://spacenews.com/orbital-reef-passes-nasa-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T140125">2022-08-22 14:01:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T190228">2022-08-23 19:02:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T193108">2022-08-23 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
