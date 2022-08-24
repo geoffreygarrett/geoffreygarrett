@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrobotic wins NASA funding for CubeRover mission](https://spacenews.com/astrobotic-wins-nasa-funding-for-cuberover-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T134118">2022-08-24 13:41:18 UTC</a></sub>
 * [Scout Space and university labs win contracts for on-orbit servicing project](https://spacenews.com/scout-space-and-university-labs-win-contracts-for-on-orbit-servicing-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T130124">2022-08-24 13:01:24 UTC</a></sub>
 * [Starship uncrewed lunar lander test a “skeleton” of crewed lander](https://spacenews.com/starship-uncrewed-lunar-lander-test-a-skeleton-of-crewed-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T110115">2022-08-24 11:01:15 UTC</a></sub>
 * [SpaceX Starship booster heads to launch pad for the fifth time](https://www.teslarati.com/spacex-starship-booster-launch-pad-fifth-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T084205">2022-08-24 08:42:05 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Report: Industry has to face reality that commercial satellites will be targets in war](https://spacenews.com/report-industry-has-to-face-reality-that-commercial-satellites-will-be-targets-in-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T194126">2022-08-23 19:41:26 UTC</a></sub>
 * [Axiom taps Epsilon3 software platform for space station development](https://spacenews.com/axiom-taps-epsilon3-software-platform-for-space-station-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T191118">2022-08-23 19:11:18 UTC</a></sub>
 * [China’s official view of NASA’s Artemis program appears to be dismissive](https://arstechnica.com/science/2022/08/chinese-view-of-nasas-moon-plans-trying-hard-to-relive-apollo-glories/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T173006">2022-08-23 17:30:06 UTC</a></sub>
-* [NASA Invites Media to Witness World’s First Planetary Defense Test](http://www.nasa.gov/press-release/nasa-invites-media-to-witness-world-s-first-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T170200">2022-08-23 17:02:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T130416">2022-08-24 13:04:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T135041">2022-08-24 13:50:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
