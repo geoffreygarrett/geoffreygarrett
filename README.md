@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Starship booster heads to launch pad for the fifth time](https://www.teslarati.com/spacex-starship-booster-launch-pad-fifth-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T084205">2022-08-24 08:42:05 UTC</a></sub>
 * [NASA, Rice University Mark 60th Anniversary of John F. Kennedy Speech](http://www.nasa.gov/press-release/nasa-rice-university-mark-60th-anniversary-of-john-f-kennedy-speech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T211200">2022-08-23 21:12:00 UTC</a></sub>
 * [SpaceX teams refining countdown procedures for Starship testing](https://www.nasaspaceflight.com/2022/08/starship-countdown-procedures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T210722">2022-08-23 21:07:22 UTC</a></sub>
 * [Three Companies to Help NASA Advance Solar Array Technology for Moon](http://www.nasa.gov/press-release/three-companies-to-help-nasa-advance-solar-array-technology-for-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T201100">2022-08-23 20:11:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Invites Media to Witness World’s First Planetary Defense Test](http://www.nasa.gov/press-release/nasa-invites-media-to-witness-world-s-first-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T170200">2022-08-23 17:02:00 UTC</a></sub>
 * [La NASA invita a la prensa a la primera prueba de defensa planetaria](http://www.nasa.gov/press-release/la-nasa-invita-a-la-prensa-a-la-primera-prueba-de-defensa-planetaria) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T170200">2022-08-23 17:02:00 UTC</a></sub>
 * [The SLS rocket is the worst thing to happen to NASA—but maybe also the best?](https://arstechnica.com/science/2022/08/the-sls-rocket-is-the-worst-thing-to-happen-to-nasa-but-maybe-also-the-best/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T113057">2022-08-23 11:30:57 UTC</a></sub>
-* [Artemis 1 passes flight readiness review](https://spacenews.com/artemis-1-passes-flight-readiness-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T110119">2022-08-23 11:01:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T080919">2022-08-24 08:09:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T084313">2022-08-24 08:43:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
