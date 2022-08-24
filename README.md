@@ -180,6 +180,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX & T-Mobile plan to announce plans to increase connectivity](https://www.teslarati.com/spacex-t-mobile-plans-increase-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T174154">2022-08-24 17:41:54 UTC</a></sub>
+* [Megaconstellation startup E-Space expands leadership team](https://spacenews.com/megaconstellation-startup-e-space-expands-leadership-team/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T174111">2022-08-24 17:41:11 UTC</a></sub>
 * [Astrobotic wins NASA funding for CubeRover mission](https://spacenews.com/astrobotic-wins-nasa-funding-for-cuberover-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T134118">2022-08-24 13:41:18 UTC</a></sub>
 * [Scout Space and university labs win contracts for on-orbit servicing project](https://spacenews.com/scout-space-and-university-labs-win-contracts-for-on-orbit-servicing-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T130124">2022-08-24 13:01:24 UTC</a></sub>
 * [Starship uncrewed lunar lander test a “skeleton” of crewed lander](https://spacenews.com/starship-uncrewed-lunar-lander-test-a-skeleton-of-crewed-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T110115">2022-08-24 11:01:15 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX teams refining countdown procedures for Starship testing](https://www.nasaspaceflight.com/2022/08/starship-countdown-procedures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T210722">2022-08-23 21:07:22 UTC</a></sub>
 * [Three Companies to Help NASA Advance Solar Array Technology for Moon](http://www.nasa.gov/press-release/three-companies-to-help-nasa-advance-solar-array-technology-for-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T201100">2022-08-23 20:11:00 UTC</a></sub>
 * [Report: Industry has to face reality that commercial satellites will be targets in war](https://spacenews.com/report-industry-has-to-face-reality-that-commercial-satellites-will-be-targets-in-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T194126">2022-08-23 19:41:26 UTC</a></sub>
-* [Axiom taps Epsilon3 software platform for space station development](https://spacenews.com/axiom-taps-epsilon3-software-platform-for-space-station-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T191118">2022-08-23 19:11:18 UTC</a></sub>
-* [China’s official view of NASA’s Artemis program appears to be dismissive](https://arstechnica.com/science/2022/08/chinese-view-of-nasas-moon-plans-trying-hard-to-relive-apollo-glories/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T173006">2022-08-23 17:30:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T173752">2022-08-24 17:37:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T181557">2022-08-24 18:15:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
