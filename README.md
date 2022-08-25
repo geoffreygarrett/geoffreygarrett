@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Army signs agreement to test space data from HawkEye 360 satellites](https://spacenews.com/u-s-army-signs-agreement-to-test-space-data-from-hawkeye-360-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T165121">2022-08-25 16:51:21 UTC</a></sub>
+* [SpaceX test-fires repaired booster for weekend Starlink launch](https://spaceflightnow.com/2022/08/25/falcon-9-starlink-4-23-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T164108">2022-08-25 16:41:08 UTC</a></sub>
 * [Watch live: SpaceX readies Falcon 9 rocket for weekend launch](https://spaceflightnow.com/2022/08/25/watch-live-spacex-readies-falcon-9-rocket-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T125107">2022-08-25 12:51:07 UTC</a></sub>
 * [ESA ready for “historic” Artemis 1 mission](https://spacenews.com/esa-ready-for-historic-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T120115">2022-08-25 12:01:15 UTC</a></sub>
 * [NASA astronaut ready for Soyuz flight to ISS](https://spacenews.com/nasa-astronaut-ready-for-soyuz-flight-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T111118">2022-08-25 11:11:18 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [‘State of the space industrial base’ report calls for national plan to compete with China](https://spacenews.com/state-of-the-space-industrial-base-report-calls-for-national-plan-to-compete-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T204119">2022-08-24 20:41:19 UTC</a></sub>
 * [Following in the footsteps of Saturn, SLS prepares for test flight](https://www.nasaspaceflight.com/2022/08/saturn-test-flights-to-sls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T181354">2022-08-24 18:13:54 UTC</a></sub>
 * [SpaceX & T-Mobile plan to announce plans to increase connectivity](https://www.teslarati.com/spacex-t-mobile-plans-increase-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T174154">2022-08-24 17:41:54 UTC</a></sub>
-* [Megaconstellation startup E-Space expands leadership team](https://spacenews.com/megaconstellation-startup-e-space-expands-leadership-team/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T174111">2022-08-24 17:41:11 UTC</a></sub>
-* [Astrobotic wins NASA funding for CubeRover mission](https://spacenews.com/astrobotic-wins-nasa-funding-for-cuberover-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T134118">2022-08-24 13:41:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T160715">2022-08-25 16:07:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T165316">2022-08-25 16:53:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
