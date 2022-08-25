@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Turion Space licensed to sell commercial SSA data](https://spacenews.com/turion-space-licensed-to-sell-commercial-ssa-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T223121">2022-08-25 22:31:21 UTC</a></sub>
+* [Orion crew module hatch closed for Artemis 1 test flight](https://spaceflightnow.com/2022/08/25/orion-crew-module-hatch-closed-for-artemis-1-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T221111">2022-08-25 22:11:11 UTC</a></sub>
 * [NRO to add more commercial imagery providers as it builds a ‘hybrid architecture’](https://spacenews.com/nro-to-add-more-commercial-imagery-providers-as-it-builds-a-hybrid-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T220120">2022-08-25 22:01:20 UTC</a></sub>
 * [Starliner crewed test flight slips to early 2023](https://spacenews.com/starliner-crewed-test-flight-slips-to-early-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T211115">2022-08-25 21:11:15 UTC</a></sub>
 * [Colorado, Indiana Students to Hear from NASA Astronaut in Space](http://www.nasa.gov/press-release/colorado-indiana-students-to-hear-from-nasa-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T202100">2022-08-25 20:21:00 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Awards Services Contract to Help Immerse Students in STEM](http://www.nasa.gov/press-release/nasa-awards-services-contract-to-help-immerse-students-in-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T181100">2022-08-25 18:11:00 UTC</a></sub>
 * [U.S. Army signs agreement to test space data from HawkEye 360 satellites](https://spacenews.com/u-s-army-signs-agreement-to-test-space-data-from-hawkeye-360-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T165121">2022-08-25 16:51:21 UTC</a></sub>
 * [SpaceX test-fires repaired booster for weekend Starlink launch](https://spaceflightnow.com/2022/08/25/falcon-9-starlink-4-23-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T164108">2022-08-25 16:41:08 UTC</a></sub>
-* [Watch live: SpaceX readies Falcon 9 rocket for weekend launch](https://spaceflightnow.com/2022/08/25/watch-live-spacex-readies-falcon-9-rocket-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T125107">2022-08-25 12:51:07 UTC</a></sub>
-* [ESA ready for “historic” Artemis 1 mission](https://spacenews.com/esa-ready-for-historic-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T120115">2022-08-25 12:01:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T220648">2022-08-25 22:06:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T223723">2022-08-25 22:37:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
