@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Work on Orion capsules continue as Artemis I prepares to launch](https://www.nasaspaceflight.com/2022/08/orion-capsules-artemis-i-prepares-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T225645">2022-08-25 22:56:45 UTC</a></sub>
 * [Turion Space licensed to sell commercial SSA data](https://spacenews.com/turion-space-licensed-to-sell-commercial-ssa-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T223121">2022-08-25 22:31:21 UTC</a></sub>
 * [Orion crew module hatch closed for Artemis 1 test flight](https://spaceflightnow.com/2022/08/25/orion-crew-module-hatch-closed-for-artemis-1-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T221111">2022-08-25 22:11:11 UTC</a></sub>
 * [NRO to add more commercial imagery providers as it builds a ‘hybrid architecture’](https://spacenews.com/nro-to-add-more-commercial-imagery-providers-as-it-builds-a-hybrid-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T220120">2022-08-25 22:01:20 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA's Perseverance Makes New Discoveries in Mars' Jezero Crater](https://mars.nasa.gov/news/9252/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T183100">2022-08-25 18:31:00 UTC</a></sub>
 * [NASA Awards Services Contract to Help Immerse Students in STEM](http://www.nasa.gov/press-release/nasa-awards-services-contract-to-help-immerse-students-in-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T181100">2022-08-25 18:11:00 UTC</a></sub>
 * [U.S. Army signs agreement to test space data from HawkEye 360 satellites](https://spacenews.com/u-s-army-signs-agreement-to-test-space-data-from-hawkeye-360-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T165121">2022-08-25 16:51:21 UTC</a></sub>
-* [SpaceX test-fires repaired booster for weekend Starlink launch](https://spaceflightnow.com/2022/08/25/falcon-9-starlink-4-23-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T164108">2022-08-25 16:41:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T230714">2022-08-25 23:07:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T234327">2022-08-25 23:43:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
