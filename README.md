@@ -190,7 +190,7 @@ region. The mission's status is currently To Be Confirmed
 * [Scout Space and university labs win contracts for on-orbit servicing project](https://spacenews.com/scout-space-and-university-labs-win-contracts-for-on-orbit-servicing-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T130124">2022-08-24 13:01:24 UTC</a></sub>
 * [Starship uncrewed lunar lander test a “skeleton” of crewed lander](https://spacenews.com/starship-uncrewed-lunar-lander-test-a-skeleton-of-crewed-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T110115">2022-08-24 11:01:15 UTC</a></sub>
 * [SpaceX Starship booster heads to launch pad for the fifth time](https://www.teslarati.com/spacex-starship-booster-launch-pad-fifth-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T084205">2022-08-24 08:42:05 UTC</a></sub>
-* [NASA, Rice University Mark 60th Anniversary of John F. Kennedy Speech](http://www.nasa.gov/press-release/nasa-rice-university-mark-60th-anniversary-of-john-f-kennedy-speech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T211200">2022-08-23 21:12:00 UTC</a></sub>
+* [SpaceX to squeeze in Falcon 9 Starlink launch before NASA’s Moon rocket debut](https://www.teslarati.com/spacex-falcon-9-starlink-launch-before-nasa-moon-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T045217">2022-08-24 04:52:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T032543">2022-08-25 03:25:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T045814">2022-08-25 04:58:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
