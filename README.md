@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China makes progress in reusability with secretive second flight of suborbital spaceplane](https://spacenews.com/china-makes-progress-in-reusability-with-secretive-second-flight-of-suborbital-spaceplane/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T091116">2022-08-26 09:11:16 UTC</a></sub>
 * [Lunar Trailblazer faces NASA review after cost overruns](https://spacenews.com/lunar-trailblazer-faces-nasa-review-after-cost-overruns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T081128">2022-08-26 08:11:28 UTC</a></sub>
 * [SpaceX, NASA announce date for next Crew Dragon astronaut launch](https://www.teslarati.com/spacex-nasa-astronaut-launch-russian-cosmonaut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T072203">2022-08-26 07:22:03 UTC</a></sub>
 * [Forget 5G wireless, SpaceX and T-Mobile want to offer Zero-G coverage](https://arstechnica.com/science/2022/08/forget-5g-wireless-spacex-and-t-mobile-want-to-offer-zero-g-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T034014">2022-08-26 03:40:14 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NRO to add more commercial imagery providers as it builds a ‘hybrid architecture’](https://spacenews.com/nro-to-add-more-commercial-imagery-providers-as-it-builds-a-hybrid-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T220120">2022-08-25 22:01:20 UTC</a></sub>
 * [Starliner crewed test flight slips to early 2023](https://spacenews.com/starliner-crewed-test-flight-slips-to-early-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T211115">2022-08-25 21:11:15 UTC</a></sub>
 * [Colorado, Indiana Students to Hear from NASA Astronaut in Space](http://www.nasa.gov/press-release/colorado-indiana-students-to-hear-from-nasa-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T202100">2022-08-25 20:21:00 UTC</a></sub>
-* [FCC Commissioner criticizes Starlink’s $900 million subsidy rejection](https://spacenews.com/fcc-commissioner-criticizes-starlinks-900-million-subsidy-rejection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T193115">2022-08-25 19:31:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T090521">2022-08-26 09:05:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T093720">2022-08-26 09:37:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
