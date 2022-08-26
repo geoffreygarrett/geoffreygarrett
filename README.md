@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Forget 5G wireless, SpaceX and T-Mobile want to offer Zero-G coverage](https://arstechnica.com/science/2022/08/forget-5g-wireless-spacex-and-t-mobile-want-to-offer-zero-g-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T034014">2022-08-26 03:40:14 UTC</a></sub>
 * [Work on Orion capsules continue as Artemis I prepares to launch](https://www.nasaspaceflight.com/2022/08/orion-capsules-artemis-i-prepares-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T225645">2022-08-25 22:56:45 UTC</a></sub>
 * [Turion Space licensed to sell commercial SSA data](https://spacenews.com/turion-space-licensed-to-sell-commercial-ssa-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T223121">2022-08-25 22:31:21 UTC</a></sub>
 * [Orion crew module hatch closed for Artemis 1 test flight](https://spaceflightnow.com/2022/08/25/orion-crew-module-hatch-closed-for-artemis-1-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T221111">2022-08-25 22:11:11 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [FCC Commissioner criticizes Starlink’s $900 million subsidy rejection](https://spacenews.com/fcc-commissioner-criticizes-starlinks-900-million-subsidy-rejection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T193115">2022-08-25 19:31:15 UTC</a></sub>
 * [NASA's Perseverance Makes New Discoveries in Mars' Jezero Crater](https://mars.nasa.gov/news/9252/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T183100">2022-08-25 18:31:00 UTC</a></sub>
 * [NASA Awards Services Contract to Help Immerse Students in STEM](http://www.nasa.gov/press-release/nasa-awards-services-contract-to-help-immerse-students-in-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T181100">2022-08-25 18:11:00 UTC</a></sub>
-* [U.S. Army signs agreement to test space data from HawkEye 360 satellites](https://spacenews.com/u-s-army-signs-agreement-to-test-space-data-from-hawkeye-360-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T165121">2022-08-25 16:51:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T033235">2022-08-26 03:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T051646">2022-08-26 05:16:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
