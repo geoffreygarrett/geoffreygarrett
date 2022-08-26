@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX, NASA announce date for next Crew Dragon astronaut launch](https://www.teslarati.com/spacex-nasa-astronaut-launch-russian-cosmonaut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T072203">2022-08-26 07:22:03 UTC</a></sub>
 * [Forget 5G wireless, SpaceX and T-Mobile want to offer Zero-G coverage](https://arstechnica.com/science/2022/08/forget-5g-wireless-spacex-and-t-mobile-want-to-offer-zero-g-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T034014">2022-08-26 03:40:14 UTC</a></sub>
 * [Work on Orion capsules continue as Artemis I prepares to launch](https://www.nasaspaceflight.com/2022/08/orion-capsules-artemis-i-prepares-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T225645">2022-08-25 22:56:45 UTC</a></sub>
 * [Turion Space licensed to sell commercial SSA data](https://spacenews.com/turion-space-licensed-to-sell-commercial-ssa-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T223121">2022-08-25 22:31:21 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Colorado, Indiana Students to Hear from NASA Astronaut in Space](http://www.nasa.gov/press-release/colorado-indiana-students-to-hear-from-nasa-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T202100">2022-08-25 20:21:00 UTC</a></sub>
 * [FCC Commissioner criticizes Starlink’s $900 million subsidy rejection](https://spacenews.com/fcc-commissioner-criticizes-starlinks-900-million-subsidy-rejection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T193115">2022-08-25 19:31:15 UTC</a></sub>
 * [NASA's Perseverance Makes New Discoveries in Mars' Jezero Crater](https://mars.nasa.gov/news/9252/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T183100">2022-08-25 18:31:00 UTC</a></sub>
-* [NASA Awards Services Contract to Help Immerse Students in STEM](http://www.nasa.gov/press-release/nasa-awards-services-contract-to-help-immerse-students-in-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T181100">2022-08-25 18:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T071723">2022-08-26 07:17:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T073858">2022-08-26 07:38:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
