@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Cubesats to hitch rides on Artemis 1](https://spacenews.com/cubesats-to-hitch-rides-on-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T110119">2022-08-26 11:01:19 UTC</a></sub>
+* [Rocket Report: At long last the SLS is ready, Alpha gets a launch date](https://arstechnica.com/science/2022/08/rocket-report-at-long-last-the-sls-is-ready-alpha-gets-a-launch-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T110027">2022-08-26 11:00:27 UTC</a></sub>
 * [China makes progress in reusability with secretive second flight of suborbital spaceplane](https://spacenews.com/china-makes-progress-in-reusability-with-secretive-second-flight-of-suborbital-spaceplane/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T091116">2022-08-26 09:11:16 UTC</a></sub>
 * [Lunar Trailblazer faces NASA review after cost overruns](https://spacenews.com/lunar-trailblazer-faces-nasa-review-after-cost-overruns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T081128">2022-08-26 08:11:28 UTC</a></sub>
 * [SpaceX, NASA announce date for next Crew Dragon astronaut launch](https://www.teslarati.com/spacex-nasa-astronaut-launch-russian-cosmonaut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T072203">2022-08-26 07:22:03 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Turion Space licensed to sell commercial SSA data](https://spacenews.com/turion-space-licensed-to-sell-commercial-ssa-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T223121">2022-08-25 22:31:21 UTC</a></sub>
 * [Orion crew module hatch closed for Artemis 1 test flight](https://spaceflightnow.com/2022/08/25/orion-crew-module-hatch-closed-for-artemis-1-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T221111">2022-08-25 22:11:11 UTC</a></sub>
 * [NRO to add more commercial imagery providers as it builds a ‘hybrid architecture’](https://spacenews.com/nro-to-add-more-commercial-imagery-providers-as-it-builds-a-hybrid-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T220120">2022-08-25 22:01:20 UTC</a></sub>
-* [Starliner crewed test flight slips to early 2023](https://spacenews.com/starliner-crewed-test-flight-slips-to-early-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T211115">2022-08-25 21:11:15 UTC</a></sub>
-* [Colorado, Indiana Students to Hear from NASA Astronaut in Space](http://www.nasa.gov/press-release/colorado-indiana-students-to-hear-from-nasa-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T202100">2022-08-25 20:21:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T110320">2022-08-26 11:03:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T113402">2022-08-26 11:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
