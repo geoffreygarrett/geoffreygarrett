@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Aiming for the Moon: Artemis I countdown begins for historic flight](https://www.nasaspaceflight.com/2022/08/artemis-i-countdown-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T142725">2022-08-27 14:27:25 UTC</a></sub>
 * [US appeals court upholds Starlink deployment change](https://spacenews.com/us-appeals-court-upholds-starlink-deployment-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T215140">2022-08-26 21:51:40 UTC</a></sub>
 * [Airbus highlights European Service Module work for Artemis](https://www.nasaspaceflight.com/2022/08/european-service-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T192012">2022-08-26 19:20:12 UTC</a></sub>
 * [SpaceX satellite deployment plan backed by U.S. appeals court](https://www.teslarati.com/spacex-sattelite-deployment-backed-by-court/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T162144">2022-08-26 16:21:44 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Lunar Trailblazer faces NASA review after cost overruns](https://spacenews.com/lunar-trailblazer-faces-nasa-review-after-cost-overruns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T081128">2022-08-26 08:11:28 UTC</a></sub>
 * [SpaceX, NASA announce date for next Crew Dragon astronaut launch](https://www.teslarati.com/spacex-nasa-astronaut-launch-russian-cosmonaut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T072203">2022-08-26 07:22:03 UTC</a></sub>
 * [Forget 5G wireless, SpaceX and T-Mobile want to offer Zero-G coverage](https://arstechnica.com/science/2022/08/forget-5g-wireless-spacex-and-t-mobile-want-to-offer-zero-g-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T034014">2022-08-26 03:40:14 UTC</a></sub>
-* [Work on Orion capsules continue as Artemis I prepares to launch](https://www.nasaspaceflight.com/2022/08/orion-capsules-artemis-i-prepares-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T225645">2022-08-25 22:56:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T140235">2022-08-27 14:02:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T143354">2022-08-27 14:33:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
