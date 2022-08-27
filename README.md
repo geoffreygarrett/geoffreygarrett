@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s most powerful rocket poised for launch on historic Artemis 1 moon mission](https://spaceflightnow.com/2022/08/27/nasas-most-powerful-rocket-poised-for-launch-on-historic-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T221107">2022-08-27 22:11:07 UTC</a></sub>
 * [Starlink is now available in southern regions of Norway](https://www.teslarati.com/starlink-available-southern-norway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T203202">2022-08-27 20:32:02 UTC</a></sub>
 * [Grants fuel Dawn Aerospace propulsion development](https://spacenews.com/dawn-grants-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T201115">2022-08-27 20:11:15 UTC</a></sub>
 * [Countdown for first Artemis 1 launch attempt begins](https://spacenews.com/countdown-for-first-artemis-1-launch-attempt-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T182122">2022-08-27 18:21:22 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX satellite deployment plan backed by U.S. appeals court](https://www.teslarati.com/spacex-sattelite-deployment-backed-by-court/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T162144">2022-08-26 16:21:44 UTC</a></sub>
 * [Cubesats to hitch rides on Artemis 1](https://spacenews.com/cubesats-to-hitch-rides-on-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T110119">2022-08-26 11:01:19 UTC</a></sub>
 * [Rocket Report: At long last the SLS is ready, Alpha gets a launch date](https://arstechnica.com/science/2022/08/rocket-report-at-long-last-the-sls-is-ready-alpha-gets-a-launch-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T110027">2022-08-26 11:00:27 UTC</a></sub>
-* [China makes progress in reusability with secretive second flight of suborbital spaceplane](https://spacenews.com/china-makes-progress-in-reusability-with-secretive-second-flight-of-suborbital-spaceplane/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T091116">2022-08-26 09:11:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T220227">2022-08-27 22:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T223629">2022-08-27 22:36:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
