@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Artemis generation begins, SLS ready for debut flight](https://www.nasaspaceflight.com/2022/08/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T204733">2022-08-28 20:47:33 UTC</a></sub>
 * [NASA’s most powerful rocket poised for launch on Artemis 1 moon mission](https://spaceflightnow.com/2022/08/27/nasas-most-powerful-rocket-poised-for-launch-on-historic-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T225108">2022-08-27 22:51:08 UTC</a></sub>
 * [Starlink is now available in southern regions of Norway](https://www.teslarati.com/starlink-available-southern-norway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T203202">2022-08-27 20:32:02 UTC</a></sub>
 * [Grants fuel Dawn Aerospace propulsion development](https://spacenews.com/dawn-grants-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T201115">2022-08-27 20:11:15 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [F-22 Demonstration Team flies by Starbase & Starship](https://www.teslarati.com/f-22-demo-team-flies-by-starbase-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T022202">2022-08-27 02:22:02 UTC</a></sub>
 * [FCC reversal $885.5M Starlink award has no lawful basis, commissioner says](https://www.teslarati.com/fcc-reverasl-starlink-award-no-lawful-basis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T014155">2022-08-27 01:41:55 UTC</a></sub>
 * [US appeals court upholds Starlink deployment change](https://spacenews.com/us-appeals-court-upholds-starlink-deployment-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T215140">2022-08-26 21:51:40 UTC</a></sub>
-* [Airbus highlights European Service Module work for Artemis](https://www.nasaspaceflight.com/2022/08/european-service-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T192012">2022-08-26 19:20:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T210609">2022-08-28 21:06:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T213610">2022-08-28 21:36:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
