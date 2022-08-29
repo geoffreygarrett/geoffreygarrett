@@ -182,6 +182,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [SLS ready for long-delayed first launch](https://spacenews.com/sls-ready-for-long-delayed-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T215115">2022-08-28 21:51:15 UTC</a></sub>
 * [The Artemis generation begins, SLS ready for debut flight](https://www.nasaspaceflight.com/2022/08/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T204733">2022-08-28 20:47:33 UTC</a></sub>
+* [Artemis 1 flight to moon depends on precision rocket firings to pull off a complex trajectory](https://spaceflightnow.com/2022/08/28/artemis-1-flight-to-moon-depends-on-precision-rocket-firings-to-pull-off-a-complex-trajectory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T000104">2022-08-28 00:01:04 UTC</a></sub>
 * [NASA’s most powerful rocket poised for launch on Artemis 1 moon mission](https://spaceflightnow.com/2022/08/27/nasas-most-powerful-rocket-poised-for-launch-on-historic-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T225108">2022-08-27 22:51:08 UTC</a></sub>
 * [Starlink is now available in southern regions of Norway](https://www.teslarati.com/starlink-available-southern-norway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T203202">2022-08-27 20:32:02 UTC</a></sub>
 * [Grants fuel Dawn Aerospace propulsion development](https://spacenews.com/dawn-grants-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T201115">2022-08-27 20:11:15 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Aiming for the Moon: Artemis I countdown begins for historic flight](https://www.nasaspaceflight.com/2022/08/artemis-i-countdown-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T142725">2022-08-27 14:27:25 UTC</a></sub>
 * [SpaceX launch sets record for Falcon 9 payload mass](https://spaceflightnow.com/2022/08/27/falcon-9-starlink-4-23-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T043106">2022-08-27 04:31:06 UTC</a></sub>
 * [F-22 Demonstration Team flies by Starbase & Starship](https://www.teslarati.com/f-22-demo-team-flies-by-starbase-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T022202">2022-08-27 02:22:02 UTC</a></sub>
-* [FCC reversal $885.5M Starlink award has no lawful basis, commissioner says](https://www.teslarati.com/fcc-reverasl-starlink-award-no-lawful-basis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T014155">2022-08-27 01:41:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T233750">2022-08-28 23:37:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T003804">2022-08-29 00:38:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
