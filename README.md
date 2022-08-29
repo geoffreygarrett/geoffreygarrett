@@ -181,6 +181,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA continues to study issues that caused Artemis 1 launch scrub](https://spacenews.com/nasa-continues-to-study-issues-that-caused-artemis-1-launch-scrub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T211120">2022-08-29 21:11:20 UTC</a></sub>
+* [NASA to Provide Update on Artemis I Moon Mission Status](http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission-status) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T205100">2022-08-29 20:51:00 UTC</a></sub>
 * [New head of AFRL space vehicles looking for talent to help push technology forward](https://spacenews.com/new-head-of-afrl-space-vehicles-looking-for-talent-to-help-push-technology-forward/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T195112">2022-08-29 19:51:12 UTC</a></sub>
 * [NASA Waves Off First Artemis I Launch Attempt](http://www.nasa.gov/press-release/nasa-waves-off-first-artemis-i-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T194200">2022-08-29 19:42:00 UTC</a></sub>
 * [Warning sign? NASA never finished a fueling test before today’s SLS launch attempt](https://arstechnica.com/science/2022/08/warning-sign-nasa-never-finished-a-fueling-test-before-todays-sls-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T193901">2022-08-29 19:39:01 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [SLS scrubs first Artemis I launch attempt](https://www.nasaspaceflight.com/2022/08/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T124733">2022-08-29 12:47:33 UTC</a></sub>
 * [NASA scrubs first SLS launch attempt due to engine issue [Updated]](https://arstechnica.com/science/2022/08/the-final-countdown-begins-for-nasas-hulking-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T114003">2022-08-29 11:40:03 UTC</a></sub>
 * [China plans to make aging Long March rocket reusable and non-toxic](https://spacenews.com/china-plans-reusable-long-march-2d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T111120">2022-08-29 11:11:20 UTC</a></sub>
-* [SpaceX Falcon 9 rocket breaks payload mass record with repaired booster](https://www.teslarati.com/spacex-falcon-9-payload-record-repaired-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T093159">2022-08-29 09:31:59 UTC</a></sub>
-* [SLS ready for long-delayed first launch](https://spacenews.com/sls-ready-for-long-delayed-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T215115">2022-08-28 21:51:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T210421">2022-08-29 21:04:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T213552">2022-08-29 21:35:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
