@@ -135,6 +135,7 @@ region. The mission's status is currently Go for Launch
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-2 & BlueWalker 3</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T000000">2022-09-07 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-2 &amp; BlueWalker 3&location=Kennedy Space Center, FL, USA&dates=20220907T000000Z%2F20220907T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Flight Two</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T220000">2022-09-11 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Flight Two&location=Vandenberg SFB, CA, USA&dates=20220911T220000Z%2F20220911T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120000">2022-09-13 12:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220913T120000Z%2F20220913T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Soyuz MS-22</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T135400">2022-09-21 13:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-22&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220921T135400Z%2F20220921T135400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -182,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [SLS ready for long-delayed first launch](https://spacenews.com/sls-ready-for-long-delayed-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T215115">2022-08-28 21:51:15 UTC</a></sub>
 * [The Artemis generation begins, SLS ready for debut flight](https://www.nasaspaceflight.com/2022/08/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T204733">2022-08-28 20:47:33 UTC</a></sub>
+* [Photos: Aerial survey of Kennedy Space Center on the eve of Artemis 1](https://spaceflightnow.com/2022/08/28/photos-aerial-survey-of-the-cape-canaveral-spaceport-on-the-eve-of-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T004112">2022-08-28 00:41:12 UTC</a></sub>
 * [Artemis 1 flight to moon depends on precision rocket firings to pull off a complex trajectory](https://spaceflightnow.com/2022/08/28/artemis-1-flight-to-moon-depends-on-precision-rocket-firings-to-pull-off-a-complex-trajectory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T000104">2022-08-28 00:01:04 UTC</a></sub>
 * [NASA’s most powerful rocket poised for launch on Artemis 1 moon mission](https://spaceflightnow.com/2022/08/27/nasas-most-powerful-rocket-poised-for-launch-on-historic-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T225108">2022-08-27 22:51:08 UTC</a></sub>
 * [Starlink is now available in southern regions of Norway](https://www.teslarati.com/starlink-available-southern-norway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T203202">2022-08-27 20:32:02 UTC</a></sub>
@@ -189,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Countdown for first Artemis 1 launch attempt begins](https://spacenews.com/countdown-for-first-artemis-1-launch-attempt-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T182122">2022-08-27 18:21:22 UTC</a></sub>
 * [Aiming for the Moon: Artemis I countdown begins for historic flight](https://www.nasaspaceflight.com/2022/08/artemis-i-countdown-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T142725">2022-08-27 14:27:25 UTC</a></sub>
 * [SpaceX launch sets record for Falcon 9 payload mass](https://spaceflightnow.com/2022/08/27/falcon-9-starlink-4-23-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T043106">2022-08-27 04:31:06 UTC</a></sub>
-* [F-22 Demonstration Team flies by Starbase & Starship](https://www.teslarati.com/f-22-demo-team-flies-by-starbase-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T022202">2022-08-27 02:22:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T003804">2022-08-29 00:38:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T050519">2022-08-29 05:05:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
