@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SLS launch scrubbed after weather delay, engine cooling issue](https://spaceflightnow.com/2022/08/29/sls-launch-scrubbed-after-weather-delay-engine-cooling-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T225112">2022-08-29 22:51:12 UTC</a></sub>
 * [Direct-to-cell startups welcome Musk’s arrival](https://spacenews.com/direct-to-cell-startups-welcome-musks-arrival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T223118">2022-08-29 22:31:18 UTC</a></sub>
 * [NASA continues to study issues that caused Artemis 1 launch scrub](https://spacenews.com/nasa-continues-to-study-issues-that-caused-artemis-1-launch-scrub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T211120">2022-08-29 21:11:20 UTC</a></sub>
 * [NASA to Provide Update on Artemis I Moon Mission Status](http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission-status) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T205100">2022-08-29 20:51:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Waves Off First Artemis I Launch Attempt, to Provide Media Update](http://www.nasa.gov/press-release/nasa-waves-off-first-artemis-i-launch-attempt-to-provide-media-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T160100">2022-08-29 16:01:00 UTC</a></sub>
 * [First Artemis 1 launch attempt scrubbed](https://spacenews.com/first-artemis-1-launch-attempt-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T125120">2022-08-29 12:51:20 UTC</a></sub>
 * [SLS scrubs first Artemis I launch attempt](https://www.nasaspaceflight.com/2022/08/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T124733">2022-08-29 12:47:33 UTC</a></sub>
-* [NASA scrubs first SLS launch attempt due to engine issue [Updated]](https://arstechnica.com/science/2022/08/the-final-countdown-begins-for-nasas-hulking-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T114003">2022-08-29 11:40:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T230455">2022-08-29 23:04:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T233937">2022-08-29 23:39:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
