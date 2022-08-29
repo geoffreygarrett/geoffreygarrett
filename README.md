@@ -201,6 +201,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [European Spaceflight Update - Europe is going to the Moon aboard Artemis 1](https://www.getrevue.co/profile/andrewparsonson/issues/europe-is-going-to-the-moon-aboard-artemis-1-1322484) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T131223">2022-08-29 13:12:23 UTC</a></sub>
 * [It’s a team effort](https://www.planetary.org/the-downlink/its-a-team-effort) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T143145">2022-08-26 14:31:45 UTC</a></sub>
 * [Who gets to use JWST and what's it like?](https://www.planetary.org/articles/how-to-use-jwst) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T140156">2022-08-26 14:01:56 UTC</a></sub>
 * [ICPS-1: ULA teams support Artemis I countdown and launch](https://blog.ulalaunch.com/blog/icps-1-ula-teams-support-artemis-i-countdown-and-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T170225">2022-08-25 17:02:25 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA's InSight mission is dying. Next could come the ‘Mars Life Explorer’](https://www.planetary.org/articles/mars-life-explorer-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T140205">2022-08-18 14:02:05 UTC</a></sub>
 * [European Spaceflight Update - What is Avio up to in Kourou?](https://www.getrevue.co/profile/andrewparsonson/issues/what-is-avio-up-to-in-kourou-1302016) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T123244">2022-08-15 12:32:44 UTC</a></sub>
 * [Comets: big, beautiful, and surprisingly smelly](https://www.planetary.org/the-downlink/comets-big-beautiful-and-surprisingly-smelly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T143555">2022-08-12 14:35:55 UTC</a></sub>
-* [Lunar Trailblazer, NASA’s Moon water mapper](https://www.planetary.org/space-missions/lunar-trailblazer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T140558">2022-08-11 14:05:58 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T130702">2022-08-29 13:07:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T135423">2022-08-29 13:54:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
