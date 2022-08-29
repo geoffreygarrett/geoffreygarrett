@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Waves Off First Artemis I Launch Attempt, to Provide Media Update](http://www.nasa.gov/press-release/nasa-waves-off-first-artemis-i-launch-attempt-to-provide-media-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T160100">2022-08-29 16:01:00 UTC</a></sub>
 * [First Artemis 1 launch attempt scrubbed](https://spacenews.com/first-artemis-1-launch-attempt-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T125120">2022-08-29 12:51:20 UTC</a></sub>
 * [NASA scrubs first SLS launch attempt due to engine issue [Updated]](https://arstechnica.com/science/2022/08/the-final-countdown-begins-for-nasas-hulking-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T114003">2022-08-29 11:40:03 UTC</a></sub>
 * [China plans to make aging Long March rocket reusable and non-toxic](https://spacenews.com/china-plans-reusable-long-march-2d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T111120">2022-08-29 11:11:20 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Photos: Aerial survey of Kennedy Space Center on the eve of Artemis 1](https://spaceflightnow.com/2022/08/28/photos-aerial-survey-of-the-cape-canaveral-spaceport-on-the-eve-of-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T004112">2022-08-28 00:41:12 UTC</a></sub>
 * [Artemis 1 flight to moon depends on precision rocket firings to pull off a complex trajectory](https://spaceflightnow.com/2022/08/28/artemis-1-flight-to-moon-depends-on-precision-rocket-firings-to-pull-off-a-complex-trajectory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T000104">2022-08-28 00:01:04 UTC</a></sub>
 * [NASA’s most powerful rocket poised for launch on Artemis 1 moon mission](https://spaceflightnow.com/2022/08/27/nasas-most-powerful-rocket-poised-for-launch-on-historic-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T225108">2022-08-27 22:51:08 UTC</a></sub>
-* [Starlink is now available in southern regions of Norway](https://www.teslarati.com/starlink-available-southern-norway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T203202">2022-08-27 20:32:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T160718">2022-08-29 16:07:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T165359">2022-08-29 16:53:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
