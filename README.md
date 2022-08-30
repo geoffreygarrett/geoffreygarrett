@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Are planets with two stars promising places for life?](https://www.planetary.org/articles/habitability-of-planets-around-two-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T140202">2022-08-30 14:02:02 UTC</a></sub>
 * [European Spaceflight Update - Europe is going to the Moon aboard Artemis 1](https://www.getrevue.co/profile/andrewparsonson/issues/europe-is-going-to-the-moon-aboard-artemis-1-1322484) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T131223">2022-08-29 13:12:23 UTC</a></sub>
 * [It’s a team effort](https://www.planetary.org/the-downlink/its-a-team-effort) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T143145">2022-08-26 14:31:45 UTC</a></sub>
 * [Who gets to use JWST and what's it like?](https://www.planetary.org/articles/how-to-use-jwst) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T140156">2022-08-26 14:01:56 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [Cloudy with a chance of life](https://www.planetary.org/the-downlink/cloudy-with-a-chance-of-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T143155">2022-08-19 14:31:55 UTC</a></sub>
 * [NASA's InSight mission is dying. Next could come the ‘Mars Life Explorer’](https://www.planetary.org/articles/mars-life-explorer-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T140205">2022-08-18 14:02:05 UTC</a></sub>
 * [European Spaceflight Update - What is Avio up to in Kourou?](https://www.getrevue.co/profile/andrewparsonson/issues/what-is-avio-up-to-in-kourou-1302016) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T123244">2022-08-15 12:32:44 UTC</a></sub>
-* [Comets: big, beautiful, and surprisingly smelly](https://www.planetary.org/the-downlink/comets-big-beautiful-and-surprisingly-smelly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T143555">2022-08-12 14:35:55 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T140859">2022-08-30 14:08:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T143658">2022-08-30 14:36:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
