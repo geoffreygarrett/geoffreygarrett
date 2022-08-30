@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orbit Fab announces in-space hydrazine refueling service](https://spacenews.com/orbit-fab-announces-in-space-hydrazine-refueling-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T144123">2022-08-30 14:41:23 UTC</a></sub>
 * [Astra to sell electric thrusters to Airbus OneWeb Satellites](https://spacenews.com/astra-to-sell-electric-thrusters-to-airbus-oneweb-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T100127">2022-08-30 10:01:27 UTC</a></sub>
 * [SLS launch scrubbed after weather delay, engine cooling issue](https://spaceflightnow.com/2022/08/29/sls-launch-scrubbed-after-weather-delay-engine-cooling-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T225112">2022-08-29 22:51:12 UTC</a></sub>
 * [Direct-to-cell startups welcome Musk’s arrival](https://spacenews.com/direct-to-cell-startups-welcome-musks-arrival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T223118">2022-08-29 22:31:18 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Waves Off First Artemis I Launch Attempt](http://www.nasa.gov/press-release/nasa-waves-off-first-artemis-i-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T194200">2022-08-29 19:42:00 UTC</a></sub>
 * [Warning sign? NASA never finished a fueling test before today’s SLS launch attempt](https://arstechnica.com/science/2022/08/warning-sign-nasa-never-finished-a-fueling-test-before-todays-sls-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T193901">2022-08-29 19:39:01 UTC</a></sub>
 * [NASA Waves Off First Artemis I Launch Attempt, to Provide Media Update](http://www.nasa.gov/press-release/nasa-waves-off-first-artemis-i-launch-attempt-to-provide-media-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T160100">2022-08-29 16:01:00 UTC</a></sub>
-* [First Artemis 1 launch attempt scrubbed](https://spacenews.com/first-artemis-1-launch-attempt-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T125120">2022-08-29 12:51:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T150616">2022-08-30 15:06:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T154143">2022-08-30 15:41:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
