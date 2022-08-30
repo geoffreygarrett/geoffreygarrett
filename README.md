@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Royal Caribbean will be the first in the cruise industry to adopt Starlink](https://www.teslarati.com/royal-caribbean-will-be-the-first-in-the-cruise-industry-to-adopt-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T214209">2022-08-30 21:42:09 UTC</a></sub>
 * [SpaceX to attempt 150th Falcon recovery on Starlink Group 3-4](https://www.nasaspaceflight.com/2022/08/starlink-3-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T185953">2022-08-30 18:59:53 UTC</a></sub>
 * [South Korea seeks $459 million for lunar lander project](https://spacenews.com/south-korea-seeks-459-million-for-lunar-lander-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T160118">2022-08-30 16:01:18 UTC</a></sub>
 * [Orbit Fab announces in-space hydrazine refueling service](https://spacenews.com/orbit-fab-announces-in-space-hydrazine-refueling-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T144123">2022-08-30 14:41:23 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA continues to study issues that caused Artemis 1 launch scrub](https://spacenews.com/nasa-continues-to-study-issues-that-caused-artemis-1-launch-scrub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T211120">2022-08-29 21:11:20 UTC</a></sub>
 * [NASA to Provide Update on Artemis I Moon Mission Status](http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission-status) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T205100">2022-08-29 20:51:00 UTC</a></sub>
 * [New head of AFRL space vehicles looking for talent to help push technology forward](https://spacenews.com/new-head-of-afrl-space-vehicles-looking-for-talent-to-help-push-technology-forward/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T195112">2022-08-29 19:51:12 UTC</a></sub>
-* [NASA Waves Off First Artemis I Launch Attempt](http://www.nasa.gov/press-release/nasa-waves-off-first-artemis-i-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T194200">2022-08-29 19:42:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T213440">2022-08-30 21:34:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T220659">2022-08-30 22:06:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
