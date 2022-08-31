@@ -180,7 +180,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NASA will make second attempt to launch the SLS rocket on Saturday](https://arstechnica.com/science/2022/08/nasa-will-make-second-attempt-to-launch-the-sls-rocket-on-saturday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T134111">2022-08-31 13:41:11 UTC</a></sub>
+* [A faulty sensor may have scrubbed the launch of NASA’s massive SLS rocket](https://arstechnica.com/science/2022/08/nasa-will-make-second-attempt-to-launch-the-sls-rocket-on-saturday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T134111">2022-08-31 13:41:11 UTC</a></sub>
 * [NASA and China are eyeing the same landing sites near the lunar south pole](https://spacenews.com/nasa-and-china-are-eyeing-the-same-landing-sites-near-the-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T130124">2022-08-31 13:01:24 UTC</a></sub>
 * [Ursa Major wins $3.6 million U.S. Air Force contract to flight-qualify rocket engine](https://spacenews.com/ursa-major-wins-3-6-million-u-s-air-force-contract-to-flight-qualify-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T121124">2022-08-31 12:11:24 UTC</a></sub>
 * [U.S. looking to encourage more countries to join ASAT testing ban](https://spacenews.com/u-s-looking-to-encourage-more-countries-to-join-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T110112">2022-08-31 11:01:12 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T140753">2022-08-31 14:07:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T143642">2022-08-31 14:36:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
