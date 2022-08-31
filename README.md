@@ -186,10 +186,10 @@ region. The mission's status is currently Go for Launch
 * [South Korea seeks $459 million for lunar lander project](https://spacenews.com/south-korea-seeks-459-million-for-lunar-lander-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T160118">2022-08-30 16:01:18 UTC</a></sub>
 * [Orbit Fab announces in-space hydrazine refueling service](https://spacenews.com/orbit-fab-announces-in-space-hydrazine-refueling-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T144123">2022-08-30 14:41:23 UTC</a></sub>
 * [Astra to sell electric thrusters to Airbus OneWeb Satellites](https://spacenews.com/astra-to-sell-electric-thrusters-to-airbus-oneweb-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T100127">2022-08-30 10:01:27 UTC</a></sub>
+* [SpaceX Falcon 9 rocket completes 57th operational Starlink launch](https://www.teslarati.com/spacex-falcon-9-rocket-57th-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T071153">2022-08-30 07:11:53 UTC</a></sub>
 * [Next Artemis 1 launch attempt set for Sept. 3](https://spacenews.com/next-artemis-1-launch-attempt-set-for-sept-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T021124">2022-08-30 02:11:24 UTC</a></sub>
 * [SLS launch scrubbed after weather delay, engine cooling issue](https://spaceflightnow.com/2022/08/29/sls-launch-scrubbed-after-weather-delay-engine-cooling-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T225112">2022-08-29 22:51:12 UTC</a></sub>
 * [Direct-to-cell startups welcome Musk’s arrival](https://spacenews.com/direct-to-cell-startups-welcome-musks-arrival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T223118">2022-08-29 22:31:18 UTC</a></sub>
-* [NASA continues to study issues that caused Artemis 1 launch scrub](https://spacenews.com/nasa-continues-to-study-issues-that-caused-artemis-1-launch-scrub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T211120">2022-08-29 21:11:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T063932">2022-08-31 06:39:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T072906">2022-08-31 07:29:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
