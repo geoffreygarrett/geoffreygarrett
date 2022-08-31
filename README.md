@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Intelsat’s Galaxy 15 mutes payload as it drifts into other satellite paths](https://spacenews.com/intelsats-galaxy-15-mutes-payload-as-its-drifts-into-other-satellite-paths/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T233127">2022-08-31 23:31:27 UTC</a></sub>
 * [U.S. Space Command calls for investment in technologies for deep space missions](https://spacenews.com/u-s-space-command-calls-for-investment-in-technologies-for-deep-space-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T190116">2022-08-31 19:01:16 UTC</a></sub>
 * [NASA, Axiom Sign Second Private Astronaut Mission to Space Station Order](http://www.nasa.gov/press-release/nasa-axiom-sign-second-private-astronaut-mission-to-space-station-order) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T184100">2022-08-31 18:41:00 UTC</a></sub>
 * [NASA Sets Coverage for Artemis I Moon Mission Next Launch Attempt](http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-next-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T174100">2022-08-31 17:41:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [U.S. looking to encourage more countries to join ASAT testing ban](https://spacenews.com/u-s-looking-to-encourage-more-countries-to-join-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T110112">2022-08-31 11:01:12 UTC</a></sub>
 * [Chinese megawatt-level space nuclear reactor passes review](https://spacenews.com/chinese-megawatt-level-space-nuclear-reactor-passes-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T103122">2022-08-31 10:31:22 UTC</a></sub>
 * [Starlink secures first cruise line customer with Royal Caribbean](https://spacenews.com/starlink-secures-first-cruise-line-customer-with-royal-caribbean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T225115">2022-08-30 22:51:15 UTC</a></sub>
-* [Royal Caribbean will be the first in the cruise industry to adopt Starlink](https://www.teslarati.com/royal-caribbean-will-be-the-first-in-the-cruise-industry-to-adopt-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T214209">2022-08-30 21:42:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T230448">2022-08-31 23:04:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T233923">2022-08-31 23:39:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
