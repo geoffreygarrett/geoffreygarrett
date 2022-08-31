@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Starlink Group 3-4 at the
-<a href="">Space Launch Complex 4E</a> in
-Vandenberg SFB, CA, USA
+New Shepard | NS-23 at the
+<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a> in
+Corn Ranch, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T054010">2022-08-31 05:40:10 UTC</a>. Until
-then, this launch pad will have seen 95
-out of 701 launches in this
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T133000">2022-08-31 13:30:00 UTC</a>. Until
+then, this launch pad will have seen 22
+out of 22 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of 46 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Twenty-third flight of New Shepard carrying 36 science and research payloads along with tens of thousands of postcards from Club For Future.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+  <a href="https://www.google.com/maps/place/31%C2%B025'22.4%22N+104%C2%B045'25.6%22W" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 3-4</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T054010">2022-08-31 05:40:10 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-4&location=Vandenberg SFB, CA, USA&dates=20220831T054010Z%2F20220831T054010Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NS-23</b> from Corn Ranch, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T133000">2022-08-31 13:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-23&location=Corn Ranch, USA&dates=20220831T133000Z%2F20220831T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Artemis I</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T181700">2022-09-03 18:17:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20220903T181700Z%2F20220903T201700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-20 & Varuna</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T003200">2022-09-05 00:32:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-20 &amp; Varuna&location=Cape Canaveral, FL, USA&dates=20220905T003200Z%2F20220905T003200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -183,7 +182,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Starlink secures first cruise line customer with Royal Caribbean](https://spacenews.com/starlink-secures-first-cruise-line-customer-with-royal-caribbean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T225115">2022-08-30 22:51:15 UTC</a></sub>
 * [Royal Caribbean will be the first in the cruise industry to adopt Starlink](https://www.teslarati.com/royal-caribbean-will-be-the-first-in-the-cruise-industry-to-adopt-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T214209">2022-08-30 21:42:09 UTC</a></sub>
-* [SpaceX to attempt 150th Falcon recovery on Starlink Group 3-4](https://www.nasaspaceflight.com/2022/08/starlink-3-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T185953">2022-08-30 18:59:53 UTC</a></sub>
+* [SpaceX nails 150th Falcon recovery attempt on Starlink Group 3-4](https://www.nasaspaceflight.com/2022/08/starlink-3-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T185953">2022-08-30 18:59:53 UTC</a></sub>
 * [South Korea seeks $459 million for lunar lander project](https://spacenews.com/south-korea-seeks-459-million-for-lunar-lander-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T160118">2022-08-30 16:01:18 UTC</a></sub>
 * [Orbit Fab announces in-space hydrazine refueling service](https://spacenews.com/orbit-fab-announces-in-space-hydrazine-refueling-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T144123">2022-08-30 14:41:23 UTC</a></sub>
 * [Astra to sell electric thrusters to Airbus OneWeb Satellites](https://spacenews.com/astra-to-sell-electric-thrusters-to-airbus-oneweb-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T100127">2022-08-30 10:01:27 UTC</a></sub>
@@ -223,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T052159">2022-08-31 05:21:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T063932">2022-08-31 06:39:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
