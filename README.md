@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX filing shows plans for massive building in Bastrop County](https://www.teslarati.com/spacex-filing-massive-building-bastrop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T233159">2022-09-01 23:31:59 UTC</a></sub>
 * [SpaceX targeting 100 launches in 2023](https://www.teslarati.com/spacex-targeting-100-launches-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T215208">2022-09-01 21:52:08 UTC</a></sub>
 * [UK releases military ‘space power’ doctrine](https://spacenews.com/uk-releases-military-space-power-doctrine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T204111">2022-09-01 20:41:11 UTC</a></sub>
 * [Spire to add ThrustMe propulsion to Lemur cubesats](https://spacenews.com/spire-thrustme/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T203119">2022-09-01 20:31:19 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Startups Scout and Privateer to collaborate on space-tracking technologies](https://spacenews.com/startups-scout-and-privateer-to-collaborate-on-space-tracking-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T170111">2022-09-01 17:01:11 UTC</a></sub>
 * [Video: Replay of Artemis 1 wet dress rehearsal, now with countdown audio](https://spaceflightnow.com/2022/09/01/video-replay-of-artemis-1-wet-dress-rehearsal-now-with-countdown-audio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T161115">2022-09-01 16:11:15 UTC</a></sub>
 * [Startup OQ Technology raises $13 million to expand satellite IoT network](https://spacenews.com/startup-oq-technology-raises-13-million-to-expand-satellite-iot-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T155116">2022-09-01 15:51:16 UTC</a></sub>
-* [Video: Interview with former NASA astronaut Doug Hurley](https://spaceflightnow.com/2022/09/01/video-interview-with-former-nasa-astronaut-doug-hurley/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T153108">2022-09-01 15:31:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T230656">2022-09-01 23:06:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T233956">2022-09-01 23:39:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
