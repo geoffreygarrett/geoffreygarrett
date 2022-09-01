@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Firefly hires new CEO ahead of second launch](https://spacenews.com/firefly-hires-new-ceo-ahead-of-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T111117">2022-09-01 11:11:17 UTC</a></sub>
 * [NASA and SpaceX finalize extension of commercial crew contract](https://spacenews.com/nasa-and-spacex-finalize-extension-of-commercial-crew-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T074120">2022-09-01 07:41:20 UTC</a></sub>
 * [Intelsat’s Galaxy 15 mutes payload as it drifts into other satellite paths](https://spacenews.com/intelsats-galaxy-15-mutes-payload-as-its-drifts-into-other-satellite-paths/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T233127">2022-08-31 23:31:27 UTC</a></sub>
 * [U.S. Space Command calls for investment in technologies for deep space missions](https://spacenews.com/u-s-space-command-calls-for-investment-in-technologies-for-deep-space-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T190116">2022-08-31 19:01:16 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA and China are eyeing the same landing sites near the lunar south pole](https://spacenews.com/nasa-and-china-are-eyeing-the-same-landing-sites-near-the-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T130124">2022-08-31 13:01:24 UTC</a></sub>
 * [Ursa Major wins $3.6 million U.S. Air Force contract to flight-qualify rocket engine](https://spacenews.com/ursa-major-wins-3-6-million-u-s-air-force-contract-to-flight-qualify-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T121124">2022-08-31 12:11:24 UTC</a></sub>
 * [U.S. looking to encourage more countries to join ASAT testing ban](https://spacenews.com/u-s-looking-to-encourage-more-countries-to-join-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T110112">2022-08-31 11:01:12 UTC</a></sub>
-* [Chinese megawatt-level space nuclear reactor passes review](https://spacenews.com/chinese-megawatt-level-space-nuclear-reactor-passes-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T103122">2022-08-31 10:31:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T110353">2022-09-01 11:03:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T113423">2022-09-01 11:34:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
