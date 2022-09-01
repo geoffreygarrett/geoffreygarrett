@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Spire to add ThrustMe propulsion to Lemur cubesats](https://spacenews.com/spire-thrustme/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T203119">2022-09-01 20:31:19 UTC</a></sub>
 * [Webb telescope eyes Phantom Galaxy with mid-infrared camera](https://spaceflightnow.com/2022/09/01/webb-telescope-eyes-phantom-galaxy-with-mid-infrared-camera/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T184112">2022-09-01 18:41:12 UTC</a></sub>
 * [NASA, NOAA Invite Media to Polar Orbiting Weather Satellite Launch](http://www.nasa.gov/press-release/nasa-noaa-invite-media-to-polar-orbiting-weather-satellite-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T183100">2022-09-01 18:31:00 UTC</a></sub>
 * [Space Force building ground station in Alaska ahead of launch of Arctic satcom mission](https://spacenews.com/space-force-building-ground-station-in-alaska-ahead-of-launch-of-arctic-satcom-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T171126">2022-09-01 17:11:26 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Video: Interview with former NASA astronaut Doug Hurley](https://spaceflightnow.com/2022/09/01/video-interview-with-former-nasa-astronaut-doug-hurley/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T153108">2022-09-01 15:31:08 UTC</a></sub>
 * [NASA Sets TV Coverage for Russian Spacewalk](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-russian-spacewalk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T142100">2022-09-01 14:21:00 UTC</a></sub>
 * [NASA will pay Boeing more than twice as much as SpaceX for crew seats](https://arstechnica.com/science/2022/09/nasa-will-pay-boeing-more-than-twice-as-much-as-spacex-for-crew-seats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T133126">2022-09-01 13:31:26 UTC</a></sub>
-* [Firefly hires new CEO ahead of second launch](https://spacenews.com/firefly-hires-new-ceo-ahead-of-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T111117">2022-09-01 11:11:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T200703">2022-09-01 20:07:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T203755">2022-09-01 20:37:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
