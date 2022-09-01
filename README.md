@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Webb telescope eyes Phantom Galaxy with mid-infrared camera](https://spaceflightnow.com/2022/09/01/webb-telescope-eyes-phantom-galaxy-with-mid-infrared-camera/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T184112">2022-09-01 18:41:12 UTC</a></sub>
+* [NASA, NOAA Invite Media to Polar Orbiting Weather Satellite Launch](http://www.nasa.gov/press-release/nasa-noaa-invite-media-to-polar-orbiting-weather-satellite-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T183100">2022-09-01 18:31:00 UTC</a></sub>
 * [Space Force building ground station in Alaska ahead of launch of Arctic satcom mission](https://spacenews.com/space-force-building-ground-station-in-alaska-ahead-of-launch-of-arctic-satcom-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T171126">2022-09-01 17:11:26 UTC</a></sub>
 * [Startups Scout and Privateer to collaborate on space-tracking technologies](https://spacenews.com/startups-scout-and-privateer-to-collaborate-on-space-tracking-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T170111">2022-09-01 17:01:11 UTC</a></sub>
 * [Video: Replay of Artemis 1 wet dress rehearsal, now with countdown audio](https://spaceflightnow.com/2022/09/01/video-replay-of-artemis-1-wet-dress-rehearsal-now-with-countdown-audio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T161115">2022-09-01 16:11:15 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Sets TV Coverage for Russian Spacewalk](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-russian-spacewalk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T142100">2022-09-01 14:21:00 UTC</a></sub>
 * [NASA will pay Boeing more than twice as much as SpaceX for crew seats](https://arstechnica.com/science/2022/09/nasa-will-pay-boeing-more-than-twice-as-much-as-spacex-for-crew-seats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T133126">2022-09-01 13:31:26 UTC</a></sub>
 * [Firefly hires new CEO ahead of second launch](https://spacenews.com/firefly-hires-new-ceo-ahead-of-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T111117">2022-09-01 11:11:17 UTC</a></sub>
-* [NASA and SpaceX finalize extension of commercial crew contract](https://spacenews.com/nasa-and-spacex-finalize-extension-of-commercial-crew-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T074120">2022-09-01 07:41:20 UTC</a></sub>
-* [Intelsat’s Galaxy 15 mutes payload as it drifts into other satellite paths](https://spacenews.com/intelsats-galaxy-15-mutes-payload-as-its-drifts-into-other-satellite-paths/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T233127">2022-08-31 23:31:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T180823">2022-09-01 18:08:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T184525">2022-09-01 18:45:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
