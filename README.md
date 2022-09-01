@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA and SpaceX finalize extension of commercial crew contract](https://spacenews.com/nasa-and-spacex-finalize-extension-of-commercial-crew-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T074120">2022-09-01 07:41:20 UTC</a></sub>
 * [Intelsat’s Galaxy 15 mutes payload as it drifts into other satellite paths](https://spacenews.com/intelsats-galaxy-15-mutes-payload-as-its-drifts-into-other-satellite-paths/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T233127">2022-08-31 23:31:27 UTC</a></sub>
 * [U.S. Space Command calls for investment in technologies for deep space missions](https://spacenews.com/u-s-space-command-calls-for-investment-in-technologies-for-deep-space-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T190116">2022-08-31 19:01:16 UTC</a></sub>
 * [NASA, Axiom Sign Second Private Astronaut Mission to Space Station Order](http://www.nasa.gov/press-release/nasa-axiom-sign-second-private-astronaut-mission-to-space-station-order) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T184100">2022-08-31 18:41:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Ursa Major wins $3.6 million U.S. Air Force contract to flight-qualify rocket engine](https://spacenews.com/ursa-major-wins-3-6-million-u-s-air-force-contract-to-flight-qualify-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T121124">2022-08-31 12:11:24 UTC</a></sub>
 * [U.S. looking to encourage more countries to join ASAT testing ban](https://spacenews.com/u-s-looking-to-encourage-more-countries-to-join-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T110112">2022-08-31 11:01:12 UTC</a></sub>
 * [Chinese megawatt-level space nuclear reactor passes review](https://spacenews.com/chinese-megawatt-level-space-nuclear-reactor-passes-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T103122">2022-08-31 10:31:22 UTC</a></sub>
-* [SpaceX closes out quartet of Starlink launches from Vandenberg](https://spaceflightnow.com/2022/08/31/spacex-closes-out-quartet-of-starlink-launches-from-vandenberg/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T040105">2022-08-31 04:01:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T073804">2022-09-01 07:38:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T081017">2022-09-01 08:10:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
