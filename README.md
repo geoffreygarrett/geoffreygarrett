@@ -98,7 +98,7 @@ New Shepard | NS-23 at the
 <a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a> in
 Corn Ranch, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T133000">2022-09-02 13:30:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143000">2022-09-02 14:30:00 UTC</a>. Until
 then, this launch pad will have seen 22
 out of 22 launches in this
 region. The mission's status is currently Go for Launch
@@ -126,7 +126,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NS-23</b> from Corn Ranch, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T133000">2022-09-02 13:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-23&location=Corn Ranch, USA&dates=20220902T133000Z%2F20220902T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NS-23</b> from Corn Ranch, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143000">2022-09-02 14:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-23&location=Corn Ranch, USA&dates=20220902T143000Z%2F20220902T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T234800">2022-09-02 23:48:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20220902T234800Z%2F20220903T000400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Artemis I</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T181700">2022-09-03 18:17:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20220903T181700Z%2F20220903T201700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-20 & Varuna</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T003200">2022-09-05 00:32:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-20 &amp; Varuna&location=Cape Canaveral, FL, USA&dates=20220905T003200Z%2F20220905T003200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Video: Interview with former NASA astronaut Doug Hurley](https://spaceflightnow.com/2022/09/01/video-interview-with-former-nasa-astronaut-doug-hurley/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T153108">2022-09-01 15:31:08 UTC</a></sub>
 * [NASA Sets TV Coverage for Russian Spacewalk](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-russian-spacewalk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T142100">2022-09-01 14:21:00 UTC</a></sub>
 * [NASA will pay Boeing more than twice as much as SpaceX for crew seats](https://arstechnica.com/science/2022/09/nasa-will-pay-boeing-more-than-twice-as-much-as-spacex-for-crew-seats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T133126">2022-09-01 13:31:26 UTC</a></sub>
 * [Firefly hires new CEO ahead of second launch](https://spacenews.com/firefly-hires-new-ceo-ahead-of-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T111117">2022-09-01 11:11:17 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA, Axiom Sign Second Private Astronaut Mission to Space Station Order](http://www.nasa.gov/press-release/nasa-axiom-sign-second-private-astronaut-mission-to-space-station-order) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T184100">2022-08-31 18:41:00 UTC</a></sub>
 * [NASA Sets Coverage for Artemis I Moon Mission Next Launch Attempt](http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-next-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T174100">2022-08-31 17:41:00 UTC</a></sub>
 * [A faulty sensor may have scrubbed the launch of NASA’s massive SLS rocket](https://arstechnica.com/science/2022/08/nasa-will-make-second-attempt-to-launch-the-sls-rocket-on-saturday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T134111">2022-08-31 13:41:11 UTC</a></sub>
-* [NASA and China are eyeing the same landing sites near the lunar south pole](https://spacenews.com/nasa-and-china-are-eyeing-the-same-landing-sites-near-the-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T130124">2022-08-31 13:01:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T150728">2022-09-01 15:07:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T154155">2022-09-01 15:41:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
