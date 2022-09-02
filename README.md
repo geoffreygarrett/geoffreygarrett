@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Airbus discusses technical aspects of the European Service Module](https://www.nasaspaceflight.com/2022/09/airbus-discusses-esm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T141406">2022-09-02 14:14:06 UTC</a></sub>
 * [Rocket Report: Used Electron engine gets retested; Canadian spaceport is a go](https://arstechnica.com/science/2022/09/rocket-report-used-electron-engine-gets-re-tested-canadian-spaceport-is-a-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T110055">2022-09-02 11:00:55 UTC</a></sub>
 * [Countdown begins for second Artemis 1 launch attempt](https://spacenews.com/countdown-begins-for-second-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T081121">2022-09-02 08:11:21 UTC</a></sub>
 * [SpaceX filing shows plans for massive building in Bastrop County](https://www.teslarati.com/spacex-filing-massive-building-bastrop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T233159">2022-09-01 23:31:59 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Webb telescope eyes Phantom Galaxy with mid-infrared camera](https://spaceflightnow.com/2022/09/01/webb-telescope-eyes-phantom-galaxy-with-mid-infrared-camera/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T184112">2022-09-01 18:41:12 UTC</a></sub>
 * [NASA, NOAA Invite Media to Polar Orbiting Weather Satellite Launch](http://www.nasa.gov/press-release/nasa-noaa-invite-media-to-polar-orbiting-weather-satellite-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T183100">2022-09-01 18:31:00 UTC</a></sub>
 * [Space Force building ground station in Alaska ahead of launch of Arctic satcom mission](https://spacenews.com/space-force-building-ground-station-in-alaska-ahead-of-launch-of-arctic-satcom-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T171126">2022-09-01 17:11:26 UTC</a></sub>
-* [Startups Scout and Privateer to collaborate on space-tracking technologies](https://spacenews.com/startups-scout-and-privateer-to-collaborate-on-space-tracking-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T170111">2022-09-01 17:01:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Space rocks!](https://www.planetary.org/the-downlink/space-rocks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143204">2022-09-02 14:32:04 UTC</a></sub>
 * [Are planets with two stars promising places for life?](https://www.planetary.org/articles/habitability-of-planets-around-two-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T140202">2022-08-30 14:02:02 UTC</a></sub>
 * [European Spaceflight Update - Europe is going to the Moon aboard Artemis 1](https://www.getrevue.co/profile/andrewparsonson/issues/europe-is-going-to-the-moon-aboard-artemis-1-1322484) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T131223">2022-08-29 13:12:23 UTC</a></sub>
 * [It’s a team effort](https://www.planetary.org/the-downlink/its-a-team-effort) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T143145">2022-08-26 14:31:45 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [European Spaceflight Update - Let’s talk about RFA](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-rfa-1311921) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T141234">2022-08-22 14:12:34 UTC</a></sub>
 * [Cloudy with a chance of life](https://www.planetary.org/the-downlink/cloudy-with-a-chance-of-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T143155">2022-08-19 14:31:55 UTC</a></sub>
 * [NASA's InSight mission is dying. Next could come the ‘Mars Life Explorer’](https://www.planetary.org/articles/mars-life-explorer-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T140205">2022-08-18 14:02:05 UTC</a></sub>
-* [European Spaceflight Update - What is Avio up to in Kourou?](https://www.getrevue.co/profile/andrewparsonson/issues/what-is-avio-up-to-in-kourou-1302016) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T123244">2022-08-15 12:32:44 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T140431">2022-09-02 14:04:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143513">2022-09-02 14:35:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
