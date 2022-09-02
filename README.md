@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: Used Electron engine gets re-tested; Canadian spaceport is a go](https://arstechnica.com/science/2022/09/rocket-report-used-electron-engine-gets-re-tested-canadian-spaceport-is-a-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T110055">2022-09-02 11:00:55 UTC</a></sub>
 * [Countdown begins for second Artemis 1 launch attempt](https://spacenews.com/countdown-begins-for-second-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T081121">2022-09-02 08:11:21 UTC</a></sub>
 * [SpaceX filing shows plans for massive building in Bastrop County](https://www.teslarati.com/spacex-filing-massive-building-bastrop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T233159">2022-09-01 23:31:59 UTC</a></sub>
 * [SpaceX targeting 100 launches in 2023](https://www.teslarati.com/spacex-targeting-100-launches-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T215208">2022-09-01 21:52:08 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA, NOAA Invite Media to Polar Orbiting Weather Satellite Launch](http://www.nasa.gov/press-release/nasa-noaa-invite-media-to-polar-orbiting-weather-satellite-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T183100">2022-09-01 18:31:00 UTC</a></sub>
 * [Space Force building ground station in Alaska ahead of launch of Arctic satcom mission](https://spacenews.com/space-force-building-ground-station-in-alaska-ahead-of-launch-of-arctic-satcom-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T171126">2022-09-01 17:11:26 UTC</a></sub>
 * [Startups Scout and Privateer to collaborate on space-tracking technologies](https://spacenews.com/startups-scout-and-privateer-to-collaborate-on-space-tracking-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T170111">2022-09-01 17:01:11 UTC</a></sub>
-* [Video: Replay of Artemis 1 wet dress rehearsal, now with countdown audio](https://spaceflightnow.com/2022/09/01/video-replay-of-artemis-1-wet-dress-rehearsal-now-with-countdown-audio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T161115">2022-09-01 16:11:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T110459">2022-09-02 11:04:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T113419">2022-09-02 11:34:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
