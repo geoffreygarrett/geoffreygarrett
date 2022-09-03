@@ -180,16 +180,16 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SLS ready for second attempt as Artemis I launch nears](https://www.nasaspaceflight.com/2022/09/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T003033">2022-09-03 00:30:33 UTC</a></sub>
 * [Lunar demo mission to provide “stress test” for NASA’s Artemis moon program](https://spaceflightnow.com/2022/09/02/lunar-demo-mission-to-provide-stress-test-for-nasas-artemis-moon-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T224107">2022-09-02 22:41:07 UTC</a></sub>
 * [Watch live: Russian cosmonauts on spacewalk outside space station](https://spaceflightnow.com/2022/09/02/watch-live-russian-cosmonauts-on-spacewalk-outside-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T162109">2022-09-02 16:21:09 UTC</a></sub>
 * [Airbus discusses technical aspects of the European Service Module](https://www.nasaspaceflight.com/2022/09/airbus-discusses-esm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T141406">2022-09-02 14:14:06 UTC</a></sub>
 * [Rocket Report: Used Electron engine gets retested; Canadian spaceport is a go](https://arstechnica.com/science/2022/09/rocket-report-used-electron-engine-gets-re-tested-canadian-spaceport-is-a-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T110055">2022-09-02 11:00:55 UTC</a></sub>
 * [Countdown begins for second Artemis 1 launch attempt](https://spacenews.com/countdown-begins-for-second-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T081121">2022-09-02 08:11:21 UTC</a></sub>
+* [Giant solar sail will propel tiny spacecraft to intercept and study asteroid](https://spaceflightnow.com/2022/09/02/giant-solar-sail-will-propel-tiny-spacecraft-to-intercept-and-study-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T021110">2022-09-02 02:11:10 UTC</a></sub>
+* [Italian microsatellite promises orbital photo bonanza after Artemis 1 launch](https://spaceflightnow.com/2022/09/02/italian-microsatellite-promises-orbital-photo-bonanza-after-artemis-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T005104">2022-09-02 00:51:04 UTC</a></sub>
 * [Russian cosmonauts work on robotic arm outside space station](https://spaceflightnow.com/2022/09/02/russian-eva-55/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T003105">2022-09-02 00:31:05 UTC</a></sub>
 * [NASA completes agreement with Axiom Space for second private astronaut mission](https://spacenews.com/nasa-completes-agreement-with-axiom-space-for-second-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T002128">2022-09-02 00:21:28 UTC</a></sub>
-* [SpaceX filing shows plans for massive building in Bastrop County](https://www.teslarati.com/spacex-filing-massive-building-bastrop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T233159">2022-09-01 23:31:59 UTC</a></sub>
-* [SpaceX targeting 100 launches in 2023](https://www.teslarati.com/spacex-targeting-100-launches-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T215208">2022-09-01 21:52:08 UTC</a></sub>
-* [UK releases military ‘space power’ doctrine](https://spacenews.com/uk-releases-military-space-power-doctrine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T204111">2022-09-01 20:41:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T003151">2022-09-03 00:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T032127">2022-09-03 03:21:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
