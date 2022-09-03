@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After careful consideration, NASA ready to launch SLS rocket as is](https://arstechnica.com/science/2022/09/nasa-making-second-attempt-to-launch-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T103852">2022-09-03 10:38:52 UTC</a></sub>
 * [SLS ready for second attempt as Artemis I launch nears](https://www.nasaspaceflight.com/2022/09/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T003033">2022-09-03 00:30:33 UTC</a></sub>
 * [Lunar demo mission to provide “stress test” for NASA’s Artemis moon program](https://spaceflightnow.com/2022/09/02/lunar-demo-mission-to-provide-stress-test-for-nasas-artemis-moon-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T224107">2022-09-02 22:41:07 UTC</a></sub>
 * [Watch live: Russian cosmonauts on spacewalk outside space station](https://spaceflightnow.com/2022/09/02/watch-live-russian-cosmonauts-on-spacewalk-outside-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T162109">2022-09-02 16:21:09 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Giant solar sail will propel tiny spacecraft to intercept and study asteroid](https://spaceflightnow.com/2022/09/02/giant-solar-sail-will-propel-tiny-spacecraft-to-intercept-and-study-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T021110">2022-09-02 02:11:10 UTC</a></sub>
 * [Italian microsatellite promises orbital photo bonanza after Artemis 1 launch](https://spaceflightnow.com/2022/09/02/italian-microsatellite-promises-orbital-photo-bonanza-after-artemis-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T005104">2022-09-02 00:51:04 UTC</a></sub>
 * [Russian cosmonauts work on robotic arm outside space station](https://spaceflightnow.com/2022/09/02/russian-eva-55/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T003105">2022-09-02 00:31:05 UTC</a></sub>
-* [NASA completes agreement with Axiom Space for second private astronaut mission](https://spacenews.com/nasa-completes-agreement-with-axiom-space-for-second-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T002128">2022-09-02 00:21:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T110242">2022-09-03 11:02:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T113235">2022-09-03 11:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
