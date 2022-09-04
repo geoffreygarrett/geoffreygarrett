@@ -106,7 +106,7 @@ region. The mission's status is currently Go for Launch
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Spaceflight's propulsive Sherpa-LTC2 space tug is also onboard as a rideshare to deploy into Boeing’s Varuna Technology Demonstration Mission in a higher orbit.
+  A batch of 51 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Spaceflight's propulsive Sherpa-LTC2 space tug is also onboard as a rideshare to deploy into Boeing’s Varuna Technology Demonstration Mission in a higher orbit.
 </blockquote>
 
 <p float="left" align="center">
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T190227">2022-09-04 19:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T193104">2022-09-04 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
