@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force extends Saber Astronautics’ contract for space visualization software](https://spacenews.com/space-force-extends-saber-astronautics-contract-for-space-visualization-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T150117">2022-09-05 15:01:17 UTC</a></sub>
 * [China begins launch campaign for final space station module](https://spacenews.com/china-begins-launch-campaign-for-final-space-station-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T095119">2022-09-05 09:51:19 UTC</a></sub>
 * [SpaceX launches first Starlink rideshare mission of 2022](https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T174530">2022-09-04 17:45:30 UTC</a></sub>
 * [Falcon 9 launches Starlink satellites, Boeing rideshare payload](https://spaceflightnow.com/2022/09/04/falcon-9-starlink-4-20-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T043111">2022-09-04 04:31:11 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Second Artemis 1 launch attempt scrubbed](https://spacenews.com/second-artemis-1-launch-attempt-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T154116">2022-09-03 15:41:16 UTC</a></sub>
 * [NASA scrubs second attempt to launch Artemis I after hydrogen leak [Updated]](https://arstechnica.com/science/2022/09/nasa-making-second-attempt-to-launch-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T151552">2022-09-03 15:15:52 UTC</a></sub>
 * [Solar Orbiter to look at Venus' magnetic field as it swings by the planet](https://www.space.com/solar-orbiter-venus-flyby-3-magnetic-field) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T090000">2022-09-03 09:00:00 UTC</a></sub>
-* [SLS teams scrub second launch attempt for Artemis I as hydrogen leaks persist](https://www.nasaspaceflight.com/2022/09/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T003033">2022-09-03 00:30:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [European Spaceflight Update - Let’s talk about Isar Aerospace ](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-isar-aerospace-1332931) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T144234">2022-09-05 14:42:34 UTC</a></sub>
 * [Space rocks!](https://www.planetary.org/the-downlink/space-rocks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143204">2022-09-02 14:32:04 UTC</a></sub>
 * [Are planets with two stars promising places for life?](https://www.planetary.org/articles/habitability-of-planets-around-two-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T140202">2022-08-30 14:02:02 UTC</a></sub>
 * [European Spaceflight Update - Europe is going to the Moon aboard Artemis 1](https://www.getrevue.co/profile/andrewparsonson/issues/europe-is-going-to-the-moon-aboard-artemis-1-1322484) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T131223">2022-08-29 13:12:23 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [How NASA will use helicopters to return samples from Mars in 2033](https://www.planetary.org/articles/nasa-mars-sample-return-helicopters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T140144">2022-08-23 14:01:44 UTC</a></sub>
 * [European Spaceflight Update - Let’s talk about RFA](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-rfa-1311921) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T141234">2022-08-22 14:12:34 UTC</a></sub>
 * [Cloudy with a chance of life](https://www.planetary.org/the-downlink/cloudy-with-a-chance-of-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T143155">2022-08-19 14:31:55 UTC</a></sub>
-* [NASA's InSight mission is dying. Next could come the ‘Mars Life Explorer’](https://www.planetary.org/articles/mars-life-explorer-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T140205">2022-08-18 14:02:05 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T150435">2022-09-05 15:04:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T154038">2022-09-05 15:40:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
