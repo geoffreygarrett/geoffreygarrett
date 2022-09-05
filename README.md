@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Research, spacewalks, and maintenance: Expedition 67’s final month aboard the ISS](https://www.nasaspaceflight.com/2022/09/iss-update-august-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T173557">2022-09-05 17:35:57 UTC</a></sub>
 * [Space Force extends Saber Astronautics’ contract for space visualization software](https://spacenews.com/space-force-extends-saber-astronautics-contract-for-space-visualization-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T150117">2022-09-05 15:01:17 UTC</a></sub>
 * [China begins launch campaign for final space station module](https://spacenews.com/china-begins-launch-campaign-for-final-space-station-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T095119">2022-09-05 09:51:19 UTC</a></sub>
 * [SpaceX launches first Starlink rideshare mission of 2022](https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T174530">2022-09-04 17:45:30 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Provide Artemis I Launch Update Saturday](http://www.nasa.gov/press-release/nasa-to-provide-artemis-i-launch-update-saturday) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T174100">2022-09-03 17:41:00 UTC</a></sub>
 * [Second Artemis 1 launch attempt scrubbed](https://spacenews.com/second-artemis-1-launch-attempt-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T154116">2022-09-03 15:41:16 UTC</a></sub>
 * [NASA scrubs second attempt to launch Artemis I after hydrogen leak [Updated]](https://arstechnica.com/science/2022/09/nasa-making-second-attempt-to-launch-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T151552">2022-09-03 15:15:52 UTC</a></sub>
-* [Solar Orbiter to look at Venus' magnetic field as it swings by the planet](https://www.space.com/solar-orbiter-venus-flyby-3-magnetic-field) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T090000">2022-09-03 09:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T171317">2022-09-05 17:13:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T174150">2022-09-05 17:41:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
