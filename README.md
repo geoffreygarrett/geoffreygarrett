@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Starlink Group 4-20 & Varuna-TDM at the
-<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
-Cape Canaveral, FL, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T020940">2022-09-05 02:09:40 UTC</a>. Until
-then, this launch pad will have seen 151
-out of 855 launches in this
+Kuaizhou-1A | Unknown Payload at the
+<a href="">Unknown Pad</a> in
+Jiuquan, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T021300">2022-09-06 02:13:00 UTC</a>. Until
+then, this launch pad will have seen 31
+out of 171 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of 51 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Spaceflight's propulsive Sherpa-LTC2 space tug is also onboard as a rideshare to deploy into Boeing’s Varuna Technology Demonstration Mission in a higher orbit.
+  
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Kuaizhou" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-20 & Varuna-TDM</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T020940">2022-09-05 02:09:40 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-20 &amp; Varuna-TDM&location=Cape Canaveral, FL, USA&dates=20220905T020940Z%2F20220905T020940Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T021300">2022-09-06 02:13:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20220906T021300Z%2F20220906T024900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Eutelsat Konnect VHTS</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T214500">2022-09-06 21:45:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Eutelsat Konnect VHTS&location=Kourou, French Guiana&dates=20220906T214500Z%2F20220906T225100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T220000">2022-09-10 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20220910T220000Z%2F20220911T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -181,7 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Starlink Group 4-20 to be first Starlink rideshare mission in 2022](https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T174530">2022-09-04 17:45:30 UTC</a></sub>
+* [SpaceX launches first Starlink rideshare mission of 2022](https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T174530">2022-09-04 17:45:30 UTC</a></sub>
 * [Years after shuttle, NASA rediscovers the perils of liquid hydrogen](https://arstechnica.com/science/2022/09/years-after-shuttle-nasa-rediscovers-the-perils-of-liquid-hydrogen/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T223827">2022-09-03 22:38:27 UTC</a></sub>
 * [NASA to Provide Artemis I Launch Update Saturday](http://www.nasa.gov/press-release/nasa-to-provide-artemis-i-launch-update-saturday) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T174100">2022-09-03 17:41:00 UTC</a></sub>
 * [Second Artemis 1 launch attempt scrubbed](https://spacenews.com/second-artemis-1-launch-attempt-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T154116">2022-09-03 15:41:16 UTC</a></sub>
@@ -223,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T004032">2022-09-05 00:40:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T033230">2022-09-05 03:32:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
