@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China performs two launches inside two hours](https://spacenews.com/china-performs-two-launches-inside-two-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T123122">2022-09-06 12:31:22 UTC</a></sub>
 * [Starlink Maritime deployed on the most Instagrammed superyacht](https://www.teslarati.com/starlink-maritime-instagrammed-superyacht/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T214147">2022-09-05 21:41:47 UTC</a></sub>
 * [Research, spacewalks, and maintenance: Expedition 67’s final month aboard the ISS](https://www.nasaspaceflight.com/2022/09/iss-update-august-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T173557">2022-09-05 17:35:57 UTC</a></sub>
 * [Space Force extends Saber Astronautics’ contract for space visualization software](https://spacenews.com/space-force-extends-saber-astronautics-contract-for-space-visualization-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T150117">2022-09-05 15:01:17 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Falcon 9 launches Starlink satellites, Boeing rideshare payload](https://spaceflightnow.com/2022/09/04/falcon-9-starlink-4-20-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T043111">2022-09-04 04:31:11 UTC</a></sub>
 * [SpaceX sends Starlink satellites, Boeing demonstrator into orbit on 40th launch of 2022](https://www.teslarati.com/spacex-starlink-rideshare-boeing-test-sat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T040202">2022-09-04 04:02:02 UTC</a></sub>
 * [Years after shuttle, NASA rediscovers the perils of liquid hydrogen](https://arstechnica.com/science/2022/09/years-after-shuttle-nasa-rediscovers-the-perils-of-liquid-hydrogen/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T223827">2022-09-03 22:38:27 UTC</a></sub>
-* [NASA to Provide Artemis I Launch Update Saturday](http://www.nasa.gov/press-release/nasa-to-provide-artemis-i-launch-update-saturday) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T174100">2022-09-03 17:41:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T121306">2022-09-06 12:13:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T130959">2022-09-06 13:09:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
