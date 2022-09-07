@@ -185,7 +185,7 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Awards Contract for Marshall’s Mission Operations](http://www.nasa.gov/press-release/nasa-awards-contract-for-marshall-s-mission-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T202100">2022-09-07 20:21:00 UTC</a></sub>
 * [GAO: Defense, intelligence agencies need a better plan to buy commercial satellite imagery](https://spacenews.com/gao-defense-intelligence-agencies-need-a-better-plan-to-buy-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T195108">2022-09-07 19:51:08 UTC</a></sub>
 * [NASA to repair Artemis 1 moon rocket’s leaky hydrogen connector at launch pad](https://spaceflightnow.com/2022/09/07/nasa-to-repair-artemis-1-moon-rockets-leaky-hydrogen-connector-at-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T173103">2022-09-07 17:31:03 UTC</a></sub>
-* [Ariane 5 to launch advanced broadband satellite for Eutelsat](https://www.nasaspaceflight.com/2022/09/ariane-5-konnect-vhts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T161739">2022-09-07 16:17:39 UTC</a></sub>
+* [Ariane 5 launches advanced broadband satellite for Eutelsat](https://www.nasaspaceflight.com/2022/09/ariane-5-konnect-vhts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T161739">2022-09-07 16:17:39 UTC</a></sub>
 * [India’s Skyroot Aerospace raises $51 million ahead of inaugural launch](https://spacenews.com/indias-skyroot-aerospace-raises-51-million-ahead-of-inaugural-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T133109">2022-09-07 13:31:09 UTC</a></sub>
 * [Near Space Labs offers free imagery for researchers](https://spacenews.com/near-space-labs-grant-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T133109">2022-09-07 13:31:09 UTC</a></sub>
 * [BAE Systems developing multi-sensor satellite cluster for military intelligence](https://spacenews.com/bae-systems-developing-multi-sensor-satellite-cluster-for-military-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T132106">2022-09-07 13:21:06 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T220633">2022-09-07 22:06:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T223943">2022-09-07 22:39:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
