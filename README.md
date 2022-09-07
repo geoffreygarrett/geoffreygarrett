@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S.-French Earth science satellite ready to ship for December launch](https://spacenews.com/u-s-french-earth-science-satellite-ready-to-ship-for-december-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T231107">2022-09-07 23:11:07 UTC</a></sub>
 * [NASA to Discuss Status of Next Artemis I Moon Mission Launch Attempt](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-next-artemis-i-moon-mission-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T213100">2022-09-07 21:31:00 UTC</a></sub>
 * [NASA Taps Axiom Space for First Artemis Moonwalking Spacesuits](http://www.nasa.gov/press-release/nasa-taps-axiom-space-for-first-artemis-moonwalking-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T211100">2022-09-07 21:11:00 UTC</a></sub>
 * [NASA Awards Contract for Marshall’s Mission Operations](http://www.nasa.gov/press-release/nasa-awards-contract-for-marshall-s-mission-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T202100">2022-09-07 20:21:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [India’s Skyroot Aerospace raises $51 million ahead of inaugural launch](https://spacenews.com/indias-skyroot-aerospace-raises-51-million-ahead-of-inaugural-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T133109">2022-09-07 13:31:09 UTC</a></sub>
 * [Near Space Labs offers free imagery for researchers](https://spacenews.com/near-space-labs-grant-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T133109">2022-09-07 13:31:09 UTC</a></sub>
 * [BAE Systems developing multi-sensor satellite cluster for military intelligence](https://spacenews.com/bae-systems-developing-multi-sensor-satellite-cluster-for-military-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T132106">2022-09-07 13:21:06 UTC</a></sub>
-* [Albedo announces $48 million Series A funding round](https://spacenews.com/albedo-series-a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T130107">2022-09-07 13:01:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T230635">2022-09-07 23:06:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T234300">2022-09-07 23:43:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
