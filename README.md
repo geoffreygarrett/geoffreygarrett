@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Contract for Marshall’s Mission Operations](http://www.nasa.gov/press-release/nasa-awards-contract-for-marshall-s-mission-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T202100">2022-09-07 20:21:00 UTC</a></sub>
 * [GAO: Defense, intelligence agencies need a better plan to buy commercial satellite imagery](https://spacenews.com/gao-defense-intelligence-agencies-need-a-better-plan-to-buy-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T195108">2022-09-07 19:51:08 UTC</a></sub>
 * [NASA to repair Artemis 1 moon rocket’s leaky hydrogen connector at launch pad](https://spaceflightnow.com/2022/09/07/nasa-to-repair-artemis-1-moon-rockets-leaky-hydrogen-connector-at-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T173103">2022-09-07 17:31:03 UTC</a></sub>
 * [Ariane 5 to launch advanced broadband satellite for Eutelsat](https://www.nasaspaceflight.com/2022/09/ariane-5-konnect-vhts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T161739">2022-09-07 16:17:39 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Albedo announces $48 million Series A funding round](https://spacenews.com/albedo-series-a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T130107">2022-09-07 13:01:07 UTC</a></sub>
 * [KMI wins three Space Force study contracts for debris cleanup technology](https://spacenews.com/kmi-wins-three-space-force-study-contracts-for-debris-cleanup-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T120107">2022-09-07 12:01:07 UTC</a></sub>
 * [OneWeb takes $229 million charge for canceled Soyuz launches](https://spacenews.com/oneweb-takes-229-million-charge-for-canceled-soyuz-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T114108">2022-09-07 11:41:08 UTC</a></sub>
-* [Rocket Lab signs on to U.S. military’s ‘rocket cargo’ program](https://spacenews.com/rocket-lab-signs-on-to-u-s-militarys-rocket-cargo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T221120">2022-09-06 22:11:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T200711">2022-09-07 20:07:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T204220">2022-09-07 20:42:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
