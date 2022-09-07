@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120000">2022-09-13 12:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220913T120000Z%2F20220913T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>The Owl Spreads Its Wings</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T203000">2022-09-14 20:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Owl Spreads Its Wings&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220914T203000Z%2F20220914T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Soyuz MS-22</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T135400">2022-09-21 13:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-22&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220921T135400Z%2F20220921T135400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NROL-91</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T000000">2022-09-24 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-91&location=Vandenberg SFB, CA, USA&dates=20220924T000000Z%2F20220924T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -188,7 +189,7 @@ region. The mission's status is currently Go for Launch
 * [European space chief “cannot see” a return to cooperation with Russia](https://arstechnica.com/science/2022/09/european-space-chief-cannot-see-a-return-to-cooperation-with-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T134334">2022-09-06 13:43:34 UTC</a></sub>
 * [South Korean lunar orbiter succeeds in critical trajectory correction maneuver](https://spacenews.com/south-korean-lunar-orbiter-succeeds-in-critical-trajectory-correction-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T134134">2022-09-06 13:41:34 UTC</a></sub>
 * [China performs two launches inside two hours](https://spacenews.com/china-performs-two-launches-inside-two-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T123122">2022-09-06 12:31:22 UTC</a></sub>
-* [Starlink Maritime deployed on the most Instagrammed superyacht](https://www.teslarati.com/starlink-maritime-instagrammed-superyacht/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T214147">2022-09-05 21:41:47 UTC</a></sub>
+* [NASA to repair SLS liquid hydrogen leak on the pad](https://spacenews.com/nasa-to-repair-sls-liquid-hydrogen-leak-on-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T012112">2022-09-06 01:21:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T234044">2022-09-06 23:40:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T033523">2022-09-07 03:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
