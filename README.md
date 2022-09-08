@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA discusses path to SLS repairs as launch uncertainty looms for September, October](https://www.nasaspaceflight.com/2022/09/artemis-i-update-sept8/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T171252">2022-09-08 17:12:52 UTC</a></sub>
 * [Apple to be largest user of Globalstar’s satellite network for iPhone messaging](https://spacenews.com/apple-to-be-largest-user-of-globalstars-satellite-network-for-iphone-messaging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T132106">2022-09-08 13:21:06 UTC</a></sub>
 * [NASA selects Axiom Space to develop Artemis spacesuit](https://spacenews.com/nasa-selects-axiom-space-to-develop-artemis-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T110105">2022-09-08 11:01:05 UTC</a></sub>
 * [Ariane 5 launches Konnect VHTS satellite for Eutelsat](https://spacenews.com/ariane-5-launches-konnect-vhts-satellite-for-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T102106">2022-09-08 10:21:06 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Taps Axiom Space for First Artemis Moonwalking Spacesuits](http://www.nasa.gov/press-release/nasa-taps-axiom-space-for-first-artemis-moonwalking-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T211100">2022-09-07 21:11:00 UTC</a></sub>
 * [NASA Awards Contract for Marshall’s Mission Operations](http://www.nasa.gov/press-release/nasa-awards-contract-for-marshall-s-mission-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T202100">2022-09-07 20:21:00 UTC</a></sub>
 * [GAO: Defense, intelligence agencies need a better plan to buy commercial satellite imagery](https://spacenews.com/gao-defense-intelligence-agencies-need-a-better-plan-to-buy-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T195108">2022-09-07 19:51:08 UTC</a></sub>
-* [NASA to repair Artemis 1 moon rocket’s leaky hydrogen connector at launch pad](https://spaceflightnow.com/2022/09/07/nasa-to-repair-artemis-1-moon-rockets-leaky-hydrogen-connector-at-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T173103">2022-09-07 17:31:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T172918">2022-09-08 17:29:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T175044">2022-09-08 17:50:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
