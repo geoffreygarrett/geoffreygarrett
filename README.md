@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Apple to be largest user of Globalstar’s satellite network for iPhone messaging](https://spacenews.com/apple-to-be-largest-user-of-globalstars-satellite-network-for-iphone-messaging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T132106">2022-09-08 13:21:06 UTC</a></sub>
 * [NASA selects Axiom Space to develop Artemis spacesuit](https://spacenews.com/nasa-selects-axiom-space-to-develop-artemis-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T110105">2022-09-08 11:01:05 UTC</a></sub>
 * [Ariane 5 launches Konnect VHTS satellite for Eutelsat](https://spacenews.com/ariane-5-launches-konnect-vhts-satellite-for-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T102106">2022-09-08 10:21:06 UTC</a></sub>
 * [SpaceX, Firefly Aerospace targeting three rocket launches in two days](https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T071125">2022-09-08 07:11:25 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Awards Contract for Marshall’s Mission Operations](http://www.nasa.gov/press-release/nasa-awards-contract-for-marshall-s-mission-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T202100">2022-09-07 20:21:00 UTC</a></sub>
 * [GAO: Defense, intelligence agencies need a better plan to buy commercial satellite imagery](https://spacenews.com/gao-defense-intelligence-agencies-need-a-better-plan-to-buy-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T195108">2022-09-07 19:51:08 UTC</a></sub>
 * [NASA to repair Artemis 1 moon rocket’s leaky hydrogen connector at launch pad](https://spaceflightnow.com/2022/09/07/nasa-to-repair-artemis-1-moon-rockets-leaky-hydrogen-connector-at-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T173103">2022-09-07 17:31:03 UTC</a></sub>
-* [Ariane 5 launches advanced broadband satellite for Eutelsat](https://www.nasaspaceflight.com/2022/09/ariane-5-konnect-vhts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T161739">2022-09-07 16:17:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T130749">2022-09-08 13:07:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T134723">2022-09-08 13:47:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
