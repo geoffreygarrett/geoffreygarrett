@@ -181,6 +181,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch five spare Iridium satellites](https://spacenews.com/spacex-to-launch-five-spare-iridium-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T113107">2022-09-09 11:31:07 UTC</a></sub>
+* [Rocket Report: SLS launch targeted for late September, unique view of Falcon 9](https://arstechnica.com/science/2022/09/rocket-report-sls-launch-targeted-for-late-september-unique-view-of-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T110057">2022-09-09 11:00:57 UTC</a></sub>
 * [Private Chinese satellite internet firm GalaxySpace secures major new funding](https://spacenews.com/private-chinese-satellite-internet-firm-galaxyspace-secures-major-new-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T083108">2022-09-09 08:31:08 UTC</a></sub>
 * [NASA preparing for late September Artemis 1 launch attempt](https://spacenews.com/nasa-preparing-for-late-september-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T221106">2022-09-08 22:11:06 UTC</a></sub>
 * [Solid rocket startup Adranos opens fuel-production facility in Indiana](https://spacenews.com/solid-rocket-fuel-startup-adranos-opens-fuel-production-facility-in-indiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T220106">2022-09-08 22:01:06 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Apple to be largest user of Globalstar’s satellite network for iPhone messaging](https://spacenews.com/apple-to-be-largest-user-of-globalstars-satellite-network-for-iphone-messaging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T132106">2022-09-08 13:21:06 UTC</a></sub>
 * [NASA selects Axiom Space to develop Artemis spacesuit](https://spacenews.com/nasa-selects-axiom-space-to-develop-artemis-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T110105">2022-09-08 11:01:05 UTC</a></sub>
 * [Ariane 5 launches Konnect VHTS satellite for Eutelsat](https://spacenews.com/ariane-5-launches-konnect-vhts-satellite-for-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T102106">2022-09-08 10:21:06 UTC</a></sub>
-* [SpaceX, Firefly Aerospace targeting three rocket launches in two days](https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T071125">2022-09-08 07:11:25 UTC</a></sub>
-* [NASA officials evaluating late September launch dates for Artemis 1 moon mission](https://spaceflightnow.com/2022/09/08/nasa-officials-evaluating-late-september-launch-dates-for-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T052101">2022-09-08 05:21:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T110355">2022-09-09 11:03:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T113633">2022-09-09 11:36:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
