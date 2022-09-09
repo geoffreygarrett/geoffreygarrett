@@ -189,8 +189,8 @@ region. The mission's status is currently To Be Confirmed
 * [NASA selects Axiom Space to develop Artemis spacesuit](https://spacenews.com/nasa-selects-axiom-space-to-develop-artemis-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T110105">2022-09-08 11:01:05 UTC</a></sub>
 * [Ariane 5 launches Konnect VHTS satellite for Eutelsat](https://spacenews.com/ariane-5-launches-konnect-vhts-satellite-for-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T102106">2022-09-08 10:21:06 UTC</a></sub>
 * [SpaceX, Firefly Aerospace targeting three rocket launches in two days](https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T071125">2022-09-08 07:11:25 UTC</a></sub>
+* [FCC to set five-year deadline for deorbiting LEO satellites](https://spacenews.com/fcc-to-set-five-year-deadline-for-deorbiting-leo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T030106">2022-09-08 03:01:06 UTC</a></sub>
 * [U.S.-French Earth science satellite ready to ship for December launch](https://spacenews.com/u-s-french-earth-science-satellite-ready-to-ship-for-december-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T231107">2022-09-07 23:11:07 UTC</a></sub>
-* [NASA to Discuss Status of Next Artemis I Moon Mission Launch Attempt](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-next-artemis-i-moon-mission-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T213100">2022-09-07 21:31:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T003706">2022-09-09 00:37:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T032507">2022-09-09 03:25:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
