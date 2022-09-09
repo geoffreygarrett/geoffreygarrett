@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Host National Space Council Meeting at Johnson Space Center](http://www.nasa.gov/press-release/nasa-to-host-national-space-council-meeting-at-johnson-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T130100">2022-09-09 13:01:00 UTC</a></sub>
 * [SpaceX to launch five spare Iridium satellites](https://spacenews.com/spacex-to-launch-five-spare-iridium-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T113107">2022-09-09 11:31:07 UTC</a></sub>
 * [Rocket Report: SLS launch targeted for late September, unique view of Falcon 9](https://arstechnica.com/science/2022/09/rocket-report-sls-launch-targeted-for-late-september-unique-view-of-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T110057">2022-09-09 11:00:57 UTC</a></sub>
 * [Private Chinese satellite internet firm GalaxySpace secures major new funding](https://spacenews.com/private-chinese-satellite-internet-firm-galaxyspace-secures-major-new-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T083108">2022-09-09 08:31:08 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA discusses path to SLS repairs as launch uncertainty looms for September, October](https://www.nasaspaceflight.com/2022/09/artemis-i-update-sept8/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T171252">2022-09-08 17:12:52 UTC</a></sub>
 * [Apple to be largest user of Globalstar’s satellite network for iPhone messaging](https://spacenews.com/apple-to-be-largest-user-of-globalstars-satellite-network-for-iphone-messaging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T132106">2022-09-08 13:21:06 UTC</a></sub>
 * [NASA selects Axiom Space to develop Artemis spacesuit](https://spacenews.com/nasa-selects-axiom-space-to-develop-artemis-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T110105">2022-09-08 11:01:05 UTC</a></sub>
-* [Ariane 5 launches Konnect VHTS satellite for Eutelsat](https://spacenews.com/ariane-5-launches-konnect-vhts-satellite-for-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T102106">2022-09-08 10:21:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T121220">2022-09-09 12:12:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T131244">2022-09-09 13:12:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
