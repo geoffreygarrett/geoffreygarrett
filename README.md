@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Maritime Launch Services breaks ground on Canada’s first orbital launch site](https://www.nasaspaceflight.com/2022/09/mls-spaceport-nova-scotia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T182926">2022-09-09 18:29:26 UTC</a></sub>
 * [HawkEye 360 plans new funding round as it positions to go public](https://spacenews.com/hawkeye-360-plans-new-funding-round-as-it-positions-to-go-public/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T165106">2022-09-09 16:51:06 UTC</a></sub>
 * [NASA to Host National Space Council Meeting at Johnson Space Center](http://www.nasa.gov/press-release/nasa-to-host-national-space-council-meeting-at-johnson-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T130100">2022-09-09 13:01:00 UTC</a></sub>
 * [SpaceX to launch five spare Iridium satellites](https://spacenews.com/spacex-to-launch-five-spare-iridium-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T113107">2022-09-09 11:31:07 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Solid rocket startup Adranos opens fuel-production facility in Indiana](https://spacenews.com/solid-rocket-fuel-startup-adranos-opens-fuel-production-facility-in-indiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T220106">2022-09-08 22:01:06 UTC</a></sub>
 * [Blue Canyon delivers first satellite bus for DARPA’s Blackjack constellation](https://spacenews.com/blue-canyon-delivers-first-satellite-bus-for-darpas-blackjack-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T195105">2022-09-08 19:51:05 UTC</a></sub>
 * [NASA discusses path to SLS repairs as launch uncertainty looms for September, October](https://www.nasaspaceflight.com/2022/09/artemis-i-update-sept8/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T171252">2022-09-08 17:12:52 UTC</a></sub>
-* [Apple to be largest user of Globalstar’s satellite network for iPhone messaging](https://spacenews.com/apple-to-be-largest-user-of-globalstars-satellite-network-for-iphone-messaging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T132106">2022-09-08 13:21:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T180805">2022-09-09 18:08:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T184708">2022-09-09 18:47:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
