@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. to introduce U.N. resolution on ASAT testing ban](https://spacenews.com/u-s-to-introduce-u-n-resolution-on-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T111109">2022-09-10 11:11:09 UTC</a></sub>
 * [Commerce and Defense Departments sign agreement on space traffic management cooperation](https://spacenews.com/commerce-and-defense-departments-sign-agreement-on-space-traffic-management-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T230108">2022-09-09 23:01:08 UTC</a></sub>
 * [SpaceX appeals FCC decision to reverse $885.5M Starlink subsidies](https://www.teslarati.com/spacex-appeals-fcc-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T223130">2022-09-09 22:31:30 UTC</a></sub>
 * [SeaDream Yacht Club first boutique travel line to deploy Starlink](https://www.teslarati.com/seadream-travel-line-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T215130">2022-09-09 21:51:30 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Host National Space Council Meeting at Johnson Space Center](http://www.nasa.gov/press-release/nasa-to-host-national-space-council-meeting-at-johnson-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T130100">2022-09-09 13:01:00 UTC</a></sub>
 * [SpaceX to launch five spare Iridium satellites](https://spacenews.com/spacex-to-launch-five-spare-iridium-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T113107">2022-09-09 11:31:07 UTC</a></sub>
 * [Rocket Report: SLS launch targeted for late September, unique view of Falcon 9](https://arstechnica.com/science/2022/09/rocket-report-sls-launch-targeted-for-late-september-unique-view-of-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T110057">2022-09-09 11:00:57 UTC</a></sub>
-* [Private Chinese satellite internet firm GalaxySpace secures major new funding](https://spacenews.com/private-chinese-satellite-internet-firm-galaxyspace-secures-major-new-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T083108">2022-09-09 08:31:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T110333">2022-09-10 11:03:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T113502">2022-09-10 11:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
