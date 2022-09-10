@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Sierra Space and U.S. military to explore using Dream Chaser for point-to-point cargo delivery](https://spacenews.com/sierra-space-and-u-s-military-to-explore-using-dream-chaser-for-point-to-point-cargo-delivery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T201105">2022-09-10 20:11:05 UTC</a></sub>
 * [SpaceX planning two weekend launches in Florida](https://spaceflightnow.com/2022/09/10/spacex-planning-two-weekend-launches-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T173104">2022-09-10 17:31:04 UTC</a></sub>
 * [SciTec wins $272 million Space Force contract for data analytics software](https://spacenews.com/scitec-wins-272-million-space-force-contract-for-data-analytics-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T115111">2022-09-10 11:51:11 UTC</a></sub>
 * [U.S. to introduce U.N. resolution on ASAT testing ban](https://spacenews.com/u-s-to-introduce-u-n-resolution-on-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T111109">2022-09-10 11:11:09 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Report: Ligado’s wireless network will interfere with Iridium and some GPS services](https://spacenews.com/report-ligados-wireless-network-will-interfere-with-iridium-and-some-gps-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T203109">2022-09-09 20:31:09 UTC</a></sub>
 * [Maritime Launch Services breaks ground on Canada’s first orbital launch site](https://www.nasaspaceflight.com/2022/09/mls-spaceport-nova-scotia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T182926">2022-09-09 18:29:26 UTC</a></sub>
 * [HawkEye 360 plans new funding round as it positions to go public](https://spacenews.com/hawkeye-360-plans-new-funding-round-as-it-positions-to-go-public/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T165106">2022-09-09 16:51:06 UTC</a></sub>
-* [NASA to Host National Space Council Meeting at Johnson Space Center](http://www.nasa.gov/press-release/nasa-to-host-national-space-council-meeting-at-johnson-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T130100">2022-09-09 13:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T200636">2022-09-10 20:06:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T203920">2022-09-10 20:39:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
