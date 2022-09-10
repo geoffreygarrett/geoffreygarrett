@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX planning two weekend launches in Florida](https://spaceflightnow.com/2022/09/10/spacex-planning-two-weekend-launches-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T173104">2022-09-10 17:31:04 UTC</a></sub>
 * [SciTec wins $272 million Space Force contract for data analytics software](https://spacenews.com/scitec-wins-272-million-space-force-contract-for-data-analytics-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T115111">2022-09-10 11:51:11 UTC</a></sub>
 * [U.S. to introduce U.N. resolution on ASAT testing ban](https://spacenews.com/u-s-to-introduce-u-n-resolution-on-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T111109">2022-09-10 11:11:09 UTC</a></sub>
 * [Commerce and Defense Departments sign agreement on space traffic management cooperation](https://spacenews.com/commerce-and-defense-departments-sign-agreement-on-space-traffic-management-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T230108">2022-09-09 23:01:08 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Maritime Launch Services breaks ground on Canada’s first orbital launch site](https://www.nasaspaceflight.com/2022/09/mls-spaceport-nova-scotia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T182926">2022-09-09 18:29:26 UTC</a></sub>
 * [HawkEye 360 plans new funding round as it positions to go public](https://spacenews.com/hawkeye-360-plans-new-funding-round-as-it-positions-to-go-public/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T165106">2022-09-09 16:51:06 UTC</a></sub>
 * [NASA to Host National Space Council Meeting at Johnson Space Center](http://www.nasa.gov/press-release/nasa-to-host-national-space-council-meeting-at-johnson-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T130100">2022-09-09 13:01:00 UTC</a></sub>
-* [SpaceX to launch five spare Iridium satellites](https://spacenews.com/spacex-to-launch-five-spare-iridium-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T113107">2022-09-09 11:31:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T171305">2022-09-10 17:13:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T174118">2022-09-10 17:41:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
