@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX ramps hiring for T-Mobile Starlink cell service partnership](https://www.teslarati.com/spacex-hiring-t-mobile-starlink-cell-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T231128">2022-09-10 23:11:28 UTC</a></sub>
 * [Watch live: Falcon 9 test-firing imminent at Cape Canaveral](https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211102">2022-09-10 21:11:02 UTC</a></sub>
 * [SpaceX to launch Starlink 4-2 mission with BlueWalker 3 rideshare](https://www.nasaspaceflight.com/2022/09/starlink-4-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211000">2022-09-10 21:10:00 UTC</a></sub>
 * [Sierra Space and U.S. military to explore using Dream Chaser for point-to-point cargo delivery](https://spacenews.com/sierra-space-and-u-s-military-to-explore-using-dream-chaser-for-point-to-point-cargo-delivery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T201105">2022-09-10 20:11:05 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Commerce and Defense Departments sign agreement on space traffic management cooperation](https://spacenews.com/commerce-and-defense-departments-sign-agreement-on-space-traffic-management-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T230108">2022-09-09 23:01:08 UTC</a></sub>
 * [SpaceX appeals FCC decision to reverse $885.5M Starlink subsidies](https://www.teslarati.com/spacex-appeals-fcc-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T223130">2022-09-09 22:31:30 UTC</a></sub>
 * [SeaDream Yacht Club first boutique travel line to deploy Starlink](https://www.teslarati.com/seadream-travel-line-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T215130">2022-09-09 21:51:30 UTC</a></sub>
-* [Report: Ligado’s wireless network will interfere with Iridium and some GPS services](https://spacenews.com/report-ligados-wireless-network-will-interfere-with-iridium-and-some-gps-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T203109">2022-09-09 20:31:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T230403">2022-09-10 23:04:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T234011">2022-09-10 23:40:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
