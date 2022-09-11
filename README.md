@@ -187,7 +187,7 @@ region. The mission's status is currently Go for Launch
 * [Watch live: Falcon 9 test-firing imminent at Cape Canaveral](https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211102">2022-09-10 21:11:02 UTC</a></sub>
 * [SpaceX launches Starlink 4-2 mission with BlueWalker 3 rideshare](https://www.nasaspaceflight.com/2022/09/starlink-4-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211000">2022-09-10 21:10:00 UTC</a></sub>
 * [Sierra Space and U.S. military to explore using Dream Chaser for point-to-point cargo delivery](https://spacenews.com/sierra-space-and-u-s-military-to-explore-using-dream-chaser-for-point-to-point-cargo-delivery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T201105">2022-09-10 20:11:05 UTC</a></sub>
-* [SpaceX planning two weekend launches in Florida](https://spaceflightnow.com/2022/09/10/spacex-planning-two-weekend-launches-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T173104">2022-09-10 17:31:04 UTC</a></sub>
+* [SpaceX planning next two Falcon 9 launches in Florida](https://spaceflightnow.com/2022/09/10/spacex-planning-two-weekend-launches-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T160102">2022-09-10 16:01:02 UTC</a></sub>
 * [SciTec wins $272 million Space Force contract for data analytics software](https://spacenews.com/scitec-wins-272-million-space-force-contract-for-data-analytics-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T115111">2022-09-10 11:51:11 UTC</a></sub>
 * [U.S. to introduce U.N. resolution on ASAT testing ban](https://spacenews.com/u-s-to-introduce-u-n-resolution-on-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T111109">2022-09-10 11:11:09 UTC</a></sub>
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T160712">2022-09-11 16:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T165350">2022-09-11 16:53:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
