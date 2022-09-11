@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [This should be the absolute peak of hurricane season—but it’s dead quiet out there](https://arstechnica.com/science/2022/09/this-should-be-the-absolute-peak-of-hurricane-season-but-its-dead-quiet-out-there/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T140145">2022-09-11 14:01:45 UTC</a></sub>
 * [CAPSTONE enters safe mode during trajectory correction maneuver](https://spacenews.com/capstone-enters-safe-mode-during-trajectory-correction-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T084111">2022-09-11 08:41:11 UTC</a></sub>
 * [SpaceX ramps hiring for T-Mobile Starlink cell service partnership](https://www.teslarati.com/spacex-hiring-t-mobile-starlink-cell-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T231128">2022-09-10 23:11:28 UTC</a></sub>
 * [Watch live: Falcon 9 test-firing imminent at Cape Canaveral](https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211102">2022-09-10 21:11:02 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SciTec wins $272 million Space Force contract for data analytics software](https://spacenews.com/scitec-wins-272-million-space-force-contract-for-data-analytics-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T115111">2022-09-10 11:51:11 UTC</a></sub>
 * [U.S. to introduce U.N. resolution on ASAT testing ban](https://spacenews.com/u-s-to-introduce-u-n-resolution-on-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T111109">2022-09-10 11:11:09 UTC</a></sub>
 * [SpaceX launches fleet-leading booster on 14th flight](https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-2-bluewalker-3-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T051102">2022-09-10 05:11:02 UTC</a></sub>
-* [Commerce and Defense Departments sign agreement on space traffic management cooperation](https://spacenews.com/commerce-and-defense-departments-sign-agreement-on-space-traffic-management-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T230108">2022-09-09 23:01:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T140309">2022-09-11 14:03:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T143625">2022-09-11 14:36:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
