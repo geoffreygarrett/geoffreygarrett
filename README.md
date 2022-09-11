@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CAPSTONE enters safe mode during trajectory correction maneuver](https://spacenews.com/capstone-enters-safe-mode-during-trajectory-correction-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T084111">2022-09-11 08:41:11 UTC</a></sub>
 * [SpaceX ramps hiring for T-Mobile Starlink cell service partnership](https://www.teslarati.com/spacex-hiring-t-mobile-starlink-cell-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T231128">2022-09-10 23:11:28 UTC</a></sub>
 * [Watch live: Falcon 9 test-firing imminent at Cape Canaveral](https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211102">2022-09-10 21:11:02 UTC</a></sub>
 * [SpaceX launches Starlink 4-2 mission with BlueWalker 3 rideshare](https://www.nasaspaceflight.com/2022/09/starlink-4-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211000">2022-09-10 21:10:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [U.S. to introduce U.N. resolution on ASAT testing ban](https://spacenews.com/u-s-to-introduce-u-n-resolution-on-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T111109">2022-09-10 11:11:09 UTC</a></sub>
 * [SpaceX launches fleet-leading booster on 14th flight](https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-2-bluewalker-3-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T051102">2022-09-10 05:11:02 UTC</a></sub>
 * [Commerce and Defense Departments sign agreement on space traffic management cooperation](https://spacenews.com/commerce-and-defense-departments-sign-agreement-on-space-traffic-management-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T230108">2022-09-09 23:01:08 UTC</a></sub>
-* [SpaceX appeals FCC decision to reverse $885.5M Starlink subsidies](https://www.teslarati.com/spacex-appeals-fcc-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T223130">2022-09-09 22:31:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T080758">2022-09-11 08:07:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T084318">2022-09-11 08:43:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
