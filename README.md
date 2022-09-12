@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ground teams trying to regain control of scouting satellite for NASA’s Artemis moon program](https://spaceflightnow.com/2022/09/12/ground-teams-trying-to-regain-control-of-scouting-satellite-for-nasas-artemis-moon-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T225102">2022-09-12 22:51:02 UTC</a></sub>
 * [Georgia, Illinois Students to Hear from Space Station Astronauts](http://www.nasa.gov/press-release/georgia-illinois-students-to-hear-from-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T221100">2022-09-12 22:11:00 UTC</a></sub>
 * [Eutelsat and OneWeb consider second-generation LEO plans](https://spacenews.com/eutelsat-and-oneweb-consider-second-generation-leo-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T170106">2022-09-12 17:01:06 UTC</a></sub>
 * [Blue Origin capsule escapes rocket failure on uncrewed flight over Texas](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T161101">2022-09-12 16:11:01 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [New Shepard suffers in-flight abort on uncrewed suborbital flight](https://spacenews.com/new-shepard-suffers-in-flight-abort-on-uncrewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T152108">2022-09-12 15:21:08 UTC</a></sub>
 * [Firefly stands down from second launch attempt due to weather](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T151632">2022-09-12 15:16:32 UTC</a></sub>
 * [Startups to test advanced computing technology on lunar missions](https://spacenews.com/lunar-computer-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T133106">2022-09-12 13:31:06 UTC</a></sub>
-* [Major operator consolidation is a long time coming](https://spacenews.com/major-operator-consolidation-is-a-long-time-coming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T132107">2022-09-12 13:21:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T230623">2022-09-12 23:06:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T234139">2022-09-12 23:41:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
