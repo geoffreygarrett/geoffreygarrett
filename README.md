@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [KT SAT orders Koreasat 6A communications satellite from Thales](https://spacenews.com/kt-sat-orders-koreasat-6a-communications-satellite-from-thales/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T070108">2022-09-12 07:01:08 UTC</a></sub>
 * [Photos: Firefly’s second Alpha rocket raised on launch pad](https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T211102">2022-09-11 21:11:02 UTC</a></sub>
 * [Firefly scrubs second Alpha demonstration flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T171632">2022-09-11 17:16:32 UTC</a></sub>
 * [Starlink keeps this former Tesla employee online in the desert](https://www.teslarati.com/starlink-former-tesla-employee-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T151128">2022-09-11 15:11:28 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Court approves sale of Masten assets to Astrobotic](https://spacenews.com/court-approves-sale-of-masten-assets-to-astrobotic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T040108">2022-09-11 04:01:08 UTC</a></sub>
 * [SpaceX ramps hiring for T-Mobile Starlink cell service partnership](https://www.teslarati.com/spacex-hiring-t-mobile-starlink-cell-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T231128">2022-09-10 23:11:28 UTC</a></sub>
 * [Watch live: Falcon 9 test-firing imminent at Cape Canaveral](https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211102">2022-09-10 21:11:02 UTC</a></sub>
-* [SpaceX launches Starlink 4-2 mission with BlueWalker 3 rideshare](https://www.nasaspaceflight.com/2022/09/starlink-4-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211000">2022-09-10 21:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T063843">2022-09-12 06:38:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T072939">2022-09-12 07:29:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
