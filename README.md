@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New Shepard suffers in-flight abort on uncrewed suborbital flight](https://spacenews.com/new-shepard-suffers-in-flight-abort-on-uncrewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T152108">2022-09-12 15:21:08 UTC</a></sub>
+* [Firefly aiming for orbit on second Alpha demonstration flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T151632">2022-09-12 15:16:32 UTC</a></sub>
 * [Startups to test advanced computing technology on lunar missions](https://spacenews.com/lunar-computer-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T133106">2022-09-12 13:31:06 UTC</a></sub>
 * [Major operator consolidation is a long time coming](https://spacenews.com/major-operator-consolidation-is-a-long-time-coming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T132107">2022-09-12 13:21:07 UTC</a></sub>
 * [Riding the consolidation wave](https://spacenews.com/riding-the-consolidation-wave/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T131107">2022-09-12 13:11:07 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [White House requests proposals for regulating novel commercial space activities](https://spacenews.com/white-house-requests-proposals-for-regulating-novel-commercial-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T104109">2022-09-12 10:41:09 UTC</a></sub>
 * [KT SAT orders Koreasat 6A communications satellite from Thales](https://spacenews.com/kt-sat-orders-koreasat-6a-communications-satellite-from-thales/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T070108">2022-09-12 07:01:08 UTC</a></sub>
 * [Photos: Firefly’s second Alpha rocket raised on launch pad](https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T211102">2022-09-11 21:11:02 UTC</a></sub>
-* [Firefly scrubs second Alpha demonstration flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T171632">2022-09-11 17:16:32 UTC</a></sub>
-* [Starlink keeps this former Tesla employee online in the desert](https://www.teslarati.com/starlink-former-tesla-employee-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T151128">2022-09-11 15:11:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T150656">2022-09-12 15:06:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T154552">2022-09-12 15:45:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
