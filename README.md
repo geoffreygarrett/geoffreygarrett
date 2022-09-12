@@ -186,11 +186,11 @@ region. The mission's status is currently Go for Launch
 * [Starlink keeps this former Tesla employee online in the desert](https://www.teslarati.com/starlink-former-tesla-employee-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T151128">2022-09-11 15:11:28 UTC</a></sub>
 * [This should be the absolute peak of hurricane season—but it’s dead quiet out there](https://arstechnica.com/science/2022/09/this-should-be-the-absolute-peak-of-hurricane-season-but-its-dead-quiet-out-there/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T140145">2022-09-11 14:01:45 UTC</a></sub>
 * [CAPSTONE enters safe mode during trajectory correction maneuver](https://spacenews.com/capstone-enters-safe-mode-during-trajectory-correction-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T084111">2022-09-11 08:41:11 UTC</a></sub>
+* [Court approves sale of Masten assets to Astrobotic](https://spacenews.com/court-approves-sale-of-masten-assets-to-astrobotic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T040108">2022-09-11 04:01:08 UTC</a></sub>
 * [SpaceX ramps hiring for T-Mobile Starlink cell service partnership](https://www.teslarati.com/spacex-hiring-t-mobile-starlink-cell-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T231128">2022-09-10 23:11:28 UTC</a></sub>
 * [Watch live: Falcon 9 test-firing imminent at Cape Canaveral](https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211102">2022-09-10 21:11:02 UTC</a></sub>
 * [SpaceX launches Starlink 4-2 mission with BlueWalker 3 rideshare](https://www.nasaspaceflight.com/2022/09/starlink-4-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211000">2022-09-10 21:10:00 UTC</a></sub>
 * [Sierra Space and U.S. military to explore using Dream Chaser for point-to-point cargo delivery](https://spacenews.com/sierra-space-and-u-s-military-to-explore-using-dream-chaser-for-point-to-point-cargo-delivery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T201105">2022-09-10 20:11:05 UTC</a></sub>
-* [Firefly’s second rocket set for launch from California](https://spaceflightnow.com/2022/09/10/fireflys-second-rocket-set-for-launch-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T190103">2022-09-10 19:01:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T034154">2022-09-12 03:41:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T052116">2022-09-12 05:21:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
