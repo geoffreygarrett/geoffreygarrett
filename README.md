@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [White House requests proposals for regulating novel commercial space activities](https://spacenews.com/white-house-requests-proposals-for-regulating-novel-commercial-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T104109">2022-09-12 10:41:09 UTC</a></sub>
 * [KT SAT orders Koreasat 6A communications satellite from Thales](https://spacenews.com/kt-sat-orders-koreasat-6a-communications-satellite-from-thales/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T070108">2022-09-12 07:01:08 UTC</a></sub>
 * [Photos: Firefly’s second Alpha rocket raised on launch pad](https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T211102">2022-09-11 21:11:02 UTC</a></sub>
 * [Firefly scrubs second Alpha demonstration flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T171632">2022-09-11 17:16:32 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches 52nd Falcon 9 rocket in 52 weeks](https://www.teslarati.com/spacex-52nd-falcon-9-rocket-52-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T053126">2022-09-11 05:31:26 UTC</a></sub>
 * [Court approves sale of Masten assets to Astrobotic](https://spacenews.com/court-approves-sale-of-masten-assets-to-astrobotic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T040108">2022-09-11 04:01:08 UTC</a></sub>
 * [SpaceX ramps hiring for T-Mobile Starlink cell service partnership](https://www.teslarati.com/spacex-hiring-t-mobile-starlink-cell-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T231128">2022-09-10 23:11:28 UTC</a></sub>
-* [Watch live: Falcon 9 test-firing imminent at Cape Canaveral](https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T211102">2022-09-10 21:11:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T100721">2022-09-12 10:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T104333">2022-09-12 10:43:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
