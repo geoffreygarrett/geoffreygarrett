@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Eutelsat and OneWeb consider second-generation LEO plans](https://spacenews.com/eutelsat-and-oneweb-consider-second-generation-leo-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T170106">2022-09-12 17:01:06 UTC</a></sub>
 * [Blue Origin capsule escapes rocket failure on uncrewed flight over Texas](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T161101">2022-09-12 16:11:01 UTC</a></sub>
 * [Six space companies join Techstars aerospace accelerator](https://spacenews.com/techstars-fall-2022-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T160108">2022-09-12 16:01:08 UTC</a></sub>
 * [NASA to Host Briefing on Perseverance Mars Rover Mission Operations](http://www.nasa.gov/press-release/nasa-to-host-briefing-on-perseverance-mars-rover-mission-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T155100">2022-09-12 15:51:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Startups to test advanced computing technology on lunar missions](https://spacenews.com/lunar-computer-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T133106">2022-09-12 13:31:06 UTC</a></sub>
 * [Major operator consolidation is a long time coming](https://spacenews.com/major-operator-consolidation-is-a-long-time-coming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T132107">2022-09-12 13:21:07 UTC</a></sub>
 * [Riding the consolidation wave](https://spacenews.com/riding-the-consolidation-wave/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T131107">2022-09-12 13:11:07 UTC</a></sub>
-* [Surging demand for satellite data services, Euroconsult forecast](https://spacenews.com/euroconsult-forecast-wsbw-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T110107">2022-09-12 11:01:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T172849">2022-09-12 17:28:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T174842">2022-09-12 17:48:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
