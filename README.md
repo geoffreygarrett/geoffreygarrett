@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Commercial Spaceflight Principles](https://www.planetary.org/space-policy/commercial-spaceflight-principles) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T190130">2022-09-12 19:01:30 UTC</a></sub>
 * [European Spaceflight Update - ArianeGroup boss throws shade](https://www.getrevue.co/profile/andrewparsonson/issues/arianegroup-boss-throws-shade-1343991) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T141137">2022-09-12 14:11:37 UTC</a></sub>
 * [A rose by any other name](https://www.planetary.org/articles/a-rose-by-any-other-name) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135132">2022-09-12 13:51:32 UTC</a></sub>
 * [Your impact: September equinox 2022](https://www.planetary.org/articles/your-impact-september-equinox-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135131">2022-09-12 13:51:31 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [Space rocks!](https://www.planetary.org/the-downlink/space-rocks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143204">2022-09-02 14:32:04 UTC</a></sub>
 * [Are planets with two stars promising places for life?](https://www.planetary.org/articles/habitability-of-planets-around-two-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T140202">2022-08-30 14:02:02 UTC</a></sub>
 * [European Spaceflight Update - Europe is going to the Moon aboard Artemis 1](https://www.getrevue.co/profile/andrewparsonson/issues/europe-is-going-to-the-moon-aboard-artemis-1-1322484) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T131223">2022-08-29 13:12:23 UTC</a></sub>
-* [It’s a team effort](https://www.planetary.org/the-downlink/its-a-team-effort) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T143145">2022-08-26 14:31:45 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T190720">2022-09-12 19:07:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T193420">2022-09-12 19:34:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
