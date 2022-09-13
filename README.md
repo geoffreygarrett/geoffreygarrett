@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Slingshot Aerospace rolls out free space-traffic control service](https://spacenews.com/slingshot-aerospace-rolls-out-free-space-traffic-control-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
+* [Speedcast nets first Starlink reseller deal for enterprise and maritime](https://spacenews.com/speedcast-nets-first-starlink-reseller-deal-for-enterprise-and-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
 * [Artemis 1 launch plans slip again](https://spacenews.com/artemis-1-launch-plans-slip-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T095105">2022-09-13 09:51:05 UTC</a></sub>
 * [Redwire and Sodern to cooperate on star tracker](https://spacenews.com/redwire-and-sodern-to-cooperate-on-star-tracker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T090110">2022-09-13 09:01:10 UTC</a></sub>
 * [ESA seeks major funding increase at ministerial](https://spacenews.com/esa-seeks-major-funding-increase-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T075106">2022-09-13 07:51:06 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Eutelsat and OneWeb consider second-generation LEO plans](https://spacenews.com/eutelsat-and-oneweb-consider-second-generation-leo-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T170106">2022-09-12 17:01:06 UTC</a></sub>
 * [Blue Origin capsule escapes rocket failure on uncrewed flight over Texas](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T161101">2022-09-12 16:11:01 UTC</a></sub>
 * [Six space companies join Techstars aerospace accelerator](https://spacenews.com/techstars-fall-2022-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T160108">2022-09-12 16:01:08 UTC</a></sub>
-* [NASA to Host Briefing on Perseverance Mars Rover Mission Operations](http://www.nasa.gov/press-release/nasa-to-host-briefing-on-perseverance-mars-rover-mission-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T155100">2022-09-12 15:51:00 UTC</a></sub>
-* [After Blue Origin’s rocket explodes, its spacecraft makes a dramatic escape](https://arstechnica.com/science/2022/09/blue-origin-rocket-explodes-on-ascent-but-spacecraft-escape-system-works-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T153952">2022-09-12 15:39:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T113653">2022-09-13 11:36:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T121338">2022-09-13 12:13:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
