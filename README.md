@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Funds Projects to Study Orbital Debris, Space Sustainability](http://www.nasa.gov/press-release/nasa-funds-projects-to-study-orbital-debris-space-sustainability) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T193100">2022-09-13 19:31:00 UTC</a></sub>
 * [Space Force nominee sees growing threats to U.S. satellites from rival powers](https://spacenews.com/space-force-nominee-sees-growing-threats-to-u-s-satellites-from-rival-powers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T175106">2022-09-13 17:51:06 UTC</a></sub>
 * [Starlink Group 4-34 mission to complete SpaceX doubleheader](https://www.nasaspaceflight.com/2022/09/starlink-4-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T174941">2022-09-13 17:49:41 UTC</a></sub>
 * [Arianespace and OneWeb reach settlement for suspended launches](https://spacenews.com/arianespace-and-oneweb-reach-settlement-for-suspended-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T172104">2022-09-13 17:21:04 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Competition is growing in the space-data-relay sector](https://spacenews.com/data-relay-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T123105">2022-09-13 12:31:05 UTC</a></sub>
 * [Speedcast nets first Starlink reseller deal for enterprise and maritime](https://spacenews.com/speedcast-nets-first-starlink-reseller-deal-for-enterprise-and-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
 * [Slingshot Aerospace rolls out free space-traffic control service](https://spacenews.com/slingshot-aerospace-rolls-out-free-space-traffic-control-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
-* [Artemis 1 launch plans slip again](https://spacenews.com/artemis-1-launch-plans-slip-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T095105">2022-09-13 09:51:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T190608">2022-09-13 19:06:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T193345">2022-09-13 19:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
