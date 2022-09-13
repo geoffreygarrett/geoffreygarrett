@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [As summer turns to fall, ULA still waiting for its BE-4 rocket engines](https://arstechnica.com/science/2022/09/as-summer-turns-to-fall-ula-still-waiting-for-its-be-4-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T132903">2022-09-13 13:29:03 UTC</a></sub>
 * [Competition is growing in the space-data-relay sector](https://spacenews.com/data-relay-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T123105">2022-09-13 12:31:05 UTC</a></sub>
 * [Speedcast nets first Starlink reseller deal for enterprise and maritime](https://spacenews.com/speedcast-nets-first-starlink-reseller-deal-for-enterprise-and-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
 * [Slingshot Aerospace rolls out free space-traffic control service](https://spacenews.com/slingshot-aerospace-rolls-out-free-space-traffic-control-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Ground teams trying to regain control of scouting satellite for NASA’s Artemis moon program](https://spaceflightnow.com/2022/09/12/ground-teams-trying-to-regain-control-of-scouting-satellite-for-nasas-artemis-moon-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T225102">2022-09-12 22:51:02 UTC</a></sub>
 * [Georgia, Illinois Students to Hear from Space Station Astronauts](http://www.nasa.gov/press-release/georgia-illinois-students-to-hear-from-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T221100">2022-09-12 22:11:00 UTC</a></sub>
 * [Eutelsat and OneWeb consider second-generation LEO plans](https://spacenews.com/eutelsat-and-oneweb-consider-second-generation-leo-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T170106">2022-09-12 17:01:06 UTC</a></sub>
-* [Blue Origin capsule escapes rocket failure on uncrewed flight over Texas](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T161101">2022-09-12 16:11:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -199,6 +199,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What Cassini continues to reveal about Saturn](https://www.planetary.org/articles/cassini-continues-to-reveal-saturn) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T140127">2022-09-13 14:01:27 UTC</a></sub>
 * [Commercial Spaceflight Principles](https://www.planetary.org/space-policy/commercial-spaceflight-principles) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T190130">2022-09-12 19:01:30 UTC</a></sub>
 * [European Spaceflight Update - ArianeGroup boss throws shade](https://www.getrevue.co/profile/andrewparsonson/issues/arianegroup-boss-throws-shade-1343991) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T141137">2022-09-12 14:11:37 UTC</a></sub>
 * [A rose by any other name](https://www.planetary.org/articles/a-rose-by-any-other-name) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135132">2022-09-12 13:51:32 UTC</a></sub>
@@ -208,7 +209,6 @@ region. The mission's status is currently Go for Launch
 * [European Spaceflight Update - Let’s talk about Isar Aerospace ](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-isar-aerospace-1332931) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T144234">2022-09-05 14:42:34 UTC</a></sub>
 * [Space rocks!](https://www.planetary.org/the-downlink/space-rocks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143204">2022-09-02 14:32:04 UTC</a></sub>
 * [Are planets with two stars promising places for life?](https://www.planetary.org/articles/habitability-of-planets-around-two-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T140202">2022-08-30 14:02:02 UTC</a></sub>
-* [European Spaceflight Update - Europe is going to the Moon aboard Artemis 1](https://www.getrevue.co/profile/andrewparsonson/issues/europe-is-going-to-the-moon-aboard-artemis-1-1322484) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T131223">2022-08-29 13:12:23 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T131430">2022-09-13 13:14:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T140336">2022-09-13 14:03:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
