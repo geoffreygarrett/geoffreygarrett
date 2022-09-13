@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Wireless communications startup repurposes technology from Google’s balloon internet project](https://spacenews.com/wireless-communications-startup-repurposes-technology-from-googles-balloon-internet-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T211105">2022-09-13 21:11:05 UTC</a></sub>
 * [How Starlink & T-Mobile’s partnership will impact 5G for the better for AI cameras](https://www.teslarati.com/starlink-t-mobile-5g-ai-cameras/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T194132">2022-09-13 19:41:32 UTC</a></sub>
 * [NASA Funds Projects to Study Orbital Debris, Space Sustainability](http://www.nasa.gov/press-release/nasa-funds-projects-to-study-orbital-debris-space-sustainability) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T193100">2022-09-13 19:31:00 UTC</a></sub>
 * [Space Force nominee sees growing threats to U.S. satellites from rival powers](https://spacenews.com/space-force-nominee-sees-growing-threats-to-u-s-satellites-from-rival-powers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T175106">2022-09-13 17:51:06 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [China launches Zhongxing-1E military communications satellite](https://spacenews.com/china-launches-zhongxing-1e-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T155104">2022-09-13 15:51:04 UTC</a></sub>
 * [As summer turns to fall, ULA still waiting for its BE-4 rocket engines](https://arstechnica.com/science/2022/09/as-summer-turns-to-fall-ula-still-waiting-for-its-be-4-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T132903">2022-09-13 13:29:03 UTC</a></sub>
 * [Competition is growing in the space-data-relay sector](https://spacenews.com/data-relay-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T123105">2022-09-13 12:31:05 UTC</a></sub>
-* [Speedcast nets first Starlink reseller deal for enterprise and maritime](https://spacenews.com/speedcast-nets-first-starlink-reseller-deal-for-enterprise-and-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T210508">2022-09-13 21:05:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T213823">2022-09-13 21:38:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
