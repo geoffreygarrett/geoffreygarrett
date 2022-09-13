@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Long March 7A | Unknown Payload at the
-<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">201</a> in
-Wenchang Satellite Launch Center, People's Republic of China
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T130800">2022-09-13 13:08:00 UTC</a>. Until
-then, this launch pad will have seen 4
-out of 18 launches in this
+Falcon 9 Block 5 | Starlink Group 4-34 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T021000">2022-09-14 02:10:00 UTC</a>. Until
+then, this launch pad will have seen 152
+out of 856 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  
+  A batch of 54 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=19.614354,110.948863" >
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T130800">2022-09-13 13:08:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220913T130800Z%2F20220913T142300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-34</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T021000">2022-09-14 02:10:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-34&location=Cape Canaveral, FL, USA&dates=20220914T021000Z%2F20220914T021000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>The Owl Spreads Its Wings</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T203000">2022-09-14 20:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Owl Spreads Its Wings&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220914T203000Z%2F20220914T204500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-35</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T000000">2022-09-19 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-35&location=Cape Canaveral, FL, USA&dates=20220919T000000Z%2F20220919T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,8 +179,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Slingshot Aerospace rolls out free space-traffic control service](https://spacenews.com/slingshot-aerospace-rolls-out-free-space-traffic-control-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
+* [Competition is growing in the space-data-relay sector](https://spacenews.com/data-relay-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T123105">2022-09-13 12:31:05 UTC</a></sub>
 * [Speedcast nets first Starlink reseller deal for enterprise and maritime](https://spacenews.com/speedcast-nets-first-starlink-reseller-deal-for-enterprise-and-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
+* [Slingshot Aerospace rolls out free space-traffic control service](https://spacenews.com/slingshot-aerospace-rolls-out-free-space-traffic-control-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
 * [Artemis 1 launch plans slip again](https://spacenews.com/artemis-1-launch-plans-slip-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T095105">2022-09-13 09:51:05 UTC</a></sub>
 * [Redwire and Sodern to cooperate on star tracker](https://spacenews.com/redwire-and-sodern-to-cooperate-on-star-tracker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T090110">2022-09-13 09:01:10 UTC</a></sub>
 * [ESA seeks major funding increase at ministerial](https://spacenews.com/esa-seeks-major-funding-increase-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T075106">2022-09-13 07:51:06 UTC</a></sub>
@@ -189,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Georgia, Illinois Students to Hear from Space Station Astronauts](http://www.nasa.gov/press-release/georgia-illinois-students-to-hear-from-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T221100">2022-09-12 22:11:00 UTC</a></sub>
 * [Eutelsat and OneWeb consider second-generation LEO plans](https://spacenews.com/eutelsat-and-oneweb-consider-second-generation-leo-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T170106">2022-09-12 17:01:06 UTC</a></sub>
 * [Blue Origin capsule escapes rocket failure on uncrewed flight over Texas](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T161101">2022-09-12 16:11:01 UTC</a></sub>
-* [Six space companies join Techstars aerospace accelerator](https://spacenews.com/techstars-fall-2022-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T160108">2022-09-12 16:01:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T121338">2022-09-13 12:13:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T131430">2022-09-13 13:14:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
