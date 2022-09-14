@@ -135,6 +135,7 @@ region. The mission's status is currently Go for Launch
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T220000">2022-09-26 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20220926T220000Z%2F20220927T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b><name missing></b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T000000">2022-09-29 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0&location=Vandenberg SFB, CA, USA&dates=20220929T000000Z%2F20220929T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T000000">2022-09-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Maiden Flight&location=Cape Canaveral, FL, USA&dates=20220930T000000Z%2F20220930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-29</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T000000">2022-09-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-29&location=Vandenberg SFB, CA, USA&dates=20220930T000000Z%2F20220930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -180,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [AST SpaceMobile secures communications with prototype](https://spacenews.com/ast-spacemobile-secures-communications-with-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T140106">2022-09-14 14:01:06 UTC</a></sub>
 * [Japan, Germany declare moratorium on anti-satellite missile tests](https://spacenews.com/japan-germany-declare-moratorium-on-anti-satellite-missile-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T131104">2022-09-14 13:11:04 UTC</a></sub>
 * [Morpheus Space raises $28 million in Series A round](https://spacenews.com/morpheus-series-a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T130105">2022-09-14 13:01:05 UTC</a></sub>
 * [NASA science head to step down](https://spacenews.com/nasa-science-head-to-step-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T115106">2022-09-14 11:51:06 UTC</a></sub>
@@ -189,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Wireless communications startup repurposes technology from Google’s balloon internet project](https://spacenews.com/wireless-communications-startup-repurposes-technology-from-googles-balloon-internet-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T211105">2022-09-13 21:11:05 UTC</a></sub>
 * [How Starlink & T-Mobile’s partnership will impact 5G for the better for AI cameras](https://www.teslarati.com/starlink-t-mobile-5g-ai-cameras/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T194132">2022-09-13 19:41:32 UTC</a></sub>
 * [NASA Funds Projects to Study Orbital Debris, Space Sustainability](http://www.nasa.gov/press-release/nasa-funds-projects-to-study-orbital-debris-space-sustainability) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T193100">2022-09-13 19:31:00 UTC</a></sub>
-* [Space Force nominee sees growing threats to U.S. satellites from rival powers](https://spacenews.com/space-force-nominee-sees-growing-threats-to-u-s-satellites-from-rival-powers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T175106">2022-09-13 17:51:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T131533">2022-09-14 13:15:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T140436">2022-09-14 14:04:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
