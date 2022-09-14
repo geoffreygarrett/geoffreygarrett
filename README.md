@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin says still “super early” into New Shepard launch failure investigation](https://spacenews.com/blue-origin-says-still-super-early-into-new-shepard-launch-failure-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T084108">2022-09-14 08:41:08 UTC</a></sub>
 * [Iceye and Satlantis propose optical and radar satellite constellation](https://spacenews.com/iceye-satlantis-tandem4eo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T073108">2022-09-14 07:31:08 UTC</a></sub>
 * [Investors take long-term view of space industry amid near-term challenges](https://spacenews.com/investors-take-long-term-view-of-space-industry-amid-near-term-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T042105">2022-09-14 04:21:05 UTC</a></sub>
 * [Wireless communications startup repurposes technology from Google’s balloon internet project](https://spacenews.com/wireless-communications-startup-repurposes-technology-from-googles-balloon-internet-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T211105">2022-09-13 21:11:05 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Weather delays Starlink Group 4-34 mission](https://www.nasaspaceflight.com/2022/09/starlink-4-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T174941">2022-09-13 17:49:41 UTC</a></sub>
 * [Arianespace and OneWeb reach settlement for suspended launches](https://spacenews.com/arianespace-and-oneweb-reach-settlement-for-suspended-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T172104">2022-09-13 17:21:04 UTC</a></sub>
 * [NASA Announces Pending Departure of Science Associate Administrator](http://www.nasa.gov/press-release/nasa-announces-pending-departure-of-science-associate-administrator) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T170100">2022-09-13 17:01:00 UTC</a></sub>
-* [China launches Zhongxing-1E military communications satellite](https://spacenews.com/china-launches-zhongxing-1e-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T155104">2022-09-13 15:51:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T080850">2022-09-14 08:08:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T084752">2022-09-14 08:47:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
