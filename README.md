@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Development Agency’s first launch slips due to supply chain setbacks](https://spacenews.com/space-development-agencys-first-launch-slips-due-to-supply-chain-setbacks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T185105">2022-09-14 18:51:05 UTC</a></sub>
 * [Starship vehicles move to next phase of testing despite issues](https://www.nasaspaceflight.com/2022/09/starship-next-phase-of-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T164616">2022-09-14 16:46:16 UTC</a></sub>
 * [Microsoft continues expanding Azure Space](https://spacenews.com/microsoft-azure-wsbw-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T152105">2022-09-14 15:21:05 UTC</a></sub>
 * [Bandwidth-hungry regional satellite operators hunting for options](https://spacenews.com/bandwidth-hungry-regional-satellite-operators-hunting-for-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T142105">2022-09-14 14:21:05 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA science head to step down](https://spacenews.com/nasa-science-head-to-step-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T115106">2022-09-14 11:51:06 UTC</a></sub>
 * [Blue Origin says still “super early” into New Shepard launch failure investigation](https://spacenews.com/blue-origin-says-still-super-early-into-new-shepard-launch-failure-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T084108">2022-09-14 08:41:08 UTC</a></sub>
 * [Iceye and Satlantis propose optical and radar satellite constellation](https://spacenews.com/iceye-satlantis-tandem4eo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T073108">2022-09-14 07:31:08 UTC</a></sub>
-* [Investors take long-term view of space industry amid near-term challenges](https://spacenews.com/investors-take-long-term-view-of-space-industry-amid-near-term-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T042105">2022-09-14 04:21:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T190718">2022-09-14 19:07:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T193420">2022-09-14 19:34:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
