@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. weighing options to compensate commercial companies if satellites are attacked](https://spacenews.com/u-s-weighing-options-to-compensate-commercial-companies-if-satellites-are-attacked/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T225009">2022-09-15 22:50:09 UTC</a></sub>
 * [Satellite operators weigh strategies for an industry in transformation](https://spacenews.com/satellite-operators-weigh-strategies-for-an-industry-in-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T164009">2022-09-15 16:40:09 UTC</a></sub>
 * [Rocket Lab launches “The Owl Spreads Its Wings” mission](https://www.nasaspaceflight.com/2022/09/the-owl-spreads-its-wings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T155201">2022-09-15 15:52:01 UTC</a></sub>
 * [NASA's Perseverance Rover Investigates Geologically Rich Mars Terrain](https://mars.nasa.gov/news/9261/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T155000">2022-09-15 15:50:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA requests proposals for two ISS private astronaut missions](https://spacenews.com/nasa-requests-proposals-for-two-iss-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T104009">2022-09-15 10:40:09 UTC</a></sub>
 * [Vast Space to develop artificial-gravity space station](https://spacenews.com/vast-space-intro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T085009">2022-09-15 08:50:09 UTC</a></sub>
 * [New launch vehicles inch towards the pad](https://spacenews.com/new-launch-vehicles-inch-towards-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T083010">2022-09-15 08:30:10 UTC</a></sub>
-* [Telespazio signs European distribution deal for NorthStar’s SSA data](https://spacenews.com/telespazio-signs-european-distribution-deal-for-northstars-ssa-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T075012">2022-09-15 07:50:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T230707">2022-09-15 23:07:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T234216">2022-09-15 23:42:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
