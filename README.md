@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satlantis orders OHB Sweden satellites for multispectral mission](https://spacenews.com/satlantis-orders-ohb-sweden-satellites-for-multispectral-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T110015">2022-09-15 11:00:15 UTC</a></sub>
 * [NASA requests proposals for two ISS private astronaut missions](https://spacenews.com/nasa-requests-proposals-for-two-iss-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T104009">2022-09-15 10:40:09 UTC</a></sub>
 * [Vast Space to develop artificial-gravity space station](https://spacenews.com/vast-space-intro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T085009">2022-09-15 08:50:09 UTC</a></sub>
 * [New launch vehicles inch towards the pad](https://spacenews.com/new-launch-vehicles-inch-towards-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T083010">2022-09-15 08:30:10 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Microsoft continues expanding Azure Space](https://spacenews.com/microsoft-azure-wsbw-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T152105">2022-09-14 15:21:05 UTC</a></sub>
 * [Bandwidth-hungry regional satellite operators hunting for options](https://spacenews.com/bandwidth-hungry-regional-satellite-operators-hunting-for-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T142105">2022-09-14 14:21:05 UTC</a></sub>
 * [AST SpaceMobile secures communications with prototype](https://spacenews.com/ast-spacemobile-secures-communications-with-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T140106">2022-09-14 14:01:06 UTC</a></sub>
-* [Japan, Germany declare moratorium on anti-satellite missile tests](https://spacenews.com/japan-germany-declare-moratorium-on-anti-satellite-missile-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T131104">2022-09-14 13:11:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T110426">2022-09-15 11:04:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T113649">2022-09-15 11:36:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
