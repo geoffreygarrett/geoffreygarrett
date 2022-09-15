@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA requests proposals for two ISS private astronaut missions](https://spacenews.com/nasa-requests-proposals-for-two-iss-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T104009">2022-09-15 10:40:09 UTC</a></sub>
 * [Vast Space to develop artificial-gravity space station](https://spacenews.com/vast-space-intro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T085009">2022-09-15 08:50:09 UTC</a></sub>
 * [New launch vehicles inch towards the pad](https://spacenews.com/new-launch-vehicles-inch-towards-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T083010">2022-09-15 08:30:10 UTC</a></sub>
 * [Telespazio signs European distribution deal for NorthStar’s SSA data](https://spacenews.com/telespazio-signs-european-distribution-deal-for-northstars-ssa-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T075012">2022-09-15 07:50:12 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Bandwidth-hungry regional satellite operators hunting for options](https://spacenews.com/bandwidth-hungry-regional-satellite-operators-hunting-for-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T142105">2022-09-14 14:21:05 UTC</a></sub>
 * [AST SpaceMobile secures communications with prototype](https://spacenews.com/ast-spacemobile-secures-communications-with-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T140106">2022-09-14 14:01:06 UTC</a></sub>
 * [Japan, Germany declare moratorium on anti-satellite missile tests](https://spacenews.com/japan-germany-declare-moratorium-on-anti-satellite-missile-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T131104">2022-09-14 13:11:04 UTC</a></sub>
-* [Morpheus Space raises $28 million in Series A round](https://spacenews.com/morpheus-series-a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T130105">2022-09-14 13:01:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T100705">2022-09-15 10:07:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T104320">2022-09-15 10:43:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
