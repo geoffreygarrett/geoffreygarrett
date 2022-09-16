@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EarthDaily constellation built for change-detection analysis](https://spacenews.com/earthdaily-analytics-wsbw/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T102008">2022-09-16 10:20:08 UTC</a></sub>
 * [Congress asks for more transparency into New Shepard failure investigation](https://spacenews.com/congress-asks-for-more-transparency-into-new-shepard-failure-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T092009">2022-09-16 09:20:09 UTC</a></sub>
 * [SpaceX rolls out “high-performance” satellite internet for residential users](https://www.teslarati.com/spacex-high-performance-internet-residential-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T082029">2022-09-16 08:20:29 UTC</a></sub>
 * [Rocket Lab launches Japanese radar imaging satellite on 30th Electron mission](https://spacenews.com/rocket-lab-launches-japanese-radar-imaging-satellite-on-30th-electron-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T062009">2022-09-16 06:20:09 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA's Perseverance Rover Investigates Geologically Rich Mars Terrain](https://mars.nasa.gov/news/9261/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T155000">2022-09-15 15:50:00 UTC</a></sub>
 * [NASA’s Perseverance Rover Investigates Geologically Rich Mars Terrain](http://www.nasa.gov/press-release/nasa-s-perseverance-rover-investigates-geologically-rich-mars-terrain) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T153000">2022-09-15 15:30:00 UTC</a></sub>
 * [GHGSat taps Spire to expand greenhouse gas monitoring constellation](https://spacenews.com/ghgsat-taps-spire-to-expand-greenhouse-gas-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T134010">2022-09-15 13:40:10 UTC</a></sub>
-* [Satlantis orders OHB Sweden satellites for multispectral mission](https://spacenews.com/satlantis-orders-ohb-sweden-satellites-for-multispectral-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T110015">2022-09-15 11:00:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T100706">2022-09-16 10:07:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T104539">2022-09-16 10:45:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
