@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Viasat’s Inmarsat acquisition clears UK national security review](https://spacenews.com/viasats-inmarsat-acquisition-clears-uk-national-security-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T143011">2022-09-16 14:30:11 UTC</a></sub>
 * [Satellite radar startups spar over commercial market importance](https://spacenews.com/satellite-radar-startups-spar-over-commercial-market-importance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T131009">2022-09-16 13:10:09 UTC</a></sub>
 * [In a bid to expand its Moon business, Intuitive Machines will go public](https://arstechnica.com/science/2022/09/in-a-bid-to-expand-its-moon-business-intuitive-machines-will-go-public/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T121744">2022-09-16 12:17:44 UTC</a></sub>
 * [Intuitive Machines to go public in SPAC merger](https://spacenews.com/intuitive-machines-to-go-public-in-spac-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T115009">2022-09-16 11:50:09 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX rolls out “high-performance” satellite internet for residential users](https://www.teslarati.com/spacex-high-performance-internet-residential-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T082029">2022-09-16 08:20:29 UTC</a></sub>
 * [Rocket Lab launches Japanese radar imaging satellite on 30th Electron mission](https://spacenews.com/rocket-lab-launches-japanese-radar-imaging-satellite-on-30th-electron-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T062009">2022-09-16 06:20:09 UTC</a></sub>
 * [U.S. weighing options to compensate commercial companies if satellites are attacked](https://spacenews.com/u-s-weighing-options-to-compensate-commercial-companies-if-satellites-are-attacked/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T225009">2022-09-15 22:50:09 UTC</a></sub>
-* [Satellite operators weigh strategies for an industry in transformation](https://spacenews.com/satellite-operators-weigh-strategies-for-an-industry-in-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T164009">2022-09-15 16:40:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Outer worlds and outstanding science](https://www.planetary.org/the-downlink/outer-worlds-and-outstanding-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T143029">2022-09-16 14:30:29 UTC</a></sub>
 * [Tianwen-3: China’s Mars sample return mission](https://www.planetary.org/articles/tianwen-3-china-mars-sample-return-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T140029">2022-09-15 14:00:29 UTC</a></sub>
 * [What Cassini continues to reveal about Saturn](https://www.planetary.org/articles/cassini-continues-to-reveal-saturn) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T140127">2022-09-13 14:01:27 UTC</a></sub>
 * [Commercial Spaceflight Principles](https://www.planetary.org/space-policy/commercial-spaceflight-principles) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T190130">2022-09-12 19:01:30 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [Patience for Uranus](https://www.planetary.org/articles/patience-for-uranus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135129">2022-09-12 13:51:29 UTC</a></sub>
 * [Stars in the making](https://www.planetary.org/the-downlink/stars-in-the-making) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T143131">2022-09-09 14:31:31 UTC</a></sub>
 * [European Spaceflight Update - Let’s talk about Isar Aerospace ](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-isar-aerospace-1332931) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T144234">2022-09-05 14:42:34 UTC</a></sub>
-* [Space rocks!](https://www.planetary.org/the-downlink/space-rocks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143204">2022-09-02 14:32:04 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T140505">2022-09-16 14:05:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T144550">2022-09-16 14:45:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
