@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New tri-agency office to coordinate U.S. missile-defense space programs](https://spacenews.com/new-tri-agency-office-to-coordinate-u-s-missile-defense-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T223021">2022-09-16 22:30:21 UTC</a></sub>
+* [NASA Sets TV Coverage for Crewed Soyuz Mission to Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-crewed-soyuz-mission-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T214000">2022-09-16 21:40:00 UTC</a></sub>
 * [NASA Pursues Astronaut Lunar Landers for Future Artemis Moon Missions](http://www.nasa.gov/press-release/nasa-pursues-astronaut-lunar-landers-for-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T203000">2022-09-16 20:30:00 UTC</a></sub>
 * [NASA to Televise Artemis I Demonstration Test, Host Media Call](http://www.nasa.gov/press-release/nasa-to-televise-artemis-i-demonstration-test-host-media-call) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T192000">2022-09-16 19:20:00 UTC</a></sub>
 * [SpaceX and NASA in final preparations for Crew-5 mission](https://www.nasaspaceflight.com/2022/09/crew-5-preperations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T151312">2022-09-16 15:13:12 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [In a bid to expand its Moon business, Intuitive Machines will go public](https://arstechnica.com/science/2022/09/in-a-bid-to-expand-its-moon-business-intuitive-machines-will-go-public/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T121744">2022-09-16 12:17:44 UTC</a></sub>
 * [Intuitive Machines to go public in SPAC merger](https://spacenews.com/intuitive-machines-to-go-public-in-spac-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T115009">2022-09-16 11:50:09 UTC</a></sub>
 * [PLD Space completes static-fire tests of Miura 1](https://spacenews.com/pld-space-completes-static-fire-tests-of-miura-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T105010">2022-09-16 10:50:10 UTC</a></sub>
-* [EarthDaily constellation built for change-detection analysis](https://spacenews.com/earthdaily-analytics-wsbw/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T102008">2022-09-16 10:20:08 UTC</a></sub>
-* [Congress asks for more transparency into New Shepard failure investigation](https://spacenews.com/congress-asks-for-more-transparency-into-new-shepard-failure-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T092009">2022-09-16 09:20:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T220626">2022-09-16 22:06:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T224203">2022-09-16 22:42:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
