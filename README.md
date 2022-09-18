@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hubble and VLT discover spiraling structure of young stars, hints at star formation in early universe](https://www.nasaspaceflight.com/2022/09/ngc-346-spiral/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T164504">2022-09-18 16:45:04 UTC</a></sub>
 * [Private industry aims to fill demand for space threat intelligence](https://spacenews.com/private-industry-aims-to-fill-demand-for-space-threat-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T141009">2022-09-18 14:10:09 UTC</a></sub>
 * [Shanghai rocket maker considering developing huge methane-fueled rockets](https://spacenews.com/shanghai-rocket-maker-considering-developing-huge-methane-fueled-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T123011">2022-09-18 12:30:11 UTC</a></sub>
 * [NASA requests proposal for second Artemis crewed lunar lander](https://spacenews.com/nasa-requests-proposal-for-second-artemis-crewed-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T111010">2022-09-18 11:10:10 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Televise Artemis I Demonstration Test, Host Media Call](http://www.nasa.gov/press-release/nasa-to-televise-artemis-i-demonstration-test-host-media-call) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T192000">2022-09-16 19:20:00 UTC</a></sub>
 * [SpaceX and NASA in final preparations for Crew-5 mission](https://www.nasaspaceflight.com/2022/09/crew-5-preperations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T151312">2022-09-16 15:13:12 UTC</a></sub>
 * [Viasat’s Inmarsat acquisition clears UK national security review](https://spacenews.com/viasats-inmarsat-acquisition-clears-uk-national-security-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T143011">2022-09-16 14:30:11 UTC</a></sub>
-* [Satellite radar startups spar over commercial market importance](https://spacenews.com/satellite-radar-startups-spar-over-commercial-market-importance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T131009">2022-09-16 13:10:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T160711">2022-09-18 16:07:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T165438">2022-09-18 16:54:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
