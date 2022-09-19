@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [European Spaceflight Update - How not to handle safety concerns](https://www.getrevue.co/profile/andrewparsonson/issues/how-not-to-handle-safety-concerns-1357358) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T143042">2022-09-19 14:30:42 UTC</a></sub>
 * [NROL-91: Delta IV Heavy readied for Vandenberg launch](https://blog.ulalaunch.com/blog/nrol-91-delta-iv-heavy-readied-for-vandenberg-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T204044">2022-09-16 20:40:44 UTC</a></sub>
 * [Outer worlds and outstanding science](https://www.planetary.org/the-downlink/outer-worlds-and-outstanding-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T143029">2022-09-16 14:30:29 UTC</a></sub>
 * [Tianwen-3: China’s Mars sample return mission](https://www.planetary.org/articles/tianwen-3-china-mars-sample-return-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T140029">2022-09-15 14:00:29 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [A rose by any other name](https://www.planetary.org/articles/a-rose-by-any-other-name) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135132">2022-09-12 13:51:32 UTC</a></sub>
 * [Your impact: September equinox 2022](https://www.planetary.org/articles/your-impact-september-equinox-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135131">2022-09-12 13:51:31 UTC</a></sub>
 * [Patience for Uranus](https://www.planetary.org/articles/patience-for-uranus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135129">2022-09-12 13:51:29 UTC</a></sub>
-* [Stars in the making](https://www.planetary.org/the-downlink/stars-in-the-making) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T143131">2022-09-09 14:31:31 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T140522">2022-09-19 14:05:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T144445">2022-09-19 14:44:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
