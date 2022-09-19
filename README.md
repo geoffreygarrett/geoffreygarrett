@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink Group 4-34 mission finally lifts off after weather delays](https://www.nasaspaceflight.com/2022/09/starlink-4-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T234941">2022-09-18 23:49:41 UTC</a></sub>
 * [Hubble and VLT discover spiraling structure of young stars, hints at star formation in early universe](https://www.nasaspaceflight.com/2022/09/ngc-346-spiral/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T164504">2022-09-18 16:45:04 UTC</a></sub>
 * [Private industry aims to fill demand for space threat intelligence](https://spacenews.com/private-industry-aims-to-fill-demand-for-space-threat-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T141009">2022-09-18 14:10:09 UTC</a></sub>
 * [Shanghai rocket maker considering developing huge methane-fueled rockets](https://spacenews.com/shanghai-rocket-maker-considering-developing-huge-methane-fueled-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T123011">2022-09-18 12:30:11 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Sets TV Coverage for Crewed Soyuz Mission to Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-crewed-soyuz-mission-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T214000">2022-09-16 21:40:00 UTC</a></sub>
 * [NASA Pursues Astronaut Lunar Landers for Future Artemis Moon Missions](http://www.nasa.gov/press-release/nasa-pursues-astronaut-lunar-landers-for-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T203000">2022-09-16 20:30:00 UTC</a></sub>
 * [NASA to Televise Artemis I Demonstration Test, Host Media Call](http://www.nasa.gov/press-release/nasa-to-televise-artemis-i-demonstration-test-host-media-call) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T192000">2022-09-16 19:20:00 UTC</a></sub>
-* [SpaceX and NASA in final preparations for Crew-5 mission](https://www.nasaspaceflight.com/2022/09/crew-5-preperations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T151312">2022-09-16 15:13:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T003659">2022-09-19 00:36:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T034114">2022-09-19 03:41:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
