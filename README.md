@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Cobertura de la misión Soyuz con tripulación a la estación espacial](http://www.nasa.gov/press-release/cobertura-de-la-misi-n-soyuz-con-tripulaci-n-a-la-estaci-n-espacial) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T191000">2022-09-19 19:10:00 UTC</a></sub>
 * [Lynk Global gets first commercial satellite direct-to-cell operating license](https://spacenews.com/lynk-global-gets-first-commercial-satellite-direct-to-cell-operating-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T174008">2022-09-19 17:40:08 UTC</a></sub>
 * [Texas Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/texas-students-to-hear-from-nasa-astronauts-aboard-space-station-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T174000">2022-09-19 17:40:00 UTC</a></sub>
 * [UAE rover to fly on China’s Chang’e-7 lunar south pole mission](https://spacenews.com/uae-rover-to-fly-on-chinas-change-7-lunar-south-pole-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T171010">2022-09-19 17:10:10 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [France to increase space spending by 25%](https://spacenews.com/france-to-increase-space-spending-by-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T092009">2022-09-19 09:20:09 UTC</a></sub>
 * [Satellite imaging companies look for growth in data analytics](https://spacenews.com/satellite-imaging-companies-look-for-growth-in-data-analytics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T080010">2022-09-19 08:00:10 UTC</a></sub>
 * [Starlink Group 4-34 mission finally lifts off after weather delays](https://www.nasaspaceflight.com/2022/09/starlink-4-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T234941">2022-09-18 23:49:41 UTC</a></sub>
-* [Hubble and VLT discover spiraling structure of young stars, hints at star formation in early universe](https://www.nasaspaceflight.com/2022/09/ngc-346-spiral/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T164504">2022-09-18 16:45:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T190857">2022-09-19 19:08:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T193542">2022-09-19 19:35:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
