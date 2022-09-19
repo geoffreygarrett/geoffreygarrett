@@ -184,12 +184,12 @@ region. The mission's status is currently Go for Launch
 * [Hubble and VLT discover spiraling structure of young stars, hints at star formation in early universe](https://www.nasaspaceflight.com/2022/09/ngc-346-spiral/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T164504">2022-09-18 16:45:04 UTC</a></sub>
 * [Private industry aims to fill demand for space threat intelligence](https://spacenews.com/private-industry-aims-to-fill-demand-for-space-threat-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T141009">2022-09-18 14:10:09 UTC</a></sub>
 * [Shanghai rocket maker considering developing huge methane-fueled rockets](https://spacenews.com/shanghai-rocket-maker-considering-developing-huge-methane-fueled-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T123011">2022-09-18 12:30:11 UTC</a></sub>
+* [SpaceX aces 60th operational Starlink launch after string of scrubs](https://www.teslarati.com/spacex-aces-60th-operational-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T065028">2022-09-18 06:50:28 UTC</a></sub>
 * [SpaceX successfully launches Starlink mission on sixth try](https://spaceflightnow.com/2022/09/18/falcon-9-starlink-4-34-live-coverage-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T043007">2022-09-18 04:30:07 UTC</a></sub>
 * [NASA requests proposals for second Artemis crewed lunar lander](https://spacenews.com/nasa-requests-proposal-for-second-artemis-crewed-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T040009">2022-09-18 04:00:09 UTC</a></sub>
 * [New tri-agency office to coordinate U.S. missile-defense space programs](https://spacenews.com/new-tri-agency-office-to-coordinate-u-s-missile-defense-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T223021">2022-09-16 22:30:21 UTC</a></sub>
 * [Chinese Long March 7 rocket launches military communications satellite](https://spaceflightnow.com/2022/09/16/chinese-long-march-7-rocket-launches-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T215006">2022-09-16 21:50:06 UTC</a></sub>
 * [NASA Sets TV Coverage for Crewed Soyuz Mission to Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-crewed-soyuz-mission-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T214000">2022-09-16 21:40:00 UTC</a></sub>
-* [NASA Pursues Astronaut Lunar Landers for Future Artemis Moon Missions](http://www.nasa.gov/press-release/nasa-pursues-astronaut-lunar-landers-for-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T203000">2022-09-16 20:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T063914">2022-09-19 06:39:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T073131">2022-09-19 07:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
