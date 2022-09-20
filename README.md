@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force procurement chief criticizes over-engineered satellite programs](https://spacenews.com/space-force-procurement-chief-criticizes-over-engineered-satellite-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T232009">2022-09-20 23:20:09 UTC</a></sub>
 * [Next batch of OneWeb satellites arrive in India for launch](https://spacenews.com/next-batch-of-oneweb-satellites-arrive-in-india-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T213010">2022-09-20 21:30:10 UTC</a></sub>
 * [Soyuz MS-22 to loft two Russians and one American to ISS](https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T170737">2022-09-20 17:07:37 UTC</a></sub>
 * [NASA’s Stakeholder Collaborations Help Inform Moon to Mars Planning](http://www.nasa.gov/press-release/nasa-s-stakeholder-collaborations-help-inform-moon-to-mars-planning) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T135000">2022-09-20 13:50:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force shifting resources to intelligence and cybersecurity](https://spacenews.com/space-force-shifting-resources-to-intelligence-and-cybersecurity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T220011">2022-09-19 22:00:11 UTC</a></sub>
 * [Cobertura de la misión Soyuz con tripulación a la estación espacial](http://www.nasa.gov/press-release/cobertura-de-la-misi-n-soyuz-con-tripulaci-n-a-la-estaci-n-espacial) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T191000">2022-09-19 19:10:00 UTC</a></sub>
 * [Lynk Global gets first commercial satellite direct-to-cell operating license](https://spacenews.com/lynk-global-gets-first-commercial-satellite-direct-to-cell-operating-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T174008">2022-09-19 17:40:08 UTC</a></sub>
-* [Texas Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/texas-students-to-hear-from-nasa-astronauts-aboard-space-station-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T174000">2022-09-19 17:40:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T230612">2022-09-20 23:06:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T234305">2022-09-20 23:43:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
