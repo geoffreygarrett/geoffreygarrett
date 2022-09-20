@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s Stakeholder Collaborations Help Inform Moon to Mars Planning](http://www.nasa.gov/press-release/nasa-s-stakeholder-collaborations-help-inform-moon-to-mars-planning) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T135000">2022-09-20 13:50:00 UTC</a></sub>
 * [NASA set for “kinder, gentler” SLS tanking test](https://spacenews.com/nasa-set-for-kinder-gentler-sls-tanking-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T113012">2022-09-20 11:30:12 UTC</a></sub>
 * [New report raises questions on DoD’s multi-orbit plan for space sensors](https://spacenews.com/new-report-questions-dods-multi-orbit-plan-for-space-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T101012">2022-09-20 10:10:12 UTC</a></sub>
 * [SAIC to build small satellites with startup Rogue Space](https://spacenews.com/saic-to-build-small-satellites-with-startup-rogue-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T071009">2022-09-20 07:10:09 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Texas Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/texas-students-to-hear-from-nasa-astronauts-aboard-space-station-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T174000">2022-09-19 17:40:00 UTC</a></sub>
 * [UAE rover to fly on China’s Chang’e-7 lunar south pole mission](https://spacenews.com/uae-rover-to-fly-on-chinas-change-7-lunar-south-pole-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T171010">2022-09-19 17:10:10 UTC</a></sub>
 * [Astrobotic announces plans for lunar power service](https://spacenews.com/astrobotic-announces-plans-for-lunar-power-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T170010">2022-09-19 17:00:10 UTC</a></sub>
-* [NASA's InSight 'Hears' Its First Meteoroid Impacts on Mars](https://mars.nasa.gov/news/9264/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T160000">2022-09-19 16:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T131325">2022-09-20 13:13:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T140549">2022-09-20 14:05:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
