@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SAIC to build small satellites with startup Rogue Space](https://spacenews.com/saic-to-build-small-satellites-with-startup-rogue-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T071009">2022-09-20 07:10:09 UTC</a></sub>
 * [Space Force shifting resources to intelligence and cybersecurity](https://spacenews.com/space-force-shifting-resources-to-intelligence-and-cybersecurity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T220011">2022-09-19 22:00:11 UTC</a></sub>
 * [Cobertura de la misión Soyuz con tripulación a la estación espacial](http://www.nasa.gov/press-release/cobertura-de-la-misi-n-soyuz-con-tripulaci-n-a-la-estaci-n-espacial) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T191000">2022-09-19 19:10:00 UTC</a></sub>
 * [Lynk Global gets first commercial satellite direct-to-cell operating license](https://spacenews.com/lynk-global-gets-first-commercial-satellite-direct-to-cell-operating-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T174008">2022-09-19 17:40:08 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA's InSight 'Hears' Its First Meteoroid Impacts on Mars](https://mars.nasa.gov/news/9264/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T160000">2022-09-19 16:00:00 UTC</a></sub>
 * [Planet shares information on Tanager hyperspectral constellation](https://spacenews.com/planet-hyperspectral-details/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T131011">2022-09-19 13:10:11 UTC</a></sub>
 * [France to increase space spending by 25%](https://spacenews.com/france-to-increase-space-spending-by-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T092009">2022-09-19 09:20:09 UTC</a></sub>
-* [Satellite imaging companies look for growth in data analytics](https://spacenews.com/satellite-imaging-companies-look-for-growth-in-data-analytics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T080010">2022-09-19 08:00:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T063038">2022-09-20 06:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T071744">2022-09-20 07:17:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
