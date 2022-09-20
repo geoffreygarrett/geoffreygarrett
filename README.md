@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New report raises questions on DoD’s multi-orbit plan for space sensors](https://spacenews.com/new-report-questions-dods-multi-orbit-plan-for-space-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T101012">2022-09-20 10:10:12 UTC</a></sub>
 * [SAIC to build small satellites with startup Rogue Space](https://spacenews.com/saic-to-build-small-satellites-with-startup-rogue-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T071009">2022-09-20 07:10:09 UTC</a></sub>
 * [Space Force shifting resources to intelligence and cybersecurity](https://spacenews.com/space-force-shifting-resources-to-intelligence-and-cybersecurity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T220011">2022-09-19 22:00:11 UTC</a></sub>
 * [Cobertura de la misión Soyuz con tripulación a la estación espacial](http://www.nasa.gov/press-release/cobertura-de-la-misi-n-soyuz-con-tripulaci-n-a-la-estaci-n-espacial) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T191000">2022-09-19 19:10:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Astrobotic announces plans for lunar power service](https://spacenews.com/astrobotic-announces-plans-for-lunar-power-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T170010">2022-09-19 17:00:10 UTC</a></sub>
 * [NASA's InSight 'Hears' Its First Meteoroid Impacts on Mars](https://mars.nasa.gov/news/9264/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T160000">2022-09-19 16:00:00 UTC</a></sub>
 * [Planet shares information on Tanager hyperspectral constellation](https://spacenews.com/planet-hyperspectral-details/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T131011">2022-09-19 13:10:11 UTC</a></sub>
-* [France to increase space spending by 25%](https://spacenews.com/france-to-increase-space-spending-by-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T092009">2022-09-19 09:20:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T100719">2022-09-20 10:07:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T104355">2022-09-20 10:43:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
