@@ -179,16 +179,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX’s first orbital Starship launch “highly likely” in November, says Elon Musk](https://www.teslarati.com/spacex-starship-orbital-launch-date-elon-musk-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222031">2022-09-21 22:20:31 UTC</a></sub>
+* [NASA astronaut launches to space station aboard Russian rocket](https://spaceflightnow.com/2022/09/21/nasa-astronaut-launches-to-space-station-aboard-russian-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222005">2022-09-21 22:20:05 UTC</a></sub>
+* [L3Harris’ missile-tracking satellites will use a newly designed Maxar bus](https://spacenews.com/l3harris-missile-tracking-satellites-will-use-a-newly-designed-maxar-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T220010">2022-09-21 22:00:10 UTC</a></sub>
+* [Amazon and Telesat coordinate their planned NGSO constellations](https://spacenews.com/amazon-and-telesat-coordinate-their-planned-ngso-constellations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T214009">2022-09-21 21:40:09 UTC</a></sub>
 * [NASA Astronaut Frank Rubio, Crewmates Arrive Safely at Space Station](http://www.nasa.gov/press-release/nasa-astronaut-frank-rubio-crewmates-arrive-safely-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T172000">2022-09-21 17:20:00 UTC</a></sub>
 * [SpaceX filing shows plans to bring Starlink to U.S. school buses](https://www.teslarati.com/spacex-starlink-school-buses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T170030">2022-09-21 17:00:30 UTC</a></sub>
 * [Arkisys’ first flight to demonstrate universal interface adapter](https://spacenews.com/arkisys-applique/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T163010">2022-09-21 16:30:10 UTC</a></sub>
 * [Spaced Ventures petition for SpaceX shares hits $11.4 million](https://spacenews.com/spaced-ventures-spacex-petition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T154008">2022-09-21 15:40:08 UTC</a></sub>
 * [Lander companies prepare to shoot for the moon](https://spacenews.com/lander-companies-prepare-to-shoot-for-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T150010">2022-09-21 15:00:10 UTC</a></sub>
 * [Soyuz MS-22 lofts two Russians and one American to ISS](https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T140737">2022-09-21 14:07:37 UTC</a></sub>
-* [Maxar offering new space-monitoring service to help track objects in orbit](https://spacenews.com/maxar-offering-new-space-monitoring-service-to-help-track-objects-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T133010">2022-09-21 13:30:10 UTC</a></sub>
-* [New JWST image reveals full glory of Neptune, its moons, and rings](https://arstechnica.com/science/2022/09/webb-telescope-captures-dazzling-views-of-neptune-and-its-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T131833">2022-09-21 13:18:33 UTC</a></sub>
-* [Artemis Accords signatories hold first meeting](https://spacenews.com/artemis-accords-signatories-hold-first-meeting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T105009">2022-09-21 10:50:09 UTC</a></sub>
-* [NASA teams prepare for SLS fueling test to inform launch date](https://www.nasaspaceflight.com/2022/09/artemis-i-fueling-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T092134">2022-09-21 09:21:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -199,6 +199,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [DART impact: What to expect](https://www.planetary.org/articles/dart-impact-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T214025">2022-09-21 21:40:25 UTC</a></sub>
 * [SES-20/21: Commercial satellite tandem stacked atop Atlas V](https://blog.ulalaunch.com/blog/ses-20/21-commercial-satellite-tandem-stacked-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T204035">2022-09-20 20:40:35 UTC</a></sub>
 * [European Spaceflight Update - How not to handle safety concerns](https://www.getrevue.co/profile/andrewparsonson/issues/how-not-to-handle-safety-concerns-1357358) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T143042">2022-09-19 14:30:42 UTC</a></sub>
 * [NROL-91: Delta IV Heavy readied for Vandenberg launch](https://blog.ulalaunch.com/blog/nrol-91-delta-iv-heavy-readied-for-vandenberg-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T204044">2022-09-16 20:40:44 UTC</a></sub>
@@ -208,7 +209,6 @@ region. The mission's status is currently Go for Launch
 * [Commercial Spaceflight Principles](https://www.planetary.org/space-policy/commercial-spaceflight-principles) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T190130">2022-09-12 19:01:30 UTC</a></sub>
 * [European Spaceflight Update - ArianeGroup boss throws shade](https://www.getrevue.co/profile/andrewparsonson/issues/arianegroup-boss-throws-shade-1343991) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T141137">2022-09-12 14:11:37 UTC</a></sub>
 * [A rose by any other name](https://www.planetary.org/articles/a-rose-by-any-other-name) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135132">2022-09-12 13:51:32 UTC</a></sub>
-* [Your impact: September equinox 2022](https://www.planetary.org/articles/your-impact-september-equinox-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135131">2022-09-12 13:51:31 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T220623">2022-09-21 22:06:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T224311">2022-09-21 22:43:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
