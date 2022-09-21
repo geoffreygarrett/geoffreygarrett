@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Soyuz 2.1a | Soyuz MS-22 at the
-<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a> in
-Baikonur Cosmodrome, Republic of Kazakhstan
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T135449">2022-09-21 13:54:49 UTC</a>. Until
-then, this launch pad will have seen 403
-out of 1533 launches in this
+Delta IV Heavy | NROL-91 at the
+<a href="">Space Launch Complex 6</a> in
+Vandenberg SFB, CA, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T205000">2022-09-24 20:50:00 UTC</a>. Until
+then, this launch pad will have seen 13
+out of 702 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Soyuz MS-22 will carry Roscosmos cosmonauts Sergei Prokopeyev, Dmitry Petelin and NASA astronaut Frank Rubio to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan.
+  Classified payload for the US National Reconnaissance Office (NRO).
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
+  <a href="https://en.wikipedia.org/wiki/Delta_IV_Heavy" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=45.996+N,+63.564+E" >
+  <a href="http://maps.google.com/maps?q=34.5815+N,+120.6262+W" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Soyuz MS-22</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T135449">2022-09-21 13:54:49 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-22&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220921T135449Z%2F20220921T135449Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>NROL-91</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T205000">2022-09-24 20:50:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-91&location=Vandenberg SFB, CA, USA&dates=20220924T205000Z%2F20220924T231200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-35</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T232700">2022-09-24 23:27:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-35&location=Cape Canaveral, FL, USA&dates=20220924T232700Z%2F20220925T023200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T220000">2022-09-26 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20220926T220000Z%2F20220927T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,7 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Webb telescope captures dazzling views of Neptune and its moons](https://arstechnica.com/science/2022/09/webb-telescope-captures-dazzling-views-of-neptune-and-its-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T131833">2022-09-21 13:18:33 UTC</a></sub>
+* [Maxar offering new space-monitoring service to help track objects in orbit](https://spacenews.com/maxar-offering-new-space-monitoring-service-to-help-track-objects-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T133010">2022-09-21 13:30:10 UTC</a></sub>
+* [New JWST image reveals full glory of Neptune, its moons, and rings](https://arstechnica.com/science/2022/09/webb-telescope-captures-dazzling-views-of-neptune-and-its-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T131833">2022-09-21 13:18:33 UTC</a></sub>
 * [Artemis Accords signatories hold first meeting](https://spacenews.com/artemis-accords-signatories-hold-first-meeting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T105009">2022-09-21 10:50:09 UTC</a></sub>
 * [NASA teams prepare for SLS fueling test to inform launch date](https://www.nasaspaceflight.com/2022/09/artemis-i-fueling-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T092134">2022-09-21 09:21:34 UTC</a></sub>
 * [Draft solicitation for national security space launch services expected in early 2023](https://spacenews.com/draft-solicitation-for-national-security-space-launch-services-expected-in-early-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T235009">2022-09-20 23:50:09 UTC</a></sub>
@@ -189,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Soyuz MS-22 to loft two Russians and one American to ISS](https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T170737">2022-09-20 17:07:37 UTC</a></sub>
 * [NASA’s Stakeholder Collaborations Help Inform Moon to Mars Planning](http://www.nasa.gov/press-release/nasa-s-stakeholder-collaborations-help-inform-moon-to-mars-planning) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T135000">2022-09-20 13:50:00 UTC</a></sub>
 * [NASA set for “kinder, gentler” SLS tanking test](https://spacenews.com/nasa-set-for-kinder-gentler-sls-tanking-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T113012">2022-09-20 11:30:12 UTC</a></sub>
-* [New report raises questions on DoD’s multi-orbit plan for space sensors](https://spacenews.com/new-report-questions-dods-multi-orbit-plan-for-space-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T101012">2022-09-20 10:10:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T132211">2022-09-21 13:22:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T140754">2022-09-21 14:07:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
