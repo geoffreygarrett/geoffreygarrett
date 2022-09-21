@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Soyuz MS-22 lofts two Russians and one American to ISS](https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T140737">2022-09-21 14:07:37 UTC</a></sub>
 * [Maxar offering new space-monitoring service to help track objects in orbit](https://spacenews.com/maxar-offering-new-space-monitoring-service-to-help-track-objects-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T133010">2022-09-21 13:30:10 UTC</a></sub>
 * [New JWST image reveals full glory of Neptune, its moons, and rings](https://arstechnica.com/science/2022/09/webb-telescope-captures-dazzling-views-of-neptune-and-its-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T131833">2022-09-21 13:18:33 UTC</a></sub>
 * [Artemis Accords signatories hold first meeting](https://spacenews.com/artemis-accords-signatories-hold-first-meeting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T105009">2022-09-21 10:50:09 UTC</a></sub>
@@ -186,7 +187,6 @@ region. The mission's status is currently Go for Launch
 * [Draft solicitation for national security space launch services expected in early 2023](https://spacenews.com/draft-solicitation-for-national-security-space-launch-services-expected-in-early-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T235009">2022-09-20 23:50:09 UTC</a></sub>
 * [Space Force procurement chief criticizes over-engineered satellite programs](https://spacenews.com/space-force-procurement-chief-criticizes-over-engineered-satellite-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T232009">2022-09-20 23:20:09 UTC</a></sub>
 * [Next batch of OneWeb satellites arrive in India for launch](https://spacenews.com/next-batch-of-oneweb-satellites-arrive-in-india-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T213010">2022-09-20 21:30:10 UTC</a></sub>
-* [Soyuz MS-22 to loft two Russians and one American to ISS](https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T170737">2022-09-20 17:07:37 UTC</a></sub>
 * [NASA’s Stakeholder Collaborations Help Inform Moon to Mars Planning](http://www.nasa.gov/press-release/nasa-s-stakeholder-collaborations-help-inform-moon-to-mars-planning) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T135000">2022-09-20 13:50:00 UTC</a></sub>
 * [NASA set for “kinder, gentler” SLS tanking test](https://spacenews.com/nasa-set-for-kinder-gentler-sls-tanking-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T113012">2022-09-20 11:30:12 UTC</a></sub>
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T140754">2022-09-21 14:07:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T144607">2022-09-21 14:46:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
