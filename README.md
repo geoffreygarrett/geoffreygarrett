@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA teams prepare for SLS fueling test to inform launch date](https://www.nasaspaceflight.com/2022/09/artemis-i-fueling-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T092134">2022-09-21 09:21:34 UTC</a></sub>
 * [Draft solicitation for national security space launch services expected in early 2023](https://spacenews.com/draft-solicitation-for-national-security-space-launch-services-expected-in-early-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T235009">2022-09-20 23:50:09 UTC</a></sub>
 * [Space Force procurement chief criticizes over-engineered satellite programs](https://spacenews.com/space-force-procurement-chief-criticizes-over-engineered-satellite-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T232009">2022-09-20 23:20:09 UTC</a></sub>
 * [Next batch of OneWeb satellites arrive in India for launch](https://spacenews.com/next-batch-of-oneweb-satellites-arrive-in-india-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T213010">2022-09-20 21:30:10 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [New report raises questions on DoD’s multi-orbit plan for space sensors](https://spacenews.com/new-report-questions-dods-multi-orbit-plan-for-space-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T101012">2022-09-20 10:10:12 UTC</a></sub>
 * [SAIC to build small satellites with startup Rogue Space](https://spacenews.com/saic-to-build-small-satellites-with-startup-rogue-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T071009">2022-09-20 07:10:09 UTC</a></sub>
 * [SpaceX Falcon 9 rocket wins three new geostationary satellite launches](https://www.teslarati.com/spacex-falcon-9-wins-three-launch-contracts-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T042024">2022-09-20 04:20:24 UTC</a></sub>
-* [SpinLaunch raises $71 million](https://spacenews.com/spinlaunch-raises-71-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T040009">2022-09-20 04:00:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T091125">2022-09-21 09:11:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T094312">2022-09-21 09:43:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
