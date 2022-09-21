@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Maiden Flight</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T000000">2022-09-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220930T000000Z%2F20220930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-36</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T000000">2022-09-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-36&location=Cape Canaveral, FL, USA&dates=20220930T000000Z%2F20220930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b><name missing></b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T000000">2022-09-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K2&location=Plesetsk Cosmodrome, Russian Federation&dates=20220930T000000Z%2F20220930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>FLTA002 (To The Black)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T070100">2022-09-30 07:01:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA002 (To The Black)&location=Vandenberg SFB, CA, USA&dates=20220930T070100Z%2F20220930T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -179,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD to end procurements of geosynchronous missile-warning satellites](https://spacenews.com/dod-to-end-procurements-of-geosynchronous-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T232009">2022-09-21 23:20:09 UTC</a></sub>
 * [SpaceX’s first orbital Starship launch “highly likely” in November, says Elon Musk](https://www.teslarati.com/spacex-starship-orbital-launch-date-elon-musk-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222031">2022-09-21 22:20:31 UTC</a></sub>
 * [NASA astronaut launches to space station aboard Russian rocket](https://spaceflightnow.com/2022/09/21/nasa-astronaut-launches-to-space-station-aboard-russian-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222005">2022-09-21 22:20:05 UTC</a></sub>
 * [L3Harris’ missile-tracking satellites will use a newly designed Maxar bus](https://spacenews.com/l3harris-missile-tracking-satellites-will-use-a-newly-designed-maxar-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T220010">2022-09-21 22:00:10 UTC</a></sub>
@@ -188,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Arkisys’ first flight to demonstrate universal interface adapter](https://spacenews.com/arkisys-applique/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T163010">2022-09-21 16:30:10 UTC</a></sub>
 * [Spaced Ventures petition for SpaceX shares hits $11.4 million](https://spacenews.com/spaced-ventures-spacex-petition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T154008">2022-09-21 15:40:08 UTC</a></sub>
 * [Lander companies prepare to shoot for the moon](https://spacenews.com/lander-companies-prepare-to-shoot-for-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T150010">2022-09-21 15:00:10 UTC</a></sub>
-* [Soyuz MS-22 lofts two Russians and one American to ISS](https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T140737">2022-09-21 14:07:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T230629">2022-09-21 23:06:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T234145">2022-09-21 23:41:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
