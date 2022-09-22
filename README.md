@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight blogs starts -->
 * [DART impact: What to expect](https://www.planetary.org/articles/dart-impact-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T214025">2022-09-21 21:40:25 UTC</a></sub>
+* [Whoop whoop whoop! nasa insight 'hears' an asteroid impact on mars](https://www.syfy.com/syfy-wire/bad-astronomy-asteroid-impacts-on-mars-heard-by-nasa-insight-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T120000">2022-09-21 12:00:00 UTC</a></sub>
 * [SES-20/21: Commercial satellite tandem stacked atop Atlas V](https://blog.ulalaunch.com/blog/ses-20/21-commercial-satellite-tandem-stacked-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T204035">2022-09-20 20:40:35 UTC</a></sub>
 * [European Spaceflight Update - How not to handle safety concerns](https://www.getrevue.co/profile/andrewparsonson/issues/how-not-to-handle-safety-concerns-1357358) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T143042">2022-09-19 14:30:42 UTC</a></sub>
 * [NROL-91: Delta IV Heavy readied for Vandenberg launch](https://blog.ulalaunch.com/blog/nrol-91-delta-iv-heavy-readied-for-vandenberg-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T204044">2022-09-16 20:40:44 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [What Cassini continues to reveal about Saturn](https://www.planetary.org/articles/cassini-continues-to-reveal-saturn) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T140127">2022-09-13 14:01:27 UTC</a></sub>
 * [Commercial Spaceflight Principles](https://www.planetary.org/space-policy/commercial-spaceflight-principles) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T190130">2022-09-12 19:01:30 UTC</a></sub>
 * [European Spaceflight Update - ArianeGroup boss throws shade](https://www.getrevue.co/profile/andrewparsonson/issues/arianegroup-boss-throws-shade-1343991) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T141137">2022-09-12 14:11:37 UTC</a></sub>
-* [A rose by any other name](https://www.planetary.org/articles/a-rose-by-any-other-name) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135132">2022-09-12 13:51:32 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T062918">2022-09-22 06:29:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T070815">2022-09-22 07:08:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
