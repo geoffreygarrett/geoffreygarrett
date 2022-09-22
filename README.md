@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SES-led group to deploy quantum security satellite for Europe in 2024](https://spacenews.com/ses-led-group-to-deploy-quantum-security-satellite-for-europe-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T222010">2022-09-22 22:20:10 UTC</a></sub>
 * [As DoD grows more reliant on space industry, it needs to define the relationship](https://spacenews.com/as-dod-grows-more-reliant-on-space-industry-it-needs-to-define-the-relationship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T213017">2022-09-22 21:30:17 UTC</a></sub>
 * [NASA to Provide Media Update on Demonstration Test, Artemis I Mission](http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-demonstration-test-artemis-i-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T211000">2022-09-22 21:10:00 UTC</a></sub>
 * [Marlink plans to offer Starlink to maritime customers](https://www.teslarati.com/marlink-plans-to-offer-starlink-to-maritime-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T173027">2022-09-22 17:30:27 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [DoD to end procurements of geosynchronous missile-warning satellites](https://spacenews.com/dod-to-end-procurements-of-geosynchronous-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T232009">2022-09-21 23:20:09 UTC</a></sub>
 * [SpaceX’s first orbital Starship launch “highly likely” in November, says Elon Musk](https://www.teslarati.com/spacex-starship-orbital-launch-date-elon-musk-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222031">2022-09-21 22:20:31 UTC</a></sub>
 * [NASA astronaut launches to space station aboard Russian rocket](https://spaceflightnow.com/2022/09/21/nasa-astronaut-launches-to-space-station-aboard-russian-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222005">2022-09-21 22:20:05 UTC</a></sub>
-* [L3Harris’ missile-tracking satellites will use a newly designed Maxar bus](https://spacenews.com/l3harris-missile-tracking-satellites-will-use-a-newly-designed-maxar-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T220010">2022-09-21 22:00:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T220636">2022-09-22 22:06:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T224142">2022-09-22 22:41:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
