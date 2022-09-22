@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Marlink to offer Starlink to maritime and enterprise customers](https://spacenews.com/marlink-to-offer-starlink-to-maritime-and-enterprise-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T163010">2022-09-22 16:30:10 UTC</a></sub>
 * [NASA studying issue with JWST instrument](https://spacenews.com/nasa-studying-issue-with-jwst-instrument/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T095009">2022-09-22 09:50:09 UTC</a></sub>
 * [DoD to end procurements of geosynchronous missile-warning satellites](https://spacenews.com/dod-to-end-procurements-of-geosynchronous-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T232009">2022-09-21 23:20:09 UTC</a></sub>
 * [SpaceX’s first orbital Starship launch “highly likely” in November, says Elon Musk](https://www.teslarati.com/spacex-starship-orbital-launch-date-elon-musk-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222031">2022-09-21 22:20:31 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Astronaut Frank Rubio, Crewmates Arrive Safely at Space Station](http://www.nasa.gov/press-release/nasa-astronaut-frank-rubio-crewmates-arrive-safely-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T172000">2022-09-21 17:20:00 UTC</a></sub>
 * [SpaceX filing shows plans to bring Starlink to U.S. school buses](https://www.teslarati.com/spacex-starlink-school-buses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T170030">2022-09-21 17:00:30 UTC</a></sub>
 * [Arkisys’ first flight to demonstrate universal interface adapter](https://spacenews.com/arkisys-applique/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T163010">2022-09-21 16:30:10 UTC</a></sub>
-* [Spaced Ventures petition for SpaceX shares hits $11.4 million](https://spacenews.com/spaced-ventures-spacex-petition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T154008">2022-09-21 15:40:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T160848">2022-09-22 16:08:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T165956">2022-09-22 16:59:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
