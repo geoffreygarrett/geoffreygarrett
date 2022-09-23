@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Avanti turns to regional operator partnerships to expand satellite coverage](https://spacenews.com/avanti-turns-to-regional-operator-partnerships-to-expand-satellite-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T185010">2022-09-23 18:50:10 UTC</a></sub>
+* [NASA updates exploration objectives](https://spacenews.com/nasa-updates-exploration-objectives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T180008">2022-09-23 18:00:08 UTC</a></sub>
 * [NASA to Provide Live Coverage of Space Station Crew Activities](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-crew-activities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T161000">2022-09-23 16:10:00 UTC</a></sub>
 * [ULA’s Delta 4 prepares for final West Coast launch as Vandenberg seeks new tenants](https://spacenews.com/ulas-delta-4-prepares-for-final-west-coast-launch-as-vandenberg-officials-seek-new-tenants/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T154012">2022-09-23 15:40:12 UTC</a></sub>
 * [Airbus talks ESM delivery process for upcoming Artemis flights](https://www.nasaspaceflight.com/2022/09/airbus-esm-delivery-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T141642">2022-09-23 14:16:42 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SES considering quantum cryptography satellite system](https://spacenews.com/ses-considering-quantum-cryptography-satellite-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T070013">2022-09-23 07:00:13 UTC</a></sub>
 * [SES-led group to deploy quantum security satellite for Europe in 2024](https://spacenews.com/ses-led-group-to-deploy-quantum-security-satellite-for-europe-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T222010">2022-09-22 22:20:10 UTC</a></sub>
 * [As DoD grows more reliant on space industry, it needs to define the relationship](https://spacenews.com/as-dod-grows-more-reliant-on-space-industry-it-needs-to-define-the-relationship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T213017">2022-09-22 21:30:17 UTC</a></sub>
-* [NASA to Provide Media Update on Demonstration Test, Artemis I Mission](http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-demonstration-test-artemis-i-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T211000">2022-09-22 21:10:00 UTC</a></sub>
-* [Marlink plans to offer Starlink to maritime customers](https://www.teslarati.com/marlink-plans-to-offer-starlink-to-maritime-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T173027">2022-09-22 17:30:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T180928">2022-09-23 18:09:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T185016">2022-09-23 18:50:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
