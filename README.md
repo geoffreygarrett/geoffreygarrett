@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom Space to fly Saudi astronauts](https://spacenews.com/axiom-space-to-fly-saudi-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T113012">2022-09-23 11:30:12 UTC</a></sub>
+* [Rocket Report: SpaceX fires up seven Raptors; SpinLaunch raises big funding round](https://arstechnica.com/science/2022/09/rocket-report-spacex-fires-up-seven-raptors-spinlaunch-raises-big-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T110001">2022-09-23 11:00:01 UTC</a></sub>
 * [SES considering quantum cryptography satellite system](https://spacenews.com/ses-considering-quantum-cryptography-satellite-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T070013">2022-09-23 07:00:13 UTC</a></sub>
 * [SES-led group to deploy quantum security satellite for Europe in 2024](https://spacenews.com/ses-led-group-to-deploy-quantum-security-satellite-for-europe-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T222010">2022-09-22 22:20:10 UTC</a></sub>
 * [As DoD grows more reliant on space industry, it needs to define the relationship](https://spacenews.com/as-dod-grows-more-reliant-on-space-industry-it-needs-to-define-the-relationship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T213017">2022-09-22 21:30:17 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Mangata seeks permission to connect UK user terminals](https://spacenews.com/mangata-seeks-permission-to-connect-uk-user-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T173009">2022-09-22 17:30:09 UTC</a></sub>
 * [Marlink to offer Starlink to maritime and enterprise customers](https://spacenews.com/marlink-to-offer-starlink-to-maritime-and-enterprise-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T163010">2022-09-22 16:30:10 UTC</a></sub>
 * [NASA studying issue with JWST instrument](https://spacenews.com/nasa-studying-issue-with-jwst-instrument/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T095009">2022-09-22 09:50:09 UTC</a></sub>
-* [DoD to end procurements of geosynchronous missile-warning satellites](https://spacenews.com/dod-to-end-procurements-of-geosynchronous-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T232009">2022-09-21 23:20:09 UTC</a></sub>
-* [SpaceX’s first orbital Starship launch “highly likely” in November, says Elon Musk](https://www.teslarati.com/spacex-starship-orbital-launch-date-elon-musk-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222031">2022-09-21 22:20:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T110420">2022-09-23 11:04:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T113751">2022-09-23 11:37:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
