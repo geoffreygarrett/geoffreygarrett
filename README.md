@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Airbus talks ESM delivery process for upcoming Artemis flights](https://www.nasaspaceflight.com/2022/09/airbus-esm-delivery-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T141642">2022-09-23 14:16:42 UTC</a></sub>
 * [Axiom Space to fly Saudi astronauts](https://spacenews.com/axiom-space-to-fly-saudi-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T113012">2022-09-23 11:30:12 UTC</a></sub>
 * [Rocket Report: SpaceX fires up seven Raptors; SpinLaunch raises big funding round](https://arstechnica.com/science/2022/09/rocket-report-spacex-fires-up-seven-raptors-spinlaunch-raises-big-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T110001">2022-09-23 11:00:01 UTC</a></sub>
 * [SES considering quantum cryptography satellite system](https://spacenews.com/ses-considering-quantum-cryptography-satellite-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T070013">2022-09-23 07:00:13 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Marlink plans to offer Starlink to maritime customers](https://www.teslarati.com/marlink-plans-to-offer-starlink-to-maritime-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T173027">2022-09-22 17:30:27 UTC</a></sub>
 * [Mangata seeks permission to connect UK user terminals](https://spacenews.com/mangata-seeks-permission-to-connect-uk-user-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T173009">2022-09-22 17:30:09 UTC</a></sub>
 * [Marlink to offer Starlink to maritime and enterprise customers](https://spacenews.com/marlink-to-offer-starlink-to-maritime-and-enterprise-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T163010">2022-09-22 16:30:10 UTC</a></sub>
-* [NASA studying issue with JWST instrument](https://spacenews.com/nasa-studying-issue-with-jwst-instrument/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T095009">2022-09-22 09:50:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Brighten up your day](https://www.planetary.org/the-downlink/brighten-up-your-day) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T143027">2022-09-23 14:30:27 UTC</a></sub>
 * [RocketStars: McFarland is one of ULA's most experienced teammates](https://blog.ulalaunch.com/blog/rocketstars-mcfarland-is-one-of-ulas-most-experienced-teammates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T122040">2022-09-23 12:20:40 UTC</a></sub>
 * [RocketStars: Delta IV Tiger Team member living his dream](https://blog.ulalaunch.com/blog/rocketstars-delta-iv-tiger-team-member-living-his-dream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T170036">2022-09-22 17:00:36 UTC</a></sub>
 * [DART impact: What to expect](https://www.planetary.org/articles/dart-impact-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T214025">2022-09-21 21:40:25 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [NROL-91: Delta IV Heavy readied for Vandenberg launch](https://blog.ulalaunch.com/blog/nrol-91-delta-iv-heavy-readied-for-vandenberg-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T204044">2022-09-16 20:40:44 UTC</a></sub>
 * [Outer worlds and outstanding science](https://www.planetary.org/the-downlink/outer-worlds-and-outstanding-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T143029">2022-09-16 14:30:29 UTC</a></sub>
 * [Tianwen-3: China’s Mars sample return mission](https://www.planetary.org/articles/tianwen-3-china-mars-sample-return-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T140029">2022-09-15 14:00:29 UTC</a></sub>
-* [What Cassini continues to reveal about Saturn](https://www.planetary.org/articles/cassini-continues-to-reveal-saturn) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T140127">2022-09-13 14:01:27 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T140527">2022-09-23 14:05:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T145051">2022-09-23 14:50:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
