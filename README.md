@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SES considering quantum cryptography satellite system](https://spacenews.com/ses-considering-quantum-cryptography-satellite-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T070013">2022-09-23 07:00:13 UTC</a></sub>
 * [SES-led group to deploy quantum security satellite for Europe in 2024](https://spacenews.com/ses-led-group-to-deploy-quantum-security-satellite-for-europe-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T222010">2022-09-22 22:20:10 UTC</a></sub>
 * [As DoD grows more reliant on space industry, it needs to define the relationship](https://spacenews.com/as-dod-grows-more-reliant-on-space-industry-it-needs-to-define-the-relationship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T213017">2022-09-22 21:30:17 UTC</a></sub>
 * [NASA to Provide Media Update on Demonstration Test, Artemis I Mission](http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-demonstration-test-artemis-i-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T211000">2022-09-22 21:10:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA studying issue with JWST instrument](https://spacenews.com/nasa-studying-issue-with-jwst-instrument/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T095009">2022-09-22 09:50:09 UTC</a></sub>
 * [DoD to end procurements of geosynchronous missile-warning satellites](https://spacenews.com/dod-to-end-procurements-of-geosynchronous-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T232009">2022-09-21 23:20:09 UTC</a></sub>
 * [SpaceX’s first orbital Starship launch “highly likely” in November, says Elon Musk](https://www.teslarati.com/spacex-starship-orbital-launch-date-elon-musk-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222031">2022-09-21 22:20:31 UTC</a></sub>
-* [NASA astronaut launches to space station aboard Russian rocket](https://spaceflightnow.com/2022/09/21/nasa-astronaut-launches-to-space-station-aboard-russian-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222005">2022-09-21 22:20:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T062516">2022-09-23 06:25:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T070528">2022-09-23 07:05:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
