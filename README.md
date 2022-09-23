@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Cover Crew Arrival to Launch Site, Flight Readiness Review](http://www.nasa.gov/press-release/nasa-to-cover-crew-arrival-to-launch-site-flight-readiness-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T221000">2022-09-23 22:10:00 UTC</a></sub>
 * [NASA seems to be in full “send it” mode for the Artemis I mission](https://arstechnica.com/science/2022/09/nasa-seems-to-be-in-full-send-it-mode-for-the-artemis-i-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T210642">2022-09-23 21:06:42 UTC</a></sub>
 * [Elon Musk activates Starlink for Iranian citizens after US Sec of State issued a General License](https://www.teslarati.com/elon-musk-starlink-iran-us-sec-of-state/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T191028">2022-09-23 19:10:28 UTC</a></sub>
 * [Avanti turns to regional operator partnerships to expand satellite coverage](https://spacenews.com/avanti-turns-to-regional-operator-partnerships-to-expand-satellite-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T185010">2022-09-23 18:50:10 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Airbus talks ESM delivery process for upcoming Artemis flights](https://www.nasaspaceflight.com/2022/09/airbus-esm-delivery-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T141642">2022-09-23 14:16:42 UTC</a></sub>
 * [Axiom Space to fly Saudi astronauts](https://spacenews.com/axiom-space-to-fly-saudi-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T113012">2022-09-23 11:30:12 UTC</a></sub>
 * [Rocket Report: SpaceX fires up seven Raptors; SpinLaunch raises big funding round](https://arstechnica.com/science/2022/09/rocket-report-spacex-fires-up-seven-raptors-spinlaunch-raises-big-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T110001">2022-09-23 11:00:01 UTC</a></sub>
-* [SES considering quantum cryptography satellite system](https://spacenews.com/ses-considering-quantum-cryptography-satellite-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T070013">2022-09-23 07:00:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T220642">2022-09-23 22:06:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T224402">2022-09-23 22:44:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
