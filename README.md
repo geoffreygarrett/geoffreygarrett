@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA postpones Artemis 1 launch because of tropical storm](https://spacenews.com/nasa-postpones-artemis-1-launch-because-of-tropical-storm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T161059">2022-09-24 16:10:59 UTC</a></sub>
+* [NASA cancels Artemis I launch attempt, but will delay roll back decision](https://arstechnica.com/science/2022/09/nasa-cancels-artemis-i-launch-attempt-but-will-delay-rollback-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T153518">2022-09-24 15:35:18 UTC</a></sub>
 * [Last West Coast Delta IV Heavy to launch with NROL-91](https://www.nasaspaceflight.com/2022/09/delta-iv-nrol-91/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T151713">2022-09-24 15:17:13 UTC</a></sub>
 * [NASA to Cover Crew Arrival to Launch Site, Flight Readiness Review](http://www.nasa.gov/press-release/nasa-to-cover-crew-arrival-to-launch-site-flight-readiness-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T221000">2022-09-23 22:10:00 UTC</a></sub>
 * [NASA seems to be in full “send it” mode for the Artemis I mission](https://arstechnica.com/science/2022/09/nasa-seems-to-be-in-full-send-it-mode-for-the-artemis-i-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T210642">2022-09-23 21:06:42 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA updates exploration objectives](https://spacenews.com/nasa-updates-exploration-objectives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T180008">2022-09-23 18:00:08 UTC</a></sub>
 * [NASA to Provide Live Coverage of Space Station Crew Activities](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-crew-activities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T161000">2022-09-23 16:10:00 UTC</a></sub>
 * [ULA’s Delta 4 prepares for final West Coast launch as Vandenberg seeks new tenants](https://spacenews.com/ulas-delta-4-prepares-for-final-west-coast-launch-as-vandenberg-officials-seek-new-tenants/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T154012">2022-09-23 15:40:12 UTC</a></sub>
-* [Airbus talks ESM delivery process for upcoming Artemis flights](https://www.nasaspaceflight.com/2022/09/airbus-esm-delivery-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T141642">2022-09-23 14:16:42 UTC</a></sub>
-* [Axiom Space to fly Saudi astronauts](https://spacenews.com/axiom-space-to-fly-saudi-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T113012">2022-09-23 11:30:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T160713">2022-09-24 16:07:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T165412">2022-09-24 16:54:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
