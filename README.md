@@ -182,7 +182,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [NASA postpones Artemis 1 launch because of tropical storm](https://spacenews.com/nasa-postpones-artemis-1-launch-because-of-tropical-storm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T161059">2022-09-24 16:10:59 UTC</a></sub>
-* [NASA cancels Artemis I launch attempt, but will delay roll back decision](https://arstechnica.com/science/2022/09/nasa-cancels-artemis-i-launch-attempt-but-will-delay-rollback-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T153518">2022-09-24 15:35:18 UTC</a></sub>
+* [NASA cancels Artemis I launch attempt but delays roll back decision](https://arstechnica.com/science/2022/09/nasa-cancels-artemis-i-launch-attempt-but-will-delay-rollback-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T153518">2022-09-24 15:35:18 UTC</a></sub>
 * [Last West Coast Delta IV Heavy to launch with NROL-91](https://www.nasaspaceflight.com/2022/09/delta-iv-nrol-91/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T151713">2022-09-24 15:17:13 UTC</a></sub>
 * [NASA to Cover Crew Arrival to Launch Site, Flight Readiness Review](http://www.nasa.gov/press-release/nasa-to-cover-crew-arrival-to-launch-site-flight-readiness-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T221000">2022-09-23 22:10:00 UTC</a></sub>
 * [NASA seems to be in full “send it” mode for the Artemis I mission](https://arstechnica.com/science/2022/09/nasa-seems-to-be-in-full-send-it-mode-for-the-artemis-i-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T210642">2022-09-23 21:06:42 UTC</a></sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T180815">2022-09-24 18:08:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T184617">2022-09-24 18:46:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
