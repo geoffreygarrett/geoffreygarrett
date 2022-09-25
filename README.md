@@ -185,11 +185,11 @@ region. The mission's status is currently Go for Launch
 * [NASA postpones Artemis 1 launch because of tropical storm](https://spacenews.com/nasa-postpones-artemis-1-launch-because-of-tropical-storm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T161059">2022-09-24 16:10:59 UTC</a></sub>
 * [NASA cancels Artemis I launch attempt but delays roll back decision](https://arstechnica.com/science/2022/09/nasa-cancels-artemis-i-launch-attempt-but-will-delay-rollback-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T153518">2022-09-24 15:35:18 UTC</a></sub>
 * [Last West Coast Delta IV Heavy launches with NROL-91](https://www.nasaspaceflight.com/2022/09/delta-iv-nrol-91/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T151713">2022-09-24 15:17:13 UTC</a></sub>
+* [SpaceX launches another successful Starlink mission from Florida](https://spaceflightnow.com/2022/09/24/falcon-9-starlink-4-35-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T041005">2022-09-24 04:10:05 UTC</a></sub>
 * [NASA to Cover Crew Arrival to Launch Site, Flight Readiness Review](http://www.nasa.gov/press-release/nasa-to-cover-crew-arrival-to-launch-site-flight-readiness-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T221000">2022-09-23 22:10:00 UTC</a></sub>
 * [Historic launch pad faces uncertain future after final West Coast Delta 4 mission](https://spaceflightnow.com/2022/09/23/historic-california-launch-pad-faces-uncertain-future-after-final-west-coast-delta-4-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T212013">2022-09-23 21:20:13 UTC</a></sub>
 * [Photos: Delta 4-Heavy rocket on the launch pad in California](https://spaceflightnow.com/2022/09/23/photos-delta-4-heavy-rocket-on-the-launch-pad-in-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T212013">2022-09-23 21:20:13 UTC</a></sub>
 * [NASA seems to be in full “send it” mode for the Artemis I mission](https://arstechnica.com/science/2022/09/nasa-seems-to-be-in-full-send-it-mode-for-the-artemis-i-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T210642">2022-09-23 21:06:42 UTC</a></sub>
-* [Elon Musk activates Starlink for Iranian citizens after US Sec of State issued a General License](https://www.teslarati.com/elon-musk-starlink-iran-us-sec-of-state/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T191028">2022-09-23 19:10:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T032937">2022-09-25 03:29:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T044710">2022-09-25 04:47:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
