@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK shortlists Astroscale and ClearSpace for multi-debris removal mission](https://spacenews.com/uk-shortlists-astroscale-and-clearspace-for-multi-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T185009">2022-09-26 18:50:09 UTC</a></sub>
 * [Brace for impact: NASA teams ready for DART’s asteroid impact test](https://www.nasaspaceflight.com/2022/09/dart-impact/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T181101">2022-09-26 18:11:01 UTC</a></sub>
 * [Hurricane Ian prompts NASA to move Artemis moon rocket back to its hangar](https://spaceflightnow.com/2022/09/26/hurricane-ian-prompts-nasa-to-move-artemis-moon-rocket-back-to-its-hangar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T165006">2022-09-26 16:50:06 UTC</a></sub>
 * [NASA makes the call to protect its Artemis I mission from Hurricane Ian](https://arstechnica.com/science/2022/09/nasa-makes-the-call-to-protect-its-artemis-i-mission-from-hurricane-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T155854">2022-09-26 15:58:54 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [DART on track for asteroid collision](https://spacenews.com/dart-on-track-for-asteroid-collision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T160009">2022-09-25 16:00:09 UTC</a></sub>
 * [SpaceX breaks pad turnaround record with two Falcon 9 launches in six days](https://www.teslarati.com/spacex-new-launch-pad-turnaround-record-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T005026">2022-09-25 00:50:26 UTC</a></sub>
 * [NRO satellite flies to orbit in Delta 4’s final West Coast launch](https://spacenews.com/nro-satellite-flies-to-orbit-in-delta-4s-final-west-coast-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T232013">2022-09-24 23:20:13 UTC</a></sub>
-* [NASA waves off Tuesday launch for Artemis moon rocket](https://spaceflightnow.com/2022/09/24/nasa-waves-off-tuesday-launch-for-artemis-moon-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T212013">2022-09-24 21:20:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T190926">2022-09-26 19:09:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T193606">2022-09-26 19:36:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
