@@ -185,6 +185,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Starlink is now activated in Iran](https://www.teslarati.com/starlink-is-now-activated-in-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T191037">2022-09-25 19:10:37 UTC</a></sub>
 * [DART on track for asteroid collision](https://spacenews.com/dart-on-track-for-asteroid-collision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T160009">2022-09-25 16:00:09 UTC</a></sub>
+* [SpaceX breaks pad turnaround record with two Falcon 9 launches in six days](https://www.teslarati.com/spacex-new-launch-pad-turnaround-record-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T005026">2022-09-25 00:50:26 UTC</a></sub>
 * [NRO satellite flies to orbit in Delta 4’s final West Coast launch](https://spacenews.com/nro-satellite-flies-to-orbit-in-delta-4s-final-west-coast-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T232013">2022-09-24 23:20:13 UTC</a></sub>
 * [NASA waves off Tuesday launch for Artemis moon rocket](https://spaceflightnow.com/2022/09/24/nasa-waves-off-tuesday-launch-for-artemis-moon-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T212013">2022-09-24 21:20:13 UTC</a></sub>
 * [Delta 4-Heavy rocket deploys spysat on final planned mission from ‘Slick Six’](https://spaceflightnow.com/2022/09/24/delta-4-heavy-rocket-deploys-spy-satellite-on-final-planned-mission-from-slick-six-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T210008">2022-09-24 21:00:08 UTC</a></sub>
@@ -192,7 +193,6 @@ region. The mission's status is currently Go for Launch
 * [NASA cancels Artemis I launch attempt but delays roll back decision](https://arstechnica.com/science/2022/09/nasa-cancels-artemis-i-launch-attempt-but-will-delay-rollback-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T153518">2022-09-24 15:35:18 UTC</a></sub>
 * [Last West Coast Delta IV Heavy launches with NROL-91](https://www.nasaspaceflight.com/2022/09/delta-iv-nrol-91/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T151713">2022-09-24 15:17:13 UTC</a></sub>
 * [SpaceX launches another successful Starlink mission from Florida](https://spaceflightnow.com/2022/09/24/falcon-9-starlink-4-35-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T041005">2022-09-24 04:10:05 UTC</a></sub>
-* [NASA to Cover Crew Arrival to Launch Site, Flight Readiness Review](http://www.nasa.gov/press-release/nasa-to-cover-crew-arrival-to-launch-site-flight-readiness-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T221000">2022-09-23 22:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T004013">2022-09-26 00:40:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T034149">2022-09-26 03:41:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
