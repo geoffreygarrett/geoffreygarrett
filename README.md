@@ -186,10 +186,10 @@ region. The mission's status is currently Go for Launch
 * [NASA makes the call to protect its Artemis I mission from Hurricane Ian](https://arstechnica.com/science/2022/09/nasa-makes-the-call-to-protect-its-artemis-i-mission-from-hurricane-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T155854">2022-09-26 15:58:54 UTC</a></sub>
 * [SLS to roll back to VAB as hurricane approaches Florida](https://spacenews.com/sls-to-roll-back-to-vab-as-hurricane-approaches-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T153011">2022-09-26 15:30:11 UTC</a></sub>
 * [NASA and ESA sign lunar cooperation statement](https://spacenews.com/nasa-and-esa-sign-lunar-cooperation-statement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T103010">2022-09-26 10:30:10 UTC</a></sub>
+* [NASA spacecraft on track for asteroid deflection experiment](https://spaceflightnow.com/2022/09/25/nasa-spacecraft-on-track-for-asteroid-deflection-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T201005">2022-09-25 20:10:05 UTC</a></sub>
 * [Starlink is now activated in Iran](https://www.teslarati.com/starlink-is-now-activated-in-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T191037">2022-09-25 19:10:37 UTC</a></sub>
 * [DART on track for asteroid collision](https://spacenews.com/dart-on-track-for-asteroid-collision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T160009">2022-09-25 16:00:09 UTC</a></sub>
 * [SpaceX breaks pad turnaround record with two Falcon 9 launches in six days](https://www.teslarati.com/spacex-new-launch-pad-turnaround-record-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T005026">2022-09-25 00:50:26 UTC</a></sub>
-* [NRO satellite flies to orbit in Delta 4’s final West Coast launch](https://spacenews.com/nro-satellite-flies-to-orbit-in-delta-4s-final-west-coast-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T232013">2022-09-24 23:20:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T200735">2022-09-26 20:07:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T204131">2022-09-26 20:41:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
