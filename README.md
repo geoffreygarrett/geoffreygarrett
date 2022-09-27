@@ -180,15 +180,15 @@ region. The mission's status is currently To Be Determined
 
 <!-- spaceflight news starts -->
 * [UK shortlists Astroscale and ClearSpace for multi-debris removal mission](https://spacenews.com/uk-shortlists-astroscale-and-clearspace-for-multi-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T185009">2022-09-26 18:50:09 UTC</a></sub>
-* [Brace for impact: NASA teams ready for DART’s asteroid impact test](https://www.nasaspaceflight.com/2022/09/dart-impact/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T181101">2022-09-26 18:11:01 UTC</a></sub>
+* [Brace for impact: DART successfully slams into asteroid](https://www.nasaspaceflight.com/2022/09/dart-impact/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T181101">2022-09-26 18:11:01 UTC</a></sub>
 * [Hurricane Ian prompts NASA to move Artemis moon rocket back to its hangar](https://spaceflightnow.com/2022/09/26/hurricane-ian-prompts-nasa-to-move-artemis-moon-rocket-back-to-its-hangar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T165006">2022-09-26 16:50:06 UTC</a></sub>
 * [NASA makes the call to protect its Artemis I mission from Hurricane Ian](https://arstechnica.com/science/2022/09/nasa-makes-the-call-to-protect-its-artemis-i-mission-from-hurricane-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T155854">2022-09-26 15:58:54 UTC</a></sub>
 * [SLS to roll back to VAB as hurricane approaches Florida](https://spacenews.com/sls-to-roll-back-to-vab-as-hurricane-approaches-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T153011">2022-09-26 15:30:11 UTC</a></sub>
 * [NASA and ESA sign lunar cooperation statement](https://spacenews.com/nasa-and-esa-sign-lunar-cooperation-statement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T103010">2022-09-26 10:30:10 UTC</a></sub>
+* [DART collides with asteroid in planetary defense test](https://spacenews.com/dart-collides-with-asteroid-in-planetary-defense-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T000009">2022-09-26 00:00:09 UTC</a></sub>
 * [NASA spacecraft on track for asteroid deflection experiment](https://spaceflightnow.com/2022/09/25/nasa-spacecraft-on-track-for-asteroid-deflection-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T201005">2022-09-25 20:10:05 UTC</a></sub>
 * [Starlink is now activated in Iran](https://www.teslarati.com/starlink-is-now-activated-in-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T191037">2022-09-25 19:10:37 UTC</a></sub>
 * [DART on track for asteroid collision](https://spacenews.com/dart-on-track-for-asteroid-collision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T160009">2022-09-25 16:00:09 UTC</a></sub>
-* [SpaceX breaks pad turnaround record with two Falcon 9 launches in six days](https://www.teslarati.com/spacex-new-launch-pad-turnaround-record-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T005026">2022-09-25 00:50:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T234742">2022-09-26 23:47:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T004316">2022-09-27 00:43:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
