@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China conducts three launches with Shiyan and Yaogan satellites](https://www.nasaspaceflight.com/2022/09/china-three-launches-shiyan-yaogan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T155145">2022-09-27 15:51:45 UTC</a></sub>
 * [NASA Awards Laboratory Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-laboratory-support-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T151000">2022-09-27 15:10:00 UTC</a></sub>
 * [Crew-5 launch preparations continue amid hurricane threat](https://spacenews.com/crew-5-launch-preparations-continue-amid-hurricane-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T143031">2022-09-27 14:30:31 UTC</a></sub>
 * [China conducts trio of orbital launches across two days](https://spacenews.com/china-conducts-trio-of-orbital-launches-across-two-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T140029">2022-09-27 14:00:29 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Determined
 * [TransAstra and Celestron to modify telescopes for spaceflight](https://spacenews.com/transastra-celestron-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T091008">2022-09-27 09:10:08 UTC</a></sub>
 * [UK shortlists Astroscale and ClearSpace for multi-debris removal mission](https://spacenews.com/uk-shortlists-astroscale-and-clearspace-for-multi-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T185009">2022-09-26 18:50:09 UTC</a></sub>
 * [Brace for impact: DART successfully slams into asteroid](https://www.nasaspaceflight.com/2022/09/dart-impact/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T181101">2022-09-26 18:11:01 UTC</a></sub>
-* [Hurricane Ian prompts NASA to move Artemis moon rocket back to its hangar](https://spaceflightnow.com/2022/09/26/hurricane-ian-prompts-nasa-to-move-artemis-moon-rocket-back-to-its-hangar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T165006">2022-09-26 16:50:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T161231">2022-09-27 16:12:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T170540">2022-09-27 17:05:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
