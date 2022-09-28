@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China seeks new partners for lunar and deep space exploration](https://spacenews.com/china-seeks-new-partners-for-lunar-and-deep-space-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T074013">2022-09-28 07:40:13 UTC</a></sub>
 * [China conducts three launches with Shiyan and Yaogan satellites](https://www.nasaspaceflight.com/2022/09/china-three-launches-shiyan-yaogan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T155145">2022-09-27 15:51:45 UTC</a></sub>
 * [NASA Awards Laboratory Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-laboratory-support-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T151000">2022-09-27 15:10:00 UTC</a></sub>
 * [Crew-5 launch preparations continue amid hurricane threat](https://spacenews.com/crew-5-launch-preparations-continue-amid-hurricane-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T143031">2022-09-27 14:30:31 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Lawmakers press Air Force for final decision on U.S. Space Command](https://spacenews.com/lawmakers-press-air-force-for-final-decision-on-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T101009">2022-09-27 10:10:09 UTC</a></sub>
 * [TransAstra and Celestron to modify telescopes for spaceflight](https://spacenews.com/transastra-celestron-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T091008">2022-09-27 09:10:08 UTC</a></sub>
 * [Hurricane Ian delays SpaceX’s next NASA astronaut launch](https://www.teslarati.com/spacex-nasa-hurricane-delays-astronaut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T015052">2022-09-27 01:50:52 UTC</a></sub>
-* [NASA to assess SLS work and next launch opportunities after rollback](https://spacenews.com/nasa-to-assess-sls-work-and-next-launch-opportunities-after-rollback/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T005018">2022-09-27 00:50:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T075228">2022-09-28 07:52:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T081234">2022-09-28 08:12:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
