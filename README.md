@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kayhan, Astroscale, UT Austin win Space Force study contract for in-orbit servicing technology](https://spacenews.com/kayhan-astroscale-ut-austin-win-space-force-study-contract-for-in-orbit-servicing-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T111012">2022-09-28 11:10:12 UTC</a></sub>
 * [China seeks new partners for lunar and deep space exploration](https://spacenews.com/china-seeks-new-partners-for-lunar-and-deep-space-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T074013">2022-09-28 07:40:13 UTC</a></sub>
 * [China conducts three launches with Shiyan and Yaogan satellites](https://www.nasaspaceflight.com/2022/09/china-three-launches-shiyan-yaogan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T155145">2022-09-27 15:51:45 UTC</a></sub>
 * [NASA Awards Laboratory Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-laboratory-support-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T151000">2022-09-27 15:10:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Ian reaches major hurricane status, will be a historic storm for Florida](https://arstechnica.com/science/2022/09/ian-reaches-major-hurricane-status-will-be-a-historic-storm-for-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T124806">2022-09-27 12:48:06 UTC</a></sub>
 * [Lawmakers press Air Force for final decision on U.S. Space Command](https://spacenews.com/lawmakers-press-air-force-for-final-decision-on-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T101009">2022-09-27 10:10:09 UTC</a></sub>
 * [TransAstra and Celestron to modify telescopes for spaceflight](https://spacenews.com/transastra-celestron-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T091008">2022-09-27 09:10:08 UTC</a></sub>
-* [Hurricane Ian delays SpaceX’s next NASA astronaut launch](https://www.teslarati.com/spacex-nasa-hurricane-delays-astronaut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T015052">2022-09-27 01:50:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T110729">2022-09-28 11:07:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T113933">2022-09-28 11:39:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
