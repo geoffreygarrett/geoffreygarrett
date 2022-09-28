@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to Northrop Grumman’s Antares Cargo Resupply Launch](http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-antares-cargo-resupply-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T144000">2022-09-28 14:40:00 UTC</a></sub>
 * [As a meteorologist, Hurricane Ian is the nightmare storm I worry about most](https://arstechnica.com/science/2022/09/as-a-meteorologist-hurricane-ian-is-the-nightmare-storm-i-worry-about-most/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T133447">2022-09-28 13:34:47 UTC</a></sub>
 * [Kayhan, Astroscale, UT Austin win Space Force study contract for in-orbit servicing technology](https://spacenews.com/kayhan-astroscale-ut-austin-win-space-force-study-contract-for-in-orbit-servicing-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T111012">2022-09-28 11:10:12 UTC</a></sub>
 * [China seeks new partners for lunar and deep space exploration](https://spacenews.com/china-seeks-new-partners-for-lunar-and-deep-space-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T074013">2022-09-28 07:40:13 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [China conducts trio of orbital launches across two days](https://spacenews.com/china-conducts-trio-of-orbital-launches-across-two-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T140029">2022-09-27 14:00:29 UTC</a></sub>
 * [Artemis 1 rocket moved to hangar as spaceport completes hurricane preps](https://spaceflightnow.com/2022/09/27/artemis-1-rocket-moved-to-hangar-as-kennedy-space-center-completes-hurricane-preps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T134006">2022-09-27 13:40:06 UTC</a></sub>
 * [NASA to Provide Media Update on Artemis I Rollback](http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-artemis-i-rollback) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T132100">2022-09-27 13:21:00 UTC</a></sub>
-* [Ian reaches major hurricane status, will be a historic storm for Florida](https://arstechnica.com/science/2022/09/ian-reaches-major-hurricane-status-will-be-a-historic-storm-for-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T124806">2022-09-27 12:48:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T140931">2022-09-28 14:09:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T145351">2022-09-28 14:53:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
