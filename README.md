@@ -186,11 +186,11 @@ region. The mission's status is currently Go for Launch
 * [Lamborn: ‘Merit on both sides’ of debate over Space National Guard](https://spacenews.com/lamborn-merit-on-both-sides-of-debate-over-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T232030">2022-09-28 23:20:30 UTC</a></sub>
 * [SpaceX, ULA postpone launches as Hurricane Ian moves toward Florida](https://spaceflightnow.com/2022/09/28/spacex-ula-postpone-launches-as-hurricane-ian-threatens-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T212029">2022-09-28 21:20:29 UTC</a></sub>
 * [NASA Awards Commercial Small Satellite Data Acquisition Agreement](http://www.nasa.gov/press-release/nasa-awards-commercial-small-satellite-data-acquisition-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T200100">2022-09-28 20:01:00 UTC</a></sub>
-* [NRO signs agreements with six commercial providers of space-based RF data](https://spacenews.com/nro-signs-agreements-with-six-commercial-providers-of-space-based-rf-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
 * [Lynk Global to deploy experimental 5G payload in December](https://spacenews.com/lynk-global-to-deploy-experimental-5g-payload-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
-* [Watch live views from Kennedy Space Center as Hurricane Ian impacts Florida](https://spaceflightnow.com/2022/09/28/hurricane-ian-impacts-ksc-live/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T181009">2022-09-28 18:10:09 UTC</a></sub>
+* [NRO signs agreements with six commercial providers of space-based RF data](https://spacenews.com/nro-signs-agreements-with-six-commercial-providers-of-space-based-rf-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
 * [Florida spaceports brace for Hurricane Ian](https://www.nasaspaceflight.com/2022/09/brace-for-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T155400">2022-09-28 15:54:00 UTC</a></sub>
 * [NASA Invites Media to Northrop Grumman’s Antares Cargo Resupply Launch](http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-antares-cargo-resupply-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T144000">2022-09-28 14:40:00 UTC</a></sub>
+* [As a meteorologist, Hurricane Ian is the nightmare storm I worry about most](https://arstechnica.com/science/2022/09/as-a-meteorologist-hurricane-ian-is-the-nightmare-storm-i-worry-about-most/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T133447">2022-09-28 13:34:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T091440">2022-09-29 09:14:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T094739">2022-09-29 09:47:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
