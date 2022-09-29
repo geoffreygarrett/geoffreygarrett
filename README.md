@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kendall: Power competition in space becoming more destabilizing](https://spacenews.com/kendall-power-competition-in-space-becoming-more-destabilizing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T212046">2022-09-29 21:20:46 UTC</a></sub>
 * [Majority of tracked Russian ASAT debris has deorbited](https://spacenews.com/majority-of-tracked-russian-asat-debris-has-deorbited/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T203038">2022-09-29 20:30:38 UTC</a></sub>
 * [Russian Soyuz brings three cosmonauts home from space station](https://spaceflightnow.com/2022/09/29/russian-soyuz-brings-three-cosmonauts-home-from-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T195022">2022-09-29 19:50:22 UTC</a></sub>
 * [Juno swoops past Europa, revealing the mysterious, icy world [Updated]](https://arstechnica.com/science/2022/09/nasa-just-made-a-close-flyby-of-jupiters-most-intriguing-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T183020">2022-09-29 18:30:20 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [FCC approves new orbital debris rule](https://spacenews.com/fcc-approves-new-orbital-debris-rule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T164039">2022-09-29 16:40:39 UTC</a></sub>
 * [NASA Awards Contracts in Support of Entry, Decent, Landing Technology](http://www.nasa.gov/press-release/nasa-awards-contracts-in-support-of-entry-decent-landing-technology) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T144100">2022-09-29 14:41:00 UTC</a></sub>
 * [NASA and Astra modify TROPICS launch contract](https://spacenews.com/nasa-and-astra-modify-tropics-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T115031">2022-09-29 11:50:31 UTC</a></sub>
-* [House committee questions FCC orbital debris rule](https://spacenews.com/house-committee-questions-fcc-orbital-debris-rule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T103040">2022-09-29 10:30:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T210653">2022-09-29 21:06:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T214306">2022-09-29 21:43:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
