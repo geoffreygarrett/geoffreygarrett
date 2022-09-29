@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Contracts in Support of Entry, Descent, Landing Technology](http://www.nasa.gov/press-release/nasa-awards-contracts-in-support-of-entry-descent-landing-technology) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T171100">2022-09-29 17:11:00 UTC</a></sub>
 * [NASA Invites Media to Discuss New Science, Commercial Study Today](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-new-science-commercial-study-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T164100">2022-09-29 16:41:00 UTC</a></sub>
 * [FCC approves new orbital debris rule](https://spacenews.com/fcc-approves-new-orbital-debris-rule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T164039">2022-09-29 16:40:39 UTC</a></sub>
 * [NASA Awards Contracts in Support of Entry, Decent, Landing Technology](http://www.nasa.gov/press-release/nasa-awards-contracts-in-support-of-entry-decent-landing-technology) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T144100">2022-09-29 14:41:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Soyuz MS-21 lands on the Kazakh steppe to complete 195 day mission](https://www.nasaspaceflight.com/2022/09/soyuz-ms-21-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T000859">2022-09-29 00:08:59 UTC</a></sub>
 * [Shift to remote work draws mixed reactions](https://spacenews.com/remote-working-trend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T235034">2022-09-28 23:50:34 UTC</a></sub>
 * [Lamborn: ‘Merit on both sides’ of debate over Space National Guard](https://spacenews.com/lamborn-merit-on-both-sides-of-debate-over-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T232030">2022-09-28 23:20:30 UTC</a></sub>
-* [SpaceX, ULA postpone launches as Hurricane Ian moves toward Florida](https://spaceflightnow.com/2022/09/28/spacex-ula-postpone-launches-as-hurricane-ian-threatens-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T212029">2022-09-28 21:20:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T170544">2022-09-29 17:05:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T175346">2022-09-29 17:53:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
