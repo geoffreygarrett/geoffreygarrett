@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Juno just raced by Europa, providing our best look in 20 years at the icy world](https://arstechnica.com/science/2022/09/nasa-just-made-a-close-flyby-of-jupiters-most-intriguing-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T132020">2022-09-29 13:20:20 UTC</a></sub>
 * [NASA and Astra modify TROPICS launch contract](https://spacenews.com/nasa-and-astra-modify-tropics-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T115031">2022-09-29 11:50:31 UTC</a></sub>
 * [House committee questions FCC orbital debris rule](https://spacenews.com/house-committee-questions-fcc-orbital-debris-rule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T103040">2022-09-29 10:30:40 UTC</a></sub>
 * [Soyuz MS-21 lands on the Kazakh steppe to complete 195 day mission](https://www.nasaspaceflight.com/2022/09/soyuz-ms-21-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T000859">2022-09-29 00:08:59 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Awards Commercial Small Satellite Data Acquisition Agreement](http://www.nasa.gov/press-release/nasa-awards-commercial-small-satellite-data-acquisition-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T200100">2022-09-28 20:01:00 UTC</a></sub>
 * [NRO signs agreements with six commercial providers of space-based RF data](https://spacenews.com/nro-signs-agreements-with-six-commercial-providers-of-space-based-rf-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
 * [Lynk Global to deploy experimental 5G payload in December](https://spacenews.com/lynk-global-to-deploy-experimental-5g-payload-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
-* [Florida spaceports brace for Hurricane Ian](https://www.nasaspaceflight.com/2022/09/brace-for-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T155400">2022-09-28 15:54:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T132310">2022-09-29 13:23:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T140636">2022-09-29 14:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
