@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX wants to boost Hubble Space Telescope’s orbit with Dragon spacecraft](https://www.teslarati.com/spacex-nasa-hubble-space-telescope-orbit-boost-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T225027">2022-09-29 22:50:27 UTC</a></sub>
+* [NASA and SpaceX are studying a Hubble telescope boost, adding 15 to 20 years of life](https://arstechnica.com/science/2022/09/nasa-and-spacex-are-studying-a-hubble-telescope-boost-adding-15-to-20-years-of-life/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T224539">2022-09-29 22:45:39 UTC</a></sub>
 * [First ViaSat-3 enters environmental testing](https://spacenews.com/first-viasat-3-enters-environmental-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T224010">2022-09-29 22:40:10 UTC</a></sub>
 * [NASA Awards Contract for Acquisition of Gaseous, Liquid Helium](http://www.nasa.gov/press-release/nasa-awards-contract-for-acquisition-of-gaseous-liquid-helium) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T221100">2022-09-29 22:11:00 UTC</a></sub>
 * [Hungary’s 4iG to buy a majority of Spacecom in stages](https://spacenews.com/hungarys-4ig-to-buy-a-majority-of-spacecom-in-stages/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T220048">2022-09-29 22:00:48 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Russian Soyuz brings three cosmonauts home from space station](https://spaceflightnow.com/2022/09/29/russian-soyuz-brings-three-cosmonauts-home-from-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T195022">2022-09-29 19:50:22 UTC</a></sub>
 * [Juno swoops past Europa, revealing the mysterious, icy world [Updated]](https://arstechnica.com/science/2022/09/nasa-just-made-a-close-flyby-of-jupiters-most-intriguing-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T183020">2022-09-29 18:30:20 UTC</a></sub>
 * [Firefly slated for another launch attempt for second Alpha flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T181632">2022-09-29 18:16:32 UTC</a></sub>
-* [NASA Awards Contracts in Support of Entry, Descent, Landing Technology](http://www.nasa.gov/press-release/nasa-awards-contracts-in-support-of-entry-descent-landing-technology) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T171100">2022-09-29 17:11:00 UTC</a></sub>
-* [NASA Invites Media to Discuss New Science, Commercial Study Today](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-new-science-commercial-study-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T164100">2022-09-29 16:41:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T230756">2022-09-29 23:07:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T235023">2022-09-29 23:50:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
