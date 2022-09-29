@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA and Astra modify TROPICS launch contract](https://spacenews.com/nasa-and-astra-modify-tropics-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T115031">2022-09-29 11:50:31 UTC</a></sub>
 * [House committee questions FCC orbital debris rule](https://spacenews.com/house-committee-questions-fcc-orbital-debris-rule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T103040">2022-09-29 10:30:40 UTC</a></sub>
 * [Soyuz MS-21 lands on the Kazakh steppe to complete 195 day mission](https://www.nasaspaceflight.com/2022/09/soyuz-ms-21-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T000859">2022-09-29 00:08:59 UTC</a></sub>
 * [Shift to remote work draws mixed reactions](https://spacenews.com/remote-working-trend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T235034">2022-09-28 23:50:34 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NRO signs agreements with six commercial providers of space-based RF data](https://spacenews.com/nro-signs-agreements-with-six-commercial-providers-of-space-based-rf-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
 * [Lynk Global to deploy experimental 5G payload in December](https://spacenews.com/lynk-global-to-deploy-experimental-5g-payload-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
 * [Florida spaceports brace for Hurricane Ian](https://www.nasaspaceflight.com/2022/09/brace-for-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T155400">2022-09-28 15:54:00 UTC</a></sub>
-* [NASA Invites Media to Northrop Grumman’s Antares Cargo Resupply Launch](http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-antares-cargo-resupply-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T144000">2022-09-28 14:40:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T113943">2022-09-29 11:39:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T121327">2022-09-29 12:13:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
