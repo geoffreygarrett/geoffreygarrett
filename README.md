@@ -181,8 +181,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NASA and SpaceX to study possible private Hubble servicing mission](https://spacenews.com/nasa-and-spacex-to-study-possible-private-hubble-servicing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T124009">2022-09-30 12:40:09 UTC</a></sub>
+* [NASA Updates Crew Assignments for First Starliner Crew Rotation Flight](http://www.nasa.gov/press-release/nasa-updates-crew-assignments-for-first-starliner-crew-rotation-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T142000">2022-09-30 14:20:00 UTC</a></sub>
 * [South Korea seeks $32.9 million to launch satellites grounded by Russia sanctions](https://spacenews.com/south-korea-seeks-32-9-million-to-launch-satellites-grounded-by-russia-sanctions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T124009">2022-09-30 12:40:09 UTC</a></sub>
+* [NASA and SpaceX to study possible private Hubble servicing mission](https://spacenews.com/nasa-and-spacex-to-study-possible-private-hubble-servicing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T124009">2022-09-30 12:40:09 UTC</a></sub>
 * [Rocket Report: BE-4 engine breathes fire; Delta IV Heavy puts on a show](https://arstechnica.com/science/2022/09/rocket-report-be-4-engine-breathes-fire-delta-iv-heavy-puts-on-a-show/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T110059">2022-09-30 11:00:59 UTC</a></sub>
 * [SpaceX wants to boost Hubble Space Telescope’s orbit with Dragon spacecraft](https://www.teslarati.com/spacex-nasa-hubble-space-telescope-orbit-boost-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T225027">2022-09-29 22:50:27 UTC</a></sub>
 * [NASA and SpaceX are studying a Hubble telescope boost, adding 15 to 20 years of life](https://arstechnica.com/science/2022/09/nasa-and-spacex-are-studying-a-hubble-telescope-boost-adding-15-to-20-years-of-life/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T224539">2022-09-29 22:45:39 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Awards Contract for Acquisition of Gaseous, Liquid Helium](http://www.nasa.gov/press-release/nasa-awards-contract-for-acquisition-of-gaseous-liquid-helium) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T221100">2022-09-29 22:11:00 UTC</a></sub>
 * [Hungary’s 4iG to buy a majority of Spacecom in stages](https://spacenews.com/hungarys-4ig-to-buy-a-majority-of-spacecom-in-stages/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T220048">2022-09-29 22:00:48 UTC</a></sub>
 * [Kendall: Power competition in space becoming more destabilizing](https://spacenews.com/kendall-power-competition-in-space-becoming-more-destabilizing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T212046">2022-09-29 21:20:46 UTC</a></sub>
-* [Majority of tracked Russian ASAT debris has deorbited](https://spacenews.com/majority-of-tracked-russian-asat-debris-has-deorbited/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T203038">2022-09-29 20:30:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A smashing success](https://www.planetary.org/the-downlink/a-smashing-success) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T143042">2022-09-30 14:30:42 UTC</a></sub>
 * [JWST’s carbon dioxide discovery is good news for Earth-like worlds](https://www.planetary.org/articles/jwst-carbon-dioxide-discovery-earth-like-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T140119">2022-09-27 14:01:19 UTC</a></sub>
 * [See DART’s final images before it smashed into an asteroid](https://www.planetary.org/articles/nasa-dart-final-images-asteroid-crash) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T233140">2022-09-26 23:31:40 UTC</a></sub>
 * [European Spaceflight Update - Wired gets it wrong](https://www.getrevue.co/profile/andrewparsonson/issues/wired-gets-it-wrong-1368173) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T135041">2022-09-26 13:50:41 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently To Be Confirmed
 * [DART impact: What to expect](https://www.planetary.org/articles/dart-impact-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T214025">2022-09-21 21:40:25 UTC</a></sub>
 * [Whoop whoop whoop! nasa insight 'hears' an asteroid impact on mars](https://www.syfy.com/syfy-wire/bad-astronomy-asteroid-impacts-on-mars-heard-by-nasa-insight-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T120000">2022-09-21 12:00:00 UTC</a></sub>
 * [SES-20/21: Commercial satellite tandem stacked atop Atlas V](https://blog.ulalaunch.com/blog/ses-20/21-commercial-satellite-tandem-stacked-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T204035">2022-09-20 20:40:35 UTC</a></sub>
-* [European Spaceflight Update - How not to handle safety concerns](https://www.getrevue.co/profile/andrewparsonson/issues/how-not-to-handle-safety-concerns-1357358) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T143042">2022-09-19 14:30:42 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T141017">2022-09-30 14:10:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T145306">2022-09-30 14:53:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
