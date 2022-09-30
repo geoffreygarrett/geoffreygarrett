@@ -190,7 +190,7 @@ region. The mission's status is currently To Be Confirmed
 * [Majority of tracked Russian ASAT debris has deorbited](https://spacenews.com/majority-of-tracked-russian-asat-debris-has-deorbited/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T203038">2022-09-29 20:30:38 UTC</a></sub>
 * [Russian Soyuz brings three cosmonauts home from space station](https://spaceflightnow.com/2022/09/29/russian-soyuz-brings-three-cosmonauts-home-from-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T195022">2022-09-29 19:50:22 UTC</a></sub>
 * [Juno swoops past Europa, revealing the mysterious, icy world [Updated]](https://arstechnica.com/science/2022/09/nasa-just-made-a-close-flyby-of-jupiters-most-intriguing-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T183020">2022-09-29 18:30:20 UTC</a></sub>
-* [Firefly slated for another launch attempt for second Alpha flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T181632">2022-09-29 18:16:32 UTC</a></sub>
+* [Firefly scrubs launch attempt for second Alpha flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T181632">2022-09-29 18:16:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T081624">2022-09-30 08:16:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T085924">2022-09-30 08:59:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
