@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: BE-4 engine breathes fire; Delta IV Heavy puts on a show](https://arstechnica.com/science/2022/09/rocket-report-be-4-engine-breathes-fire-delta-iv-heavy-puts-on-a-show/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T110059">2022-09-30 11:00:59 UTC</a></sub>
 * [SpaceX wants to boost Hubble Space Telescope’s orbit with Dragon spacecraft](https://www.teslarati.com/spacex-nasa-hubble-space-telescope-orbit-boost-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T225027">2022-09-29 22:50:27 UTC</a></sub>
 * [NASA and SpaceX are studying a Hubble telescope boost, adding 15 to 20 years of life](https://arstechnica.com/science/2022/09/nasa-and-spacex-are-studying-a-hubble-telescope-boost-adding-15-to-20-years-of-life/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T224539">2022-09-29 22:45:39 UTC</a></sub>
 * [First ViaSat-3 enters environmental testing](https://spacenews.com/first-viasat-3-enters-environmental-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T224010">2022-09-29 22:40:10 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Majority of tracked Russian ASAT debris has deorbited](https://spacenews.com/majority-of-tracked-russian-asat-debris-has-deorbited/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T203038">2022-09-29 20:30:38 UTC</a></sub>
 * [Russian Soyuz brings three cosmonauts home from space station](https://spaceflightnow.com/2022/09/29/russian-soyuz-brings-three-cosmonauts-home-from-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T195022">2022-09-29 19:50:22 UTC</a></sub>
 * [Juno swoops past Europa, revealing the mysterious, icy world [Updated]](https://arstechnica.com/science/2022/09/nasa-just-made-a-close-flyby-of-jupiters-most-intriguing-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T183020">2022-09-29 18:30:20 UTC</a></sub>
-* [Firefly scrubs launch attempt for second Alpha flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T181632">2022-09-29 18:16:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T110537">2022-09-30 11:05:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T113919">2022-09-30 11:39:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
