@@ -181,6 +181,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Coverage Set for NASA’s SpaceX Crew-5 Events, Broadcast, Launch](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-5-events-broadcast-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T221100">2022-09-30 22:11:00 UTC</a></sub>
+* [Florida’s Space Coast on track after Ian, set for 3 launches in 3 days](https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T220657">2022-09-30 22:06:57 UTC</a></sub>
 * [US candidate to be first woman to lead UN telecoms agency](https://spacenews.com/us-candidate-to-be-first-woman-to-lead-un-telecoms-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T211013">2022-09-30 21:10:13 UTC</a></sub>
 * [Space surveillance telescope developed by the U.S. begins operations in Australia](https://spacenews.com/space-surveillance-telescope-developed-by-the-u-s-begins-operations-in-australia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T175009">2022-09-30 17:50:09 UTC</a></sub>
 * [National Space Council to seek industry input on future regulatory framework](https://spacenews.com/national-space-council-to-seek-industry-input-on-future-regulatory-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T164009">2022-09-30 16:40:09 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Updates Crew Assignments for First Starliner Crew Rotation Flight](http://www.nasa.gov/press-release/nasa-updates-crew-assignments-for-first-starliner-crew-rotation-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T142000">2022-09-30 14:20:00 UTC</a></sub>
 * [South Korea seeks $32.9 million to launch satellites grounded by Russia sanctions](https://spacenews.com/south-korea-seeks-32-9-million-to-launch-satellites-grounded-by-russia-sanctions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T124009">2022-09-30 12:40:09 UTC</a></sub>
 * [NASA and SpaceX to study possible private Hubble servicing mission](https://spacenews.com/nasa-and-spacex-to-study-possible-private-hubble-servicing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T124009">2022-09-30 12:40:09 UTC</a></sub>
-* [Rocket Report: BE-4 engine breathes fire; Delta IV Heavy puts on a show](https://arstechnica.com/science/2022/09/rocket-report-be-4-engine-breathes-fire-delta-iv-heavy-puts-on-a-show/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T110059">2022-09-30 11:00:59 UTC</a></sub>
-* [SpaceX wants to boost Hubble Space Telescope’s orbit with Dragon spacecraft](https://www.teslarati.com/spacex-nasa-hubble-space-telescope-orbit-boost-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T225027">2022-09-29 22:50:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T220649">2022-09-30 22:06:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T224349">2022-09-30 22:43:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
