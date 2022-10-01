@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Firefly succeeds on second Alpha flight](https://www.nasaspaceflight.com/2022/10/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T091632">2022-10-01 09:16:32 UTC</a></sub>
 * [Coverage Set for NASA’s SpaceX Crew-5 Events, Broadcast, Launch](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-5-events-broadcast-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T221100">2022-09-30 22:11:00 UTC</a></sub>
 * [Florida’s Space Coast on track after Ian, set for 3 launches in 3 days](https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T220657">2022-09-30 22:06:57 UTC</a></sub>
 * [US candidate to be first woman to lead UN telecoms agency](https://spacenews.com/us-candidate-to-be-first-woman-to-lead-un-telecoms-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T211013">2022-09-30 21:10:13 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force studying requirements for cislunar space domain awareness](https://spacenews.com/space-force-studying-requirements-for-cislunar-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T153015">2022-09-30 15:30:15 UTC</a></sub>
 * [NASA Updates Crew Assignments for First Starliner Crew Rotation Flight](http://www.nasa.gov/press-release/nasa-updates-crew-assignments-for-first-starliner-crew-rotation-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T142000">2022-09-30 14:20:00 UTC</a></sub>
 * [South Korea seeks $32.9 million to launch satellites grounded by Russia sanctions](https://spacenews.com/south-korea-seeks-32-9-million-to-launch-satellites-grounded-by-russia-sanctions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T124009">2022-09-30 12:40:09 UTC</a></sub>
-* [NASA and SpaceX to study possible private Hubble servicing mission](https://spacenews.com/nasa-and-spacex-to-study-possible-private-hubble-servicing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T124009">2022-09-30 12:40:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T141252">2022-10-01 14:12:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T144033">2022-10-01 14:40:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
