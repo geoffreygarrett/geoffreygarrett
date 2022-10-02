@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Amid Starship milestones, Booster 7 set to return for pre-launch testing](https://www.nasaspaceflight.com/2022/10/starship-booster-7-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T202758">2022-10-02 20:27:58 UTC</a></sub>
 * [Space Development Agency is now officially part of the Space Force](https://spacenews.com/space-development-agency-is-now-officially-part-of-the-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T222008">2022-10-01 22:20:08 UTC</a></sub>
+* [NASA rules out launch of Artemis 1 moon rocket before mid-November](https://spaceflightnow.com/2022/10/01/nasa-rules-out-launch-of-artemis-1-moon-rocket-before-mid-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T222005">2022-10-01 22:20:05 UTC</a></sub>
 * [Preps resume for SpaceX crew launch after Hurricane Ian](https://spaceflightnow.com/2022/10/01/preps-resume-for-spacex-crew-launch-after-hurricane-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T213007">2022-10-01 21:30:07 UTC</a></sub>
 * [Firefly reaches orbit in successful demonstration launch from California](https://spaceflightnow.com/2022/10/01/firefly-reaches-orbit-in-successful-demonstration-launch-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T192005">2022-10-01 19:20:05 UTC</a></sub>
 * [Firefly, Millennium Space selected for U.S. Space Force rapid-launch demonstration](https://spacenews.com/firefly-millennium-space-selected-for-u-s-space-force-rapid-launch-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T173010">2022-10-01 17:30:10 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Firefly succeeds on second Alpha flight](https://www.nasaspaceflight.com/2022/10/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T091632">2022-10-01 09:16:32 UTC</a></sub>
 * [Coverage Set for NASA’s SpaceX Crew-5 Events, Broadcast, Launch](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-5-events-broadcast-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T221100">2022-09-30 22:11:00 UTC</a></sub>
 * [Florida’s Space Coast on track after Ian, set for 3 launches in 3 days](https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T220657">2022-09-30 22:06:57 UTC</a></sub>
-* [US candidate to be first woman to lead UN telecoms agency](https://spacenews.com/us-candidate-to-be-first-woman-to-lead-un-telecoms-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T211013">2022-09-30 21:10:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T220455">2022-10-02 22:04:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T224141">2022-10-02 22:41:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
