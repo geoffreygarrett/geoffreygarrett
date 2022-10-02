@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amid Starship milestones, Booster 7 set to return for pre-launch testing](https://www.nasaspaceflight.com/2022/10/starship-booster-7-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T202758">2022-10-02 20:27:58 UTC</a></sub>
 * [Space Development Agency is now officially part of the Space Force](https://spacenews.com/space-development-agency-is-now-officially-part-of-the-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T222008">2022-10-01 22:20:08 UTC</a></sub>
 * [Preps resume for SpaceX crew launch after Hurricane Ian](https://spaceflightnow.com/2022/10/01/preps-resume-for-spacex-crew-launch-after-hurricane-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T213007">2022-10-01 21:30:07 UTC</a></sub>
 * [Firefly reaches orbit in successful demonstration launch from California](https://spaceflightnow.com/2022/10/01/firefly-reaches-orbit-in-successful-demonstration-launch-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T192005">2022-10-01 19:20:05 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Coverage Set for NASA’s SpaceX Crew-5 Events, Broadcast, Launch](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-5-events-broadcast-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T221100">2022-09-30 22:11:00 UTC</a></sub>
 * [Florida’s Space Coast on track after Ian, set for 3 launches in 3 days](https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T220657">2022-09-30 22:06:57 UTC</a></sub>
 * [US candidate to be first woman to lead UN telecoms agency](https://spacenews.com/us-candidate-to-be-first-woman-to-lead-un-telecoms-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T211013">2022-09-30 21:10:13 UTC</a></sub>
-* [Space surveillance telescope developed by the U.S. begins operations in Australia](https://spacenews.com/space-surveillance-telescope-developed-by-the-u-s-begins-operations-in-australia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T175009">2022-09-30 17:50:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T200728">2022-10-02 20:07:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T204155">2022-10-02 20:41:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
