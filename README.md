@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Space Development Agency is now officially part of the Space Force](https://spacenews.com/space-development-agency-is-now-officially-part-of-the-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T222008">2022-10-01 22:20:08 UTC</a></sub>
 * [Preps resume for SpaceX crew launch after Hurricane Ian](https://spaceflightnow.com/2022/10/01/preps-resume-for-spacex-crew-launch-after-hurricane-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T213007">2022-10-01 21:30:07 UTC</a></sub>
+* [Firefly reaches orbit in successful demonstration launch from California](https://spaceflightnow.com/2022/10/01/firefly-reaches-orbit-in-successful-demonstration-launch-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T192005">2022-10-01 19:20:05 UTC</a></sub>
 * [Firefly, Millennium Space selected for U.S. Space Force rapid-launch demonstration](https://spacenews.com/firefly-millennium-space-selected-for-u-s-space-force-rapid-launch-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T173010">2022-10-01 17:30:10 UTC</a></sub>
 * [Firefly’s Alpha rocket reaches orbit on second launch](https://spacenews.com/fireflys-alpha-rocket-reaches-orbit-on-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T150010">2022-10-01 15:00:10 UTC</a></sub>
 * [Firefly succeeds on second Alpha flight](https://www.nasaspaceflight.com/2022/10/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T091632">2022-10-01 09:16:32 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Florida’s Space Coast on track after Ian, set for 3 launches in 3 days](https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T220657">2022-09-30 22:06:57 UTC</a></sub>
 * [US candidate to be first woman to lead UN telecoms agency](https://spacenews.com/us-candidate-to-be-first-woman-to-lead-un-telecoms-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T211013">2022-09-30 21:10:13 UTC</a></sub>
 * [Space surveillance telescope developed by the U.S. begins operations in Australia](https://spacenews.com/space-surveillance-telescope-developed-by-the-u-s-begins-operations-in-australia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T175009">2022-09-30 17:50:09 UTC</a></sub>
-* [National Space Council to seek industry input on future regulatory framework](https://spacenews.com/national-space-council-to-seek-industry-input-on-future-regulatory-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T164009">2022-09-30 16:40:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [RocketStars: Richards' career connects Atlas, Delta and Vulcan](https://blog.ulalaunch.com/blog/rocketstars-richards-career-connects-atlas-delta-and-vulcan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T193057">2022-10-02 19:30:57 UTC</a></sub>
 * [A smashing success](https://www.planetary.org/the-downlink/a-smashing-success) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T143042">2022-09-30 14:30:42 UTC</a></sub>
 * [JWST’s carbon dioxide discovery is good news for Earth-like worlds](https://www.planetary.org/articles/jwst-carbon-dioxide-discovery-earth-like-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T140119">2022-09-27 14:01:19 UTC</a></sub>
 * [See DART’s final images before it smashed into an asteroid](https://www.planetary.org/articles/nasa-dart-final-images-asteroid-crash) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T233140">2022-09-26 23:31:40 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [RocketStars: Delta IV Tiger Team member living his dream](https://blog.ulalaunch.com/blog/rocketstars-delta-iv-tiger-team-member-living-his-dream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T170036">2022-09-22 17:00:36 UTC</a></sub>
 * [DART impact: What to expect](https://www.planetary.org/articles/dart-impact-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T214025">2022-09-21 21:40:25 UTC</a></sub>
 * [Whoop whoop whoop! nasa insight 'hears' an asteroid impact on mars](https://www.syfy.com/syfy-wire/bad-astronomy-asteroid-impacts-on-mars-heard-by-nasa-insight-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T120000">2022-09-21 12:00:00 UTC</a></sub>
-* [SES-20/21: Commercial satellite tandem stacked atop Atlas V](https://blog.ulalaunch.com/blog/ses-20/21-commercial-satellite-tandem-stacked-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T204035">2022-09-20 20:40:35 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T190810">2022-10-02 19:08:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T193504">2022-10-02 19:35:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
