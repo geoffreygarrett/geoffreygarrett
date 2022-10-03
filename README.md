@@ -94,26 +94,28 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Starlink Group 4-29 at the
-<a href="">Space Launch Complex 4E</a> in
-Vandenberg SFB, CA, USA
+Atlas V 531 | SES-20 & SES-21 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a> in
+Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T235600">2022-10-03 23:56:00 UTC</a>. Until
-then, this launch pad will have seen 96
-out of 704 launches in this
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213600">2022-10-04 21:36:00 UTC</a>. Until
+then, this launch pad will have seen 107
+out of 858 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of 52 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  SES-20 & SES-21 are a pair of C-band communication satellites built by Boeing, using the highly efficient all-electric propulsion BSS-702SP satellite bus.
+
+These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use while seamlessly migrating SES’s existing C-band customers and ensuring the continued delivery of digital television to nearly 120 million American TV homes and other critical data services.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+  <a href="http://maps.google.com/maps?q=28.58341025,-80.58303644" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,8 +128,8 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-29</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T235600">2022-10-03 23:56:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-29&location=Vandenberg SFB, CA, USA&dates=20221003T235600Z%2F20221003T235600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SES-20 & SES-21</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213600">2022-10-04 21:36:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 531 | SES-20 &amp; SES-21&location=Cape Canaveral, FL, USA&dates=20221004T213600Z%2F20221004T221600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-29</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T234810">2022-10-04 23:48:10 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-29&location=Vandenberg SFB, CA, USA&dates=20221004T234810Z%2F20221004T234810Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Crew-5</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T160000">2022-10-05 16:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-5&location=Kennedy Space Center, FL, USA&dates=20221005T160000Z%2F20221005T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>It Argos Up From Here</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T170000">2022-10-06 17:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | It Argos Up From Here&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20221006T170000Z%2F20221006T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Galaxy 33 & 34</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T230700">2022-10-06 23:07:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221006T230700Z%2F20221007T001400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -183,7 +185,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [EnerStar Solutions announces third Starlink enterprise reseller deal](https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
 * [Redwire back on acquisition trail with deal for QinetiQ Space](https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
-* [SpaceX preparing for launch of 52 Starlink satellites from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184700">2022-10-03 18:47:00 UTC</a></sub>
+* [SpaceX delays launch of 52 Starlink satellites from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184700">2022-10-03 18:47:00 UTC</a></sub>
 * [Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats](https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184013">2022-10-03 18:40:13 UTC</a></sub>
 * [After an amazing run at Mars, India says its orbiter has no more fuel](https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T172648">2022-10-03 17:26:48 UTC</a></sub>
 * [Viasat sells tactical data communications business to L3Harris for $1.96 billion](https://spacenews.com/viasat-sells-tactical-data-communications-business-to-l3harris-for-1-96-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T142011">2022-10-03 14:20:11 UTC</a></sub>
@@ -223,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T230738">2022-10-03 23:07:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T234624">2022-10-03 23:46:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
