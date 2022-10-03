@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Viasat sells tactical data communications business to L3Harris for $1.96 billion](https://spacenews.com/viasat-sells-tactical-data-communications-business-to-l3harris-for-1-96-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T142011">2022-10-03 14:20:11 UTC</a></sub>
 * [Watch live: Atlas 5 rocket set to roll to launch pad today at Cape Canaveral](https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T131007">2022-10-03 13:10:07 UTC</a></sub>
 * [With orbital launch, Firefly takes an early lead in the 1-ton rocket race](https://arstechnica.com/science/2022/10/with-orbital-launch-firefly-takes-an-early-lead-in-the-1-ton-rocket-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T130922">2022-10-03 13:09:22 UTC</a></sub>
 * [Amid Starship milestones, Booster 7 set to return for pre-launch testing](https://www.nasaspaceflight.com/2022/10/starship-booster-7-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T202758">2022-10-02 20:27:58 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Preps resume for SpaceX crew launch after Hurricane Ian](https://spaceflightnow.com/2022/10/01/preps-resume-for-spacex-crew-launch-after-hurricane-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T213007">2022-10-01 21:30:07 UTC</a></sub>
 * [Firefly reaches orbit in successful demonstration launch from California](https://spaceflightnow.com/2022/10/01/firefly-reaches-orbit-in-successful-demonstration-launch-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T192005">2022-10-01 19:20:05 UTC</a></sub>
 * [Firefly, Millennium Space selected for U.S. Space Force rapid-launch demonstration](https://spacenews.com/firefly-millennium-space-selected-for-u-s-space-force-rapid-launch-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T173010">2022-10-01 17:30:10 UTC</a></sub>
-* [Firefly’s Alpha rocket reaches orbit on second launch](https://spacenews.com/fireflys-alpha-rocket-reaches-orbit-on-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T150010">2022-10-01 15:00:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T141331">2022-10-03 14:13:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T145158">2022-10-03 14:51:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
