@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [RocketStars: Guidance expert lends expertise to complex Atlas V launch](https://blog.ulalaunch.com/blog/rocketstars-guidance-expert-lends-expertise-to-complex-atlas-v-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T160249">2022-10-03 16:02:49 UTC</a></sub>
 * [European Spaceflight Update - The mysterious beginnings of MaiaSpace](https://www.getrevue.co/profile/andrewparsonson/issues/the-mysterious-beginnings-of-maiaspace-1379481) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T141051">2022-10-03 14:10:51 UTC</a></sub>
 * [RocketStars: Richards' career connects Atlas, Delta and Vulcan](https://blog.ulalaunch.com/blog/rocketstars-richards-career-connects-atlas-delta-and-vulcan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T193057">2022-10-02 19:30:57 UTC</a></sub>
 * [A smashing success](https://www.planetary.org/the-downlink/a-smashing-success) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T143042">2022-09-30 14:30:42 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [Brighten up your day](https://www.planetary.org/the-downlink/brighten-up-your-day) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T143027">2022-09-23 14:30:27 UTC</a></sub>
 * [RocketStars: McFarland is one of ULA's most experienced teammates](https://blog.ulalaunch.com/blog/rocketstars-mcfarland-is-one-of-ulas-most-experienced-teammates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T122040">2022-09-23 12:20:40 UTC</a></sub>
 * [RocketStars: Delta IV Tiger Team member living his dream](https://blog.ulalaunch.com/blog/rocketstars-delta-iv-tiger-team-member-living-his-dream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T170036">2022-09-22 17:00:36 UTC</a></sub>
-* [DART impact: What to expect](https://www.planetary.org/articles/dart-impact-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T214025">2022-09-21 21:40:25 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T161444">2022-10-03 16:14:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T170917">2022-10-03 17:09:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
