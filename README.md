@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EnerStar Solutions announces third Starlink enterprise reseller deal](https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
+* [Redwire back on acquisition trail with deal for QinetiQ Space](https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
 * [SpaceX preparing for launch of 52 Starlink satellites from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184700">2022-10-03 18:47:00 UTC</a></sub>
 * [Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats](https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184013">2022-10-03 18:40:13 UTC</a></sub>
 * [After an amazing run at Mars, India says its orbiter has no more fuel](https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T172648">2022-10-03 17:26:48 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Crew dress rehearsal, rocket test-firing complete at SpaceX launch pad](https://spaceflightnow.com/2022/10/02/crew-dress-rehearsal-rocket-test-firing-complete-at-spacex-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T204006">2022-10-02 20:40:06 UTC</a></sub>
 * [Amid Starship milestones, Booster 7 set to return for pre-launch testing](https://www.nasaspaceflight.com/2022/10/starship-booster-7-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T202758">2022-10-02 20:27:58 UTC</a></sub>
 * [NASA pushes back Artemis 1 launch to November](https://spacenews.com/nasa-pushes-back-artemis-1-launch-to-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T005012">2022-10-02 00:50:12 UTC</a></sub>
-* [Space Development Agency is now officially part of the Space Force](https://spacenews.com/space-development-agency-is-now-officially-part-of-the-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T222008">2022-10-01 22:20:08 UTC</a></sub>
-* [NASA rules out launch of Artemis 1 moon rocket before mid-November](https://spaceflightnow.com/2022/10/01/nasa-rules-out-launch-of-artemis-1-moon-rocket-before-mid-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T222005">2022-10-01 22:20:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T220724">2022-10-03 22:07:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224458">2022-10-03 22:44:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
