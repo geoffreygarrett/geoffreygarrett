@@ -94,28 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Atlas V 531 | SES-20 & SES-21 at the
-<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a> in
-Cape Canaveral, FL, USA
+Falcon 9 Block 5 | Crew-5 at the
+<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a> in
+Kennedy Space Center, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213600">2022-10-04 21:36:00 UTC</a>. Until
-then, this launch pad will have seen 107
-out of 858 launches in this
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T160000">2022-10-05 16:00:00 UTC</a>. Until
+then, this launch pad will have seen 150
+out of 207 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  SES-20 & SES-21 are a pair of C-band communication satellites built by Boeing, using the highly efficient all-electric propulsion BSS-702SP satellite bus.
-
-These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use while seamlessly migrating SES’s existing C-band customers and ensuring the continued delivery of digital television to nearly 120 million American TV homes and other critical data services.
+  SpaceX Crew-5 is the fifth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.58341025,-80.58303644" >
+  <a href="http://maps.google.com/maps?q=28.608+N,+80.604+W" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -128,7 +126,6 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SES-20 & SES-21</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213600">2022-10-04 21:36:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 531 | SES-20 &amp; SES-21&location=Cape Canaveral, FL, USA&dates=20221004T213600Z%2F20221004T221600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Crew-5</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T160000">2022-10-05 16:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-5&location=Kennedy Space Center, FL, USA&dates=20221005T160000Z%2F20221005T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-29</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T231000">2022-10-05 23:10:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-29&location=Vandenberg SFB, CA, USA&dates=20221005T231000Z%2F20221005T231000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>It Argos Up From Here</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T170000">2022-10-06 17:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | It Argos Up From Here&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20221006T170000Z%2F20221006T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -183,16 +180,16 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ball Aerospace wins $176 million contract to build and operate 10 satellites for Space Development Agency](https://spacenews.com/ball-aerospace-wins-176-million-contract-to-build-10-satellites-for-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213012">2022-10-04 21:30:12 UTC</a></sub>
 * [AEI claims majority stake in York Space Systems](https://spacenews.com/aei-acquires-york-stake/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T203011">2022-10-04 20:30:11 UTC</a></sub>
 * [NASA’s SpaceX Crew-4 Astronauts to Discuss Mission, Splashdown](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-to-discuss-mission-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T162000">2022-10-04 16:20:00 UTC</a></sub>
 * [Final Atlas V 531 to launch dual SES-20 and SES-21 satellites](https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T151157">2022-10-04 15:11:57 UTC</a></sub>
 * [NASA Science Leadership to Hold Town Hall Meeting Thursday](http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting-thursday) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T143000">2022-10-04 14:30:00 UTC</a></sub>
 * [SpaceX has been bidding against itself for NASA’s science missions for a while](https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T131054">2022-10-04 13:10:54 UTC</a></sub>
-* [Redwire back on acquisition trail with deal for QinetiQ Space](https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
 * [EnerStar Solutions announces third Starlink enterprise reseller deal](https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
+* [Redwire back on acquisition trail with deal for QinetiQ Space](https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
+* [SpaceX targeting three launches from three pads in 31 hours](https://www.teslarati.com/spacex-three-launches-three-pads-one-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T213030">2022-10-03 21:30:30 UTC</a></sub>
 * [SpaceX delays launch of 52 Starlink satellites from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184700">2022-10-03 18:47:00 UTC</a></sub>
-* [Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats](https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184013">2022-10-03 18:40:13 UTC</a></sub>
-* [After an amazing run at Mars, India says its orbiter has no more fuel](https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T172648">2022-10-03 17:26:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +222,7 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T210705">2022-10-04 21:07:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T214052">2022-10-04 21:40:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
