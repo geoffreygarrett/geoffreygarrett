@@ -183,6 +183,7 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s SpaceX Crew-4 Astronauts to Discuss Mission, Splashdown](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-to-discuss-mission-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T162000">2022-10-04 16:20:00 UTC</a></sub>
 * [Final Atlas V 531 to launch dual SES-20 and SES-21 satellites](https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T151157">2022-10-04 15:11:57 UTC</a></sub>
 * [NASA Science Leadership to Hold Town Hall Meeting Thursday](http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting-thursday) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T143000">2022-10-04 14:30:00 UTC</a></sub>
 * [SpaceX has been bidding against itself for NASA’s science missions for a while](https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T131054">2022-10-04 13:10:54 UTC</a></sub>
@@ -192,7 +193,6 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 * [Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats](https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184013">2022-10-03 18:40:13 UTC</a></sub>
 * [After an amazing run at Mars, India says its orbiter has no more fuel](https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T172648">2022-10-03 17:26:48 UTC</a></sub>
 * [Viasat sells tactical data communications business to L3Harris for $1.96 billion](https://spacenews.com/viasat-sells-tactical-data-communications-business-to-l3harris-for-1-96-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T142011">2022-10-03 14:20:11 UTC</a></sub>
-* [SpaceX crew mission ‘top priority’ amid busy week of Falcon 9 launches](https://spaceflightnow.com/2022/10/03/spacex-crew-mission-top-priority-amid-busy-week-of-falcon-9-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T131008">2022-10-03 13:10:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T161230">2022-10-04 16:12:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T170748">2022-10-04 17:07:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
