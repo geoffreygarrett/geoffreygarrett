@@ -184,7 +184,7 @@ region. The mission's status is currently Go for Launch
 * [Ball Aerospace wins $176 million contract to build and operate 10 satellites for Space Development Agency](https://spacenews.com/ball-aerospace-wins-176-million-contract-to-build-10-satellites-for-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213012">2022-10-04 21:30:12 UTC</a></sub>
 * [AEI claims majority stake in York Space Systems](https://spacenews.com/aei-acquires-york-stake/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T203011">2022-10-04 20:30:11 UTC</a></sub>
 * [NASA’s SpaceX Crew-4 Astronauts to Discuss Mission, Splashdown](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-to-discuss-mission-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T162000">2022-10-04 16:20:00 UTC</a></sub>
-* [Final Atlas V 531 to launch dual SES-20 and SES-21 satellites](https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T151157">2022-10-04 15:11:57 UTC</a></sub>
+* [Final Atlas V 531 launches dual SES-20 and SES-21 satellites](https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T151157">2022-10-04 15:11:57 UTC</a></sub>
 * [NASA Science Leadership to Hold Town Hall Meeting Thursday](http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting-thursday) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T143000">2022-10-04 14:30:00 UTC</a></sub>
 * [SpaceX has been bidding against itself for NASA’s science missions for a while](https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T131054">2022-10-04 13:10:54 UTC</a></sub>
 * [EnerStar Solutions announces third Starlink enterprise reseller deal](https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T230700">2022-10-04 23:07:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T234546">2022-10-04 23:45:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
