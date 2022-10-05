@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [American, Russian, and Japanese astronauts ready for SpaceX Crew-5 launch](https://www.nasaspaceflight.com/2022/10/spacex-crew-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T095141">2022-10-05 09:51:41 UTC</a></sub>
 * [Atlas 5 rocket completes high-altitude tandem satellite delivery for SES](https://spaceflightnow.com/2022/10/05/atlas-5-rocket-completes-high-altitude-tandem-satellite-delivery-for-ses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T054005">2022-10-05 05:40:05 UTC</a></sub>
 * [Space Force in discussions with industry on future market for space surveillance data](https://spacenews.com/space-force-in-discussions-with-industry-on-future-market-for-space-surveillance-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T220012">2022-10-04 22:00:12 UTC</a></sub>
 * [Ball Aerospace wins $176 million contract to build and operate 10 satellites for Space Development Agency](https://spacenews.com/ball-aerospace-wins-176-million-contract-to-build-10-satellites-for-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213012">2022-10-04 21:30:12 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Science Leadership to Hold Town Hall Meeting Thursday](http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting-thursday) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T143000">2022-10-04 14:30:00 UTC</a></sub>
 * [SpaceX has been bidding against itself for NASA’s science missions for a while](https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T131054">2022-10-04 13:10:54 UTC</a></sub>
 * [Russian cosmonaut set to ride U.S. crew capsule to International Space Station](https://spaceflightnow.com/2022/10/04/russian-cosmonaut-set-to-ride-us-crew-capsule-to-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T072006">2022-10-04 07:20:06 UTC</a></sub>
-* [EnerStar Solutions announces third Starlink enterprise reseller deal](https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T100831">2022-10-05 10:08:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T104653">2022-10-05 10:46:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
