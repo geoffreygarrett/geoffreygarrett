@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew-5 mission timeline](https://spaceflightnow.com/2022/10/05/crew-5-mission-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T143029">2022-10-05 14:30:29 UTC</a></sub>
+* [Who is ready for a fleet of cubesats flying over cities, displaying ads?](https://arstechnica.com/science/2022/10/russian-space-scientists-have-the-worst-idea-ever-space-based-advertising/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T133142">2022-10-05 13:31:42 UTC</a></sub>
 * [UK, South Korea join ASAT test ban, raising like-minded countries to seven](https://spacenews.com/uk-south-korea-join-asat-test-ban-raising-like-minded-countries-to-seven/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T133015">2022-10-05 13:30:15 UTC</a></sub>
 * [SES closer to $4 billion payout after ULA launch to near-geostationary orbit](https://spacenews.com/ses-closer-to-4-billion-payout-after-ula-launch-to-near-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T125011">2022-10-05 12:50:11 UTC</a></sub>
 * [Sherpa tug yet to start raising orbit a month after launch](https://spacenews.com/sherpa-tug-yet-to-start-raising-orbit-a-month-after-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T114016">2022-10-05 11:40:16 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force in discussions with industry on future market for space surveillance data](https://spacenews.com/space-force-in-discussions-with-industry-on-future-market-for-space-surveillance-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T220012">2022-10-04 22:00:12 UTC</a></sub>
 * [Ball Aerospace wins $176 million contract to build and operate 10 satellites for Space Development Agency](https://spacenews.com/ball-aerospace-wins-176-million-contract-to-build-10-satellites-for-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213012">2022-10-04 21:30:12 UTC</a></sub>
 * [AEI claims majority stake in York Space Systems](https://spacenews.com/aei-acquires-york-stake/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T203011">2022-10-04 20:30:11 UTC</a></sub>
-* [NASA’s SpaceX Crew-4 Astronauts to Discuss Mission, Splashdown](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-to-discuss-mission-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T162000">2022-10-04 16:20:00 UTC</a></sub>
-* [Final Atlas V 531 launches dual SES-20 and SES-21 satellites](https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T151157">2022-10-04 15:11:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T133658">2022-10-05 13:36:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T143956">2022-10-05 14:39:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
