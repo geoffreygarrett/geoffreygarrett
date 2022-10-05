@@ -179,16 +179,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s SpaceX Crew-5 Launches to International Space Station](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-launches-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T172000">2022-10-05 17:20:00 UTC</a></sub>
+* [SpaceX launches Crew-5 mission to the space station](https://spacenews.com/spacex-launches-crew-5-mission-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T165012">2022-10-05 16:50:12 UTC</a></sub>
 * [Crew-5 mission timeline](https://spaceflightnow.com/2022/10/05/crew-5-mission-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T143029">2022-10-05 14:30:29 UTC</a></sub>
 * [Who is ready for a fleet of cubesats flying over cities, displaying ads?](https://arstechnica.com/science/2022/10/russian-space-scientists-have-the-worst-idea-ever-space-based-advertising/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T133142">2022-10-05 13:31:42 UTC</a></sub>
 * [UK, South Korea join ASAT test ban, raising like-minded countries to seven](https://spacenews.com/uk-south-korea-join-asat-test-ban-raising-like-minded-countries-to-seven/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T133015">2022-10-05 13:30:15 UTC</a></sub>
 * [SES closer to $4 billion payout after ULA launch to near-geostationary orbit](https://spacenews.com/ses-closer-to-4-billion-payout-after-ula-launch-to-near-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T125011">2022-10-05 12:50:11 UTC</a></sub>
 * [Sherpa tug yet to start raising orbit a month after launch](https://spacenews.com/sherpa-tug-yet-to-start-raising-orbit-a-month-after-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T114016">2022-10-05 11:40:16 UTC</a></sub>
-* [American, Russian, and Japanese astronauts ready for SpaceX Crew-5 launch](https://www.nasaspaceflight.com/2022/10/spacex-crew-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T095141">2022-10-05 09:51:41 UTC</a></sub>
+* [American, Russian, and Japanese astronauts launch with SpaceX Crew-5 mission](https://www.nasaspaceflight.com/2022/10/spacex-crew-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T095141">2022-10-05 09:51:41 UTC</a></sub>
 * [Atlas 5 rocket completes high-altitude tandem satellite delivery for SES](https://spaceflightnow.com/2022/10/05/atlas-5-rocket-completes-high-altitude-tandem-satellite-delivery-for-ses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T054005">2022-10-05 05:40:05 UTC</a></sub>
 * [Space Force in discussions with industry on future market for space surveillance data](https://spacenews.com/space-force-in-discussions-with-industry-on-future-market-for-space-surveillance-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T220012">2022-10-04 22:00:12 UTC</a></sub>
-* [Ball Aerospace wins $176 million contract to build and operate 10 satellites for Space Development Agency](https://spacenews.com/ball-aerospace-wins-176-million-contract-to-build-10-satellites-for-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213012">2022-10-04 21:30:12 UTC</a></sub>
-* [AEI claims majority stake in York Space Systems](https://spacenews.com/aei-acquires-york-stake/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T203011">2022-10-04 20:30:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T162524">2022-10-05 16:25:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T172314">2022-10-05 17:23:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
