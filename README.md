@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After successful first launch, Firefly sets sight on national security market](https://spacenews.com/after-successful-first-launch-firefly-sets-sight-on-national-security-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T222014">2022-10-05 22:20:14 UTC</a></sub>
+* [After a three-year wait, SpaceX’s Falcon Heavy could launch again later this month](https://spaceflightnow.com/2022/10/05/after-a-three-year-wait-spacexs-falcon-heavy-could-launch-again-later-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T220012">2022-10-05 22:00:12 UTC</a></sub>
 * [SpaceX says 5G plan could disrupt Starlink more than previously thought](https://spacenews.com/spacex-says-5g-plan-could-disrupt-starlink-more-than-previously-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T211015">2022-10-05 21:10:15 UTC</a></sub>
 * [On the ground in Ukraine using Starlink to stay connected](https://www.teslarati.com/ukraine-using-starlink-connected/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T201038">2022-10-05 20:10:38 UTC</a></sub>
 * [NASA Invites Media to Learn About Inflatable Heat Shield Demo](http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-inflatable-heat-shield-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T192000">2022-10-05 19:20:00 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches Crew-5 mission to the space station](https://spacenews.com/spacex-launches-crew-5-mission-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T165012">2022-10-05 16:50:12 UTC</a></sub>
 * [Crew-5 mission timeline](https://spaceflightnow.com/2022/10/05/crew-5-mission-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T143029">2022-10-05 14:30:29 UTC</a></sub>
 * [Who is ready for a fleet of cubesats flying over cities, displaying ads?](https://arstechnica.com/science/2022/10/russian-space-scientists-have-the-worst-idea-ever-space-based-advertising/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T133142">2022-10-05 13:31:42 UTC</a></sub>
-* [UK, South Korea join ASAT test ban, raising like-minded countries to seven](https://spacenews.com/uk-south-korea-join-asat-test-ban-raising-like-minded-countries-to-seven/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T133015">2022-10-05 13:30:15 UTC</a></sub>
-* [SES closer to $4 billion payout after ULA launch to near-geostationary orbit](https://spacenews.com/ses-closer-to-4-billion-payout-after-ula-launch-to-near-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T125011">2022-10-05 12:50:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T220714">2022-10-05 22:07:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T224506">2022-10-05 22:45:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
