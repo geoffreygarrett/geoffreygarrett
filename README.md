@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Starlink Group 4-29 at the
-<a href="">Space Launch Complex 4E</a> in
-Vandenberg SFB, CA, USA
+Falcon 9 Block 5 | Galaxy 33 & 34 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T231030">2022-10-05 23:10:30 UTC</a>. Until
-then, this launch pad will have seen 96
-out of 704 launches in this
-region. The mission's status is currently Go for Launch
-(Go) 🟩  which means:
-*current T-0 confirmed by official or reliable sources.* 
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T230700">2022-10-06 23:07:00 UTC</a>. Until
+then, this launch pad will have seen 154
+out of 859 launches in this
+region. The mission's status is currently To Be Confirmed
+(TBC) 🟨  which means:
+*awaiting official confirmation - current date is known with some certainty.* 
 <br>
 <blockquote>
-  A batch of 52 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Galaxy 33, 34 are two geostationary communications satellites manufactured by Northrop Grumman and operated by Intelsat.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-29</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T231030">2022-10-05 23:10:30 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-29&location=Vandenberg SFB, CA, USA&dates=20221005T231030Z%2F20221005T231030Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Galaxy 33 & 34</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T230700">2022-10-06 23:07:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221006T230700Z%2F20221007T001400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Tai Rui, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T131000">2022-10-07 13:10:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | CentiSpace-1 S5 &amp; S6 (?)&location=Tai Rui, People&#x27;s Republic of China&dates=20221007T131000Z%2F20221007T133900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>It Argos Up From Here</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T170000">2022-10-07 17:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | It Argos Up From Here&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20221007T170000Z%2F20221007T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches Starlink 4-29 from Vandenberg hours after crew mission](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T224700">2022-10-05 22:47:00 UTC</a></sub>
 * [After successful first launch, Firefly sets sight on national security market](https://spacenews.com/after-successful-first-launch-firefly-sets-sight-on-national-security-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T222014">2022-10-05 22:20:14 UTC</a></sub>
 * [After a three-year wait, SpaceX’s Falcon Heavy could launch again later this month](https://spaceflightnow.com/2022/10/05/after-a-three-year-wait-spacexs-falcon-heavy-could-launch-again-later-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T220012">2022-10-05 22:00:12 UTC</a></sub>
 * [SpaceX says 5G plan could disrupt Starlink more than previously thought](https://spacenews.com/spacex-says-5g-plan-could-disrupt-starlink-more-than-previously-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T211015">2022-10-05 21:10:15 UTC</a></sub>
@@ -189,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA’s SpaceX Crew-5 Launches to International Space Station](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-launches-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T172000">2022-10-05 17:20:00 UTC</a></sub>
 * [SpaceX launches Crew-5 mission to the space station](https://spacenews.com/spacex-launches-crew-5-mission-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T165012">2022-10-05 16:50:12 UTC</a></sub>
 * [Crew-5 mission timeline](https://spaceflightnow.com/2022/10/05/crew-5-mission-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T143029">2022-10-05 14:30:29 UTC</a></sub>
-* [Who is ready for a fleet of cubesats flying over cities, displaying ads?](https://arstechnica.com/science/2022/10/russian-space-scientists-have-the-worst-idea-ever-space-based-advertising/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T133142">2022-10-05 13:31:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T230820">2022-10-05 23:08:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T234615">2022-10-05 23:46:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
