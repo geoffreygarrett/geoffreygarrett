@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Report highlights U.S. concerns over China’s space infrastructure in South America](https://spacenews.com/report-highlights-u-s-concerns-over-chinas-space-infrastructure-in-south-america/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T121018">2022-10-06 12:10:18 UTC</a></sub>
 * [Next NOAA weather satellite launching just in time](https://spacenews.com/jpss-2-launch-briefing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T235012">2022-10-05 23:50:12 UTC</a></sub>
 * [SpaceX launches Starlink 4-29 from Vandenberg hours after crew mission](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T224700">2022-10-05 22:47:00 UTC</a></sub>
 * [After successful first launch, Firefly sets sight on national security market](https://spacenews.com/after-successful-first-launch-firefly-sets-sight-on-national-security-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T222014">2022-10-05 22:20:14 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Invites Media to Learn About Inflatable Heat Shield Demo](http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-inflatable-heat-shield-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T192000">2022-10-05 19:20:00 UTC</a></sub>
 * [Crew Dragon launches safely, carrying first Russian from US soil in 20 years](https://arstechnica.com/science/2022/10/crew-dragon-launches-safely-carrying-first-russian-from-us-soil-in-20-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T190028">2022-10-05 19:00:28 UTC</a></sub>
 * [NASA’s SpaceX Crew-5 Launches to International Space Station](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-launches-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T172000">2022-10-05 17:20:00 UTC</a></sub>
-* [SpaceX launches Crew-5 mission to the space station](https://spacenews.com/spacex-launches-crew-5-mission-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T165012">2022-10-05 16:50:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T113922">2022-10-06 11:39:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T121412">2022-10-06 12:14:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
