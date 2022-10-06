@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to carry Intelsat Galaxy sats on third launch of the week](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T184446">2022-10-06 18:44:46 UTC</a></sub>
+* [Dual satellite launch for Intelsat next on SpaceX’s launch schedule](https://spaceflightnow.com/2022/10/06/dual-satellite-launch-for-intelsat-next-on-spacexs-launch-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T181010">2022-10-06 18:10:10 UTC</a></sub>
 * [UK competition watchdog has concerns about Viasat’s Inmarsat takeover](https://spacenews.com/uk-competition-watchdog-has-concerns-about-viasats-inmarsat-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T164012">2022-10-06 16:40:12 UTC</a></sub>
 * [Sierra Space hires former SpaceX executive as CIO](https://spacenews.com/sierra-space-hires-former-spacex-executive-as-cio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T142016">2022-10-06 14:20:16 UTC</a></sub>
 * [Roscosmos official supports continued cooperation with NASA on ISS](https://spacenews.com/roscosmos-official-supports-continued-cooperation-with-nasa-on-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T124018">2022-10-06 12:40:18 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches Starlink 4-29 from Vandenberg hours after crew mission](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T224700">2022-10-05 22:47:00 UTC</a></sub>
 * [After successful first launch, Firefly sets sight on national security market](https://spacenews.com/after-successful-first-launch-firefly-sets-sight-on-national-security-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T222014">2022-10-05 22:20:14 UTC</a></sub>
 * [After a three-year wait, SpaceX’s Falcon Heavy could launch again later this month](https://spaceflightnow.com/2022/10/05/after-a-three-year-wait-spacexs-falcon-heavy-could-launch-again-later-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T220012">2022-10-05 22:00:12 UTC</a></sub>
-* [SpaceX says 5G plan could disrupt Starlink more than previously thought](https://spacenews.com/spacex-says-5g-plan-could-disrupt-starlink-more-than-previously-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T211015">2022-10-05 21:10:15 UTC</a></sub>
-* [On the ground in Ukraine using Starlink to stay connected](https://www.teslarati.com/ukraine-using-starlink-connected/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T201038">2022-10-05 20:10:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T181307">2022-10-06 18:13:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T185501">2022-10-06 18:55:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
