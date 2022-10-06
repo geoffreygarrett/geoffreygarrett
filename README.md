@@ -101,9 +101,9 @@ Cape Canaveral, FL, USA
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T230700">2022-10-06 23:07:00 UTC</a>. Until
 then, this launch pad will have seen 154
 out of 859 launches in this
-region. The mission's status is currently To Be Confirmed
-(TBC) 🟨  which means:
-*awaiting official confirmation - current date is known with some certainty.* 
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
   Galaxy 33, 34 are two geostationary communications satellites manufactured by Northrop Grumman and operated by Intelsat.
@@ -126,7 +126,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Galaxy 33 & 34</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T230700">2022-10-06 23:07:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221006T230700Z%2F20221007T001400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Galaxy 33 & 34</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T230700">2022-10-06 23:07:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221006T230700Z%2F20221007T001400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Tai Rui, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T131000">2022-10-07 13:10:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | CentiSpace-1 S5 &amp; S6 (?)&location=Tai Rui, People&#x27;s Republic of China&dates=20221007T131000Z%2F20221007T133900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>It Argos Up From Here</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T170000">2022-10-07 17:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | It Argos Up From Here&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20221007T170000Z%2F20221007T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Advanced Space-borne Solar Observatory (ASO-S)</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T233200">2022-10-08 23:32:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Advanced Space-borne Solar Observatory (ASO-S) (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20221008T233200Z%2F20221008T235900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Next NOAA weather satellite launching just in time](https://spacenews.com/jpss-2-launch-briefing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T235012">2022-10-05 23:50:12 UTC</a></sub>
 * [SpaceX launches Starlink 4-29 from Vandenberg hours after crew mission](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T224700">2022-10-05 22:47:00 UTC</a></sub>
 * [After successful first launch, Firefly sets sight on national security market](https://spacenews.com/after-successful-first-launch-firefly-sets-sight-on-national-security-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T222014">2022-10-05 22:20:14 UTC</a></sub>
 * [After a three-year wait, SpaceX’s Falcon Heavy could launch again later this month](https://spaceflightnow.com/2022/10/05/after-a-three-year-wait-spacexs-falcon-heavy-could-launch-again-later-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T220012">2022-10-05 22:00:12 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Crew Dragon launches safely, carrying first Russian from US soil in 20 years](https://arstechnica.com/science/2022/10/crew-dragon-launches-safely-carrying-first-russian-from-us-soil-in-20-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T190028">2022-10-05 19:00:28 UTC</a></sub>
 * [NASA’s SpaceX Crew-5 Launches to International Space Station](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-launches-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T172000">2022-10-05 17:20:00 UTC</a></sub>
 * [SpaceX launches Crew-5 mission to the space station](https://spacenews.com/spacex-launches-crew-5-mission-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T165012">2022-10-05 16:50:12 UTC</a></sub>
-* [Crew-5 mission timeline](https://spaceflightnow.com/2022/10/05/crew-5-mission-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T143029">2022-10-05 14:30:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T234615">2022-10-05 23:46:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T004226">2022-10-06 00:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
