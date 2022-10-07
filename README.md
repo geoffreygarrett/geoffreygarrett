@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab set to launch “It Argos Up From Here” mission](https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143736">2022-10-07 14:37:36 UTC</a></sub>
 * [Ariane 6 upper stage testing underway](https://spacenews.com/ariane-6-upper-stage-testing-underway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T123015">2022-10-07 12:30:15 UTC</a></sub>
 * [Rocket Report: Falcon Heavy launch on tap; South Korea seeks Russia alternative](https://arstechnica.com/science/2022/10/rocket-report-falcon-heavy-launch-on-tap-south-korea-seeks-russia-alternative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T110023">2022-10-07 11:00:23 UTC</a></sub>
 * [AFRL developing ‘cyber range’ for space operators](https://spacenews.com/afrl-developing-cyber-range-to-test-vulnerabilities-of-space-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T234010">2022-10-06 23:40:10 UTC</a></sub>
 * [India on track for OneWeb launch in second half of October](https://spacenews.com/india-on-track-for-oneweb-launch-in-second-half-of-october/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T201009">2022-10-06 20:10:09 UTC</a></sub>
 * [York Space wins $200 million Space Development Agency contract for 12 satellites](https://spacenews.com/york-space-wins-200-million-space-development-agency-contract-for-12-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T190011">2022-10-06 19:00:11 UTC</a></sub>
-* [SpaceX scrubs Intelsat Galaxy sats launch](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T184446">2022-10-06 18:44:46 UTC</a></sub>
+* [SpaceX launch with Intelsat Galaxy sats now set for Friday](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T184446">2022-10-06 18:44:46 UTC</a></sub>
 * [Dual satellite launch for Intelsat next on SpaceX’s launch schedule](https://spaceflightnow.com/2022/10/06/dual-satellite-launch-for-intelsat-next-on-spacexs-launch-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T181010">2022-10-06 18:10:10 UTC</a></sub>
 * [UK competition watchdog has concerns about Viasat’s Inmarsat takeover](https://spacenews.com/uk-competition-watchdog-has-concerns-about-viasats-inmarsat-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T164012">2022-10-06 16:40:12 UTC</a></sub>
 * [Sierra Space hires former SpaceX executive as CIO](https://spacenews.com/sierra-space-hires-former-spacex-executive-as-cio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T142016">2022-10-06 14:20:16 UTC</a></sub>
-* [Dragon crew capsule delivers four new residents to International Space Station](https://spaceflightnow.com/2022/10/06/dragon-crew-capsule-delivers-four-new-residents-to-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T135005">2022-10-06 13:50:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Look and see](https://www.planetary.org/the-downlink/look-and-see) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143029">2022-10-07 14:30:29 UTC</a></sub>
 * [SES-20/21: Atlas V successfully launches for SES](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T045050">2022-10-05 04:50:50 UTC</a></sub>
 * [The best space pictures from JWST](https://www.planetary.org/space-missions/best-jwst-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T140042">2022-10-04 14:00:42 UTC</a></sub>
 * [RocketStars: Guidance expert lends expertise to complex Atlas V launch](https://blog.ulalaunch.com/blog/rocketstars-guidance-expert-lends-expertise-to-complex-atlas-v-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T160249">2022-10-03 16:02:49 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [JWST’s carbon dioxide discovery is good news for Earth-like worlds](https://www.planetary.org/articles/jwst-carbon-dioxide-discovery-earth-like-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T140119">2022-09-27 14:01:19 UTC</a></sub>
 * [See DART’s final images before it smashed into an asteroid](https://www.planetary.org/articles/nasa-dart-final-images-asteroid-crash) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T233140">2022-09-26 23:31:40 UTC</a></sub>
 * [European Spaceflight Update - Wired gets it wrong](https://www.getrevue.co/profile/andrewparsonson/issues/wired-gets-it-wrong-1368173) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T135041">2022-09-26 13:50:41 UTC</a></sub>
-* [NROL-91: Delta IV Heavy successfully launches for NRO](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T153046">2022-09-24 15:30:46 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T141101">2022-10-07 14:11:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T145117">2022-10-07 14:51:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
