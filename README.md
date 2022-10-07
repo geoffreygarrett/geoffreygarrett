@@ -98,7 +98,7 @@ Falcon 9 Block 5 | Galaxy 33 & 34 at the
 <a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T230600">2022-10-07 23:06:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T230500">2022-10-08 23:05:00 UTC</a>. Until
 then, this launch pad will have seen 154
 out of 859 launches in this
 region. The mission's status is currently Go for Launch
@@ -126,7 +126,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Galaxy 33 & 34</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T230600">2022-10-07 23:06:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221007T230600Z%2F20221008T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Galaxy 33 & 34</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T230500">2022-10-08 23:05:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221008T230500Z%2F20221009T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Advanced Space-borne Solar Observatory (ASO-S)</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T233200">2022-10-08 23:32:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Advanced Space-borne Solar Observatory (ASO-S) (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20221008T233200Z%2F20221008T235900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Glonass-K1 No. 17</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T025200">2022-10-10 02:52:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 17&location=Plesetsk Cosmodrome, Russian Federation&dates=20221010T025200Z%2F20221010T025200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>AngoSat-2</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T000000">2022-10-12 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | AngoSat-2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221012T000000Z%2F20221012T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -183,12 +183,12 @@ region. The mission's status is currently Go for Launch
 * [Eutelsat says satellite jammers within Iran are disrupting foreign channels](https://spacenews.com/eutelsat-says-satellite-jammers-within-iran-are-disrupting-foreign-channels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T194009">2022-10-07 19:40:09 UTC</a></sub>
 * [Rocket Lab launches Argos tracking payload](https://spacenews.com/rocket-lab-launches-argos-tracking-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T193012">2022-10-07 19:30:12 UTC</a></sub>
 * [NASA's InSight Waits Out Dust Storm](https://mars.nasa.gov/news/9275/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T161000">2022-10-07 16:10:00 UTC</a></sub>
+* [SpaceX launch with Intelsat Galaxy sats scrubbed again Friday](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T145146">2022-10-07 14:51:46 UTC</a></sub>
 * [Rocket Lab launches “It Argos Up From Here” mission](https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143736">2022-10-07 14:37:36 UTC</a></sub>
 * [Ariane 6 upper stage testing underway](https://spacenews.com/ariane-6-upper-stage-testing-underway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T123015">2022-10-07 12:30:15 UTC</a></sub>
 * [Rocket Report: Falcon Heavy launch on tap; South Korea seeks Russia alternative](https://arstechnica.com/science/2022/10/rocket-report-falcon-heavy-launch-on-tap-south-korea-seeks-russia-alternative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T110023">2022-10-07 11:00:23 UTC</a></sub>
 * [AFRL developing ‘cyber range’ for space operators](https://spacenews.com/afrl-developing-cyber-range-to-test-vulnerabilities-of-space-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T234010">2022-10-06 23:40:10 UTC</a></sub>
 * [India on track for OneWeb launch in second half of October](https://spacenews.com/india-on-track-for-oneweb-launch-in-second-half-of-october/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T201009">2022-10-06 20:10:09 UTC</a></sub>
-* [York Space wins $200 million Space Development Agency contract for 12 satellites](https://spacenews.com/york-space-wins-200-million-space-development-agency-contract-for-12-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T190011">2022-10-06 19:00:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T220711">2022-10-07 22:07:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T224455">2022-10-07 22:44:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
