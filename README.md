@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Provide Update on DART, World’s First Planetary Defense Test](http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T200000">2022-10-07 20:00:00 UTC</a></sub>
+* [Eutelsat says satellite jammers within Iran are disrupting foreign channels](https://spacenews.com/eutelsat-says-satellite-jammers-within-iran-are-disrupting-foreign-channels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T194009">2022-10-07 19:40:09 UTC</a></sub>
 * [Rocket Lab launches Argos tracking payload](https://spacenews.com/rocket-lab-launches-argos-tracking-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T193012">2022-10-07 19:30:12 UTC</a></sub>
 * [NASA's InSight Waits Out Dust Storm](https://mars.nasa.gov/news/9275/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T161000">2022-10-07 16:10:00 UTC</a></sub>
 * [Rocket Lab launches “It Argos Up From Here” mission](https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143736">2022-10-07 14:37:36 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [AFRL developing ‘cyber range’ for space operators](https://spacenews.com/afrl-developing-cyber-range-to-test-vulnerabilities-of-space-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T234010">2022-10-06 23:40:10 UTC</a></sub>
 * [India on track for OneWeb launch in second half of October](https://spacenews.com/india-on-track-for-oneweb-launch-in-second-half-of-october/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T201009">2022-10-06 20:10:09 UTC</a></sub>
 * [York Space wins $200 million Space Development Agency contract for 12 satellites](https://spacenews.com/york-space-wins-200-million-space-development-agency-contract-for-12-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T190011">2022-10-06 19:00:11 UTC</a></sub>
-* [SpaceX launch with Intelsat Galaxy sats now set for Friday](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T184446">2022-10-06 18:44:46 UTC</a></sub>
-* [Dual satellite launch for Intelsat next on SpaceX’s launch schedule](https://spaceflightnow.com/2022/10/06/dual-satellite-launch-for-intelsat-next-on-spacexs-launch-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T181010">2022-10-06 18:10:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T200753">2022-10-07 20:07:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T204401">2022-10-07 20:44:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
