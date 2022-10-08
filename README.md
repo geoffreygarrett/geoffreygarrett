@@ -94,26 +94,38 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Galaxy 33 & 34 at the
-<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
-Cape Canaveral, FL, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T230500">2022-10-08 23:05:00 UTC</a>. Until
-then, this launch pad will have seen 154
-out of 859 launches in this
+Long March 2D | Advanced Space-borne Solar Observatory (ASO-S) (?) at the
+<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a> in
+Jiuquan, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T233200">2022-10-08 23:32:00 UTC</a>. Until
+then, this launch pad will have seen 85
+out of 173 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Galaxy 33, 34 are two geostationary communications satellites manufactured by Northrop Grumman and operated by Intelsat.
+  Note: Payload and launch vehicle identity with this launch entry uncertain.
+
+ASO-S (Advanced Space-borne Solar Observatory) is a Chinese solar space observatory that aims to study the interaction between the Sun's magnetic field, solar flares and coronal mass ejections. It's the first space solar observatory of China.
+
+ASO-S is a 3-axis stabilized satellite with a mass of less than 1,000 kg with a pointing accuracy of 0.01° and an orientation stability of 1 to 2 arc seconds every 20 seconds. The payload has a mass below 335 kg and consumes about 300 watts. The platform's pointing accuracy is lower than 0.01°, the measurement accuracy is lower than 1 arc second and the orientation drift is below 0.0004°/s.
+
+ASO-S has three instruments:
+
+- The Full-Disc Vector Magnetograph (FMG) instrument is intended to map the magnetic field of the photosphere over the entire solar disk. It includes an imager, an optical polarization system and a CCD detector.
+
+- The Hard X-ray Imager (HXI) camera should image the whole solar disk in X-rays. The instrument is optimized to take images of solar flares.
+
+- A set of three LST (Lyman-alpha Solar Telescope) telescopes is used to observe the Lyman-alpha line (121.6 nm) of solar flares up to a distance of several solar radii from the Sun's disk. These three telescopes are SDI (to obtain an image of the solar disk), SCI (coronagraph for observation between 1.1 and 2.5 solar radii) and WST (white light emitted by the solar disk used for calibration purposes).
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="http://maps.google.com/maps?q=40.960556,100.298333" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +138,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Galaxy 33 & 34</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T230500">2022-10-08 23:05:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221008T230500Z%2F20221009T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Advanced Space-borne Solar Observatory (ASO-S)</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T233200">2022-10-08 23:32:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Advanced Space-borne Solar Observatory (ASO-S) (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20221008T233200Z%2F20221008T235900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Glonass-K1 No. 17</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T025200">2022-10-10 02:52:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 17&location=Plesetsk Cosmodrome, Russian Federation&dates=20221010T025200Z%2F20221010T025200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>AngoSat-2</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T000000">2022-10-12 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | AngoSat-2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221012T000000Z%2F20221012T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -223,7 +234,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T224219">2022-10-08 22:42:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T230628">2022-10-08 23:06:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
