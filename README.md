@@ -94,38 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Long March 2D | Advanced Space-borne Solar Observatory (ASO-S) (?) at the
-<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a> in
-Jiuquan, People's Republic of China
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T233200">2022-10-08 23:32:00 UTC</a>. Until
-then, this launch pad will have seen 85
-out of 173 launches in this
+Soyuz 2.1b/Fregat | Glonass-K1 No. 17 at the
+<a href="">43/4 (43R)</a> in
+Plesetsk Cosmodrome, Russian Federation
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T025200">2022-10-10 02:52:00 UTC</a>. Until
+then, this launch pad will have seen 307
+out of 1653 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Note: Payload and launch vehicle identity with this launch entry uncertain.
-
-ASO-S (Advanced Space-borne Solar Observatory) is a Chinese solar space observatory that aims to study the interaction between the Sun's magnetic field, solar flares and coronal mass ejections. It's the first space solar observatory of China.
-
-ASO-S is a 3-axis stabilized satellite with a mass of less than 1,000 kg with a pointing accuracy of 0.01° and an orientation stability of 1 to 2 arc seconds every 20 seconds. The payload has a mass below 335 kg and consumes about 300 watts. The platform's pointing accuracy is lower than 0.01°, the measurement accuracy is lower than 1 arc second and the orientation drift is below 0.0004°/s.
-
-ASO-S has three instruments:
-
-- The Full-Disc Vector Magnetograph (FMG) instrument is intended to map the magnetic field of the photosphere over the entire solar disk. It includes an imager, an optical polarization system and a CCD detector.
-
-- The Hard X-ray Imager (HXI) camera should image the whole solar disk in X-rays. The instrument is optimized to take images of solar flares.
-
-- A set of three LST (Lyman-alpha Solar Telescope) telescopes is used to observe the Lyman-alpha line (121.6 nm) of solar flares up to a distance of several solar radii from the Sun's disk. These three telescopes are SDI (to obtain an image of the solar disk), SCI (coronagraph for observation between 1.1 and 2.5 solar radii) and WST (white light emitted by the solar disk used for calibration purposes).
+  Glonass-K are the third generation of satellite design for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and design life. Each satellite is unpressurized and weighs 935 kg,  and has an operational lifetime of 10 years.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=40.960556,100.298333" >
+  <a href="http://maps.google.com/maps?q=62.929+N,+40.457+E" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -138,7 +126,6 @@ ASO-S has three instruments:
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Advanced Space-borne Solar Observatory (ASO-S)</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T233200">2022-10-08 23:32:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Advanced Space-borne Solar Observatory (ASO-S) (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20221008T233200Z%2F20221008T235900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Glonass-K1 No. 17</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T025200">2022-10-10 02:52:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 17&location=Plesetsk Cosmodrome, Russian Federation&dates=20221010T025200Z%2F20221010T025200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>AngoSat-2</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T000000">2022-10-12 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | AngoSat-2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221012T000000Z%2F20221012T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>OneWeb 14</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T184200">2022-10-21 18:42:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 14&location=Sriharikota, Republic of India&dates=20221021T184200Z%2F20221021T184200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -199,7 +186,7 @@ ASO-S has three instruments:
 * [Eutelsat says satellite jammers within Iran are disrupting foreign channels](https://spacenews.com/eutelsat-says-satellite-jammers-within-iran-are-disrupting-foreign-channels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T194009">2022-10-07 19:40:09 UTC</a></sub>
 * [Rocket Lab launches Argos tracking payload](https://spacenews.com/rocket-lab-launches-argos-tracking-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T193012">2022-10-07 19:30:12 UTC</a></sub>
 * [NASA's InSight Waits Out Dust Storm](https://mars.nasa.gov/news/9275/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T161000">2022-10-07 16:10:00 UTC</a></sub>
-* [SpaceX launch with Intelsat Galaxy sats scrubbed again Friday](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T145146">2022-10-07 14:51:46 UTC</a></sub>
+* [SpaceX successfully lofts Intelsat Galaxy duo](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T145146">2022-10-07 14:51:46 UTC</a></sub>
 * [Rocket Lab launches “It Argos Up From Here” mission](https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143736">2022-10-07 14:37:36 UTC</a></sub>
 * [Ariane 6 upper stage testing underway](https://spacenews.com/ariane-6-upper-stage-testing-underway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T123015">2022-10-07 12:30:15 UTC</a></sub>
 
@@ -234,7 +221,7 @@ ASO-S has three instruments:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T230628">2022-10-08 23:06:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T234422">2022-10-08 23:44:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
