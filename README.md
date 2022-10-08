@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CAPSTONE attitude control restored](https://spacenews.com/capstone-attitude-control-restored/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T194016">2022-10-08 19:40:16 UTC</a></sub>
 * [Expedition 68 underway as Crew-4 prepares to return home](https://www.nasaspaceflight.com/2022/10/expedition-68-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T145934">2022-10-08 14:59:34 UTC</a></sub>
 * [Starlink support for Ukraine will exceed $100M by end of year](https://www.teslarati.com/starlink-support-ukraine-exceed-100m/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T231029">2022-10-07 23:10:29 UTC</a></sub>
 * [NASA to Provide Update on DART, World’s First Planetary Defense Test](http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T200000">2022-10-07 20:00:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launch with Intelsat Galaxy sats scrubbed again Friday](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T145146">2022-10-07 14:51:46 UTC</a></sub>
 * [Rocket Lab launches “It Argos Up From Here” mission](https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143736">2022-10-07 14:37:36 UTC</a></sub>
 * [Ariane 6 upper stage testing underway](https://spacenews.com/ariane-6-upper-stage-testing-underway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T123015">2022-10-07 12:30:15 UTC</a></sub>
-* [Rocket Report: Falcon Heavy launch on tap; South Korea seeks Russia alternative](https://arstechnica.com/science/2022/10/rocket-report-falcon-heavy-launch-on-tap-south-korea-seeks-russia-alternative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T110023">2022-10-07 11:00:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T193522">2022-10-08 19:35:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T200750">2022-10-08 20:07:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
