@@ -182,6 +182,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Researchers discover galactic shield of gas surrounding the Magellanic Cloud galaxies](https://www.nasaspaceflight.com/2022/10/magellanic-clouds-corona/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T165545">2022-10-09 16:55:45 UTC</a></sub>
 * [U.S. Arctic strategy calls for investment in climate monitoring, communications technologies](https://spacenews.com/u-s-arctic-strategy-calls-for-investment-in-climate-monitoring-communications-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T155012">2022-10-09 15:50:12 UTC</a></sub>
+* [SpaceX drone ship captures Falcon 9 ‘jellyfish’ from a new angle](https://www.teslarati.com/spacex-drone-ship-new-falcon-9-jellyfish-view/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T054045">2022-10-09 05:40:45 UTC</a></sub>
 * [CAPSTONE attitude control restored](https://spacenews.com/capstone-attitude-control-restored/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T194016">2022-10-08 19:40:16 UTC</a></sub>
 * [Expedition 68 underway as Crew-4 prepares to return home](https://www.nasaspaceflight.com/2022/10/expedition-68-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T145934">2022-10-08 14:59:34 UTC</a></sub>
 * [Two Intelsat video relay satellites ride to orbit on SpaceX rocket](https://spaceflightnow.com/2022/10/08/two-intelsat-video-relay-satellites-ride-to-orbit-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T031012">2022-10-08 03:10:12 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Provide Update on DART, World’s First Planetary Defense Test](http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T200000">2022-10-07 20:00:00 UTC</a></sub>
 * [Eutelsat says satellite jammers within Iran are disrupting foreign channels](https://spacenews.com/eutelsat-says-satellite-jammers-within-iran-are-disrupting-foreign-channels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T194009">2022-10-07 19:40:09 UTC</a></sub>
 * [Rocket Lab launches Argos tracking payload](https://spacenews.com/rocket-lab-launches-argos-tracking-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T193012">2022-10-07 19:30:12 UTC</a></sub>
-* [NASA's InSight Waits Out Dust Storm](https://mars.nasa.gov/news/9275/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T161000">2022-10-07 16:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T050351">2022-10-10 05:03:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T062521">2022-10-10 06:25:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
