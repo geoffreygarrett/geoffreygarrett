@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Stoke Space aims to build rapidly reusable rocket with a completely novel design](https://arstechnica.com/science/2022/10/stoke-space-aims-to-build-rapidly-reusable-rocket-with-a-completely-novel-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113036">2022-10-10 11:30:36 UTC</a></sub>
 * [Firefly says Alpha launch a success despite payload reentries](https://spacenews.com/firefly-says-alpha-launch-a-success-despite-payload-reentries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113019">2022-10-10 11:30:19 UTC</a></sub>
 * [Researchers discover galactic shield of gas surrounding the Magellanic Cloud galaxies](https://www.nasaspaceflight.com/2022/10/magellanic-clouds-corona/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T165545">2022-10-09 16:55:45 UTC</a></sub>
 * [U.S. Arctic strategy calls for investment in climate monitoring, communications technologies](https://spacenews.com/u-s-arctic-strategy-calls-for-investment-in-climate-monitoring-communications-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T155012">2022-10-09 15:50:12 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Two Intelsat video relay satellites ride to orbit on SpaceX rocket](https://spaceflightnow.com/2022/10/08/two-intelsat-video-relay-satellites-ride-to-orbit-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T031012">2022-10-08 03:10:12 UTC</a></sub>
 * [Starlink support for Ukraine will exceed $100M by end of year](https://www.teslarati.com/starlink-support-ukraine-exceed-100m/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T231029">2022-10-07 23:10:29 UTC</a></sub>
 * [NASA to Provide Update on DART, World’s First Planetary Defense Test](http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T200000">2022-10-07 20:00:00 UTC</a></sub>
-* [Eutelsat says satellite jammers within Iran are disrupting foreign channels](https://spacenews.com/eutelsat-says-satellite-jammers-within-iran-are-disrupting-foreign-channels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T194009">2022-10-07 19:40:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113903">2022-10-10 11:39:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T121548">2022-10-10 12:15:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
