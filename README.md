@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Launch on demand: If satellites are shot down, will Space Force be ready to restock?](https://spacenews.com/launch-on-demand-if-satellites-are-shot-down-will-space-force-be-ready-to-restock/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T141011">2022-10-10 14:10:11 UTC</a></sub>
 * [Stoke Space aims to build rapidly reusable rocket with a completely novel design](https://arstechnica.com/science/2022/10/stoke-space-aims-to-build-rapidly-reusable-rocket-with-a-completely-novel-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113036">2022-10-10 11:30:36 UTC</a></sub>
 * [Firefly says Alpha launch a success despite payload reentries](https://spacenews.com/firefly-says-alpha-launch-a-success-despite-payload-reentries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113019">2022-10-10 11:30:19 UTC</a></sub>
 * [Researchers discover galactic shield of gas surrounding the Magellanic Cloud galaxies](https://www.nasaspaceflight.com/2022/10/magellanic-clouds-corona/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T165545">2022-10-09 16:55:45 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Expedition 68 underway as Crew-4 prepares to return home](https://www.nasaspaceflight.com/2022/10/expedition-68-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T145934">2022-10-08 14:59:34 UTC</a></sub>
 * [Two Intelsat video relay satellites ride to orbit on SpaceX rocket](https://spaceflightnow.com/2022/10/08/two-intelsat-video-relay-satellites-ride-to-orbit-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T031012">2022-10-08 03:10:12 UTC</a></sub>
 * [Starlink support for Ukraine will exceed $100M by end of year](https://www.teslarati.com/starlink-support-ukraine-exceed-100m/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T231029">2022-10-07 23:10:29 UTC</a></sub>
-* [NASA to Provide Update on DART, World’s First Planetary Defense Test](http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T200000">2022-10-07 20:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [European Spaceflight Update - Over 200 vacancies at European launch startups](https://www.getrevue.co/profile/andrewparsonson/issues/over-200-vacancies-at-european-launch-startups-1391266) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T142046">2022-10-10 14:20:46 UTC</a></sub>
 * [Look and see](https://www.planetary.org/the-downlink/look-and-see) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143029">2022-10-07 14:30:29 UTC</a></sub>
 * [SES-20/21: Atlas V successfully launches for SES](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T045050">2022-10-05 04:50:50 UTC</a></sub>
 * [The best space pictures from JWST](https://www.planetary.org/space-missions/best-jwst-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T140042">2022-10-04 14:00:42 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [A smashing success](https://www.planetary.org/the-downlink/a-smashing-success) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T143042">2022-09-30 14:30:42 UTC</a></sub>
 * [JWST’s carbon dioxide discovery is good news for Earth-like worlds](https://www.planetary.org/articles/jwst-carbon-dioxide-discovery-earth-like-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T140119">2022-09-27 14:01:19 UTC</a></sub>
 * [See DART’s final images before it smashed into an asteroid](https://www.planetary.org/articles/nasa-dart-final-images-asteroid-crash) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T233140">2022-09-26 23:31:40 UTC</a></sub>
-* [European Spaceflight Update - Wired gets it wrong](https://www.getrevue.co/profile/andrewparsonson/issues/wired-gets-it-wrong-1368173) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T135041">2022-09-26 13:50:41 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T132928">2022-10-10 13:29:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T142054">2022-10-10 14:20:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
