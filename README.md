@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Inmarsat wins $980 million U.S. Navy contract for global communications services](https://spacenews.com/inmarsat-wins-980-million-u-s-navy-contract-for-global-communications-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T170017">2022-10-11 17:00:17 UTC</a></sub>
 * [ExoTrail wins contract to demonstrate orbital transfer for French agencies](https://spacenews.com/exotrail-wins-contract-to-demonstrate-orbital-transfer-for-french-agencies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T153020">2022-10-11 15:30:20 UTC</a></sub>
 * [Solestial closes $10 million round led by Airbus Ventures](https://spacenews.com/solestial-seed-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T141022">2022-10-11 14:10:22 UTC</a></sub>
 * [Space companies face difficult investment environment](https://spacenews.com/space-companies-face-difficult-investment-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T121025">2022-10-11 12:10:25 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [United Launch Alliance's debut Vulcan mission slips to 2023 -CEO](https://www.reuters.com/lifestyle/science/united-launch-alliances-debut-vulcan-mission-slips-2023-ceo-2022-10-10/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T123200">2022-10-10 12:32:00 UTC</a></sub>
 * [Stoke Space aims to build rapidly reusable rocket with a completely novel design](https://arstechnica.com/science/2022/10/stoke-space-aims-to-build-rapidly-reusable-rocket-with-a-completely-novel-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113036">2022-10-10 11:30:36 UTC</a></sub>
 * [Firefly says Alpha launch a success despite payload reentries](https://spacenews.com/firefly-says-alpha-launch-a-success-despite-payload-reentries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113019">2022-10-10 11:30:19 UTC</a></sub>
-* [SpaceX’s first Falcon Heavy launch in three years eyes late-October liftoff](https://www.teslarati.com/spacex-falcon-heavy-rocket-first-launch-three-years-take-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T050040">2022-10-10 05:00:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T161251">2022-10-11 16:12:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T170328">2022-10-11 17:03:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
