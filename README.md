@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ExoTrail wins contract to demonstrate orbital transfer for French agencies](https://spacenews.com/exotrail-wins-contract-to-demonstrate-orbital-transfer-for-french-agencies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T153020">2022-10-11 15:30:20 UTC</a></sub>
 * [Solestial closes $10 million round led by Airbus Ventures](https://spacenews.com/solestial-seed-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T141022">2022-10-11 14:10:22 UTC</a></sub>
 * [Space companies face difficult investment environment](https://spacenews.com/space-companies-face-difficult-investment-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T121025">2022-10-11 12:10:25 UTC</a></sub>
 * [SpaceX deploys two of six C-band satellites Intelsat is launching this year](https://spacenews.com/spacex-deploys-two-of-six-c-band-satellites-intelsat-is-launching-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T171015">2022-10-10 17:10:15 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Stoke Space aims to build rapidly reusable rocket with a completely novel design](https://arstechnica.com/science/2022/10/stoke-space-aims-to-build-rapidly-reusable-rocket-with-a-completely-novel-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113036">2022-10-10 11:30:36 UTC</a></sub>
 * [Firefly says Alpha launch a success despite payload reentries](https://spacenews.com/firefly-says-alpha-launch-a-success-despite-payload-reentries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113019">2022-10-10 11:30:19 UTC</a></sub>
 * [SpaceX’s first Falcon Heavy launch in three years eyes late-October liftoff](https://www.teslarati.com/spacex-falcon-heavy-rocket-first-launch-three-years-take-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T050040">2022-10-10 05:00:40 UTC</a></sub>
-* [Starlink now available in Japan](https://www.teslarati.com/starlink-now-available-in-japan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T005043">2022-10-10 00:50:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T151008">2022-10-11 15:10:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T154758">2022-10-11 15:47:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
