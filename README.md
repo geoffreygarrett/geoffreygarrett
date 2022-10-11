@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Confirms DART Mission Impact Changed Asteroid’s Motion in Space](http://www.nasa.gov/press-release/nasa-confirms-dart-mission-impact-changed-asteroid-s-motion-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T182000">2022-10-11 18:20:00 UTC</a></sub>
+* [El impacto de DART cambió el movimiento de un asteroide en el espacio](http://www.nasa.gov/press-release/el-impacto-de-dart-cambi-el-movimiento-de-un-asteroide-en-el-espacio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T182000">2022-10-11 18:20:00 UTC</a></sub>
 * [Inmarsat wins $980 million U.S. Navy contract for global communications services](https://spacenews.com/inmarsat-wins-980-million-u-s-navy-contract-for-global-communications-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T170017">2022-10-11 17:00:17 UTC</a></sub>
 * [ExoTrail wins contract to demonstrate orbital transfer for French agencies](https://spacenews.com/exotrail-wins-contract-to-demonstrate-orbital-transfer-for-french-agencies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T153020">2022-10-11 15:30:20 UTC</a></sub>
 * [Solestial closes $10 million round led by Airbus Ventures](https://spacenews.com/solestial-seed-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T141022">2022-10-11 14:10:22 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Former SES CEO joins megaconstellation startup E-Space](https://spacenews.com/former-ses-ceo-joins-megaconstellation-startup-e-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T160015">2022-10-10 16:00:15 UTC</a></sub>
 * [Launch on demand: If satellites are shot down, will Space Force be ready to restock?](https://spacenews.com/launch-on-demand-if-satellites-are-shot-down-will-space-force-be-ready-to-restock/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T141011">2022-10-10 14:10:11 UTC</a></sub>
 * [United Launch Alliance's debut Vulcan mission slips to 2023 -CEO](https://www.reuters.com/lifestyle/science/united-launch-alliances-debut-vulcan-mission-slips-2023-ceo-2022-10-10/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T123200">2022-10-10 12:32:00 UTC</a></sub>
-* [Stoke Space aims to build rapidly reusable rocket with a completely novel design](https://arstechnica.com/science/2022/10/stoke-space-aims-to-build-rapidly-reusable-rocket-with-a-completely-novel-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113036">2022-10-10 11:30:36 UTC</a></sub>
-* [Firefly says Alpha launch a success despite payload reentries](https://spacenews.com/firefly-says-alpha-launch-a-success-despite-payload-reentries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113019">2022-10-10 11:30:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [NASA says DART's asteroid impact was a huge success](https://www.planetary.org/articles/nasa-says-dart-impact-successful) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T183039">2022-10-11 18:30:39 UTC</a></sub>
 * [How JWST will reveal our Solar System beyond Neptune](https://www.planetary.org/articles/jwst-reveal-kuiper-belt-objects) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T140053">2022-10-11 14:00:53 UTC</a></sub>
 * [European Spaceflight Update - Over 200 vacancies at European launch startups](https://www.getrevue.co/profile/andrewparsonson/issues/over-200-vacancies-at-european-launch-startups-1391266) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T142046">2022-10-10 14:20:46 UTC</a></sub>
 * [Look and see](https://www.planetary.org/the-downlink/look-and-see) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143029">2022-10-07 14:30:29 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [European Spaceflight Update - The mysterious beginnings of MaiaSpace](https://www.getrevue.co/profile/andrewparsonson/issues/the-mysterious-beginnings-of-maiaspace-1379481) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T141051">2022-10-03 14:10:51 UTC</a></sub>
 * [RocketStars: Richards' career connects Atlas, Delta and Vulcan](https://blog.ulalaunch.com/blog/rocketstars-richards-career-connects-atlas-delta-and-vulcan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T193057">2022-10-02 19:30:57 UTC</a></sub>
 * [A smashing success](https://www.planetary.org/the-downlink/a-smashing-success) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T143042">2022-09-30 14:30:42 UTC</a></sub>
-* [JWST’s carbon dioxide discovery is good news for Earth-like worlds](https://www.planetary.org/articles/jwst-carbon-dioxide-discovery-earth-like-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T140119">2022-09-27 14:01:19 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T181144">2022-10-11 18:11:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T185217">2022-10-11 18:52:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
