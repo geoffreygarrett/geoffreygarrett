@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Yahsat invests in direct-to-cell enabler eSAT Global](https://spacenews.com/yahsat-invests-in-direct-to-cell-enabler-esat-global/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T221014">2022-10-11 22:10:14 UTC</a></sub>
+* [Jumping on the direct-to-cell bandwagon](https://spacenews.com/jumping-on-the-direct-to-cell-bandwagon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T220010">2022-10-11 22:00:10 UTC</a></sub>
 * [JAXA to launch sixth Epsilon flight with RAISE-3 and others](https://www.nasaspaceflight.com/2022/10/epsilon-raise-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T212028">2022-10-11 21:20:28 UTC</a></sub>
 * [NASA taps KSAT and SpaceLink for communications studies](https://spacenews.com/nasa-communications-study-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T212009">2022-10-11 21:20:09 UTC</a></sub>
 * [NASA’s DART spacecraft changes asteroid’s orbit](https://spacenews.com/nasas-dart-spacecraft-changes-asteroids-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T203012">2022-10-11 20:30:12 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Inmarsat wins $980 million U.S. Navy contract for global communications services](https://spacenews.com/inmarsat-wins-980-million-u-s-navy-contract-for-global-communications-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T170017">2022-10-11 17:00:17 UTC</a></sub>
 * [ExoTrail wins contract to demonstrate orbital transfer for French agencies](https://spacenews.com/exotrail-wins-contract-to-demonstrate-orbital-transfer-for-french-agencies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T153020">2022-10-11 15:30:20 UTC</a></sub>
 * [Solestial closes $10 million round led by Airbus Ventures](https://spacenews.com/solestial-seed-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T141022">2022-10-11 14:10:22 UTC</a></sub>
-* [Space companies face difficult investment environment](https://spacenews.com/space-companies-face-difficult-investment-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T121025">2022-10-11 12:10:25 UTC</a></sub>
-* [SpaceX deploys two of six C-band satellites Intelsat is launching this year](https://spacenews.com/spacex-deploys-two-of-six-c-band-satellites-intelsat-is-launching-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T171015">2022-10-10 17:10:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T220719">2022-10-11 22:07:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T224529">2022-10-11 22:45:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
