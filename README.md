@@ -186,11 +186,11 @@ region. The mission's status is currently Go for Launch
 * [Launch on demand: If satellites are shot down, will Space Force be ready to restock?](https://spacenews.com/launch-on-demand-if-satellites-are-shot-down-will-space-force-be-ready-to-restock/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T141011">2022-10-10 14:10:11 UTC</a></sub>
 * [Stoke Space aims to build rapidly reusable rocket with a completely novel design](https://arstechnica.com/science/2022/10/stoke-space-aims-to-build-rapidly-reusable-rocket-with-a-completely-novel-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113036">2022-10-10 11:30:36 UTC</a></sub>
 * [Firefly says Alpha launch a success despite payload reentries](https://spacenews.com/firefly-says-alpha-launch-a-success-despite-payload-reentries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T113019">2022-10-10 11:30:19 UTC</a></sub>
+* [SpaceX’s first Falcon Heavy launch in three years eyes late-October liftoff](https://www.teslarati.com/spacex-falcon-heavy-rocket-first-launch-three-years-take-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T050040">2022-10-10 05:00:40 UTC</a></sub>
 * [Starlink now available in Japan](https://www.teslarati.com/starlink-now-available-in-japan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T005043">2022-10-10 00:50:43 UTC</a></sub>
 * [Researchers discover galactic shield of gas surrounding the Magellanic Cloud galaxies](https://www.nasaspaceflight.com/2022/10/magellanic-clouds-corona/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T165545">2022-10-09 16:55:45 UTC</a></sub>
 * [U.S. Arctic strategy calls for investment in climate monitoring, communications technologies](https://spacenews.com/u-s-arctic-strategy-calls-for-investment-in-climate-monitoring-communications-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T155012">2022-10-09 15:50:12 UTC</a></sub>
 * [SpaceX drone ship captures Falcon 9 ‘jellyfish’ from a new angle](https://www.teslarati.com/spacex-drone-ship-new-falcon-9-jellyfish-view/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T054045">2022-10-09 05:40:45 UTC</a></sub>
-* [CAPSTONE attitude control restored](https://spacenews.com/capstone-attitude-control-restored/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T194016">2022-10-08 19:40:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T045950">2022-10-11 04:59:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T055913">2022-10-11 05:59:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
