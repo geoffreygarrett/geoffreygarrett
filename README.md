@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Mars Mission Shields Up for Tests](https://mars.nasa.gov/news/9276/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T211000">2022-10-12 21:10:00 UTC</a></sub>
 * [Dennis Tito, first space tourist, books trip around the moon on SpaceX’s Starship](https://spaceflightnow.com/2022/10/12/dennis-tito-the-first-space-tourist-books-trip-around-the-moon-on-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T172006">2022-10-12 17:20:06 UTC</a></sub>
 * [NASA Awards Contracts to Assess Near-Space Communications Capabilities](http://www.nasa.gov/press-release/nasa-awards-contracts-to-assess-near-space-communications-capabilities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T172000">2022-10-12 17:20:00 UTC</a></sub>
 * [Amazon to launch two Project Kuiper satellites on Vulcan’s first flight](https://spacenews.com/amazon-to-launch-two-project-kuiper-satellites-on-vulcans-first-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T171012">2022-10-12 17:10:12 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Japan’s Epsilon fails after liftoff, destroying smallsat payload](https://spacenews.com/japans-epsilon-fails-after-liftoff-destroying-smallsat-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T141014">2022-10-12 14:10:14 UTC</a></sub>
 * [SpaceX announces a second private flight to the Moon aboard Starship](https://arstechnica.com/science/2022/10/spacex-announces-a-second-private-flight-to-the-moon-aboard-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T123057">2022-10-12 12:30:57 UTC</a></sub>
 * [NASA TV to Air Crew Activities as Astronauts Prepare, Return to Earth](http://www.nasa.gov/press-release/nasa-tv-to-air-crew-activities-as-astronauts-prepare-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T232000">2022-10-11 23:20:00 UTC</a></sub>
-* [Yahsat invests in direct-to-cell enabler eSAT Global](https://spacenews.com/yahsat-invests-in-direct-to-cell-enabler-esat-global/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T221014">2022-10-11 22:10:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T210753">2022-10-12 21:07:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T214139">2022-10-12 21:41:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
