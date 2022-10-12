@@ -94,30 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Proton-M/Blok DM-03 | AngoSat-2 at the
-<a href="">81/24 (81P)</a> in
-Baikonur Cosmodrome, Republic of Kazakhstan
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T150000">2022-10-12 15:00:00 UTC</a>. Until
-then, this launch pad will have seen 90
-out of 1534 launches in this
+Long March 2C | Unknown Payload at the
+<a href="">Launch Complex 9</a> in
+Taiyuan, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T224400">2022-10-12 22:44:00 UTC</a>. Until
+then, this launch pad will have seen 37
+out of 114 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  The AngoSat 2 is a communications satellite built for Angola to replace the failed AngoSat 1.
-
-The Angosat Project calls for development of a communications satellite with C- and Ku-band transponders, its launch into a geostationary orbit and development of the ground communication and TV broadcasting infrastructure.
-
-In August 2019 it was revealed the replacement satellite is being built by ISS Reshetnev (Bus) and Airbus Defence & Space (payload). Construction has started in February 2018.
+  
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Proton-M" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=46.071+N,+62.985+E" >
+  <a href="http://maps.google.com/maps?q=38.849+N,+111.608+E" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -130,7 +126,6 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>AngoSat-2</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T150000">2022-10-12 15:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | AngoSat-2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221012T150000Z%2F20221012T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Taiyuan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T224400">2022-10-12 22:44:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20221012T224400Z%2F20221012T232300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Yaogan 36 Group 02</b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T190200">2022-10-14 19:02:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Yaogan 36 Group 02 (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221014T190200Z%2F20221014T192200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>EMKA-3</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T190000">2022-10-14 19:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | EMKA-3&location=Plesetsk Cosmodrome, Russian Federation&dates=20221014T190000Z%2F20221014T213000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -226,7 +221,7 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T145250">2022-10-12 14:52:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T151145">2022-10-12 15:11:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
