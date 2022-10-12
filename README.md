@@ -187,7 +187,7 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 * [NASA TV to Air Crew Activities as Astronauts Prepare, Return to Earth](http://www.nasa.gov/press-release/nasa-tv-to-air-crew-activities-as-astronauts-prepare-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T232000">2022-10-11 23:20:00 UTC</a></sub>
 * [Yahsat invests in direct-to-cell enabler eSAT Global](https://spacenews.com/yahsat-invests-in-direct-to-cell-enabler-esat-global/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T221014">2022-10-11 22:10:14 UTC</a></sub>
 * [Jumping on the direct-to-cell bandwagon](https://spacenews.com/jumping-on-the-direct-to-cell-bandwagon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T220010">2022-10-11 22:00:10 UTC</a></sub>
-* [JAXA to launch sixth Epsilon flight with RAISE-3 and others](https://www.nasaspaceflight.com/2022/10/epsilon-raise-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T212028">2022-10-11 21:20:28 UTC</a></sub>
+* [JAXA Epsilon fails on sixth flight carrying RAISE-3 and others](https://www.nasaspaceflight.com/2022/10/epsilon-raise-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T212028">2022-10-11 21:20:28 UTC</a></sub>
 * [NASA taps KSAT and SpaceLink for communications studies](https://spacenews.com/nasa-communications-study-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T212009">2022-10-11 21:20:09 UTC</a></sub>
 * [NASA’s DART spacecraft changes asteroid’s orbit](https://spacenews.com/nasas-dart-spacecraft-changes-asteroids-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T203012">2022-10-11 20:30:12 UTC</a></sub>
 * [NASA Confirms DART Mission Impact Changed Asteroid’s Motion in Space](http://www.nasa.gov/press-release/nasa-confirms-dart-mission-impact-changed-asteroid-s-motion-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T182000">2022-10-11 18:20:00 UTC</a></sub>
@@ -226,7 +226,7 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T005346">2022-10-12 00:53:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T032730">2022-10-12 03:27:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
