@@ -179,6 +179,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amazon to launch two Project Kuiper satellites on Vulcan’s first flight](https://spacenews.com/amazon-to-launch-two-project-kuiper-satellites-on-vulcans-first-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T171012">2022-10-12 17:10:12 UTC</a></sub>
+* [NASA says the Artemis I mission will be ready to launch in one month](https://arstechnica.com/science/2022/10/nasa-targets-mid-november-for-its-third-artemis-i-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T164030">2022-10-12 16:40:30 UTC</a></sub>
+* [On space matters, Biden’s national security strategy adopts a less combative tone](https://spacenews.com/on-space-matters-bidens-national-security-strategy-adopts-a-less-combative-tone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T161016">2022-10-12 16:10:16 UTC</a></sub>
 * [OneWeb unveils Innovation Challenge competition](https://spacenews.com/oneweb-2022-innovation-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T155015">2022-10-12 15:50:15 UTC</a></sub>
 * [Japan’s Epsilon fails after liftoff, destroying smallsat payload](https://spacenews.com/japans-epsilon-fails-after-liftoff-destroying-smallsat-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T141014">2022-10-12 14:10:14 UTC</a></sub>
 * [SpaceX announces a second private flight to the Moon aboard Starship](https://arstechnica.com/science/2022/10/spacex-announces-a-second-private-flight-to-the-moon-aboard-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T123057">2022-10-12 12:30:57 UTC</a></sub>
@@ -186,9 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Yahsat invests in direct-to-cell enabler eSAT Global](https://spacenews.com/yahsat-invests-in-direct-to-cell-enabler-esat-global/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T221014">2022-10-11 22:10:14 UTC</a></sub>
 * [Jumping on the direct-to-cell bandwagon](https://spacenews.com/jumping-on-the-direct-to-cell-bandwagon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T220010">2022-10-11 22:00:10 UTC</a></sub>
 * [JAXA Epsilon fails on sixth flight carrying RAISE-3 and others](https://www.nasaspaceflight.com/2022/10/epsilon-raise-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T212028">2022-10-11 21:20:28 UTC</a></sub>
-* [NASA taps KSAT and SpaceLink for communications studies](https://spacenews.com/nasa-communications-study-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T212009">2022-10-11 21:20:09 UTC</a></sub>
-* [NASA’s DART spacecraft changes asteroid’s orbit](https://spacenews.com/nasas-dart-spacecraft-changes-asteroids-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T203012">2022-10-11 20:30:12 UTC</a></sub>
-* [NASA Confirms DART Mission Impact Changed Asteroid’s Motion in Space](http://www.nasa.gov/press-release/nasa-confirms-dart-mission-impact-changed-asteroid-s-motion-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T182000">2022-10-11 18:20:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T161721">2022-10-12 16:17:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T171414">2022-10-12 17:14:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
