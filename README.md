@@ -184,6 +184,7 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japan’s Epsilon fails after liftoff, destroying smallsat payload](https://spacenews.com/japans-epsilon-fails-after-liftoff-destroying-smallsat-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T141014">2022-10-12 14:10:14 UTC</a></sub>
 * [SpaceX announces a second private flight to the Moon aboard Starship](https://arstechnica.com/science/2022/10/spacex-announces-a-second-private-flight-to-the-moon-aboard-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T123057">2022-10-12 12:30:57 UTC</a></sub>
 * [NASA TV to Air Crew Activities as Astronauts Prepare, Return to Earth](http://www.nasa.gov/press-release/nasa-tv-to-air-crew-activities-as-astronauts-prepare-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T232000">2022-10-11 23:20:00 UTC</a></sub>
 * [Yahsat invests in direct-to-cell enabler eSAT Global](https://spacenews.com/yahsat-invests-in-direct-to-cell-enabler-esat-global/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T221014">2022-10-11 22:10:14 UTC</a></sub>
@@ -193,7 +194,6 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 * [NASA’s DART spacecraft changes asteroid’s orbit](https://spacenews.com/nasas-dart-spacecraft-changes-asteroids-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T203012">2022-10-11 20:30:12 UTC</a></sub>
 * [NASA Confirms DART Mission Impact Changed Asteroid’s Motion in Space](http://www.nasa.gov/press-release/nasa-confirms-dart-mission-impact-changed-asteroid-s-motion-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T182000">2022-10-11 18:20:00 UTC</a></sub>
 * [El impacto de DART cambió el movimiento de un asteroide en el espacio](http://www.nasa.gov/press-release/el-impacto-de-dart-cambi-el-movimiento-de-un-asteroide-en-el-espacio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T182000">2022-10-11 18:20:00 UTC</a></sub>
-* [Inmarsat wins $980 million U.S. Navy contract for global communications services](https://spacenews.com/inmarsat-wins-980-million-u-s-navy-contract-for-global-communications-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T170017">2022-10-11 17:00:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T132245">2022-10-12 13:22:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T141340">2022-10-12 14:13:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
