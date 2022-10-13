@@ -199,6 +199,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [JPSS-2: Atlas V to launch weather satellite and tech demonstration](https://blog.ulalaunch.com/blog/jpss-2-atlas-v-to-launch-weather-satellite-and-tech-demonstration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T141038">2022-10-13 14:10:38 UTC</a></sub>
 * [Rocket Lab’s private Venus mission](https://www.planetary.org/space-missions/rocket-lab-venus-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T140028">2022-10-13 14:00:28 UTC</a></sub>
 * [NASA says DART's asteroid impact was a huge success](https://www.planetary.org/articles/nasa-says-dart-impact-successful) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T183039">2022-10-11 18:30:39 UTC</a></sub>
 * [How JWST will reveal our Solar System beyond Neptune](https://www.planetary.org/articles/jwst-reveal-kuiper-belt-objects) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T140053">2022-10-11 14:00:53 UTC</a></sub>
@@ -208,7 +209,6 @@ region. The mission's status is currently Go for Launch
 * [The best space pictures from JWST](https://www.planetary.org/space-missions/best-jwst-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T140042">2022-10-04 14:00:42 UTC</a></sub>
 * [RocketStars: Guidance expert lends expertise to complex Atlas V launch](https://blog.ulalaunch.com/blog/rocketstars-guidance-expert-lends-expertise-to-complex-atlas-v-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T160249">2022-10-03 16:02:49 UTC</a></sub>
 * [European Spaceflight Update - The mysterious beginnings of MaiaSpace](https://www.getrevue.co/profile/andrewparsonson/issues/the-mysterious-beginnings-of-maiaspace-1379481) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T141051">2022-10-03 14:10:51 UTC</a></sub>
-* [RocketStars: Richards' career connects Atlas, Delta and Vulcan](https://blog.ulalaunch.com/blog/rocketstars-richards-career-connects-atlas-delta-and-vulcan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T193057">2022-10-02 19:30:57 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T140609">2022-10-13 14:06:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T144747">2022-10-13 14:47:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
