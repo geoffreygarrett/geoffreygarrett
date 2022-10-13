@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis 1, ispace lander set November launch dates](https://spacenews.com/artemis-1-ispace-lander-set-november-launch-dates/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T102010">2022-10-13 10:20:10 UTC</a></sub>
+* [China launches radar satellite for environmental monitoring](https://spacenews.com/china-launches-radar-satellite-for-environmental-monitoring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T100010">2022-10-13 10:00:10 UTC</a></sub>
 * [Mars Mission Shields Up for Tests](https://mars.nasa.gov/news/9276/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T211000">2022-10-12 21:10:00 UTC</a></sub>
 * [Dennis Tito, first space tourist, books trip around the moon on SpaceX’s Starship](https://spaceflightnow.com/2022/10/12/dennis-tito-the-first-space-tourist-books-trip-around-the-moon-on-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T172006">2022-10-12 17:20:06 UTC</a></sub>
 * [NASA Awards Contracts to Assess Near-Space Communications Capabilities](http://www.nasa.gov/press-release/nasa-awards-contracts-to-assess-near-space-communications-capabilities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T172000">2022-10-12 17:20:00 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [On space matters, Biden’s national security strategy adopts a less combative tone](https://spacenews.com/on-space-matters-bidens-national-security-strategy-adopts-a-less-combative-tone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T161016">2022-10-12 16:10:16 UTC</a></sub>
 * [OneWeb unveils Innovation Challenge competition](https://spacenews.com/oneweb-2022-innovation-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T155015">2022-10-12 15:50:15 UTC</a></sub>
 * [Japan’s Epsilon fails after liftoff, destroying smallsat payload](https://spacenews.com/japans-epsilon-fails-after-liftoff-destroying-smallsat-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T141014">2022-10-12 14:10:14 UTC</a></sub>
-* [SpaceX announces a second private flight to the Moon aboard Starship](https://arstechnica.com/science/2022/10/spacex-announces-a-second-private-flight-to-the-moon-aboard-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T123057">2022-10-12 12:30:57 UTC</a></sub>
-* [Lockheed Martin Space leader aims to speed things up](https://spacenews.com/lockheed-space-head-talks-partnerships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T040011">2022-10-12 04:00:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T100843">2022-10-13 10:08:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T104653">2022-10-13 10:46:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
