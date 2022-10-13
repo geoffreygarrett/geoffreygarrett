@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to Launch of Water-Monitoring Satellite](http://www.nasa.gov/press-release/nasa-invites-media-to-launch-of-water-monitoring-satellite) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T221000">2022-10-13 22:10:00 UTC</a></sub>
 * [Astra’s strategy to address NASDAQ warning](https://spacenews.com/astras-strategy-to-address-nasdaq-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T214009">2022-10-13 21:40:09 UTC</a></sub>
-* [Starlink kicks off Asia expansion in search of more subscribers](https://spacenews.com/starlink-kicks-off-asia-expansion-in-search-of-more-subscribers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T210011">2022-10-13 21:00:11 UTC</a></sub>
 * [Starlink’s market dominance affecting DoD’s hybrid network plans](https://spacenews.com/starlinks-market-dominance-affecting-dods-hybrid-network-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T210011">2022-10-13 21:00:11 UTC</a></sub>
+* [Starlink kicks off Asia expansion in search of more subscribers](https://spacenews.com/starlink-kicks-off-asia-expansion-in-search-of-more-subscribers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T210011">2022-10-13 21:00:11 UTC</a></sub>
 * [NASA Awards Contract for Facilities Operations, Maintenance Service](http://www.nasa.gov/press-release/nasa-awards-contract-for-facilities-operations-maintenance-service) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T202000">2022-10-13 20:20:00 UTC</a></sub>
 * [Phase Four adopts iodine for next-gen Max-V engine](https://spacenews.com/phase-four-adopts-iodine-for-next-gen-max-v-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T184010">2022-10-13 18:40:10 UTC</a></sub>
 * [Artemis 1, ispace lander set November launch dates](https://spacenews.com/artemis-1-ispace-lander-set-november-launch-dates/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T102010">2022-10-13 10:20:10 UTC</a></sub>
 * [China launches radar satellite for environmental monitoring](https://spacenews.com/china-launches-radar-satellite-for-environmental-monitoring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T100010">2022-10-13 10:00:10 UTC</a></sub>
 * [Mars Mission Shields Up for Tests](https://mars.nasa.gov/news/9276/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T211000">2022-10-12 21:10:00 UTC</a></sub>
 * [Dennis Tito, first space tourist, books trip around the moon on SpaceX’s Starship](https://spaceflightnow.com/2022/10/12/dennis-tito-the-first-space-tourist-books-trip-around-the-moon-on-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T172006">2022-10-12 17:20:06 UTC</a></sub>
-* [NASA Awards Contracts to Assess Near-Space Communications Capabilities](http://www.nasa.gov/press-release/nasa-awards-contracts-to-assess-near-space-communications-capabilities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T172000">2022-10-12 17:20:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T220705">2022-10-13 22:07:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T224550">2022-10-13 22:45:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
