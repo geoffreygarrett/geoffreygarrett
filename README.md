@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew-4 prepares to undock from the ISS ahead of return to Earth](https://www.nasaspaceflight.com/2022/10/crew-4-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T132519">2022-10-14 13:25:19 UTC</a></sub>
 * [Commercial space station developers seek clarity on regulations](https://spacenews.com/commercial-space-station-developers-seek-clarity-on-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T121031">2022-10-14 12:10:31 UTC</a></sub>
 * [Rocket Report: Amazing view of Falcon 9 landing, spaceport suit Down Under](https://arstechnica.com/science/2022/10/rocket-report-amazing-view-of-falcon-9-landing-spaceport-suit-down-under/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T113024">2022-10-14 11:30:24 UTC</a></sub>
 * [NASA Invites Media to Launch of Water-Monitoring Satellite](http://www.nasa.gov/press-release/nasa-invites-media-to-launch-of-water-monitoring-satellite) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T221000">2022-10-13 22:10:00 UTC</a></sub>
@@ -189,8 +190,7 @@ region. The mission's status is currently Go for Launch
 * [Starlink kicks off Asia expansion in search of more subscribers](https://spacenews.com/starlink-kicks-off-asia-expansion-in-search-of-more-subscribers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T210011">2022-10-13 21:00:11 UTC</a></sub>
 * [NASA Awards Contract for Facilities Operations, Maintenance Service](http://www.nasa.gov/press-release/nasa-awards-contract-for-facilities-operations-maintenance-service) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T202000">2022-10-13 20:20:00 UTC</a></sub>
 * [Phase Four adopts iodine for next-gen Max-V engine](https://spacenews.com/phase-four-adopts-iodine-for-next-gen-max-v-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T184010">2022-10-13 18:40:10 UTC</a></sub>
-* [Artemis 1, ispace lander set November launch dates](https://spacenews.com/artemis-1-ispace-lander-set-november-launch-dates/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T102010">2022-10-13 10:20:10 UTC</a></sub>
-* [China launches radar satellite for environmental monitoring](https://spacenews.com/china-launches-radar-satellite-for-environmental-monitoring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T100010">2022-10-13 10:00:10 UTC</a></sub>
+* [NASA targets Nov. 14 for next Artemis launch attempt](https://spaceflightnow.com/2022/10/13/nasa-targets-nov-14-for-next-artemis-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T135021">2022-10-13 13:50:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T132800">2022-10-14 13:28:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T141358">2022-10-14 14:13:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
