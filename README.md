@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hotbird-13F ready for launch aboard Falcon 9 from Cape Canaveral](https://www.nasaspaceflight.com/2022/10/hotbird-13f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T192454">2022-10-14 19:24:54 UTC</a></sub>
 * [Viasat’s Inmarsat takeover faces delay as UK expands merger review](https://spacenews.com/viasats-inmarsat-takeover-faces-delay-as-uk-expands-merger-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T175032">2022-10-14 17:50:32 UTC</a></sub>
 * [SpaceX Crew-4 undocks from the ISS ahead of return to Earth](https://www.nasaspaceflight.com/2022/10/crew-4-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T132519">2022-10-14 13:25:19 UTC</a></sub>
 * [Commercial space station developers seek clarity on regulations](https://spacenews.com/commercial-space-station-developers-seek-clarity-on-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T121031">2022-10-14 12:10:31 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Starlink’s market dominance affecting DoD’s hybrid network plans](https://spacenews.com/starlinks-market-dominance-affecting-dods-hybrid-network-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T210011">2022-10-13 21:00:11 UTC</a></sub>
 * [Starlink kicks off Asia expansion in search of more subscribers](https://spacenews.com/starlink-kicks-off-asia-expansion-in-search-of-more-subscribers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T210011">2022-10-13 21:00:11 UTC</a></sub>
 * [NASA Awards Contract for Facilities Operations, Maintenance Service](http://www.nasa.gov/press-release/nasa-awards-contract-for-facilities-operations-maintenance-service) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T202000">2022-10-13 20:20:00 UTC</a></sub>
-* [Phase Four adopts iodine for next-gen Max-V engine](https://spacenews.com/phase-four-adopts-iodine-for-next-gen-max-v-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T184010">2022-10-13 18:40:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T191122">2022-10-14 19:11:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T193822">2022-10-14 19:38:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
