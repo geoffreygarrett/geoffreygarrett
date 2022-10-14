@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amazon to link Kuiper satellites to DoD’s mesh network in space](https://spacenews.com/amazon-to-link-kuiper-satellites-to-dods-mesh-network-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T204036">2022-10-14 20:40:36 UTC</a></sub>
 * [Hotbird-13F ready for launch aboard Falcon 9 from Cape Canaveral](https://www.nasaspaceflight.com/2022/10/hotbird-13f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T192454">2022-10-14 19:24:54 UTC</a></sub>
 * [Viasat’s Inmarsat takeover faces delay as UK expands merger review](https://spacenews.com/viasats-inmarsat-takeover-faces-delay-as-uk-expands-merger-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T175032">2022-10-14 17:50:32 UTC</a></sub>
 * [SpaceX Crew-4 undocks from the ISS ahead of return to Earth](https://www.nasaspaceflight.com/2022/10/crew-4-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T132519">2022-10-14 13:25:19 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Astra’s strategy to address NASDAQ warning](https://spacenews.com/astras-strategy-to-address-nasdaq-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T214009">2022-10-13 21:40:09 UTC</a></sub>
 * [Starlink’s market dominance affecting DoD’s hybrid network plans](https://spacenews.com/starlinks-market-dominance-affecting-dods-hybrid-network-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T210011">2022-10-13 21:00:11 UTC</a></sub>
 * [Starlink kicks off Asia expansion in search of more subscribers](https://spacenews.com/starlink-kicks-off-asia-expansion-in-search-of-more-subscribers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T210011">2022-10-13 21:00:11 UTC</a></sub>
-* [NASA Awards Contract for Facilities Operations, Maintenance Service](http://www.nasa.gov/press-release/nasa-awards-contract-for-facilities-operations-maintenance-service) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T202000">2022-10-13 20:20:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T200748">2022-10-14 20:07:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T204704">2022-10-14 20:47:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
