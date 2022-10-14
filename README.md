@@ -181,7 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Crew-4 prepares to undock from the ISS ahead of return to Earth](https://www.nasaspaceflight.com/2022/10/crew-4-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T132519">2022-10-14 13:25:19 UTC</a></sub>
+* [SpaceX Crew-4 undocks from the ISS ahead of return to Earth](https://www.nasaspaceflight.com/2022/10/crew-4-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T132519">2022-10-14 13:25:19 UTC</a></sub>
 * [Commercial space station developers seek clarity on regulations](https://spacenews.com/commercial-space-station-developers-seek-clarity-on-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T121031">2022-10-14 12:10:31 UTC</a></sub>
 * [Rocket Report: Amazing view of Falcon 9 landing, spaceport suit Down Under](https://arstechnica.com/science/2022/10/rocket-report-amazing-view-of-falcon-9-landing-spaceport-suit-down-under/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T113024">2022-10-14 11:30:24 UTC</a></sub>
 * [NASA Invites Media to Launch of Water-Monitoring Satellite](http://www.nasa.gov/press-release/nasa-invites-media-to-launch-of-water-monitoring-satellite) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T221000">2022-10-13 22:10:00 UTC</a></sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T161205">2022-10-14 16:12:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T170405">2022-10-14 17:04:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
