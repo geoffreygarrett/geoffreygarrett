@@ -180,6 +180,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launch to deploy first in new generation of Airbus-built satellites](https://spaceflightnow.com/2022/10/14/spacex-launch-to-deploy-first-in-new-generation-of-airbus-built-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T223015">2022-10-14 22:30:15 UTC</a></sub>
+* [NASA’s SpaceX Crew-4 Astronauts Safely Splash Down in Atlantic](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-safely-splash-down-in-atlantic) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T220100">2022-10-14 22:01:00 UTC</a></sub>
+* [Since Crew Dragon’s debut, SpaceX has flown more astronauts than anyone](https://arstechnica.com/science/2022/10/since-crew-dragons-debut-spacex-has-flown-more-astronauts-than-anyone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T215735">2022-10-14 21:57:35 UTC</a></sub>
 * [Merging Earth observation remains messy, time-consuming](https://spacenews.com/earth-observation-interoperability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T212035">2022-10-14 21:20:35 UTC</a></sub>
 * [SpaceX Crew-4 returns to Earth with Atlantic splashdown](https://www.nasaspaceflight.com/2022/10/crew-4-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T210519">2022-10-14 21:05:19 UTC</a></sub>
 * [Amazon to link Kuiper satellites to DoD’s mesh network in space](https://spacenews.com/amazon-to-link-kuiper-satellites-to-dods-mesh-network-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T204036">2022-10-14 20:40:36 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Viasat’s Inmarsat takeover faces delay as UK expands merger review](https://spacenews.com/viasats-inmarsat-takeover-faces-delay-as-uk-expands-merger-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T175032">2022-10-14 17:50:32 UTC</a></sub>
 * [Commercial space station developers seek clarity on regulations](https://spacenews.com/commercial-space-station-developers-seek-clarity-on-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T121031">2022-10-14 12:10:31 UTC</a></sub>
 * [Rocket Report: Amazing view of Falcon 9 landing, spaceport suit Down Under](https://arstechnica.com/science/2022/10/rocket-report-amazing-view-of-falcon-9-landing-spaceport-suit-down-under/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T113024">2022-10-14 11:30:24 UTC</a></sub>
-* [NASA Invites Media to Launch of Water-Monitoring Satellite](http://www.nasa.gov/press-release/nasa-invites-media-to-launch-of-water-monitoring-satellite) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T221000">2022-10-13 22:10:00 UTC</a></sub>
-* [Astra’s strategy to address NASDAQ warning](https://spacenews.com/astras-strategy-to-address-nasdaq-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T214009">2022-10-13 21:40:09 UTC</a></sub>
-* [Starlink’s market dominance affecting DoD’s hybrid network plans](https://spacenews.com/starlinks-market-dominance-affecting-dods-hybrid-network-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T210011">2022-10-13 21:00:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T220706">2022-10-14 22:07:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T224425">2022-10-14 22:44:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
