@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew-4 returns to Earth](https://spacenews.com/crew-4-returns-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T231043">2022-10-14 23:10:43 UTC</a></sub>
 * [SpaceX launch to deploy first in new generation of Airbus-built satellites](https://spaceflightnow.com/2022/10/14/spacex-launch-to-deploy-first-in-new-generation-of-airbus-built-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T223015">2022-10-14 22:30:15 UTC</a></sub>
 * [NASA’s SpaceX Crew-4 Astronauts Safely Splash Down in Atlantic](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-safely-splash-down-in-atlantic) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T220100">2022-10-14 22:01:00 UTC</a></sub>
 * [Since Crew Dragon’s debut, SpaceX has flown more astronauts than anyone](https://arstechnica.com/science/2022/10/since-crew-dragons-debut-spacex-has-flown-more-astronauts-than-anyone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T215735">2022-10-14 21:57:35 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Hotbird-13F ready for launch aboard Falcon 9 from Cape Canaveral](https://www.nasaspaceflight.com/2022/10/hotbird-13f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T192454">2022-10-14 19:24:54 UTC</a></sub>
 * [Viasat’s Inmarsat takeover faces delay as UK expands merger review](https://spacenews.com/viasats-inmarsat-takeover-faces-delay-as-uk-expands-merger-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T175032">2022-10-14 17:50:32 UTC</a></sub>
 * [Commercial space station developers seek clarity on regulations](https://spacenews.com/commercial-space-station-developers-seek-clarity-on-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T121031">2022-10-14 12:10:31 UTC</a></sub>
-* [Rocket Report: Amazing view of Falcon 9 landing, spaceport suit Down Under](https://arstechnica.com/science/2022/10/rocket-report-amazing-view-of-falcon-9-landing-spaceport-suit-down-under/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T113024">2022-10-14 11:30:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T230658">2022-10-14 23:06:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T234544">2022-10-14 23:45:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
