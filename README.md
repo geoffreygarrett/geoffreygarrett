@@ -186,7 +186,7 @@ region. The mission's status is currently Go for Launch
 * [Merging Earth observation remains messy, time-consuming](https://spacenews.com/earth-observation-interoperability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T212035">2022-10-14 21:20:35 UTC</a></sub>
 * [SpaceX Crew-4 returns to Earth with Atlantic splashdown](https://www.nasaspaceflight.com/2022/10/crew-4-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T210519">2022-10-14 21:05:19 UTC</a></sub>
 * [Amazon to link Kuiper satellites to DoD’s mesh network in space](https://spacenews.com/amazon-to-link-kuiper-satellites-to-dods-mesh-network-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T204036">2022-10-14 20:40:36 UTC</a></sub>
-* [Hotbird-13F ready for launch aboard Falcon 9 from Cape Canaveral](https://www.nasaspaceflight.com/2022/10/hotbird-13f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T192454">2022-10-14 19:24:54 UTC</a></sub>
+* [Hotbird-13F launches aboard Falcon 9 from Cape Canaveral](https://www.nasaspaceflight.com/2022/10/hotbird-13f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T192454">2022-10-14 19:24:54 UTC</a></sub>
 * [Viasat’s Inmarsat takeover faces delay as UK expands merger review](https://spacenews.com/viasats-inmarsat-takeover-faces-delay-as-uk-expands-merger-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T175032">2022-10-14 17:50:32 UTC</a></sub>
 * [Commercial space station developers seek clarity on regulations](https://spacenews.com/commercial-space-station-developers-seek-clarity-on-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T121031">2022-10-14 12:10:31 UTC</a></sub>
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T054145">2022-10-15 05:41:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T061910">2022-10-15 06:19:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
