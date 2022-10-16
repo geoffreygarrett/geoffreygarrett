@@ -182,6 +182,8 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lucy completes its first Earth gravity assist after a year in space](https://www.nasaspaceflight.com/2022/10/lucy-first-earth-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T162758">2022-10-15 16:27:58 UTC</a></sub>
+* [DoD eyeing options to provide satcom in Ukraine as it continues talks with SpaceX](https://spacenews.com/dod-eyeing-options-to-provide-satcom-in-ukraine-as-it-continues-talks-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T023826">2022-10-15 02:38:26 UTC</a></sub>
 * [Crew-4 returns to Earth](https://spacenews.com/crew-4-returns-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T231043">2022-10-14 23:10:43 UTC</a></sub>
 * [SpaceX launch to deploy first in new generation of Airbus-built satellites](https://spaceflightnow.com/2022/10/14/spacex-launch-to-deploy-first-in-new-generation-of-airbus-built-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T223015">2022-10-14 22:30:15 UTC</a></sub>
 * [NASA’s SpaceX Crew-4 Astronauts Safely Splash Down in Atlantic](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-safely-splash-down-in-atlantic) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T220100">2022-10-14 22:01:00 UTC</a></sub>
@@ -190,8 +192,6 @@ Unidentified classified satellites for the Russian military.
 * [SpaceX Crew-4 returns to Earth with Atlantic splashdown](https://www.nasaspaceflight.com/2022/10/crew-4-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T210519">2022-10-14 21:05:19 UTC</a></sub>
 * [Amazon to link Kuiper satellites to DoD’s mesh network in space](https://spacenews.com/amazon-to-link-kuiper-satellites-to-dods-mesh-network-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T204036">2022-10-14 20:40:36 UTC</a></sub>
 * [Hotbird-13F launches aboard Falcon 9 from Cape Canaveral](https://www.nasaspaceflight.com/2022/10/hotbird-13f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T192454">2022-10-14 19:24:54 UTC</a></sub>
-* [Viasat’s Inmarsat takeover faces delay as UK expands merger review](https://spacenews.com/viasats-inmarsat-takeover-faces-delay-as-uk-expands-merger-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T175032">2022-10-14 17:50:32 UTC</a></sub>
-* [Commercial space station developers seek clarity on regulations](https://spacenews.com/commercial-space-station-developers-seek-clarity-on-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T121031">2022-10-14 12:10:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221016T062241">2022-10-16 06:22:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221016T065410">2022-10-16 06:54:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
