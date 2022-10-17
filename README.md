@@ -203,6 +203,7 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Europe in Space - German launch startups are raising cash](https://www.getrevue.co/profile/andrewparsonson/issues/german-launch-startups-are-raising-cash-1402196) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T140825">2022-10-17 14:08:25 UTC</a></sub>
 * [Good omens](https://www.planetary.org/the-downlink/good-omens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T143209">2022-10-14 14:32:09 UTC</a></sub>
 * [Europe in Space - The mysterious beginnings of MaiaSpace](https://www.getrevue.co/profile/andrewparsonson/issues/the-mysterious-beginnings-of-maiaspace-1379481) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T085042">2022-10-14 08:50:42 UTC</a></sub>
 * [JPSS-2: Atlas V to launch weather satellite and tech demonstration](https://blog.ulalaunch.com/blog/jpss-2-atlas-v-to-launch-weather-satellite-and-tech-demonstration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T141038">2022-10-13 14:10:38 UTC</a></sub>
@@ -212,7 +213,6 @@ Unidentified classified satellites for the Russian military.
 * [Europe in Space - Over 200 vacancies at European launch startups](https://www.getrevue.co/profile/andrewparsonson/issues/over-200-vacancies-at-european-launch-startups-1391266) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T085039">2022-10-10 08:50:39 UTC</a></sub>
 * [Look and see](https://www.planetary.org/the-downlink/look-and-see) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143029">2022-10-07 14:30:29 UTC</a></sub>
 * [SES-20/21: Atlas V successfully launches for SES](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T045050">2022-10-05 04:50:50 UTC</a></sub>
-* [The best space pictures from JWST](https://www.planetary.org/space-missions/best-jwst-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T140042">2022-10-04 14:00:42 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -225,7 +225,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T132822">2022-10-17 13:28:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T142048">2022-10-17 14:20:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
