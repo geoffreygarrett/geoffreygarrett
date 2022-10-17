@@ -183,6 +183,7 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SES to appeal Intelsat C-band sharing decision](https://spacenews.com/ses-to-appeal-intelsat-c-band-sharing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T171756">2022-10-17 17:17:56 UTC</a></sub>
 * [Satellite broadband players poised to compete for U.S. military customers](https://spacenews.com/satellite-broadband-players-poised-to-compete-for-u-s-military-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T161756">2022-10-17 16:17:56 UTC</a></sub>
 * [China considering mission to Ceres and large dark matter space telescope](https://spacenews.com/china-considering-mission-to-ceres-and-large-dark-matter-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T132756">2022-10-17 13:27:56 UTC</a></sub>
 * [NASA outlines case for making sole-source SLS award to Boeing-Northrop joint venture](https://spacenews.com/nasa-outlines-case-for-making-sole-source-sls-award-to-boeing-northrop-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T094800">2022-10-17 09:48:00 UTC</a></sub>
@@ -192,7 +193,6 @@ Unidentified classified satellites for the Russian military.
 * [DoD eyeing options to provide satcom in Ukraine as it continues talks with SpaceX](https://spacenews.com/dod-eyeing-options-to-provide-satcom-in-ukraine-as-it-continues-talks-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T023826">2022-10-15 02:38:26 UTC</a></sub>
 * [Crew-4 returns to Earth](https://spacenews.com/crew-4-returns-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T231043">2022-10-14 23:10:43 UTC</a></sub>
 * [SpaceX launch to deploy first in new generation of Airbus-built satellites](https://spaceflightnow.com/2022/10/14/spacex-launch-to-deploy-first-in-new-generation-of-airbus-built-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T223015">2022-10-14 22:30:15 UTC</a></sub>
-* [NASA’s SpaceX Crew-4 Astronauts Safely Splash Down in Atlantic](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-safely-splash-down-in-atlantic) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T220100">2022-10-14 22:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T171356">2022-10-17 17:13:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T180336">2022-10-17 18:03:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
