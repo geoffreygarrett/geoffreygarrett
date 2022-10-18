@@ -183,6 +183,7 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [TESS returns from safe mode, the case of the missing exoplanet atmosphere](https://www.nasaspaceflight.com/2022/10/tess-safe-mode-incident/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T163532">2022-10-18 16:35:32 UTC</a></sub>
 * [Panasonic Avionics to bring OneWeb LEO broadband to planes](https://spacenews.com/panasonic-avionics-to-bring-oneweb-leo-broadband-to-planes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T144756">2022-10-18 14:47:56 UTC</a></sub>
 * [Partnerships seen as key for LEO operators to enter Asia](https://spacenews.com/partnerships-seen-as-key-for-leo-operators-to-enter-asia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T143758">2022-10-18 14:37:58 UTC</a></sub>
 * [China gears up for launches to complete Tiangong space station](https://spacenews.com/china-gears-up-for-launches-to-complete-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T104756">2022-10-18 10:47:56 UTC</a></sub>
@@ -192,7 +193,6 @@ Unidentified classified satellites for the Russian military.
 * [U.S. military waiting for industry to demonstrate space transportation concepts](https://spacenews.com/u-s-military-waiting-for-industry-to-demonstrate-space-transportation-concepts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T204757">2022-10-17 20:47:57 UTC</a></sub>
 * [Firefly looking ahead after “To The Black” payloads reenter early](https://www.nasaspaceflight.com/2022/10/firefly-to-the-black-reentry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T194216">2022-10-17 19:42:16 UTC</a></sub>
 * [SES to appeal Intelsat C-band sharing decision](https://spacenews.com/ses-to-appeal-intelsat-c-band-sharing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T171756">2022-10-17 17:17:56 UTC</a></sub>
-* [Satellite broadband players poised to compete for U.S. military customers](https://spacenews.com/satellite-broadband-players-poised-to-compete-for-u-s-military-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T161756">2022-10-17 16:17:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T161619">2022-10-18 16:16:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T170850">2022-10-18 17:08:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
