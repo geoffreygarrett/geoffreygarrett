@@ -183,6 +183,7 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Falcon 9 leading candidate to launch European science mission](https://spacenews.com/falcon-9-leading-candidate-to-launch-european-science-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T075759">2022-10-18 07:57:59 UTC</a></sub>
 * [Apollo Astronaut James McDivitt Dies at Age 93](http://www.nasa.gov/press-release/apollo-astronaut-james-mcdivitt-dies-at-age-93) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T234800">2022-10-17 23:48:00 UTC</a></sub>
 * [U.S. military waiting for industry to demonstrate space transportation concepts](https://spacenews.com/u-s-military-waiting-for-industry-to-demonstrate-space-transportation-concepts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T204757">2022-10-17 20:47:57 UTC</a></sub>
 * [Firefly looking ahead after “To The Black” payloads reenter early](https://www.nasaspaceflight.com/2022/10/firefly-to-the-black-reentry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T194216">2022-10-17 19:42:16 UTC</a></sub>
@@ -192,7 +193,6 @@ Unidentified classified satellites for the Russian military.
 * [NASA outlines case for making sole-source SLS award to Boeing-Northrop joint venture](https://spacenews.com/nasa-outlines-case-for-making-sole-source-sls-award-to-boeing-northrop-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T094800">2022-10-17 09:48:00 UTC</a></sub>
 * [European spacecraft converge on the US for rides on SpaceX rockets](https://www.teslarati.com/european-spacecraft-spacex-falcon-9-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T061813">2022-10-17 06:18:13 UTC</a></sub>
 * [CORRECTION: Apollo Astronaut James McDivitt Dies at Age 93](http://www.nasa.gov/press-release/correction-apollo-astronaut-james-mcdivitt-dies-at-age-93) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T002800">2022-10-17 00:28:00 UTC</a></sub>
-* [Starship set for full stack fueling test ahead of static fire campaign](https://www.nasaspaceflight.com/2022/10/starship-update-oct-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221016T170011">2022-10-16 17:00:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T075704">2022-10-18 07:57:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T082108">2022-10-18 08:21:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
