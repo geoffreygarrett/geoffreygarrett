@@ -183,6 +183,7 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China gears up for launches to complete Tiangong space station](https://spacenews.com/china-gears-up-for-launches-to-complete-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T104756">2022-10-18 10:47:56 UTC</a></sub>
 * [Orbex raises Series C round](https://spacenews.com/orbex-raises-series-c-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T090758">2022-10-18 09:07:58 UTC</a></sub>
 * [Falcon 9 leading candidate to launch European science mission](https://spacenews.com/falcon-9-leading-candidate-to-launch-european-science-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T075759">2022-10-18 07:57:59 UTC</a></sub>
 * [Apollo Astronaut James McDivitt Dies at Age 93](http://www.nasa.gov/press-release/apollo-astronaut-james-mcdivitt-dies-at-age-93) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T234800">2022-10-17 23:48:00 UTC</a></sub>
@@ -192,7 +193,6 @@ Unidentified classified satellites for the Russian military.
 * [Satellite broadband players poised to compete for U.S. military customers](https://spacenews.com/satellite-broadband-players-poised-to-compete-for-u-s-military-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T161756">2022-10-17 16:17:56 UTC</a></sub>
 * [China considering mission to Ceres and large dark matter space telescope](https://spacenews.com/china-considering-mission-to-ceres-and-large-dark-matter-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T132756">2022-10-17 13:27:56 UTC</a></sub>
 * [NASA outlines case for making sole-source SLS award to Boeing-Northrop joint venture](https://spacenews.com/nasa-outlines-case-for-making-sole-source-sls-award-to-boeing-northrop-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T094800">2022-10-17 09:48:00 UTC</a></sub>
-* [European spacecraft converge on the US for rides on SpaceX rockets](https://www.teslarati.com/european-spacecraft-spacex-falcon-9-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T061813">2022-10-17 06:18:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T101056">2022-10-18 10:10:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T105037">2022-10-18 10:50:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
