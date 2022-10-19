@@ -185,8 +185,8 @@ Unidentified classified satellites for the Russian military.
 <!-- spaceflight news starts -->
 * [Canada to contribute satellite and instruments to NASA-led Earth science mission](https://spacenews.com/canada-to-contribute-satellite-and-instruments-to-nasa-led-earth-science-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T085755">2022-10-19 08:57:55 UTC</a></sub>
 * [SpaceX slashes base price of smallsat rideshare program, adds “Plates”](https://www.teslarati.com/spacex-upgrades-smallsat-rideshare-program-new-base-price/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T072819">2022-10-19 07:28:19 UTC</a></sub>
-* [SDA slide reveals Tranche 0 optical terminal manufacturers](https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
 * [NASA gives green light for space station spacewalks to resume](https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
+* [SDA slide reveals Tranche 0 optical terminal manufacturers](https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
 * [Inmarsat sale clears Australia’s foreign investment watchdog](https://spacenews.com/inmarsat-sale-clears-australias-foreign-investment-watchdog/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T210755">2022-10-18 21:07:55 UTC</a></sub>
 * [Pentagon: It’s up to SpaceX to decide what to do about Starlink in Ukraine](https://spacenews.com/pentagon-its-up-to-spacex-to-decide-what-to-do-about-starlink-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T203756">2022-10-18 20:37:56 UTC</a></sub>
 * [Eutelsat fortifying jamming defenses over Middle East](https://spacenews.com/eutelsat-fortifying-jamming-defenses-over-middle-east/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T202756">2022-10-18 20:27:56 UTC</a></sub>
@@ -203,6 +203,7 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Vulcan: SRBs delivered to power first launch](https://blog.ulalaunch.com/blog/vulcan-srbs-delivered-to-power-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T140826">2022-10-19 14:08:26 UTC</a></sub>
 * [Europe in Space - German launch startups are raising cash](https://www.getrevue.co/profile/andrewparsonson/issues/german-launch-startups-are-raising-cash-1402196) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T140825">2022-10-17 14:08:25 UTC</a></sub>
 * [Good omens](https://www.planetary.org/the-downlink/good-omens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T143209">2022-10-14 14:32:09 UTC</a></sub>
 * [Europe in Space - The mysterious beginnings of MaiaSpace](https://www.getrevue.co/profile/andrewparsonson/issues/the-mysterious-beginnings-of-maiaspace-1379481) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T085042">2022-10-14 08:50:42 UTC</a></sub>
@@ -212,7 +213,6 @@ Unidentified classified satellites for the Russian military.
 * [How JWST will reveal our Solar System beyond Neptune](https://www.planetary.org/articles/jwst-reveal-kuiper-belt-objects) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T140053">2022-10-11 14:00:53 UTC</a></sub>
 * [Europe in Space - Over 200 vacancies at European launch startups](https://www.getrevue.co/profile/andrewparsonson/issues/over-200-vacancies-at-european-launch-startups-1391266) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T085039">2022-10-10 08:50:39 UTC</a></sub>
 * [Look and see](https://www.planetary.org/the-downlink/look-and-see) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143029">2022-10-07 14:30:29 UTC</a></sub>
-* [SES-20/21: Atlas V successfully launches for SES](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T045050">2022-10-05 04:50:50 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -225,7 +225,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T132748">2022-10-19 13:27:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T141120">2022-10-19 14:11:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
