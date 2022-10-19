@@ -127,6 +127,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- rocket launches starts -->
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-36</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T145000">2022-10-20 14:50:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-36&location=Cape Canaveral, FL, USA&dates=20221020T145000Z%2F20221020T145000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>MKA #1/2/3</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T190000">2022-10-20 19:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1v/Volga | MKA #1/2/3&location=Plesetsk Cosmodrome, Russian Federation&dates=20221020T190000Z%2F20221020T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>OneWeb 14</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T183700">2022-10-22 18:37:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 14&location=Sriharikota, Republic of India&dates=20221022T183700Z%2F20221022T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Gonets-M33, Gonets-M34, Gonets-M35</b> from Vostochny Cosmodrome, Siberia, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T195700">2022-10-22 19:57:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 &amp; others&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20221022T195700Z%2F20221022T195700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-21 (82P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T002000">2022-10-26 00:20:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-21 (82P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221026T002000Z%2F20221026T002000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink taking preorders for high-speed private jet broadband service](https://spacenews.com/starlink-taking-preorders-for-high-speed-private-jet-broadband-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T215756">2022-10-19 21:57:56 UTC</a></sub>
 * [UK defense committee calls for thorough Eutelsat/OneWeb review](https://spacenews.com/uk-defense-committee-calls-for-thorough-eutelsat-oneweb-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T211755">2022-10-19 21:17:55 UTC</a></sub>
 * [NASA to Discuss Science on Next Northrop Grumman Space Station Mission](http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-northrop-grumman-space-station-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T202800">2022-10-19 20:28:00 UTC</a></sub>
 * [Ariane 6 debut slips to end of 2023, teams prep for Combined Test](https://www.nasaspaceflight.com/2022/10/ariane-6-slips/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T182059">2022-10-19 18:20:59 UTC</a></sub>
@@ -189,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX slashes base price of smallsat rideshare program, adds “Plates”](https://www.teslarati.com/spacex-upgrades-smallsat-rideshare-program-new-base-price/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T072819">2022-10-19 07:28:19 UTC</a></sub>
 * [SDA slide reveals Tranche 0 optical terminal manufacturers](https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
 * [NASA gives green light for space station spacewalks to resume](https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
-* [Inmarsat sale clears Australia’s foreign investment watchdog](https://spacenews.com/inmarsat-sale-clears-australias-foreign-investment-watchdog/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T210755">2022-10-18 21:07:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T220709">2022-10-19 22:07:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T224701">2022-10-19 22:47:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
