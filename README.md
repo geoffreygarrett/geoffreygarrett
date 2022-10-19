@@ -183,16 +183,16 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ariane 6 first launch slips to late 2023](https://spacenews.com/ariane-6-first-launch-slips-to-late-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T165755">2022-10-19 16:57:55 UTC</a></sub>
+* [Curiosity Mars Rover Reaches Long-Awaited Salty Region](https://mars.nasa.gov/news/9281/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T160800">2022-10-19 16:08:00 UTC</a></sub>
 * [Canada to contribute satellite and instruments to NASA-led Earth science mission](https://spacenews.com/canada-to-contribute-satellite-and-instruments-to-nasa-led-earth-science-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T085755">2022-10-19 08:57:55 UTC</a></sub>
 * [SpaceX slashes base price of smallsat rideshare program, adds “Plates”](https://www.teslarati.com/spacex-upgrades-smallsat-rideshare-program-new-base-price/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T072819">2022-10-19 07:28:19 UTC</a></sub>
-* [NASA gives green light for space station spacewalks to resume](https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
 * [SDA slide reveals Tranche 0 optical terminal manufacturers](https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
+* [NASA gives green light for space station spacewalks to resume](https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
 * [Inmarsat sale clears Australia’s foreign investment watchdog](https://spacenews.com/inmarsat-sale-clears-australias-foreign-investment-watchdog/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T210755">2022-10-18 21:07:55 UTC</a></sub>
 * [Pentagon: It’s up to SpaceX to decide what to do about Starlink in Ukraine](https://spacenews.com/pentagon-its-up-to-spacex-to-decide-what-to-do-about-starlink-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T203756">2022-10-18 20:37:56 UTC</a></sub>
 * [Eutelsat fortifying jamming defenses over Middle East](https://spacenews.com/eutelsat-fortifying-jamming-defenses-over-middle-east/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T202756">2022-10-18 20:27:56 UTC</a></sub>
 * [NASA Invites Media to Simulated Artemis Moon Mission Site in Arizona](http://www.nasa.gov/press-release/nasa-invites-media-to-simulated-artemis-moon-mission-site-in-arizona) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T200800">2022-10-18 20:08:00 UTC</a></sub>
-* [NASA’s SpaceX Crew-4 to Discuss Mission After Returning to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-to-discuss-mission-after-returning-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T191800">2022-10-18 19:18:00 UTC</a></sub>
-* [NASA: Charla en directo con el astronauta Frank Rubio desde el espacio](http://www.nasa.gov/press-release/nasa-charla-en-directo-con-el-astronauta-frank-rubio-desde-el-espacio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T185800">2022-10-18 18:58:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T161420">2022-10-19 16:14:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T171333">2022-10-19 17:13:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
