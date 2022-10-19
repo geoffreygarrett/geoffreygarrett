@@ -183,6 +183,7 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Canada to contribute satellite and instruments to NASA-led Earth science mission](https://spacenews.com/canada-to-contribute-satellite-and-instruments-to-nasa-led-earth-science-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T085755">2022-10-19 08:57:55 UTC</a></sub>
 * [SpaceX slashes base price of smallsat rideshare program, adds “Plates”](https://www.teslarati.com/spacex-upgrades-smallsat-rideshare-program-new-base-price/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T072819">2022-10-19 07:28:19 UTC</a></sub>
 * [SDA slide reveals Tranche 0 optical terminal manufacturers](https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
 * [NASA gives green light for space station spacewalks to resume](https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
@@ -192,7 +193,6 @@ Unidentified classified satellites for the Russian military.
 * [NASA Invites Media to Simulated Artemis Moon Mission Site in Arizona](http://www.nasa.gov/press-release/nasa-invites-media-to-simulated-artemis-moon-mission-site-in-arizona) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T200800">2022-10-18 20:08:00 UTC</a></sub>
 * [NASA’s SpaceX Crew-4 to Discuss Mission After Returning to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-to-discuss-mission-after-returning-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T191800">2022-10-18 19:18:00 UTC</a></sub>
 * [NASA: Charla en directo con el astronauta Frank Rubio desde el espacio](http://www.nasa.gov/press-release/nasa-charla-en-directo-con-el-astronauta-frank-rubio-desde-el-espacio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T185800">2022-10-18 18:58:00 UTC</a></sub>
-* [TESS returns from safe mode, the case of the missing exoplanet atmosphere](https://www.nasaspaceflight.com/2022/10/tess-safe-mode-incident/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T163532">2022-10-18 16:35:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T081808">2022-10-19 08:18:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T085910">2022-10-19 08:59:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
