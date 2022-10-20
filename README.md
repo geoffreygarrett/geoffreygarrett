@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA moves two missions to Falcon 9](https://spacenews.com/esa-moves-two-missions-to-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T131322">2022-10-20 13:13:22 UTC</a></sub>
+* [SpaceX to launch the 3,500th Starlink satellite](https://www.nasaspaceflight.com/2022/10/spacex-3500-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T130356">2022-10-20 13:03:56 UTC</a></sub>
 * [Relativity Space expands engine test facilities at Stennis](https://spacenews.com/relativity-space-expands-engine-test-facilities-at-stennis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T080317">2022-10-20 08:03:17 UTC</a></sub>
 * [Space Force briefing on military space race catches Jeff Bezos’ attention](https://spacenews.com/space-force-briefing-on-military-space-race-catches-jeff-bezos-attention/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T224756">2022-10-19 22:47:56 UTC</a></sub>
 * [Starlink taking preorders for high-speed private jet broadband service](https://spacenews.com/starlink-taking-preorders-for-high-speed-private-jet-broadband-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T215756">2022-10-19 21:57:56 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Ariane 6 debut slips to end of 2023, teams prep for Combined Test](https://www.nasaspaceflight.com/2022/10/ariane-6-slips/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T182059">2022-10-19 18:20:59 UTC</a></sub>
 * [Ariane 6 first launch slips to late 2023](https://spacenews.com/ariane-6-first-launch-slips-to-late-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T165755">2022-10-19 16:57:55 UTC</a></sub>
 * [Curiosity Mars Rover Reaches Long-Awaited Salty Region](https://mars.nasa.gov/news/9281/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T160800">2022-10-19 16:08:00 UTC</a></sub>
-* [Canada to contribute satellite and instruments to NASA-led Earth science mission](https://spacenews.com/canada-to-contribute-satellite-and-instruments-to-nasa-led-earth-science-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T085755">2022-10-19 08:57:55 UTC</a></sub>
-* [SpaceX slashes base price of smallsat rideshare program, adds “Plates”](https://www.teslarati.com/spacex-upgrades-smallsat-rideshare-program-new-base-price/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T072819">2022-10-19 07:28:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [JPSS-2: Payloads stacked atop Atlas V for launch](https://blog.ulalaunch.com/blog/jpss-2-payloads-stacked-atop-atlas-v-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T131357">2022-10-20 13:13:57 UTC</a></sub>
 * [Vulcan: SRBs delivered to power first launch](https://blog.ulalaunch.com/blog/vulcan-srbs-delivered-to-power-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T140826">2022-10-19 14:08:26 UTC</a></sub>
 * [Europe in Space - German launch startups are raising cash](https://www.getrevue.co/profile/andrewparsonson/issues/german-launch-startups-are-raising-cash-1402196) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T140825">2022-10-17 14:08:25 UTC</a></sub>
 * [Good omens](https://www.planetary.org/the-downlink/good-omens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T143209">2022-10-14 14:32:09 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [NASA says DART's asteroid impact was a huge success](https://www.planetary.org/articles/nasa-says-dart-impact-successful) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T183039">2022-10-11 18:30:39 UTC</a></sub>
 * [How JWST will reveal our Solar System beyond Neptune](https://www.planetary.org/articles/jwst-reveal-kuiper-belt-objects) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T140053">2022-10-11 14:00:53 UTC</a></sub>
 * [Europe in Space - Over 200 vacancies at European launch startups](https://www.getrevue.co/profile/andrewparsonson/issues/over-200-vacancies-at-european-launch-startups-1391266) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T085039">2022-10-10 08:50:39 UTC</a></sub>
-* [Look and see](https://www.planetary.org/the-downlink/look-and-see) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143029">2022-10-07 14:30:29 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T121340">2022-10-20 12:13:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T132649">2022-10-20 13:26:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
