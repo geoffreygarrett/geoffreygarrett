@@ -182,6 +182,8 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force tries to turn over a new leaf in satellite procurement](https://spacenews.com/space-force-tries-to-turn-over-a-new-leaf-in-satellite-procurement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T173321">2022-10-20 17:33:21 UTC</a></sub>
+* [Why NASA Is Trying To Crash Land on Mars](https://mars.nasa.gov/news/9283/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T171300">2022-10-20 17:13:00 UTC</a></sub>
 * [Another batch of Starlink satellites launch from Cape Canaveral](https://spaceflightnow.com/2022/10/20/falcon-9-starlink-4-36-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T161317">2022-10-20 16:13:17 UTC</a></sub>
 * [China looked at putting a monitoring satellite in retrograde geostationary orbit via the moon](https://spacenews.com/china-looked-at-putting-a-monitoring-satellite-in-retrograde-geostationary-orbit-via-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T154321">2022-10-20 15:43:21 UTC</a></sub>
 * [ESA moves two missions to Falcon 9](https://spacenews.com/esa-moves-two-missions-to-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T131322">2022-10-20 13:13:22 UTC</a></sub>
@@ -190,8 +192,6 @@ Unidentified classified satellites for the Russian military.
 * [Space Force briefing on military space race catches Jeff Bezos’ attention](https://spacenews.com/space-force-briefing-on-military-space-race-catches-jeff-bezos-attention/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T224756">2022-10-19 22:47:56 UTC</a></sub>
 * [Starlink taking preorders for high-speed private jet broadband service](https://spacenews.com/starlink-taking-preorders-for-high-speed-private-jet-broadband-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T215756">2022-10-19 21:57:56 UTC</a></sub>
 * [UK defense committee calls for thorough Eutelsat/OneWeb review](https://spacenews.com/uk-defense-committee-calls-for-thorough-eutelsat-oneweb-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T211755">2022-10-19 21:17:55 UTC</a></sub>
-* [NASA to Discuss Science on Next Northrop Grumman Space Station Mission](http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-northrop-grumman-space-station-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T202800">2022-10-19 20:28:00 UTC</a></sub>
-* [Ariane 6 debut slips to end of 2023, teams prep for Combined Test](https://www.nasaspaceflight.com/2022/10/ariane-6-slips/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T182059">2022-10-19 18:20:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T170920">2022-10-20 17:09:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T180212">2022-10-20 18:02:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
