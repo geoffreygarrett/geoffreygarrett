@@ -180,6 +180,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force to award up to $50 million in contracts for Space Test Program experiments](https://spacenews.com/space-force-to-award-up-to-50-million-in-contracts-for-space-test-program-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T212320">2022-10-21 21:23:20 UTC</a></sub>
+* [Iridium sheds more light on direct-to-smartphone plan](https://spacenews.com/iridium-sheds-more-light-on-direct-to-smartphone-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T211321">2022-10-21 21:13:21 UTC</a></sub>
+* [NASA to Host Briefing on InSight, Mars Reconnaissance Orbiter Findings](http://www.nasa.gov/press-release/nasa-to-host-briefing-on-insight-mars-reconnaissance-orbiter-findings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T211300">2022-10-21 21:13:00 UTC</a></sub>
 * [NASA to Discuss Latest EMIT Findings, Helps Address Climate Change](http://www.nasa.gov/press-release/nasa-to-discuss-latest-emit-findings-helps-address-climate-change) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T203300">2022-10-21 20:33:00 UTC</a></sub>
 * [OneWeb launch sign of greater role for India in commercial launch market](https://spacenews.com/oneweb-launch-sign-of-greater-role-for-india-in-commercial-launch-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T120321">2022-10-21 12:03:21 UTC</a></sub>
 * [Grasp acquires AirPhoton to form Grasp Global](https://spacenews.com/introducing-grasp-global/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T110322">2022-10-21 11:03:22 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Participate in ASCEND Conference, Brief Media on Tech Demo](http://www.nasa.gov/press-release/nasa-to-participate-in-ascend-conference-brief-media-on-tech-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T203300">2022-10-20 20:33:00 UTC</a></sub>
 * [Video of Starlink terminal in Iran shared on Instagram](https://www.teslarati.com/video-starlink-terminal-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T202342">2022-10-20 20:23:42 UTC</a></sub>
 * [Space Force tries to turn over a new leaf in satellite procurement](https://spacenews.com/space-force-tries-to-turn-over-a-new-leaf-in-satellite-procurement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T173321">2022-10-20 17:33:21 UTC</a></sub>
-* [Why NASA Is Trying To Crash Land on Mars](https://mars.nasa.gov/news/9283/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T171300">2022-10-20 17:13:00 UTC</a></sub>
-* [Another batch of Starlink satellites launch from Cape Canaveral](https://spaceflightnow.com/2022/10/20/falcon-9-starlink-4-36-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T161317">2022-10-20 16:13:17 UTC</a></sub>
-* [China looked at putting a monitoring satellite in retrograde geostationary orbit via the moon](https://spacenews.com/china-looked-at-putting-a-monitoring-satellite-in-retrograde-geostationary-orbit-via-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T154321">2022-10-20 15:43:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T210647">2022-10-21 21:06:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T214108">2022-10-21 21:41:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
