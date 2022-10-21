@@ -191,7 +191,7 @@ Unidentified classified satellites for the Russian military.
 * [ESA moves two missions to Falcon 9](https://spacenews.com/esa-moves-two-missions-to-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T131322">2022-10-20 13:13:22 UTC</a></sub>
 * [SpaceX launches the 3,500th Starlink satellite](https://www.nasaspaceflight.com/2022/10/spacex-3500-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T130356">2022-10-20 13:03:56 UTC</a></sub>
 * [Relativity Space expands engine test facilities at Stennis](https://spacenews.com/relativity-space-expands-engine-test-facilities-at-stennis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T080317">2022-10-20 08:03:17 UTC</a></sub>
-* [Space Force briefing on military space race catches Jeff Bezos’ attention](https://spacenews.com/space-force-briefing-on-military-space-race-catches-jeff-bezos-attention/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T224756">2022-10-19 22:47:56 UTC</a></sub>
+* [Satellite operators gear up for Asia’s tidal wave of satellite capacity](https://spacenews.com/satellite-operators-gear-up-for-asias-tidal-wave-of-satellite-capacity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T023321">2022-10-20 02:33:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T003955">2022-10-21 00:39:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T025725">2022-10-21 02:57:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
