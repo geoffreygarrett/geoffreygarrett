@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Coverage Set for NOAA’s Joint Polar Satellite System-2 Launch](http://www.nasa.gov/press-release/nasa-coverage-set-for-noaa-s-joint-polar-satellite-system-2-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T222300">2022-10-21 22:23:00 UTC</a></sub>
+* [NASA To Host Briefing on Insight, Mars Reconnaissance Orbiter Findings](https://mars.nasa.gov/news/9284/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T221300">2022-10-21 22:13:00 UTC</a></sub>
 * [Space Force to award up to $50 million in contracts for Space Test Program experiments](https://spacenews.com/space-force-to-award-up-to-50-million-in-contracts-for-space-test-program-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T212320">2022-10-21 21:23:20 UTC</a></sub>
 * [Iridium sheds more light on direct-to-smartphone plan](https://spacenews.com/iridium-sheds-more-light-on-direct-to-smartphone-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T211321">2022-10-21 21:13:21 UTC</a></sub>
 * [NASA to Host Briefing on InSight, Mars Reconnaissance Orbiter Findings](http://www.nasa.gov/press-release/nasa-to-host-briefing-on-insight-mars-reconnaissance-orbiter-findings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T211300">2022-10-21 21:13:00 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Grasp acquires AirPhoton to form Grasp Global](https://spacenews.com/introducing-grasp-global/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T110322">2022-10-21 11:03:22 UTC</a></sub>
 * [ESA finalizes package for ministerial](https://spacenews.com/esa-finalizes-package-for-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T104324">2022-10-21 10:43:24 UTC</a></sub>
 * [NASA to Participate in ASCEND Conference, Brief Media on Tech Demo](http://www.nasa.gov/press-release/nasa-to-participate-in-ascend-conference-brief-media-on-tech-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T203300">2022-10-20 20:33:00 UTC</a></sub>
-* [Video of Starlink terminal in Iran shared on Instagram](https://www.teslarati.com/video-starlink-terminal-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T202342">2022-10-20 20:23:42 UTC</a></sub>
-* [Space Force tries to turn over a new leaf in satellite procurement](https://spacenews.com/space-force-tries-to-turn-over-a-new-leaf-in-satellite-procurement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T173321">2022-10-20 17:33:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T220717">2022-10-21 22:07:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T224513">2022-10-21 22:45:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
