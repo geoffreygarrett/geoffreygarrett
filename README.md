@@ -137,6 +137,7 @@ Unidentified classified satellites for the Russian military.
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>Oceansat-3</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T000000">2022-10-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV | EOS-6 (Oceansat-3)&location=Sriharikota, Republic of India&dates=20221031T000000Z%2F20221031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Maiden Flight</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T000000">2022-10-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20221031T000000Z%2F20221031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Mengtian</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T060000">2022-10-31 06:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5B | Mengtian&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20221031T060000Z%2F20221031T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>USSF-44</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T150000">2022-10-31 15:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-44&location=Kennedy Space Center, FL, USA&dates=20221031T150000Z%2F20221031T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -202,6 +203,7 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [New wonders to behold](https://www.planetary.org/the-downlink/new-wonders-to-behold) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T143409">2022-10-21 14:34:09 UTC</a></sub>
 * [The live space feeds you should be following right now](https://www.planetary.org/articles/live-space-feeds-you-should-follow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T140342">2022-10-20 14:03:42 UTC</a></sub>
 * [JPSS-2: Payloads stacked atop Atlas V for launch](https://blog.ulalaunch.com/blog/jpss-2-payloads-stacked-atop-atlas-v-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T131357">2022-10-20 13:13:57 UTC</a></sub>
 * [Vulcan: SRBs delivered to power first launch](https://blog.ulalaunch.com/blog/vulcan-srbs-delivered-to-power-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T140826">2022-10-19 14:08:26 UTC</a></sub>
@@ -211,7 +213,6 @@ Unidentified classified satellites for the Russian military.
 * [JPSS-2: Atlas V to launch weather satellite and tech demonstration](https://blog.ulalaunch.com/blog/jpss-2-atlas-v-to-launch-weather-satellite-and-tech-demonstration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T141038">2022-10-13 14:10:38 UTC</a></sub>
 * [Rocket Lab’s private Venus mission](https://www.planetary.org/space-missions/rocket-lab-venus-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T140028">2022-10-13 14:00:28 UTC</a></sub>
 * [NASA says DART's asteroid impact was a huge success](https://www.planetary.org/articles/nasa-says-dart-impact-successful) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T183039">2022-10-11 18:30:39 UTC</a></sub>
-* [How JWST will reveal our Solar System beyond Neptune](https://www.planetary.org/articles/jwst-reveal-kuiper-belt-objects) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T140053">2022-10-11 14:00:53 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -224,7 +225,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T141458">2022-10-21 14:14:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T145514">2022-10-21 14:55:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
