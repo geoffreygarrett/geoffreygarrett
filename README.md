@@ -182,6 +182,7 @@ Unidentified classified satellites for the Russian military.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA finalizes package for ministerial](https://spacenews.com/esa-finalizes-package-for-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T104324">2022-10-21 10:43:24 UTC</a></sub>
 * [NASA to Participate in ASCEND Conference, Brief Media on Tech Demo](http://www.nasa.gov/press-release/nasa-to-participate-in-ascend-conference-brief-media-on-tech-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T203300">2022-10-20 20:33:00 UTC</a></sub>
 * [Video of Starlink terminal in Iran shared on Instagram](https://www.teslarati.com/video-starlink-terminal-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T202342">2022-10-20 20:23:42 UTC</a></sub>
 * [Space Force tries to turn over a new leaf in satellite procurement](https://spacenews.com/space-force-tries-to-turn-over-a-new-leaf-in-satellite-procurement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T173321">2022-10-20 17:33:21 UTC</a></sub>
@@ -191,7 +192,6 @@ Unidentified classified satellites for the Russian military.
 * [ESA moves two missions to Falcon 9](https://spacenews.com/esa-moves-two-missions-to-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T131322">2022-10-20 13:13:22 UTC</a></sub>
 * [SpaceX launches the 3,500th Starlink satellite](https://www.nasaspaceflight.com/2022/10/spacex-3500-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T130356">2022-10-20 13:03:56 UTC</a></sub>
 * [Relativity Space expands engine test facilities at Stennis](https://spacenews.com/relativity-space-expands-engine-test-facilities-at-stennis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T080317">2022-10-20 08:03:17 UTC</a></sub>
-* [SpaceX rolls out Starship, stacks world’s largest rocket, and aces Starlink launch hours apart](https://www.teslarati.com/spacex-starship-rollout-starship-stack-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T050340">2022-10-20 05:03:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T100952">2022-10-21 10:09:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T104745">2022-10-21 10:47:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
