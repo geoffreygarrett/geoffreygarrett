@@ -189,7 +189,7 @@ region. The mission's status is currently Go for Launch
 * [OneWeb launch sign of greater role for India in commercial launch market](https://spacenews.com/oneweb-launch-sign-of-greater-role-for-india-in-commercial-launch-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T120321">2022-10-21 12:03:21 UTC</a></sub>
 * [Grasp acquires AirPhoton to form Grasp Global](https://spacenews.com/introducing-grasp-global/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T110322">2022-10-21 11:03:22 UTC</a></sub>
 * [ESA finalizes package for ministerial](https://spacenews.com/esa-finalizes-package-for-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T104324">2022-10-21 10:43:24 UTC</a></sub>
-* [Efforts to bring Starlink terminals to Iran expected to scale up.](https://www.teslarati.com/starlink-termiansl-iran-scale-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T013341">2022-10-21 01:33:41 UTC</a></sub>
+* [OneWeb set to resume launches on Indian rocket](https://spaceflightnow.com/2022/10/21/oneweb-set-to-resume-launches-on-indian-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T052317">2022-10-21 05:23:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T044110">2022-10-22 04:41:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T053541">2022-10-22 05:35:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
