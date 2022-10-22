@@ -179,7 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Watch live: Soyuz rocket set to launch from Vostochny Cosmodrome](https://spaceflightnow.com/2022/10/22/soyuz-gonets-skif-d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T200317">2022-10-22 20:03:17 UTC</a></sub>
+* [Soyuz rocket launches with demo satellite for Russian internet constellation](https://spaceflightnow.com/2022/10/22/soyuz-gonets-skif-d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T214317">2022-10-22 21:43:17 UTC</a></sub>
 * [OneWeb resumes launches with first commercial GSLV Mk.III](https://www.nasaspaceflight.com/2022/10/oneweb-gslv-mk-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T141551">2022-10-22 14:15:51 UTC</a></sub>
 * [NASA Coverage Set for NOAA’s Joint Polar Satellite System-2 Launch](http://www.nasa.gov/press-release/nasa-coverage-set-for-noaa-s-joint-polar-satellite-system-2-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T222300">2022-10-21 22:23:00 UTC</a></sub>
 * [NASA To Host Briefing on Insight, Mars Reconnaissance Orbiter Findings](https://mars.nasa.gov/news/9284/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T221300">2022-10-21 22:13:00 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T220049">2022-10-22 22:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T223625">2022-10-22 22:36:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
