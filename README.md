@@ -94,28 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & Skif-D at the
-<a href="https://en.wikipedia.org/wiki/Vostochny_Cosmodrome">Cosmodrome Site 1S</a> in
-Vostochny Cosmodrome, Siberia, Russian Federation
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T195700">2022-10-22 19:57:00 UTC</a>. Until
-then, this launch pad will have seen 11
-out of 11 launches in this
+Soyuz 2.1a | Progress MS-21 (82P) at the
+<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a> in
+Baikonur Cosmodrome, Republic of Kazakhstan
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T002000">2022-10-26 00:20:00 UTC</a>. Until
+then, this launch pad will have seen 404
+out of 1535 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Gonets-M are an upgraded version of Gonets satellites, derived from military communications system Strela-3. Gonets-M constellation is tasked with monitoring ecological and industrial objects, providing communication and data transmission services, covering also the remote areas like the Far North region.
-
-Also onboard is the Skif-D demonstration satellite for the planned Russian Sfera LEO communication satellite constellation.
+  Progress resupply mission to the International Space Station.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.ee/maps/place/51Â°53'03.8"N+128Â°20'02.2"E/" >
+  <a href="http://maps.google.com/maps?q=45.996+N,+63.564+E" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -128,7 +126,6 @@ Also onboard is the Skif-D demonstration satellite for the planned Russian Sfera
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Gonets-M33, Gonets-M34, Gonets-M35 & Skif-D</b> from Vostochny Cosmodrome, Siberia, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T195700">2022-10-22 19:57:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 &amp; Skif-D&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20221022T195700Z%2F20221022T195700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-21 (82P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T002000">2022-10-26 00:20:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-21 (82P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221026T002000Z%2F20221026T002000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 4-31</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T010000">2022-10-27 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-31&location=Vandenberg SFB, CA, USA&dates=20221027T010000Z%2F20221027T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Amber-1</b> from Air launch to orbit. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T000000">2022-10-29 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Amber-1&location=Air launch to orbit&dates=20221029T000000Z%2F20221029T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -182,7 +179,8 @@ Also onboard is the Skif-D demonstration satellite for the planned Russian Sfera
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [OneWeb to resume launches on first commercial GSLV Mk.III](https://www.nasaspaceflight.com/2022/10/oneweb-gslv-mk-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T141551">2022-10-22 14:15:51 UTC</a></sub>
+* [Watch live: Soyuz rocket set to launch from Vostochny Cosmodrome](https://spaceflightnow.com/2022/10/22/soyuz-gonets-skif-d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T200317">2022-10-22 20:03:17 UTC</a></sub>
+* [OneWeb resumes launches with first commercial GSLV Mk.III](https://www.nasaspaceflight.com/2022/10/oneweb-gslv-mk-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T141551">2022-10-22 14:15:51 UTC</a></sub>
 * [NASA Coverage Set for NOAA’s Joint Polar Satellite System-2 Launch](http://www.nasa.gov/press-release/nasa-coverage-set-for-noaa-s-joint-polar-satellite-system-2-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T222300">2022-10-21 22:23:00 UTC</a></sub>
 * [NASA To Host Briefing on Insight, Mars Reconnaissance Orbiter Findings](https://mars.nasa.gov/news/9284/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T221300">2022-10-21 22:13:00 UTC</a></sub>
 * [Space Force to award up to $50 million in contracts for Space Test Program experiments](https://spacenews.com/space-force-to-award-up-to-50-million-in-contracts-for-space-test-program-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T212320">2022-10-21 21:23:20 UTC</a></sub>
@@ -191,7 +189,6 @@ Also onboard is the Skif-D demonstration satellite for the planned Russian Sfera
 * [NASA to Discuss Latest EMIT Findings, Helps Address Climate Change](http://www.nasa.gov/press-release/nasa-to-discuss-latest-emit-findings-helps-address-climate-change) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T203300">2022-10-21 20:33:00 UTC</a></sub>
 * [OneWeb launch sign of greater role for India in commercial launch market](https://spacenews.com/oneweb-launch-sign-of-greater-role-for-india-in-commercial-launch-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T120321">2022-10-21 12:03:21 UTC</a></sub>
 * [Grasp acquires AirPhoton to form Grasp Global](https://spacenews.com/introducing-grasp-global/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T110322">2022-10-21 11:03:22 UTC</a></sub>
-* [ESA finalizes package for ministerial](https://spacenews.com/esa-finalizes-package-for-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T104324">2022-10-21 10:43:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +221,7 @@ Also onboard is the Skif-D demonstration satellite for the planned Russian Sfera
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T193645">2022-10-22 19:36:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T200723">2022-10-22 20:07:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
