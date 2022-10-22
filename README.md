@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Report offers wide-ranging recommendations on space safety](https://spacenews.com/report-offers-wide-ranging-recommendations-on-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T224321">2022-10-22 22:43:21 UTC</a></sub>
 * [Soyuz rocket launches with demo satellite for Russian internet constellation](https://spaceflightnow.com/2022/10/22/soyuz-gonets-skif-d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T214317">2022-10-22 21:43:17 UTC</a></sub>
 * [OneWeb resumes launches with first commercial GSLV Mk.III](https://www.nasaspaceflight.com/2022/10/oneweb-gslv-mk-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T141551">2022-10-22 14:15:51 UTC</a></sub>
 * [NASA Coverage Set for NOAA’s Joint Polar Satellite System-2 Launch](http://www.nasa.gov/press-release/nasa-coverage-set-for-noaa-s-joint-polar-satellite-system-2-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T222300">2022-10-21 22:23:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Host Briefing on InSight, Mars Reconnaissance Orbiter Findings](http://www.nasa.gov/press-release/nasa-to-host-briefing-on-insight-mars-reconnaissance-orbiter-findings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T211300">2022-10-21 21:13:00 UTC</a></sub>
 * [NASA to Discuss Latest EMIT Findings, Helps Address Climate Change](http://www.nasa.gov/press-release/nasa-to-discuss-latest-emit-findings-helps-address-climate-change) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T203300">2022-10-21 20:33:00 UTC</a></sub>
 * [OneWeb launch sign of greater role for India in commercial launch market](https://spacenews.com/oneweb-launch-sign-of-greater-role-for-india-in-commercial-launch-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T120321">2022-10-21 12:03:21 UTC</a></sub>
-* [Grasp acquires AirPhoton to form Grasp Global](https://spacenews.com/introducing-grasp-global/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T110322">2022-10-21 11:03:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T230049">2022-10-22 23:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T233759">2022-10-22 23:37:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
