@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China’s spaceplane raises orbit and national funding](https://spacenews.com/chinas-spaceplane-raises-orbit-and-national-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T115916">2022-10-25 11:59:16 UTC</a></sub>
 * [Polaris Dawn crewed mission could suffer additional delays](https://spacenews.com/polaris-dawn-crewed-mission-could-suffer-additional-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T110917">2022-10-25 11:09:17 UTC</a></sub>
 * [Sending DNA-infused Space Crystals to the moon](https://spacenews.com/space-crystals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T215914">2022-10-24 21:59:14 UTC</a></sub>
 * [Final two Pléiades Neo imagery satellites land in French Guiana](https://spacenews.com/final-two-pleiades-neo-imagery-satellites-land-in-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T214913">2022-10-24 21:49:13 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Maryland Students, Navy Pilots to Hear from NASA Astronauts in Space](http://www.nasa.gov/press-release/maryland-students-navy-pilots-to-hear-from-nasa-astronauts-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T171900">2022-10-24 17:19:00 UTC</a></sub>
 * [Rocket Factory Augsburg talks reusability plans and 3D printing](https://www.nasaspaceflight.com/2022/10/rfa-reuse-interview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T164603">2022-10-24 16:46:03 UTC</a></sub>
 * [Apex raises seed round to mass produce smallsats](https://spacenews.com/apex-raises-seed-round-to-mass-produce-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T130916">2022-10-24 13:09:16 UTC</a></sub>
-* [Preligens aims to become a long-term DoD supplier](https://spacenews.com/preligens-expands-in-u-s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T110321">2022-10-24 11:03:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T114010">2022-10-25 11:40:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T121530">2022-10-25 12:15:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
