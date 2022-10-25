@@ -190,7 +190,7 @@ region. The mission's status is currently Go for Launch
 * [Rocket Factory Augsburg talks reusability plans and 3D printing](https://www.nasaspaceflight.com/2022/10/rfa-reuse-interview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T164603">2022-10-24 16:46:03 UTC</a></sub>
 * [Apex raises seed round to mass produce smallsats](https://spacenews.com/apex-raises-seed-round-to-mass-produce-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T130916">2022-10-24 13:09:16 UTC</a></sub>
 * [Preligens aims to become a long-term DoD supplier](https://spacenews.com/preligens-expands-in-u-s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T110321">2022-10-24 11:03:21 UTC</a></sub>
-* [SpaceX assembles Falcon Heavy rocket for first launch in 40 months](https://www.teslarati.com/spacex-assembles-first-falcon-heavy-rocket-in-40-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221023T053337">2022-10-23 05:33:37 UTC</a></sub>
+* [SpaceX to launch Europe’s next deep space telescope, first asteroid orbiter](https://www.teslarati.com/spacex-snipes-european-euclid-hera-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T052934">2022-10-24 05:29:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T052304">2022-10-25 05:23:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T063652">2022-10-25 06:36:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
