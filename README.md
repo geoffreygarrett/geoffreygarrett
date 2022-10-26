@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ISS partners weigh options for using commercial space stations](https://spacenews.com/iss-partners-weigh-options-for-using-commercial-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T113941">2022-10-26 11:39:41 UTC</a></sub>
 * [Space Force to seek budget boost beyond 2023, China’s capabilities are ‘close to ours’](https://spacenews.com/space-force-to-seek-budget-boost-beyond-2023-chinas-capabilities-are-close-to-ours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T214913">2022-10-25 21:49:13 UTC</a></sub>
 * [Newly acquired NanoAvionics plots major smallsat expansion](https://spacenews.com/newly-acquired-nanoavionics-plots-major-smallsat-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T203919">2022-10-25 20:39:19 UTC</a></sub>
 * [NASA Invites Media to SpaceX’s 26th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-26th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T193900">2022-10-25 19:39:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [The ISS has had to maneuver yet again from Russian satellite debris](https://arstechnica.com/science/2022/10/nearly-a-year-after-anti-satellite-test-the-iss-is-still-dodging-russian-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T133336">2022-10-25 13:33:36 UTC</a></sub>
 * [Orbit Fab secures new investor to support satellite refueling efforts](https://spacenews.com/orbit-fab-secures-new-investor-to-support-satellite-refueling-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T130913">2022-10-25 13:09:13 UTC</a></sub>
 * [China’s spaceplane raises orbit and national funding](https://spacenews.com/chinas-spaceplane-raises-orbit-and-national-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T115916">2022-10-25 11:59:16 UTC</a></sub>
-* [Polaris Dawn crewed mission could suffer additional delays](https://spacenews.com/polaris-dawn-crewed-mission-could-suffer-additional-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T110917">2022-10-25 11:09:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T113505">2022-10-26 11:35:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T121418">2022-10-26 12:14:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
