@@ -200,6 +200,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Freelance Audio Editor (Contract)](https://www.planetary.org/freelance-audio-editor-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T130931">2022-10-26 13:09:31 UTC</a></sub>
 * [Your guide to water on Mars](https://www.planetary.org/articles/your-guide-to-water-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T140932">2022-10-25 14:09:32 UTC</a></sub>
 * [Europe in Space - Who should take responsibility for Ariane 6 delay?](https://www.getrevue.co/profile/andrewparsonson/issues/who-should-take-responsibility-for-ariane-6-delay-1412780) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T140944">2022-10-24 14:09:44 UTC</a></sub>
 * [New wonders to behold](https://www.planetary.org/the-downlink/new-wonders-to-behold) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T143409">2022-10-21 14:34:09 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently To Be Confirmed
 * [Europe in Space - German launch startups are raising cash](https://www.getrevue.co/profile/andrewparsonson/issues/german-launch-startups-are-raising-cash-1402196) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T140825">2022-10-17 14:08:25 UTC</a></sub>
 * [Good omens](https://www.planetary.org/the-downlink/good-omens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T143209">2022-10-14 14:32:09 UTC</a></sub>
 * [Europe in Space - The mysterious beginnings of MaiaSpace](https://www.getrevue.co/profile/andrewparsonson/issues/the-mysterious-beginnings-of-maiaspace-1379481) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T085042">2022-10-14 08:50:42 UTC</a></sub>
-* [JPSS-2: Atlas V to launch weather satellite and tech demonstration](https://blog.ulalaunch.com/blog/jpss-2-atlas-v-to-launch-weather-satellite-and-tech-demonstration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T141038">2022-10-13 14:10:38 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T121418">2022-10-26 12:14:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T132409">2022-10-26 13:24:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
