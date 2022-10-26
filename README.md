@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DIU selects startups for U.S. military weather modeling project](https://spacenews.com/diu-selects-startups-for-u-s-military-weather-modeling-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T204913">2022-10-26 20:49:13 UTC</a></sub>
 * [New Starlink dish kit enables services ‘on any moving land object’](https://spacenews.com/new-starlink-dish-kit-enables-services-on-any-moving-land-object/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T191914">2022-10-26 19:19:14 UTC</a></sub>
 * [Quantum Space announces first cislunar mission](https://spacenews.com/quantum-space-announces-first-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150913">2022-10-26 15:09:13 UTC</a></sub>
 * [SpaceX becomes NASA’s second-largest vendor, surpassing Boeing](https://arstechnica.com/science/2022/10/spacex-becomes-nasas-second-largest-vendor-surpassing-boeing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T141012">2022-10-26 14:10:12 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Invites Media to SpaceX’s 26th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-26th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T193900">2022-10-25 19:39:00 UTC</a></sub>
 * [Starlink’s survivability in war a good sign for DoD’s future constellation](https://spacenews.com/starlinks-survivability-in-war-a-good-sign-for-dods-future-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T184913">2022-10-25 18:49:13 UTC</a></sub>
 * [Progress MS-21 launches to ISS on resupply mission](https://www.nasaspaceflight.com/2022/10/ms-21-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T183612">2022-10-25 18:36:12 UTC</a></sub>
-* [Array Labs raises $5 million for 3D-imagery constellation](https://spacenews.com/introducing-array-labs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T175914">2022-10-25 17:59:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T210537">2022-10-26 21:05:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T213813">2022-10-26 21:38:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
