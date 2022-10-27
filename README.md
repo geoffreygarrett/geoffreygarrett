@@ -186,11 +186,11 @@ region. The mission's status is currently Go for Launch
 * [Quantum Space announces first cislunar mission](https://spacenews.com/quantum-space-announces-first-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150913">2022-10-26 15:09:13 UTC</a></sub>
 * [SpaceX becomes NASA’s second-largest vendor, surpassing Boeing](https://arstechnica.com/science/2022/10/spacex-becomes-nasas-second-largest-vendor-surpassing-boeing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T141012">2022-10-26 14:10:12 UTC</a></sub>
 * [ISS partners weigh options for using commercial space stations](https://spacenews.com/iss-partners-weigh-options-for-using-commercial-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T113941">2022-10-26 11:39:41 UTC</a></sub>
+* [Boeing’s Starliner charges approach $900 million](https://spacenews.com/boeings-starliner-charges-approach-900-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T011913">2022-10-26 01:19:13 UTC</a></sub>
 * [Space Force to seek budget boost beyond 2023, China’s capabilities are ‘close to ours’](https://spacenews.com/space-force-to-seek-budget-boost-beyond-2023-chinas-capabilities-are-close-to-ours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T214913">2022-10-25 21:49:13 UTC</a></sub>
 * [Newly acquired NanoAvionics plots major smallsat expansion](https://spacenews.com/newly-acquired-nanoavionics-plots-major-smallsat-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T203919">2022-10-25 20:39:19 UTC</a></sub>
 * [NASA Invites Media to SpaceX’s 26th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-26th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T193900">2022-10-25 19:39:00 UTC</a></sub>
 * [Starlink’s survivability in war a good sign for DoD’s future constellation](https://spacenews.com/starlinks-survivability-in-war-a-good-sign-for-dods-future-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T184913">2022-10-25 18:49:13 UTC</a></sub>
-* [Progress MS-21 launches to ISS on resupply mission](https://www.nasaspaceflight.com/2022/10/ms-21-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T183612">2022-10-25 18:36:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T004021">2022-10-27 00:40:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T030152">2022-10-27 03:01:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
