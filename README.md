@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s Economic Benefit Reaches All 50 States](http://www.nasa.gov/press-release/nasa-s-economic-benefit-reaches-all-50-states) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T144900">2022-10-27 14:49:00 UTC</a></sub>
 * [DIU selects startups for U.S. military weather modeling project](https://spacenews.com/diu-selects-startups-for-u-s-military-weather-modeling-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T204913">2022-10-26 20:49:13 UTC</a></sub>
 * [New Starlink dish kit enables services ‘on any moving land object’](https://spacenews.com/new-starlink-dish-kit-enables-services-on-any-moving-land-object/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T191914">2022-10-26 19:19:14 UTC</a></sub>
 * [Quantum Space announces first cislunar mission](https://spacenews.com/quantum-space-announces-first-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150913">2022-10-26 15:09:13 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force to seek budget boost beyond 2023, China’s capabilities are ‘close to ours’](https://spacenews.com/space-force-to-seek-budget-boost-beyond-2023-chinas-capabilities-are-close-to-ours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T214913">2022-10-25 21:49:13 UTC</a></sub>
 * [Newly acquired NanoAvionics plots major smallsat expansion](https://spacenews.com/newly-acquired-nanoavionics-plots-major-smallsat-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T203919">2022-10-25 20:39:19 UTC</a></sub>
 * [NASA Invites Media to SpaceX’s 26th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-26th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T193900">2022-10-25 19:39:00 UTC</a></sub>
-* [Starlink’s survivability in war a good sign for DoD’s future constellation](https://spacenews.com/starlinks-survivability-in-war-a-good-sign-for-dods-future-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T184913">2022-10-25 18:49:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T150627">2022-10-27 15:06:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T154143">2022-10-27 15:41:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
