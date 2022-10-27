@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia escalates rhetoric on commercial satellites, calls them ‘legitimate targets for retaliation’](https://spacenews.com/russia-escalates-rhetoric-on-commercial-satellites-calls-them-legitimate-targets-for-retaliation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T220941">2022-10-27 22:09:41 UTC</a></sub>
 * [U.S. national defense strategy calls for ‘resilient, redundant’ space networks](https://spacenews.com/u-s-national-defense-strategy-calls-for-resilient-redundant-space-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T204913">2022-10-27 20:49:13 UTC</a></sub>
 * [As clock ticks on Amazon’s constellation, buying Starship launches not out of the question](https://spacenews.com/as-clock-ticks-on-amazons-constellation-buying-starship-launches-not-out-of-the-question/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T182914">2022-10-27 18:29:14 UTC</a></sub>
 * [NASA's InSight Lander Detects Stunning Meteoroid Impact on Mars](https://mars.nasa.gov/news/9289/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T180900">2022-10-27 18:09:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [DIU selects startups for U.S. military weather modeling project](https://spacenews.com/diu-selects-startups-for-u-s-military-weather-modeling-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T204913">2022-10-26 20:49:13 UTC</a></sub>
 * [New Starlink dish kit enables services ‘on any moving land object’](https://spacenews.com/new-starlink-dish-kit-enables-services-on-any-moving-land-object/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T191914">2022-10-26 19:19:14 UTC</a></sub>
 * [Quantum Space announces first cislunar mission](https://spacenews.com/quantum-space-announces-first-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150913">2022-10-26 15:09:13 UTC</a></sub>
-* [SpaceX becomes NASA’s second-largest vendor, surpassing Boeing](https://arstechnica.com/science/2022/10/spacex-becomes-nasas-second-largest-vendor-surpassing-boeing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T141012">2022-10-26 14:10:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T220621">2022-10-27 22:06:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T223938">2022-10-27 22:39:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
