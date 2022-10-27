@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. national defense strategy calls for ‘resilient, redundant’ space networks](https://spacenews.com/u-s-national-defense-strategy-calls-for-resilient-redundant-space-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T204913">2022-10-27 20:49:13 UTC</a></sub>
 * [As clock ticks on Amazon’s constellation, buying Starship launches not out of the question](https://spacenews.com/as-clock-ticks-on-amazons-constellation-buying-starship-launches-not-out-of-the-question/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T182914">2022-10-27 18:29:14 UTC</a></sub>
 * [NASA's InSight Lander Detects Stunning Meteoroid Impact on Mars](https://mars.nasa.gov/news/9289/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T180900">2022-10-27 18:09:00 UTC</a></sub>
 * [Falcon 9 set to launch Starlink Group 4-31 from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-31/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T171546">2022-10-27 17:15:46 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [New Starlink dish kit enables services ‘on any moving land object’](https://spacenews.com/new-starlink-dish-kit-enables-services-on-any-moving-land-object/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T191914">2022-10-26 19:19:14 UTC</a></sub>
 * [Quantum Space announces first cislunar mission](https://spacenews.com/quantum-space-announces-first-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150913">2022-10-26 15:09:13 UTC</a></sub>
 * [SpaceX becomes NASA’s second-largest vendor, surpassing Boeing](https://arstechnica.com/science/2022/10/spacex-becomes-nasas-second-largest-vendor-surpassing-boeing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T141012">2022-10-26 14:10:12 UTC</a></sub>
-* [ISS partners weigh options for using commercial space stations](https://spacenews.com/iss-partners-weigh-options-for-using-commercial-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T113941">2022-10-26 11:39:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T210315">2022-10-27 21:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T213648">2022-10-27 21:36:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
