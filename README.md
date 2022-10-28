@@ -183,8 +183,8 @@ Officially described as an optical remote-sensing satellite built by SAST.
 
 <!-- spaceflight news starts -->
 * [NASA to Provide Update on Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T164900">2022-10-28 16:49:00 UTC</a></sub>
-* [NASA Sets TV Coverage for Cargo Launch to International Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
 * [NASA and ESA Agree on Next Steps to Return Mars Samples to Earth](https://mars.nasa.gov/news/9286/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
+* [NASA Sets TV Coverage for Cargo Launch to International Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
 * [Next Artemis 1 launch attempt on schedule for mid-November](https://spacenews.com/next-artemis-1-launch-attempt-on-schedule-for-mid-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T112914">2022-10-28 11:29:14 UTC</a></sub>
 * [Rocket Report: Norway’s nuclear rocket concerns; Ariane 6 delayed again](https://arstechnica.com/science/2022/10/rocket-report-amazon-may-consider-launching-on-spacex-a-canadian-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T110034">2022-10-28 11:00:34 UTC</a></sub>
 * [Chinese commercial remote sensing satellite firm to double size of constellation](https://spacenews.com/chinese-commercial-remote-sensing-satellite-firm-to-double-size-of-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T103913">2022-10-28 10:39:13 UTC</a></sub>
@@ -224,7 +224,7 @@ Officially described as an optical remote-sensing satellite built by SAST.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T190318">2022-10-28 19:03:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T193128">2022-10-28 19:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
