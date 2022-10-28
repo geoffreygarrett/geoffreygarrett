@@ -182,16 +182,16 @@ Officially described as an optical remote-sensing satellite built by SAST.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Constellation antenna provider SatixFy goes public after SPAC merger](https://spacenews.com/constellation-antenna-provider-satixfy-goes-public-after-spac-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T204913">2022-10-28 20:49:13 UTC</a></sub>
 * [NASA to Provide Update on Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T164900">2022-10-28 16:49:00 UTC</a></sub>
-* [NASA and ESA Agree on Next Steps to Return Mars Samples to Earth](https://mars.nasa.gov/news/9286/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
 * [NASA Sets TV Coverage for Cargo Launch to International Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
+* [NASA and ESA Agree on Next Steps to Return Mars Samples to Earth](https://mars.nasa.gov/news/9286/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
 * [Next Artemis 1 launch attempt on schedule for mid-November](https://spacenews.com/next-artemis-1-launch-attempt-on-schedule-for-mid-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T112914">2022-10-28 11:29:14 UTC</a></sub>
 * [Rocket Report: Norway’s nuclear rocket concerns; Ariane 6 delayed again](https://arstechnica.com/science/2022/10/rocket-report-amazon-may-consider-launching-on-spacex-a-canadian-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T110034">2022-10-28 11:00:34 UTC</a></sub>
 * [Chinese commercial remote sensing satellite firm to double size of constellation](https://spacenews.com/chinese-commercial-remote-sensing-satellite-firm-to-double-size-of-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T103913">2022-10-28 10:39:13 UTC</a></sub>
 * [SpaceX adds 53 more Starlink satellites to internet constellation](https://spaceflightnow.com/2022/10/28/spacex-adds-53-more-starlink-satellites-to-internet-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T060909">2022-10-28 06:09:09 UTC</a></sub>
 * [Russian cargo ship docks at space station](https://spaceflightnow.com/2022/10/28/progress-ms-21-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T025910">2022-10-28 02:59:10 UTC</a></sub>
 * [Russia escalates rhetoric on commercial satellites, calls them ‘legitimate targets for retaliation’](https://spacenews.com/russia-escalates-rhetoric-on-commercial-satellites-calls-them-legitimate-targets-for-retaliation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T220941">2022-10-27 22:09:41 UTC</a></sub>
-* [U.S. national defense strategy calls for ‘resilient, redundant’ space networks](https://spacenews.com/u-s-national-defense-strategy-calls-for-resilient-redundant-space-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T204913">2022-10-27 20:49:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ Officially described as an optical remote-sensing satellite built by SAST.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T210427">2022-10-28 21:04:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T213703">2022-10-28 21:37:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
