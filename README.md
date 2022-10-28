@@ -182,6 +182,7 @@ Officially described as an optical remote-sensing satellite built by SAST.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX adds 53 more Starlink satellites to internet constellation](https://spaceflightnow.com/2022/10/28/spacex-adds-53-more-starlink-satellites-to-internet-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T060909">2022-10-28 06:09:09 UTC</a></sub>
 * [Russian cargo ship docks at space station](https://spaceflightnow.com/2022/10/28/progress-ms-21-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T025910">2022-10-28 02:59:10 UTC</a></sub>
 * [Russia escalates rhetoric on commercial satellites, calls them ‘legitimate targets for retaliation’](https://spacenews.com/russia-escalates-rhetoric-on-commercial-satellites-calls-them-legitimate-targets-for-retaliation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T220941">2022-10-27 22:09:41 UTC</a></sub>
 * [U.S. national defense strategy calls for ‘resilient, redundant’ space networks](https://spacenews.com/u-s-national-defense-strategy-calls-for-resilient-redundant-space-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T204913">2022-10-27 20:49:13 UTC</a></sub>
@@ -191,7 +192,6 @@ Officially described as an optical remote-sensing satellite built by SAST.
 * [Russia threatens a retaliatory strike against US commercial satellites](https://arstechnica.com/science/2022/10/russia-threatens-a-retaliatory-strike-against-us-commercial-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T155657">2022-10-27 15:56:57 UTC</a></sub>
 * [NASA’s Economic Benefit Reaches All 50 States](http://www.nasa.gov/press-release/nasa-s-economic-benefit-reaches-all-50-states) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T144900">2022-10-27 14:49:00 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket passes static fire test three years in the making](https://www.teslarati.com/spacex-fires-up-fourth-falcon-heavy-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T025941">2022-10-27 02:59:41 UTC</a></sub>
-* [Major Gomspace satellite customer withholding payments](https://spacenews.com/major-gomspace-satellite-customer-withholding-payments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T021913">2022-10-27 02:19:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ Officially described as an optical remote-sensing satellite built by SAST.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T060857">2022-10-28 06:08:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T064643">2022-10-28 06:46:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
