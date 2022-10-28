@@ -182,6 +182,8 @@ Officially described as an optical remote-sensing satellite built by SAST.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Next Artemis 1 launch attempt on schedule for mid-November](https://spacenews.com/next-artemis-1-launch-attempt-on-schedule-for-mid-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T112914">2022-10-28 11:29:14 UTC</a></sub>
+* [Rocket Report: Norway’s nuclear rocket concerns; Ariane 6 delayed again](https://arstechnica.com/science/2022/10/rocket-report-amazon-may-consider-launching-on-spacex-a-canadian-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T110034">2022-10-28 11:00:34 UTC</a></sub>
 * [Chinese commercial remote sensing satellite firm to double size of constellation](https://spacenews.com/chinese-commercial-remote-sensing-satellite-firm-to-double-size-of-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T103913">2022-10-28 10:39:13 UTC</a></sub>
 * [SpaceX adds 53 more Starlink satellites to internet constellation](https://spaceflightnow.com/2022/10/28/spacex-adds-53-more-starlink-satellites-to-internet-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T060909">2022-10-28 06:09:09 UTC</a></sub>
 * [Russian cargo ship docks at space station](https://spaceflightnow.com/2022/10/28/progress-ms-21-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T025910">2022-10-28 02:59:10 UTC</a></sub>
@@ -190,8 +192,6 @@ Officially described as an optical remote-sensing satellite built by SAST.
 * [As clock ticks on Amazon’s constellation, buying Starship launches not out of the question](https://spacenews.com/as-clock-ticks-on-amazons-constellation-buying-starship-launches-not-out-of-the-question/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T182914">2022-10-27 18:29:14 UTC</a></sub>
 * [NASA's InSight Lander Detects Stunning Meteoroid Impact on Mars](https://mars.nasa.gov/news/9289/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T180900">2022-10-27 18:09:00 UTC</a></sub>
 * [SpaceX Falcon 9 launches Starlink Group 4-31 from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-31/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T171546">2022-10-27 17:15:46 UTC</a></sub>
-* [Russia threatens a retaliatory strike against US commercial satellites](https://arstechnica.com/science/2022/10/russia-threatens-a-retaliatory-strike-against-us-commercial-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T155657">2022-10-27 15:56:57 UTC</a></sub>
-* [NASA’s Economic Benefit Reaches All 50 States](http://www.nasa.gov/press-release/nasa-s-economic-benefit-reaches-all-50-states) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T144900">2022-10-27 14:49:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ Officially described as an optical remote-sensing satellite built by SAST.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T110618">2022-10-28 11:06:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T113546">2022-10-28 11:35:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
