@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Centaur issue delays JPSS-2 launch](https://spacenews.com/centaur-issue-delays-jpss-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T230934">2022-10-29 23:09:34 UTC</a></sub>
 * [Psyche launch rescheduled for October 2023](https://spacenews.com/psyche-launch-rescheduled-for-october-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T042914">2022-10-29 04:29:14 UTC</a></sub>
 * [Constellation antenna provider SatixFy goes public after SPAC merger](https://spacenews.com/constellation-antenna-provider-satixfy-goes-public-after-spac-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T204913">2022-10-28 20:49:13 UTC</a></sub>
 * [NASA to Provide Update on Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T164900">2022-10-28 16:49:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Next Artemis 1 launch attempt on schedule for mid-November](https://spacenews.com/next-artemis-1-launch-attempt-on-schedule-for-mid-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T112914">2022-10-28 11:29:14 UTC</a></sub>
 * [Rocket Report: Norway’s nuclear rocket concerns; Ariane 6 delayed again](https://arstechnica.com/science/2022/10/rocket-report-amazon-may-consider-launching-on-spacex-a-canadian-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T110034">2022-10-28 11:00:34 UTC</a></sub>
 * [Chinese commercial remote sensing satellite firm to double size of constellation](https://spacenews.com/chinese-commercial-remote-sensing-satellite-firm-to-double-size-of-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T103913">2022-10-28 10:39:13 UTC</a></sub>
-* [SpaceX adds 53 more Starlink satellites to internet constellation](https://spaceflightnow.com/2022/10/28/spacex-adds-53-more-starlink-satellites-to-internet-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T060909">2022-10-28 06:09:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T230644">2022-10-29 23:06:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T234030">2022-10-29 23:40:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
