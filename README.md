@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to launch Mengtian science module to Tiangong space station](https://www.nasaspaceflight.com/2022/10/china-launch-mengtian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T205745">2022-10-30 20:57:45 UTC</a></sub>
 * [First NorthStar SSA satellites to launch in 2023 by Virgin Orbit](https://spacenews.com/first-northstar-ssa-satellites-to-launch-in-2023-by-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T162946">2022-10-30 16:29:46 UTC</a></sub>
 * [For U.S. Space Force, Raymond’s retirement marks the end of an era](https://spacenews.com/for-u-s-space-force-raymonds-retirement-marks-the-end-of-an-era/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T090940">2022-10-30 09:09:40 UTC</a></sub>
 * [Centaur issue delays JPSS-2 launch](https://spacenews.com/centaur-issue-delays-jpss-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T230934">2022-10-29 23:09:34 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Sets TV Coverage for Cargo Launch to International Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
 * [NASA and ESA Agree on Next Steps to Return Mars Samples to Earth](https://mars.nasa.gov/news/9286/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
 * [SpaceX’s Falcon Heavy test-fired on launch pad in Florida](https://spaceflightnow.com/2022/10/28/spacexs-falcon-heavy-test-fired-on-launch-pad-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T143921">2022-10-28 14:39:21 UTC</a></sub>
-* [Next Artemis 1 launch attempt on schedule for mid-November](https://spacenews.com/next-artemis-1-launch-attempt-on-schedule-for-mid-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T112914">2022-10-28 11:29:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T210453">2022-10-30 21:04:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T213601">2022-10-30 21:36:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
