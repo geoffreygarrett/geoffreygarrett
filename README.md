@@ -181,7 +181,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [Lunar landing restored for Artemis 4 mission](https://spacenews.com/lunar-landing-restored-for-artemis-4-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T224937">2022-10-30 22:49:37 UTC</a></sub>
-* [China to launch Mengtian science module to Tiangong space station](https://www.nasaspaceflight.com/2022/10/china-launch-mengtian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T205745">2022-10-30 20:57:45 UTC</a></sub>
+* [China launches Mengtian science module to Tiangong space station](https://www.nasaspaceflight.com/2022/10/china-launch-mengtian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T205745">2022-10-30 20:57:45 UTC</a></sub>
 * [First NorthStar SSA satellites to launch in 2023 by Virgin Orbit](https://spacenews.com/first-northstar-ssa-satellites-to-launch-in-2023-by-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T162946">2022-10-30 16:29:46 UTC</a></sub>
 * [For U.S. Space Force, Raymond’s retirement marks the end of an era](https://spacenews.com/for-u-s-space-force-raymonds-retirement-marks-the-end-of-an-era/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T090940">2022-10-30 09:09:40 UTC</a></sub>
 * [Centaur issue delays JPSS-2 launch](https://spacenews.com/centaur-issue-delays-jpss-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T230934">2022-10-29 23:09:34 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T073616">2022-10-31 07:36:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T081047">2022-10-31 08:10:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
