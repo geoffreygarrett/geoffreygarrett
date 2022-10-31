@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China tests engines for moon mission rocket](https://spacenews.com/china-tests-engines-for-moon-mission-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T103930">2022-10-31 10:39:30 UTC</a></sub>
 * [SpaceX still an option for future Amazon internet satellite launches, says Senior VP](https://www.teslarati.com/spacex-falcon-heavy-starship-amazon-internet-satellite-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T082042">2022-10-31 08:20:42 UTC</a></sub>
 * [Lunar landing restored for Artemis 4 mission](https://spacenews.com/lunar-landing-restored-for-artemis-4-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T224937">2022-10-30 22:49:37 UTC</a></sub>
 * [China launches Mengtian science module to Tiangong space station](https://www.nasaspaceflight.com/2022/10/china-launch-mengtian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T205745">2022-10-30 20:57:45 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Psyche launch rescheduled for October 2023](https://spacenews.com/psyche-launch-rescheduled-for-october-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T042914">2022-10-29 04:29:14 UTC</a></sub>
 * [Constellation antenna provider SatixFy goes public after SPAC merger](https://spacenews.com/constellation-antenna-provider-satixfy-goes-public-after-spac-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T204913">2022-10-28 20:49:13 UTC</a></sub>
 * [NASA to Provide Update on Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T164900">2022-10-28 16:49:00 UTC</a></sub>
-* [NASA Sets TV Coverage for Cargo Launch to International Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T100730">2022-10-31 10:07:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T104309">2022-10-31 10:43:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
