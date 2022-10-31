@@ -180,6 +180,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon Heavy rocket rolls to pad for Tuesday launch, dual booster landing](https://www.teslarati.com/spacex-falcon-heavy-rocket-tuesday-launch-dual-booster-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T223933">2022-10-31 22:39:33 UTC</a></sub>
+* [Arianespace partners with Australian space tug startup](https://spacenews.com/arianespace-partners-with-australian-space-tug-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T221913">2022-10-31 22:19:13 UTC</a></sub>
+* [Falcon Heavy rocket on the launch pad for one of SpaceX’s most complex missions](https://spaceflightnow.com/2022/10/31/falcon-heavy-rocket-on-the-launch-pad-for-one-of-spacexs-most-complex-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T213910">2022-10-31 21:39:10 UTC</a></sub>
 * [NASA predicts first Starship orbital launch as soon as December](https://spacenews.com/nasa-predicts-first-starship-orbital-launch-as-soon-as-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T212914">2022-10-31 21:29:14 UTC</a></sub>
 * [Final module docks at China’s Tiangong space station](https://spacenews.com/final-module-docks-at-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T210913">2022-10-31 21:09:13 UTC</a></sub>
 * [SpaceLink to wind down operations, barring last-minute investment](https://spacenews.com/spacelink-wind-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T202914">2022-10-31 20:29:14 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently Go for Launch
 * [The world’s most powerful rocket finally returns after a 3-year absence](https://arstechnica.com/science/2022/10/the-worlds-most-powerful-rocket-finally-returns-after-a-3-year-absence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T180849">2022-10-31 18:08:49 UTC</a></sub>
 * [It’s time to play “find the falling Chinese rocket” once again](https://arstechnica.com/science/2022/10/china-launches-its-third-space-station-module-but-rocket-will-return-controllably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T135007">2022-10-31 13:50:07 UTC</a></sub>
 * [Australia joins ASAT test ban, raising like-minded countries to eight](https://spacenews.com/australia-joins-asat-test-ban-raising-like-minded-countries-to-eight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T132933">2022-10-31 13:29:33 UTC</a></sub>
-* [Perseverance to establish sample cache for later return to Earth](https://spacenews.com/perseverance-to-establish-sample-cache-for-later-return-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T111953">2022-10-31 11:19:53 UTC</a></sub>
-* [China tests engines for moon mission rocket](https://spacenews.com/china-tests-engines-for-moon-mission-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T103930">2022-10-31 10:39:30 UTC</a></sub>
-* [SpaceX still an option for future Amazon internet satellite launches, says Senior VP](https://www.teslarati.com/spacex-falcon-heavy-starship-amazon-internet-satellite-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T082042">2022-10-31 08:20:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T220632">2022-10-31 22:06:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T224039">2022-10-31 22:40:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
