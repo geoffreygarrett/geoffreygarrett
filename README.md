@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceLink to wind down operations, barring last-minute investment](https://spacenews.com/spacelink-wind-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T202914">2022-10-31 20:29:14 UTC</a></sub>
 * [Lockheed Martin ups stake in Terran Orbital, invests $100 million to expand smallsat manufacturing](https://spacenews.com/lockheed-martin-ups-stake-in-terran-orbital-invests-100-million-to-expand-smallsat-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T191914">2022-10-31 19:19:14 UTC</a></sub>
 * [The world’s most powerful rocket finally returns after a 3-year absence](https://arstechnica.com/science/2022/10/the-worlds-most-powerful-rocket-finally-returns-after-a-3-year-absence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T180849">2022-10-31 18:08:49 UTC</a></sub>
 * [It’s time to play “find the falling Chinese rocket” once again](https://arstechnica.com/science/2022/10/china-launches-its-third-space-station-module-but-rocket-will-return-controllably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T135007">2022-10-31 13:50:07 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX still an option for future Amazon internet satellite launches, says Senior VP](https://www.teslarati.com/spacex-falcon-heavy-starship-amazon-internet-satellite-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T082042">2022-10-31 08:20:42 UTC</a></sub>
 * [Lunar landing restored for Artemis 4 mission](https://spacenews.com/lunar-landing-restored-for-artemis-4-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T224937">2022-10-30 22:49:37 UTC</a></sub>
 * [China launches Mengtian science module to Tiangong space station](https://www.nasaspaceflight.com/2022/10/china-launch-mengtian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T205745">2022-10-30 20:57:45 UTC</a></sub>
-* [First NorthStar SSA satellites to launch in 2023 by Virgin Orbit](https://spacenews.com/first-northstar-ssa-satellites-to-launch-in-2023-by-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T162946">2022-10-30 16:29:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T200756">2022-10-31 20:07:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T204016">2022-10-31 20:40:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
