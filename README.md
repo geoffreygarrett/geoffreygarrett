@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA predicts first Starship orbital launch as soon as December](https://spacenews.com/nasa-predicts-first-starship-orbital-launch-as-soon-as-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T212914">2022-10-31 21:29:14 UTC</a></sub>
+* [Final module docks at China’s Tiangong space station](https://spacenews.com/final-module-docks-at-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T210913">2022-10-31 21:09:13 UTC</a></sub>
 * [SpaceLink to wind down operations, barring last-minute investment](https://spacenews.com/spacelink-wind-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T202914">2022-10-31 20:29:14 UTC</a></sub>
 * [Lockheed Martin ups stake in Terran Orbital, invests $100 million to expand smallsat manufacturing](https://spacenews.com/lockheed-martin-ups-stake-in-terran-orbital-invests-100-million-to-expand-smallsat-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T191914">2022-10-31 19:19:14 UTC</a></sub>
 * [The world’s most powerful rocket finally returns after a 3-year absence](https://arstechnica.com/science/2022/10/the-worlds-most-powerful-rocket-finally-returns-after-a-3-year-absence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T180849">2022-10-31 18:08:49 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Perseverance to establish sample cache for later return to Earth](https://spacenews.com/perseverance-to-establish-sample-cache-for-later-return-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T111953">2022-10-31 11:19:53 UTC</a></sub>
 * [China tests engines for moon mission rocket](https://spacenews.com/china-tests-engines-for-moon-mission-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T103930">2022-10-31 10:39:30 UTC</a></sub>
 * [SpaceX still an option for future Amazon internet satellite launches, says Senior VP](https://www.teslarati.com/spacex-falcon-heavy-starship-amazon-internet-satellite-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T082042">2022-10-31 08:20:42 UTC</a></sub>
-* [Lunar landing restored for Artemis 4 mission](https://spacenews.com/lunar-landing-restored-for-artemis-4-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T224937">2022-10-30 22:49:37 UTC</a></sub>
-* [China launches Mengtian science module to Tiangong space station](https://www.nasaspaceflight.com/2022/10/china-launch-mengtian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T205745">2022-10-30 20:57:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T210628">2022-10-31 21:06:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T213724">2022-10-31 21:37:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
