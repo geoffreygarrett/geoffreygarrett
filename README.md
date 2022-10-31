@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX still an option for future Amazon internet satellite launches, says Senior VP](https://www.teslarati.com/spacex-falcon-heavy-starship-amazon-internet-satellite-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T082042">2022-10-31 08:20:42 UTC</a></sub>
 * [Lunar landing restored for Artemis 4 mission](https://spacenews.com/lunar-landing-restored-for-artemis-4-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T224937">2022-10-30 22:49:37 UTC</a></sub>
 * [China launches Mengtian science module to Tiangong space station](https://www.nasaspaceflight.com/2022/10/china-launch-mengtian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T205745">2022-10-30 20:57:45 UTC</a></sub>
 * [First NorthStar SSA satellites to launch in 2023 by Virgin Orbit](https://spacenews.com/first-northstar-ssa-satellites-to-launch-in-2023-by-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T162946">2022-10-30 16:29:46 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Constellation antenna provider SatixFy goes public after SPAC merger](https://spacenews.com/constellation-antenna-provider-satixfy-goes-public-after-spac-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T204913">2022-10-28 20:49:13 UTC</a></sub>
 * [NASA to Provide Update on Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T164900">2022-10-28 16:49:00 UTC</a></sub>
 * [NASA Sets TV Coverage for Cargo Launch to International Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
-* [NASA and ESA Agree on Next Steps to Return Mars Samples to Earth](https://mars.nasa.gov/news/9286/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T150900">2022-10-28 15:09:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T081047">2022-10-31 08:10:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T084947">2022-10-31 08:49:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
