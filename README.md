@@ -106,7 +106,7 @@ region. The mission's status is currently Go for Launch
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Classified US Space Force carrying two payloads directly to geostationary orbit. One of them is an experimental microsatellite called TETRA-1.
+  Classified US Space Force carrying two payloads directly to geostationary orbit. One is called the Shepherd Demonstration, and the other is LDPE 2 spacecraft that carries three hosted payloads and three deployable sub-satellites. One of them is an experimental microsatellite called TETRA-1.
 </blockquote>
 
 <p float="left" align="center">
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T032413">2022-11-01 03:24:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T045314">2022-11-01 04:53:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
