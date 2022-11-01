@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Leidos selected by Northrop Grumman to supply sensor payloads for U.S. missile-tracking satellites](https://spacenews.com/leidos-selected-by-northrop-grumman-to-supply-sensor-payloads-for-u-s-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T171913">2022-11-01 17:19:13 UTC</a></sub>
 * [Space Force funds experiment on use of AI to predict satellite failures](https://spacenews.com/space-force-funds-experiment-on-use-of-ai-to-predict-satellite-failures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161913">2022-11-01 16:19:13 UTC</a></sub>
 * [NASA Prepares to Say 'Farewell' to InSight Spacecraft](https://mars.nasa.gov/news/9292/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161900">2022-11-01 16:19:00 UTC</a></sub>
 * [SpaceX successfully launches its first Falcon Heavy in 40 months](https://arstechnica.com/science/2022/11/spacex-successfully-launches-its-first-falcon-heavy-in-40-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T151404">2022-11-01 15:14:04 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX Falcon Heavy lofts USSF-44 on first flight in three years](https://www.nasaspaceflight.com/2022/10/falcon-heavy-ussf-44/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T023425">2022-11-01 02:34:25 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket rolls to pad for Tuesday launch, dual booster landing](https://www.teslarati.com/spacex-falcon-heavy-rocket-tuesday-launch-dual-booster-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T223933">2022-10-31 22:39:33 UTC</a></sub>
 * [Arianespace partners with Australian space tug startup](https://spacenews.com/arianespace-partners-with-australian-space-tug-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T221913">2022-10-31 22:19:13 UTC</a></sub>
-* [Falcon Heavy rocket on the launch pad for one of SpaceX’s most complex missions](https://spaceflightnow.com/2022/10/31/falcon-heavy-rocket-on-the-launch-pad-for-one-of-spacexs-most-complex-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T213910">2022-10-31 21:39:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T172325">2022-11-01 17:23:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T174657">2022-11-01 17:46:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
