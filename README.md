@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX successfully launches its first Falcon Heavy in 40 months](https://arstechnica.com/science/2022/11/spacex-successfully-launches-its-first-falcon-heavy-in-40-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T151404">2022-11-01 15:14:04 UTC</a></sub>
+* [SpaceX Falcon Heavy launches first U.S. national security mission](https://spacenews.com/spacex-falcon-heavy-launches-first-u-s-national-security-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T150913">2022-11-01 15:09:13 UTC</a></sub>
 * [Japanese lunar lander, with NASA rideshare, to launch this month](https://spacenews.com/japanese-lunar-lander-with-nasa-rideshare-to-launch-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T114913">2022-11-01 11:49:13 UTC</a></sub>
 * [New guidance from Space Force acquisition boss: ‘The traditional ways must be reformed’](https://spacenews.com/new-guidance-from-space-force-acquisition-boss-the-traditional-ways-must-be-reformed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T111913">2022-11-01 11:19:13 UTC</a></sub>
 * [SpaceX Falcon Heavy lofts USSF-44 on first flight in three years](https://www.nasaspaceflight.com/2022/10/falcon-heavy-ussf-44/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T023425">2022-11-01 02:34:25 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Falcon Heavy rocket on the launch pad for one of SpaceX’s most complex missions](https://spaceflightnow.com/2022/10/31/falcon-heavy-rocket-on-the-launch-pad-for-one-of-spacexs-most-complex-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T213910">2022-10-31 21:39:10 UTC</a></sub>
 * [NASA predicts first Starship orbital launch as soon as December](https://spacenews.com/nasa-predicts-first-starship-orbital-launch-as-soon-as-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T212914">2022-10-31 21:29:14 UTC</a></sub>
 * [Final module docks at China’s Tiangong space station](https://spacenews.com/final-module-docks-at-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T210913">2022-10-31 21:09:13 UTC</a></sub>
-* [SpaceLink to wind down operations, barring last-minute investment](https://spacenews.com/spacelink-wind-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T202914">2022-10-31 20:29:14 UTC</a></sub>
-* [Lockheed Martin ups stake in Terran Orbital, invests $100 million to expand smallsat manufacturing](https://spacenews.com/lockheed-martin-ups-stake-in-terran-orbital-invests-100-million-to-expand-smallsat-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T191914">2022-10-31 19:19:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T150709">2022-11-01 15:07:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T154305">2022-11-01 15:43:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
