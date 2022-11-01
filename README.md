@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New guidance from Space Force acquisition boss: ‘The traditional ways must be reformed’](https://spacenews.com/new-guidance-from-space-force-acquisition-boss-the-traditional-ways-must-be-reformed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T111913">2022-11-01 11:19:13 UTC</a></sub>
 * [SpaceX Falcon Heavy to loft USSF-44 on first flight in three years](https://www.nasaspaceflight.com/2022/10/falcon-heavy-ussf-44/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T023425">2022-11-01 02:34:25 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket rolls to pad for Tuesday launch, dual booster landing](https://www.teslarati.com/spacex-falcon-heavy-rocket-tuesday-launch-dual-booster-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T223933">2022-10-31 22:39:33 UTC</a></sub>
 * [Arianespace partners with Australian space tug startup](https://spacenews.com/arianespace-partners-with-australian-space-tug-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T221913">2022-10-31 22:19:13 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceLink to wind down operations, barring last-minute investment](https://spacenews.com/spacelink-wind-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T202914">2022-10-31 20:29:14 UTC</a></sub>
 * [Lockheed Martin ups stake in Terran Orbital, invests $100 million to expand smallsat manufacturing](https://spacenews.com/lockheed-martin-ups-stake-in-terran-orbital-invests-100-million-to-expand-smallsat-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T191914">2022-10-31 19:19:14 UTC</a></sub>
 * [The world’s most powerful rocket finally returns after a 3-year absence](https://arstechnica.com/science/2022/10/the-worlds-most-powerful-rocket-finally-returns-after-a-3-year-absence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T180849">2022-10-31 18:08:49 UTC</a></sub>
-* [It’s time to play “find the falling Chinese rocket” once again](https://arstechnica.com/science/2022/10/china-launches-its-third-space-station-module-but-rocket-will-return-controllably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T135007">2022-10-31 13:50:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T110531">2022-11-01 11:05:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T113534">2022-11-01 11:35:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
