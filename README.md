@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Saudi astronauts to fly on Ax-2 mission to ISS](https://spacenews.com/saudi-astronauts-to-fly-on-ax-2-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T214914">2022-11-01 21:49:14 UTC</a></sub>
 * [The close-up view of two Falcon rockets landing is as majestic as you think](https://arstechnica.com/science/2022/11/a-camera-next-to-the-falcon-landing-pads-captured-tuesdays-dramatic-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T205309">2022-11-01 20:53:09 UTC</a></sub>
 * [SpaceX’s Falcon Heavy rocket back in action after a three-year hiatus](https://www.teslarati.com/spacex-falcon-heavy-rocket-aces-geostationary-launch-dual-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T203933">2022-11-01 20:39:33 UTC</a></sub>
 * [Spire selected to design satellite for DARPA experiment in very low orbit](https://spacenews.com/spire-selected-to-design-satellite-for-darpa-experiment-in-very-low-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T194913">2022-11-01 19:49:13 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Prepares to Say 'Farewell' to InSight Spacecraft](https://mars.nasa.gov/news/9292/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161900">2022-11-01 16:19:00 UTC</a></sub>
 * [SpaceX successfully launches its first Falcon Heavy in 40 months](https://arstechnica.com/science/2022/11/spacex-successfully-launches-its-first-falcon-heavy-in-40-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T151404">2022-11-01 15:14:04 UTC</a></sub>
 * [SpaceX Falcon Heavy launches first U.S. national security mission](https://spacenews.com/spacex-falcon-heavy-launches-first-u-s-national-security-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T150913">2022-11-01 15:09:13 UTC</a></sub>
-* [Japanese lunar lander, with NASA rideshare, to launch this month](https://spacenews.com/japanese-lunar-lander-with-nasa-rideshare-to-launch-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T114913">2022-11-01 11:49:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T220738">2022-11-01 22:07:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T224431">2022-11-01 22:44:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
