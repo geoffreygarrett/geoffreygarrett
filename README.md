@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Saltzman takes command as new chief of the U.S. Space Force](https://spacenews.com/saltzman-takes-command-as-new-chief-of-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T182913">2022-11-02 18:29:13 UTC</a></sub>
+* [NASA Invites Media to Discuss Space Station Science, Experiments](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-experiments) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T182900">2022-11-02 18:29:00 UTC</a></sub>
 * [SpaceX is now building a Raptor engine a day, NASA says](https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T141157">2022-11-02 14:11:57 UTC</a></sub>
 * [China’s mystery spaceplane releases object into orbit](https://spacenews.com/chinas-mystery-spaceplane-releases-object-into-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T132918">2022-11-02 13:29:18 UTC</a></sub>
 * [Amazon, Microsoft, SpiderOak join Defense Innovation Unit’s hybrid space network project](https://spacenews.com/amazon-microsoft-spikeroak-join-defense-innovation-units-hybrid-space-network-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T131914">2022-11-02 13:19:14 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Saudi astronauts to fly on Ax-2 mission to ISS](https://spacenews.com/saudi-astronauts-to-fly-on-ax-2-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T214914">2022-11-01 21:49:14 UTC</a></sub>
 * [The close-up view of two Falcon rockets landing is as majestic as you think](https://arstechnica.com/science/2022/11/a-camera-next-to-the-falcon-landing-pads-captured-tuesdays-dramatic-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T205309">2022-11-01 20:53:09 UTC</a></sub>
 * [SpaceX’s Falcon Heavy rocket back in action after a three-year hiatus](https://www.teslarati.com/spacex-falcon-heavy-rocket-aces-geostationary-launch-dual-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T203933">2022-11-01 20:39:33 UTC</a></sub>
-* [Spire selected to design satellite for DARPA experiment in very low orbit](https://spacenews.com/spire-selected-to-design-satellite-for-darpa-experiment-in-very-low-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T194913">2022-11-01 19:49:13 UTC</a></sub>
-* [Wyvern raises $7 million for hyperspectral imaging constellation](https://spacenews.com/wyvern-raises-7-million-for-hyperspectral-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T190913">2022-11-01 19:09:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T180911">2022-11-02 18:09:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T184405">2022-11-02 18:44:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
