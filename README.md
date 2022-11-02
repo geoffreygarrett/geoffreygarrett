@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amazon, Microsoft, SpiderOak join Defense Innovation Unit’s hybrid space network project](https://spacenews.com/amazon-microsoft-spikeroak-join-defense-innovation-units-hybrid-space-network-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T131914">2022-11-02 13:19:14 UTC</a></sub>
 * [Rocket Lab to attempt booster recovery on upcoming Electron launch](https://spacenews.com/rocket-lab-to-attempt-booster-recovery-on-upcoming-electron-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T114914">2022-11-02 11:49:14 UTC</a></sub>
 * [Orbex to build Scottish launch site](https://spacenews.com/orbex-to-build-scottish-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T230913">2022-11-01 23:09:13 UTC</a></sub>
 * [Saudi astronauts to fly on Ax-2 mission to ISS](https://spacenews.com/saudi-astronauts-to-fly-on-ax-2-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T214914">2022-11-01 21:49:14 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Wyvern raises $7 million for hyperspectral imaging constellation](https://spacenews.com/wyvern-raises-7-million-for-hyperspectral-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T190913">2022-11-01 19:09:13 UTC</a></sub>
 * [Leidos selected by Northrop Grumman to supply sensor payloads for U.S. missile-tracking satellites](https://spacenews.com/leidos-selected-by-northrop-grumman-to-supply-sensor-payloads-for-u-s-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T171913">2022-11-01 17:19:13 UTC</a></sub>
 * [Space Force funds experiment on use of AI to predict satellite failures](https://spacenews.com/space-force-funds-experiment-on-use-of-ai-to-predict-satellite-failures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161913">2022-11-01 16:19:13 UTC</a></sub>
-* [NASA Prepares to Say 'Farewell' to InSight Spacecraft](https://mars.nasa.gov/news/9292/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161900">2022-11-01 16:19:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T121335">2022-11-02 12:13:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T132226">2022-11-02 13:22:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
