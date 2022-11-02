@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>JPSS 2 (Joint Polar Satellite System spacecraft No. 2)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T092500">2022-11-09 09:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2)&location=Vandenberg SFB, CA, USA&dates=20221109T092500Z%2F20221109T092500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianzhou-5</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T010000">2022-11-12 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-5&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20221112T010000Z%2F20221112T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Artemis I</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T050700">2022-11-14 05:07:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20221114T050700Z%2F20221114T061600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T220000">2022-11-14 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221114T220000Z%2F20221115T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -179,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China’s mystery spaceplane releases object into orbit](https://spacenews.com/chinas-mystery-spaceplane-releases-object-into-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T132918">2022-11-02 13:29:18 UTC</a></sub>
 * [Amazon, Microsoft, SpiderOak join Defense Innovation Unit’s hybrid space network project](https://spacenews.com/amazon-microsoft-spikeroak-join-defense-innovation-units-hybrid-space-network-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T131914">2022-11-02 13:19:14 UTC</a></sub>
 * [Rocket Lab to attempt booster recovery on upcoming Electron launch](https://spacenews.com/rocket-lab-to-attempt-booster-recovery-on-upcoming-electron-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T114914">2022-11-02 11:49:14 UTC</a></sub>
 * [Orbex to build Scottish launch site](https://spacenews.com/orbex-to-build-scottish-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T230913">2022-11-01 23:09:13 UTC</a></sub>
@@ -188,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Spire selected to design satellite for DARPA experiment in very low orbit](https://spacenews.com/spire-selected-to-design-satellite-for-darpa-experiment-in-very-low-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T194913">2022-11-01 19:49:13 UTC</a></sub>
 * [Wyvern raises $7 million for hyperspectral imaging constellation](https://spacenews.com/wyvern-raises-7-million-for-hyperspectral-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T190913">2022-11-01 19:09:13 UTC</a></sub>
 * [Leidos selected by Northrop Grumman to supply sensor payloads for U.S. missile-tracking satellites](https://spacenews.com/leidos-selected-by-northrop-grumman-to-supply-sensor-payloads-for-u-s-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T171913">2022-11-01 17:19:13 UTC</a></sub>
-* [Space Force funds experiment on use of AI to predict satellite failures](https://spacenews.com/space-force-funds-experiment-on-use-of-ai-to-predict-satellite-failures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161913">2022-11-01 16:19:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T132226">2022-11-02 13:22:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T140516">2022-11-02 14:05:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
