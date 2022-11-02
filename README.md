@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch second Hotbird satellite for Eutelsat](https://www.nasaspaceflight.com/2022/11/hotbird-13g/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T224922">2022-11-02 22:49:22 UTC</a></sub>
 * [SpaceX teams in Florida prep for second launch in as many days](https://spaceflightnow.com/2022/11/02/spacex-teams-in-florida-prep-for-second-launch-in-as-many-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T220909">2022-11-02 22:09:09 UTC</a></sub>
 * [Virgin Galactic picks suppliers for future spaceplanes](https://spacenews.com/virgin-galactic-picks-suppliers-for-future-spaceplanes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T203913">2022-11-02 20:39:13 UTC</a></sub>
 * [Saltzman takes command as new chief of the U.S. Space Force](https://spacenews.com/saltzman-takes-command-as-new-chief-of-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T182913">2022-11-02 18:29:13 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Amazon, Microsoft, SpiderOak join Defense Innovation Unit’s hybrid space network project](https://spacenews.com/amazon-microsoft-spikeroak-join-defense-innovation-units-hybrid-space-network-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T131914">2022-11-02 13:19:14 UTC</a></sub>
 * [Rocket Lab to attempt booster recovery on upcoming Electron launch](https://spacenews.com/rocket-lab-to-attempt-booster-recovery-on-upcoming-electron-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T114914">2022-11-02 11:49:14 UTC</a></sub>
 * [Orbex to build Scottish launch site](https://spacenews.com/orbex-to-build-scottish-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T230913">2022-11-01 23:09:13 UTC</a></sub>
-* [Falcon Heavy ‘simply outstanding’ on SpaceX’s first launch to geosynch orbit](https://spaceflightnow.com/2022/11/01/falcon-heavy-simply-outstanding-on-spacexs-first-launch-to-geosynchronous-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T221909">2022-11-01 22:19:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T230634">2022-11-02 23:06:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T234046">2022-11-02 23:40:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
