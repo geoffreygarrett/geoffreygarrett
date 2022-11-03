@@ -180,7 +180,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Your chance of dying from a falling Chinese rocket? Less than 1 in a trillion](https://arstechnica.com/science/2022/11/your-chance-of-dying-from-a-falling-chinese-rocket-less-than-1-in-a-trillion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T125121">2022-11-03 12:51:21 UTC</a></sub>
+* [Rocket from Chinese space station module launch predicted to make uncontrolled reentry Nov. 4](https://spacenews.com/rocket-from-chinese-space-station-module-launch-predicted-to-uncontrolled-reentry-nov-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T134913">2022-11-03 13:49:13 UTC</a></sub>
+* [SpaceX launches Hotbird 3G to extend Eutelsat’s broadcast coverage](https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T132917">2022-11-03 13:29:17 UTC</a></sub>
+* [Falling Chinese rocket expected to enter Earth’s atmosphere in <2 days](https://arstechnica.com/science/2022/11/your-chance-of-dying-from-a-falling-chinese-rocket-less-than-1-in-a-trillion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T125121">2022-11-03 12:51:21 UTC</a></sub>
 * [Exotrail signs launch agreement with Isar Aerospace](https://spacenews.com/exotrail-signs-launch-agreement-with-isar-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T094914">2022-11-03 09:49:14 UTC</a></sub>
 * [SpaceX Falcon 9 rocket completes 50th orbital launch of 2022](https://www.teslarati.com/spacex-falcon-9-rocket-aces-50th-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T074930">2022-11-03 07:49:30 UTC</a></sub>
 * [SpaceX launches second Hotbird satellite for Eutelsat](https://www.nasaspaceflight.com/2022/11/hotbird-13g/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T054922">2022-11-03 05:49:22 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Virgin Galactic picks suppliers for future spaceplanes](https://spacenews.com/virgin-galactic-picks-suppliers-for-future-spaceplanes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T203913">2022-11-02 20:39:13 UTC</a></sub>
 * [Saltzman takes command as new chief of the U.S. Space Force](https://spacenews.com/saltzman-takes-command-as-new-chief-of-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T182913">2022-11-02 18:29:13 UTC</a></sub>
 * [NASA Invites Media to Discuss Space Station Science, Experiments](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-experiments) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T182900">2022-11-02 18:29:00 UTC</a></sub>
-* [SpaceX is now building a Raptor engine a day, NASA says](https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T141157">2022-11-02 14:11:57 UTC</a></sub>
-* [China’s mystery spaceplane releases object into orbit](https://spacenews.com/chinas-mystery-spaceplane-releases-object-into-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T132918">2022-11-02 13:29:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T130816">2022-11-03 13:08:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T140040">2022-11-03 14:00:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
