@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Discuss Psyche Independent Review Board Results](http://www.nasa.gov/press-release/nasa-to-discuss-psyche-independent-review-board-results) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T194900">2022-11-03 19:49:00 UTC</a></sub>
 * [SLS to return to LC-39B for next Artemis I launch opportunity](https://www.nasaspaceflight.com/2022/11/sls-return-to-lc-39b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T184910">2022-11-03 18:49:10 UTC</a></sub>
 * [NASA to Provide Coverage of Preview Briefing, US Spacewalks](http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-preview-briefing-us-spacewalks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T162900">2022-11-03 16:29:00 UTC</a></sub>
 * [FCC proposes new bureau for space activities](https://spacenews.com/fcc-proposes-new-bureau-for-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T150914">2022-11-03 15:09:14 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Exotrail signs launch agreement with Isar Aerospace](https://spacenews.com/exotrail-signs-launch-agreement-with-isar-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T094914">2022-11-03 09:49:14 UTC</a></sub>
 * [SpaceX Falcon 9 rocket completes 50th orbital launch of 2022](https://www.teslarati.com/spacex-falcon-9-rocket-aces-50th-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T074930">2022-11-03 07:49:30 UTC</a></sub>
 * [SpaceX launches second Hotbird satellite for Eutelsat](https://www.nasaspaceflight.com/2022/11/hotbird-13g/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T054922">2022-11-03 05:49:22 UTC</a></sub>
-* [SpaceX teams in Florida prep for second launch in as many days](https://spaceflightnow.com/2022/11/02/spacex-teams-in-florida-prep-for-second-launch-in-as-many-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T220909">2022-11-02 22:09:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T193132">2022-11-03 19:31:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T200318">2022-11-03 20:03:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
