@@ -134,7 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianzhou-5</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T010000">2022-11-12 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-5&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20221112T010000Z%2F20221112T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Artemis I</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T050700">2022-11-14 05:07:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20221114T050700Z%2F20221114T061600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T220000">2022-11-14 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221114T220000Z%2F20221115T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-26</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T214000">2022-11-20 21:40:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221120T214000Z%2F20221120T214000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-26</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T222700">2022-11-18 22:27:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221118T222700Z%2F20221118T222700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Provide Coverage of Preview Briefing, US Spacewalks](http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-preview-briefing-us-spacewalks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T162900">2022-11-03 16:29:00 UTC</a></sub>
 * [FCC proposes new bureau for space activities](https://spacenews.com/fcc-proposes-new-bureau-for-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T150914">2022-11-03 15:09:14 UTC</a></sub>
 * [Rocket from Chinese space station module launch predicted to make uncontrolled reentry Nov. 4](https://spacenews.com/rocket-from-chinese-space-station-module-launch-predicted-to-uncontrolled-reentry-nov-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T134913">2022-11-03 13:49:13 UTC</a></sub>
 * [SpaceX launches Hotbird 3G to extend Eutelsat’s broadcast coverage](https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T132917">2022-11-03 13:29:17 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches second Hotbird satellite for Eutelsat](https://www.nasaspaceflight.com/2022/11/hotbird-13g/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T054922">2022-11-03 05:49:22 UTC</a></sub>
 * [SpaceX teams in Florida prep for second launch in as many days](https://spaceflightnow.com/2022/11/02/spacex-teams-in-florida-prep-for-second-launch-in-as-many-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T220909">2022-11-02 22:09:09 UTC</a></sub>
 * [Virgin Galactic picks suppliers for future spaceplanes](https://spacenews.com/virgin-galactic-picks-suppliers-for-future-spaceplanes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T203913">2022-11-02 20:39:13 UTC</a></sub>
-* [Saltzman takes command as new chief of the U.S. Space Force](https://spacenews.com/saltzman-takes-command-as-new-chief-of-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T182913">2022-11-02 18:29:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Job opening: Director of Government Relations](https://www.planetary.org/careers/job-opening-director-of-government-relations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T160932">2022-11-03 16:09:32 UTC</a></sub>
 * [Europe in Space - A detailed analysis of French launch startup Latitude](https://www.getrevue.co/profile/andrewparsonson/issues/a-detailed-analysis-of-french-launch-startup-latitude-1423796) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T141158">2022-10-31 14:11:58 UTC</a></sub>
 * [Best space pictures of the month: October 2022](https://www.planetary.org/articles/best-space-pictures-october-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T140021">2022-10-31 14:00:21 UTC</a></sub>
 * [RocketStars: LOFTID // James Cusin](https://blog.ulalaunch.com/blog/rocketstars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T145101">2022-10-29 14:51:01 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [LOFTID: ULA former chief scientist instrumental in making mission a reality](https://blog.ulalaunch.com/blog/loftid-ula-former-chief-scientist-instrumental-in-making-mission-a-reality) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T133942">2022-10-27 13:39:42 UTC</a></sub>
 * [Planetary Radio has a new host](https://www.planetary.org/articles/planetary-radio-has-a-new-host) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150028">2022-10-26 15:00:28 UTC</a></sub>
 * [Freelance Audio Editor (Contract)](https://www.planetary.org/freelance-audio-editor-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T130931">2022-10-26 13:09:31 UTC</a></sub>
-* [Your guide to water on Mars](https://www.planetary.org/articles/your-guide-to-water-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T140932">2022-10-25 14:09:32 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T161223">2022-11-03 16:12:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T165512">2022-11-03 16:55:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
