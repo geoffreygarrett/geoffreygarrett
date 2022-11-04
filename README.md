@@ -98,7 +98,7 @@ Long March 3B | ChinaSat 19 at the
 <a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 2 (LC-2)</a> in
 Xichang Satellite Launch Center, People's Republic of China
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T104500">2022-11-05 10:45:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T114000">2022-11-05 11:40:00 UTC</a>. Until
 then, this launch pad will have seen 90
 out of 178 launches in this
 region. The mission's status is currently Go for Launch
@@ -126,7 +126,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>ChinaSat 19</b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T104500">2022-11-05 10:45:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B | ChinaSat 19&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221105T104500Z%2F20221105T112000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>ChinaSat 19</b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T114000">2022-11-05 11:40:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B | ChinaSat 19&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221105T114000Z%2F20221105T121500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Cygnus CRS-2 NG-18 (S.S. Sally Ride)</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T105013">2022-11-06 10:50:13 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)&location=Wallops Island, Virginia, USA&dates=20221106T105013Z%2F20221106T105013Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Galaxy 31 & 32</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T160600">2022-11-08 16:06:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 31 &amp; 32&location=Cape Canaveral, FL, USA&dates=20221108T160600Z%2F20221108T180600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>JPSS 2 (Joint Polar Satellite System spacecraft No. 2)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T092500">2022-11-10 09:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2)&location=Vandenberg SFB, CA, USA&dates=20221110T092500Z%2F20221110T092500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Leaders to Participate in Annual Global Climate Conference](http://www.nasa.gov/press-release/nasa-leaders-to-participate-in-annual-global-climate-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T191900">2022-11-04 19:19:00 UTC</a></sub>
 * [NASA Sets Coverage for Artemis I Moon Mission Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T182900">2022-11-04 18:29:00 UTC</a></sub>
 * [Rocket Lab launches successfully, fails mid-air recovery attempt](https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T151619">2022-11-04 15:16:19 UTC</a></sub>
 * [Virgin Galactic delays development of ship capable of higher flight rate](https://arstechnica.com/science/2022/11/virgin-galactic-delays-development-of-ship-capable-of-higher-flight-rate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T135942">2022-11-04 13:59:42 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Report: SLS boosters may expire in December; Blue Origin delivers the BE-4s](https://arstechnica.com/science/2022/11/rocket-report-sls-boosters-may-expire-in-december-blue-origin-delivers-the-be-4s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T110031">2022-11-04 11:00:31 UTC</a></sub>
 * [SpaceX launches Hotbird 13G to extend Eutelsat’s broadcast coverage](https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T223912">2022-11-03 22:39:12 UTC</a></sub>
 * [NRO to sign deals with commercial providers of hyperspectral imaging](https://spacenews.com/nro-to-sign-deals-with-commercial-providers-of-hyperspectral-imaging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T220913">2022-11-03 22:09:13 UTC</a></sub>
-* [Civilian space traffic management office coming along, but ‘don’t expect magic’](https://spacenews.com/civilian-space-traffic-management-office-coming-along-but-dont-expect-magic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T211913">2022-11-03 21:19:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T190227">2022-11-04 19:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T193120">2022-11-04 19:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
