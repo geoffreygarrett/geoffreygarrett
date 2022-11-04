@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A year in review and a reddish hue](https://www.planetary.org/the-downlink/a-year-in-review-and-a-reddish-hue) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T143932">2022-11-04 14:39:32 UTC</a></sub>
 * [Job opening: Director of Government Relations](https://www.planetary.org/careers/job-opening-director-of-government-relations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T160932">2022-11-03 16:09:32 UTC</a></sub>
 * [Europe in Space - A detailed analysis of French launch startup Latitude](https://www.getrevue.co/profile/andrewparsonson/issues/a-detailed-analysis-of-french-launch-startup-latitude-1423796) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T141158">2022-10-31 14:11:58 UTC</a></sub>
 * [Best space pictures of the month: October 2022](https://www.planetary.org/articles/best-space-pictures-october-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T140021">2022-10-31 14:00:21 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [LOFTID: Demonstrating technology for large inflatable heat shields](https://blog.ulalaunch.com/blog/loftid-demonstrating-technology-for-large-inflatable-heat-shields) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T135941">2022-10-27 13:59:41 UTC</a></sub>
 * [LOFTID: ULA former chief scientist instrumental in making mission a reality](https://blog.ulalaunch.com/blog/loftid-ula-former-chief-scientist-instrumental-in-making-mission-a-reality) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T133942">2022-10-27 13:39:42 UTC</a></sub>
 * [Planetary Radio has a new host](https://www.planetary.org/articles/planetary-radio-has-a-new-host) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150028">2022-10-26 15:00:28 UTC</a></sub>
-* [Freelance Audio Editor (Contract)](https://www.planetary.org/freelance-audio-editor-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T130931">2022-10-26 13:09:31 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T143450">2022-11-04 14:34:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T150526">2022-11-04 15:05:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
