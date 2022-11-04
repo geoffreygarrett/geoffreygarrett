@@ -180,7 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Catch Me If You Can: Rocket Lab to attempt mid-air recovery again](https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T151619">2022-11-04 15:16:19 UTC</a></sub>
+* [NASA Sets Coverage for Artemis I Moon Mission Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T182900">2022-11-04 18:29:00 UTC</a></sub>
+* [Rocket Lab launches successfully, fails mid-air recovery attempt](https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T151619">2022-11-04 15:16:19 UTC</a></sub>
 * [Virgin Galactic delays development of ship capable of higher flight rate](https://arstechnica.com/science/2022/11/virgin-galactic-delays-development-of-ship-capable-of-higher-flight-rate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T135942">2022-11-04 13:59:42 UTC</a></sub>
 * [SLS returns to LC-39B for next Artemis I launch opportunity](https://www.nasaspaceflight.com/2022/11/sls-return-to-lc-39b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T114910">2022-11-04 11:49:10 UTC</a></sub>
 * [Virgin Galactic delays introduction of second suborbital spaceship](https://spacenews.com/virgin-galactic-delays-introduction-of-second-suborbital-spaceship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T113918">2022-11-04 11:39:18 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches Hotbird 13G to extend Eutelsat’s broadcast coverage](https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T223912">2022-11-03 22:39:12 UTC</a></sub>
 * [NRO to sign deals with commercial providers of hyperspectral imaging](https://spacenews.com/nro-to-sign-deals-with-commercial-providers-of-hyperspectral-imaging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T220913">2022-11-03 22:09:13 UTC</a></sub>
 * [Civilian space traffic management office coming along, but ‘don’t expect magic’](https://spacenews.com/civilian-space-traffic-management-office-coming-along-but-dont-expect-magic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T211913">2022-11-03 21:19:13 UTC</a></sub>
-* [First Starliner crewed flight further delayed](https://spacenews.com/first-starliner-crewed-flight-further-delayed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T203916">2022-11-03 20:39:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T180751">2022-11-04 18:07:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T184253">2022-11-04 18:42:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
