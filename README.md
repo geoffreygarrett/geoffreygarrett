@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic delays development of ship capable of higher flight rate](https://arstechnica.com/science/2022/11/virgin-galactic-delays-development-of-ship-capable-of-higher-flight-rate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T135942">2022-11-04 13:59:42 UTC</a></sub>
 * [SLS returns to LC-39B for next Artemis I launch opportunity](https://www.nasaspaceflight.com/2022/11/sls-return-to-lc-39b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T114910">2022-11-04 11:49:10 UTC</a></sub>
 * [Virgin Galactic delays introduction of second suborbital spaceship](https://spacenews.com/virgin-galactic-delays-introduction-of-second-suborbital-spaceship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T113918">2022-11-04 11:39:18 UTC</a></sub>
 * [Long March 5B rocket reenters over Pacific Ocean after forcing airspace closures in Europe](https://spacenews.com/long-march-5b-stage-reenters-over-pacific-ocean-after-forcing-airspace-closures-in-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T110913">2022-11-04 11:09:13 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Civilian space traffic management office coming along, but ‘don’t expect magic’](https://spacenews.com/civilian-space-traffic-management-office-coming-along-but-dont-expect-magic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T211913">2022-11-03 21:19:13 UTC</a></sub>
 * [First Starliner crewed flight further delayed](https://spacenews.com/first-starliner-crewed-flight-further-delayed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T203916">2022-11-03 20:39:16 UTC</a></sub>
 * [NASA to Discuss Psyche Independent Review Board Results](http://www.nasa.gov/press-release/nasa-to-discuss-psyche-independent-review-board-results) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T194900">2022-11-03 19:49:00 UTC</a></sub>
-* [NASA to Provide Coverage of Preview Briefing, US Spacewalks](http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-preview-briefing-us-spacewalks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T162900">2022-11-03 16:29:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T140323">2022-11-04 14:03:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T143450">2022-11-04 14:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
