@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Electron | Catch Me If You Can at the
-<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a> in
-Onenui Station, Mahia Peninsula, New Zealand
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T171500">2022-11-04 17:15:00 UTC</a>. Until
-then, this launch pad will have seen 5
-out of 31 launches in this
+Long March 3B | ChinaSat 19 at the
+<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 2 (LC-2)</a> in
+Xichang Satellite Launch Center, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T104500">2022-11-05 10:45:00 UTC</a>. Until
+then, this launch pad will have seen 90
+out of 178 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  The payload is a science research satellite by space systems provider OHB Sweden for the Swedish National Space Agency (SNSA). The Mesospheric Airglow/Aerosol Tomography and Spectroscopy (MATS) satellite is the basis for the SNSA’s science mission to investigate atmospheric waves and better understand how the upper layer of Earth’s atmosphere interacts with wind and weather patterns closer to the ground. MATS was originally due to fly on a Russian launch service before the mission was manifested on Rocket Lab’s Electron.
+  ChinaSat 19 (Zhongxing 19) is a Chinese high throughput (HTS) Ka-band communications satellite based on the DFH-4E satellite bus for serving China-US air routes.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
+  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Catch Me If You Can</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T171500">2022-11-04 17:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Catch Me If You Can&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20221104T171500Z%2F20221104T183000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>ChinaSat 19</b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T104500">2022-11-05 10:45:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B | ChinaSat 19&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221105T104500Z%2F20221105T112000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Cygnus CRS-2 NG-18 (S.S. Sally Ride)</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T105013">2022-11-06 10:50:13 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)&location=Wallops Island, Virginia, USA&dates=20221106T105013Z%2F20221106T105013Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Galaxy 31 & 32</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T160600">2022-11-08 16:06:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 31 &amp; 32&location=Cape Canaveral, FL, USA&dates=20221108T160600Z%2F20221108T180600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -223,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T171146">2022-11-04 17:11:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T173908">2022-11-04 17:39:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
