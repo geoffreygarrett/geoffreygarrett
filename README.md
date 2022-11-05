@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Penultimate Antares 230+ to launch NG-18 with Antares 330 development underway](https://www.nasaspaceflight.com/2022/11/ng-18-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T204841">2022-11-05 20:48:41 UTC</a></sub>
 * [NASA, USAID Partnership Strengthens Global Development](http://www.nasa.gov/press-release/nasa-usaid-partnership-strengthens-global-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T203900">2022-11-04 20:39:00 UTC</a></sub>
 * [Rocket Lab launches Swedish satellite, fails to catch booster](https://spacenews.com/rocket-lab-launches-swedish-satellite-fails-to-catch-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195913">2022-11-04 19:59:13 UTC</a></sub>
 * [NASA’s Artemis 1 moon rocket back on pad 39B for nighttime launch attempt](https://spaceflightnow.com/2022/11/04/nasas-artemis-1-moon-rocket-back-on-pad-39b-for-nighttime-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195910">2022-11-04 19:59:10 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab launches successfully, fails mid-air recovery attempt](https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T151619">2022-11-04 15:16:19 UTC</a></sub>
 * [Virgin Galactic delays development of ship capable of higher flight rate](https://arstechnica.com/science/2022/11/virgin-galactic-delays-development-of-ship-capable-of-higher-flight-rate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T135942">2022-11-04 13:59:42 UTC</a></sub>
 * [SLS returns to LC-39B for next Artemis I launch opportunity](https://www.nasaspaceflight.com/2022/11/sls-return-to-lc-39b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T114910">2022-11-04 11:49:10 UTC</a></sub>
-* [Virgin Galactic delays introduction of second suborbital spaceship](https://spacenews.com/virgin-galactic-delays-introduction-of-second-suborbital-spaceship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T113918">2022-11-04 11:39:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T203757">2022-11-05 20:37:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T210252">2022-11-05 21:02:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
