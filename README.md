@@ -182,6 +182,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [NASA, USAID Partnership Strengthens Global Development](http://www.nasa.gov/press-release/nasa-usaid-partnership-strengthens-global-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T203900">2022-11-04 20:39:00 UTC</a></sub>
 * [Rocket Lab launches Swedish satellite, fails to catch booster](https://spacenews.com/rocket-lab-launches-swedish-satellite-fails-to-catch-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195913">2022-11-04 19:59:13 UTC</a></sub>
+* [NASA’s Artemis 1 moon rocket back on pad 39B for nighttime launch attempt](https://spaceflightnow.com/2022/11/04/nasas-artemis-1-moon-rocket-back-on-pad-39b-for-nighttime-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195910">2022-11-04 19:59:10 UTC</a></sub>
 * [As Psyche Mission Moves Forward, NASA Responds to Independent Review](http://www.nasa.gov/press-release/as-psyche-mission-moves-forward-nasa-responds-to-independent-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195900">2022-11-04 19:59:00 UTC</a></sub>
 * [NASA Leaders to Participate in Annual Global Climate Conference](http://www.nasa.gov/press-release/nasa-leaders-to-participate-in-annual-global-climate-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T191900">2022-11-04 19:19:00 UTC</a></sub>
 * [NASA Sets Coverage for Artemis I Moon Mission Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T182900">2022-11-04 18:29:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Virgin Galactic delays development of ship capable of higher flight rate](https://arstechnica.com/science/2022/11/virgin-galactic-delays-development-of-ship-capable-of-higher-flight-rate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T135942">2022-11-04 13:59:42 UTC</a></sub>
 * [SLS returns to LC-39B for next Artemis I launch opportunity](https://www.nasaspaceflight.com/2022/11/sls-return-to-lc-39b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T114910">2022-11-04 11:49:10 UTC</a></sub>
 * [Virgin Galactic delays introduction of second suborbital spaceship](https://spacenews.com/virgin-galactic-delays-introduction-of-second-suborbital-spaceship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T113918">2022-11-04 11:39:18 UTC</a></sub>
-* [Long March 5B rocket reenters over Pacific Ocean after forcing airspace closures in Europe](https://spacenews.com/long-march-5b-stage-reenters-over-pacific-ocean-after-forcing-airspace-closures-in-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T110913">2022-11-04 11:09:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T193107">2022-11-05 19:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T200814">2022-11-05 20:08:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
