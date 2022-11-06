@@ -183,13 +183,13 @@ region. The mission's status is currently Go for Launch
 * [German team wins $5 million ANA Avatar XPrize in space-themed competition](https://spacenews.com/ana-avatar-xprize/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T231913">2022-11-05 23:19:13 UTC</a></sub>
 * [Psyche review finds institutional problems at JPL](https://spacenews.com/psyche-review-finds-institutional-problems-at-jpl/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T215915">2022-11-05 21:59:15 UTC</a></sub>
 * [Penultimate Antares 230+ to launch NG-18 with Antares 330 development underway](https://www.nasaspaceflight.com/2022/11/ng-18-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T204841">2022-11-05 20:48:41 UTC</a></sub>
+* [Northrop Grumman ready for space station resupply mission](https://spaceflightnow.com/2022/11/05/northrop-grumman-ready-for-space-station-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T062912">2022-11-05 06:29:12 UTC</a></sub>
 * [NASA, USAID Partnership Strengthens Global Development](http://www.nasa.gov/press-release/nasa-usaid-partnership-strengthens-global-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T203900">2022-11-04 20:39:00 UTC</a></sub>
 * [Rocket Lab launches Swedish satellite, fails to catch booster](https://spacenews.com/rocket-lab-launches-swedish-satellite-fails-to-catch-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195913">2022-11-04 19:59:13 UTC</a></sub>
 * [NASA’s Artemis 1 moon rocket back on pad 39B for nighttime launch attempt](https://spaceflightnow.com/2022/11/04/nasas-artemis-1-moon-rocket-back-on-pad-39b-for-nighttime-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195910">2022-11-04 19:59:10 UTC</a></sub>
 * [As Psyche Mission Moves Forward, NASA Responds to Independent Review](http://www.nasa.gov/press-release/as-psyche-mission-moves-forward-nasa-responds-to-independent-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195900">2022-11-04 19:59:00 UTC</a></sub>
 * [NASA Leaders to Participate in Annual Global Climate Conference](http://www.nasa.gov/press-release/nasa-leaders-to-participate-in-annual-global-climate-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T191900">2022-11-04 19:19:00 UTC</a></sub>
 * [NASA Sets Coverage for Artemis I Moon Mission Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T182900">2022-11-04 18:29:00 UTC</a></sub>
-* [Rocket Lab launches successfully, fails mid-air recovery attempt](https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T151619">2022-11-04 15:16:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T060749">2022-11-06 06:07:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T064158">2022-11-06 06:41:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
