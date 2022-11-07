@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Safran buys Syrlinks space-based radio frequency business](https://spacenews.com/safran-buys-syrlinks-space-based-radio-frequency-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T225913">2022-11-07 22:59:13 UTC</a></sub>
+* [NASA Updates Coverage of JPSS-2 Weather Satellite, LOFTID Tech Demo](http://www.nasa.gov/press-release/nasa-updates-coverage-of-jpss-2-weather-satellite-loftid-tech-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T224900">2022-11-07 22:49:00 UTC</a></sub>
 * [11 Starlink dishes spotted on a Norwegian Breakaway cruise](https://www.teslarati.com/11-starlink-dishes-norwegian-cruise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T205940">2022-11-07 20:59:40 UTC</a></sub>
 * [Intelsat orders small GEO satellite from 3D printing specialist](https://spacenews.com/intelsat-orders-small-geo-satellite-from-3d-printing-specialist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T203915">2022-11-07 20:39:15 UTC</a></sub>
 * [Cygnus cargo ship launches to space station, deploys one of two solar arrays](https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T202914">2022-11-07 20:29:14 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force official: We need the Commerce Department’s space traffic office to be successful](https://spacenews.com/space-force-official-we-need-the-commerce-departments-space-traffic-office-to-be-successful/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T192915">2022-11-07 19:29:15 UTC</a></sub>
 * [NASA Administrator Names Glenn Research Center Director](http://www.nasa.gov/press-release/nasa-administrator-names-glenn-research-center-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T173900">2022-11-07 17:39:00 UTC</a></sub>
 * [Antares launches Cygnus cargo mission to ISS](https://spacenews.com/antares-launches-cygnus-cargo-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T111914">2022-11-07 11:19:14 UTC</a></sub>
-* [Maxar acquires another tech company as it pursues growth in gaming and media](https://spacenews.com/maxar-acquires-another-tech-company-as-it-pursues-growth-in-gaming-and-media/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T080915">2022-11-07 08:09:15 UTC</a></sub>
-* [SS Sally Ride Cygnus launches to ISS on NG-18 mission](https://www.nasaspaceflight.com/2022/11/ng-18-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T074841">2022-11-07 07:48:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T230100">2022-11-07 23:01:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T233535">2022-11-07 23:35:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
