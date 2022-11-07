@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride) at the
-<a href="">Launch Area 0 A</a> in
-Wallops Island, Virginia, USA
+Falcon 9 Block 5 | Galaxy 31 & 32 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T102700">2022-11-07 10:27:00 UTC</a>. Until
-then, this launch pad will have seen 17
-out of 72 launches in this
-region. The mission's status is currently Go for Launch
-(Go) 🟩  which means:
-*current T-0 confirmed by official or reliable sources.* 
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T160600">2022-11-08 16:06:00 UTC</a>. Until
+then, this launch pad will have seen 158
+out of 863 launches in this
+region. The mission's status is currently To Be Confirmed
+(TBC) 🟨  which means:
+*awaiting official confirmation - current date is known with some certainty.* 
 <br>
 <blockquote>
-  This is the 18th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 17th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
+  Galaxy 31, 32 are two geostationary communications satellites manufactured by Maxar and operated by Intelsat.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Antares_(rocket)#Antares_200" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=37.8337+N,+75.4881+W" >
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Cygnus CRS-2 NG-18 (S.S. Sally Ride)</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T102700">2022-11-07 10:27:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)&location=Wallops Island, Virginia, USA&dates=20221107T102700Z%2F20221107T103200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Galaxy 31 & 32</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T160600">2022-11-08 16:06:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 31 &amp; 32&location=Cape Canaveral, FL, USA&dates=20221108T160600Z%2F20221108T180600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>JPSS 2 (Joint Polar Satellite System spacecraft No. 2)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T092500">2022-11-10 09:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2)&location=Vandenberg SFB, CA, USA&dates=20221110T092500Z%2F20221110T092500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianzhou-5</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T010000">2022-11-12 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-5&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20221112T010000Z%2F20221112T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -223,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T100703">2022-11-07 10:07:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T104320">2022-11-07 10:43:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
