@@ -200,6 +200,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Europe in Space - Mysterious beginnings of MaiaSpace: Part 2](https://www.getrevue.co/profile/andrewparsonson/issues/mysterious-beginnings-of-maiaspace-part-2-1434750) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T143017">2022-11-07 14:30:17 UTC</a></sub>
 * [A year in review and a reddish hue](https://www.planetary.org/the-downlink/a-year-in-review-and-a-reddish-hue) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T143932">2022-11-04 14:39:32 UTC</a></sub>
 * [Job opening: Director of Government Relations](https://www.planetary.org/careers/job-opening-director-of-government-relations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T160932">2022-11-03 16:09:32 UTC</a></sub>
 * [Europe in Space - A detailed analysis of French launch startup Latitude](https://www.getrevue.co/profile/andrewparsonson/issues/a-detailed-analysis-of-french-launch-startup-latitude-1423796) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T141158">2022-10-31 14:11:58 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently To Be Confirmed
 * [Digital Community Manager (6-month temporary position)](https://www.planetary.org/digital-community-manager-6-month-temporary-position) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T183933">2022-10-27 18:39:33 UTC</a></sub>
 * [LOFTID: Demonstrating technology for large inflatable heat shields](https://blog.ulalaunch.com/blog/loftid-demonstrating-technology-for-large-inflatable-heat-shields) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T135941">2022-10-27 13:59:41 UTC</a></sub>
 * [LOFTID: ULA former chief scientist instrumental in making mission a reality](https://blog.ulalaunch.com/blog/loftid-ula-former-chief-scientist-instrumental-in-making-mission-a-reality) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T133942">2022-10-27 13:39:42 UTC</a></sub>
-* [Planetary Radio has a new host](https://www.planetary.org/articles/planetary-radio-has-a-new-host) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150028">2022-10-26 15:00:28 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T141740">2022-11-07 14:17:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T143837">2022-11-07 14:38:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
