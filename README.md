@@ -184,12 +184,12 @@ region. The mission's status is currently To Be Confirmed
 * [Antares launches Cygnus cargo mission to ISS](https://spacenews.com/antares-launches-cygnus-cargo-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T111914">2022-11-07 11:19:14 UTC</a></sub>
 * [Maxar acquires another tech company as it pursues growth in gaming and media](https://spacenews.com/maxar-acquires-another-tech-company-as-it-pursues-growth-in-gaming-and-media/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T080915">2022-11-07 08:09:15 UTC</a></sub>
 * [SS Sally Ride Cygnus launches to ISS on NG-18 mission](https://www.nasaspaceflight.com/2022/11/ng-18-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T074841">2022-11-07 07:48:41 UTC</a></sub>
+* [China launches high-power Ka-band communications satellite](https://spaceflightnow.com/2022/11/06/china-launches-high-power-ka-band-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T125909">2022-11-06 12:59:09 UTC</a></sub>
+* [First Starliner crew flight slips to April 2023](https://spaceflightnow.com/2022/11/06/first-starliner-crew-flight-slips-to-april-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T121910">2022-11-06 12:19:10 UTC</a></sub>
 * [Space Force lays out timeline for 2023 rapid-response launch experiment](https://spacenews.com/space-force-lays-out-timeline-for-2023-rapid-response-launch-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T104913">2022-11-06 10:49:13 UTC</a></sub>
 * [SpaceX ships Starship’s 200th upgraded Raptor engine](https://www.teslarati.com/spacex-starship-200th-upgraded-raptor-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T020930">2022-11-06 02:09:30 UTC</a></sub>
 * [German team wins $5 million ANA Avatar XPrize in space-themed competition](https://spacenews.com/ana-avatar-xprize/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T231913">2022-11-05 23:19:13 UTC</a></sub>
 * [Psyche review finds institutional problems at JPL](https://spacenews.com/psyche-review-finds-institutional-problems-at-jpl/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T215915">2022-11-05 21:59:15 UTC</a></sub>
-* [Northrop Grumman ready for space station resupply mission](https://spaceflightnow.com/2022/11/05/northrop-grumman-ready-for-space-station-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T062912">2022-11-05 06:29:12 UTC</a></sub>
-* [NASA, USAID Partnership Strengthens Global Development](http://www.nasa.gov/press-release/nasa-usaid-partnership-strengthens-global-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T203900">2022-11-04 20:39:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T121309">2022-11-07 12:13:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T130851">2022-11-07 13:08:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
