@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [RFA reveals second stage and updates test path to 2023 launch](https://www.nasaspaceflight.com/2022/11/rfa-second-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T173151">2022-11-08 17:31:51 UTC</a></sub>
 * [Cognitive Space gets $1.2 million  U.S. Air Force contract extension for satellite-tasking software](https://spacenews.com/cognitive-space-gets-1-2-million-u-s-air-force-contract-extension-for-satellite-tasking-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150914">2022-11-08 15:09:14 UTC</a></sub>
 * [NASA will leave its $4.1 billion rocket outside as Nicole approaches Florida](https://arstechnica.com/science/2022/11/nasa-will-leave-its-4-1-billion-rocket-outside-as-nicole-approaches-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T134420">2022-11-08 13:44:20 UTC</a></sub>
 * [Virgin Orbit says U.K launch licensing taking longer than expected](https://spacenews.com/virgin-orbit-says-u-k-launch-licensing-taking-longer-than-expected/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T125912">2022-11-08 12:59:12 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Intelsat orders small GEO satellite from 3D printing specialist](https://spacenews.com/intelsat-orders-small-geo-satellite-from-3d-printing-specialist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T203915">2022-11-07 20:39:15 UTC</a></sub>
 * [Cygnus cargo ship launches to space station, deploys one of two solar arrays](https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T202914">2022-11-07 20:29:14 UTC</a></sub>
 * [Subtropical Storm Nicole delays SpaceX launch; Artemis 1 rocket stays on pad](https://spaceflightnow.com/2022/11/07/subtropical-storm-nicole-delays-spacex-launch-artemis-1-moon-rocket-stays-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T201911">2022-11-07 20:19:11 UTC</a></sub>
-* [Inmarsat wins $410 million U.S. Army contract to connect tracking devices](https://spacenews.com/inmarsat-wins-410-million-u-s-army-contract-to-connect-tracking-devices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T195916">2022-11-07 19:59:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T180102">2022-11-08 18:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T184105">2022-11-08 18:41:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
