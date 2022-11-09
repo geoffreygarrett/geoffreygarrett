@@ -181,7 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [HawkEye 360 delivers satellites for Rocket Lab’s first launch from U.S. soil](https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T211913">2022-11-09 21:19:13 UTC</a></sub>
+* [HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil](https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T222913">2022-11-09 22:29:13 UTC</a></sub>
+* [Rocket Lab wins $14 million in contracts to supply hardware for U.S. military satellites](https://spacenews.com/rocket-lab-wins-14-million-in-contracts-to-supply-hardware-for-u-s-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T222913">2022-11-09 22:29:13 UTC</a></sub>
 * [NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm](https://mars.nasa.gov/news/9299/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T205900">2022-11-09 20:59:00 UTC</a></sub>
 * [Atlas launch to test inflatable heat shield](https://spacenews.com/atlas-launch-to-test-inflatable-heat-shield/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T203913">2022-11-09 20:39:13 UTC</a></sub>
 * [China ditches expendable rocket plan for its Moon program](https://arstechnica.com/science/2022/11/china-is-scrapping-plans-for-an-sls-like-rocket-in-favor-of-reusable-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T191658">2022-11-09 19:16:58 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Astra lays off 16% to focus on spacecraft thrusters and new rocket](https://spacenews.com/astra-lays-off-16-to-focus-on-spacecraft-thrusters-and-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T122914">2022-11-09 12:29:14 UTC</a></sub>
 * [Cygnus cargo ship arrive at space station after solar array trouble](https://spaceflightnow.com/2022/11/09/cygnus-cargo-ship-arrive-at-space-station-after-solar-array-trouble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T113909">2022-11-09 11:39:09 UTC</a></sub>
 * [Telesat buys in-orbit satellite to help cover Anik F2 shortfall](https://spacenews.com/telesat-buys-in-orbit-satellite-to-help-cover-anik-f2-shortfall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T204915">2022-11-08 20:49:15 UTC</a></sub>
-* [DARPA’s robot could start servicing satellites in 2025](https://spacenews.com/darpas-robot-could-start-servicing-satellites-in-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T201914">2022-11-08 20:19:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T220047">2022-11-09 22:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T223425">2022-11-09 22:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
