@@ -181,7 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [China is scrapping plans for an SLS-like rocket in favor of reusable booster](https://arstechnica.com/science/2022/11/china-is-scrapping-plans-for-an-sls-like-rocket-in-favor-of-reusable-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T191658">2022-11-09 19:16:58 UTC</a></sub>
+* [China ditches expendable rocket plan for its Moon program](https://arstechnica.com/science/2022/11/china-is-scrapping-plans-for-an-sls-like-rocket-in-favor-of-reusable-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T191658">2022-11-09 19:16:58 UTC</a></sub>
 * [China scraps expendable Long March 9 rocket plan in favor of reusable version](https://spacenews.com/china-scraps-expendable-long-march-9-rocket-plan-in-favor-of-reusable-version/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T152914">2022-11-09 15:29:14 UTC</a></sub>
 * [Cygnus arrives at space station despite solar array problem](https://spacenews.com/cygnus-arrives-at-space-station-despite-solar-array-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T132916">2022-11-09 13:29:16 UTC</a></sub>
 * [Astra lays off 16% to focus on spacecraft thrusters and new rocket](https://spacenews.com/astra-lays-off-16-to-focus-on-spacecraft-thrusters-and-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T122914">2022-11-09 12:29:14 UTC</a></sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T193046">2022-11-09 19:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T200100">2022-11-09 20:01:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
