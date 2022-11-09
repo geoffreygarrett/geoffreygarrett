@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Cygnus arrives at space station despite solar array problem](https://spacenews.com/cygnus-arrives-at-space-station-despite-solar-array-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T132916">2022-11-09 13:29:16 UTC</a></sub>
 * [Astra lays off 16% to focus on spacecraft thrusters and new rocket](https://spacenews.com/astra-lays-off-16-to-focus-on-spacecraft-thrusters-and-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T122914">2022-11-09 12:29:14 UTC</a></sub>
 * [Cygnus cargo ship arrive at space station after solar array trouble](https://spaceflightnow.com/2022/11/09/cygnus-cargo-ship-arrive-at-space-station-after-solar-array-trouble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T113909">2022-11-09 11:39:09 UTC</a></sub>
 * [Telesat buys in-orbit satellite to help cover Anik F2 shortfall](https://spacenews.com/telesat-buys-in-orbit-satellite-to-help-cover-anik-f2-shortfall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T204915">2022-11-08 20:49:15 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Cognitive Space gets $1.2 million  U.S. Air Force contract extension for satellite-tasking software](https://spacenews.com/cognitive-space-gets-1-2-million-u-s-air-force-contract-extension-for-satellite-tasking-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150914">2022-11-08 15:09:14 UTC</a></sub>
 * [NASA will leave its $4.1 billion rocket outside as Nicole approaches Florida](https://arstechnica.com/science/2022/11/nasa-will-leave-its-4-1-billion-rocket-outside-as-nicole-approaches-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T134420">2022-11-08 13:44:20 UTC</a></sub>
 * [Virgin Orbit says U.K launch licensing taking longer than expected](https://spacenews.com/virgin-orbit-says-u-k-launch-licensing-taking-longer-than-expected/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T125912">2022-11-08 12:59:12 UTC</a></sub>
-* [First launch of NASA’s Artemis moon rocket slips to Nov. 16](https://spaceflightnow.com/2022/11/08/first-launch-of-nasas-artemis-moon-rocket-slips-to-nov-16/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T033909">2022-11-08 03:39:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T134420">2022-11-09 13:44:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T140521">2022-11-09 14:05:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
