@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra lays off 16% to focus on spacecraft thrusters and new rocket](https://spacenews.com/astra-lays-off-16-to-focus-on-spacecraft-thrusters-and-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T122914">2022-11-09 12:29:14 UTC</a></sub>
+* [Cygnus cargo ship arrive at space station after solar array trouble](https://spaceflightnow.com/2022/11/09/cygnus-cargo-ship-arrive-at-space-station-after-solar-array-trouble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T113909">2022-11-09 11:39:09 UTC</a></sub>
 * [Telesat buys in-orbit satellite to help cover Anik F2 shortfall](https://spacenews.com/telesat-buys-in-orbit-satellite-to-help-cover-anik-f2-shortfall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T204915">2022-11-08 20:49:15 UTC</a></sub>
 * [DARPA’s robot could start servicing satellites in 2025](https://spacenews.com/darpas-robot-could-start-servicing-satellites-in-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T201914">2022-11-08 20:19:14 UTC</a></sub>
 * [Canopy Aerospace to supply thermal protection for spacecraft and hypersonics](https://spacenews.com/introducing-canopy-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T195913">2022-11-08 19:59:13 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA will leave its $4.1 billion rocket outside as Nicole approaches Florida](https://arstechnica.com/science/2022/11/nasa-will-leave-its-4-1-billion-rocket-outside-as-nicole-approaches-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T134420">2022-11-08 13:44:20 UTC</a></sub>
 * [Virgin Orbit says U.K launch licensing taking longer than expected](https://spacenews.com/virgin-orbit-says-u-k-launch-licensing-taking-longer-than-expected/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T125912">2022-11-08 12:59:12 UTC</a></sub>
 * [First launch of NASA’s Artemis moon rocket slips to Nov. 16](https://spaceflightnow.com/2022/11/08/first-launch-of-nasas-artemis-moon-rocket-slips-to-nov-16/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T033909">2022-11-08 03:39:09 UTC</a></sub>
-* [ViaSat-3’s Falcon Heavy launch slips into early 2023](https://spacenews.com/viasat-3s-falcon-heavy-launch-slips-into-early-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T022915">2022-11-08 02:29:15 UTC</a></sub>
-* [SpaceX, NASA batten down the hatches as another storm approaches Florida](https://www.teslarati.com/spacex-nasa-prepare-for-storm-nicole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T003952">2022-11-08 00:39:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T120106">2022-11-09 12:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T124314">2022-11-09 12:43:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
