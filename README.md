@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [RocketStars: LOFTID // Sarah Miller](https://blog.ulalaunch.com/blog/rocketstars-loftid-/-sarah-miller) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T142937">2022-11-09 14:29:37 UTC</a></sub>
 * [VOICE: Will this Chinese candidate mission to Venus fly?](https://www.planetary.org/articles/voice-chinese-candidate-mission-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150928">2022-11-08 15:09:28 UTC</a></sub>
 * [Europe in Space - Mysterious beginnings of MaiaSpace: Part 2](https://www.getrevue.co/profile/andrewparsonson/issues/mysterious-beginnings-of-maiaspace-part-2-1434750) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T143017">2022-11-07 14:30:17 UTC</a></sub>
 * [A year in review and a reddish hue](https://www.planetary.org/the-downlink/a-year-in-review-and-a-reddish-hue) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T143932">2022-11-04 14:39:32 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [RocketStars: LOFTID // James Cusin](https://blog.ulalaunch.com/blog/rocketstars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T145101">2022-10-29 14:51:01 UTC</a></sub>
 * [Creepy Cosmos! Scary space! Petrifying planets!](https://www.planetary.org/the-downlink/creepy-cosmos-scary-space-petrifying-planets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T143930">2022-10-28 14:39:30 UTC</a></sub>
 * [Digital Community Manager (6-month temporary position)](https://www.planetary.org/digital-community-manager-6-month-temporary-position) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T183933">2022-10-27 18:39:33 UTC</a></sub>
-* [LOFTID: Demonstrating technology for large inflatable heat shields](https://blog.ulalaunch.com/blog/loftid-demonstrating-technology-for-large-inflatable-heat-shields) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T135941">2022-10-27 13:59:41 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T140521">2022-11-09 14:05:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T143524">2022-11-09 14:35:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
