@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Atlas 5 launches weather satellite, reentry tech demo mission](https://spacenews.com/atlas-5-launches-weather-satellite-reentry-tech-demo-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T113913">2022-11-10 11:39:13 UTC</a></sub>
 * [Atlas rocket bids farewell to California as ULA readies for Vulcan](https://www.nasaspaceflight.com/2022/11/jpss-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T002949">2022-11-10 00:29:49 UTC</a></sub>
 * [HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil](https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T222913">2022-11-09 22:29:13 UTC</a></sub>
 * [Rocket Lab wins $14 million in contracts to supply hardware for U.S. military satellites](https://spacenews.com/rocket-lab-wins-14-million-in-contracts-to-supply-hardware-for-u-s-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T222913">2022-11-09 22:29:13 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [China scraps expendable Long March 9 rocket plan in favor of reusable version](https://spacenews.com/china-scraps-expendable-long-march-9-rocket-plan-in-favor-of-reusable-version/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T152914">2022-11-09 15:29:14 UTC</a></sub>
 * [Cygnus arrives at space station despite solar array problem](https://spacenews.com/cygnus-arrives-at-space-station-despite-solar-array-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T132916">2022-11-09 13:29:16 UTC</a></sub>
 * [Astra lays off 16% to focus on spacecraft thrusters and new rocket](https://spacenews.com/astra-lays-off-16-to-focus-on-spacecraft-thrusters-and-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T122914">2022-11-09 12:29:14 UTC</a></sub>
-* [Cygnus cargo ship arrive at space station after solar array trouble](https://spaceflightnow.com/2022/11/09/cygnus-cargo-ship-arrive-at-space-station-after-solar-array-trouble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T113909">2022-11-09 11:39:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [JPSS-2 / LOFTID: Atlas V successfully launches for NASA and NOAA](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T122939">2022-11-10 12:29:39 UTC</a></sub>
 * [RocketStars: LOFTID // Sarah Miller](https://blog.ulalaunch.com/blog/rocketstars-loftid-/-sarah-miller) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T142937">2022-11-09 14:29:37 UTC</a></sub>
 * [VOICE: Will this Chinese candidate mission to Venus fly?](https://www.planetary.org/articles/voice-chinese-candidate-mission-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150928">2022-11-08 15:09:28 UTC</a></sub>
 * [Europe in Space - Mysterious beginnings of MaiaSpace: Part 2](https://www.getrevue.co/profile/andrewparsonson/issues/mysterious-beginnings-of-maiaspace-part-2-1434750) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T143017">2022-11-07 14:30:17 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [Best space pictures of the month: October 2022](https://www.planetary.org/articles/best-space-pictures-october-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T140021">2022-10-31 14:00:21 UTC</a></sub>
 * [RocketStars: LOFTID // James Cusin](https://blog.ulalaunch.com/blog/rocketstars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T145101">2022-10-29 14:51:01 UTC</a></sub>
 * [Creepy Cosmos! Scary space! Petrifying planets!](https://www.planetary.org/the-downlink/creepy-cosmos-scary-space-petrifying-planets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T143930">2022-10-28 14:39:30 UTC</a></sub>
-* [Digital Community Manager (6-month temporary position)](https://www.planetary.org/digital-community-manager-6-month-temporary-position) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T183933">2022-10-27 18:39:33 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T120110">2022-11-10 12:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T124301">2022-11-10 12:43:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
