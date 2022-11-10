@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to continue Lunar Trailblazer despite cost overrun](https://spacenews.com/nasa-to-continue-lunar-trailblazer-despite-cost-overrun/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T130913">2022-11-10 13:09:13 UTC</a></sub>
 * [Atlas 5 launches weather satellite, reentry tech demo mission](https://spacenews.com/atlas-5-launches-weather-satellite-reentry-tech-demo-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T113913">2022-11-10 11:39:13 UTC</a></sub>
 * [Atlas rocket bids farewell to California as ULA readies for Vulcan](https://www.nasaspaceflight.com/2022/11/jpss-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T002949">2022-11-10 00:29:49 UTC</a></sub>
 * [HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil](https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T222913">2022-11-09 22:29:13 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [China ditches expendable rocket plan for its Moon program](https://arstechnica.com/science/2022/11/china-is-scrapping-plans-for-an-sls-like-rocket-in-favor-of-reusable-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T191658">2022-11-09 19:16:58 UTC</a></sub>
 * [China scraps expendable Long March 9 rocket plan in favor of reusable version](https://spacenews.com/china-scraps-expendable-long-march-9-rocket-plan-in-favor-of-reusable-version/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T152914">2022-11-09 15:29:14 UTC</a></sub>
 * [Cygnus arrives at space station despite solar array problem](https://spacenews.com/cygnus-arrives-at-space-station-despite-solar-array-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T132916">2022-11-09 13:29:16 UTC</a></sub>
-* [Astra lays off 16% to focus on spacecraft thrusters and new rocket](https://spacenews.com/astra-lays-off-16-to-focus-on-spacecraft-thrusters-and-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T122914">2022-11-09 12:29:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T124301">2022-11-10 12:43:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T131459">2022-11-10 13:14:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
