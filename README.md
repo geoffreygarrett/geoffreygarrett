@@ -180,6 +180,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Apple lays the groundwork for emergency SOS via satellite service](https://spacenews.com/apple-lays-the-groundwork-for-emergency-sos-via-satellite-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T212913">2022-11-10 21:29:13 UTC</a></sub>
+* [Starlink launches donation website](https://www.teslarati.com/starlink-donation-website/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T211931">2022-11-10 21:19:31 UTC</a></sub>
+* [Pioneering Astronaut Bob Behnken Retires from NASA](http://www.nasa.gov/press-release/pioneering-astronaut-bob-behnken-retires-from-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T204900">2022-11-10 20:49:00 UTC</a></sub>
 * [NASA to Brief Media on First Earth Water-Monitoring Satellite Mission](http://www.nasa.gov/press-release/nasa-to-brief-media-on-first-earth-water-monitoring-satellite-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T195900">2022-11-10 19:59:00 UTC</a></sub>
 * [Antenna developer NXT Comm’s assets up for sale](https://spacenews.com/antenna-developer-nxt-comms-assets-up-for-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T160913">2022-11-10 16:09:13 UTC</a></sub>
 * [NASA leaves its Artemis I rocket exposed to winds above design limits](https://arstechnica.com/science/2022/11/nasas-artemis-i-rocket-just-endured-hours-of-hurricane-like-wind-gusts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T151038">2022-11-10 15:10:38 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Atlas 5 launches weather satellite, reentry tech demo mission](https://spacenews.com/atlas-5-launches-weather-satellite-reentry-tech-demo-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T113913">2022-11-10 11:39:13 UTC</a></sub>
 * [Atlas rocket bids farewell to California as ULA readies for Vulcan](https://www.nasaspaceflight.com/2022/11/jpss-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T002949">2022-11-10 00:29:49 UTC</a></sub>
 * [Rocket Lab wins $14 million in contracts to supply hardware for U.S. military satellites](https://spacenews.com/rocket-lab-wins-14-million-in-contracts-to-supply-hardware-for-u-s-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T222913">2022-11-09 22:29:13 UTC</a></sub>
-* [HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil](https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T222913">2022-11-09 22:29:13 UTC</a></sub>
-* [NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm](https://mars.nasa.gov/news/9299/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T205900">2022-11-09 20:59:00 UTC</a></sub>
-* [Atlas launch to test inflatable heat shield](https://spacenews.com/atlas-launch-to-test-inflatable-heat-shield/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T203913">2022-11-09 20:39:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T210049">2022-11-10 21:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T213313">2022-11-10 21:33:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
