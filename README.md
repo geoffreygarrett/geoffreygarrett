@@ -134,7 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Artemis I</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T060400">2022-11-16 06:04:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20221116T060400Z%2F20221116T080400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Jilin-1 High Resolution 03D-08, 51 to 54</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T061100">2022-11-16 06:11:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54&location=Jiuquan, People&#x27;s Republic of China&dates=20221116T061100Z%2F20221116T065800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Eutelsat 10B</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T233300">2022-11-17 23:33:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 10B&location=Cape Canaveral, FL, USA&dates=20221117T233300Z%2F20221117T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
-* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-26</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T000000">2022-11-21 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221121T000000Z%2F20221121T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-26</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T211500">2022-11-21 21:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221121T211500Z%2F20221121T211500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Advanced Space wins $72 million Air Force contract for lunar experiment](https://spacenews.com/advanced-space-wins-72-million-air-force-contract-for-lunar-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T224915">2022-11-10 22:49:15 UTC</a></sub>
 * [Space Development Agency still hoping to launch satellites next month, ‘but there’s risk’](https://spacenews.com/space-development-agency-still-hoping-to-launch-satellites-next-month-but-theres-risk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T220914">2022-11-10 22:09:14 UTC</a></sub>
 * [Apple lays the groundwork for emergency SOS via satellite service](https://spacenews.com/apple-lays-the-groundwork-for-emergency-sos-via-satellite-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T212913">2022-11-10 21:29:13 UTC</a></sub>
 * [Starlink launches donation website](https://www.teslarati.com/starlink-donation-website/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T211931">2022-11-10 21:19:31 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA leaves its Artemis I rocket exposed to winds above design limits](https://arstechnica.com/science/2022/11/nasas-artemis-i-rocket-just-endured-hours-of-hurricane-like-wind-gusts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T151038">2022-11-10 15:10:38 UTC</a></sub>
 * [NASA to continue Lunar Trailblazer despite cost overrun](https://spacenews.com/nasa-to-continue-lunar-trailblazer-despite-cost-overrun/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T130913">2022-11-10 13:09:13 UTC</a></sub>
 * [Atlas 5 launches weather satellite, reentry tech demo mission](https://spacenews.com/atlas-5-launches-weather-satellite-reentry-tech-demo-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T113913">2022-11-10 11:39:13 UTC</a></sub>
-* [Atlas rocket bids farewell to California as ULA readies for Vulcan](https://www.nasaspaceflight.com/2022/11/jpss-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T002949">2022-11-10 00:29:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T230054">2022-11-10 23:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T233423">2022-11-10 23:34:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
