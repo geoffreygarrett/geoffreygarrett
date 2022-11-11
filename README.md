@@ -181,6 +181,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SES, Hughes demonstrate satellite internet on General Atomics surveillance drone](https://spacenews.com/ses-hughes-demonstrate-satellite-internet-on-general-atomics-surveillance-drone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T172659">2022-11-11 17:26:59 UTC</a></sub>
+* [NASA to Brief Status of Artemis I Moon Mission Today](http://www.nasa.gov/press-release/nasa-to-brief-status-of-artemis-i-moon-mission-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T165700">2022-11-11 16:57:00 UTC</a></sub>
+* [Expedition 68 completes first full month with new crew and cargo](https://www.nasaspaceflight.com/2022/11/expedition-68-first-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T165519">2022-11-11 16:55:19 UTC</a></sub>
 * [JPSS-2 deploys solar array after delay](https://spacenews.com/jpss-2-deploys-solar-array-after-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T130657">2022-11-11 13:06:57 UTC</a></sub>
 * [China wants to ramp up the launch rate of its Long March 5B rocket](https://spacenews.com/china-wants-to-ramp-up-the-launch-rate-of-its-long-march-5b-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T124657">2022-11-11 12:46:57 UTC</a></sub>
 * [NASA investigating “very minor” Artemis hurricane damage](https://spacenews.com/nasa-investigating-very-minor-artemis-hurricane-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T121700">2022-11-11 12:17:00 UTC</a></sub>
@@ -188,9 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Advanced Space wins $72 million Air Force contract for lunar experiment](https://spacenews.com/advanced-space-wins-72-million-air-force-contract-for-lunar-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T224915">2022-11-10 22:49:15 UTC</a></sub>
 * [Space Development Agency still hoping to launch satellites next month, ‘but there’s risk’](https://spacenews.com/space-development-agency-still-hoping-to-launch-satellites-next-month-but-theres-risk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T220914">2022-11-10 22:09:14 UTC</a></sub>
 * [Apple lays the groundwork for emergency SOS via satellite service](https://spacenews.com/apple-lays-the-groundwork-for-emergency-sos-via-satellite-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T212913">2022-11-10 21:29:13 UTC</a></sub>
-* [Starlink launches donation website](https://www.teslarati.com/starlink-donation-website/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T211931">2022-11-10 21:19:31 UTC</a></sub>
-* [Pioneering Astronaut Bob Behnken Retires from NASA](http://www.nasa.gov/press-release/pioneering-astronaut-bob-behnken-retires-from-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T204900">2022-11-10 20:49:00 UTC</a></sub>
-* [NASA to Brief Media on First Earth Water-Monitoring Satellite Mission](http://www.nasa.gov/press-release/nasa-to-brief-media-on-first-earth-water-monitoring-satellite-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T195900">2022-11-10 19:59:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T170339">2022-11-11 17:03:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T173448">2022-11-11 17:34:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
