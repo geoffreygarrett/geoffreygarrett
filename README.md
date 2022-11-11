@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [JPSS-2 deploys solar array after delay](https://spacenews.com/jpss-2-deploys-solar-array-after-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T130657">2022-11-11 13:06:57 UTC</a></sub>
+* [China wants to ramp up the launch rate of its Long March 5B rocket](https://spacenews.com/china-wants-to-ramp-up-the-launch-rate-of-its-long-march-5b-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T124657">2022-11-11 12:46:57 UTC</a></sub>
 * [NASA investigating “very minor” Artemis hurricane damage](https://spacenews.com/nasa-investigating-very-minor-artemis-hurricane-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T121700">2022-11-11 12:17:00 UTC</a></sub>
 * [Rocket Report: Indian commercial rocket has launch date; Branson must face lawsuit](https://arstechnica.com/science/2022/11/rocket-report-indian-commercial-rocket-has-launch-date-branson-must-face-lawsuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T120041">2022-11-11 12:00:41 UTC</a></sub>
 * [Advanced Space wins $72 million Air Force contract for lunar experiment](https://spacenews.com/advanced-space-wins-72-million-air-force-contract-for-lunar-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T224915">2022-11-10 22:49:15 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Starlink launches donation website](https://www.teslarati.com/starlink-donation-website/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T211931">2022-11-10 21:19:31 UTC</a></sub>
 * [Pioneering Astronaut Bob Behnken Retires from NASA](http://www.nasa.gov/press-release/pioneering-astronaut-bob-behnken-retires-from-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T204900">2022-11-10 20:49:00 UTC</a></sub>
 * [NASA to Brief Media on First Earth Water-Monitoring Satellite Mission](http://www.nasa.gov/press-release/nasa-to-brief-media-on-first-earth-water-monitoring-satellite-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T195900">2022-11-10 19:59:00 UTC</a></sub>
-* [Antenna developer NXT Comm’s assets up for sale](https://spacenews.com/antenna-developer-nxt-comms-assets-up-for-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T160913">2022-11-10 16:09:13 UTC</a></sub>
-* [NASA leaves its Artemis I rocket exposed to winds above design limits](https://arstechnica.com/science/2022/11/nasas-artemis-i-rocket-just-endured-hours-of-hurricane-like-wind-gusts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T151038">2022-11-10 15:10:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T124252">2022-11-11 12:42:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T131414">2022-11-11 13:14:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
