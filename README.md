@@ -133,6 +133,7 @@ region. The mission's status is currently To Be Confirmed
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-4</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T032200">2022-11-17 03:22:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20221117T032200Z%2F20221117T032200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Eutelsat 10B</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T233300">2022-11-20 23:33:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 10B&location=Cape Canaveral, FL, USA&dates=20221120T233300Z%2F20221120T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-26</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T211500">2022-11-21 21:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221121T211500Z%2F20221121T211500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Pléiades Neo 5 & 6</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T014700">2022-11-25 01:47:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Pléiades Neo 5 &amp; 6&location=Kourou, French Guiana&dates=20221125T014700Z%2F20221125T014700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -178,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA seeks funding for navigation technology programs at ministerial](https://spacenews.com/esa-seeks-funding-for-navigation-technology-programs-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T231658">2022-11-12 23:16:58 UTC</a></sub>
 * [X-37B space plane completes its sixth mission, lands after nearly 30 months in orbit](https://spacenews.com/x-37b-space-plane-completes-its-sixth-mission-lands-after-nearly-30-months-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T194658">2022-11-12 19:46:58 UTC</a></sub>
 * [SpaceX launches Falcon 9 booster into retirement on Intelsat mission](https://spaceflightnow.com/2022/11/12/falcon-9-galaxy-31-32-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T173654">2022-11-12 17:36:54 UTC</a></sub>
 * [Falcon 9 B1051 makes final flight on Galaxy-31 & 32 mission](https://www.nasaspaceflight.com/2022/11/galaxy-31-32/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T140452">2022-11-12 14:04:52 UTC</a></sub>
@@ -187,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Starfish books launch for in-orbit satellite docking mission next fall](https://spacenews.com/starfish-books-launch-for-in-orbit-satellite-docking-mission-next-fall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T221658">2022-11-11 22:16:58 UTC</a></sub>
 * [Space Force orders new weather satellite from Ball Aerospace](https://spacenews.com/space-force-orders-new-weather-satellite-from-ball-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T210657">2022-11-11 21:06:57 UTC</a></sub>
 * [SES, Hughes demonstrate satellite internet on General Atomics surveillance drone](https://spacenews.com/ses-hughes-demonstrate-satellite-internet-on-general-atomics-surveillance-drone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T172659">2022-11-11 17:26:59 UTC</a></sub>
-* [NASA to Brief Status of Artemis I Moon Mission Today](http://www.nasa.gov/press-release/nasa-to-brief-status-of-artemis-i-moon-mission-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T165700">2022-11-11 16:57:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T230040">2022-11-12 23:00:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T233350">2022-11-12 23:33:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
