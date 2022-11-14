@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The oracle who predicted SLS’s launch in 2023 has thoughts about Artemis III](https://arstechnica.com/science/2022/11/the-oracle-who-predicted-slss-launch-in-2023-has-thoughts-about-artemis-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T120049">2022-11-14 12:00:49 UTC</a></sub>
 * [CAPSTONE enters lunar orbit](https://spacenews.com/capstone-enters-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T104659">2022-11-14 10:46:59 UTC</a></sub>
 * [Delayed NASA Venus mission looks for a reprieve](https://spacenews.com/delayed-nasa-venus-mission-looks-for-a-reprieve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T140658">2022-11-13 14:06:58 UTC</a></sub>
 * [SpaceX expends Falcon 9 booster for the first time in almost three years](https://www.teslarati.com/spacex-expends-first-falcon-9-booster-three-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T073717">2022-11-13 07:37:17 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches Falcon 9 booster into retirement on Intelsat mission](https://spaceflightnow.com/2022/11/12/falcon-9-galaxy-31-32-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T173654">2022-11-12 17:36:54 UTC</a></sub>
 * [Falcon 9 B1051 makes final flight on Galaxy-31 & 32 mission](https://www.nasaspaceflight.com/2022/11/galaxy-31-32/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T140452">2022-11-12 14:04:52 UTC</a></sub>
 * [NASA moving ahead with Nov. 16 Artemis 1 launch attempt](https://spacenews.com/nasa-moving-ahead-with-nov-16-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T230658">2022-11-11 23:06:58 UTC</a></sub>
-* [NASA Sets New Coverage for Artemis I Moon Mission Launch](http://www.nasa.gov/press-release/nasa-sets-new-coverage-for-artemis-i-moon-mission-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T224700">2022-11-11 22:47:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T120057">2022-11-14 12:00:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T124325">2022-11-14 12:43:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
