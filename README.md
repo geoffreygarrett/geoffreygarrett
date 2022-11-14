@@ -182,6 +182,8 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [Delayed NASA Venus mission looks for a reprieve](https://spacenews.com/delayed-nasa-venus-mission-looks-for-a-reprieve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T140658">2022-11-13 14:06:58 UTC</a></sub>
+* [SpaceX expends Falcon 9 booster for the first time in almost three years](https://www.teslarati.com/spacex-expends-first-falcon-9-booster-three-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T073717">2022-11-13 07:37:17 UTC</a></sub>
+* [Engineers assessing hurricane-damaged insulation before Artemis launch Wednesday](https://spaceflightnow.com/2022/11/13/engineers-assessing-hurricane-damaged-insulation-before-artemis-1-launch-wednesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T073654">2022-11-13 07:36:54 UTC</a></sub>
 * [ESA seeks funding for navigation technology programs at ministerial](https://spacenews.com/esa-seeks-funding-for-navigation-technology-programs-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T231658">2022-11-12 23:16:58 UTC</a></sub>
 * [X-37B space plane completes its sixth mission, lands after nearly 30 months in orbit](https://spacenews.com/x-37b-space-plane-completes-its-sixth-mission-lands-after-nearly-30-months-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T194658">2022-11-12 19:46:58 UTC</a></sub>
 * [SpaceX launches Falcon 9 booster into retirement on Intelsat mission](https://spaceflightnow.com/2022/11/12/falcon-9-galaxy-31-32-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T173654">2022-11-12 17:36:54 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA moving ahead with Nov. 16 Artemis 1 launch attempt](https://spacenews.com/nasa-moving-ahead-with-nov-16-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T230658">2022-11-11 23:06:58 UTC</a></sub>
 * [NASA Sets New Coverage for Artemis I Moon Mission Launch](http://www.nasa.gov/press-release/nasa-sets-new-coverage-for-artemis-i-moon-mission-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T224700">2022-11-11 22:47:00 UTC</a></sub>
 * [NASA says its SLS rocket is good to go for a launch attempt next Wednesday](https://arstechnica.com/science/2022/11/nasa-says-its-sls-rocket-is-good-to-go-for-a-launch-attempt-next-wednesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T222828">2022-11-11 22:28:28 UTC</a></sub>
-* [Starfish books launch for in-orbit satellite docking mission next fall](https://spacenews.com/starfish-books-launch-for-in-orbit-satellite-docking-mission-next-fall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T221658">2022-11-11 22:16:58 UTC</a></sub>
-* [Space Force orders new weather satellite from Ball Aerospace](https://spacenews.com/space-force-orders-new-weather-satellite-from-ball-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T210657">2022-11-11 21:06:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T080044">2022-11-14 08:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T083748">2022-11-14 08:37:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
