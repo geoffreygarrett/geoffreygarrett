@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Europe in Space - More vehicles than customers](https://www.getrevue.co/profile/andrewparsonson/issues/more-vehicles-than-customers-1446755) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T141723">2022-11-14 14:17:23 UTC</a></sub>
 * [Two pale blue dots](https://www.planetary.org/the-downlink/two-pale-blue-dots) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T153711">2022-11-11 15:37:11 UTC</a></sub>
 * [JPSS-2 / LOFTID: Atlas V successfully launches for NASA and NOAA](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T122939">2022-11-10 12:29:39 UTC</a></sub>
 * [RocketStars: LOFTID // Sarah Miller](https://blog.ulalaunch.com/blog/rocketstars-loftid-/-sarah-miller) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T142937">2022-11-09 14:29:37 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [Job opening: Director of Government Relations](https://www.planetary.org/careers/job-opening-director-of-government-relations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T160932">2022-11-03 16:09:32 UTC</a></sub>
 * [Europe in Space - A detailed analysis of French launch startup Latitude](https://www.getrevue.co/profile/andrewparsonson/issues/a-detailed-analysis-of-french-launch-startup-latitude-1423796) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T141158">2022-10-31 14:11:58 UTC</a></sub>
 * [Best space pictures of the month: October 2022](https://www.planetary.org/articles/best-space-pictures-october-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T140021">2022-10-31 14:00:21 UTC</a></sub>
-* [RocketStars: LOFTID // James Cusin](https://blog.ulalaunch.com/blog/rocketstars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T145101">2022-10-29 14:51:01 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T143454">2022-11-14 14:34:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T150055">2022-11-14 15:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
