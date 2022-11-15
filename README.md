@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ClearSpace announces life extension collaboration with Intelsat](https://spacenews.com/clearspace-announces-life-extension-collaboration-with-intelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T235659">2022-11-14 23:56:59 UTC</a></sub>
 * [Terran Orbital sees staff departures as it turns focus to military satellites](https://spacenews.com/terran-orbital-sees-staff-departures-as-it-turns-focus-to-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T232659">2022-11-14 23:26:59 UTC</a></sub>
 * [NASA Sets Coverage for Next SpaceX Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-next-spacex-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T224700">2022-11-14 22:47:00 UTC</a></sub>
 * [SpaceX’s Starship briefly becomes the most powerful active rocket in the world](https://www.teslarati.com/spacex-starship-booster-most-powerful-rocket-in-the-world/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T223714">2022-11-14 22:37:14 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [The first cubesat to fly and operate at the Moon has successfully arrived](https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T164223">2022-11-14 16:42:23 UTC</a></sub>
 * [The oracle who predicted SLS’s launch in 2023 has thoughts about Artemis III](https://arstechnica.com/science/2022/11/the-oracle-who-predicted-slss-launch-in-2023-has-thoughts-about-artemis-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T120049">2022-11-14 12:00:49 UTC</a></sub>
 * [CAPSTONE enters lunar orbit](https://spacenews.com/capstone-enters-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T104659">2022-11-14 10:46:59 UTC</a></sub>
-* [ABL Space Systems on verge of first orbital launch attempt](https://spaceflightnow.com/2022/11/13/abl-space-systems-on-verge-of-first-orbital-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T174654">2022-11-13 17:46:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T000133">2022-11-15 00:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T004501">2022-11-15 00:45:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
