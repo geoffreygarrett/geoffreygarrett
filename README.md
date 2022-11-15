@@ -180,16 +180,16 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Eutelsat’s board approves OneWeb merger](https://spacenews.com/eutelsats-board-approves-oneweb-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T152728">2022-11-15 15:27:28 UTC</a></sub>
 * [South Korea’s Danuri orbiter demonstrates ‘space internet’ en route to moon](https://spacenews.com/south-koreas-danuri-orbiter-demonstrates-space-internet-en-route-to-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T141716">2022-11-15 14:17:16 UTC</a></sub>
 * [LEOcloud and Axiom Space cooperate on edge processing in space](https://spacenews.com/leocloud-and-axiom-pact/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T140715">2022-11-15 14:07:15 UTC</a></sub>
 * [Artemis I launch team planning on gentle LH2 cycle to stop leaks on next attempt](https://www.nasaspaceflight.com/2022/11/artemis-i-lh2-update-prelaunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T130202">2022-11-15 13:02:02 UTC</a></sub>
 * [Space Perspective acquires ship for ocean-based balloon launch platform](https://spacenews.com/space-perspective-acquires-ship-for-ocean-based-balloon-launch-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T111720">2022-11-15 11:17:20 UTC</a></sub>
-* [Benchmark expands staff and facilities to meet demand](https://spacenews.com/benchmark-2022-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T080719">2022-11-15 08:07:19 UTC</a></sub>
 * [Kayhan and Morpheus offer “one-click” collision avoidance](https://spacenews.com/morpheus-kayhan-collision-avoidance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T080719">2022-11-15 08:07:19 UTC</a></sub>
+* [Benchmark expands staff and facilities to meet demand](https://spacenews.com/benchmark-2022-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T080719">2022-11-15 08:07:19 UTC</a></sub>
 * [NASA continues with Artemis 1 launch attempt after evaluating hurricane damage](https://spacenews.com/nasa-continues-with-artemis-1-launch-attempt-after-evaluating-hurricane-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T072716">2022-11-15 07:27:16 UTC</a></sub>
 * [ClearSpace announces life extension collaboration with Intelsat](https://spacenews.com/clearspace-announces-life-extension-collaboration-with-intelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T235659">2022-11-14 23:56:59 UTC</a></sub>
 * [Terran Orbital sees staff departures as it turns focus to military satellites](https://spacenews.com/terran-orbital-sees-staff-departures-as-it-turns-focus-to-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T232659">2022-11-14 23:26:59 UTC</a></sub>
-* [NASA Sets Coverage for Next SpaceX Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-next-spacex-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T224700">2022-11-14 22:47:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T150045">2022-11-15 15:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T160054">2022-11-15 16:00:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
