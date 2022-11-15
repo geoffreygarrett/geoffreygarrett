@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [MyRadar expands wildfire detection with NOAA funding](https://spacenews.com/myradar-noaa-grant/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T201720">2022-11-15 20:17:20 UTC</a></sub>
+* [NGA to increase spending on commercial Earth monitoring services](https://spacenews.com/nga-to-increase-spending-on-commercial-earth-monitoring-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T200723">2022-11-15 20:07:23 UTC</a></sub>
+* [NASA, partners ready for SLS’s debut flight: Artemis I to the Moon](https://www.nasaspaceflight.com/2022/11/artemis-i-launch-nov/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T195524">2022-11-15 19:55:24 UTC</a></sub>
+* [Is tonight the night that NASA’s massive SLS rocket finally takes flight?](https://arstechnica.com/science/2022/11/is-tonight-the-night-that-nasas-massive-sls-rocket-finally-takes-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T194025">2022-11-15 19:40:25 UTC</a></sub>
 * [Europe seeks greater autonomy and independence in space](https://spacenews.com/europe-seeks-greater-autonomy-and-independence-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T191719">2022-11-15 19:17:19 UTC</a></sub>
 * [NASA Plans Coverage of Roscosmos Spacewalks at Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalks-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T182800">2022-11-15 18:28:00 UTC</a></sub>
 * [Boeing’s anti-jam satellite communications payload on track for 2024 launch](https://spacenews.com/boeings-anti-jam-satellite-communications-payload-on-track-for-2024-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165724">2022-11-15 16:57:24 UTC</a></sub>
 * [Eutelsat’s board approves OneWeb merger](https://spacenews.com/eutelsats-board-approves-oneweb-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T152728">2022-11-15 15:27:28 UTC</a></sub>
 * [South Korea’s Danuri orbiter demonstrates ‘space internet’ en route to moon](https://spacenews.com/south-koreas-danuri-orbiter-demonstrates-space-internet-en-route-to-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T141716">2022-11-15 14:17:16 UTC</a></sub>
 * [LEOcloud and Axiom Space cooperate on edge processing in space](https://spacenews.com/leocloud-and-axiom-pact/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T140715">2022-11-15 14:07:15 UTC</a></sub>
-* [Artemis I launch team planning on gentle LH2 cycle to stop leaks on next attempt](https://www.nasaspaceflight.com/2022/11/artemis-i-lh2-update-prelaunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T130202">2022-11-15 13:02:02 UTC</a></sub>
-* [Space Perspective acquires ship for ocean-based balloon launch platform](https://spacenews.com/space-perspective-acquires-ship-for-ocean-based-balloon-launch-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T111720">2022-11-15 11:17:20 UTC</a></sub>
-* [Kayhan and Morpheus offer “one-click” collision avoidance](https://spacenews.com/morpheus-kayhan-collision-avoidance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T080719">2022-11-15 08:07:19 UTC</a></sub>
-* [Benchmark expands staff and facilities to meet demand](https://spacenews.com/benchmark-2022-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T080719">2022-11-15 08:07:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T200049">2022-11-15 20:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T203319">2022-11-15 20:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
