@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-RS1 | Maiden Flight at the
-<a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3C</a> in
-Pacific Spaceport Complex, Alaska, USA
+SLS Block 1 | Artemis I at the
+<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39B">Launch Complex 39B</a> in
+Kennedy Space Center, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T220000">2022-11-15 22:00:00 UTC</a>. Until
-then, this launch pad will have seen 0
-out of 8 launches in this
-region. The mission's status is currently To Be Determined
-(TBD) 🟧  which means:
-*current date is a placeholder or rough estimation based on unreliable or interpreted sources.* 
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T060400">2022-11-16 06:04:00 UTC</a>. Until
+then, this launch pad will have seen 57
+out of 209 launches in this
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  This is the first launch of RS1 launch vehicle developed and built by ABL Space Systems. This launch carries two satellites for L2 Aerospace.
+  Artemis I (previously Exploration Mission 1) is the first flight on Space Launch System and the second flight of Orion crew spacecraft. Mission is planned to be an uncrewed circumlunar flight.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/ABL_Space_Systems#RS1" >
+  <a href="https://en.wikipedia.org/wiki/Space_Launch_System" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.ee/maps/search/57.431239,-152.350749" >
+  <a href="http://maps.google.com/maps?q=28.627+N,+80.621+W" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,9 +126,9 @@ region. The mission's status is currently To Be Determined
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T220000">2022-11-15 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221115T220000Z%2F20221116T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Artemis I</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T060400">2022-11-16 06:04:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20221116T060400Z%2F20221116T080400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Jilin-1 High Resolution 03D-08, 51 to 54</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T061100">2022-11-16 06:11:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54&location=Jiuquan, People&#x27;s Republic of China&dates=20221116T061100Z%2F20221116T065800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T220000">2022-11-16 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221116T220000Z%2F20221117T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-4</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T042800">2022-11-18 04:28:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20221118T042800Z%2F20221118T042800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Eutelsat 10B</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T233300">2022-11-20 23:33:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 10B&location=Cape Canaveral, FL, USA&dates=20221120T233300Z%2F20221120T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-26</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T211900">2022-11-21 21:19:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221121T211900Z%2F20221121T211900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing’s anti-jam satellite communications payload on track for 2024 launch](https://spacenews.com/boeings-anti-jam-satellite-communications-payload-on-track-for-2024-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165724">2022-11-15 16:57:24 UTC</a></sub>
 * [Eutelsat’s board approves OneWeb merger](https://spacenews.com/eutelsats-board-approves-oneweb-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T152728">2022-11-15 15:27:28 UTC</a></sub>
 * [South Korea’s Danuri orbiter demonstrates ‘space internet’ en route to moon](https://spacenews.com/south-koreas-danuri-orbiter-demonstrates-space-internet-en-route-to-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T141716">2022-11-15 14:17:16 UTC</a></sub>
 * [LEOcloud and Axiom Space cooperate on edge processing in space](https://spacenews.com/leocloud-and-axiom-pact/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T140715">2022-11-15 14:07:15 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Determined
 * [Benchmark expands staff and facilities to meet demand](https://spacenews.com/benchmark-2022-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T080719">2022-11-15 08:07:19 UTC</a></sub>
 * [NASA continues with Artemis 1 launch attempt after evaluating hurricane damage](https://spacenews.com/nasa-continues-with-artemis-1-launch-attempt-after-evaluating-hurricane-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T072716">2022-11-15 07:27:16 UTC</a></sub>
 * [ClearSpace announces life extension collaboration with Intelsat](https://spacenews.com/clearspace-announces-life-extension-collaboration-with-intelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T235659">2022-11-14 23:56:59 UTC</a></sub>
-* [Terran Orbital sees staff departures as it turns focus to military satellites](https://spacenews.com/terran-orbital-sees-staff-departures-as-it-turns-focus-to-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T232659">2022-11-14 23:26:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Meet The Planetary Academy](https://www.planetary.org/articles/meet-the-planetary-academy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165811">2022-11-15 16:58:11 UTC</a></sub>
 * [LightSail 2 is about to burn up](https://www.planetary.org/articles/lightsail-2-is-about-to-burn-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T221713">2022-11-14 22:17:13 UTC</a></sub>
 * [Europe in Space - More vehicles than customers](https://www.getrevue.co/profile/andrewparsonson/issues/more-vehicles-than-customers-1446755) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T141723">2022-11-14 14:17:23 UTC</a></sub>
 * [Two pale blue dots](https://www.planetary.org/the-downlink/two-pale-blue-dots) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T153711">2022-11-11 15:37:11 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently To Be Determined
 * [Europe in Space - Mysterious beginnings of MaiaSpace: Part 2](https://www.getrevue.co/profile/andrewparsonson/issues/mysterious-beginnings-of-maiaspace-part-2-1434750) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T143017">2022-11-07 14:30:17 UTC</a></sub>
 * [A year in review and a reddish hue](https://www.planetary.org/the-downlink/a-year-in-review-and-a-reddish-hue) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T143932">2022-11-04 14:39:32 UTC</a></sub>
 * [Job opening: Director of Government Relations](https://www.planetary.org/careers/job-opening-director-of-government-relations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T160932">2022-11-03 16:09:32 UTC</a></sub>
-* [Europe in Space - A detailed analysis of French launch startup Latitude](https://www.getrevue.co/profile/andrewparsonson/issues/a-detailed-analysis-of-french-launch-startup-latitude-1423796) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T141158">2022-10-31 14:11:58 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T170243">2022-11-15 17:02:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T173311">2022-11-15 17:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
