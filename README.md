@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Plans Coverage of Roscosmos Spacewalks at Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalks-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T182800">2022-11-15 18:28:00 UTC</a></sub>
 * [Boeing’s anti-jam satellite communications payload on track for 2024 launch](https://spacenews.com/boeings-anti-jam-satellite-communications-payload-on-track-for-2024-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165724">2022-11-15 16:57:24 UTC</a></sub>
 * [Eutelsat’s board approves OneWeb merger](https://spacenews.com/eutelsats-board-approves-oneweb-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T152728">2022-11-15 15:27:28 UTC</a></sub>
 * [South Korea’s Danuri orbiter demonstrates ‘space internet’ en route to moon](https://spacenews.com/south-koreas-danuri-orbiter-demonstrates-space-internet-en-route-to-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T141716">2022-11-15 14:17:16 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Kayhan and Morpheus offer “one-click” collision avoidance](https://spacenews.com/morpheus-kayhan-collision-avoidance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T080719">2022-11-15 08:07:19 UTC</a></sub>
 * [Benchmark expands staff and facilities to meet demand](https://spacenews.com/benchmark-2022-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T080719">2022-11-15 08:07:19 UTC</a></sub>
 * [NASA continues with Artemis 1 launch attempt after evaluating hurricane damage](https://spacenews.com/nasa-continues-with-artemis-1-launch-attempt-after-evaluating-hurricane-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T072716">2022-11-15 07:27:16 UTC</a></sub>
-* [ClearSpace announces life extension collaboration with Intelsat](https://spacenews.com/clearspace-announces-life-extension-collaboration-with-intelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T235659">2022-11-14 23:56:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T180100">2022-11-15 18:01:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T183555">2022-11-15 18:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
