@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceRyde announces multiple launches with ISILaunch](https://spacenews.com/spaceryde-and-isilaunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T190712">2022-11-16 19:07:12 UTC</a></sub>
 * [Rocket Factory Augsburg signs deal to test engines at DLR premises](https://spacenews.com/rocket-factory-augsburg-signs-deal-to-test-engines-at-dlr-premises/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T170723">2022-11-16 17:07:23 UTC</a></sub>
 * [Companies have diverging views on the future of European launch](https://spacenews.com/companies-have-diverging-views-on-the-future-of-european-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T145719">2022-11-16 14:57:19 UTC</a></sub>
 * [Liftoff! NASA’s Artemis I Mega Rocket Launches Orion to Moon](http://www.nasa.gov/press-release/liftoff-nasa-s-artemis-i-mega-rocket-launches-orion-to-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T093700">2022-11-16 09:37:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Awards SpaceX Second Contract Option for Artemis Moon Landing](http://www.nasa.gov/press-release/nasa-awards-spacex-second-contract-option-for-artemis-moon-landing-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T224700">2022-11-15 22:47:00 UTC</a></sub>
 * [Experts Available to Discuss NASA Webb Telescope Science Results](http://www.nasa.gov/press-release/experts-available-to-discuss-nasa-webb-telescope-science-results) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T221700">2022-11-15 22:17:00 UTC</a></sub>
 * [NASA to Share First Results of Inflatable Heat Shield Technology Test](http://www.nasa.gov/press-release/nasa-to-share-first-results-of-inflatable-heat-shield-technology-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T215700">2022-11-15 21:57:00 UTC</a></sub>
-* [MyRadar expands wildfire detection with NOAA funding](https://spacenews.com/myradar-noaa-grant/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T201720">2022-11-15 20:17:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T190040">2022-11-16 19:00:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T193048">2022-11-16 19:30:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
