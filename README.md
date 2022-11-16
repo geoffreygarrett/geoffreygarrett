@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA gets its mojo back with a stunning nighttime launch of the SLS rocket](https://arstechnica.com/science/2022/11/nasa-gets-its-mojo-back-with-a-stunning-nighttime-launch-of-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T083359">2022-11-16 08:33:59 UTC</a></sub>
 * [SLS launches Artemis 1 mission](https://spacenews.com/sls-launches-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T072728">2022-11-16 07:27:28 UTC</a></sub>
 * [NASA Awards SpaceX Second Contract Option for Artemis Moon Landing](http://www.nasa.gov/press-release/nasa-awards-spacex-second-contract-option-for-artemis-moon-landing-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T224700">2022-11-15 22:47:00 UTC</a></sub>
 * [Experts Available to Discuss NASA Webb Telescope Science Results](http://www.nasa.gov/press-release/experts-available-to-discuss-nasa-webb-telescope-science-results) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T221700">2022-11-15 22:17:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA, partners ready for SLS’s debut flight: Artemis I to the Moon](https://www.nasaspaceflight.com/2022/11/artemis-i-launch-nov/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T195524">2022-11-15 19:55:24 UTC</a></sub>
 * [Is tonight the night that NASA’s massive SLS rocket finally takes flight?](https://arstechnica.com/science/2022/11/is-tonight-the-night-that-nasas-massive-sls-rocket-finally-takes-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T194025">2022-11-15 19:40:25 UTC</a></sub>
 * [Europe seeks greater autonomy and independence in space](https://spacenews.com/europe-seeks-greater-autonomy-and-independence-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T191719">2022-11-15 19:17:19 UTC</a></sub>
-* [NASA Plans Coverage of Roscosmos Spacewalks at Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalks-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T182800">2022-11-15 18:28:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T090044">2022-11-16 09:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T093303">2022-11-16 09:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
