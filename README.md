@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Spire Global reveals larger, new-gen 16U satellite bus](https://spacenews.com/spire-global-reveals-larger-new-gen-16u-satellite-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T212724">2022-11-16 21:27:24 UTC</a></sub>
 * [Apple bringing SOS via satellite services to Europe in December](https://spacenews.com/apple-bringing-sos-via-satellite-services-to-europe-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T202714">2022-11-16 20:27:14 UTC</a></sub>
 * [On the NRO’s wish list: AI technologies to manage satellites and data](https://spacenews.com/on-the-nros-wish-list-ai-technologies-to-manage-satellites-and-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T195724">2022-11-16 19:57:24 UTC</a></sub>
 * [SpaceRyde announces multiple launches with ISILaunch](https://spacenews.com/spaceryde-and-isilaunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T190712">2022-11-16 19:07:12 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA gets its mojo back with a stunning nighttime launch of the SLS rocket](https://arstechnica.com/science/2022/11/nasa-gets-its-mojo-back-with-a-stunning-nighttime-launch-of-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T083359">2022-11-16 08:33:59 UTC</a></sub>
 * [SLS makes successful debut flight, sending Artemis I to the Moon](https://www.nasaspaceflight.com/2022/11/artemis-i-launch-nov/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T075524">2022-11-16 07:55:24 UTC</a></sub>
 * [SLS launches Artemis 1 mission](https://spacenews.com/sls-launches-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T072728">2022-11-16 07:27:28 UTC</a></sub>
-* [NASA Awards SpaceX Second Contract Option for Artemis Moon Landing](http://www.nasa.gov/press-release/nasa-awards-spacex-second-contract-option-for-artemis-moon-landing-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T224700">2022-11-15 22:47:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T210054">2022-11-16 21:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T213121">2022-11-16 21:31:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
