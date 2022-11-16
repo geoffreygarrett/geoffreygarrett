@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SLS launches Artemis 1 mission](https://spacenews.com/sls-launches-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T072728">2022-11-16 07:27:28 UTC</a></sub>
 * [NASA Awards SpaceX Second Contract Option for Artemis Moon Landing](http://www.nasa.gov/press-release/nasa-awards-spacex-second-contract-option-for-artemis-moon-landing-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T224700">2022-11-15 22:47:00 UTC</a></sub>
 * [Experts Available to Discuss NASA Webb Telescope Science Results](http://www.nasa.gov/press-release/experts-available-to-discuss-nasa-webb-telescope-science-results) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T221700">2022-11-15 22:17:00 UTC</a></sub>
 * [NASA to Share First Results of Inflatable Heat Shield Technology Test](http://www.nasa.gov/press-release/nasa-to-share-first-results-of-inflatable-heat-shield-technology-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T215700">2022-11-15 21:57:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Is tonight the night that NASA’s massive SLS rocket finally takes flight?](https://arstechnica.com/science/2022/11/is-tonight-the-night-that-nasas-massive-sls-rocket-finally-takes-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T194025">2022-11-15 19:40:25 UTC</a></sub>
 * [Europe seeks greater autonomy and independence in space](https://spacenews.com/europe-seeks-greater-autonomy-and-independence-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T191719">2022-11-15 19:17:19 UTC</a></sub>
 * [NASA Plans Coverage of Roscosmos Spacewalks at Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalks-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T182800">2022-11-15 18:28:00 UTC</a></sub>
-* [Boeing’s anti-jam satellite communications payload on track for 2024 launch](https://spacenews.com/boeings-anti-jam-satellite-communications-payload-on-track-for-2024-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165724">2022-11-15 16:57:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight blogs starts -->
 * [Meet The Planetary Academy](https://www.planetary.org/articles/meet-the-planetary-academy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165811">2022-11-15 16:58:11 UTC</a></sub>
+* [NASA’s Artemis I mission has successfully launched](https://www.planetary.org/articles/nasa-artemis-i-successfully-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T065814">2022-11-15 06:58:14 UTC</a></sub>
 * [LightSail 2 is about to burn up](https://www.planetary.org/articles/lightsail-2-is-about-to-burn-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T221713">2022-11-14 22:17:13 UTC</a></sub>
 * [Europe in Space - More vehicles than customers](https://www.getrevue.co/profile/andrewparsonson/issues/more-vehicles-than-customers-1446755) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T141723">2022-11-14 14:17:23 UTC</a></sub>
 * [Two pale blue dots](https://www.planetary.org/the-downlink/two-pale-blue-dots) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T153711">2022-11-11 15:37:11 UTC</a></sub>
@@ -208,7 +209,6 @@ region. The mission's status is currently Go for Launch
 * [VOICE: Will this Chinese candidate mission to Venus fly?](https://www.planetary.org/articles/voice-chinese-candidate-mission-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150928">2022-11-08 15:09:28 UTC</a></sub>
 * [Europe in Space - Mysterious beginnings of MaiaSpace: Part 2](https://www.getrevue.co/profile/andrewparsonson/issues/mysterious-beginnings-of-maiaspace-part-2-1434750) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T143017">2022-11-07 14:30:17 UTC</a></sub>
 * [A year in review and a reddish hue](https://www.planetary.org/the-downlink/a-year-in-review-and-a-reddish-hue) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T143932">2022-11-04 14:39:32 UTC</a></sub>
-* [Job opening: Director of Government Relations](https://www.planetary.org/careers/job-opening-director-of-government-relations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T160932">2022-11-03 16:09:32 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T070046">2022-11-16 07:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T073122">2022-11-16 07:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
