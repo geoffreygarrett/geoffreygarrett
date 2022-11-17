@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Spaceport Cornwall receives first U.K. spaceport license](https://spacenews.com/spaceport-cornwall-receives-first-u-k-spaceport-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T130713">2022-11-17 13:07:13 UTC</a></sub>
 * [Artemis I releases 10 cubesats, including a Moon lander, for technology and research](https://www.nasaspaceflight.com/2022/11/artemis-i-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T220500">2022-11-16 22:05:00 UTC</a></sub>
 * [Spire Global reveals larger, new-gen 16U satellite bus](https://spacenews.com/spire-global-reveals-larger-new-gen-16u-satellite-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T212724">2022-11-16 21:27:24 UTC</a></sub>
 * [Apple bringing SOS via satellite services to Europe in December](https://spacenews.com/apple-bringing-sos-via-satellite-services-to-europe-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T202714">2022-11-16 20:27:14 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Companies have diverging views on the future of European launch](https://spacenews.com/companies-have-diverging-views-on-the-future-of-european-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T145719">2022-11-16 14:57:19 UTC</a></sub>
 * [Liftoff! NASA’s Artemis I Mega Rocket Launches Orion to Moon](http://www.nasa.gov/press-release/liftoff-nasa-s-artemis-i-mega-rocket-launches-orion-to-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T093700">2022-11-16 09:37:00 UTC</a></sub>
 * [NASA gets its mojo back with a stunning nighttime launch of the SLS rocket](https://arstechnica.com/science/2022/11/nasa-gets-its-mojo-back-with-a-stunning-nighttime-launch-of-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T083359">2022-11-16 08:33:59 UTC</a></sub>
-* [SLS makes successful debut flight, sending Artemis I to the Moon](https://www.nasaspaceflight.com/2022/11/artemis-i-launch-nov/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T075524">2022-11-16 07:55:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T131110">2022-11-17 13:11:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T134037">2022-11-17 13:40:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
