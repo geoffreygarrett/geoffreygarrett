@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [LightSail 2 completes mission with atmospheric reentry](https://www.planetary.org/articles/lightsail-2-completes-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T215804">2022-11-17 21:58:04 UTC</a></sub>
 * [Meet The Planetary Academy](https://www.planetary.org/articles/meet-the-planetary-academy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165811">2022-11-15 16:58:11 UTC</a></sub>
 * [NASA’s Artemis I mission has successfully launched](https://www.planetary.org/articles/nasa-artemis-i-successfully-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T065814">2022-11-15 06:58:14 UTC</a></sub>
 * [LightSail 2 is about to burn up](https://www.planetary.org/articles/lightsail-2-is-about-to-burn-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T221713">2022-11-14 22:17:13 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [RocketStars: LOFTID // Sarah Miller](https://blog.ulalaunch.com/blog/rocketstars-loftid-/-sarah-miller) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T142937">2022-11-09 14:29:37 UTC</a></sub>
 * [VOICE: Will this Chinese candidate mission to Venus fly?](https://www.planetary.org/articles/voice-chinese-candidate-mission-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150928">2022-11-08 15:09:28 UTC</a></sub>
 * [Europe in Space - Mysterious beginnings of MaiaSpace: Part 2](https://www.getrevue.co/profile/andrewparsonson/issues/mysterious-beginnings-of-maiaspace-part-2-1434750) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T143017">2022-11-07 14:30:17 UTC</a></sub>
-* [A year in review and a reddish hue](https://www.planetary.org/the-downlink/a-year-in-review-and-a-reddish-hue) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T143932">2022-11-04 14:39:32 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T220050">2022-11-17 22:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T223347">2022-11-17 22:33:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
