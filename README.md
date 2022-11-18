@@ -98,7 +98,7 @@ RS1 | Maiden Flight at the
 <a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3C</a> in
 Pacific Spaceport Complex, Alaska, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T220000">2022-11-18 22:00:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T220000">2022-11-19 22:00:00 UTC</a>. Until
 then, this launch pad will have seen 0
 out of 8 launches in this
 region. The mission's status is currently To Be Determined
@@ -126,7 +126,7 @@ region. The mission's status is currently To Be Determined
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T220000">2022-11-18 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221118T220000Z%2F20221119T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T220000">2022-11-19 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221119T220000Z%2F20221120T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Eutelsat 10B</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T025700">2022-11-21 02:57:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 10B&location=Cape Canaveral, FL, USA&dates=20221121T025700Z%2F20221121T025700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-26</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T211900">2022-11-21 21:19:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221121T211900Z%2F20221121T211900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Pléiades Neo 5 & 6</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T014700">2022-11-25 01:47:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Pléiades Neo 5 &amp; 6&location=Kourou, French Guiana&dates=20221125T014700Z%2F20221125T014700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T180039">2022-11-18 18:00:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T183631">2022-11-18 18:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
