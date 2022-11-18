@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Tory Bruno: DoD should ‘block buy’ heavy launch services as supply is tight](https://spacenews.com/tory-bruno-dod-should-block-buy-heavy-launch-services-as-supply-is-tight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T235716">2022-11-17 23:57:16 UTC</a></sub>
 * [Three spacewalks completed across two days on two space stations](https://www.nasaspaceflight.com/2022/11/three-spacewalks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T211459">2022-11-17 21:14:59 UTC</a></sub>
 * [Conspiracy theorists flood FCC with complaints about Elon Musk & Starlink](https://www.teslarati.com/conspiracy-theorist-fcc-complaints-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T205817">2022-11-17 20:58:17 UTC</a></sub>
 * [Boeing reorganizes defense unit, Kay Sears to lead space and launch business](https://spacenews.com/boeing-reorganizes-defense-unit-kay-sears-to-lead-space-and-launch-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T202708">2022-11-17 20:27:08 UTC</a></sub>
@@ -188,9 +189,8 @@ region. The mission's status is currently To Be Determined
 * [Precious Payload partners with Arkisys, Rocket Factory Augsburg to market payload slots and launches](https://spacenews.com/precious-payload-partners-with-arkisys-rocket-factory-augsburg-to-market-payload-slots-and-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T175717">2022-11-17 17:57:17 UTC</a></sub>
 * [Azure Orbital Space unveils software tools for space applications](https://spacenews.com/azure-orbital-software-development-kit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T140720">2022-11-17 14:07:20 UTC</a></sub>
 * [Spaceport Cornwall receives first U.K. spaceport license](https://spacenews.com/spaceport-cornwall-receives-first-u-k-spaceport-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T130713">2022-11-17 13:07:13 UTC</a></sub>
-* [Artemis I releases 10 cubesats, including a Moon lander, for technology and research](https://www.nasaspaceflight.com/2022/11/artemis-i-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T220500">2022-11-16 22:05:00 UTC</a></sub>
-* [Spire Global reveals larger, new-gen 16U satellite bus](https://spacenews.com/spire-global-reveals-larger-new-gen-16u-satellite-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T212724">2022-11-16 21:27:24 UTC</a></sub>
-* [Apple bringing SOS via satellite services to Europe in December](https://spacenews.com/apple-bringing-sos-via-satellite-services-to-europe-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T202714">2022-11-16 20:27:14 UTC</a></sub>
+* [NASA to Provide Update on Orion Ahead of Powered Outbound Moon Flyby](http://www.nasa.gov/press-release/nasa-to-provide-update-on-orion-ahead-of-powered-outbound-moon-flyby) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T000700">2022-11-17 00:07:00 UTC</a></sub>
+* [NASA, Japan Announce Gateway Contributions, Space Station Extension](http://www.nasa.gov/press-release/nasa-japan-announce-gateway-contributions-space-station-extension) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T000700">2022-11-17 00:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T000120">2022-11-18 00:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T004544">2022-11-18 00:45:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
