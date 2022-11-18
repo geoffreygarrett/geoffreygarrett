@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Europe reaches funding deal for sovereign broadband constellation](https://spacenews.com/europe-reaches-funding-deal-for-sovereign-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T155712">2022-11-18 15:57:12 UTC</a></sub>
 * [Maryland, Oklahoma Students to Hear from Space Station Astronauts](http://www.nasa.gov/press-release/maryland-oklahoma-students-to-hear-from-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T151800">2022-11-18 15:18:00 UTC</a></sub>
 * [Japanese lunar lander slated to launch Nov. 28 at the earliest](https://spacenews.com/japanese-lunar-lander-slated-to-launch-nov-28-at-the-earliest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T131728">2022-11-18 13:17:28 UTC</a></sub>
 * [Japan agrees to space station extension and Gateway contributions](https://spacenews.com/japan-agrees-to-space-station-extension-and-gateway-contributions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T123715">2022-11-18 12:37:15 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Determined
 * [Tory Bruno: DoD should ‘block buy’ heavy launch services as supply is tight](https://spacenews.com/tory-bruno-dod-should-block-buy-heavy-launch-services-as-supply-is-tight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T235716">2022-11-17 23:57:16 UTC</a></sub>
 * [Three spacewalks completed across two days on two space stations](https://www.nasaspaceflight.com/2022/11/three-spacewalks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T211459">2022-11-17 21:14:59 UTC</a></sub>
 * [Conspiracy theorists flood FCC with complaints about Elon Musk & Starlink](https://www.teslarati.com/conspiracy-theorist-fcc-complaints-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T205817">2022-11-17 20:58:17 UTC</a></sub>
-* [Boeing reorganizes defense unit, Kay Sears to lead space and launch business](https://spacenews.com/boeing-reorganizes-defense-unit-kay-sears-to-lead-space-and-launch-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T202708">2022-11-17 20:27:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Launching and descending](https://www.planetary.org/the-downlink/launching-and-descending) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T153802">2022-11-18 15:38:02 UTC</a></sub>
 * [LightSail 2 completes mission with atmospheric reentry](https://www.planetary.org/articles/lightsail-2-completes-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T215804">2022-11-17 21:58:04 UTC</a></sub>
 * [Meet The Planetary Academy](https://www.planetary.org/articles/meet-the-planetary-academy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165811">2022-11-15 16:58:11 UTC</a></sub>
 * [NASA’s Artemis I mission has successfully launched](https://www.planetary.org/articles/nasa-artemis-i-successfully-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T065814">2022-11-15 06:58:14 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently To Be Determined
 * [JPSS-2 / LOFTID: Atlas V successfully launches for NASA and NOAA](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T122939">2022-11-10 12:29:39 UTC</a></sub>
 * [RocketStars: LOFTID // Sarah Miller](https://blog.ulalaunch.com/blog/rocketstars-loftid-/-sarah-miller) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T142937">2022-11-09 14:29:37 UTC</a></sub>
 * [VOICE: Will this Chinese candidate mission to Venus fly?](https://www.planetary.org/articles/voice-chinese-candidate-mission-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150928">2022-11-08 15:09:28 UTC</a></sub>
-* [Europe in Space - Mysterious beginnings of MaiaSpace: Part 2](https://www.getrevue.co/profile/andrewparsonson/issues/mysterious-beginnings-of-maiaspace-part-2-1434750) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T143017">2022-11-07 14:30:17 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T160052">2022-11-18 16:00:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T163824">2022-11-18 16:38:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
