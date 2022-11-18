@@ -181,6 +181,8 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [AST SpaceMobile searching for funds to accelerate constellation](https://spacenews.com/ast-spacemobile-searching-for-funds-to-accelerate-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211724">2022-11-18 21:17:24 UTC</a></sub>
+* [NASA Awards Contract for Liquid Helium Acquisition at Kennedy](http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-helium-acquisition-at-kennedy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211700">2022-11-18 21:17:00 UTC</a></sub>
 * [Europe reaches funding deal for sovereign broadband constellation](https://spacenews.com/europe-reaches-funding-deal-for-sovereign-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T155712">2022-11-18 15:57:12 UTC</a></sub>
 * [Maryland, Oklahoma Students to Hear from Space Station Astronauts](http://www.nasa.gov/press-release/maryland-oklahoma-students-to-hear-from-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T151800">2022-11-18 15:18:00 UTC</a></sub>
 * [Japanese lunar lander slated to launch Nov. 28 at the earliest](https://spacenews.com/japanese-lunar-lander-slated-to-launch-nov-28-at-the-earliest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T131728">2022-11-18 13:17:28 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently To Be Determined
 * [NASA calls test of inflatable heat shield a success](https://spacenews.com/nasa-calls-test-of-inflatable-heat-shield-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T095732">2022-11-18 09:57:32 UTC</a></sub>
 * [Skyrora working towards 2023 orbital launch after suborbital failure](https://spacenews.com/skyrora-working-towards-2023-orbital-launch-after-suborbital-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T094728">2022-11-18 09:47:28 UTC</a></sub>
 * [Tory Bruno: DoD should ‘block buy’ heavy launch services as supply is tight](https://spacenews.com/tory-bruno-dod-should-block-buy-heavy-launch-services-as-supply-is-tight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T235716">2022-11-17 23:57:16 UTC</a></sub>
-* [Three spacewalks completed across two days on two space stations](https://www.nasaspaceflight.com/2022/11/three-spacewalks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T211459">2022-11-17 21:14:59 UTC</a></sub>
-* [Conspiracy theorists flood FCC with complaints about Elon Musk & Starlink](https://www.teslarati.com/conspiracy-theorist-fcc-complaints-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T205817">2022-11-17 20:58:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T210053">2022-11-18 21:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T213118">2022-11-18 21:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
