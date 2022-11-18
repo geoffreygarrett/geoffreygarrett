@@ -181,6 +181,8 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA calls test of inflatable heat shield a success](https://spacenews.com/nasa-calls-test-of-inflatable-heat-shield-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T095732">2022-11-18 09:57:32 UTC</a></sub>
+* [Skyrora working towards 2023 orbital launch after suborbital failure](https://spacenews.com/skyrora-working-towards-2023-orbital-launch-after-suborbital-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T094728">2022-11-18 09:47:28 UTC</a></sub>
 * [Tory Bruno: DoD should ‘block buy’ heavy launch services as supply is tight](https://spacenews.com/tory-bruno-dod-should-block-buy-heavy-launch-services-as-supply-is-tight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T235716">2022-11-17 23:57:16 UTC</a></sub>
 * [Three spacewalks completed across two days on two space stations](https://www.nasaspaceflight.com/2022/11/three-spacewalks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T211459">2022-11-17 21:14:59 UTC</a></sub>
 * [Conspiracy theorists flood FCC with complaints about Elon Musk & Starlink](https://www.teslarati.com/conspiracy-theorist-fcc-complaints-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T205817">2022-11-17 20:58:17 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently To Be Determined
 * [Precious Payload partners with Arkisys, Rocket Factory Augsburg to market payload slots and launches](https://spacenews.com/precious-payload-partners-with-arkisys-rocket-factory-augsburg-to-market-payload-slots-and-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T175717">2022-11-17 17:57:17 UTC</a></sub>
 * [Azure Orbital Space unveils software tools for space applications](https://spacenews.com/azure-orbital-software-development-kit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T140720">2022-11-17 14:07:20 UTC</a></sub>
 * [Spaceport Cornwall receives first U.K. spaceport license](https://spacenews.com/spaceport-cornwall-receives-first-u-k-spaceport-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T130713">2022-11-17 13:07:13 UTC</a></sub>
-* [SpaceX delays Starlink launch after Falcon 9 static fire test](https://www.teslarati.com/spacex-delays-starlink-launch-after-falcon-9-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T032819">2022-11-17 03:28:19 UTC</a></sub>
-* [NASA to Provide Update on Orion Ahead of Powered Outbound Moon Flyby](http://www.nasa.gov/press-release/nasa-to-provide-update-on-orion-ahead-of-powered-outbound-moon-flyby) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T000700">2022-11-17 00:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T100042">2022-11-18 10:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T103446">2022-11-18 10:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
