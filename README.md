@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Extension for Space, Earth Science Data Analysis Contract](http://www.nasa.gov/press-release/nasa-awards-extension-for-space-earth-science-data-analysis-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T213700">2022-11-18 21:37:00 UTC</a></sub>
 * [AST SpaceMobile searching for funds to accelerate constellation](https://spacenews.com/ast-spacemobile-searching-for-funds-to-accelerate-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211724">2022-11-18 21:17:24 UTC</a></sub>
 * [NASA Awards Contract for Liquid Helium Acquisition at Kennedy](http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-helium-acquisition-at-kennedy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211700">2022-11-18 21:17:00 UTC</a></sub>
 * [Europe reaches funding deal for sovereign broadband constellation](https://spacenews.com/europe-reaches-funding-deal-for-sovereign-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T155712">2022-11-18 15:57:12 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Determined
 * [Rocket Report: Long March 6A breaks apart after launch; SLS soars in debut](https://arstechnica.com/science/2022/11/rocket-report-long-march-6a-breaks-apart-after-launch-sls-soars-in-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T120015">2022-11-18 12:00:15 UTC</a></sub>
 * [NASA calls test of inflatable heat shield a success](https://spacenews.com/nasa-calls-test-of-inflatable-heat-shield-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T095732">2022-11-18 09:57:32 UTC</a></sub>
 * [Skyrora working towards 2023 orbital launch after suborbital failure](https://spacenews.com/skyrora-working-towards-2023-orbital-launch-after-suborbital-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T094728">2022-11-18 09:47:28 UTC</a></sub>
-* [Tory Bruno: DoD should ‘block buy’ heavy launch services as supply is tight](https://spacenews.com/tory-bruno-dod-should-block-buy-heavy-launch-services-as-supply-is-tight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T235716">2022-11-17 23:57:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T220039">2022-11-18 22:00:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T223329">2022-11-18 22:33:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
