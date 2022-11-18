@@ -189,8 +189,8 @@ region. The mission's status is currently To Be Determined
 * [Precious Payload partners with Arkisys, Rocket Factory Augsburg to market payload slots and launches](https://spacenews.com/precious-payload-partners-with-arkisys-rocket-factory-augsburg-to-market-payload-slots-and-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T175717">2022-11-17 17:57:17 UTC</a></sub>
 * [Azure Orbital Space unveils software tools for space applications](https://spacenews.com/azure-orbital-software-development-kit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T140720">2022-11-17 14:07:20 UTC</a></sub>
 * [Spaceport Cornwall receives first U.K. spaceport license](https://spacenews.com/spaceport-cornwall-receives-first-u-k-spaceport-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T130713">2022-11-17 13:07:13 UTC</a></sub>
+* [SpaceX delays Starlink launch after Falcon 9 static fire test](https://www.teslarati.com/spacex-delays-starlink-launch-after-falcon-9-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T032819">2022-11-17 03:28:19 UTC</a></sub>
 * [NASA to Provide Update on Orion Ahead of Powered Outbound Moon Flyby](http://www.nasa.gov/press-release/nasa-to-provide-update-on-orion-ahead-of-powered-outbound-moon-flyby) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T000700">2022-11-17 00:07:00 UTC</a></sub>
-* [NASA, Japan Announce Gateway Contributions, Space Station Extension](http://www.nasa.gov/press-release/nasa-japan-announce-gateway-contributions-space-station-extension) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T000700">2022-11-17 00:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T032536">2022-11-18 03:25:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T034247">2022-11-18 03:42:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
