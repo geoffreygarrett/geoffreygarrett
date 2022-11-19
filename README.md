@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch last new cargo Dragon spacecraft](https://spacenews.com/spacex-to-launch-last-new-cargo-dragon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T180719">2022-11-19 18:07:19 UTC</a></sub>
 * [White House, Congress praise long-delayed first SLS launch](https://spacenews.com/white-house-congress-praise-long-delayed-first-sls-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T224720">2022-11-18 22:47:20 UTC</a></sub>
 * [NASA Awards Extension for Space, Earth Science Data Analysis Contract](http://www.nasa.gov/press-release/nasa-awards-extension-for-space-earth-science-data-analysis-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T213700">2022-11-18 21:37:00 UTC</a></sub>
 * [AST SpaceMobile searching for funds to accelerate constellation](https://spacenews.com/ast-spacemobile-searching-for-funds-to-accelerate-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211724">2022-11-18 21:17:24 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Determined
 * [Japanese lunar lander slated to launch Nov. 28 at the earliest](https://spacenews.com/japanese-lunar-lander-slated-to-launch-nov-28-at-the-earliest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T131728">2022-11-18 13:17:28 UTC</a></sub>
 * [Japan agrees to space station extension and Gateway contributions](https://spacenews.com/japan-agrees-to-space-station-extension-and-gateway-contributions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T123715">2022-11-18 12:37:15 UTC</a></sub>
 * [Rocket Report: Long March 6A breaks apart after launch; SLS soars in debut](https://arstechnica.com/science/2022/11/rocket-report-long-march-6a-breaks-apart-after-launch-sls-soars-in-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T120015">2022-11-18 12:00:15 UTC</a></sub>
-* [NASA calls test of inflatable heat shield a success](https://spacenews.com/nasa-calls-test-of-inflatable-heat-shield-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T095732">2022-11-18 09:57:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T180104">2022-11-19 18:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T183449">2022-11-19 18:34:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
