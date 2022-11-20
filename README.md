@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force opens door to Blue Origin with new cooperative agreement](https://spacenews.com/space-force-opens-door-to-blue-origin-with-new-cooperative-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T111715">2022-11-20 11:17:15 UTC</a></sub>
 * [SpaceX to launch last new cargo Dragon spacecraft](https://spacenews.com/spacex-to-launch-last-new-cargo-dragon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T180719">2022-11-19 18:07:19 UTC</a></sub>
 * [Orion ready for lunar flyby maneuver](https://spacenews.com/orion-ready-for-lunar-flyby-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T025719">2022-11-19 02:57:19 UTC</a></sub>
 * [White House, Congress praise long-delayed first SLS launch](https://spacenews.com/white-house-congress-praise-long-delayed-first-sls-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T224720">2022-11-18 22:47:20 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Europe reaches funding deal for sovereign broadband constellation](https://spacenews.com/europe-reaches-funding-deal-for-sovereign-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T155712">2022-11-18 15:57:12 UTC</a></sub>
 * [Maryland, Oklahoma Students to Hear from Space Station Astronauts](http://www.nasa.gov/press-release/maryland-oklahoma-students-to-hear-from-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T151800">2022-11-18 15:18:00 UTC</a></sub>
 * [Japanese lunar lander slated to launch Nov. 28 at the earliest](https://spacenews.com/japanese-lunar-lander-slated-to-launch-nov-28-at-the-earliest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T131728">2022-11-18 13:17:28 UTC</a></sub>
-* [Japan agrees to space station extension and Gateway contributions](https://spacenews.com/japan-agrees-to-space-station-extension-and-gateway-contributions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T123715">2022-11-18 12:37:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T110053">2022-11-20 11:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T113044">2022-11-20 11:30:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
