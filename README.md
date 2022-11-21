@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA confirms decision to keep JWST name after historical report](https://spacenews.com/nasa-confirms-decision-to-keep-jwst-name-after-historical-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T114716">2022-11-21 11:47:16 UTC</a></sub>
 * [Artemis 1 launch boosts ESA’s exploration ambitions](https://spacenews.com/artemis-1-launch-boosts-esas-exploration-ambitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T170723">2022-11-20 17:07:23 UTC</a></sub>
 * [Space Force opens door to Blue Origin with new cooperative agreement](https://spacenews.com/space-force-opens-door-to-blue-origin-with-new-cooperative-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T111715">2022-11-20 11:17:15 UTC</a></sub>
 * [SpaceX ship headed 1000 kilometers out to sea for expendable Falcon 9 launch](https://www.teslarati.com/spacex-falcon-9-expendable-booster-recoverable-fairing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T064810">2022-11-20 06:48:10 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [White House, Congress praise long-delayed first SLS launch](https://spacenews.com/white-house-congress-praise-long-delayed-first-sls-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T224720">2022-11-18 22:47:20 UTC</a></sub>
 * [NASA Awards Extension for Space, Earth Science Data Analysis Contract](http://www.nasa.gov/press-release/nasa-awards-extension-for-space-earth-science-data-analysis-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T213700">2022-11-18 21:37:00 UTC</a></sub>
 * [AST SpaceMobile searching for funds to accelerate constellation](https://spacenews.com/ast-spacemobile-searching-for-funds-to-accelerate-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211724">2022-11-18 21:17:24 UTC</a></sub>
-* [NASA Awards Contract for Liquid Helium Acquisition at Kennedy](http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-helium-acquisition-at-kennedy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211700">2022-11-18 21:17:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T113046">2022-11-21 11:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T120057">2022-11-21 12:00:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
