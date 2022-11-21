@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Share Orion Update Today After Spacecraft Flies by Moon](http://www.nasa.gov/press-release/nasa-to-share-orion-update-today-after-spacecraft-flies-by-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T152800">2022-11-21 15:28:00 UTC</a></sub>
+* [New Space Force procurement shop subscribes to the space-as-a-service model](https://spacenews.com/fighting-fomo-with-comso/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T150716">2022-11-21 15:07:16 UTC</a></sub>
 * [NASA confirms decision to keep JWST name after historical report](https://spacenews.com/nasa-confirms-decision-to-keep-jwst-name-after-historical-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T114716">2022-11-21 11:47:16 UTC</a></sub>
 * [Artemis 1 launch boosts ESA’s exploration ambitions](https://spacenews.com/artemis-1-launch-boosts-esas-exploration-ambitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T170723">2022-11-20 17:07:23 UTC</a></sub>
 * [Space Force opens door to Blue Origin with new cooperative agreement](https://spacenews.com/space-force-opens-door-to-blue-origin-with-new-cooperative-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T111715">2022-11-20 11:17:15 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX to launch last new cargo Dragon spacecraft](https://spacenews.com/spacex-to-launch-last-new-cargo-dragon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T180719">2022-11-19 18:07:19 UTC</a></sub>
 * [Orion completes lunar flyby maneuver](https://spacenews.com/orion-ready-for-lunar-flyby-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T135720">2022-11-19 13:57:20 UTC</a></sub>
 * [White House, Congress praise long-delayed first SLS launch](https://spacenews.com/white-house-congress-praise-long-delayed-first-sls-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T224720">2022-11-18 22:47:20 UTC</a></sub>
-* [NASA Awards Extension for Space, Earth Science Data Analysis Contract](http://www.nasa.gov/press-release/nasa-awards-extension-for-space-earth-science-data-analysis-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T213700">2022-11-18 21:37:00 UTC</a></sub>
-* [AST SpaceMobile searching for funds to accelerate constellation](https://spacenews.com/ast-spacemobile-searching-for-funds-to-accelerate-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211724">2022-11-18 21:17:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Europe in Space - A European astronaut story](https://www.getrevue.co/profile/andrewparsonson/issues/a-european-astronaut-story-1459429) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T143857">2022-11-21 14:38:57 UTC</a></sub>
 * [On the Issues](https://www.planetary.org/issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T140811">2022-11-21 14:08:11 UTC</a></sub>
 * [Launching and descending](https://www.planetary.org/the-downlink/launching-and-descending) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T153802">2022-11-18 15:38:02 UTC</a></sub>
 * [LightSail 2 completes mission with atmospheric reentry](https://www.planetary.org/articles/lightsail-2-completes-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T215804">2022-11-17 21:58:04 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [Europe in Space - More vehicles than customers](https://www.getrevue.co/profile/andrewparsonson/issues/more-vehicles-than-customers-1446755) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T141723">2022-11-14 14:17:23 UTC</a></sub>
 * [Two pale blue dots](https://www.planetary.org/the-downlink/two-pale-blue-dots) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T153711">2022-11-11 15:37:11 UTC</a></sub>
 * [JPSS-2 / LOFTID: Atlas V successfully launches for NASA and NOAA](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T122939">2022-11-10 12:29:39 UTC</a></sub>
-* [RocketStars: LOFTID // Sarah Miller](https://blog.ulalaunch.com/blog/rocketstars-loftid-/-sarah-miller) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T142937">2022-11-09 14:29:37 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T150050">2022-11-21 15:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T153406">2022-11-21 15:34:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
