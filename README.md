@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orion soars around the Moon with a lonely Earth in the distance](https://arstechnica.com/science/2022/11/orion-soars-around-the-moon-with-a-lonely-earth-in-the-distance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T161305">2022-11-21 16:13:05 UTC</a></sub>
+* [Canadian startup developing lunar rover to deliver power](https://spacenews.com/canadian-startup-developing-lunar-rover-to-deliver-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T160715">2022-11-21 16:07:15 UTC</a></sub>
 * [NASA to Share Orion Update Today After Spacecraft Flies by Moon](http://www.nasa.gov/press-release/nasa-to-share-orion-update-today-after-spacecraft-flies-by-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T152800">2022-11-21 15:28:00 UTC</a></sub>
 * [New Space Force procurement shop subscribes to the space-as-a-service model](https://spacenews.com/fighting-fomo-with-comso/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T150716">2022-11-21 15:07:16 UTC</a></sub>
 * [NASA confirms decision to keep JWST name after historical report](https://spacenews.com/nasa-confirms-decision-to-keep-jwst-name-after-historical-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T114716">2022-11-21 11:47:16 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX ship headed 1000 kilometers out to sea for expendable Falcon 9 launch](https://www.teslarati.com/spacex-falcon-9-expendable-booster-recoverable-fairing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T064810">2022-11-20 06:48:10 UTC</a></sub>
 * [Orion capsule closes in for lunar flyby](https://spaceflightnow.com/2022/11/20/orion-capsule-closes-in-for-lunar-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T045701">2022-11-20 04:57:01 UTC</a></sub>
 * [SpaceX to launch last new cargo Dragon spacecraft](https://spacenews.com/spacex-to-launch-last-new-cargo-dragon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T180719">2022-11-19 18:07:19 UTC</a></sub>
-* [Orion completes lunar flyby maneuver](https://spacenews.com/orion-ready-for-lunar-flyby-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T135720">2022-11-19 13:57:20 UTC</a></sub>
-* [White House, Congress praise long-delayed first SLS launch](https://spacenews.com/white-house-congress-praise-long-delayed-first-sls-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T224720">2022-11-18 22:47:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T160050">2022-11-21 16:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T163935">2022-11-21 16:39:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
