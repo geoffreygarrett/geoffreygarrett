@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch Eutelsat-10B on final flight of booster B1049](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T182328">2022-11-21 18:23:28 UTC</a></sub>
 * [Orion soars around the Moon with a lonely Earth in the distance](https://arstechnica.com/science/2022/11/orion-soars-around-the-moon-with-a-lonely-earth-in-the-distance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T161305">2022-11-21 16:13:05 UTC</a></sub>
 * [Canadian startup developing lunar rover to deliver power](https://spacenews.com/canadian-startup-developing-lunar-rover-to-deliver-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T160715">2022-11-21 16:07:15 UTC</a></sub>
 * [NASA to Share Orion Update Today After Spacecraft Flies by Moon](http://www.nasa.gov/press-release/nasa-to-share-orion-update-today-after-spacecraft-flies-by-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T152800">2022-11-21 15:28:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force opens door to Blue Origin with new cooperative agreement](https://spacenews.com/space-force-opens-door-to-blue-origin-with-new-cooperative-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T111715">2022-11-20 11:17:15 UTC</a></sub>
 * [SpaceX ship headed 1000 kilometers out to sea for expendable Falcon 9 launch](https://www.teslarati.com/spacex-falcon-9-expendable-booster-recoverable-fairing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T064810">2022-11-20 06:48:10 UTC</a></sub>
 * [Orion capsule closes in for lunar flyby](https://spaceflightnow.com/2022/11/20/orion-capsule-closes-in-for-lunar-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T045701">2022-11-20 04:57:01 UTC</a></sub>
-* [SpaceX to launch last new cargo Dragon spacecraft](https://spacenews.com/spacex-to-launch-last-new-cargo-dragon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T180719">2022-11-19 18:07:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T180050">2022-11-21 18:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T183600">2022-11-21 18:36:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
