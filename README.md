@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Artemis 1 launch boosts ESA’s exploration ambitions](https://spacenews.com/artemis-1-launch-boosts-esas-exploration-ambitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T170723">2022-11-20 17:07:23 UTC</a></sub>
 * [Space Force opens door to Blue Origin with new cooperative agreement](https://spacenews.com/space-force-opens-door-to-blue-origin-with-new-cooperative-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T111715">2022-11-20 11:17:15 UTC</a></sub>
+* [Orion capsule closes in for lunar flyby](https://spaceflightnow.com/2022/11/20/orion-capsule-closes-in-for-lunar-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T045701">2022-11-20 04:57:01 UTC</a></sub>
 * [SpaceX to launch last new cargo Dragon spacecraft](https://spacenews.com/spacex-to-launch-last-new-cargo-dragon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T180719">2022-11-19 18:07:19 UTC</a></sub>
 * [Orion ready for lunar flyby maneuver](https://spacenews.com/orion-ready-for-lunar-flyby-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T025719">2022-11-19 02:57:19 UTC</a></sub>
 * [White House, Congress praise long-delayed first SLS launch](https://spacenews.com/white-house-congress-praise-long-delayed-first-sls-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T224720">2022-11-18 22:47:20 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [AST SpaceMobile searching for funds to accelerate constellation](https://spacenews.com/ast-spacemobile-searching-for-funds-to-accelerate-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211724">2022-11-18 21:17:24 UTC</a></sub>
 * [NASA Awards Contract for Liquid Helium Acquisition at Kennedy](http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-helium-acquisition-at-kennedy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211700">2022-11-18 21:17:00 UTC</a></sub>
 * [Europe reaches funding deal for sovereign broadband constellation](https://spacenews.com/europe-reaches-funding-deal-for-sovereign-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T155712">2022-11-18 15:57:12 UTC</a></sub>
-* [Maryland, Oklahoma Students to Hear from Space Station Astronauts](http://www.nasa.gov/press-release/maryland-oklahoma-students-to-hear-from-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T151800">2022-11-18 15:18:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T050043">2022-11-21 05:00:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T053209">2022-11-21 05:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
