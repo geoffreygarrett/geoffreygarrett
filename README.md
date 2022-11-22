@@ -181,16 +181,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force establishes permanent presence in Indo-Pacific region](https://spacenews.com/space-force-establishes-permanent-presence-in-indo-pacific-region/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T221720">2022-11-22 22:17:20 UTC</a></sub>
+* [SpaceX now targeting Tuesday evening for Eutelsat-10B launch](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T212328">2022-11-22 21:23:28 UTC</a></sub>
 * [The not-quite-tangible reality of Virtual Ground Stations](https://spacenews.com/the-not-quite-tangible-reality-of-virtual-ground-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T192724">2022-11-22 19:27:24 UTC</a></sub>
 * [NASA Invites Public Comment on Plans for Mars Sample Return Campaign](http://www.nasa.gov/press-release/nasa-invites-public-comment-on-plans-for-mars-sample-return-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T191800">2022-11-22 19:18:00 UTC</a></sub>
-* [NASA, SpaceX to launch Dragon to ISS on CRS-26 mission](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T155646">2022-11-22 15:56:46 UTC</a></sub>
+* [Weather delays NASA, SpaceX CRS-26 mission to ISS](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T155646">2022-11-22 15:56:46 UTC</a></sub>
 * [NASA’s new rocket blows the doors off its mobile launch tower](https://arstechnica.com/science/2022/11/nasas-new-rocket-blows-the-doors-off-its-mobile-launch-tower/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T142326">2022-11-22 14:23:26 UTC</a></sub>
 * [Europe looks to commercialize lunar exploration efforts](https://spacenews.com/europe-looks-to-commercialize-lunar-exploration-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T133712">2022-11-22 13:37:12 UTC</a></sub>
 * [ESA leadership optimistic about funding as ministerial begins](https://spacenews.com/esa-leadership-optimistic-about-funding-as-ministerial-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T123724">2022-11-22 12:37:24 UTC</a></sub>
 * [SpaceX doubleheader struck down by poor weather](https://www.teslarati.com/spacex-two-falcon-9-launches-six-hours-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T213814">2022-11-21 21:38:14 UTC</a></sub>
 * [NASA Awards Contract for NASA Financial Support Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-nasa-financial-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T211700">2022-11-21 21:17:00 UTC</a></sub>
-* [Space Force to recompete contract for integration of rideshare payloads](https://spacenews.com/space-force-to-recompete-contract-for-integration-of-rideshare-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T200724">2022-11-21 20:07:24 UTC</a></sub>
-* [CAPSTONE Forges New Path for NASA’s Future Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-forges-new-path-for-nasa-s-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T192700">2022-11-21 19:27:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T220109">2022-11-22 22:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T223324">2022-11-22 22:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
