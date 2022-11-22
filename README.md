@@ -203,6 +203,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The best gift ideas for space fans in 2022](https://www.planetary.org/articles/best-gifts-space-fans-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T150830">2022-11-22 15:08:30 UTC</a></sub>
 * [Europe in Space - A European astronaut story](https://www.getrevue.co/profile/andrewparsonson/issues/a-european-astronaut-story-1459429) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T143857">2022-11-21 14:38:57 UTC</a></sub>
 * [On the Issues](https://www.planetary.org/issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T140811">2022-11-21 14:08:11 UTC</a></sub>
 * [Launching and descending](https://www.planetary.org/the-downlink/launching-and-descending) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T153802">2022-11-18 15:38:02 UTC</a></sub>
@@ -212,7 +213,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [LightSail 2 is about to burn up](https://www.planetary.org/articles/lightsail-2-is-about-to-burn-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T221713">2022-11-14 22:17:13 UTC</a></sub>
 * [Europe in Space - More vehicles than customers](https://www.getrevue.co/profile/andrewparsonson/issues/more-vehicles-than-customers-1446755) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T141723">2022-11-14 14:17:23 UTC</a></sub>
 * [Two pale blue dots](https://www.planetary.org/the-downlink/two-pale-blue-dots) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T153711">2022-11-11 15:37:11 UTC</a></sub>
-* [JPSS-2 / LOFTID: Atlas V successfully launches for NASA and NOAA](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T122939">2022-11-10 12:29:39 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -225,7 +225,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T150054">2022-11-22 15:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T153409">2022-11-22 15:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
