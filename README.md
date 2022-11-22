@@ -187,10 +187,10 @@ region. The mission's status is currently Go for Launch
 * [NASA’s new rocket blows the doors off its mobile launch tower](https://arstechnica.com/science/2022/11/nasas-new-rocket-blows-the-doors-off-its-mobile-launch-tower/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T142326">2022-11-22 14:23:26 UTC</a></sub>
 * [Europe looks to commercialize lunar exploration efforts](https://spacenews.com/europe-looks-to-commercialize-lunar-exploration-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T133712">2022-11-22 13:37:12 UTC</a></sub>
 * [ESA leadership optimistic about funding as ministerial begins](https://spacenews.com/esa-leadership-optimistic-about-funding-as-ministerial-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T123724">2022-11-22 12:37:24 UTC</a></sub>
+* [SpaceX doubleheader struck down by poor weather](https://www.teslarati.com/spacex-two-falcon-9-launches-six-hours-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T213814">2022-11-21 21:38:14 UTC</a></sub>
 * [NASA Awards Contract for NASA Financial Support Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-nasa-financial-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T211700">2022-11-21 21:17:00 UTC</a></sub>
 * [Space Force to recompete contract for integration of rideshare payloads](https://spacenews.com/space-force-to-recompete-contract-for-integration-of-rideshare-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T200724">2022-11-21 20:07:24 UTC</a></sub>
 * [CAPSTONE Forges New Path for NASA’s Future Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-forges-new-path-for-nasa-s-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T192700">2022-11-21 19:27:00 UTC</a></sub>
-* [NASA’s Orion spacecraft completes powered flyby of the moon](https://spaceflightnow.com/2022/11/21/nasas-orion-spacecraft-completes-powered-flyby-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T190702">2022-11-21 19:07:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T213046">2022-11-22 21:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T220109">2022-11-22 22:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
