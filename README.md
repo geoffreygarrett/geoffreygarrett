@@ -192,7 +192,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [CAPSTONE Forges New Path for NASA’s Future Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-forges-new-path-for-nasa-s-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T192700">2022-11-21 19:27:00 UTC</a></sub>
 * [NASA’s Orion spacecraft completes powered flyby of the moon](https://spaceflightnow.com/2022/11/21/nasas-orion-spacecraft-completes-powered-flyby-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T190702">2022-11-21 19:07:02 UTC</a></sub>
 * [SpaceX targets doubleheader with Eutelsat-10B launch](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T182328">2022-11-21 18:23:28 UTC</a></sub>
-* [Orion soars around the Moon with a lonely Earth in the distance](https://arstechnica.com/science/2022/11/orion-soars-around-the-moon-with-a-lonely-earth-in-the-distance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T161305">2022-11-21 16:13:05 UTC</a></sub>
+* [Second pair of new space station solar arrays set for launch on Dragon cargo ship](https://spaceflightnow.com/2022/11/21/second-pair-of-new-space-station-solar-arrays-ready-for-launch-on-dragon-cargo-ship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T165700">2022-11-21 16:57:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T170246">2022-11-22 17:02:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T173322">2022-11-22 17:33:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
