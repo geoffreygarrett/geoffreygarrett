@@ -183,6 +183,8 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The not-quite-tangible reality of Virtual Ground Stations](https://spacenews.com/the-not-quite-tangible-reality-of-virtual-ground-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T192724">2022-11-22 19:27:24 UTC</a></sub>
+* [NASA Invites Public Comment on Plans for Mars Sample Return Campaign](http://www.nasa.gov/press-release/nasa-invites-public-comment-on-plans-for-mars-sample-return-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T191800">2022-11-22 19:18:00 UTC</a></sub>
 * [NASA, SpaceX to launch Dragon to ISS on CRS-26 mission](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T155646">2022-11-22 15:56:46 UTC</a></sub>
 * [NASA’s new rocket blows the doors off its mobile launch tower](https://arstechnica.com/science/2022/11/nasas-new-rocket-blows-the-doors-off-its-mobile-launch-tower/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T142326">2022-11-22 14:23:26 UTC</a></sub>
 * [Europe looks to commercialize lunar exploration efforts](https://spacenews.com/europe-looks-to-commercialize-lunar-exploration-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T133712">2022-11-22 13:37:12 UTC</a></sub>
@@ -191,8 +193,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Space Force to recompete contract for integration of rideshare payloads](https://spacenews.com/space-force-to-recompete-contract-for-integration-of-rideshare-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T200724">2022-11-21 20:07:24 UTC</a></sub>
 * [CAPSTONE Forges New Path for NASA’s Future Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-forges-new-path-for-nasa-s-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T192700">2022-11-21 19:27:00 UTC</a></sub>
 * [NASA’s Orion spacecraft completes powered flyby of the moon](https://spaceflightnow.com/2022/11/21/nasas-orion-spacecraft-completes-powered-flyby-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T190702">2022-11-21 19:07:02 UTC</a></sub>
-* [SpaceX targets doubleheader with Eutelsat-10B launch](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T182328">2022-11-21 18:23:28 UTC</a></sub>
-* [Second pair of new space station solar arrays set for launch on Dragon cargo ship](https://spaceflightnow.com/2022/11/21/second-pair-of-new-space-station-solar-arrays-ready-for-launch-on-dragon-cargo-ship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T165700">2022-11-21 16:57:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T190040">2022-11-22 19:00:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T193043">2022-11-22 19:30:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
