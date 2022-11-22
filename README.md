@@ -183,6 +183,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s new rocket blows the doors off its mobile launch tower](https://arstechnica.com/science/2022/11/nasas-new-rocket-blows-the-doors-off-its-mobile-launch-tower/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T142326">2022-11-22 14:23:26 UTC</a></sub>
 * [Europe looks to commercialize lunar exploration efforts](https://spacenews.com/europe-looks-to-commercialize-lunar-exploration-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T133712">2022-11-22 13:37:12 UTC</a></sub>
 * [ESA leadership optimistic about funding as ministerial begins](https://spacenews.com/esa-leadership-optimistic-about-funding-as-ministerial-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T123724">2022-11-22 12:37:24 UTC</a></sub>
 * [NASA Awards Contract for NASA Financial Support Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-nasa-financial-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T211700">2022-11-21 21:17:00 UTC</a></sub>
@@ -192,7 +193,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [SpaceX delays Eutelsat-10B launch on final flight of B1049](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T182328">2022-11-21 18:23:28 UTC</a></sub>
 * [Orion soars around the Moon with a lonely Earth in the distance](https://arstechnica.com/science/2022/11/orion-soars-around-the-moon-with-a-lonely-earth-in-the-distance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T161305">2022-11-21 16:13:05 UTC</a></sub>
 * [Canadian startup developing lunar rover to deliver power](https://spacenews.com/canadian-startup-developing-lunar-rover-to-deliver-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T160715">2022-11-21 16:07:15 UTC</a></sub>
-* [NASA to Share Orion Update Today After Spacecraft Flies by Moon](http://www.nasa.gov/press-release/nasa-to-share-orion-update-today-after-spacecraft-flies-by-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T152800">2022-11-21 15:28:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T140102">2022-11-22 14:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T143243">2022-11-22 14:32:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
