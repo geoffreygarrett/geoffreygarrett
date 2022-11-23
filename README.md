@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Launch Services Task Order for TROPICS CubeSats Mission](http://www.nasa.gov/press-release/nasa-awards-launch-services-task-order-for-tropics-cubesats-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T140700">2022-11-23 14:07:00 UTC</a></sub>
+* [SpaceX launches Eutelsat 10B on expendable Falcon 9](https://spacenews.com/134683-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T140658">2022-11-23 14:06:58 UTC</a></sub>
 * [Maxar to compensate Echostar for Jupiter 3 delays](https://spacenews.com/maxar-to-compensate-echostar-for-jupiter-3-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T133657">2022-11-23 13:36:57 UTC</a></sub>
 * [China to use space station to test space-based solar power](https://spacenews.com/china-to-use-space-station-to-test-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T123658">2022-11-23 12:36:58 UTC</a></sub>
 * [Hungary to spend $100 million on private astronaut mission to ISS](https://spacenews.com/hungary-to-spend-100-million-on-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T095728">2022-11-23 09:57:28 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Updates Coverage for Next SpaceX Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-for-next-spacex-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T224700">2022-11-22 22:47:00 UTC</a></sub>
 * [Space Force establishes permanent presence in Indo-Pacific region](https://spacenews.com/space-force-establishes-permanent-presence-in-indo-pacific-region/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T221720">2022-11-22 22:17:20 UTC</a></sub>
 * [SpaceX dodges weather to launch Eutelsat-10B](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T212328">2022-11-22 21:23:28 UTC</a></sub>
-* [The not-quite-tangible reality of Virtual Ground Stations](https://spacenews.com/the-not-quite-tangible-reality-of-virtual-ground-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T192724">2022-11-22 19:27:24 UTC</a></sub>
-* [NASA Invites Public Comment on Plans for Mars Sample Return Campaign](http://www.nasa.gov/press-release/nasa-invites-public-comment-on-plans-for-mars-sample-return-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T191800">2022-11-22 19:18:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T140048">2022-11-23 14:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T143136">2022-11-23 14:31:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
