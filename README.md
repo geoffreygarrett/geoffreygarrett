@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [“Alexa, turn on the lights”; Lockheed Martin, Amazon, Cisco test virtual assistant, deep space video conferencing](https://www.nasaspaceflight.com/2022/11/callisto-orion-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T170921">2022-11-23 17:09:21 UTC</a></sub>
+* [The long, tangled journey of a European rover to Mars takes another twist](https://arstechnica.com/science/2022/11/the-long-tangled-journey-of-a-european-rover-to-mars-takes-another-twist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T165909">2022-11-23 16:59:09 UTC</a></sub>
 * [NASA Awards Launch Services Task Order for TROPICS CubeSats Mission](http://www.nasa.gov/press-release/nasa-awards-launch-services-task-order-for-tropics-cubesats-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T140700">2022-11-23 14:07:00 UTC</a></sub>
 * [SpaceX launches Eutelsat 10B on expendable Falcon 9](https://spacenews.com/134683-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T140658">2022-11-23 14:06:58 UTC</a></sub>
 * [Maxar to compensate Echostar for Jupiter 3 delays](https://spacenews.com/maxar-to-compensate-echostar-for-jupiter-3-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T133657">2022-11-23 13:36:57 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [France, Germany and Italy sign agreement on launch vehicle development](https://spacenews.com/france-germany-and-italy-sign-agreement-on-launch-vehicle-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T080739">2022-11-23 08:07:39 UTC</a></sub>
 * [Viasat wins $325 million U.S. Special Operations Command contract](https://spacenews.com/viasat-wins-325-million-u-s-special-operations-command-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T230723">2022-11-22 23:07:23 UTC</a></sub>
 * [NASA Updates Coverage for Next SpaceX Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-for-next-spacex-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T224700">2022-11-22 22:47:00 UTC</a></sub>
-* [Space Force establishes permanent presence in Indo-Pacific region](https://spacenews.com/space-force-establishes-permanent-presence-in-indo-pacific-region/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T221720">2022-11-22 22:17:20 UTC</a></sub>
-* [SpaceX dodges weather to launch Eutelsat-10B](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T212328">2022-11-22 21:23:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T170100">2022-11-23 17:01:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T173054">2022-11-23 17:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
