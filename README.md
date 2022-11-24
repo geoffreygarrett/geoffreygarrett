@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA announces new astronaut class](https://spacenews.com/esa-announces-new-astronaut-class/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T233658">2022-11-23 23:36:58 UTC</a></sub>
 * [ESA secures 16.9 billion euros at ministerial](https://spacenews.com/esa-secures-16-9-billion-euros-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T175657">2022-11-23 17:56:57 UTC</a></sub>
 * [“Alexa, turn on the lights”; Lockheed Martin, Amazon, Cisco test virtual assistant, deep space video conferencing](https://www.nasaspaceflight.com/2022/11/callisto-orion-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T170921">2022-11-23 17:09:21 UTC</a></sub>
 * [The long, tangled journey of a European rover to Mars takes another twist](https://arstechnica.com/science/2022/11/the-long-tangled-journey-of-a-european-rover-to-mars-takes-another-twist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T165909">2022-11-23 16:59:09 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [China to use space station to test space-based solar power](https://spacenews.com/china-to-use-space-station-to-test-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T123658">2022-11-23 12:36:58 UTC</a></sub>
 * [Hungary to spend $100 million on private astronaut mission to ISS](https://spacenews.com/hungary-to-spend-100-million-on-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T095728">2022-11-23 09:57:28 UTC</a></sub>
 * [France, Germany and Italy sign agreement on launch vehicle development](https://spacenews.com/france-germany-and-italy-sign-agreement-on-launch-vehicle-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T080739">2022-11-23 08:07:39 UTC</a></sub>
-* [Viasat wins $325 million U.S. Special Operations Command contract](https://spacenews.com/viasat-wins-325-million-u-s-special-operations-command-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T230723">2022-11-22 23:07:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221124T000117">2022-11-24 00:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221124T004641">2022-11-24 00:46:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
