@@ -184,7 +184,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <!-- spaceflight news starts -->
 * [Orion enters lunar distant retrograde orbit](https://spacenews.com/orion-enters-lunar-distant-retrograde-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T234659">2022-11-25 23:46:59 UTC</a></sub>
 * [NASA to Share Artemis I Update with Orion at Farthest Point from Earth](http://www.nasa.gov/press-release/nasa-to-share-artemis-i-update-with-orion-at-farthest-point-from-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T230700">2022-11-25 23:07:00 UTC</a></sub>
-* [ISRO to launch ocean research satellite aboard PSLV](https://www.nasaspaceflight.com/2022/11/isro-pslv-oceansat-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T230317">2022-11-25 23:03:17 UTC</a></sub>
+* [ISRO launches ocean research satellite aboard PSLV](https://www.nasaspaceflight.com/2022/11/isro-pslv-oceansat-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T230317">2022-11-25 23:03:17 UTC</a></sub>
 * [Rocket Lab to launch remaining NASA TROPICS satellites](https://spacenews.com/rocket-lab-to-launch-remaining-nasa-tropics-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T173657">2022-11-25 17:36:57 UTC</a></sub>
 * [Equipment defect delays first commercial Vega C flight](https://spacenews.com/equipment-defect-delays-first-commercial-vega-c-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T171657">2022-11-25 17:16:57 UTC</a></sub>
 * [ESA announces new astronaut class](https://spacenews.com/esa-announces-new-astronaut-class/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T233658">2022-11-23 23:36:58 UTC</a></sub>
@@ -224,7 +224,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T070042">2022-11-26 07:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T073052">2022-11-26 07:30:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
