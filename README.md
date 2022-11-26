@@ -182,6 +182,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, SpaceX ready for second attempt to launch CRS-26 mission to ISS](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T135646">2022-11-26 13:56:46 UTC</a></sub>
 * [Orion enters lunar distant retrograde orbit](https://spacenews.com/orion-enters-lunar-distant-retrograde-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T234659">2022-11-25 23:46:59 UTC</a></sub>
 * [NASA to Share Artemis I Update with Orion at Farthest Point from Earth](http://www.nasa.gov/press-release/nasa-to-share-artemis-i-update-with-orion-at-farthest-point-from-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T230700">2022-11-25 23:07:00 UTC</a></sub>
 * [ISRO launches ocean research satellite aboard PSLV](https://www.nasaspaceflight.com/2022/11/isro-pslv-oceansat-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T230317">2022-11-25 23:03:17 UTC</a></sub>
@@ -191,7 +192,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [ESA secures 16.9 billion euros at ministerial](https://spacenews.com/esa-secures-16-9-billion-euros-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T175657">2022-11-23 17:56:57 UTC</a></sub>
 * [“Alexa, turn on the lights”; Lockheed Martin, Amazon, Cisco test virtual assistant, deep space video conferencing](https://www.nasaspaceflight.com/2022/11/callisto-orion-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T170921">2022-11-23 17:09:21 UTC</a></sub>
 * [The long, tangled journey of a European rover to Mars takes another twist](https://arstechnica.com/science/2022/11/the-long-tangled-journey-of-a-european-rover-to-mars-takes-another-twist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T165909">2022-11-23 16:59:09 UTC</a></sub>
-* [NASA Awards Launch Services Task Order for TROPICS CubeSats Mission](http://www.nasa.gov/press-release/nasa-awards-launch-services-task-order-for-tropics-cubesats-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T140700">2022-11-23 14:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T140042">2022-11-26 14:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T143043">2022-11-26 14:30:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
