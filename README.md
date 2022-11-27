@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Soyuz 2.1b/Fregat-M | Glonass-M No. 61 at the
-<a href="">43/3 (43L)</a> in
-Plesetsk Cosmodrome, Russian Federation
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T150000">2022-11-27 15:00:00 UTC</a>. Until
-then, this launch pad will have seen 225
-out of 1657 launches in this
+Long March 2F/G | Shenzhou 15 at the
+<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a> in
+Jiuquan, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T145800">2022-11-29 14:58:00 UTC</a>. Until
+then, this launch pad will have seen 18
+out of 177 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Glonass-M, also known as Uragan-M, are the second generation of Uragan satellite design used for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and design life. Each satellite weighs 1415 kg, is equipped with 12 L-band antennas, and has an operational lifetime of 7 years.
+  Fourth crewed flight to the Chinese large modular space station.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_2F/G" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=62.9273+N,+40.450+E&amp;ie=UTF8&amp;z=16&amp;ll=62.92755,40.450008&amp;spn=0.004365,0.021629&amp;t=h&amp;om=0&amp;iwloc=addr" >
+  <a href="http://maps.google.com/maps?q=40.958093,100.291188" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Glonass-M No. 61</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T150000">2022-11-27 15:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Glonass-M No. 61&location=Plesetsk Cosmodrome, Russian Federation&dates=20221127T150000Z%2F20221127T173000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Shenzhou 15</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T145800">2022-11-29 14:58:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 15&location=Jiuquan, People&#x27;s Republic of China&dates=20221129T145800Z%2F20221129T153900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-4</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T000000">2022-11-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20221130T000000Z%2F20221130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Amber-1</b> from Air launch to orbit. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T000000">2022-11-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Amber-1&location=Air launch to orbit&dates=20221130T000000Z%2F20221130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,12 +179,12 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [SpaceX supply ship docks at space station](https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T125654">2022-11-27 12:56:54 UTC</a></sub>
+* [NASA, SpaceX launch and dock CRS-26 mission to ISS](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T115646">2022-11-27 11:56:46 UTC</a></sub>
 * [SpaceX launches Dragon cargo ship to deliver new solar arrays to space station](https://spaceflightnow.com/2022/11/26/spacex-launches-dragon-cargo-ship-to-deliver-new-solar-arrays-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T211654">2022-11-26 21:16:54 UTC</a></sub>
 * [SpaceX launches new cargo Dragon spacecraft to space station](https://spacenews.com/spacex-launches-new-cargo-dragon-spacecraft-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T203658">2022-11-26 20:36:58 UTC</a></sub>
 * [Moon Microscope, Solar Arrays Launch on NASA’s SpaceX Cargo Ship](http://www.nasa.gov/press-release/moon-microscope-solar-arrays-launch-on-nasa-s-spacex-cargo-ship) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T200700">2022-11-26 20:07:00 UTC</a></sub>
 * [Join us for a fireside chat with Lori Garver & Jim Bridenstine](https://spacenews.com/join-us-for-a-fireside-chat-with-lori-garver-jim-bridenstine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T192657">2022-11-26 19:26:57 UTC</a></sub>
 * [India’s PSLV rocket launches nine satellites in final mission of 2022](https://spacenews.com/indias-pslv-rocket-launches-nine-satellites-in-final-mission-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T154658">2022-11-26 15:46:58 UTC</a></sub>
-* [NASA, SpaceX launch CRS-26 mission to ISS](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T135646">2022-11-26 13:56:46 UTC</a></sub>
 * [Orion enters lunar distant retrograde orbit](https://spacenews.com/orion-enters-lunar-distant-retrograde-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T234659">2022-11-25 23:46:59 UTC</a></sub>
 * [NASA to Share Artemis I Update with Orion at Farthest Point from Earth](http://www.nasa.gov/press-release/nasa-to-share-artemis-i-update-with-orion-at-farthest-point-from-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T230700">2022-11-25 23:07:00 UTC</a></sub>
 * [ISRO launches ocean research satellite aboard PSLV](https://www.nasaspaceflight.com/2022/11/isro-pslv-oceansat-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T230317">2022-11-25 23:03:17 UTC</a></sub>
@@ -221,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T143046">2022-11-27 14:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T150054">2022-11-27 15:00:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
