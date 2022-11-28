@@ -185,10 +185,10 @@ region. The mission's status is currently Go for Launch
 * [SpaceX supply ship docks at space station](https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T125654">2022-11-27 12:56:54 UTC</a></sub>
 * [NASA, SpaceX launch and dock CRS-26 mission to ISS](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T115646">2022-11-27 11:56:46 UTC</a></sub>
 * [SpaceX Dragon delivers supplies, upgraded solar arrays to space station](https://www.teslarati.com/spacex-dragon-delivers-upgraded-space-station-solar-arrays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T051715">2022-11-27 05:17:15 UTC</a></sub>
+* [Orion capsule enters distant retrograde orbit, breaks Apollo distance record](https://spaceflightnow.com/2022/11/26/orion-capsule-enters-distant-retrograde-orbit-breaks-apollo-distance-record/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T213439">2022-11-26 21:34:39 UTC</a></sub>
 * [SpaceX launches Dragon cargo ship to deliver new solar arrays to space station](https://spaceflightnow.com/2022/11/26/spacex-launches-dragon-cargo-ship-to-deliver-new-solar-arrays-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T211654">2022-11-26 21:16:54 UTC</a></sub>
 * [SpaceX launches new cargo Dragon spacecraft to space station](https://spacenews.com/spacex-launches-new-cargo-dragon-spacecraft-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T203658">2022-11-26 20:36:58 UTC</a></sub>
 * [Moon Microscope, Solar Arrays Launch on NASA’s SpaceX Cargo Ship](http://www.nasa.gov/press-release/moon-microscope-solar-arrays-launch-on-nasa-s-spacex-cargo-ship) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T200700">2022-11-26 20:07:00 UTC</a></sub>
-* [Join us for a fireside chat with Lori Garver & Jim Bridenstine](https://spacenews.com/join-us-for-a-fireside-chat-with-lori-garver-jim-bridenstine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T192657">2022-11-26 19:26:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T213047">2022-11-28 21:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T220056">2022-11-28 22:00:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
