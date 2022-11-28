@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China outlines pathway for lunar and deep space exploration](https://spacenews.com/china-outlines-pathway-for-lunar-and-deep-space-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T105657">2022-11-28 10:56:57 UTC</a></sub>
 * [Millennium Space’s missile-warning satellite clears design review](https://spacenews.com/millennium-spaces-missile-warning-satellite-clears-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T225657">2022-11-27 22:56:57 UTC</a></sub>
 * [SpaceX supply ship docks at space station](https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T125654">2022-11-27 12:56:54 UTC</a></sub>
 * [NASA, SpaceX launch and dock CRS-26 mission to ISS](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T115646">2022-11-27 11:56:46 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Moon Microscope, Solar Arrays Launch on NASA’s SpaceX Cargo Ship](http://www.nasa.gov/press-release/moon-microscope-solar-arrays-launch-on-nasa-s-spacex-cargo-ship) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T200700">2022-11-26 20:07:00 UTC</a></sub>
 * [Join us for a fireside chat with Lori Garver & Jim Bridenstine](https://spacenews.com/join-us-for-a-fireside-chat-with-lori-garver-jim-bridenstine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T192657">2022-11-26 19:26:57 UTC</a></sub>
 * [India’s PSLV rocket launches nine satellites in final mission of 2022](https://spacenews.com/indias-pslv-rocket-launches-nine-satellites-in-final-mission-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T154658">2022-11-26 15:46:58 UTC</a></sub>
-* [Orion enters lunar distant retrograde orbit](https://spacenews.com/orion-enters-lunar-distant-retrograde-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T234659">2022-11-25 23:46:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T110047">2022-11-28 11:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T113047">2022-11-28 11:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
