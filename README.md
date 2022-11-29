@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA’s ExoMars plans depend on NASA contributions](https://spacenews.com/esas-exomars-plans-depend-on-nasa-contributions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T130441">2022-11-29 13:04:41 UTC</a></sub>
 * [Artemis 1 mission reaches halfway point](https://spacenews.com/artemis-1-mission-reaches-halfway-point/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T121453">2022-11-29 12:14:53 UTC</a></sub>
 * [Demonstration of new layer of missile-warning satellites planned for 2026](https://spacenews.com/demonstration-of-new-layer-of-missile-warning-satellites-planned-for-2026/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T234442">2022-11-28 23:44:42 UTC</a></sub>
 * [We’ve reached the end of a bizarre Atlantic hurricane season](https://arstechnica.com/science/2022/11/a-most-abnormal-atlantic-hurricane-season-officially-ends-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T155409">2022-11-28 15:54:09 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force delivers final payload for Space Norway’s arctic broadband mission](https://spacenews.com/space-force-delivers-final-payload-for-space-norways-arctic-broadband-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T011442">2022-11-28 01:14:42 UTC</a></sub>
 * [Space Force orders three GPS satellites for $744 million](https://spacenews.com/space-force-orders-three-gps-satellites-for-744-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T000442">2022-11-28 00:04:42 UTC</a></sub>
 * [Millennium Space’s missile-warning satellite clears design review](https://spacenews.com/millennium-spaces-missile-warning-satellite-clears-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T225657">2022-11-27 22:56:57 UTC</a></sub>
-* [SpaceX supply ship docks at space station](https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T125654">2022-11-27 12:56:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T130639">2022-11-29 13:06:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T133601">2022-11-29 13:36:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
