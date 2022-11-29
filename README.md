@@ -181,16 +181,16 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Shenzhou 15 astronauts arrive at China’s space station for first crew handover](https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T231446">2022-11-29 23:14:46 UTC</a></sub>
+* [NASA cancels GeoCarb greenhouse gas monitoring mission](https://spacenews.com/nasa-cancels-geocarb-greenhouse-gas-monitoring-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T225445">2022-11-29 22:54:45 UTC</a></sub>
+* [Shay Har-Noy takes the helm at Edgybees](https://spacenews.com/har-noy-to-edgybees/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T223446">2022-11-29 22:34:46 UTC</a></sub>
+* [SpaceX to launch Falcon 9 with private Japanese moon lander](https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222555">2022-11-29 22:25:55 UTC</a></sub>
+* [SpaceX fires up 11 engines as it prepares massive rocket for orbital test](https://arstechnica.com/science/2022/11/spacex-completes-long-duration-test-fire-of-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222401">2022-11-29 22:24:01 UTC</a></sub>
 * [SiriusXM orders pair of satellites to expand in Canada and Alaska](https://spacenews.com/siriusxm-orders-pair-of-satellites-to-expand-in-canada-and-alaska/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T212446">2022-11-29 21:24:46 UTC</a></sub>
 * [U.S. Space Command supports use of ‘responsive launch’ to deter China and Russia](https://spacenews.com/u-s-space-command-supports-use-of-responsive-launch-to-deter-china-and-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T203442">2022-11-29 20:34:42 UTC</a></sub>
 * [UK firm to release GEO-compatible smartphone early next year](https://spacenews.com/uk-firm-to-release-geo-compatible-smartphone-early-next-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T195441">2022-11-29 19:54:41 UTC</a></sub>
 * [Pentagon report: China’s space strategy shaped by technological change](https://spacenews.com/pentagon-report-chinas-space-strategy-shaped-by-technological-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T190442">2022-11-29 19:04:42 UTC</a></sub>
 * [NASA to Cancel GeoCarb Mission, Expands Greenhouse Gas Portfolio](http://www.nasa.gov/press-release/nasa-to-cancel-geocarb-mission-expands-greenhouse-gas-portfolio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T181400">2022-11-29 18:14:00 UTC</a></sub>
-* [Amazon used AWS on a satellite in orbit to speed up data analysis in ‘first-of-its kind’ experiment](https://www.cnbc.com/2022/11/29/amazon-aws-experiment-satellite-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T163001">2022-11-29 16:30:01 UTC</a></sub>
-* [South Korean leader eyes “landing on moon in 2032, Mars in 2045”](https://spacenews.com/134853-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T145442">2022-11-29 14:54:42 UTC</a></sub>
-* [NASA, ICON Advance Lunar Construction Technology for Moon Missions](http://www.nasa.gov/press-release/nasa-icon-advance-lunar-construction-technology-for-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T141400">2022-11-29 14:14:00 UTC</a></sub>
-* [China finishing busy Space station year with Shenzhou-15](https://www.nasaspaceflight.com/2022/11/shenzhou-15-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T140045">2022-11-29 14:00:45 UTC</a></sub>
-* [Orion flies far beyond the Moon, returns an instantly iconic photo](https://arstechnica.com/science/2022/11/orion-flies-far-beyond-the-moon-returns-an-instantly-iconic-photo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T134224">2022-11-29 13:42:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T230047">2022-11-29 23:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T233231">2022-11-29 23:32:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
