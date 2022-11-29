@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis 1 mission reaches halfway point](https://spacenews.com/artemis-1-mission-reaches-halfway-point/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T121453">2022-11-29 12:14:53 UTC</a></sub>
 * [Demonstration of new layer of missile-warning satellites planned for 2026](https://spacenews.com/demonstration-of-new-layer-of-missile-warning-satellites-planned-for-2026/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T234442">2022-11-28 23:44:42 UTC</a></sub>
 * [We’ve reached the end of a bizarre Atlantic hurricane season](https://arstechnica.com/science/2022/11/a-most-abnormal-atlantic-hurricane-season-officially-ends-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T155409">2022-11-28 15:54:09 UTC</a></sub>
 * [China outlines pathway for lunar and deep space exploration](https://spacenews.com/china-outlines-pathway-for-lunar-and-deep-space-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T105657">2022-11-28 10:56:57 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force orders three GPS satellites for $744 million](https://spacenews.com/space-force-orders-three-gps-satellites-for-744-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T000442">2022-11-28 00:04:42 UTC</a></sub>
 * [Millennium Space’s missile-warning satellite clears design review](https://spacenews.com/millennium-spaces-missile-warning-satellite-clears-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T225657">2022-11-27 22:56:57 UTC</a></sub>
 * [SpaceX supply ship docks at space station](https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T125654">2022-11-27 12:56:54 UTC</a></sub>
-* [NASA, SpaceX launch and dock CRS-26 mission to ISS](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T115646">2022-11-27 11:56:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T120056">2022-11-29 12:00:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T124148">2022-11-29 12:41:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
