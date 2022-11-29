@@ -34,7 +34,6 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 * [Understand and fix rever ("news" workflow)](https://github.com/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Multiline tagging for parser](https://github.com/tudat-team/tudat-multidoc/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T215945">2021-12-30 21:59:45 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Intersphinx linking to properties not working](https://github.com/tudat-team/tudat-space/issues/27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211105T141639">2021-11-05 14:16:39 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
-* [Move content from tudat-space to tudat-developer-docs](https://github.com/tudat-team/tudat-developer-docs/issues/11) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211014T120651">2021-10-14 12:06:51 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 
 <!-- github issues ends -->
 
@@ -136,6 +135,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Galaxy 35 & 36, MTG-I1</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T203000">2022-12-13 20:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Galaxy 35 &amp; 36, MTG-I1&location=Kourou, French Guiana&dates=20221213T203000Z%2F20221213T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>O3b mPower 1 & 2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T000000">2022-12-15 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 1 &amp; 2&location=Cape Canaveral, FL, USA&dates=20221215T000000Z%2F20221215T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SWOT - Surface Water and Ocean Topography</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T114601">2022-12-15 11:46:01 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SWOT - Surface Water and Ocean Topography&location=Vandenberg SFB, CA, USA&dates=20221215T114601Z%2F20221215T114601Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Pléiades Neo 5 & 6</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T000000">2022-12-20 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Pléiades Neo 5 &amp; 6&location=Kourou, French Guiana&dates=20221220T000000Z%2F20221220T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -181,6 +181,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [South Korean leader eyes “landing on moon in 2032, Mars in 2045”](https://spacenews.com/134853-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T145442">2022-11-29 14:54:42 UTC</a></sub>
 * [NASA, ICON Advance Lunar Construction Technology for Moon Missions](http://www.nasa.gov/press-release/nasa-icon-advance-lunar-construction-technology-for-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T141400">2022-11-29 14:14:00 UTC</a></sub>
 * [China to finish busy Space station year with Shenzhou-15](https://www.nasaspaceflight.com/2022/11/shenzhou-15-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T140045">2022-11-29 14:00:45 UTC</a></sub>
 * [Orion flies far beyond the Moon, returns an instantly iconic photo](https://arstechnica.com/science/2022/11/orion-flies-far-beyond-the-moon-returns-an-instantly-iconic-photo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T134224">2022-11-29 13:42:24 UTC</a></sub>
@@ -190,7 +191,6 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 * [We’ve reached the end of a bizarre Atlantic hurricane season](https://arstechnica.com/science/2022/11/a-most-abnormal-atlantic-hurricane-season-officially-ends-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T155409">2022-11-28 15:54:09 UTC</a></sub>
 * [China outlines pathway for lunar and deep space exploration](https://spacenews.com/china-outlines-pathway-for-lunar-and-deep-space-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T105657">2022-11-28 10:56:57 UTC</a></sub>
 * [Three Chinese astronauts ready for flight to Tiangong space station](https://spaceflightnow.com/2022/11/28/three-chinese-astronauts-ready-for-flight-to-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T100438">2022-11-28 10:04:38 UTC</a></sub>
-* [SpaceX set to launch Japanese Moon lander, NASA ice surveyor cubesat](https://www.teslarati.com/spacex-ispace-japanese-moon-lander-nasa-cubesat-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T050500">2022-11-28 05:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T150056">2022-11-29 15:00:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T153303">2022-11-29 15:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
