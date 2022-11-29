@@ -34,7 +34,6 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 * [Understand and fix rever ("news" workflow)](https://github.com/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Multiline tagging for parser](https://github.com/tudat-team/tudat-multidoc/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T215945">2021-12-30 21:59:45 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Intersphinx linking to properties not working](https://github.com/tudat-team/tudat-space/issues/27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211105T141639">2021-11-05 14:16:39 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
-* [Move content from tudat-space to tudat-developer-docs](https://github.com/tudat-team/tudat-developer-docs/issues/11) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211014T120651">2021-10-14 12:06:51 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 
 <!-- github issues ends -->
 
@@ -182,6 +181,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Cancel GeoCarb Mission, Expands Greenhouse Gas Portfolio](http://www.nasa.gov/press-release/nasa-to-cancel-geocarb-mission-expands-greenhouse-gas-portfolio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T181400">2022-11-29 18:14:00 UTC</a></sub>
 * [Amazon used AWS on a satellite in orbit to speed up data analysis in ‘first-of-its kind’ experiment](https://www.cnbc.com/2022/11/29/amazon-aws-experiment-satellite-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T163001">2022-11-29 16:30:01 UTC</a></sub>
 * [South Korean leader eyes “landing on moon in 2032, Mars in 2045”](https://spacenews.com/134853-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T145442">2022-11-29 14:54:42 UTC</a></sub>
 * [NASA, ICON Advance Lunar Construction Technology for Moon Missions](http://www.nasa.gov/press-release/nasa-icon-advance-lunar-construction-technology-for-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T141400">2022-11-29 14:14:00 UTC</a></sub>
@@ -191,7 +191,6 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 * [Artemis 1 mission reaches halfway point](https://spacenews.com/artemis-1-mission-reaches-halfway-point/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T121453">2022-11-29 12:14:53 UTC</a></sub>
 * [Demonstration of new layer of missile-warning satellites planned for 2026](https://spacenews.com/demonstration-of-new-layer-of-missile-warning-satellites-planned-for-2026/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T234442">2022-11-28 23:44:42 UTC</a></sub>
 * [Orion sails through halfway point of Artemis 1 moon mission](https://spaceflightnow.com/2022/11/28/orion-sails-through-halfway-point-of-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T163439">2022-11-28 16:34:39 UTC</a></sub>
-* [We’ve reached the end of a bizarre Atlantic hurricane season](https://arstechnica.com/science/2022/11/a-most-abnormal-atlantic-hurricane-season-officially-ends-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T155409">2022-11-28 15:54:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +223,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T180102">2022-11-29 18:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T183411">2022-11-29 18:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
