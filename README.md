@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China’s Tianzhou-4 cargo spacecraft deployed a small satellite before deorbiting](https://spacenews.com/chinas-tianzhou-4-cargo-spacecraft-deployed-a-small-satellite-before-deorbiting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T101443">2022-11-30 10:14:43 UTC</a></sub>
 * [Shenzhou 15 astronauts arrive at China’s space station for first crew handover](https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T231446">2022-11-29 23:14:46 UTC</a></sub>
 * [NASA cancels GeoCarb greenhouse gas monitoring mission](https://spacenews.com/nasa-cancels-geocarb-greenhouse-gas-monitoring-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T225445">2022-11-29 22:54:45 UTC</a></sub>
 * [Shay Har-Noy takes the helm at Edgybees](https://spacenews.com/har-noy-to-edgybees/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T223446">2022-11-29 22:34:46 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [U.S. Space Command supports use of ‘responsive launch’ to deter China and Russia](https://spacenews.com/u-s-space-command-supports-use-of-responsive-launch-to-deter-china-and-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T203442">2022-11-29 20:34:42 UTC</a></sub>
 * [UK firm to release GEO-compatible smartphone early next year](https://spacenews.com/uk-firm-to-release-geo-compatible-smartphone-early-next-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T195441">2022-11-29 19:54:41 UTC</a></sub>
 * [Pentagon report: China’s space strategy shaped by technological change](https://spacenews.com/pentagon-report-chinas-space-strategy-shaped-by-technological-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T190442">2022-11-29 19:04:42 UTC</a></sub>
-* [NASA to Cancel GeoCarb Mission, Expands Greenhouse Gas Portfolio](http://www.nasa.gov/press-release/nasa-to-cancel-geocarb-mission-expands-greenhouse-gas-portfolio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T181400">2022-11-29 18:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T100054">2022-11-30 10:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T103351">2022-11-30 10:33:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
