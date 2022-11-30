@@ -135,6 +135,7 @@ region. The mission's status is currently Go for Launch
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Virginia is for Launch Lovers</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T230000">2022-12-07 23:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20221207T230000Z%2F20221208T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Galaxy 35 & 36, MTG-I1</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T203000">2022-12-13 20:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Galaxy 35 &amp; 36, MTG-I1&location=Kourou, French Guiana&dates=20221213T203000Z%2F20221213T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>O3b mPower 1 & 2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T000000">2022-12-15 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 1 &amp; 2&location=Cape Canaveral, FL, USA&dates=20221215T000000Z%2F20221215T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SWOT - Surface Water and Ocean Topography</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T114601">2022-12-15 11:46:01 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SWOT - Surface Water and Ocean Topography&location=Vandenberg SFB, CA, USA&dates=20221215T114601Z%2F20221215T114601Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -200,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Best space pictures of the month: November 2022](https://www.planetary.org/articles/best-space-pictures-november-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T150503">2022-11-30 15:05:03 UTC</a></sub>
 * [What the 2022 midterm elections mean for NASA](https://www.planetary.org/articles/2022-midterm-elections) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T140504">2022-11-29 14:05:04 UTC</a></sub>
 * [2022 impact report](https://www.planetary.org/articles/2022-impact-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221124T150712">2022-11-24 15:07:12 UTC</a></sub>
 * [The best gift ideas for space fans in 2022](https://www.planetary.org/articles/best-gifts-space-fans-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T150830">2022-11-22 15:08:30 UTC</a></sub>
@@ -209,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [Launching and descending](https://www.planetary.org/the-downlink/launching-and-descending) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T153802">2022-11-18 15:38:02 UTC</a></sub>
 * [LightSail 2 completes mission with atmospheric reentry](https://www.planetary.org/articles/lightsail-2-completes-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T215804">2022-11-17 21:58:04 UTC</a></sub>
 * [Meet The Planetary Academy](https://www.planetary.org/articles/meet-the-planetary-academy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165811">2022-11-15 16:58:11 UTC</a></sub>
-* [NASA’s Artemis I mission has successfully launched](https://www.planetary.org/articles/nasa-artemis-i-successfully-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T065814">2022-11-15 06:58:14 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T150048">2022-11-30 15:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T153319">2022-11-30 15:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
