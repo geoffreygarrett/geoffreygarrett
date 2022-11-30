@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [US Vice President, French President Visit NASA Headquarters](http://www.nasa.gov/press-release/us-vice-president-french-president-visit-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T202500">2022-11-30 20:25:00 UTC</a></sub>
+* [Hiber demands Astrocast cash after failed acquisition](https://spacenews.com/hiber-demands-astrocast-cash-after-failed-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T202444">2022-11-30 20:24:44 UTC</a></sub>
 * [OroraTech raises funding for additional thermal mapping satellites](https://spacenews.com/ororatech-raises-funding-for-additional-thermal-mapping-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T194442">2022-11-30 19:44:42 UTC</a></sub>
 * [Boeing talks Core Stage performance on Artemis I, looks ahead to future Core Stages and EUS debut](https://www.nasaspaceflight.com/2022/11/core-stage-sls-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T190640">2022-11-30 19:06:40 UTC</a></sub>
 * [SpaceX set to launch two spacecraft to the Moon tonight](https://arstechnica.com/science/2022/11/spacex-set-to-launch-two-spacecraft-to-the-moon-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T174932">2022-11-30 17:49:32 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [China’s Tianzhou-4 cargo spacecraft deployed a small satellite before deorbiting](https://spacenews.com/chinas-tianzhou-4-cargo-spacecraft-deployed-a-small-satellite-before-deorbiting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T101443">2022-11-30 10:14:43 UTC</a></sub>
 * [Shenzhou 15 astronauts arrive at China’s space station for first crew handover](https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T231446">2022-11-29 23:14:46 UTC</a></sub>
 * [NASA cancels GeoCarb greenhouse gas monitoring mission](https://spacenews.com/nasa-cancels-geocarb-greenhouse-gas-monitoring-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T225445">2022-11-29 22:54:45 UTC</a></sub>
-* [Shay Har-Noy takes the helm at Edgybees](https://spacenews.com/har-noy-to-edgybees/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T223446">2022-11-29 22:34:46 UTC</a></sub>
-* [SpaceX to launch Falcon 9 carrying private Japanese moon lander](https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222555">2022-11-29 22:25:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T200049">2022-11-30 20:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T203210">2022-11-30 20:32:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
