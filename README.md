@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing talks Core Stage performance on Artemis I, looks ahead to future Core Stages and EUS debut](https://www.nasaspaceflight.com/2022/11/core-stage-sls-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T190640">2022-11-30 19:06:40 UTC</a></sub>
 * [SpaceX set to launch two spacecraft to the Moon tonight](https://arstechnica.com/science/2022/11/spacex-set-to-launch-two-spacecraft-to-the-moon-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T174932">2022-11-30 17:49:32 UTC</a></sub>
 * [NASA Responds to Independent Review of Earth System Observatory](http://www.nasa.gov/press-release/nasa-responds-to-independent-review-of-earth-system-observatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T170400">2022-11-30 17:04:00 UTC</a></sub>
 * [Vega C to launch five Copernicus spacecraft](https://spacenews.com/vega-c-to-launch-five-copernicus-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T111442">2022-11-30 11:14:42 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Shay Har-Noy takes the helm at Edgybees](https://spacenews.com/har-noy-to-edgybees/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T223446">2022-11-29 22:34:46 UTC</a></sub>
 * [SpaceX to launch Falcon 9 carrying private Japanese moon lander](https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222555">2022-11-29 22:25:55 UTC</a></sub>
 * [SpaceX fires up 11 engines as it prepares massive rocket for orbital test](https://arstechnica.com/science/2022/11/spacex-completes-long-duration-test-fire-of-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222401">2022-11-29 22:24:01 UTC</a></sub>
-* [SiriusXM orders pair of satellites to expand in Canada and Alaska](https://spacenews.com/siriusxm-orders-pair-of-satellites-to-expand-in-canada-and-alaska/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T212446">2022-11-29 21:24:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T190055">2022-11-30 19:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T193045">2022-11-30 19:30:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
