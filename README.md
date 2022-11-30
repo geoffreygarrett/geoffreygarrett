@@ -94,28 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight at the
-<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
-Cape Canaveral, FL, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T083900">2022-11-30 08:39:00 UTC</a>. Until
-then, this launch pad will have seen 160
-out of 865 launches in this
+Soyuz 2.1a/Fregat-M | Neitron #2 at the
+<a href="">43/4 (43R)</a> in
+Plesetsk Cosmodrome, Russian Federation
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T210000">2022-11-30 21:00:00 UTC</a>. Until
+then, this launch pad will have seen 309
+out of 1658 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  First mission of the Hakuto-R commercial lunar lander developed by private Japanese company ispace.
-
-Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water ice at the Moon’s South Pole.
+  Payload suspected to be a new type of Russian military intelligence satellite called Neitron.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="http://maps.google.com/maps?q=62.929+N,+40.457+E" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -128,8 +126,8 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Hakuto-R M1 & Lunar Flashlight</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T083900">2022-11-30 08:39:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221130T083900Z%2F20221130T083900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Neitron #2</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T210000">2022-11-30 21:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Neitron #2&location=Plesetsk Cosmodrome, Russian Federation&dates=20221130T210000Z%2F20221130T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Hakuto-R M1 & Lunar Flashlight</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T083700">2022-12-01 08:37:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221201T083700Z%2F20221201T083700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Maiden Flight</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T000000">2022-12-03 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20221203T000000Z%2F20221203T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T220000">2022-12-07 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221207T220000Z%2F20221208T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Virginia is for Launch Lovers</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T230000">2022-12-07 23:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20221207T230000Z%2F20221208T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -185,7 +183,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 * [Shenzhou 15 astronauts arrive at China’s space station for first crew handover](https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T231446">2022-11-29 23:14:46 UTC</a></sub>
 * [NASA cancels GeoCarb greenhouse gas monitoring mission](https://spacenews.com/nasa-cancels-geocarb-greenhouse-gas-monitoring-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T225445">2022-11-29 22:54:45 UTC</a></sub>
 * [Shay Har-Noy takes the helm at Edgybees](https://spacenews.com/har-noy-to-edgybees/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T223446">2022-11-29 22:34:46 UTC</a></sub>
-* [SpaceX to launch Falcon 9 with private Japanese moon lander](https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222555">2022-11-29 22:25:55 UTC</a></sub>
+* [SpaceX delays Falcon 9 launch with private Japanese moon lander](https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222555">2022-11-29 22:25:55 UTC</a></sub>
 * [SpaceX fires up 11 engines as it prepares massive rocket for orbital test](https://arstechnica.com/science/2022/11/spacex-completes-long-duration-test-fire-of-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222401">2022-11-29 22:24:01 UTC</a></sub>
 * [SiriusXM orders pair of satellites to expand in Canada and Alaska](https://spacenews.com/siriusxm-orders-pair-of-satellites-to-expand-in-canada-and-alaska/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T212446">2022-11-29 21:24:46 UTC</a></sub>
 * [U.S. Space Command supports use of ‘responsive launch’ to deter China and Russia](https://spacenews.com/u-s-space-command-supports-use-of-responsive-launch-to-deter-china-and-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T203442">2022-11-29 20:34:42 UTC</a></sub>
@@ -224,7 +222,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T040048">2022-11-30 04:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T043526">2022-11-30 04:35:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
