@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Provide Live Coverage of US Spacewalks Outside Space Station](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-us-spacewalks-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T151400">2022-12-01 15:14:00 UTC</a></sub>
 * [AST SpaceMobile plots $86 million share sale](https://spacenews.com/ast-spacemobile-plots-86-million-share-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T142442">2022-12-01 14:24:42 UTC</a></sub>
 * [Wide-Field-of-View missile warning satellite transmits first images](https://spacenews.com/wide-field-of-view-missile-warning-satellite-transmits-first-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T213444">2022-11-30 21:34:44 UTC</a></sub>
 * [US Vice President, French President Visit NASA Headquarters](http://www.nasa.gov/press-release/us-vice-president-french-president-visit-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T202500">2022-11-30 20:25:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Determined
 * [SpaceX set to launch two spacecraft to the Moon tonight](https://arstechnica.com/science/2022/11/spacex-set-to-launch-two-spacecraft-to-the-moon-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T174932">2022-11-30 17:49:32 UTC</a></sub>
 * [NASA Responds to Independent Review of Earth System Observatory](http://www.nasa.gov/press-release/nasa-responds-to-independent-review-of-earth-system-observatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T170400">2022-11-30 17:04:00 UTC</a></sub>
 * [SpaceX delays Falcon 9 launch carrying private Japanese moon lander](https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T132555">2022-11-30 13:25:55 UTC</a></sub>
-* [Vega C to launch five Copernicus spacecraft](https://spacenews.com/vega-c-to-launch-five-copernicus-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T111442">2022-11-30 11:14:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T150054">2022-12-01 15:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T153314">2022-12-01 15:33:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
