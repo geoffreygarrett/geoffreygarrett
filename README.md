@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Solid Rocket Boosters meet performance targets in first-look data review for Artemis I](https://www.nasaspaceflight.com/2022/12/artemis-i-srb-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T191708">2022-12-01 19:17:08 UTC</a></sub>
 * [Investing in Space: Moon rising](https://www.cnbc.com/2022/12/01/investing-in-space-moon-rising.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T161618">2022-12-01 16:16:18 UTC</a></sub>
 * [Astronomers say a new, huge satellite is as bright as the brightest stars](https://arstechnica.com/science/2022/12/a-new-satellite-has-become-one-of-the-20-brightest-stars-in-the-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T154949">2022-12-01 15:49:49 UTC</a></sub>
 * [Cognitive Space hires retired general as strategic advisor](https://spacenews.com/cognitive-space-hires-retired-general-as-strategic-advisor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T153443">2022-12-01 15:34:43 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [US Vice President, French President Visit NASA Headquarters](http://www.nasa.gov/press-release/us-vice-president-french-president-visit-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T202500">2022-11-30 20:25:00 UTC</a></sub>
 * [Hiber demands Astrocast cash after failed acquisition](https://spacenews.com/hiber-demands-astrocast-cash-after-failed-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T202444">2022-11-30 20:24:44 UTC</a></sub>
 * [OroraTech raises funding for additional thermal mapping satellites](https://spacenews.com/ororatech-raises-funding-for-additional-thermal-mapping-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T194442">2022-11-30 19:44:42 UTC</a></sub>
-* [Boeing talks Core Stage performance on Artemis I, looks ahead to future Core Stages and EUS debut](https://www.nasaspaceflight.com/2022/11/core-stage-sls-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T190640">2022-11-30 19:06:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T190049">2022-12-01 19:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T193045">2022-12-01 19:30:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
