@@ -34,7 +34,6 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 * [Understand and fix rever ("news" workflow)](https://github.com/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Multiline tagging for parser](https://github.com/tudat-team/tudat-multidoc/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T215945">2021-12-30 21:59:45 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Intersphinx linking to properties not working](https://github.com/tudat-team/tudat-space/issues/27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211105T141639">2021-11-05 14:16:39 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
-* [Move content from tudat-space to tudat-developer-docs](https://github.com/tudat-team/tudat-developer-docs/issues/11) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211014T120651">2021-10-14 12:06:51 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 
 <!-- github issues ends -->
 
@@ -181,6 +180,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Eutelsat orders GEO broadband satellite with LEO in mind](https://spacenews.com/eutelsat-orders-geo-broadband-satellite-with-leo-in-mind/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T221443">2022-12-01 22:14:43 UTC</a></sub>
+* [FCC authorizes SpaceX to begin deploying up to 7,500 next-generation Starlink satellites](https://www.cnbc.com/2022/12/01/fcc-authorizes-spacex-gen2-starlink-up-to-7500-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T215919">2022-12-01 21:59:19 UTC</a></sub>
 * [Watch live: Orion capsule set to leave lunar orbit today](https://spaceflightnow.com/2022/12/01/artemis-1-orion-dro-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T213439">2022-12-01 21:34:39 UTC</a></sub>
 * [NASA Awards Environmental Compliance, Restoration Services Contract](http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-restoration-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T211400">2022-12-01 21:14:00 UTC</a></sub>
 * [Solid Rocket Boosters meet performance targets in first-look data review for Artemis I](https://www.nasaspaceflight.com/2022/12/artemis-i-srb-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T191708">2022-12-01 19:17:08 UTC</a></sub>
@@ -189,8 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Cognitive Space hires retired general as strategic advisor](https://spacenews.com/cognitive-space-hires-retired-general-as-strategic-advisor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T153443">2022-12-01 15:34:43 UTC</a></sub>
 * [NASA to Provide Live Coverage of US Spacewalks Outside Space Station](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-us-spacewalks-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T151400">2022-12-01 15:14:00 UTC</a></sub>
 * [AST SpaceMobile plots $86 million share sale](https://spacenews.com/ast-spacemobile-plots-86-million-share-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T142442">2022-12-01 14:24:42 UTC</a></sub>
-* [Wide-Field-of-View missile warning satellite transmits first images](https://spacenews.com/wide-field-of-view-missile-warning-satellite-transmits-first-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T213444">2022-11-30 21:34:44 UTC</a></sub>
-* [US Vice President, French President Visit NASA Headquarters](http://www.nasa.gov/press-release/us-vice-president-french-president-visit-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T202500">2022-11-30 20:25:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T220051">2022-12-01 22:00:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T223129">2022-12-01 22:31:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
