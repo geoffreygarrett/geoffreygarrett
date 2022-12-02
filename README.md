@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets Coverage of Orion’s Historic Moon Mission Return, Splashdown](http://www.nasa.gov/press-release/nasa-sets-coverage-of-orion-s-historic-moon-mission-return-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T212400">2022-12-02 21:24:00 UTC</a></sub>
 * [RS-25 engine performance “perfect” on Artemis I debut launch](https://www.nasaspaceflight.com/2022/12/artemis-i-rs25-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T193217">2022-12-02 19:32:17 UTC</a></sub>
 * [After bankruptcy and war, OneWeb turns to a competitor for help](https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T150605">2022-12-02 15:06:05 UTC</a></sub>
 * [OneWeb aims to deploy a record 40 satellites in SpaceX mission](https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T141444">2022-12-02 14:14:44 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Orion begins return leg of Artemis 1 mission](https://spacenews.com/orion-begins-return-leg-of-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T093447">2022-12-02 09:34:47 UTC</a></sub>
 * [SpaceX Starlink Gen2 constellation weakened by “partial” FCC grant](https://www.teslarati.com/spacex-starlink-gen2-constellation-fcc-license-partial-grant/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T080506">2022-12-02 08:05:06 UTC</a></sub>
 * [Rocket Lab launches subsidiary focused on national security market](https://spacenews.com/rocket-lab-launches-subsidiary-focused-on-national-security-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T235442">2022-12-01 23:54:42 UTC</a></sub>
-* [Orion capsule leaves lunar orbit, heads for moon flyby and return to Earth](https://spaceflightnow.com/2022/12/01/artemis-1-orion-dro-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T232438">2022-12-01 23:24:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T213036">2022-12-02 21:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T220045">2022-12-02 22:00:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
