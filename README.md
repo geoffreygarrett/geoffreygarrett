@@ -34,6 +34,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 * [Understand and fix rever ("news" workflow)](https://github.com/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Multiline tagging for parser](https://github.com/tudat-team/tudat-multidoc/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T215945">2021-12-30 21:59:45 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Intersphinx linking to properties not working](https://github.com/tudat-team/tudat-space/issues/27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211105T141639">2021-11-05 14:16:39 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
+* [Move content from tudat-space to tudat-developer-docs](https://github.com/tudat-team/tudat-developer-docs/issues/11) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211014T120651">2021-10-14 12:06:51 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 
 <!-- github issues ends -->
 
@@ -180,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force establishes component at U.S. Central Command](https://spacenews.com/space-force-establishes-component-at-u-s-central-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T221443">2022-12-02 22:14:43 UTC</a></sub>
 * [NASA Sets Coverage of Orion’s Historic Moon Mission Return, Splashdown](http://www.nasa.gov/press-release/nasa-sets-coverage-of-orion-s-historic-moon-mission-return-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T212400">2022-12-02 21:24:00 UTC</a></sub>
 * [RS-25 engine performance “perfect” on Artemis I debut launch](https://www.nasaspaceflight.com/2022/12/artemis-i-rs25-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T193217">2022-12-02 19:32:17 UTC</a></sub>
 * [After bankruptcy and war, OneWeb turns to a competitor for help](https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T150605">2022-12-02 15:06:05 UTC</a></sub>
@@ -189,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [FCC grants partial approval for Starlink second-generation constellation](https://spacenews.com/fcc-grants-partial-approval-for-starlink-second-generation-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T120442">2022-12-02 12:04:42 UTC</a></sub>
 * [Orion begins return leg of Artemis 1 mission](https://spacenews.com/orion-begins-return-leg-of-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T093447">2022-12-02 09:34:47 UTC</a></sub>
 * [SpaceX Starlink Gen2 constellation weakened by “partial” FCC grant](https://www.teslarati.com/spacex-starlink-gen2-constellation-fcc-license-partial-grant/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T080506">2022-12-02 08:05:06 UTC</a></sub>
-* [Rocket Lab launches subsidiary focused on national security market](https://spacenews.com/rocket-lab-launches-subsidiary-focused-on-national-security-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T235442">2022-12-01 23:54:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T220045">2022-12-02 22:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T223120">2022-12-02 22:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
