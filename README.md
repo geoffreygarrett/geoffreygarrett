@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chris Pearson takes the reins at Agile Space Industries](https://spacenews.com/pearson-becomes-agile-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T100444">2022-12-05 10:04:44 UTC</a></sub>
 * [U.S. Space Force chief: The use of space technology in Ukraine ‘is what we can expect in the future’](https://spacenews.com/u-s-space-force-chief-the-use-of-space-technology-in-ukraine-is-what-we-can-expect-in-the-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221204T164442">2022-12-04 16:44:42 UTC</a></sub>
 * [Astronauts install new solar array outside International Space Station](https://spaceflightnow.com/2022/12/03/iss-eva-82/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T220438">2022-12-03 22:04:38 UTC</a></sub>
 * [Power upgrade: Station crew install new iROSA, work power channel issue on ISS](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T201055">2022-12-03 20:10:55 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [RS-25 engine performance “perfect” on Artemis I debut launch](https://www.nasaspaceflight.com/2022/12/artemis-i-rs25-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T193217">2022-12-02 19:32:17 UTC</a></sub>
 * [After bankruptcy and war, OneWeb turns to a competitor for help](https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T150605">2022-12-02 15:06:05 UTC</a></sub>
 * [OneWeb aims to deploy a record 40 satellites in SpaceX mission](https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T141444">2022-12-02 14:14:44 UTC</a></sub>
-* [Astra chief engineer resigns, CEO shakes up management ‘to execute faster’](https://www.cnbc.com/2022/12/02/astra-chief-engineer-benjamin-lyon-resigns-from-rocket-builder.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T140944">2022-12-02 14:09:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T100048">2022-12-05 10:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T103256">2022-12-05 10:32:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
