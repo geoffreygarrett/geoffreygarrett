@@ -187,9 +187,9 @@ region. The mission's status is currently To Be Confirmed
 * [Growth of SSA systems could create problems for satellite operators](https://spacenews.com/growth-of-ssa-systems-could-create-problems-for-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T123448">2022-12-05 12:34:48 UTC</a></sub>
 * [After the Artemis I mission’s brilliant success, why is an encore 2 years away?](https://arstechnica.com/science/2022/12/artemis-i-has-finally-launched-what-comes-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T120056">2022-12-05 12:00:56 UTC</a></sub>
 * [Chris Pearson takes the reins at Agile Space Industries](https://spacenews.com/pearson-becomes-agile-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T100444">2022-12-05 10:04:44 UTC</a></sub>
+* [Chinese crew back on Earth after six months on Tiangong space station](https://spaceflightnow.com/2022/12/04/chinese-crew-back-on-earth-after-six-months-on-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221204T182438">2022-12-04 18:24:38 UTC</a></sub>
 * [U.S. Space Force chief: The use of space technology in Ukraine ‘is what we can expect in the future’](https://spacenews.com/u-s-space-force-chief-the-use-of-space-technology-in-ukraine-is-what-we-can-expect-in-the-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221204T164442">2022-12-04 16:44:42 UTC</a></sub>
 * [Astronauts install new solar array outside International Space Station](https://spaceflightnow.com/2022/12/03/iss-eva-82/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T220438">2022-12-03 22:04:38 UTC</a></sub>
-* [Power upgrade: Station crew install new iROSA, work power channel issue on ISS](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T201055">2022-12-03 20:10:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T180244">2022-12-05 18:02:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T183332">2022-12-05 18:33:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
