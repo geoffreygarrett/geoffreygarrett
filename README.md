@@ -180,6 +180,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Dmitry Rogozin may be in some trouble in Russia](https://arstechnica.com/science/2022/12/dmitry-rogozin-may-be-in-some-trouble-in-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T144223">2022-12-05 14:42:23 UTC</a></sub>
+* [E-Space buys RF hardware developer CommAgility](https://spacenews.com/e-space-buys-rf-hardware-developer-commagility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T143442">2022-12-05 14:34:42 UTC</a></sub>
 * [Growth of SSA systems could create problems for satellite operators](https://spacenews.com/growth-of-ssa-systems-could-create-problems-for-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T123448">2022-12-05 12:34:48 UTC</a></sub>
 * [After the Artemis I mission’s brilliant success, why is an encore 2 years away?](https://arstechnica.com/science/2022/12/artemis-i-has-finally-launched-what-comes-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T120056">2022-12-05 12:00:56 UTC</a></sub>
 * [Chris Pearson takes the reins at Agile Space Industries](https://spacenews.com/pearson-becomes-agile-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T100444">2022-12-05 10:04:44 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Power upgrade: Station crew install new iROSA, work power channel issue on ISS](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T201055">2022-12-03 20:10:55 UTC</a></sub>
 * [SpaceX rolls out new business line focused on military satellite services](https://spacenews.com/spacex-rolls-out-new-business-line-focused-on-military-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T153443">2022-12-03 15:34:43 UTC</a></sub>
 * [Space Force establishes component at U.S. Central Command](https://spacenews.com/space-force-establishes-component-at-u-s-central-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T221443">2022-12-02 22:14:43 UTC</a></sub>
-* [NASA Sets Coverage of Orion’s Historic Moon Mission Return, Splashdown](http://www.nasa.gov/press-release/nasa-sets-coverage-of-orion-s-historic-moon-mission-return-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T212400">2022-12-02 21:24:00 UTC</a></sub>
-* [RS-25 engine performance “perfect” on Artemis I debut launch](https://www.nasaspaceflight.com/2022/12/artemis-i-rs25-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T193217">2022-12-02 19:32:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T150045">2022-12-05 15:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T153205">2022-12-05 15:32:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
