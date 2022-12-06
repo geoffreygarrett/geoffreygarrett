@@ -180,6 +180,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX set to launch 40 satellites for Starlink rival OneWeb](https://www.teslarati.com/spacex-falcon-9-rocket-first-oneweb-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T212500">2022-12-06 21:25:00 UTC</a></sub>
+* [NASA Administrator, Astronauts Bring Space to Washington Schools](http://www.nasa.gov/press-release/nasa-administrator-astronauts-bring-space-to-washington-schools) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T212400">2022-12-06 21:24:00 UTC</a></sub>
+* [Defense, Commerce Departments select companies to prototype space traffic management solutions](https://spacenews.com/defense-commerce-departments-select-companies-to-prototype-space-traffic-management-solutions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T210442">2022-12-06 21:04:42 UTC</a></sub>
 * [Blue Origin conducts fairing testing amid quiet New Glenn progress](https://www.nasaspaceflight.com/2022/12/blue-origin-new-glenn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T172426">2022-12-06 17:24:26 UTC</a></sub>
 * [After lunar flyby, NASA’s Orion spacecraft is set to splash down on Sunday](https://arstechnica.com/science/2022/12/after-lunar-flyby-nasas-orion-spacecraft-is-set-to-splashdown-on-sunday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T143827">2022-12-06 14:38:27 UTC</a></sub>
 * [Chinese commercial methane-fueled rocket set for first launch](https://spacenews.com/chinese-commercial-methane-fueled-rocket-set-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T133442">2022-12-06 13:34:42 UTC</a></sub>
@@ -187,9 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Orion swings by the moon on its way back to Earth](https://spacenews.com/orion-swings-by-the-moon-on-its-way-back-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T101442">2022-12-06 10:14:42 UTC</a></sub>
 * [Advisory panel to examine DoD’s demand for commercial space systems](https://spacenews.com/advisory-panel-to-examine-dods-demand-for-commercial-space-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T230442">2022-12-05 23:04:42 UTC</a></sub>
 * [Ukraine’s Promin Aerospace on track for 2023 flight test](https://spacenews.com/promin-perseveres/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T224442">2022-12-05 22:44:42 UTC</a></sub>
-* [Artemis 1 capsule beams back spectacular farewell views of the moon](https://spaceflightnow.com/2022/12/05/artemis-1-capsule-beams-back-spectacular-farewell-views-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T200439">2022-12-05 20:04:39 UTC</a></sub>
-* [NASA Administrator Names New Leadership at Two Agency Centers](http://www.nasa.gov/press-release/nasa-administrator-names-new-leadership-at-two-agency-centers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T174400">2022-12-05 17:44:00 UTC</a></sub>
-* [SpaceX unveils ‘Starshield,’ a military variation of Starlink satellites](https://www.cnbc.com/2022/12/05/spacex-unveils-starshield-a-military-variation-of-starlink-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T160925">2022-12-05 16:09:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T210041">2022-12-06 21:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T213059">2022-12-06 21:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
