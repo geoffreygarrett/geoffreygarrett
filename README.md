@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin conducts fairing testing amid quiet New Glenn progress](https://www.nasaspaceflight.com/2022/12/blue-origin-new-glenn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T172426">2022-12-06 17:24:26 UTC</a></sub>
 * [After lunar flyby, NASA’s Orion spacecraft is set to splash down on Sunday](https://arstechnica.com/science/2022/12/after-lunar-flyby-nasas-orion-spacecraft-is-set-to-splashdown-on-sunday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T143827">2022-12-06 14:38:27 UTC</a></sub>
 * [Chinese commercial methane-fueled rocket set for first launch](https://spacenews.com/chinese-commercial-methane-fueled-rocket-set-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T133442">2022-12-06 13:34:42 UTC</a></sub>
 * [Slingshot Aerospace completes $40.8 million funding round](https://spacenews.com/slingshot-aerospace-completes-40-8-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T120442">2022-12-06 12:04:42 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Artemis 1 capsule beams back spectacular farewell views of the moon](https://spaceflightnow.com/2022/12/05/artemis-1-capsule-beams-back-spectacular-farewell-views-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T200439">2022-12-05 20:04:39 UTC</a></sub>
 * [NASA Administrator Names New Leadership at Two Agency Centers](http://www.nasa.gov/press-release/nasa-administrator-names-new-leadership-at-two-agency-centers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T174400">2022-12-05 17:44:00 UTC</a></sub>
 * [SpaceX unveils ‘Starshield,’ a military variation of Starlink satellites](https://www.cnbc.com/2022/12/05/spacex-unveils-starshield-a-military-variation-of-starlink-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T160925">2022-12-05 16:09:25 UTC</a></sub>
-* [Dmitry Rogozin may be in some trouble in Russia](https://arstechnica.com/science/2022/12/dmitry-rogozin-may-be-in-some-trouble-in-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T144223">2022-12-05 14:42:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T170042">2022-12-06 17:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T173101">2022-12-06 17:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
