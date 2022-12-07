@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China is considering expanding its Tiangong space station](https://spacenews.com/china-is-considering-expanding-its-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T123446">2022-12-07 12:34:46 UTC</a></sub>
 * [Space Force procurement chief emphatic about the ‘need for speed’](https://spacenews.com/space-force-procurement-chief-emphatic-about-the-need-for-speed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T233442">2022-12-06 23:34:42 UTC</a></sub>
 * [Mangata Networks gets funds for Scottish satellite manufacturing hub](https://spacenews.com/mangata-networks-gets-funds-for-scottish-satellite-manufacturing-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T230442">2022-12-06 23:04:42 UTC</a></sub>
 * [NASA to Discuss Climate Research, Mitigation Efforts](http://www.nasa.gov/press-release/nasa-to-discuss-climate-research-mitigation-efforts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T221400">2022-12-06 22:14:00 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Blue Origin conducts fairing testing amid quiet New Glenn progress](https://www.nasaspaceflight.com/2022/12/blue-origin-new-glenn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T172426">2022-12-06 17:24:26 UTC</a></sub>
 * [After lunar flyby, NASA’s Orion spacecraft is set to splash down on Sunday](https://arstechnica.com/science/2022/12/after-lunar-flyby-nasas-orion-spacecraft-is-set-to-splashdown-on-sunday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T143827">2022-12-06 14:38:27 UTC</a></sub>
 * [Chinese commercial methane-fueled rocket set for first launch](https://spacenews.com/chinese-commercial-methane-fueled-rocket-set-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T133442">2022-12-06 13:34:42 UTC</a></sub>
-* [Slingshot Aerospace completes $40.8 million funding round](https://spacenews.com/slingshot-aerospace-completes-40-8-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T120442">2022-12-06 12:04:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T120042">2022-12-07 12:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T124038">2022-12-07 12:40:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
