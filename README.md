@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets Coverage for SWOT Water Survey Mission Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-swot-water-survey-mission-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T140400">2022-12-07 14:04:00 UTC</a></sub>
+* [Fifty years later, remastered images reveal Apollo 17 in stunning clarity](https://arstechnica.com/science/2022/12/fifty-years-later-remastered-images-reveal-apollo-17-in-stunning-clarity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T135029">2022-12-07 13:50:29 UTC</a></sub>
 * [TriSept and SpiderOak unveil strategic partnership](https://spacenews.com/trisept-and-spideroak-unveil-strategic-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T130443">2022-12-07 13:04:43 UTC</a></sub>
 * [NASA confirms NEO Surveyor for 2028 launch](https://spacenews.com/nasa-confirms-neo-surveyor-for-2028-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T125442">2022-12-07 12:54:42 UTC</a></sub>
 * [China is considering expanding its Tiangong space station](https://spacenews.com/china-is-considering-expanding-its-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T123446">2022-12-07 12:34:46 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Discuss Climate Research, Mitigation Efforts](http://www.nasa.gov/press-release/nasa-to-discuss-climate-research-mitigation-efforts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T221400">2022-12-06 22:14:00 UTC</a></sub>
 * [SpaceX set to launch 40 satellites for Starlink rival OneWeb](https://www.teslarati.com/spacex-falcon-9-rocket-first-oneweb-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T212500">2022-12-06 21:25:00 UTC</a></sub>
 * [NASA Administrator, Astronauts Bring Space to Washington Schools](http://www.nasa.gov/press-release/nasa-administrator-astronauts-bring-space-to-washington-schools) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T212400">2022-12-06 21:24:00 UTC</a></sub>
-* [Defense, Commerce Departments select companies to prototype space traffic management solutions](https://spacenews.com/defense-commerce-departments-select-companies-to-prototype-space-traffic-management-solutions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T210442">2022-12-06 21:04:42 UTC</a></sub>
-* [Blue Origin conducts fairing testing amid quiet New Glenn progress](https://www.nasaspaceflight.com/2022/12/blue-origin-new-glenn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T172426">2022-12-06 17:24:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T140045">2022-12-07 14:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T143052">2022-12-07 14:30:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
