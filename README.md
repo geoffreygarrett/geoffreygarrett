@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Virginia is for Launch Lovers</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T230000">2022-12-13 23:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20221213T230000Z%2F20221214T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Start Me Up</b> from Air launch to orbit. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T000000">2022-12-14 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Start Me Up&location=Air launch to orbit&dates=20221214T000000Z%2F20221214T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SWOT - Surface Water and Ocean Topography</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T114640">2022-12-15 11:46:40 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SWOT - Surface Water and Ocean Topography&location=Vandenberg SFB, CA, USA&dates=20221215T114640Z%2F20221215T114640Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Pléiades Neo 5 & 6</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T014700">2022-12-21 01:47:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Pléiades Neo 5 &amp; 6&location=Kourou, French Guiana&dates=20221221T014700Z%2F20221221T014700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -221,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T004518">2022-12-08 00:45:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T012752">2022-12-08 01:27:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
