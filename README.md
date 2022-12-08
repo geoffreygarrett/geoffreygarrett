@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Taps Collins Aerospace to Develop New Space Station Spacesuits](http://www.nasa.gov/press-release/nasa-taps-collins-aerospace-to-develop-new-space-station-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T212300">2022-12-08 21:23:00 UTC</a></sub>
+* [Terran Orbital creates new business unit to produce imaging satellites](https://spacenews.com/terran-orbit-creates-new-business-unit-to-produce-imaging-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T211334">2022-12-08 21:13:34 UTC</a></sub>
 * [SpaceX to launch its first of three missions for OneWeb](https://www.nasaspaceflight.com/2022/12/oneweb-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T193754">2022-12-08 19:37:54 UTC</a></sub>
 * [Virgin Orbit delays first U.K. launch](https://spacenews.com/virgin-orbit-delays-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T174334">2022-12-08 17:43:34 UTC</a></sub>
 * [Investing in Space: Temper your expectations](https://www.cnbc.com/2022/12/08/investing-in-space-temper-your-expectations.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T171733">2022-12-08 17:17:33 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA loses contact with ICON spacecraft](https://spacenews.com/nasa-loses-contact-with-icon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T130334">2022-12-08 13:03:34 UTC</a></sub>
 * [Defense Innovation Unit seeks commercial options to deploy satellites in deep space](https://spacenews.com/defense-innovation-unit-seeks-commercial-options-to-deploy-satellites-in-deep-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T235442">2022-12-07 23:54:42 UTC</a></sub>
 * [NASA and Boeing change SLS core stage assembly process](https://spacenews.com/nasa-and-boeing-change-sls-core-stage-assembly-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T233442">2022-12-07 23:34:42 UTC</a></sub>
-* [SpaceX files FCC request to put payloads on satellites for direct-to-cell system with T-Mobile](https://www.teslarati.com/spacex-fcc-request-direct-to-cell/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T222459">2022-12-07 22:24:59 UTC</a></sub>
-* [Cryogenics specialist orders first satellite for detecting methane leaks](https://spacenews.com/cryogenics-specialist-orders-first-satellite-for-detecting-methane-leaks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T221442">2022-12-07 22:14:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T210048">2022-12-08 21:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T213054">2022-12-08 21:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
