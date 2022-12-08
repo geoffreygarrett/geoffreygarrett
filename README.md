@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA talks Mobile Launcher refurbishment, modifications needed for Artemis II crew debut of SLS](https://www.nasaspaceflight.com/2022/12/ml-rollback-mod-timelines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T142412">2022-12-08 14:24:12 UTC</a></sub>
 * [Astrobotic lander undergoes tests ahead of launch](https://spacenews.com/astrobotic-lander-undergoes-tests-ahead-of-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T132334">2022-12-08 13:23:34 UTC</a></sub>
 * [NASA loses contact with ICON spacecraft](https://spacenews.com/nasa-loses-contact-with-icon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T130334">2022-12-08 13:03:34 UTC</a></sub>
 * [Defense Innovation Unit seeks commercial options to deploy satellites in deep space](https://spacenews.com/defense-innovation-unit-seeks-commercial-options-to-deploy-satellites-in-deep-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T235442">2022-12-07 23:54:42 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Awards Safety, Mission Assurance Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-support-services-contract-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T213400">2022-12-07 21:34:00 UTC</a></sub>
 * [NDAA compromise bill wants more focus on satellite protection, responsive launch](https://spacenews.com/ndaa-compromise-bill-wants-more-focus-on-satellite-protection-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T212442">2022-12-07 21:24:42 UTC</a></sub>
 * [NASA Awards Contract for Liquid Hydrogen](http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-hydrogen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T211400">2022-12-07 21:14:00 UTC</a></sub>
-* [Blue Origin and Dynetics bidding on second Artemis lunar lander](https://spacenews.com/blue-origin-and-dynetics-bidding-on-second-artemis-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T174442">2022-12-07 17:44:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T143045">2022-12-08 14:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T150059">2022-12-08 15:00:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
