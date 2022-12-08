@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch its first of three missions for OneWeb](https://www.nasaspaceflight.com/2022/12/oneweb-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T193754">2022-12-08 19:37:54 UTC</a></sub>
 * [Virgin Orbit delays first U.K. launch](https://spacenews.com/virgin-orbit-delays-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T174334">2022-12-08 17:43:34 UTC</a></sub>
 * [Investing in Space: Temper your expectations](https://www.cnbc.com/2022/12/08/investing-in-space-temper-your-expectations.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T171733">2022-12-08 17:17:33 UTC</a></sub>
 * [NASA talks Mobile Launcher refurbishment, modifications needed for Artemis II crew debut of SLS](https://www.nasaspaceflight.com/2022/12/ml-rollback-mod-timelines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T142412">2022-12-08 14:24:12 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA and Boeing change SLS core stage assembly process](https://spacenews.com/nasa-and-boeing-change-sls-core-stage-assembly-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T233442">2022-12-07 23:34:42 UTC</a></sub>
 * [SpaceX files FCC request to put payloads on satellites for direct-to-cell system with T-Mobile](https://www.teslarati.com/spacex-fcc-request-direct-to-cell/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T222459">2022-12-07 22:24:59 UTC</a></sub>
 * [Cryogenics specialist orders first satellite for detecting methane leaks](https://spacenews.com/cryogenics-specialist-orders-first-satellite-for-detecting-methane-leaks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T221442">2022-12-07 22:14:42 UTC</a></sub>
-* [NASA Awards Safety, Mission Assurance Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-support-services-contract-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T213400">2022-12-07 21:34:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T193043">2022-12-08 19:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T200055">2022-12-08 20:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
