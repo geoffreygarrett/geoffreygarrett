@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Temper your expectations](https://www.cnbc.com/2022/12/08/investing-in-space-temper-your-expectations.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T171733">2022-12-08 17:17:33 UTC</a></sub>
 * [NASA talks Mobile Launcher refurbishment, modifications needed for Artemis II crew debut of SLS](https://www.nasaspaceflight.com/2022/12/ml-rollback-mod-timelines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T142412">2022-12-08 14:24:12 UTC</a></sub>
 * [Astrobotic lander undergoes tests ahead of launch](https://spacenews.com/astrobotic-lander-undergoes-tests-ahead-of-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T132334">2022-12-08 13:23:34 UTC</a></sub>
 * [NASA loses contact with ICON spacecraft](https://spacenews.com/nasa-loses-contact-with-icon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T130334">2022-12-08 13:03:34 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Cryogenics specialist orders first satellite for detecting methane leaks](https://spacenews.com/cryogenics-specialist-orders-first-satellite-for-detecting-methane-leaks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T221442">2022-12-07 22:14:42 UTC</a></sub>
 * [NASA Awards Safety, Mission Assurance Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-support-services-contract-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T213400">2022-12-07 21:34:00 UTC</a></sub>
 * [NDAA compromise bill wants more focus on satellite protection, responsive launch](https://spacenews.com/ndaa-compromise-bill-wants-more-focus-on-satellite-protection-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T212442">2022-12-07 21:24:42 UTC</a></sub>
-* [NASA Awards Contract for Liquid Hydrogen](http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-hydrogen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T211400">2022-12-07 21:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T170045">2022-12-08 17:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T173048">2022-12-08 17:30:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
