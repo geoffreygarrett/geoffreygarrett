@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrobotic lander undergoes tests ahead of launch](https://spacenews.com/astrobotic-lander-undergoes-tests-ahead-of-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T132334">2022-12-08 13:23:34 UTC</a></sub>
+* [NASA loses contact with ICON spacecraft](https://spacenews.com/nasa-loses-contact-with-icon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T130334">2022-12-08 13:03:34 UTC</a></sub>
 * [Defense Innovation Unit seeks commercial options to deploy satellites in deep space](https://spacenews.com/defense-innovation-unit-seeks-commercial-options-to-deploy-satellites-in-deep-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T235442">2022-12-07 23:54:42 UTC</a></sub>
 * [NASA and Boeing change SLS core stage assembly process](https://spacenews.com/nasa-and-boeing-change-sls-core-stage-assembly-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T233442">2022-12-07 23:34:42 UTC</a></sub>
 * [SpaceX files FCC request to put payloads on satellites for direct-to-cell system with T-Mobile](https://www.teslarati.com/spacex-fcc-request-direct-to-cell/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T222459">2022-12-07 22:24:59 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NDAA compromise bill wants more focus on satellite protection, responsive launch](https://spacenews.com/ndaa-compromise-bill-wants-more-focus-on-satellite-protection-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T212442">2022-12-07 21:24:42 UTC</a></sub>
 * [NASA Awards Contract for Liquid Hydrogen](http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-hydrogen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T211400">2022-12-07 21:14:00 UTC</a></sub>
 * [Blue Origin and Dynetics bidding on second Artemis lunar lander](https://spacenews.com/blue-origin-and-dynetics-bidding-on-second-artemis-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T174442">2022-12-07 17:44:42 UTC</a></sub>
-* [NASA's Perseverance Rover Gets the Dirt on Mars](https://mars.nasa.gov/news/9311/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T174400">2022-12-07 17:44:00 UTC</a></sub>
-* [Boosters 7 and 9 in dual flow toward Starbase test milestones](https://www.nasaspaceflight.com/2022/12/booster-7-9-flow-milestones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T171229">2022-12-07 17:12:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T130523">2022-12-08 13:05:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T133334">2022-12-08 13:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
