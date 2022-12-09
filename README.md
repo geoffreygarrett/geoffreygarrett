@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House committee leaders introduce bipartisan bills to update satellite rules](https://spacenews.com/house-committee-leaders-introduce-bipartisan-bills-to-update-satellite-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T195335">2022-12-09 19:53:35 UTC</a></sub>
 * [Space Development Agency’s first launch slips to March due to satellite glitch](https://spacenews.com/space-development-agencys-first-launch-slips-to-march-due-to-satellite-glitch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T190335">2022-12-09 19:03:35 UTC</a></sub>
 * [NASA’s Orion spacecraft is about to face its final test—and it’s a big one](https://arstechnica.com/science/2022/12/nasas-orion-spacecraft-is-about-to-face-its-final-test-and-its-a-big-one/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T142744">2022-12-09 14:27:44 UTC</a></sub>
 * [Japanese billionaire selects crew for circumlunar Starship flight](https://spacenews.com/japanese-billionaire-selects-crew-for-circumlunar-starship-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T131333">2022-12-09 13:13:33 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX requests permission for direct-to-smartphone service](https://spacenews.com/spacex-requests-permission-for-direct-to-smartphone-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T225334">2022-12-08 22:53:34 UTC</a></sub>
 * [Michigan Students to Hear from Current NASA Space Station Astronaut](http://www.nasa.gov/press-release/michigan-students-to-hear-from-current-nasa-space-station-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T223300">2022-12-08 22:33:00 UTC</a></sub>
 * [Dawn Aerospace raises $20 million for propulsion and spaceplane work](https://spacenews.com/dawn-raises-20-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T222334">2022-12-08 22:23:34 UTC</a></sub>
-* [SES government unit rebranded as SES Space & Defense](https://spacenews.com/ses-government-unit-rebranded-as-ses-space-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T220333">2022-12-08 22:03:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T193044">2022-12-09 19:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T200054">2022-12-09 20:00:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
