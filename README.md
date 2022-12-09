@@ -177,6 +177,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japanese billionaire selects crew for circumlunar Starship flight](https://spacenews.com/japanese-billionaire-selects-crew-for-circumlunar-starship-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T131333">2022-12-09 13:13:33 UTC</a></sub>
 * [NASA preparing for Orion splashdown to conclude Artemis 1](https://spacenews.com/nasa-preparing-for-orion-splashdown-to-conclude-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T121334">2022-12-09 12:13:34 UTC</a></sub>
 * [Rocket Report: Starship flight test slips to 2023; first methane launch is imminent](https://arstechnica.com/science/2022/12/rocket-report-first-uk-launch-slips-to-2023-ukrainian-rocket-startup-perseveres/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T120021">2022-12-09 12:00:21 UTC</a></sub>
 * [China launches 14 satellites with new solid rocket from mobile sea platform](https://spacenews.com/china-launches-14-satellites-with-new-solid-rocket-from-mobile-sea-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T103336">2022-12-09 10:33:36 UTC</a></sub>
@@ -186,7 +187,6 @@ region. The mission's status is currently To Be Confirmed
 * [SES government unit rebranded as SES Space & Defense](https://spacenews.com/ses-government-unit-rebranded-as-ses-space-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T220333">2022-12-08 22:03:33 UTC</a></sub>
 * [NASA Selects Eastern Region Protective Services Contractor](http://www.nasa.gov/press-release/nasa-selects-eastern-region-protective-services-contractor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T220300">2022-12-08 22:03:00 UTC</a></sub>
 * [Collins Aerospace selected to develop new space station spacesuit](https://spacenews.com/collins-aerospace-selected-to-develop-new-space-station-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T214333">2022-12-08 21:43:33 UTC</a></sub>
-* [NASA Taps Collins Aerospace to Develop New Space Station Spacesuits](http://www.nasa.gov/press-release/nasa-taps-collins-aerospace-to-develop-new-space-station-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T212300">2022-12-08 21:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T130504">2022-12-09 13:05:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T133316">2022-12-09 13:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
