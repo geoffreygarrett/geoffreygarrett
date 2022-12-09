@@ -177,6 +177,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China launches 14 satellites with new solid rocket from mobile sea platform](https://spacenews.com/china-launches-14-satellites-with-new-solid-rocket-from-mobile-sea-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T103336">2022-12-09 10:33:36 UTC</a></sub>
 * [SpaceX requests permission for direct-to-smartphone service](https://spacenews.com/spacex-requests-permission-for-direct-to-smartphone-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T225334">2022-12-08 22:53:34 UTC</a></sub>
 * [Michigan Students to Hear from Current NASA Space Station Astronaut](http://www.nasa.gov/press-release/michigan-students-to-hear-from-current-nasa-space-station-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T223300">2022-12-08 22:33:00 UTC</a></sub>
 * [Dawn Aerospace raises $20 million for propulsion and spaceplane work](https://spacenews.com/dawn-raises-20-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T222334">2022-12-08 22:23:34 UTC</a></sub>
@@ -186,7 +187,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Taps Collins Aerospace to Develop New Space Station Spacesuits](http://www.nasa.gov/press-release/nasa-taps-collins-aerospace-to-develop-new-space-station-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T212300">2022-12-08 21:23:00 UTC</a></sub>
 * [Terran Orbital creates new business unit to produce imaging satellites](https://spacenews.com/terran-orbit-creates-new-business-unit-to-produce-imaging-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T211334">2022-12-08 21:13:34 UTC</a></sub>
 * [SpaceX launches first of three missions for OneWeb](https://www.nasaspaceflight.com/2022/12/oneweb-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T193754">2022-12-08 19:37:54 UTC</a></sub>
-* [Virgin Orbit delays first U.K. launch](https://spacenews.com/virgin-orbit-delays-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T174334">2022-12-08 17:43:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T110047">2022-12-09 11:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T113047">2022-12-09 11:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
