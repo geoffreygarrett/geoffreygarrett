@@ -177,6 +177,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA preparing for Orion splashdown to conclude Artemis 1](https://spacenews.com/nasa-preparing-for-orion-splashdown-to-conclude-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T121334">2022-12-09 12:13:34 UTC</a></sub>
+* [Rocket Report: Starship flight test slips to 2023; first methane launch is imminent](https://arstechnica.com/science/2022/12/rocket-report-first-uk-launch-slips-to-2023-ukrainian-rocket-startup-perseveres/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T120021">2022-12-09 12:00:21 UTC</a></sub>
 * [China launches 14 satellites with new solid rocket from mobile sea platform](https://spacenews.com/china-launches-14-satellites-with-new-solid-rocket-from-mobile-sea-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T103336">2022-12-09 10:33:36 UTC</a></sub>
 * [SpaceX requests permission for direct-to-smartphone service](https://spacenews.com/spacex-requests-permission-for-direct-to-smartphone-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T225334">2022-12-08 22:53:34 UTC</a></sub>
 * [Michigan Students to Hear from Current NASA Space Station Astronaut](http://www.nasa.gov/press-release/michigan-students-to-hear-from-current-nasa-space-station-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T223300">2022-12-08 22:33:00 UTC</a></sub>
@@ -185,8 +187,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Selects Eastern Region Protective Services Contractor](http://www.nasa.gov/press-release/nasa-selects-eastern-region-protective-services-contractor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T220300">2022-12-08 22:03:00 UTC</a></sub>
 * [Collins Aerospace selected to develop new space station spacesuit](https://spacenews.com/collins-aerospace-selected-to-develop-new-space-station-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T214333">2022-12-08 21:43:33 UTC</a></sub>
 * [NASA Taps Collins Aerospace to Develop New Space Station Spacesuits](http://www.nasa.gov/press-release/nasa-taps-collins-aerospace-to-develop-new-space-station-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T212300">2022-12-08 21:23:00 UTC</a></sub>
-* [Terran Orbital creates new business unit to produce imaging satellites](https://spacenews.com/terran-orbit-creates-new-business-unit-to-produce-imaging-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T211334">2022-12-08 21:13:34 UTC</a></sub>
-* [SpaceX launches first of three missions for OneWeb](https://www.nasaspaceflight.com/2022/12/oneweb-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T193754">2022-12-08 19:37:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T120122">2022-12-09 12:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T124024">2022-12-09 12:40:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
