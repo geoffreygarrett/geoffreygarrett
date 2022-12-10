@@ -185,6 +185,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 <!-- spaceflight news starts -->
 * [Boeing expanding SLS Core Stage production to KSC to build Artemis inventory](https://www.nasaspaceflight.com/2022/12/boeing-expanding-cs-prod/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T165414">2022-12-10 16:54:14 UTC</a></sub>
 * [Europe celebrates performance of Orion service module](https://spacenews.com/europe-celebrates-performance-of-orion-service-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T154334">2022-12-10 15:43:34 UTC</a></sub>
+* [SpaceX now ready for Falcon 9 launch carrying private Japanese moon lander](https://www.nasaspaceflight.com/2022/12/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T132555">2022-12-10 13:25:55 UTC</a></sub>
 * [Antenna maker Anywaves plots aggressive US expansion](https://spacenews.com/antenna-maker-anywaves-plots-aggressive-us-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T225338">2022-12-09 22:53:38 UTC</a></sub>
 * [NASA Commits to Future Artemis Moon Rocket Production](http://www.nasa.gov/press-release/nasa-commits-to-future-artemis-moon-rocket-production) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T222300">2022-12-09 22:23:00 UTC</a></sub>
 * [House committee leaders introduce bipartisan bills to update satellite rules](https://spacenews.com/house-committee-leaders-introduce-bipartisan-bills-to-update-satellite-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T195335">2022-12-09 19:53:35 UTC</a></sub>
@@ -192,7 +193,6 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 * [NASA’s Orion spacecraft is about to face its final test—and it’s a big one](https://arstechnica.com/science/2022/12/nasas-orion-spacecraft-is-about-to-face-its-final-test-and-its-a-big-one/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T142744">2022-12-09 14:27:44 UTC</a></sub>
 * [Japanese billionaire selects crew for circumlunar Starship flight](https://spacenews.com/japanese-billionaire-selects-crew-for-circumlunar-starship-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T131333">2022-12-09 13:13:33 UTC</a></sub>
 * [NASA preparing for Orion splashdown to conclude Artemis 1](https://spacenews.com/nasa-preparing-for-orion-splashdown-to-conclude-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T121334">2022-12-09 12:13:34 UTC</a></sub>
-* [Rocket Report: Starship flight test slips to 2023; first methane launch is imminent](https://arstechnica.com/science/2022/12/rocket-report-first-uk-launch-slips-to-2023-ukrainian-rocket-startup-perseveres/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T120021">2022-12-09 12:00:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T203037">2022-12-10 20:30:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T210055">2022-12-10 21:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
