@@ -183,6 +183,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Europe celebrates performance of Orion service module](https://spacenews.com/europe-celebrates-performance-of-orion-service-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T154334">2022-12-10 15:43:34 UTC</a></sub>
 * [Antenna maker Anywaves plots aggressive US expansion](https://spacenews.com/antenna-maker-anywaves-plots-aggressive-us-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T225338">2022-12-09 22:53:38 UTC</a></sub>
 * [NASA Commits to Future Artemis Moon Rocket Production](http://www.nasa.gov/press-release/nasa-commits-to-future-artemis-moon-rocket-production) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T222300">2022-12-09 22:23:00 UTC</a></sub>
 * [House committee leaders introduce bipartisan bills to update satellite rules](https://spacenews.com/house-committee-leaders-introduce-bipartisan-bills-to-update-satellite-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T195335">2022-12-09 19:53:35 UTC</a></sub>
@@ -192,7 +193,6 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 * [NASA preparing for Orion splashdown to conclude Artemis 1](https://spacenews.com/nasa-preparing-for-orion-splashdown-to-conclude-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T121334">2022-12-09 12:13:34 UTC</a></sub>
 * [Rocket Report: Starship flight test slips to 2023; first methane launch is imminent](https://arstechnica.com/science/2022/12/rocket-report-first-uk-launch-slips-to-2023-ukrainian-rocket-startup-perseveres/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T120021">2022-12-09 12:00:21 UTC</a></sub>
 * [China launches 14 satellites with new solid rocket from mobile sea platform](https://spacenews.com/china-launches-14-satellites-with-new-solid-rocket-from-mobile-sea-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T103336">2022-12-09 10:33:36 UTC</a></sub>
-* [SpaceX requests permission for direct-to-smartphone service](https://spacenews.com/spacex-requests-permission-for-direct-to-smartphone-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T225334">2022-12-08 22:53:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T153046">2022-12-10 15:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T160100">2022-12-10 16:01:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
