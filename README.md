@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Here’s why NASA’s Artemis I mission is so rare, and so remarkable](https://arstechnica.com/science/2022/12/after-decades-of-false-starts-nasa-really-is-returning-to-the-moon-this-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T220021">2022-12-11 22:00:21 UTC</a></sub>
 * [SpaceX launches lunar lander for Japanese venture ispace, which aims to create moon economy](https://www.cnbc.com/2022/12/11/spacex-launches-japanese-ispace-lunar-lander-first-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T204630">2022-12-11 20:46:30 UTC</a></sub>
 * [Splashdown! NASA’s Orion Returns to Earth After Historic Moon Mission](http://www.nasa.gov/press-release/splashdown-nasa-s-orion-returns-to-earth-after-historic-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T181300">2022-12-11 18:13:00 UTC</a></sub>
 * [NASA’s Orion capsule splashes down, completing the first Artemis moon mission](https://www.cnbc.com/2022/12/11/nasa-completes-artemis-i-moon-mission-with-orion-capsule-splash-down.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T175525">2022-12-11 17:55:25 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Japanese moon lander, NASA hitchhiker payload launched by SpaceX](https://spaceflightnow.com/2022/12/11/falcon-9-ispace-mission-1-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T104330">2022-12-11 10:43:30 UTC</a></sub>
 * [Falcon 9 launches ispace lander and NASA cubesat to the moon](https://spacenews.com/falcon-9-launches-ispace-lander-and-nasa-cubesat-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T095333">2022-12-11 09:53:33 UTC</a></sub>
 * [SpaceX launches Falcon 9 carrying private Japanese moon lander](https://www.nasaspaceflight.com/2022/12/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T072555">2022-12-11 07:25:55 UTC</a></sub>
-* [Boeing expanding SLS Core Stage production to KSC to build Artemis inventory](https://www.nasaspaceflight.com/2022/12/boeing-expanding-cs-prod/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T165414">2022-12-10 16:54:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T220042">2022-12-11 22:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T223108">2022-12-11 22:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
