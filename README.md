@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orion splashes down to end Artemis 1](https://spacenews.com/orion-splashes-down-to-end-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T175333">2022-12-11 17:53:33 UTC</a></sub>
 * [Space Command promotes role in Artemis 1](https://spacenews.com/space-command-promotes-role-in-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T164333">2022-12-11 16:43:33 UTC</a></sub>
 * [Orion into final critical in-flight test as reentry and splashdown arrive](https://www.nasaspaceflight.com/2022/12/artemis-i-eom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T142335">2022-12-11 14:23:35 UTC</a></sub>
 * [Japanese moon lander, NASA hitchhiker payload launched by SpaceX](https://spaceflightnow.com/2022/12/11/falcon-9-ispace-mission-1-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T104330">2022-12-11 10:43:30 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Europe celebrates performance of Orion service module](https://spacenews.com/europe-celebrates-performance-of-orion-service-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T154334">2022-12-10 15:43:34 UTC</a></sub>
 * [NASA’s Lunar Flashlight hitching ride to moon on SpaceX rocket](https://spaceflightnow.com/2022/12/10/nasas-lunar-flashlight-hitching-ride-to-moon-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T072330">2022-12-10 07:23:30 UTC</a></sub>
 * [Orion moonship closes in for Sunday re-entry and splashdown](https://spaceflightnow.com/2022/12/10/orion-moonship-closes-in-for-sunday-re-entry-and-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T050330">2022-12-10 05:03:30 UTC</a></sub>
-* [Repairs and upgrades await SLS mobile launcher before crewed lunar mission](https://spaceflightnow.com/2022/12/09/repairs-and-upgrades-await-sls-mobile-launcher-before-crewed-lunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T235330">2022-12-09 23:53:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T173042">2022-12-11 17:30:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T180111">2022-12-11 18:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
