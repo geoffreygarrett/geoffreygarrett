@@ -98,7 +98,7 @@ Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight at the
 <a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T073800">2022-12-11 07:38:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T073813">2022-12-11 07:38:13 UTC</a>. Until
 then, this launch pad will have seen 160
 out of 865 launches in this
 region. The mission's status is currently Go for Launch
@@ -128,7 +128,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Hakuto-R M1 & Lunar Flashlight</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T073800">2022-12-11 07:38:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221211T073800Z%2F20221211T073800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Hakuto-R M1 & Lunar Flashlight</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T073813">2022-12-11 07:38:13 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221211T073813Z%2F20221211T073813Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T081400">2022-12-12 08:14:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20221212T081400Z%2F20221212T084300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T220000">2022-12-12 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221212T220000Z%2F20221213T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Galaxy 35 & 36, MTG-I1</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T203000">2022-12-13 20:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Galaxy 35 &amp; 36, MTG-I1&location=Kourou, French Guiana&dates=20221213T203000Z%2F20221213T221600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -186,13 +186,13 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 * [Boeing expanding SLS Core Stage production to KSC to build Artemis inventory](https://www.nasaspaceflight.com/2022/12/boeing-expanding-cs-prod/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T165414">2022-12-10 16:54:14 UTC</a></sub>
 * [Europe celebrates performance of Orion service module](https://spacenews.com/europe-celebrates-performance-of-orion-service-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T154334">2022-12-10 15:43:34 UTC</a></sub>
 * [SpaceX now ready for Falcon 9 launch carrying private Japanese moon lander](https://www.nasaspaceflight.com/2022/12/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T132555">2022-12-10 13:25:55 UTC</a></sub>
+* [NASA’s Lunar Flashlight hitching ride to moon on SpaceX rocket](https://spaceflightnow.com/2022/12/10/nasas-lunar-flashlight-hitching-ride-to-moon-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T072330">2022-12-10 07:23:30 UTC</a></sub>
 * [Orion moonship closes in for Sunday re-entry and splashdown](https://spaceflightnow.com/2022/12/10/orion-moonship-closes-in-for-sunday-re-entry-and-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T050330">2022-12-10 05:03:30 UTC</a></sub>
 * [Repairs and upgrades await SLS mobile launcher before crewed lunar mission](https://spaceflightnow.com/2022/12/09/repairs-and-upgrades-await-sls-mobile-launcher-before-crewed-lunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T235330">2022-12-09 23:53:30 UTC</a></sub>
 * [Antenna maker Anywaves plots aggressive US expansion](https://spacenews.com/antenna-maker-anywaves-plots-aggressive-us-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T225338">2022-12-09 22:53:38 UTC</a></sub>
 * [NASA Commits to Future Artemis Moon Rocket Production](http://www.nasa.gov/press-release/nasa-commits-to-future-artemis-moon-rocket-production) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T222300">2022-12-09 22:23:00 UTC</a></sub>
 * [House committee leaders introduce bipartisan bills to update satellite rules](https://spacenews.com/house-committee-leaders-introduce-bipartisan-bills-to-update-satellite-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T195335">2022-12-09 19:53:35 UTC</a></sub>
 * [Space Development Agency’s first launch slips to March due to satellite glitch](https://spacenews.com/space-development-agencys-first-launch-slips-to-march-due-to-satellite-glitch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T190335">2022-12-09 19:03:35 UTC</a></sub>
-* [NASA’s Orion spacecraft is about to face its final test—and it’s a big one](https://arstechnica.com/science/2022/12/nasas-orion-spacecraft-is-about-to-face-its-final-test-and-its-a-big-one/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T142744">2022-12-09 14:27:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T070049">2022-12-11 07:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T073055">2022-12-11 07:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
