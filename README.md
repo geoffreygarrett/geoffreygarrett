@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Falcon 9 launches ispace lander and NASA cubesat to the moon](https://spacenews.com/falcon-9-launches-ispace-lander-and-nasa-cubesat-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T095333">2022-12-11 09:53:33 UTC</a></sub>
 * [SpaceX launches Falcon 9 carrying private Japanese moon lander](https://www.nasaspaceflight.com/2022/12/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T072555">2022-12-11 07:25:55 UTC</a></sub>
 * [Boeing expanding SLS Core Stage production to KSC to build Artemis inventory](https://www.nasaspaceflight.com/2022/12/boeing-expanding-cs-prod/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T165414">2022-12-10 16:54:14 UTC</a></sub>
 * [Europe celebrates performance of Orion service module](https://spacenews.com/europe-celebrates-performance-of-orion-service-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T154334">2022-12-10 15:43:34 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Antenna maker Anywaves plots aggressive US expansion](https://spacenews.com/antenna-maker-anywaves-plots-aggressive-us-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T225338">2022-12-09 22:53:38 UTC</a></sub>
 * [NASA Commits to Future Artemis Moon Rocket Production](http://www.nasa.gov/press-release/nasa-commits-to-future-artemis-moon-rocket-production) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T222300">2022-12-09 22:23:00 UTC</a></sub>
 * [House committee leaders introduce bipartisan bills to update satellite rules](https://spacenews.com/house-committee-leaders-introduce-bipartisan-bills-to-update-satellite-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T195335">2022-12-09 19:53:35 UTC</a></sub>
-* [Space Development Agency’s first launch slips to March due to satellite glitch](https://spacenews.com/space-development-agencys-first-launch-slips-to-march-due-to-satellite-glitch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T190335">2022-12-09 19:03:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T100040">2022-12-11 10:00:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T103204">2022-12-11 10:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
