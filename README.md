@@ -181,6 +181,7 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Technical issue likely to blame for Iranian news channel outage, says Eutelsat](https://spacenews.com/technical-issue-likely-to-blame-for-iranian-news-channel-outage-says-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T205334">2022-12-12 20:53:34 UTC</a></sub>
 * [Artemis I review shows perfect ICPS performance, ULA looks to next Artemis launches](https://www.nasaspaceflight.com/2022/12/icps-artemis-i-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T173402">2022-12-12 17:34:02 UTC</a></sub>
 * [NASA official “very confident” Artemis spacesuits will be ready on time](https://arstechnica.com/science/2022/12/nasa-official-very-confident-artemis-spacesuits-will-be-ready-on-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T170934">2022-12-12 17:09:34 UTC</a></sub>
 * [Artemis 1 success earns widespread praise](https://spacenews.com/artemis-1-success-earns-widespread-praise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T104333">2022-12-12 10:43:33 UTC</a></sub>
@@ -190,7 +191,6 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 * [NASA’s Orion capsule splashes down, completing the first Artemis moon mission](https://www.cnbc.com/2022/12/11/nasa-completes-artemis-i-moon-mission-with-orion-capsule-splash-down.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T175525">2022-12-11 17:55:25 UTC</a></sub>
 * [Orion splashes down to end Artemis 1](https://spacenews.com/orion-splashes-down-to-end-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T175333">2022-12-11 17:53:33 UTC</a></sub>
 * [Space Command promotes role in Artemis 1](https://spacenews.com/space-command-promotes-role-in-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T164333">2022-12-11 16:43:33 UTC</a></sub>
-* [Orion aces final in-flight test with nominal reentry and splashdown](https://www.nasaspaceflight.com/2022/12/artemis-i-eom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T142335">2022-12-11 14:23:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T203046">2022-12-12 20:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T210058">2022-12-12 21:00:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
