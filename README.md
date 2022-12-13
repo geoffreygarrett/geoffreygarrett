@@ -94,27 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Ariane 5 ECA+ | Galaxy 35 & 36, MTG-I1 at the
-<a href="http://en.wikipedia.org/wiki/ELA-3">Ariane Launch Area 3</a> in
-Kourou, French Guiana
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T203000">2022-12-13 20:30:00 UTC</a>. Until
-then, this launch pad will have seen 115
-out of 315 launches in this
+Zhuque-2 | Maiden Flight at the
+<a href="">Unknown Pad</a> in
+Jiuquan, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T082200">2022-12-14 08:22:00 UTC</a>. Until
+then, this launch pad will have seen 32
+out of 180 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Galaxy 35, 36 are two geostationary communications satellites operated by Intelsat.
-MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
+  First flight of the new methalox rocket developed by Chinese startup LandSpace.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Ariane_5" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps/?q=5.239,-52.769" >
+  <a href="" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -127,7 +126,6 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Galaxy 35 & 36, MTG-I1</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T203000">2022-12-13 20:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Galaxy 35 &amp; 36, MTG-I1&location=Kourou, French Guiana&dates=20221213T203000Z%2F20221213T221600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Maiden Flight</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T082200">2022-12-14 08:22:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20221214T082200Z%2F20221214T104400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Yaogan 36 Group 04</b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T181500">2022-12-14 18:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Yaogan 36 Group 04 (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221214T181500Z%2F20221214T183500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T220000">2022-12-14 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221214T220000Z%2F20221215T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -182,6 +180,7 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Bill Nelson came to NASA to do two things, and he’s all out of bubblegum](https://arstechnica.com/science/2022/12/bill-nelson-came-to-nasa-to-do-two-things-and-hes-all-out-of-bubblegum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T195546">2022-12-13 19:55:46 UTC</a></sub>
 * [Arianespace to launch three spacecraft, Intelsat talks satellite refresh efforts](https://www.nasaspaceflight.com/2022/12/ariane-5-va259/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T163830">2022-12-13 16:38:30 UTC</a></sub>
 * [Quantum Space raises $15 million for cislunar spacecraft](https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T150334">2022-12-13 15:03:34 UTC</a></sub>
 * [After Russia’s exit from the Lunar Gateway, NASA has found a new partner in UAE](https://arstechnica.com/science/2022/12/nasa-is-negotiating-with-uae-to-provide-an-airlock-for-the-lunar-gateway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T145001">2022-12-13 14:50:01 UTC</a></sub>
@@ -191,7 +190,6 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 * [Technical issue likely to blame for Iranian news channel outage, says Eutelsat](https://spacenews.com/technical-issue-likely-to-blame-for-iranian-news-channel-outage-says-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T205334">2022-12-12 20:53:34 UTC</a></sub>
 * [First in new generation of European weather satellites ready for launch](https://spaceflightnow.com/2022/12/12/first-in-new-generation-of-european-weather-satellites-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T185330">2022-12-12 18:53:30 UTC</a></sub>
 * [Artemis I review shows perfect ICPS performance, ULA looks to next Artemis launches](https://www.nasaspaceflight.com/2022/12/icps-artemis-i-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T173402">2022-12-12 17:34:02 UTC</a></sub>
-* [NASA official “very confident” Artemis spacesuits will be ready on time](https://arstechnica.com/science/2022/12/nasa-official-very-confident-artemis-spacesuits-will-be-ready-on-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T170934">2022-12-12 17:09:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +222,7 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T200105">2022-12-13 20:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T203113">2022-12-13 20:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
