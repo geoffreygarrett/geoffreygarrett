@@ -180,16 +180,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ariane 5 launches triple satellite mission to geostationary transfer orbit](https://spacenews.com/ariane-5-launches-triple-satellite-mission-to-geostationary-transfer-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T213334">2022-12-13 21:33:34 UTC</a></sub>
 * [NASA’s Big 2022: Historic Moon Mission, Webb Telescope Images, More](http://www.nasa.gov/press-release/nasa-s-big-2022-historic-moon-mission-webb-telescope-images-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T204300">2022-12-13 20:43:00 UTC</a></sub>
 * [Bill Nelson came to NASA to do two things, and he’s all out of bubblegum](https://arstechnica.com/science/2022/12/bill-nelson-came-to-nasa-to-do-two-things-and-hes-all-out-of-bubblegum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T195546">2022-12-13 19:55:46 UTC</a></sub>
-* [Arianespace to launch three spacecraft, Intelsat talks satellite refresh efforts](https://www.nasaspaceflight.com/2022/12/ariane-5-va259/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T163830">2022-12-13 16:38:30 UTC</a></sub>
+* [Arianespace launches three spacecraft, Intelsat talks satellite refresh efforts](https://www.nasaspaceflight.com/2022/12/ariane-5-va259/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T163830">2022-12-13 16:38:30 UTC</a></sub>
 * [Quantum Space raises $15 million for cislunar spacecraft](https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T150334">2022-12-13 15:03:34 UTC</a></sub>
 * [After Russia’s exit from the Lunar Gateway, NASA has found a new partner in UAE](https://arstechnica.com/science/2022/12/nasa-is-negotiating-with-uae-to-provide-an-airlock-for-the-lunar-gateway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T145001">2022-12-13 14:50:01 UTC</a></sub>
 * [United Nations General Assembly approves ASAT test ban resolution](https://spacenews.com/united-nations-general-assembly-approves-asat-test-ban-resolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T105334">2022-12-13 10:53:34 UTC</a></sub>
 * [Elon’s Twitter dilemma](https://spacenews.com/elons-twitter-dilemma/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T225334">2022-12-12 22:53:34 UTC</a></sub>
 * [ThinkOrbital designing platform for in-space manufacturing, debris removal](https://spacenews.com/thinkorbital-designing-platform-for-in-space-manufacturing-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T214334">2022-12-12 21:43:34 UTC</a></sub>
 * [Technical issue likely to blame for Iranian news channel outage, says Eutelsat](https://spacenews.com/technical-issue-likely-to-blame-for-iranian-news-channel-outage-says-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T205334">2022-12-12 20:53:34 UTC</a></sub>
-* [First in new generation of European weather satellites ready for launch](https://spaceflightnow.com/2022/12/12/first-in-new-generation-of-european-weather-satellites-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T185330">2022-12-12 18:53:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T220046">2022-12-13 22:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T223144">2022-12-13 22:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
