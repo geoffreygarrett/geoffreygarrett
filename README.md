@@ -189,9 +189,9 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 * [Elon’s Twitter dilemma](https://spacenews.com/elons-twitter-dilemma/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T225334">2022-12-12 22:53:34 UTC</a></sub>
 * [ThinkOrbital designing platform for in-space manufacturing, debris removal](https://spacenews.com/thinkorbital-designing-platform-for-in-space-manufacturing-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T214334">2022-12-12 21:43:34 UTC</a></sub>
 * [Technical issue likely to blame for Iranian news channel outage, says Eutelsat](https://spacenews.com/technical-issue-likely-to-blame-for-iranian-news-channel-outage-says-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T205334">2022-12-12 20:53:34 UTC</a></sub>
+* [First in new generation of European weather satellites ready for launch](https://spaceflightnow.com/2022/12/12/first-in-new-generation-of-european-weather-satellites-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T185330">2022-12-12 18:53:30 UTC</a></sub>
 * [Artemis I review shows perfect ICPS performance, ULA looks to next Artemis launches](https://www.nasaspaceflight.com/2022/12/icps-artemis-i-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T173402">2022-12-12 17:34:02 UTC</a></sub>
 * [NASA official “very confident” Artemis spacesuits will be ready on time](https://arstechnica.com/science/2022/12/nasa-official-very-confident-artemis-spacesuits-will-be-ready-on-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T170934">2022-12-12 17:09:34 UTC</a></sub>
-* [Artemis 1 success earns widespread praise](https://spacenews.com/artemis-1-success-earns-widespread-praise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T104333">2022-12-12 10:43:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T190042">2022-12-13 19:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T193054">2022-12-13 19:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
