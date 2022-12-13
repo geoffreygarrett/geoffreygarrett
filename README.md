@@ -182,6 +182,7 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arianespace to launch three spacecraft, Intelsat talks satellite refresh efforts](https://www.nasaspaceflight.com/2022/12/ariane-5-va259/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T163830">2022-12-13 16:38:30 UTC</a></sub>
 * [Quantum Space raises $15 million for cislunar spacecraft](https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T150334">2022-12-13 15:03:34 UTC</a></sub>
 * [After Russia’s exit from the Lunar Gateway, NASA has found a new partner in UAE](https://arstechnica.com/science/2022/12/nasa-is-negotiating-with-uae-to-provide-an-airlock-for-the-lunar-gateway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T145001">2022-12-13 14:50:01 UTC</a></sub>
 * [United Nations General Assembly approves ASAT test ban resolution](https://spacenews.com/united-nations-general-assembly-approves-asat-test-ban-resolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T105334">2022-12-13 10:53:34 UTC</a></sub>
@@ -191,7 +192,6 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 * [Artemis I review shows perfect ICPS performance, ULA looks to next Artemis launches](https://www.nasaspaceflight.com/2022/12/icps-artemis-i-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T173402">2022-12-12 17:34:02 UTC</a></sub>
 * [NASA official “very confident” Artemis spacesuits will be ready on time](https://arstechnica.com/science/2022/12/nasa-official-very-confident-artemis-spacesuits-will-be-ready-on-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T170934">2022-12-12 17:09:34 UTC</a></sub>
 * [Artemis 1 success earns widespread praise](https://spacenews.com/artemis-1-success-earns-widespread-praise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T104333">2022-12-12 10:43:33 UTC</a></sub>
-* [Here’s why NASA’s Artemis I mission is so rare, and so remarkable](https://arstechnica.com/science/2022/12/after-decades-of-false-starts-nasa-really-is-returning-to-the-moon-this-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T220021">2022-12-11 22:00:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T170039">2022-12-13 17:00:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T173103">2022-12-13 17:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
