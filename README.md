@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. national security space strategy emphasizes resilient systems, responsible behavior](https://spacenews.com/u-s-national-security-space-strategy-emphasizes-resilient-systems-responsible-behavior/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T220147">2022-12-14 22:01:47 UTC</a></sub>
+* [Satellite imagery venture Planet delivers record quarter, sees annual revenue nearing $200 million](https://www.cnbc.com/2022/12/14/planet-q3-results-record-quarter-as-revenue-climbs.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T215750">2022-12-14 21:57:50 UTC</a></sub>
 * [Eutelsat ordered to stop broadcasting three Russian channels](https://spacenews.com/eutelsat-ordered-to-stop-broadcasting-three-russian-channels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T214145">2022-12-14 21:41:45 UTC</a></sub>
 * [Space launch supply chokepoint puts U.S. in vulnerable spot, expert warns](https://spacenews.com/space-launch-supply-chokepoint-puts-u-s-in-vulnerable-spot-expert-warns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T175146">2022-12-14 17:51:46 UTC</a></sub>
 * [Historic first launch of Chinese private methane-fueled rocket ends in failure](https://spacenews.com/historic-first-launch-of-chinese-private-methane-fueled-rocket-ends-in-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T165200">2022-12-14 16:52:00 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [First African nations sign Artemis Accords](https://spacenews.com/first-african-nations-sign-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T230333">2022-12-13 23:03:33 UTC</a></sub>
 * [Ariane 5 launches triple satellite mission to geostationary transfer orbit](https://spacenews.com/ariane-5-launches-triple-satellite-mission-to-geostationary-transfer-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T213334">2022-12-13 21:33:34 UTC</a></sub>
 * [NASA’s Big 2022: Historic Moon Mission, Webb Telescope Images, More](http://www.nasa.gov/press-release/nasa-s-big-2022-historic-moon-mission-webb-telescope-images-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T204300">2022-12-13 20:43:00 UTC</a></sub>
-* [Bill Nelson came to NASA to do two things, and he’s all out of bubblegum](https://arstechnica.com/science/2022/12/bill-nelson-came-to-nasa-to-do-two-things-and-hes-all-out-of-bubblegum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T195546">2022-12-13 19:55:46 UTC</a></sub>
-* [Arianespace launches three spacecraft, Intelsat talks satellite refresh efforts](https://www.nasaspaceflight.com/2022/12/ariane-5-va259/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T163830">2022-12-13 16:38:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T220105">2022-12-14 22:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T223142">2022-12-14 22:31:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
