@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Zhuque-2 | Maiden Flight at the
-<a href="">Unknown Pad</a> in
-Jiuquan, People's Republic of China
+Long March 2D | Yaogan 36 Group 04 (?) at the
+<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a> in
+Xichang Satellite Launch Center, People's Republic of China
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T082200">2022-12-14 08:22:00 UTC</a>. Until
-then, this launch pad will have seen 32
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T181500">2022-12-14 18:15:00 UTC</a>. Until
+then, this launch pad will have seen 68
 out of 180 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  First flight of the new methalox rocket developed by Chinese startup LandSpace.
+  3 Chinese military reconnaissance satellites.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="" >
+  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Maiden Flight</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T082200">2022-12-14 08:22:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20221214T082200Z%2F20221214T104400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Yaogan 36 Group 04</b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T181500">2022-12-14 18:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Yaogan 36 Group 04 (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221214T181500Z%2F20221214T183500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SWOT - Surface Water and Ocean Topography</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T114640">2022-12-15 11:46:40 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SWOT - Surface Water and Ocean Topography&location=Vandenberg SFB, CA, USA&dates=20221215T114640Z%2F20221215T114640Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T055000">2022-12-16 05:50:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 11 | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221216T055000Z%2F20221216T080500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -222,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T080101">2022-12-14 08:01:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T083423">2022-12-14 08:34:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
