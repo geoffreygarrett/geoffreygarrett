@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Eutelsat ordered to stop broadcasting three Russian channels](https://spacenews.com/eutelsat-ordered-to-stop-broadcasting-three-russian-channels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T214145">2022-12-14 21:41:45 UTC</a></sub>
 * [Space launch supply chokepoint puts U.S. in vulnerable spot, expert warns](https://spacenews.com/space-launch-supply-chokepoint-puts-u-s-in-vulnerable-spot-expert-warns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T175146">2022-12-14 17:51:46 UTC</a></sub>
 * [Historic first launch of Chinese private methane-fueled rocket ends in failure](https://spacenews.com/historic-first-launch-of-chinese-private-methane-fueled-rocket-ends-in-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T165200">2022-12-14 16:52:00 UTC</a></sub>
 * [Space debris expert: Orbits will be lost—and people will die—later this decade](https://arstechnica.com/science/2022/12/space-debris-expert-orbits-will-be-lost-and-people-will-die-later-this-decade/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T114558">2022-12-14 11:45:58 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [NASA’s Big 2022: Historic Moon Mission, Webb Telescope Images, More](http://www.nasa.gov/press-release/nasa-s-big-2022-historic-moon-mission-webb-telescope-images-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T204300">2022-12-13 20:43:00 UTC</a></sub>
 * [Bill Nelson came to NASA to do two things, and he’s all out of bubblegum](https://arstechnica.com/science/2022/12/bill-nelson-came-to-nasa-to-do-two-things-and-hes-all-out-of-bubblegum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T195546">2022-12-13 19:55:46 UTC</a></sub>
 * [Arianespace launches three spacecraft, Intelsat talks satellite refresh efforts](https://www.nasaspaceflight.com/2022/12/ariane-5-va259/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T163830">2022-12-13 16:38:30 UTC</a></sub>
-* [Quantum Space raises $15 million for cislunar spacecraft](https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T150334">2022-12-13 15:03:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T213045">2022-12-14 21:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T220105">2022-12-14 22:01:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
