@@ -29,7 +29,6 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 * [KaTeX rendering after markdown parser.](https://github.com/geoffreygarrett/notes.geoffreygarrett.com/issues/4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T130043">2022-06-01 13:00:43 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Implement `conda` package of `multidoc` into workflow](https://github.com/tudat-team/tudat-multidoc/issues/43) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T122202">2022-03-07 12:22:02 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Request: change of style for enumeration](https://github.com/tudat-team/tudat-multidoc/issues/35) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T231953">2022-02-22 23:19:53 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
-* [Revise "about" page](https://github.com/tudat-team/tudat-space/issues/62) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T130818">2022-02-18 13:08:18 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Very large `.git` history due to old resources from legacy](https://github.com/tudat-team/tudat/issues/66) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T112803">2022-02-17 11:28:03 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Understand and fix rever ("news" workflow)](https://github.com/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Multiline tagging for parser](https://github.com/tudat-team/tudat-multidoc/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T215945">2021-12-30 21:59:45 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
@@ -44,6 +43,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <h3 align="center"> Closed issues ✅ </h3>
 
 <!-- github issues starts -->
+* [Revise "about" page](https://github.com/tudat-team/tudat-space/issues/62) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T130818">2022-02-18 13:08:18 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Start using proper versioning for the conda package](https://github.com/tudat-team/tudat-bundle/issues/5) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T214648">2021-12-30 21:46:48 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Ensure readthedocs build fails if build.sh fails](https://github.com/tudat-team/tudat-multidoc/issues/1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211024T172410">2021-10-24 17:24:10 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Investigate autocomplete on PyCharm and stubs files ](https://github.com/tudat-team/tudatpy/issues/22) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211020T151214">2021-10-20 15:12:14 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
@@ -199,6 +199,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [NEO Surveyor is confirmed](https://www.planetary.org/articles/neo-surveyor-is-confirmed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T130354">2022-12-14 13:03:54 UTC</a></sub>
 * [Your impact: December solstice 2022](https://www.planetary.org/articles/your-impact-december-solstice-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T150349">2022-12-13 15:03:49 UTC</a></sub>
 * [The year in pictures: 2022](https://www.planetary.org/articles/the-year-in-pictures-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T145349">2022-12-13 14:53:49 UTC</a></sub>
 * [Going the distance to get the shot](https://www.planetary.org/articles/going-the-distance-to-get-the-shot) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T144350">2022-12-13 14:43:50 UTC</a></sub>
@@ -208,7 +209,6 @@ region. The mission's status is currently Go for Launch
 * [The Best of 2022](https://www.planetary.org/articles/the-best-of-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T160458">2022-12-05 16:04:58 UTC</a></sub>
 * [Much has passed in decades past](https://www.planetary.org/the-downlink/much-has-passed-in-decades-past) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T153501">2022-12-02 15:35:01 UTC</a></sub>
 * [NASA’s economic impact? Hundreds of thousands of jobs.](https://www.planetary.org/articles/nasas-economic-impact-fy2021) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T140500">2022-12-02 14:05:00 UTC</a></sub>
-* [Best space pictures of the month: November 2022](https://www.planetary.org/articles/best-space-pictures-november-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T150503">2022-11-30 15:05:03 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T130522">2022-12-14 13:05:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T133338">2022-12-14 13:33:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
