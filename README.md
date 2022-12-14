@@ -189,7 +189,7 @@ region. The mission's status is currently Go for Launch
 * [Quantum Space raises $15 million for cislunar spacecraft](https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T150334">2022-12-13 15:03:34 UTC</a></sub>
 * [After Russia’s exit from the Lunar Gateway, NASA has found a new partner in UAE](https://arstechnica.com/science/2022/12/nasa-is-negotiating-with-uae-to-provide-an-airlock-for-the-lunar-gateway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T145001">2022-12-13 14:50:01 UTC</a></sub>
 * [United Nations General Assembly approves ASAT test ban resolution](https://spacenews.com/united-nations-general-assembly-approves-asat-test-ban-resolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T105334">2022-12-13 10:53:34 UTC</a></sub>
-* [Elon’s Twitter dilemma](https://spacenews.com/elons-twitter-dilemma/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T225334">2022-12-12 22:53:34 UTC</a></sub>
+* [SpaceX targeting salvo of three Falcon 9 launches later this week](https://www.teslarati.com/spacex-targeting-three-back-to-back-launches-later-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T055403">2022-12-13 05:54:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T053043">2022-12-14 05:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T060103">2022-12-14 06:01:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
