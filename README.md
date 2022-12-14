@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ariane 5 rocket launches new European Meteosat satellite, two Intelsat comsats](https://spaceflightnow.com/2022/12/13/ariane-5-rocket-launches-new-european-meteosat-satellite-two-intelsat-comsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T235330">2022-12-13 23:53:30 UTC</a></sub>
 * [First African nations sign Artemis Accords](https://spacenews.com/first-african-nations-sign-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T230333">2022-12-13 23:03:33 UTC</a></sub>
 * [Ariane 5 launches triple satellite mission to geostationary transfer orbit](https://spacenews.com/ariane-5-launches-triple-satellite-mission-to-geostationary-transfer-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T213334">2022-12-13 21:33:34 UTC</a></sub>
 * [NASA’s Big 2022: Historic Moon Mission, Webb Telescope Images, More](http://www.nasa.gov/press-release/nasa-s-big-2022-historic-moon-mission-webb-telescope-images-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T204300">2022-12-13 20:43:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [After Russia’s exit from the Lunar Gateway, NASA has found a new partner in UAE](https://arstechnica.com/science/2022/12/nasa-is-negotiating-with-uae-to-provide-an-airlock-for-the-lunar-gateway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T145001">2022-12-13 14:50:01 UTC</a></sub>
 * [United Nations General Assembly approves ASAT test ban resolution](https://spacenews.com/united-nations-general-assembly-approves-asat-test-ban-resolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T105334">2022-12-13 10:53:34 UTC</a></sub>
 * [Elon’s Twitter dilemma](https://spacenews.com/elons-twitter-dilemma/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T225334">2022-12-12 22:53:34 UTC</a></sub>
-* [ThinkOrbital designing platform for in-space manufacturing, debris removal](https://spacenews.com/thinkorbital-designing-platform-for-in-space-manufacturing-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T214334">2022-12-12 21:43:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T233109">2022-12-13 23:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T000146">2022-12-14 00:01:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
