@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Soyuz leak cancels space station spacewalk](https://spacenews.com/soyuz-leak-cancels-space-station-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T123146">2022-12-15 12:31:46 UTC</a></sub>
 * [Russian engineers assessing leak from Soyuz crew spacecraft](https://spaceflightnow.com/2022/12/15/spacewalk-canceled-after-coolant-leak-from-russian-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T055142">2022-12-15 05:51:42 UTC</a></sub>
 * [A Russian spacecraft started leaking uncontrollably on Wednesday night](https://arstechnica.com/science/2022/12/a-russian-spacecraft-started-leaking-uncontrollably-on-monday-night/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T035810">2022-12-15 03:58:10 UTC</a></sub>
 * [SpaceX delays Falcon 9 launch of SWOT ocean research mission](https://www.nasaspaceflight.com/2022/12/falcon-9-swot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T005457">2022-12-15 00:54:57 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [U.S. national security space strategy emphasizes resilient systems, responsible behavior](https://spacenews.com/u-s-national-security-space-strategy-emphasizes-resilient-systems-responsible-behavior/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T220147">2022-12-14 22:01:47 UTC</a></sub>
 * [Satellite imagery venture Planet delivers record quarter, sees annual revenue nearing $200 million](https://www.cnbc.com/2022/12/14/planet-q3-results-record-quarter-as-revenue-climbs.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T215750">2022-12-14 21:57:50 UTC</a></sub>
 * [Eutelsat ordered to stop broadcasting three Russian channels](https://spacenews.com/eutelsat-ordered-to-stop-broadcasting-three-russian-channels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T214145">2022-12-14 21:41:45 UTC</a></sub>
-* [Space launch supply chokepoint puts U.S. in vulnerable spot, expert warns](https://spacenews.com/space-launch-supply-chokepoint-puts-u-s-in-vulnerable-spot-expert-warns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T175146">2022-12-14 17:51:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T120111">2022-12-15 12:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T124103">2022-12-15 12:41:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
