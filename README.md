@@ -181,6 +181,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arqit drops plan to operate quantum encryption satellites](https://spacenews.com/arqit-drops-plan-to-operate-quantum-encryption-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T232146">2022-12-15 23:21:46 UTC</a></sub>
+* [Space acquisition chief: DoD will buy small satellites, at fixed prices](https://spacenews.com/space-acquisition-chief-dod-will-buy-small-satellites-at-fixed-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T232146">2022-12-15 23:21:46 UTC</a></sub>
 * [NASA Awards Contract to Maintain Webb Telescope Operations](http://www.nasa.gov/press-release/nasa-awards-contract-to-maintain-webb-telescope-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T213100">2022-12-15 21:31:00 UTC</a></sub>
 * [NASA, AST & Science Sign Joint Spaceflight Safety Agreement](http://www.nasa.gov/press-release/nasa-ast-science-sign-joint-spaceflight-safety-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T211100">2022-12-15 21:11:00 UTC</a></sub>
 * [Soyuz MS-22 suffers coolant leak, canceling Russian spacewalk](https://www.nasaspaceflight.com/2022/12/soyuz-ms-22-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T195918">2022-12-15 19:59:18 UTC</a></sub>
@@ -189,8 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Russian engineers assessing leak from Soyuz crew spacecraft](https://spaceflightnow.com/2022/12/15/spacewalk-canceled-after-coolant-leak-from-russian-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T055142">2022-12-15 05:51:42 UTC</a></sub>
 * [A Russian spacecraft started leaking uncontrollably on Wednesday night](https://arstechnica.com/science/2022/12/a-russian-spacecraft-started-leaking-uncontrollably-on-monday-night/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T035810">2022-12-15 03:58:10 UTC</a></sub>
 * [SpaceX delays Falcon 9 launch of SWOT ocean research mission](https://www.nasaspaceflight.com/2022/12/falcon-9-swot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T005457">2022-12-15 00:54:57 UTC</a></sub>
-* [Microsoft and Viasat partner to expand global connectivity access](https://spacenews.com/microsoft-and-viasat-partner-to-expand-global-connectivity-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T234146">2022-12-14 23:41:46 UTC</a></sub>
-* [NASA and Rocket Lab ready for first Electron launch from Wallops](https://spacenews.com/nasa-and-rocket-lab-ready-for-first-electron-launch-from-wallops/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T232146">2022-12-14 23:21:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T230049">2022-12-15 23:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T233053">2022-12-15 23:30:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
