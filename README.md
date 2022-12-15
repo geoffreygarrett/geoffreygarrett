@@ -179,8 +179,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NASA and Rocket Lab ready for first Electron launch from Wallops](https://spacenews.com/nasa-and-rocket-lab-ready-for-first-electron-launch-from-wallops/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T232146">2022-12-14 23:21:46 UTC</a></sub>
+* [Microsoft and Viasat partner to expand global connectivity access](https://spacenews.com/microsoft-and-viasat-partner-to-expand-global-connectivity-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T234146">2022-12-14 23:41:46 UTC</a></sub>
 * [U.S. space internet companies fear competitive threat from China](https://spacenews.com/u-s-space-internet-companies-fear-competitive-threat-from-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T232146">2022-12-14 23:21:46 UTC</a></sub>
+* [NASA and Rocket Lab ready for first Electron launch from Wallops](https://spacenews.com/nasa-and-rocket-lab-ready-for-first-electron-launch-from-wallops/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T232146">2022-12-14 23:21:46 UTC</a></sub>
 * [U.S. national security space strategy emphasizes resilient systems, responsible behavior](https://spacenews.com/u-s-national-security-space-strategy-emphasizes-resilient-systems-responsible-behavior/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T220147">2022-12-14 22:01:47 UTC</a></sub>
 * [Satellite imagery venture Planet delivers record quarter, sees annual revenue nearing $200 million](https://www.cnbc.com/2022/12/14/planet-q3-results-record-quarter-as-revenue-climbs.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T215750">2022-12-14 21:57:50 UTC</a></sub>
 * [Eutelsat ordered to stop broadcasting three Russian channels](https://spacenews.com/eutelsat-ordered-to-stop-broadcasting-three-russian-channels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T214145">2022-12-14 21:41:45 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Historic first launch of Chinese private methane-fueled rocket ends in failure](https://spacenews.com/historic-first-launch-of-chinese-private-methane-fueled-rocket-ends-in-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T165200">2022-12-14 16:52:00 UTC</a></sub>
 * [Space debris expert: Orbits will be lost—and people will die—later this decade](https://arstechnica.com/science/2022/12/space-debris-expert-orbits-will-be-lost-and-people-will-die-later-this-decade/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T114558">2022-12-14 11:45:58 UTC</a></sub>
 * [Ariane 5 rocket launches new European Meteosat satellite, two Intelsat comsats](https://spaceflightnow.com/2022/12/13/ariane-5-rocket-launches-new-european-meteosat-satellite-two-intelsat-comsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T235330">2022-12-13 23:53:30 UTC</a></sub>
-* [First African nations sign Artemis Accords](https://spacenews.com/first-african-nations-sign-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T230333">2022-12-13 23:03:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T233059">2022-12-14 23:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T000139">2022-12-15 00:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
