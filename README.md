@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Soyuz MS-22 suffers coolant leak, canceling Russian spacewalk](https://www.nasaspaceflight.com/2022/12/soyuz-ms-22-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T195918">2022-12-15 19:59:18 UTC</a></sub>
 * [Investing in Space: Coopetition](https://www.cnbc.com/2022/12/15/investing-in-space-coopetition.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T164908">2022-12-15 16:49:08 UTC</a></sub>
 * [Soyuz leak cancels space station spacewalk](https://spacenews.com/soyuz-leak-cancels-space-station-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T123146">2022-12-15 12:31:46 UTC</a></sub>
 * [Russian engineers assessing leak from Soyuz crew spacecraft](https://spaceflightnow.com/2022/12/15/spacewalk-canceled-after-coolant-leak-from-russian-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T055142">2022-12-15 05:51:42 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NASA and Rocket Lab ready for first Electron launch from Wallops](https://spacenews.com/nasa-and-rocket-lab-ready-for-first-electron-launch-from-wallops/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T232146">2022-12-14 23:21:46 UTC</a></sub>
 * [U.S. space internet companies fear competitive threat from China](https://spacenews.com/u-s-space-internet-companies-fear-competitive-threat-from-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T232146">2022-12-14 23:21:46 UTC</a></sub>
 * [U.S. national security space strategy emphasizes resilient systems, responsible behavior](https://spacenews.com/u-s-national-security-space-strategy-emphasizes-resilient-systems-responsible-behavior/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T220147">2022-12-14 22:01:47 UTC</a></sub>
-* [Satellite imagery venture Planet delivers record quarter, sees annual revenue nearing $200 million](https://www.cnbc.com/2022/12/14/planet-q3-results-record-quarter-as-revenue-climbs.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T215750">2022-12-14 21:57:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T200043">2022-12-15 20:00:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T203056">2022-12-15 20:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
