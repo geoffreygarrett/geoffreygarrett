@@ -178,6 +178,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [White House revamps membership of National Space Council advisory group](https://spacenews.com/white-house-revamps-membership-of-national-space-council-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T210148">2022-12-16 21:01:48 UTC</a></sub>
 * [SpaceX to launch two missions from Florida in two days](https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T175622">2022-12-16 17:56:22 UTC</a></sub>
 * [Here’s what we know, and what we don’t, about the damaged Soyuz spacecraft](https://arstechnica.com/science/2022/12/heres-what-we-know-and-what-we-dont-about-the-damaged-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T164231">2022-12-16 16:42:31 UTC</a></sub>
 * [NASA's Perseverance Rover to Begin Building Martian Sample Depot](https://mars.nasa.gov/news/9319/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T152100">2022-12-16 15:21:00 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently Go for Launch
 * [Falcon 9 launches ocean science mission for NASA and CNES](https://spacenews.com/falcon-9-launches-ocean-science-mission-for-nasa-and-cnes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
 * [Rocket Report: Meet the Blue Origin Space Rangers; methane rocket fails in debut](https://arstechnica.com/science/2022/12/rocket-report-spacex-may-launch-twice-in-18-minutes-the-us-electron-is-nigh/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T120032">2022-12-16 12:00:32 UTC</a></sub>
 * [China completes seventh space launch inside 10 days](https://spacenews.com/china-completes-seventh-space-launch-inside-10-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T091147">2022-12-16 09:11:47 UTC</a></sub>
-* [SpaceX launches SWOT ocean research mission](https://www.nasaspaceflight.com/2022/12/falcon-9-swot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T050157">2022-12-16 05:01:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T213035">2022-12-16 21:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T220055">2022-12-16 22:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
