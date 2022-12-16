@@ -179,16 +179,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch two missions from Florida in two days](https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T175622">2022-12-16 17:56:22 UTC</a></sub>
 * [Here’s what we know, and what we don’t, about the damaged Soyuz spacecraft](https://arstechnica.com/science/2022/12/heres-what-we-know-and-what-we-dont-about-the-damaged-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T164231">2022-12-16 16:42:31 UTC</a></sub>
 * [NASA's Perseverance Rover to Begin Building Martian Sample Depot](https://mars.nasa.gov/news/9319/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T152100">2022-12-16 15:21:00 UTC</a></sub>
 * [Space company Maxar agrees to go private in $6.4 billion deal ](https://www.cnbc.com/2022/12/16/maxar-selling-to-private-equity-investors-advent-bci.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T145132">2022-12-16 14:51:32 UTC</a></sub>
 * [NASA Launches International Mission to Survey Earth’s Water](http://www.nasa.gov/press-release/nasa-launches-international-mission-to-survey-earth-s-water) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T133200">2022-12-16 13:32:00 UTC</a></sub>
-* [Falcon 9 launches ocean science mission for NASA and CNES](https://spacenews.com/falcon-9-launches-ocean-science-mission-for-nasa-and-cnes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
 * [Maxar Technologies acquired by private equity firm in $6.4 billion deal](https://spacenews.com/maxar-technologies-acquired-by-private-equity-firm-in-6-4-billion-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
+* [Falcon 9 launches ocean science mission for NASA and CNES](https://spacenews.com/falcon-9-launches-ocean-science-mission-for-nasa-and-cnes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
 * [Rocket Report: Meet the Blue Origin Space Rangers; methane rocket fails in debut](https://arstechnica.com/science/2022/12/rocket-report-spacex-may-launch-twice-in-18-minutes-the-us-electron-is-nigh/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T120032">2022-12-16 12:00:32 UTC</a></sub>
 * [China completes seventh space launch inside 10 days](https://spacenews.com/china-completes-seventh-space-launch-inside-10-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T091147">2022-12-16 09:11:47 UTC</a></sub>
 * [SpaceX launches SWOT ocean research mission](https://www.nasaspaceflight.com/2022/12/falcon-9-swot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T050157">2022-12-16 05:01:57 UTC</a></sub>
-* [EOI Space forges equity and sales pact with Japan’s NTT Data](https://spacenews.com/eoi-space-forges-equity-and-sales-pact-with-japans-ntt-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T233146">2022-12-15 23:31:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T180054">2022-12-16 18:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T183246">2022-12-16 18:32:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
