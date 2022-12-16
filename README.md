@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space company Maxar agrees to go private in $6.4 billion deal ](https://www.cnbc.com/2022/12/16/maxar-selling-to-private-equity-investors-advent-bci.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T145132">2022-12-16 14:51:32 UTC</a></sub>
 * [NASA Launches International Mission to Survey Earth’s Water](http://www.nasa.gov/press-release/nasa-launches-international-mission-to-survey-earth-s-water) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T133200">2022-12-16 13:32:00 UTC</a></sub>
 * [Falcon 9 launches ocean science mission for NASA and CNES](https://spacenews.com/falcon-9-launches-ocean-science-mission-for-nasa-and-cnes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
 * [Maxar Technologies acquired by private equity firm in $6.4 billion deal](https://spacenews.com/maxar-technologies-acquired-by-private-equity-firm-in-6-4-billion-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [EOI Space forges equity and sales pact with Japan’s NTT Data](https://spacenews.com/eoi-space-forges-equity-and-sales-pact-with-japans-ntt-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T233146">2022-12-15 23:31:46 UTC</a></sub>
 * [Arqit drops plan to operate quantum encryption satellites](https://spacenews.com/arqit-drops-plan-to-operate-quantum-encryption-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T232146">2022-12-15 23:21:46 UTC</a></sub>
 * [Space acquisition chief: DoD will buy small satellites, at fixed prices](https://spacenews.com/space-acquisition-chief-dod-will-buy-small-satellites-at-fixed-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T232146">2022-12-15 23:21:46 UTC</a></sub>
-* [NASA Awards Contract to Maintain Webb Telescope Operations](http://www.nasa.gov/press-release/nasa-awards-contract-to-maintain-webb-telescope-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T213100">2022-12-15 21:31:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T143108">2022-12-16 14:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T150137">2022-12-16 15:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
