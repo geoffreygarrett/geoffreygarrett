@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Transporter 6 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T145500">2023-01-02 14:55:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 6 (Dedicated SSO Rideshare)&location=Cape Canaveral, FL, USA&dates=20230102T145500Z%2F20230102T145500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T000000">2023-01-09 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20230109T000000Z%2F20230109T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>USSF-67</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T000000">2023-01-10 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-67&location=Kennedy Space Center, FL, USA&dates=20230110T000000Z%2F20230110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-27</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T000000">2023-01-10 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-27&location=Kennedy Space Center, FL, USA&dates=20230110T000000Z%2F20230110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -179,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX booster launches for record 15th time on Starlink mission](https://spaceflightnow.com/2022/12/17/falcon-9-starlink-4-37-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T223143">2022-12-17 22:31:43 UTC</a></sub>
 * [SpaceX to launch second mission from Florida within two days](https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T145622">2022-12-17 14:56:22 UTC</a></sub>
 * [NASA postpones spacewalk to support Soyuz investigation](https://spacenews.com/nasa-postpones-spacewalk-to-support-soyuz-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T142146">2022-12-17 14:21:46 UTC</a></sub>
 * [VentureScope sets up accelerator for U.S. Air Force personnel](https://spacenews.com/venturescope-refinery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T233147">2022-12-16 23:31:47 UTC</a></sub>
@@ -188,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA's Perseverance Rover to Begin Building Martian Sample Depot](https://mars.nasa.gov/news/9319/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T152100">2022-12-16 15:21:00 UTC</a></sub>
 * [Space company Maxar agrees to go private in $6.4 billion deal ](https://www.cnbc.com/2022/12/16/maxar-selling-to-private-equity-investors-advent-bci.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T145132">2022-12-16 14:51:32 UTC</a></sub>
 * [NASA Launches International Mission to Survey Earth’s Water](http://www.nasa.gov/press-release/nasa-launches-international-mission-to-survey-earth-s-water) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T133200">2022-12-16 13:32:00 UTC</a></sub>
-* [Falcon 9 launches ocean science mission for NASA and CNES](https://spacenews.com/falcon-9-launches-ocean-science-mission-for-nasa-and-cnes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T223039">2022-12-17 22:30:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T230053">2022-12-17 23:00:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
