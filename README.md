@@ -186,8 +186,8 @@ region. The mission's status is currently Go for Launch
 * [NASA's Perseverance Rover to Begin Building Martian Sample Depot](https://mars.nasa.gov/news/9319/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T152100">2022-12-16 15:21:00 UTC</a></sub>
 * [Space company Maxar agrees to go private in $6.4 billion deal ](https://www.cnbc.com/2022/12/16/maxar-selling-to-private-equity-investors-advent-bci.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T145132">2022-12-16 14:51:32 UTC</a></sub>
 * [NASA Launches International Mission to Survey Earth’s Water](http://www.nasa.gov/press-release/nasa-launches-international-mission-to-survey-earth-s-water) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T133200">2022-12-16 13:32:00 UTC</a></sub>
-* [Maxar Technologies acquired by private equity firm in $6.4 billion deal](https://spacenews.com/maxar-technologies-acquired-by-private-equity-firm-in-6-4-billion-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
 * [Falcon 9 launches ocean science mission for NASA and CNES](https://spacenews.com/falcon-9-launches-ocean-science-mission-for-nasa-and-cnes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
+* [Maxar Technologies acquired by private equity firm in $6.4 billion deal](https://spacenews.com/maxar-technologies-acquired-by-private-equity-firm-in-6-4-billion-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
 * [Rocket Report: Meet the Blue Origin Space Rangers; methane rocket fails in debut](https://arstechnica.com/science/2022/12/rocket-report-spacex-may-launch-twice-in-18-minutes-the-us-electron-is-nigh/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T120032">2022-12-16 12:00:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T100038">2022-12-17 10:00:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T103044">2022-12-17 10:30:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
