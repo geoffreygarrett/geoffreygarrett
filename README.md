@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA signs spaceflight safety agreement with AST SpaceMobile](https://spacenews.com/nasa-signs-spaceflight-safety-agreement-with-ast-spacemobile/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T191153">2022-12-18 19:11:53 UTC</a></sub>
 * [Rocket Lab Electron ready to make first launch from American soil](https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T181103">2022-12-18 18:11:03 UTC</a></sub>
 * [SpaceX launches second mission from Florida within two days](https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T015622">2022-12-18 01:56:22 UTC</a></sub>
 * [SpaceX booster launches for record 15th time on Starlink mission](https://spaceflightnow.com/2022/12/17/falcon-9-starlink-4-37-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T223143">2022-12-17 22:31:43 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [White House revamps membership of National Space Council advisory group](https://spacenews.com/white-house-revamps-membership-of-national-space-council-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T210148">2022-12-16 21:01:48 UTC</a></sub>
 * [Here’s what we know, and what we don’t, about the damaged Soyuz spacecraft](https://arstechnica.com/science/2022/12/heres-what-we-know-and-what-we-dont-about-the-damaged-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T164231">2022-12-16 16:42:31 UTC</a></sub>
 * [200th launch of SpaceX Falcon rocket boosts O3b mPOWER internet satellites](https://spaceflightnow.com/2022/12/16/falcon-9-o3b-mpower-1-2-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T161142">2022-12-16 16:11:42 UTC</a></sub>
-* [NASA's Perseverance Rover to Begin Building Martian Sample Depot](https://mars.nasa.gov/news/9319/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T152100">2022-12-16 15:21:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T190040">2022-12-18 19:00:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T193040">2022-12-18 19:30:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
