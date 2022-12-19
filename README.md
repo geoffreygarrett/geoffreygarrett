@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia says it will take no immediate action on damaged Soyuz spacecraft](https://arstechnica.com/science/2022/12/russia-says-it-will-take-no-immediate-action-on-damaged-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T155955">2022-12-19 15:59:55 UTC</a></sub>
 * [South Korean spacecraft enters lunar orbit with deceleration maneuver](https://spacenews.com/south-korean-spacecraft-enters-lunar-orbit-with-deceleration-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T141146">2022-12-19 14:11:46 UTC</a></sub>
 * [SpaceX aces three Falcon 9 launches in 34 hours](https://www.teslarati.com/spacex-three-falcon-9-launches-34-hours-dec-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T103203">2022-12-19 10:32:03 UTC</a></sub>
 * [L3Harris to acquire Aerojet Rocketdyne for $4.7 billion](https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T231146">2022-12-18 23:11:46 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX booster launches for record 15th time on Starlink mission](https://spaceflightnow.com/2022/12/17/falcon-9-starlink-4-37-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T223143">2022-12-17 22:31:43 UTC</a></sub>
 * [FAA clears Rocket Lab for first launch from U.S. spaceport](https://spaceflightnow.com/2022/12/17/faa-clears-rocket-lab-for-first-launch-from-u-s-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T194142">2022-12-17 19:41:42 UTC</a></sub>
 * [NASA postpones spacewalk to support Soyuz investigation](https://spacenews.com/nasa-postpones-spacewalk-to-support-soyuz-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T142146">2022-12-17 14:21:46 UTC</a></sub>
-* [Perseverance prepares to deposit Mars sample cache](https://spacenews.com/perseverance-prepares-to-deposit-mars-sample-cache/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T025146">2022-12-17 02:51:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T160044">2022-12-19 16:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T163720">2022-12-19 16:37:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
