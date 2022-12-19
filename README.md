@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX preparing to start Starlink Gen2 launches this month](https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T220145">2022-12-19 22:01:45 UTC</a></sub>
 * [NASA to Air Live Coverage of US Spacewalk for Solar Array Installation](http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-us-spacewalk-for-solar-array-installation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T201100">2022-12-19 20:11:00 UTC</a></sub>
 * [With Hubble and Spitzer, researchers discover water-filled exoplanets](https://www.nasaspaceflight.com/2022/12/kepler-138-water-worlds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T172409">2022-12-19 17:24:09 UTC</a></sub>
 * [Russia says it will take no immediate action on damaged Soyuz spacecraft](https://arstechnica.com/science/2022/12/russia-says-it-will-take-no-immediate-action-on-damaged-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T155955">2022-12-19 15:59:55 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA signs spaceflight safety agreement with AST SpaceMobile](https://spacenews.com/nasa-signs-spaceflight-safety-agreement-with-ast-spacemobile/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T191153">2022-12-18 19:11:53 UTC</a></sub>
 * [Upper level winds scrub first Electron launch from American soil](https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T181103">2022-12-18 18:11:03 UTC</a></sub>
 * [SpaceX launches second mission from Florida within two days](https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T015622">2022-12-18 01:56:22 UTC</a></sub>
-* [SpaceX booster launches for record 15th time on Starlink mission](https://spaceflightnow.com/2022/12/17/falcon-9-starlink-4-37-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T223143">2022-12-17 22:31:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T220054">2022-12-19 22:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T223100">2022-12-19 22:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
