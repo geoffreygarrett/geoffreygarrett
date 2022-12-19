@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX aces three Falcon 9 launches in 34 hours](https://www.teslarati.com/spacex-three-falcon-9-launches-34-hours-dec-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T103203">2022-12-19 10:32:03 UTC</a></sub>
 * [L3Harris to acquire Aerojet Rocketdyne for $4.7 billion](https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T231146">2022-12-18 23:11:46 UTC</a></sub>
 * [NASA signs spaceflight safety agreement with AST SpaceMobile](https://spacenews.com/nasa-signs-spaceflight-safety-agreement-with-ast-spacemobile/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T191153">2022-12-18 19:11:53 UTC</a></sub>
 * [Upper level winds scrub first Electron launch from American soil](https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T181103">2022-12-18 18:11:03 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA postpones spacewalk to support Soyuz investigation](https://spacenews.com/nasa-postpones-spacewalk-to-support-soyuz-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T142146">2022-12-17 14:21:46 UTC</a></sub>
 * [Perseverance prepares to deposit Mars sample cache](https://spacenews.com/perseverance-prepares-to-deposit-mars-sample-cache/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T025146">2022-12-17 02:51:46 UTC</a></sub>
 * [VentureScope sets up accelerator for U.S. Air Force personnel](https://spacenews.com/venturescope-refinery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T233147">2022-12-16 23:31:47 UTC</a></sub>
-* [White House revamps membership of National Space Council advisory group](https://spacenews.com/white-house-revamps-membership-of-national-space-council-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T210148">2022-12-16 21:01:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T100043">2022-12-19 10:00:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T103315">2022-12-19 10:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
