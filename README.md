@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [South Korean spacecraft enters lunar orbit with deceleration maneuver](https://spacenews.com/south-korean-spacecraft-enters-lunar-orbit-with-deceleration-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T141146">2022-12-19 14:11:46 UTC</a></sub>
 * [SpaceX aces three Falcon 9 launches in 34 hours](https://www.teslarati.com/spacex-three-falcon-9-launches-34-hours-dec-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T103203">2022-12-19 10:32:03 UTC</a></sub>
 * [L3Harris to acquire Aerojet Rocketdyne for $4.7 billion](https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T231146">2022-12-18 23:11:46 UTC</a></sub>
 * [NASA signs spaceflight safety agreement with AST SpaceMobile](https://spacenews.com/nasa-signs-spaceflight-safety-agreement-with-ast-spacemobile/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T191153">2022-12-18 19:11:53 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [FAA clears Rocket Lab for first launch from U.S. spaceport](https://spaceflightnow.com/2022/12/17/faa-clears-rocket-lab-for-first-launch-from-u-s-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T194142">2022-12-17 19:41:42 UTC</a></sub>
 * [NASA postpones spacewalk to support Soyuz investigation](https://spacenews.com/nasa-postpones-spacewalk-to-support-soyuz-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T142146">2022-12-17 14:21:46 UTC</a></sub>
 * [Perseverance prepares to deposit Mars sample cache](https://spacenews.com/perseverance-prepares-to-deposit-mars-sample-cache/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T025146">2022-12-17 02:51:46 UTC</a></sub>
-* [VentureScope sets up accelerator for U.S. Air Force personnel](https://spacenews.com/venturescope-refinery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T233147">2022-12-16 23:31:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T140057">2022-12-19 14:00:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T143059">2022-12-19 14:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
