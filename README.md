@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After a long struggle with Martian dust, NASA’s InSight probe has gone quiet](https://arstechnica.com/science/2022/12/nasas-insight-lander-has-probably-phoned-home-for-the-last-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T163751">2022-12-20 16:37:51 UTC</a></sub>
 * [Fiscal year 2023 omnibus bill provides $25.4 billion for NASA](https://spacenews.com/fiscal-year-2023-omnibus-bill-provides-25-4-billion-for-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T130146">2022-12-20 13:01:46 UTC</a></sub>
 * [SpaceX’s Starlink satellite internet surpasses one million active users](https://www.teslarati.com/spacex-starlink-one-million-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T083207">2022-12-20 08:32:07 UTC</a></sub>
 * [SpaceX preparing to start Starlink Gen2 launches this month](https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T220145">2022-12-19 22:01:45 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [South Korean spacecraft enters lunar orbit with deceleration maneuver](https://spacenews.com/south-korean-spacecraft-enters-lunar-orbit-with-deceleration-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T141146">2022-12-19 14:11:46 UTC</a></sub>
 * [SpaceX aces three Falcon 9 launches in 34 hours](https://www.teslarati.com/spacex-three-falcon-9-launches-34-hours-dec-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T103203">2022-12-19 10:32:03 UTC</a></sub>
 * [Weather and range issues delay first Electron launch from Wallops to January](https://spacenews.com/weather-and-range-issues-delay-first-electron-launch-from-wallops-to-january/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T020146">2022-12-19 02:01:46 UTC</a></sub>
-* [L3Harris to acquire Aerojet Rocketdyne for $4.7 billion](https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T231146">2022-12-18 23:11:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T170108">2022-12-20 17:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T173045">2022-12-20 17:30:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
