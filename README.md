@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX’s Starlink satellite internet surpasses one million active users](https://www.teslarati.com/spacex-starlink-one-million-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T083207">2022-12-20 08:32:07 UTC</a></sub>
 * [SpaceX preparing to start Starlink Gen2 launches this month](https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T220145">2022-12-19 22:01:45 UTC</a></sub>
 * [NASA to Air Live Coverage of US Spacewalk for Solar Array Installation](http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-us-spacewalk-for-solar-array-installation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T201100">2022-12-19 20:11:00 UTC</a></sub>
 * [With Hubble and Spitzer, researchers discover water-filled exoplanets](https://www.nasaspaceflight.com/2022/12/kepler-138-water-worlds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T172409">2022-12-19 17:24:09 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Weather and range issues delay first Electron launch from Wallops to January](https://spacenews.com/weather-and-range-issues-delay-first-electron-launch-from-wallops-to-january/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T020146">2022-12-19 02:01:46 UTC</a></sub>
 * [L3Harris to acquire Aerojet Rocketdyne for $4.7 billion](https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T231146">2022-12-18 23:11:46 UTC</a></sub>
 * [NASA signs spaceflight safety agreement with AST SpaceMobile](https://spacenews.com/nasa-signs-spaceflight-safety-agreement-with-ast-spacemobile/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T191153">2022-12-18 19:11:53 UTC</a></sub>
-* [Upper level winds scrub first Electron launch from American soil](https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T181103">2022-12-18 18:11:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T080045">2022-12-20 08:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T083304">2022-12-20 08:33:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
