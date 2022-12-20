@@ -184,11 +184,11 @@ region. The mission's status is currently Go for Launch
 * [SpaceX’s Starlink satellite internet surpasses one million active users](https://www.teslarati.com/spacex-starlink-one-million-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T083207">2022-12-20 08:32:07 UTC</a></sub>
 * [SpaceX preparing to start Starlink Gen2 launches this month](https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T220145">2022-12-19 22:01:45 UTC</a></sub>
 * [NASA to Air Live Coverage of US Spacewalk for Solar Array Installation](http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-us-spacewalk-for-solar-array-installation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T201100">2022-12-19 20:11:00 UTC</a></sub>
+* [Russians assess flight worthiness of damaged Soyuz docked at space station](https://spaceflightnow.com/2022/12/19/russians-assess-flight-worthiness-of-damaged-soyuz-docked-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T190142">2022-12-19 19:01:42 UTC</a></sub>
 * [With Hubble and Spitzer, researchers discover water-filled exoplanets](https://www.nasaspaceflight.com/2022/12/kepler-138-water-worlds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T172409">2022-12-19 17:24:09 UTC</a></sub>
 * [Russia says it will take no immediate action on damaged Soyuz spacecraft](https://arstechnica.com/science/2022/12/russia-says-it-will-take-no-immediate-action-on-damaged-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T155955">2022-12-19 15:59:55 UTC</a></sub>
 * [South Korean spacecraft enters lunar orbit with deceleration maneuver](https://spacenews.com/south-korean-spacecraft-enters-lunar-orbit-with-deceleration-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T141146">2022-12-19 14:11:46 UTC</a></sub>
 * [SpaceX aces three Falcon 9 launches in 34 hours](https://www.teslarati.com/spacex-three-falcon-9-launches-34-hours-dec-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T103203">2022-12-19 10:32:03 UTC</a></sub>
-* [Weather and range issues delay first Electron launch from Wallops to January](https://spacenews.com/weather-and-range-issues-delay-first-electron-launch-from-wallops-to-january/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T020146">2022-12-19 02:01:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T190045">2022-12-20 19:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T193102">2022-12-20 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
