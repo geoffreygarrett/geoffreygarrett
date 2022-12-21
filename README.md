@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Two Pléiades Neo Earth-imaging satellites lost in failure of Europe’s Vega C rocket](https://spaceflightnow.com/2022/12/21/two-pleiades-neo-earth-imaging-satellites-lost-in-failure-of-europes-vega-c-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T070142">2022-12-21 07:01:42 UTC</a></sub>
 * [NASA Awards Launch Services Contract for Sentinel-6B Mission](http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-sentinel-6b-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T212100">2022-12-20 21:21:00 UTC</a></sub>
 * [Arianespace suffers failure on first operational Vega-C mission](https://www.nasaspaceflight.com/2022/12/vega-c-vv22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T200337">2022-12-20 20:03:37 UTC</a></sub>
 * [After a long struggle with Martian dust, NASA’s InSight probe has gone quiet](https://arstechnica.com/science/2022/12/nasas-insight-lander-has-probably-phoned-home-for-the-last-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T163751">2022-12-20 16:37:51 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [Vega C fails on second launch](https://spacenews.com/vega-c-fails-on-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T035147">2022-12-20 03:51:47 UTC</a></sub>
 * [Ukraine will get 10,000+ more Starlink antennas](https://www.teslarati.com/ukraine-10000-starlink-antennas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T012158">2022-12-20 01:21:58 UTC</a></sub>
 * [NeuralAgent and Miratlas jointly address atmospheric impediments to optical communications](https://spacenews.com/neuralagent-and-miratlas-jointly-address-atmospheric-impediments-to-optical-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T010145">2022-12-20 01:01:45 UTC</a></sub>
-* [SpaceX preparing to start Starlink Gen2 launches this month](https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T220145">2022-12-19 22:01:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T070050">2022-12-21 07:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T073058">2022-12-21 07:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
