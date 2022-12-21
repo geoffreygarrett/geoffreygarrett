@@ -179,7 +179,7 @@ region. The mission's status is currently To Be Confirmed
 
 <!-- spaceflight news starts -->
 * [NASA Awards Launch Services Contract for Sentinel-6B Mission](http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-sentinel-6b-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T212100">2022-12-20 21:21:00 UTC</a></sub>
-* [Arianespace to launch first operational Vega-C with two Earth observation satellites](https://www.nasaspaceflight.com/2022/12/vega-c-vv22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T200337">2022-12-20 20:03:37 UTC</a></sub>
+* [Arianespace suffers failure on first operational Vega-C mission](https://www.nasaspaceflight.com/2022/12/vega-c-vv22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T200337">2022-12-20 20:03:37 UTC</a></sub>
 * [After a long struggle with Martian dust, NASA’s InSight probe has gone quiet](https://arstechnica.com/science/2022/12/nasas-insight-lander-has-probably-phoned-home-for-the-last-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T163751">2022-12-20 16:37:51 UTC</a></sub>
 * [Fiscal year 2023 omnibus bill provides $25.4 billion for NASA](https://spacenews.com/fiscal-year-2023-omnibus-bill-provides-25-4-billion-for-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T130146">2022-12-20 13:01:46 UTC</a></sub>
 * [SpaceX’s Starlink satellite internet surpasses one million active users](https://www.teslarati.com/spacex-starlink-one-million-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T083207">2022-12-20 08:32:07 UTC</a></sub>
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T015625">2022-12-21 01:56:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T021808">2022-12-21 02:18:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
