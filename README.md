@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Omnibus includes budget increases for Office of Space Commerce and FAA commercial space office](https://spacenews.com/omnibus-includes-budget-increases-for-office-of-space-commerce-and-faa-commercial-space-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T123146">2022-12-21 12:31:46 UTC</a></sub>
 * [Two Pléiades Neo Earth-imaging satellites lost in failure of Europe’s Vega C rocket](https://spaceflightnow.com/2022/12/21/two-pleiades-neo-earth-imaging-satellites-lost-in-failure-of-europes-vega-c-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T070142">2022-12-21 07:01:42 UTC</a></sub>
 * [NASA Awards Launch Services Contract for Sentinel-6B Mission](http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-sentinel-6b-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T212100">2022-12-20 21:21:00 UTC</a></sub>
 * [Arianespace suffers failure on first operational Vega-C mission](https://www.nasaspaceflight.com/2022/12/vega-c-vv22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T200337">2022-12-20 20:03:37 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX’s Starlink satellite internet gains 750,000 subscribers in nine months](https://www.teslarati.com/spacex-starlink-750000-new-subscribers-9-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T051204">2022-12-20 05:12:04 UTC</a></sub>
 * [Vega C fails on second launch](https://spacenews.com/vega-c-fails-on-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T035147">2022-12-20 03:51:47 UTC</a></sub>
 * [Ukraine will get 10,000+ more Starlink antennas](https://www.teslarati.com/ukraine-10000-starlink-antennas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T012158">2022-12-20 01:21:58 UTC</a></sub>
-* [NeuralAgent and Miratlas jointly address atmospheric impediments to optical communications](https://spacenews.com/neuralagent-and-miratlas-jointly-address-atmospheric-impediments-to-optical-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T010145">2022-12-20 01:01:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T120111">2022-12-21 12:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T124005">2022-12-21 12:40:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
