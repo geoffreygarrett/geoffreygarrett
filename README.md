@@ -183,11 +183,11 @@ region. The mission's status is currently To Be Confirmed
 * [After a long struggle with Martian dust, NASA’s InSight probe has gone quiet](https://arstechnica.com/science/2022/12/nasas-insight-lander-has-probably-phoned-home-for-the-last-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T163751">2022-12-20 16:37:51 UTC</a></sub>
 * [Fiscal year 2023 omnibus bill provides $25.4 billion for NASA](https://spacenews.com/fiscal-year-2023-omnibus-bill-provides-25-4-billion-for-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T130146">2022-12-20 13:01:46 UTC</a></sub>
 * [SpaceX’s Starlink satellite internet surpasses one million active users](https://www.teslarati.com/spacex-starlink-one-million-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T083207">2022-12-20 08:32:07 UTC</a></sub>
+* [Vega C fails on second launch](https://spacenews.com/vega-c-fails-on-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T035147">2022-12-20 03:51:47 UTC</a></sub>
 * [Ukraine will get 10,000+ more Starlink antennas](https://www.teslarati.com/ukraine-10000-starlink-antennas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T012158">2022-12-20 01:21:58 UTC</a></sub>
 * [NeuralAgent and Miratlas jointly address atmospheric impediments to optical communications](https://spacenews.com/neuralagent-and-miratlas-jointly-address-atmospheric-impediments-to-optical-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T010145">2022-12-20 01:01:45 UTC</a></sub>
 * [SpaceX preparing to start Starlink Gen2 launches this month](https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T220145">2022-12-19 22:01:45 UTC</a></sub>
 * [NASA to Air Live Coverage of US Spacewalk for Solar Array Installation](http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-us-spacewalk-for-solar-array-installation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T201100">2022-12-19 20:11:00 UTC</a></sub>
-* [Russians assess flight worthiness of damaged Soyuz docked at space station](https://spaceflightnow.com/2022/12/19/russians-assess-flight-worthiness-of-damaged-soyuz-docked-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T190142">2022-12-19 19:01:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T040041">2022-12-21 04:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T043346">2022-12-21 04:33:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
