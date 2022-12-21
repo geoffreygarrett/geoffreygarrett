@@ -178,7 +178,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Host Media Briefing on Space Station Spacecraft Leak Probe](http://www.nasa.gov/press-release/nasa-to-host-media-briefing-on-space-station-spacecraft-leak-probe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T171200">2022-12-21 17:12:00 UTC</a></sub>
 * [NASA Retires InSight Mars Lander Mission After Years of Science](http://www.nasa.gov/press-release/nasa-retires-insight-mars-lander-mission-after-years-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T161100">2022-12-21 16:11:00 UTC</a></sub>
+* [Debris avoidance maneuver delays spacewalk to install fourth iROSA](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T161055">2022-12-21 16:10:55 UTC</a></sub>
 * [Virgin Orbit receives license for U.K. launch](https://spacenews.com/virgin-orbit-receives-license-for-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T130145">2022-12-21 13:01:45 UTC</a></sub>
 * [Omnibus includes budget increases for Office of Space Commerce and FAA commercial space office](https://spacenews.com/omnibus-includes-budget-increases-for-office-of-space-commerce-and-faa-commercial-space-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T123146">2022-12-21 12:31:46 UTC</a></sub>
 * [Two Pléiades Neo Earth-imaging satellites lost in failure of Europe’s Vega C rocket](https://spaceflightnow.com/2022/12/21/two-pleiades-neo-earth-imaging-satellites-lost-in-failure-of-europes-vega-c-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T070142">2022-12-21 07:01:42 UTC</a></sub>
@@ -186,8 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [Arianespace suffers failure on first operational Vega-C mission](https://www.nasaspaceflight.com/2022/12/vega-c-vv22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T200337">2022-12-20 20:03:37 UTC</a></sub>
 * [After a long struggle with Martian dust, NASA’s InSight probe has gone quiet](https://arstechnica.com/science/2022/12/nasas-insight-lander-has-probably-phoned-home-for-the-last-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T163751">2022-12-20 16:37:51 UTC</a></sub>
 * [Fiscal year 2023 omnibus bill provides $25.4 billion for NASA](https://spacenews.com/fiscal-year-2023-omnibus-bill-provides-25-4-billion-for-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T130146">2022-12-20 13:01:46 UTC</a></sub>
-* [SpaceX’s Starlink satellite internet surpasses one million active users](https://www.teslarati.com/spacex-starlink-one-million-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T083207">2022-12-20 08:32:07 UTC</a></sub>
-* [SpaceX’s Starlink satellite internet gains 750,000 subscribers in nine months](https://www.teslarati.com/spacex-starlink-750000-new-subscribers-9-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T051204">2022-12-20 05:12:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T170055">2022-12-21 17:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T173051">2022-12-21 17:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
