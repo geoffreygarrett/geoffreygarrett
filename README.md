@@ -178,6 +178,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Contract for Aircraft Support Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-aircraft-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T214100">2022-12-22 21:41:00 UTC</a></sub>
+* [NASA request information on Hubble reboost options](https://spacenews.com/nasa-request-information-on-hubble-reboost-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T213147">2022-12-22 21:31:47 UTC</a></sub>
+* [Eutelsat taking financial hit from TV sanctions against Russia and Iran](https://spacenews.com/eutelsat-taking-financial-hit-from-tv-sanctions-against-russia-and-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T211146">2022-12-22 21:11:46 UTC</a></sub>
 * [Northrop Grumman clears key hurdle for space-based solar power](https://spacenews.com/northrop-grumman-tests-space-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T183147">2022-12-22 18:31:47 UTC</a></sub>
 * [South Korean pharma invests $50 million in Axiom Space](https://spacenews.com/south-korean-pharma-invests-50-million-in-axiom-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T174146">2022-12-22 17:41:46 UTC</a></sub>
 * [Studies flag environmental impact of reentry](https://spacenews.com/studies-flag-environmental-impact-of-reentry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T154146">2022-12-22 15:41:46 UTC</a></sub>
@@ -185,9 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [China sets out clear and independent long-term vision for space](https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131147">2022-12-22 13:11:47 UTC</a></sub>
 * [US spacewalk to install fourth iROSA completed after debris avoidance maneuver](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131055">2022-12-22 13:10:55 UTC</a></sub>
 * [Independent panel to investigate Vega C launch failure](https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T130146">2022-12-22 13:01:46 UTC</a></sub>
-* [Terran Orbital delivers 10 satellite buses to Lockheed Martin for U.S. military constellation](https://spacenews.com/terran-orbital-delivers-10-satellite-buses-to-lockheed-martin-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T110146">2022-12-22 11:01:46 UTC</a></sub>
-* [NASA’s InSight lander bows out after ground-shaking Mars mission](https://spaceflightnow.com/2022/12/21/nasas-insight-lander-bows-out-after-ground-shaking-mars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T231142">2022-12-21 23:11:42 UTC</a></sub>
-* [NASA's Perseverance Rover Deposits First Sample on Mars Surface](https://mars.nasa.gov/news/9323/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T210200">2022-12-21 21:02:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T213046">2022-12-22 21:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T220055">2022-12-22 22:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
