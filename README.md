@@ -177,6 +177,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Spacewalk begins outside space station after debris threat](https://spaceflightnow.com/2022/12/22/iss-eva-83/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T143146">2022-12-22 14:31:46 UTC</a></sub>
 * [China sets out clear and independent long-term vision for space](https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131147">2022-12-22 13:11:47 UTC</a></sub>
 * [US spacewalk underway to install fourth iROSA after debris avoidance maneuver](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131055">2022-12-22 13:10:55 UTC</a></sub>
 * [Independent panel to investigate Vega C launch failure](https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T130146">2022-12-22 13:01:46 UTC</a></sub>
@@ -186,7 +187,6 @@ region. The mission's status is currently To Be Confirmed
 * [Laser links are great for satellite relay, but challenges abound for taking it to ground](https://spacenews.com/walking-a-narrow-beam-laser-links-are-great-for-satellite-relay-but-challenges-abound-for-taking-it-to-ground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T194145">2022-12-21 19:41:45 UTC</a></sub>
 * [Terran 1 and Terran R testing in full swing before Relativity’s debut](https://www.nasaspaceflight.com/2022/12/terran-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T190333">2022-12-21 19:03:33 UTC</a></sub>
 * [NASA declares end of InSight Mars mission](https://spacenews.com/nasa-declares-end-of-insight-mars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T180146">2022-12-21 18:01:46 UTC</a></sub>
-* [NASA to Host Media Briefing on Space Station Spacecraft Leak Probe](http://www.nasa.gov/press-release/nasa-to-host-media-briefing-on-space-station-spacecraft-leak-probe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T171200">2022-12-21 17:12:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T143045">2022-12-22 14:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T150050">2022-12-22 15:00:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
