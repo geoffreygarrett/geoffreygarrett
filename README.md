@@ -177,6 +177,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China sets out clear and independent long-term vision for space](https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131147">2022-12-22 13:11:47 UTC</a></sub>
+* [Independent panel to investigate Vega C launch failure](https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T130146">2022-12-22 13:01:46 UTC</a></sub>
 * [Terran Orbital delivers 10 satellite buses to Lockheed Martin for U.S. military constellation](https://spacenews.com/terran-orbital-delivers-10-satellite-buses-to-lockheed-martin-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T110146">2022-12-22 11:01:46 UTC</a></sub>
 * [NASA’s InSight lander bows out after ground-shaking Mars mission](https://spaceflightnow.com/2022/12/21/nasas-insight-lander-bows-out-after-ground-shaking-mars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T231142">2022-12-21 23:11:42 UTC</a></sub>
 * [NASA's Perseverance Rover Deposits First Sample on Mars Surface](https://mars.nasa.gov/news/9323/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T210200">2022-12-21 21:02:00 UTC</a></sub>
@@ -185,8 +187,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA declares end of InSight Mars mission](https://spacenews.com/nasa-declares-end-of-insight-mars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T180146">2022-12-21 18:01:46 UTC</a></sub>
 * [NASA to Host Media Briefing on Space Station Spacecraft Leak Probe](http://www.nasa.gov/press-release/nasa-to-host-media-briefing-on-space-station-spacecraft-leak-probe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T171200">2022-12-21 17:12:00 UTC</a></sub>
 * [NASA Retires InSight Mars Lander Mission After Years of Science](http://www.nasa.gov/press-release/nasa-retires-insight-mars-lander-mission-after-years-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T161100">2022-12-21 16:11:00 UTC</a></sub>
-* [Debris avoidance maneuver delays spacewalk to install fourth iROSA](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T161055">2022-12-21 16:10:55 UTC</a></sub>
-* [Virgin Orbit receives license for U.K. launch](https://spacenews.com/virgin-orbit-receives-license-for-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T130145">2022-12-21 13:01:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T130433">2022-12-22 13:04:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T133241">2022-12-22 13:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
