@@ -185,9 +185,9 @@ region. The mission's status is currently To Be Confirmed
 * [Northrop Grumman clears key hurdle for space-based solar power](https://spacenews.com/northrop-grumman-tests-space-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T183147">2022-12-22 18:31:47 UTC</a></sub>
 * [South Korean pharma invests $50 million in Axiom Space](https://spacenews.com/south-korean-pharma-invests-50-million-in-axiom-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T174146">2022-12-22 17:41:46 UTC</a></sub>
 * [Studies flag environmental impact of reentry](https://spacenews.com/studies-flag-environmental-impact-of-reentry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T154146">2022-12-22 15:41:46 UTC</a></sub>
-* [Watch live: Spacewalk begins outside space station after debris threat](https://spaceflightnow.com/2022/12/22/iss-eva-83/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T143146">2022-12-22 14:31:46 UTC</a></sub>
 * [China sets out clear and independent long-term vision for space](https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131147">2022-12-22 13:11:47 UTC</a></sub>
 * [US spacewalk to install fourth iROSA completed after debris avoidance maneuver](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131055">2022-12-22 13:10:55 UTC</a></sub>
+* [Independent panel to investigate Vega C launch failure](https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T130146">2022-12-22 13:01:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T080045">2022-12-23 08:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T083242">2022-12-23 08:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
