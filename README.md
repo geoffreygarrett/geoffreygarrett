@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Explores a Winter Wonderland on Mars](https://mars.nasa.gov/news/9326/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T233200">2022-12-22 23:32:00 UTC</a></sub>
 * [NASA Awards Contract for Aircraft Support Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-aircraft-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T214100">2022-12-22 21:41:00 UTC</a></sub>
 * [NASA request information on Hubble reboost options](https://spacenews.com/nasa-request-information-on-hubble-reboost-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T213147">2022-12-22 21:31:47 UTC</a></sub>
 * [Eutelsat taking financial hit from TV sanctions against Russia and Iran](https://spacenews.com/eutelsat-taking-financial-hit-from-tv-sanctions-against-russia-and-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T211146">2022-12-22 21:11:46 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [Watch live: Spacewalk begins outside space station after debris threat](https://spaceflightnow.com/2022/12/22/iss-eva-83/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T143146">2022-12-22 14:31:46 UTC</a></sub>
 * [China sets out clear and independent long-term vision for space](https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131147">2022-12-22 13:11:47 UTC</a></sub>
 * [US spacewalk to install fourth iROSA completed after debris avoidance maneuver](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131055">2022-12-22 13:10:55 UTC</a></sub>
-* [Independent panel to investigate Vega C launch failure](https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T130146">2022-12-22 13:01:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T233049">2022-12-22 23:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T000144">2022-12-23 00:01:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
