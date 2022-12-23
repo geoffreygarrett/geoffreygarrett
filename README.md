@@ -178,6 +178,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Rest of 2022’s Notable Nine](https://spacenews.com/the-rest-of-2022s-notable-nine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T152331">2022-12-23 15:23:31 UTC</a></sub>
+* [Dark clouds, silver linings: Five ways war in Ukraine is transforming the space domain](https://spacenews.com/dark-clouds-silver-linings-five-ways-war-in-ukraine-is-transforming-the-space-domain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T150330">2022-12-23 15:03:30 UTC</a></sub>
 * [NASA Explores a Winter Wonderland on Mars](https://mars.nasa.gov/news/9326/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T233200">2022-12-22 23:32:00 UTC</a></sub>
 * [NASA Awards Contract for Aircraft Support Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-aircraft-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T214100">2022-12-22 21:41:00 UTC</a></sub>
 * [Eutelsat taking financial hit from TV sanctions against Russia and Iran](https://spacenews.com/eutelsat-taking-financial-hit-from-tv-sanctions-against-russia-and-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T211146">2022-12-22 21:11:46 UTC</a></sub>
@@ -186,8 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [Studies flag environmental impact of reentry](https://spacenews.com/studies-flag-environmental-impact-of-reentry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T154146">2022-12-22 15:41:46 UTC</a></sub>
 * [China sets out clear and independent long-term vision for space](https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131147">2022-12-22 13:11:47 UTC</a></sub>
 * [US spacewalk to install fourth iROSA completed after debris avoidance maneuver](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131055">2022-12-22 13:10:55 UTC</a></sub>
-* [Independent panel to investigate Vega C launch failure](https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T130146">2022-12-22 13:01:46 UTC</a></sub>
-* [Terran Orbital delivers 10 satellite buses to Lockheed Martin for U.S. military constellation](https://spacenews.com/terran-orbital-delivers-10-satellite-buses-to-lockheed-martin-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T110146">2022-12-22 11:01:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -198,6 +198,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A long night, and “so long!” to InSight](https://www.planetary.org/the-downlink/a-long-night-and-so-long-to-insight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T153347">2022-12-23 15:33:47 UTC</a></sub>
 * [Cookie Declaration](https://www.planetary.org/cookie-declaration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153204">2022-12-20 15:32:04 UTC</a></sub>
 * [Privacy Policy](https://www.planetary.org/privacy-policy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153203">2022-12-20 15:32:03 UTC</a></sub>
 * [A deep dive into the Neptune system with JWST](https://www.planetary.org/articles/a-deep-dive-into-the-neptune-system-with-jwst) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T152206">2022-12-20 15:22:06 UTC</a></sub>
@@ -207,7 +208,6 @@ region. The mission's status is currently To Be Confirmed
 * [The year in pictures: 2022](https://www.planetary.org/articles/the-year-in-pictures-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T145349">2022-12-13 14:53:49 UTC</a></sub>
 * [Going the distance to get the shot](https://www.planetary.org/articles/going-the-distance-to-get-the-shot) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T144350">2022-12-13 14:43:50 UTC</a></sub>
 * [Out-of-this-world astronauts (literally)](https://www.planetary.org/the-downlink/out-of-this-world-astronauts-literally) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T153348">2022-12-09 15:33:48 UTC</a></sub>
-* [Your guide to rings of the Solar System](https://www.planetary.org/articles/rings-of-the-solar-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T150352">2022-12-08 15:03:52 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T153043">2022-12-23 15:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T160053">2022-12-23 16:00:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
