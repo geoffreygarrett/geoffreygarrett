@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Congress adds $1.7 billion for U.S. Space Force in 2023 spending bill](https://spacenews.com/congress-adds-1-7-billion-for-u-s-space-force-in-2023-spending-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221224T202330">2022-12-24 20:23:30 UTC</a></sub>
 * [Senate passes orbit debris cleanup bill](https://spacenews.com/senate-passes-orbit-debris-cleanup-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T202331">2022-12-23 20:23:31 UTC</a></sub>
 * [New spacecraft, new firsts, new hardware – International Space Station wraps up a busy and historic 2022](https://www.nasaspaceflight.com/2022/12/iss-2022-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T170111">2022-12-23 17:01:11 UTC</a></sub>
 * [The Rest of 2022’s Notable Nine](https://spacenews.com/the-rest-of-2022s-notable-nine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T152331">2022-12-23 15:23:31 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [Eutelsat taking financial hit from TV sanctions against Russia and Iran](https://spacenews.com/eutelsat-taking-financial-hit-from-tv-sanctions-against-russia-and-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T211146">2022-12-22 21:11:46 UTC</a></sub>
 * [Northrop Grumman clears key hurdle for space-based solar power](https://spacenews.com/northrop-grumman-tests-space-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T183147">2022-12-22 18:31:47 UTC</a></sub>
 * [South Korean pharma invests $50 million in Axiom Space](https://spacenews.com/south-korean-pharma-invests-50-million-in-axiom-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T174146">2022-12-22 17:41:46 UTC</a></sub>
-* [Studies flag environmental impact of reentry](https://spacenews.com/studies-flag-environmental-impact-of-reentry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T154146">2022-12-22 15:41:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221224T203044">2022-12-24 20:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221224T210044">2022-12-24 21:00:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
