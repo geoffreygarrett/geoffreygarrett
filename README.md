@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX begins launching Starlink second generation constellation](https://www.nasaspaceflight.com/2022/12/spacex-starlink-5-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T210933">2022-12-27 21:09:33 UTC</a></sub>
 * [Magnestar creates platform to predict RF interference](https://spacenews.com/introducing-magnestar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T130332">2022-12-27 13:03:32 UTC</a></sub>
 * [SpaceX’s first “next-gen” Starlink satellites are suspiciously familiar](https://www.teslarati.com/spacex-last-starlink-launch-2022-mystery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221226T075349">2022-12-26 07:53:49 UTC</a></sub>
 * [Congress adds $1.7 billion for U.S. Space Force in 2023 spending bill](https://spacenews.com/congress-adds-1-7-billion-for-u-s-space-force-in-2023-spending-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221224T202330">2022-12-24 20:23:30 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [Dark clouds, silver linings: Five ways war in Ukraine is transforming the space domain](https://spacenews.com/dark-clouds-silver-linings-five-ways-war-in-ukraine-is-transforming-the-space-domain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T150330">2022-12-23 15:03:30 UTC</a></sub>
 * [NASA Explores a Winter Wonderland on Mars](https://mars.nasa.gov/news/9326/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T233200">2022-12-22 23:32:00 UTC</a></sub>
 * [NASA Awards Contract for Aircraft Support Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-aircraft-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T214100">2022-12-22 21:41:00 UTC</a></sub>
-* [Eutelsat taking financial hit from TV sanctions against Russia and Iran](https://spacenews.com/eutelsat-taking-financial-hit-from-tv-sanctions-against-russia-and-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T211146">2022-12-22 21:11:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T210048">2022-12-27 21:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T213045">2022-12-27 21:30:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
