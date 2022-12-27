@@ -179,7 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX’s last Starlink launch of 2022 is a bit of a mystery](https://www.teslarati.com/spacex-last-starlink-launch-2022-mystery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221226T041348">2022-12-26 04:13:48 UTC</a></sub>
+* [SpaceX’s first “next-gen” Starlink satellites are suspiciously familiar](https://www.teslarati.com/spacex-last-starlink-launch-2022-mystery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221226T075349">2022-12-26 07:53:49 UTC</a></sub>
 * [Congress adds $1.7 billion for U.S. Space Force in 2023 spending bill](https://spacenews.com/congress-adds-1-7-billion-for-u-s-space-force-in-2023-spending-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221224T202330">2022-12-24 20:23:30 UTC</a></sub>
 * [Senate passes orbit debris cleanup bill](https://spacenews.com/senate-passes-orbit-debris-cleanup-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T202331">2022-12-23 20:23:31 UTC</a></sub>
 * [New spacecraft, new firsts, new hardware – International Space Station wraps up a busy and historic 2022](https://www.nasaspaceflight.com/2022/12/iss-2022-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T170111">2022-12-23 17:01:11 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T080057">2022-12-27 08:00:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T083301">2022-12-27 08:33:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
