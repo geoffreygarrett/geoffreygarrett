@@ -180,6 +180,7 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Top US launch companies of 2022—The Ars Technica power ranking](https://arstechnica.com/science/2022/12/top-us-launch-companies-of-2022-the-ars-technica-power-ranking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T130007">2022-12-28 13:00:07 UTC</a></sub>
 * [SpaceX launches first mission for Starlink Gen2 constellation](https://spaceflightnow.com/2022/12/28/falcon-9-starlink-5-1-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T113326">2022-12-28 11:33:26 UTC</a></sub>
 * [SpaceX aces 60th orbital launch of 2022](https://www.teslarati.com/spacex-aces-60th-orbital-launch-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T110349">2022-12-28 11:03:49 UTC</a></sub>
 * [SpaceX begins launching Starlink second generation constellation](https://www.nasaspaceflight.com/2022/12/spacex-starlink-5-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T210933">2022-12-27 21:09:33 UTC</a></sub>
@@ -189,7 +190,6 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 * [Senate passes orbit debris cleanup bill](https://spacenews.com/senate-passes-orbit-debris-cleanup-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T202331">2022-12-23 20:23:31 UTC</a></sub>
 * [New spacecraft, new firsts, new hardware – International Space Station wraps up a busy and historic 2022](https://www.nasaspaceflight.com/2022/12/iss-2022-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T170111">2022-12-23 17:01:11 UTC</a></sub>
 * [The Rest of 2022’s Notable Nine](https://spacenews.com/the-rest-of-2022s-notable-nine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T152331">2022-12-23 15:23:31 UTC</a></sub>
-* [Dark clouds, silver linings: Five ways war in Ukraine is transforming the space domain](https://spacenews.com/dark-clouds-silver-linings-five-ways-war-in-ukraine-is-transforming-the-space-domain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T150330">2022-12-23 15:03:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T130350">2022-12-28 13:03:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T133121">2022-12-28 13:31:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
