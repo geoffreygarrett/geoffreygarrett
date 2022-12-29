@@ -180,6 +180,7 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Cubesat launched on Artemis 1 trying to fix propulsion system](https://spacenews.com/cubesat-launched-on-artemis-1-trying-to-fix-propulsion-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T130330">2022-12-29 13:03:30 UTC</a></sub>
 * [China sends second Shiyan-10 test satellite sent into orbit with its final launch of 2022](https://spacenews.com/china-sends-second-shiyan-10-test-satellite-sent-into-orbit-with-its-final-launch-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T122331">2022-12-29 12:23:31 UTC</a></sub>
 * [Russian space program facing challenges ahead of ambitious 2023](https://www.nasaspaceflight.com/2022/12/russia-ambitious-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T211623">2022-12-28 21:16:23 UTC</a></sub>
 * [Thales Alenia Space studying reusable spacecraft for in-orbit manufacturing](https://spacenews.com/thales-alenia-space-studying-reusable-spacecraft-for-in-orbit-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T143341">2022-12-28 14:33:41 UTC</a></sub>
@@ -189,7 +190,6 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 * [SpaceX aces 60th orbital launch of 2022](https://www.teslarati.com/spacex-aces-60th-orbital-launch-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T110349">2022-12-28 11:03:49 UTC</a></sub>
 * [SpaceX begins launching Starlink second generation constellation](https://www.nasaspaceflight.com/2022/12/spacex-starlink-5-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T210933">2022-12-27 21:09:33 UTC</a></sub>
 * [Magnestar creates platform to predict RF interference](https://spacenews.com/introducing-magnestar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T130332">2022-12-27 13:03:32 UTC</a></sub>
-* [SpaceX’s first “next-gen” Starlink satellites are suspiciously familiar](https://www.teslarati.com/spacex-last-starlink-launch-2022-mystery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221226T075349">2022-12-26 07:53:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T130356">2022-12-29 13:03:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T133123">2022-12-29 13:31:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
