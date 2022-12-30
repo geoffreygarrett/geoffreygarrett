@@ -177,7 +177,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX to launch EROS-C3 observation satellite from Vandenberg](https://www.nasaspaceflight.com/2022/12/eros-c3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T005020">2022-12-30 00:50:20 UTC</a></sub>
+* [SpaceX launches EROS-C3 observation satellite from Vandenberg](https://www.nasaspaceflight.com/2022/12/eros-c3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T075020">2022-12-30 07:50:20 UTC</a></sub>
 * [Investing in Space: A year to forget for space stocks](https://www.cnbc.com/2022/12/29/investing-in-space-a-year-to-forget-for-space-stocks.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T155142">2022-12-29 15:51:42 UTC</a></sub>
 * [Cubesat launched on Artemis 1 trying to fix propulsion system](https://spacenews.com/cubesat-launched-on-artemis-1-trying-to-fix-propulsion-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T130330">2022-12-29 13:03:30 UTC</a></sub>
 * [China sends second Shiyan-10 test satellite sent into orbit with its final launch of 2022](https://spacenews.com/china-sends-second-shiyan-10-test-satellite-sent-into-orbit-with-its-final-launch-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T122331">2022-12-29 12:23:31 UTC</a></sub>
@@ -219,7 +219,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T080038">2022-12-30 08:00:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T083215">2022-12-30 08:32:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
