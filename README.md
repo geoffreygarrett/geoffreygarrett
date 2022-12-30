@@ -177,6 +177,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX ties 42-year-old Soviet record with last launch of 2022](https://www.teslarati.com/spacex-ties-42-year-old-record-last-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T083347">2022-12-30 08:33:47 UTC</a></sub>
 * [SpaceX launches EROS-C3 observation satellite from Vandenberg](https://www.nasaspaceflight.com/2022/12/eros-c3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T075020">2022-12-30 07:50:20 UTC</a></sub>
 * [Investing in Space: A year to forget for space stocks](https://www.cnbc.com/2022/12/29/investing-in-space-a-year-to-forget-for-space-stocks.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T155142">2022-12-29 15:51:42 UTC</a></sub>
 * [Cubesat launched on Artemis 1 trying to fix propulsion system](https://spacenews.com/cubesat-launched-on-artemis-1-trying-to-fix-propulsion-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T130330">2022-12-29 13:03:30 UTC</a></sub>
@@ -186,7 +187,6 @@ region. The mission's status is currently To Be Confirmed
 * [Thales Alenia Space studying reusable spacecraft for in-orbit manufacturing](https://spacenews.com/thales-alenia-space-studying-reusable-spacecraft-for-in-orbit-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T143341">2022-12-28 14:33:41 UTC</a></sub>
 * [NASA made sole-source award for space station spacesuit](https://spacenews.com/nasa-made-sole-source-award-for-space-station-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T133330">2022-12-28 13:33:30 UTC</a></sub>
 * [Top US launch companies of 2022—The Ars Technica power ranking](https://arstechnica.com/science/2022/12/top-us-launch-companies-of-2022-the-ars-technica-power-ranking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T130007">2022-12-28 13:00:07 UTC</a></sub>
-* [SpaceX launches first mission for Starlink Gen2 constellation](https://spaceflightnow.com/2022/12/28/falcon-9-starlink-5-1-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T113326">2022-12-28 11:33:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T090044">2022-12-30 09:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T093058">2022-12-30 09:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
