@@ -98,12 +98,12 @@ Falcon 9 Block 5 | Transporter 6 (Dedicated SSO Rideshare) at the
 <a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T145600">2023-01-02 14:56:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T145600">2023-01-03 14:56:00 UTC</a>. Until
 then, this launch pad will have seen 163
 out of 868 launches in this
-region. The mission's status is currently To Be Confirmed
-(TBC) 🟨  which means:
-*awaiting official confirmation - current date is known with some certainty.* 
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
   Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
@@ -126,7 +126,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Transporter 6 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T145600">2023-01-02 14:56:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 6 (Dedicated SSO Rideshare)&location=Cape Canaveral, FL, USA&dates=20230102T145600Z%2F20230102T145600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Transporter 6 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T145600">2023-01-03 14:56:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 6 (Dedicated SSO Rideshare)&location=Cape Canaveral, FL, USA&dates=20230103T145600Z%2F20230103T145600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>OneWeb 16</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T000000">2023-01-08 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 16&location=Kennedy Space Center, FL, USA&dates=20230108T000000Z%2F20230108T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T000000">2023-01-09 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20230109T000000Z%2F20230109T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>USSF-67</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T000000">2023-01-10 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-67&location=Kennedy Space Center, FL, USA&dates=20230110T000000Z%2F20230110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -177,6 +177,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink opens offices in Azerbaijan](https://www.teslarati.com/starlink-azerbaijan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T213349">2022-12-30 21:33:49 UTC</a></sub>
 * [China looks to build space partnerships with Gulf nations](https://spacenews.com/china-looks-to-build-space-partnerships-with-gulf-nations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T135330">2022-12-30 13:53:30 UTC</a></sub>
 * [SpaceX completes record year with Israeli imaging satellite launch](https://spacenews.com/spacex-completes-record-year-with-israeli-imaging-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T132330">2022-12-30 13:23:30 UTC</a></sub>
 * [SpaceX ties 42-year-old Soviet record with last launch of 2022](https://www.teslarati.com/spacex-ties-42-year-old-record-last-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T083347">2022-12-30 08:33:47 UTC</a></sub>
@@ -186,7 +187,6 @@ region. The mission's status is currently To Be Confirmed
 * [China sends second Shiyan-10 test satellite sent into orbit with its final launch of 2022](https://spacenews.com/china-sends-second-shiyan-10-test-satellite-sent-into-orbit-with-its-final-launch-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T122331">2022-12-29 12:23:31 UTC</a></sub>
 * [ESA to hire more staff after budget increase](https://spacenews.com/esa-to-hire-more-staff-after-budget-increase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T012331">2022-12-29 01:23:31 UTC</a></sub>
 * [Russian space program facing challenges ahead of ambitious 2023](https://www.nasaspaceflight.com/2022/12/russia-ambitious-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T211623">2022-12-28 21:16:23 UTC</a></sub>
-* [Thales Alenia Space studying reusable spacecraft for in-orbit manufacturing](https://spacenews.com/thales-alenia-space-studying-reusable-spacecraft-for-in-orbit-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T143341">2022-12-28 14:33:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T213051">2022-12-30 21:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T220045">2022-12-30 22:00:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
