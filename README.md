@@ -197,6 +197,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Ending a year, looking to the future](https://www.planetary.org/the-downlink/ending-a-year-looking-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T153348">2022-12-30 15:33:48 UTC</a></sub>
 * [A long night, and “so long!” to InSight](https://www.planetary.org/the-downlink/a-long-night-and-so-long-to-insight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T153347">2022-12-23 15:33:47 UTC</a></sub>
 * [Cookie Declaration](https://www.planetary.org/cookie-declaration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153204">2022-12-20 15:32:04 UTC</a></sub>
 * [Privacy Policy](https://www.planetary.org/privacy-policy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153203">2022-12-20 15:32:03 UTC</a></sub>
@@ -206,7 +207,6 @@ region. The mission's status is currently To Be Confirmed
 * [Your impact: December solstice 2022](https://www.planetary.org/articles/your-impact-december-solstice-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T150349">2022-12-13 15:03:49 UTC</a></sub>
 * [The year in pictures: 2022](https://www.planetary.org/articles/the-year-in-pictures-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T145349">2022-12-13 14:53:49 UTC</a></sub>
 * [Going the distance to get the shot](https://www.planetary.org/articles/going-the-distance-to-get-the-shot) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T144350">2022-12-13 14:43:50 UTC</a></sub>
-* [Out-of-this-world astronauts (literally)](https://www.planetary.org/the-downlink/out-of-this-world-astronauts-literally) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T153348">2022-12-09 15:33:48 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T153035">2022-12-30 15:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T160109">2022-12-30 16:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
