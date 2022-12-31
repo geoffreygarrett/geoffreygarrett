@@ -177,6 +177,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX threw its annual 2022 holiday parties and was a hit on TikTok](https://www.teslarati.com/spacex-2022-holiday-party-tiktok/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T142349">2022-12-31 14:23:49 UTC</a></sub>
 * [China to launch new station modules and collaborate with Europe on science missions in 2023](https://www.nasaspaceflight.com/2022/12/china-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T215625">2022-12-30 21:56:25 UTC</a></sub>
 * [Starlink opens offices in Azerbaijan](https://www.teslarati.com/starlink-azerbaijan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T213349">2022-12-30 21:33:49 UTC</a></sub>
 * [China looks to build space partnerships with Gulf nations](https://spacenews.com/china-looks-to-build-space-partnerships-with-gulf-nations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T135330">2022-12-30 13:53:30 UTC</a></sub>
@@ -186,7 +187,6 @@ region. The mission's status is currently Go for Launch
 * [Investing in Space: A year to forget for space stocks](https://www.cnbc.com/2022/12/29/investing-in-space-a-year-to-forget-for-space-stocks.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T155142">2022-12-29 15:51:42 UTC</a></sub>
 * [Cubesat launched on Artemis 1 trying to fix propulsion system](https://spacenews.com/cubesat-launched-on-artemis-1-trying-to-fix-propulsion-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T130330">2022-12-29 13:03:30 UTC</a></sub>
 * [China sends second Shiyan-10 test satellite sent into orbit with its final launch of 2022](https://spacenews.com/china-sends-second-shiyan-10-test-satellite-sent-into-orbit-with-its-final-launch-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T122331">2022-12-29 12:23:31 UTC</a></sub>
-* [ESA to hire more staff after budget increase](https://spacenews.com/esa-to-hire-more-staff-after-budget-increase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T012331">2022-12-29 01:23:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +219,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T143040">2022-12-31 14:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T150145">2022-12-31 15:01:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
