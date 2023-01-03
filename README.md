@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to ring in the new year with 114-payload rideshare launch](https://www.teslarati.com/spacex-first-launch-2023-second-largest-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T090350">2023-01-03 09:03:50 UTC</a></sub>
 * [SpaceX ringing in 2023 with Transporter-6 rideshare mission](https://www.nasaspaceflight.com/2023/01/spacex-transporter-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T020012">2023-01-03 02:00:12 UTC</a></sub>
 * [Military officials forecast 87 launches from Florida’s Space Coast in 2023](https://spaceflightnow.com/2023/01/02/military-officials-forecast-87-launches-from-floridas-space-coast-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T055327">2023-01-02 05:53:27 UTC</a></sub>
 * [Revenue shortfall causes layoffs and delays at Satellogic](https://spacenews.com/revenue-shortfall-causes-layoffs-and-delays-at-satellogic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T004329">2023-01-02 00:43:29 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [China to launch new station modules and collaborate with Europe on science missions in 2023](https://www.nasaspaceflight.com/2022/12/china-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T215625">2022-12-30 21:56:25 UTC</a></sub>
 * [Starlink opens offices in Azerbaijan](https://www.teslarati.com/starlink-azerbaijan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T213349">2022-12-30 21:33:49 UTC</a></sub>
 * [China looks to build space partnerships with Gulf nations](https://spacenews.com/china-looks-to-build-space-partnerships-with-gulf-nations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T135330">2022-12-30 13:53:30 UTC</a></sub>
-* [SpaceX completes record year with Israeli imaging satellite launch](https://spacenews.com/spacex-completes-record-year-with-israeli-imaging-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T132330">2022-12-30 13:23:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T090044">2023-01-03 09:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T093053">2023-01-03 09:30:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
