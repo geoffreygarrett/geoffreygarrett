@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [SpaceX will try to follow record-breaking 2022 with busier 2023](https://www.nasaspaceflight.com/2022/12/spacex-2022-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T190130">2022-12-31 19:01:30 UTC</a></sub>
 * [SpaceX threw its annual 2022 holiday parties and was a hit on TikTok](https://www.teslarati.com/spacex-2022-holiday-party-tiktok/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T142349">2022-12-31 14:23:49 UTC</a></sub>
+* [SpaceX launch of Israeli satellite marks company’s 61st mission of 2022](https://spaceflightnow.com/2022/12/30/spacex-launch-of-israeli-satellite-marks-companys-61st-mission-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T230326">2022-12-30 23:03:26 UTC</a></sub>
 * [China to launch new station modules and collaborate with Europe on science missions in 2023](https://www.nasaspaceflight.com/2022/12/china-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T215625">2022-12-30 21:56:25 UTC</a></sub>
 * [Starlink opens offices in Azerbaijan](https://www.teslarati.com/starlink-azerbaijan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T213349">2022-12-30 21:33:49 UTC</a></sub>
 * [China looks to build space partnerships with Gulf nations](https://spacenews.com/china-looks-to-build-space-partnerships-with-gulf-nations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T135330">2022-12-30 13:53:30 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX ties 42-year-old Soviet record with last launch of 2022](https://www.teslarati.com/spacex-ties-42-year-old-record-last-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T083347">2022-12-30 08:33:47 UTC</a></sub>
 * [SpaceX launches EROS-C3 observation satellite from Vandenberg](https://www.nasaspaceflight.com/2022/12/eros-c3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T075020">2022-12-30 07:50:20 UTC</a></sub>
 * [Investing in Space: A year to forget for space stocks](https://www.cnbc.com/2022/12/29/investing-in-space-a-year-to-forget-for-space-stocks.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T155142">2022-12-29 15:51:42 UTC</a></sub>
-* [Cubesat launched on Artemis 1 trying to fix propulsion system](https://spacenews.com/cubesat-launched-on-artemis-1-trying-to-fix-propulsion-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T130330">2022-12-29 13:03:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T233041">2023-01-02 23:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T000148">2023-01-03 00:01:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
