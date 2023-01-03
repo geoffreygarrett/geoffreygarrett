@@ -183,7 +183,7 @@ region. The mission's status is currently To Be Determined
 * [After doubling launch record in 2022, can SpaceX take another step up in 2023?](https://arstechnica.com/science/2023/01/after-doubling-launch-record-in-2022-can-spacex-take-another-step-up-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T134848">2023-01-03 13:48:48 UTC</a></sub>
 * [NASA planetary science budget remains under stress](https://spacenews.com/nasa-planetary-science-budget-remains-under-stress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T125329">2023-01-03 12:53:29 UTC</a></sub>
 * [SpaceX to ring in the new year with 114-payload rideshare launch](https://www.teslarati.com/spacex-first-launch-2023-second-largest-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T090350">2023-01-03 09:03:50 UTC</a></sub>
-* [SpaceX ringing in 2023 with Transporter-6 rideshare mission](https://www.nasaspaceflight.com/2023/01/spacex-transporter-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T020012">2023-01-03 02:00:12 UTC</a></sub>
+* [SpaceX rings in 2023 with Transporter-6 rideshare mission](https://www.nasaspaceflight.com/2023/01/spacex-transporter-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T020012">2023-01-03 02:00:12 UTC</a></sub>
 * [Space solar power experiment, 36 Planet imaging satellites on SpaceX rideshare mission](https://spaceflightnow.com/2023/01/02/space-solar-power-experiment-36-planet-earth-imaging-satellites-on-spacex-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T124326">2023-01-02 12:43:26 UTC</a></sub>
 * [Military officials forecast 87 launches from Florida’s Space Coast in 2023](https://spaceflightnow.com/2023/01/02/military-officials-forecast-87-launches-from-floridas-space-coast-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T055327">2023-01-02 05:53:27 UTC</a></sub>
 * [Revenue shortfall causes layoffs and delays at Satellogic](https://spacenews.com/revenue-shortfall-causes-layoffs-and-delays-at-satellogic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T004329">2023-01-02 00:43:29 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T160054">2023-01-03 16:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T163556">2023-01-03 16:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
