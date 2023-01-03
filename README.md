@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Space and Earth Sciences Data Analysis-V Contract](http://www.nasa.gov/press-release/nasa-awards-space-and-earth-sciences-data-analysis-v-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T212300">2023-01-03 21:23:00 UTC</a></sub>
 * [SpaceX kicks off 2023 with second largest rideshare launch](https://www.teslarati.com/spacex-first-launch-2023-second-largest-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T201346">2023-01-03 20:13:46 UTC</a></sub>
 * [Space Force launches weather-imaging cubesat for year-long demonstration](https://spacenews.com/space-force-launches-weather-imaging-cubesat-for-year-long-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T192334">2023-01-03 19:23:34 UTC</a></sub>
 * [Iridium enters service agreement for direct-to-smartphone satellite service](https://spacenews.com/iridium-enters-service-agreement-for-direct-to-smartphone-satellite-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T180329">2023-01-03 18:03:29 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX rings in 2023 with Transporter-6 rideshare mission](https://www.nasaspaceflight.com/2023/01/spacex-transporter-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T020012">2023-01-03 02:00:12 UTC</a></sub>
 * [Space solar power experiment, 36 Planet imaging satellites on SpaceX rideshare mission](https://spaceflightnow.com/2023/01/02/space-solar-power-experiment-36-planet-earth-imaging-satellites-on-spacex-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T124326">2023-01-02 12:43:26 UTC</a></sub>
 * [Military officials forecast 87 launches from Florida’s Space Coast in 2023](https://spaceflightnow.com/2023/01/02/military-officials-forecast-87-launches-from-floridas-space-coast-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T055327">2023-01-02 05:53:27 UTC</a></sub>
-* [Revenue shortfall causes layoffs and delays at Satellogic](https://spacenews.com/revenue-shortfall-causes-layoffs-and-delays-at-satellogic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T004329">2023-01-02 00:43:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T213033">2023-01-03 21:30:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T220056">2023-01-03 22:00:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
