@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX eyes West Coast for first Starlink launch of 2023](https://www.teslarati.com/spacex-california-first-starlink-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T083348">2023-01-04 08:33:48 UTC</a></sub>
 * [Apollo Astronaut Walter Cunningham Dies at 90](http://www.nasa.gov/press-release/apollo-astronaut-walter-cunningham-dies-at-90) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T222300">2023-01-03 22:23:00 UTC</a></sub>
 * [SpaceX launches 114 small satellites on first mission of 2023](https://spaceflightnow.com/2023/01/03/falcon-9-transporter-6-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T221326">2023-01-03 22:13:26 UTC</a></sub>
 * [NASA Awards Space and Earth Sciences Data Analysis-V Contract](http://www.nasa.gov/press-release/nasa-awards-space-and-earth-sciences-data-analysis-v-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T212300">2023-01-03 21:23:00 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX begins 2023 with Transporter-6 launch](https://spacenews.com/spacex-begins-2023-with-transporter-6-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T170329">2023-01-03 17:03:29 UTC</a></sub>
 * [After doubling launch record in 2022, can SpaceX take another step up in 2023?](https://arstechnica.com/science/2023/01/after-doubling-launch-record-in-2022-can-spacex-take-another-step-up-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T134848">2023-01-03 13:48:48 UTC</a></sub>
 * [NASA planetary science budget remains under stress](https://spacenews.com/nasa-planetary-science-budget-remains-under-stress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T125329">2023-01-03 12:53:29 UTC</a></sub>
-* [SpaceX rings in 2023 with Transporter-6 rideshare mission](https://www.nasaspaceflight.com/2023/01/spacex-transporter-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T020012">2023-01-03 02:00:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T090059">2023-01-04 09:00:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T093050">2023-01-04 09:30:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
