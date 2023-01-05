@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Iridium and Qualcomm to bring satellite connectivity to smartphones this year](https://spacenews.com/iridium-and-qualcomm-to-bring-satellite-connectivity-to-smartphones-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T205330">2023-01-05 20:53:30 UTC</a></sub>
 * [Astronomers witness unprecedented corona formation, evolution around black hole](https://www.nasaspaceflight.com/2023/01/nustar-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T202025">2023-01-05 20:20:25 UTC</a></sub>
 * [Virgin Orbit preparing for first U.K. launch](https://spacenews.com/virgin-orbit-preparing-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T132329">2023-01-05 13:23:29 UTC</a></sub>
 * [Impulse Space announces first orbital transfer vehicle mission](https://spacenews.com/impulse-space-announces-first-orbital-transfer-vehicle-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T124329">2023-01-05 12:43:29 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [So long, Richard Shelby, and thanks for all the pork](https://arstechnica.com/science/2023/01/so-long-richard-shelby-and-thanks-for-all-the-pork/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T150942">2023-01-04 15:09:42 UTC</a></sub>
 * [Bootcamp to help space startups clear regulatory hurdles](https://spacenews.com/space-regulatory-bootcamp/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T130330">2023-01-04 13:03:30 UTC</a></sub>
 * [China is expanding its Wenchang spaceport to host commercial and crewed moon launches](https://spacenews.com/china-is-expanding-its-wenchang-spaceport-to-host-commercial-and-crewed-moon-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T115330">2023-01-04 11:53:30 UTC</a></sub>
-* [SpaceX eyes West Coast for first Starlink launch of 2023](https://www.teslarati.com/spacex-california-first-starlink-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T083348">2023-01-04 08:33:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T210049">2023-01-05 21:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T213055">2023-01-05 21:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
