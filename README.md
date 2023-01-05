@@ -181,16 +181,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [General Atomics selected to build satellite for AFRL cislunar mission](https://spacenews.com/general-atomics-selected-to-build-satellite-for-afrl-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T213335">2023-01-05 21:33:35 UTC</a></sub>
 * [Iridium and Qualcomm to bring satellite connectivity to smartphones this year](https://spacenews.com/iridium-and-qualcomm-to-bring-satellite-connectivity-to-smartphones-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T205330">2023-01-05 20:53:30 UTC</a></sub>
 * [Astronomers witness unprecedented corona formation, evolution around black hole](https://www.nasaspaceflight.com/2023/01/nustar-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T202025">2023-01-05 20:20:25 UTC</a></sub>
 * [Virgin Orbit preparing for first U.K. launch](https://spacenews.com/virgin-orbit-preparing-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T132329">2023-01-05 13:23:29 UTC</a></sub>
 * [Impulse Space announces first orbital transfer vehicle mission](https://spacenews.com/impulse-space-announces-first-orbital-transfer-vehicle-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T124329">2023-01-05 12:43:29 UTC</a></sub>
 * [NorthStar raises $35 million for debris-tracking satellites](https://spacenews.com/northstar-raises-35-million-for-debris-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T110332">2023-01-05 11:03:32 UTC</a></sub>
-* [Airbus joins Starlab commercial space station project](https://spacenews.com/airbus-joins-starlab-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T224329">2023-01-04 22:43:29 UTC</a></sub>
 * [Raytheon selects Lockheed Martin bus for U.S. Space Force missile-tracking satellite](https://spacenews.com/raytheon-selects-lockheed-martin-bus-for-u-s-space-force-missile-tracking-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T224329">2023-01-04 22:43:29 UTC</a></sub>
+* [Airbus joins Starlab commercial space station project](https://spacenews.com/airbus-joins-starlab-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T224329">2023-01-04 22:43:29 UTC</a></sub>
 * [So long, Richard Shelby, and thanks for all the pork](https://arstechnica.com/science/2023/01/so-long-richard-shelby-and-thanks-for-all-the-pork/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T150942">2023-01-04 15:09:42 UTC</a></sub>
 * [Bootcamp to help space startups clear regulatory hurdles](https://spacenews.com/space-regulatory-bootcamp/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T130330">2023-01-04 13:03:30 UTC</a></sub>
-* [China is expanding its Wenchang spaceport to host commercial and crewed moon launches](https://spacenews.com/china-is-expanding-its-wenchang-spaceport-to-host-commercial-and-crewed-moon-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T115330">2023-01-04 11:53:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T220044">2023-01-05 22:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T223044">2023-01-05 22:30:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
