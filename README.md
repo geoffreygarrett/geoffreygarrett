@@ -181,8 +181,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Raytheon selects Lockheed Martin bus for U.S. Space Force missile-tracking satellite](https://spacenews.com/raytheon-selects-lockheed-martin-bus-for-u-s-space-force-missile-tracking-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T224329">2023-01-04 22:43:29 UTC</a></sub>
+* [NorthStar raises $35 million for debris-tracking satellites](https://spacenews.com/northstar-raises-35-million-for-debris-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T110332">2023-01-05 11:03:32 UTC</a></sub>
 * [Airbus joins Starlab commercial space station project](https://spacenews.com/airbus-joins-starlab-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T224329">2023-01-04 22:43:29 UTC</a></sub>
+* [Raytheon selects Lockheed Martin bus for U.S. Space Force missile-tracking satellite](https://spacenews.com/raytheon-selects-lockheed-martin-bus-for-u-s-space-force-missile-tracking-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T224329">2023-01-04 22:43:29 UTC</a></sub>
 * [So long, Richard Shelby, and thanks for all the pork](https://arstechnica.com/science/2023/01/so-long-richard-shelby-and-thanks-for-all-the-pork/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T150942">2023-01-04 15:09:42 UTC</a></sub>
 * [Bootcamp to help space startups clear regulatory hurdles](https://spacenews.com/space-regulatory-bootcamp/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T130330">2023-01-04 13:03:30 UTC</a></sub>
 * [China is expanding its Wenchang spaceport to host commercial and crewed moon launches](https://spacenews.com/china-is-expanding-its-wenchang-spaceport-to-host-commercial-and-crewed-moon-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T115330">2023-01-04 11:53:30 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX gears up for busy year of Falcon Heavy launches](https://www.teslarati.com/spacex-2023-falcon-heavy-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T064348">2023-01-04 06:43:48 UTC</a></sub>
 * [Apollo Astronaut Walter Cunningham Dies at 90](http://www.nasa.gov/press-release/apollo-astronaut-walter-cunningham-dies-at-90) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T222300">2023-01-03 22:23:00 UTC</a></sub>
 * [SpaceX launches 114 small satellites on first mission of 2023](https://spaceflightnow.com/2023/01/03/falcon-9-transporter-6-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T221326">2023-01-03 22:13:26 UTC</a></sub>
-* [NASA Awards Space and Earth Sciences Data Analysis-V Contract](http://www.nasa.gov/press-release/nasa-awards-space-and-earth-sciences-data-analysis-v-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T212300">2023-01-03 21:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T110106">2023-01-05 11:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T113047">2023-01-05 11:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
