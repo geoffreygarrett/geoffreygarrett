@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: “Crisis” for European launch industry; Japan’s H3 rocket nears debut](https://arstechnica.com/science/2023/01/rocket-report-crisis-for-european-launch-industry-japans-h3-rocket-nears-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T120733">2023-01-06 12:07:33 UTC</a></sub>
 * [Independent review warns of cost growth on key Earth science mission](https://spacenews.com/independent-review-warns-of-cost-growth-on-key-earth-science-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T115332">2023-01-06 11:53:32 UTC</a></sub>
 * [General Atomics selected to build satellite for AFRL cislunar mission](https://spacenews.com/general-atomics-selected-to-build-satellite-for-afrl-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T213335">2023-01-05 21:33:35 UTC</a></sub>
 * [Iridium and Qualcomm to bring satellite connectivity to smartphones this year](https://spacenews.com/iridium-and-qualcomm-to-bring-satellite-connectivity-to-smartphones-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T205330">2023-01-05 20:53:30 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [NorthStar raises $35 million for debris-tracking satellites](https://spacenews.com/northstar-raises-35-million-for-debris-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T110332">2023-01-05 11:03:32 UTC</a></sub>
 * [Raytheon selects Lockheed Martin bus for U.S. Space Force missile-tracking satellite](https://spacenews.com/raytheon-selects-lockheed-martin-bus-for-u-s-space-force-missile-tracking-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T224329">2023-01-04 22:43:29 UTC</a></sub>
 * [Airbus joins Starlab commercial space station project](https://spacenews.com/airbus-joins-starlab-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T224329">2023-01-04 22:43:29 UTC</a></sub>
-* [So long, Richard Shelby, and thanks for all the pork](https://arstechnica.com/science/2023/01/so-long-richard-shelby-and-thanks-for-all-the-pork/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T150942">2023-01-04 15:09:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T120052">2023-01-06 12:00:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T124010">2023-01-06 12:40:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
