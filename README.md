@@ -187,7 +187,7 @@ region. The mission's status is currently Go for Launch
 * [General Atomics selected to build satellite for AFRL cislunar mission](https://spacenews.com/general-atomics-selected-to-build-satellite-for-afrl-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T213335">2023-01-05 21:33:35 UTC</a></sub>
 * [Iridium and Qualcomm to bring satellite connectivity to smartphones this year](https://spacenews.com/iridium-and-qualcomm-to-bring-satellite-connectivity-to-smartphones-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T205330">2023-01-05 20:53:30 UTC</a></sub>
 * [Astronomers witness unprecedented corona formation, evolution around black hole](https://www.nasaspaceflight.com/2023/01/nustar-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T202025">2023-01-05 20:20:25 UTC</a></sub>
-* [With Artemis 1 moonship back in Florida, works begins to harvest hardware for Artemis 2 lunar flight](https://spaceflightnow.com/2023/01/05/orion-spacecraft-arrives-back-at-kennedy-space-center-after-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T152326">2023-01-05 15:23:26 UTC</a></sub>
+* [Work begins to harvest Orion spacecraft hardware for Artemis 2 lunar flight](https://spaceflightnow.com/2023/01/05/orion-spacecraft-arrives-back-at-kennedy-space-center-after-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T153326">2023-01-05 15:33:26 UTC</a></sub>
 * [Virgin Orbit preparing for first U.K. launch](https://spacenews.com/virgin-orbit-preparing-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T132329">2023-01-05 13:23:29 UTC</a></sub>
 * [Impulse Space announces first orbital transfer vehicle mission](https://spacenews.com/impulse-space-announces-first-orbital-transfer-vehicle-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T124329">2023-01-05 12:43:29 UTC</a></sub>
 * [NorthStar raises $35 million for debris-tracking satellites](https://spacenews.com/northstar-raises-35-million-for-debris-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T110332">2023-01-05 11:03:32 UTC</a></sub>
@@ -201,6 +201,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Worthy goals for a lifelong love of space](https://www.planetary.org/the-downlink/worthy-goals-for-a-lifelong-love-of-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T153348">2023-01-06 15:33:48 UTC</a></sub>
 * [How to see Comet 2022 E3 (ZTF)](https://www.planetary.org/articles/how-to-see-comet-2022-e3-ztf) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T145347">2023-01-06 14:53:47 UTC</a></sub>
 * [Space life goals](https://www.planetary.org/night-sky/space-life-goals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T180350">2023-01-02 18:03:50 UTC</a></sub>
 * [Ending a year, looking to the future](https://www.planetary.org/the-downlink/ending-a-year-looking-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T153348">2022-12-30 15:33:48 UTC</a></sub>
@@ -210,7 +211,6 @@ region. The mission's status is currently Go for Launch
 * [A deep dive into the Neptune system with JWST](https://www.planetary.org/articles/a-deep-dive-into-the-neptune-system-with-jwst) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T152206">2022-12-20 15:22:06 UTC</a></sub>
 * [Capturing the Cosmos](https://www.planetary.org/the-downlink/capturing-the-cosmos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T153214">2022-12-16 15:32:14 UTC</a></sub>
 * [NEO Surveyor is confirmed](https://www.planetary.org/articles/neo-surveyor-is-confirmed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T130354">2022-12-14 13:03:54 UTC</a></sub>
-* [Your impact: December solstice 2022](https://www.planetary.org/articles/your-impact-december-solstice-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T150349">2022-12-13 15:03:49 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T160044">2023-01-06 16:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T163634">2023-01-06 16:36:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
