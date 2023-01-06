@@ -187,10 +187,10 @@ region. The mission's status is currently Go for Launch
 * [General Atomics selected to build satellite for AFRL cislunar mission](https://spacenews.com/general-atomics-selected-to-build-satellite-for-afrl-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T213335">2023-01-05 21:33:35 UTC</a></sub>
 * [Iridium and Qualcomm to bring satellite connectivity to smartphones this year](https://spacenews.com/iridium-and-qualcomm-to-bring-satellite-connectivity-to-smartphones-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T205330">2023-01-05 20:53:30 UTC</a></sub>
 * [Astronomers witness unprecedented corona formation, evolution around black hole](https://www.nasaspaceflight.com/2023/01/nustar-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T202025">2023-01-05 20:20:25 UTC</a></sub>
+* [With Artemis 1 moonship back in Florida, works begins to harvest hardware for Artemis 2 lunar flight](https://spaceflightnow.com/2023/01/05/orion-spacecraft-arrives-back-at-kennedy-space-center-after-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T152326">2023-01-05 15:23:26 UTC</a></sub>
 * [Virgin Orbit preparing for first U.K. launch](https://spacenews.com/virgin-orbit-preparing-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T132329">2023-01-05 13:23:29 UTC</a></sub>
 * [Impulse Space announces first orbital transfer vehicle mission](https://spacenews.com/impulse-space-announces-first-orbital-transfer-vehicle-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T124329">2023-01-05 12:43:29 UTC</a></sub>
 * [NorthStar raises $35 million for debris-tracking satellites](https://spacenews.com/northstar-raises-35-million-for-debris-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T110332">2023-01-05 11:03:32 UTC</a></sub>
-* [Airbus joins Starlab commercial space station project](https://spacenews.com/airbus-joins-starlab-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T224329">2023-01-04 22:43:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T150116">2023-01-06 15:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T153137">2023-01-06 15:31:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
