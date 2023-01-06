@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Delta throws down the gauntlet with free Wi-Fi plan](https://spacenews.com/delta-airlines-throws-down-the-gauntlet-with-free-wi-fi-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T213332">2023-01-06 21:33:32 UTC</a></sub>
 * [Aiming for instantaneous Earth-observation data](https://spacenews.com/baris-erkmen-hedron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T203332">2023-01-06 20:33:32 UTC</a></sub>
 * [Some details have emerged about Blue Origin’s “Blue Ring” project](https://arstechnica.com/science/2023/01/blue-origin-is-developing-a-space-tug-for-its-new-glenn-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T194345">2023-01-06 19:43:45 UTC</a></sub>
 * [NASA to Provide Live Coverage of SpaceX Cargo Craft Station Departure](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-spacex-cargo-craft-station-departure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T185300">2023-01-06 18:53:00 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [General Atomics selected to build satellite for AFRL cislunar mission](https://spacenews.com/general-atomics-selected-to-build-satellite-for-afrl-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T213335">2023-01-05 21:33:35 UTC</a></sub>
 * [Iridium and Qualcomm to bring satellite connectivity to smartphones this year](https://spacenews.com/iridium-and-qualcomm-to-bring-satellite-connectivity-to-smartphones-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T205330">2023-01-05 20:53:30 UTC</a></sub>
 * [Astronomers witness unprecedented corona formation, evolution around black hole](https://www.nasaspaceflight.com/2023/01/nustar-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T202025">2023-01-05 20:20:25 UTC</a></sub>
-* [Work begins to harvest Orion spacecraft hardware for Artemis 2 lunar flight](https://spaceflightnow.com/2023/01/05/orion-spacecraft-arrives-back-at-kennedy-space-center-after-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T153326">2023-01-05 15:33:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T213040">2023-01-06 21:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T220055">2023-01-06 22:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
