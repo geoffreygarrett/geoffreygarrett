@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Defunct NASA satellite to reenter](https://spacenews.com/defunct-nasa-satellite-to-reenter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T153330">2023-01-07 15:33:30 UTC</a></sub>
 * [Delta throws down the gauntlet with free Wi-Fi plan](https://spacenews.com/delta-airlines-throws-down-the-gauntlet-with-free-wi-fi-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T213332">2023-01-06 21:33:32 UTC</a></sub>
 * [Aiming for instantaneous Earth-observation data](https://spacenews.com/baris-erkmen-hedron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T203332">2023-01-06 20:33:32 UTC</a></sub>
 * [Some details have emerged about Blue Origin’s “Blue Ring” project](https://arstechnica.com/science/2023/01/blue-origin-is-developing-a-space-tug-for-its-new-glenn-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T194345">2023-01-06 19:43:45 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Report: “Crisis” for European launch industry; Japan’s H3 rocket nears debut](https://arstechnica.com/science/2023/01/rocket-report-crisis-for-european-launch-industry-japans-h3-rocket-nears-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T120733">2023-01-06 12:07:33 UTC</a></sub>
 * [Independent review warns of cost growth on key Earth science mission](https://spacenews.com/independent-review-warns-of-cost-growth-on-key-earth-science-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T115332">2023-01-06 11:53:32 UTC</a></sub>
 * [Senators seek funding boost for NASA and NSF astrophysics programs](https://spacenews.com/senators-seek-funding-boost-for-nasa-and-nsf-astrophysics-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T005330">2023-01-06 00:53:30 UTC</a></sub>
-* [General Atomics selected to build satellite for AFRL cislunar mission](https://spacenews.com/general-atomics-selected-to-build-satellite-for-afrl-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T213335">2023-01-05 21:33:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T153035">2023-01-07 15:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T160105">2023-01-07 16:01:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
