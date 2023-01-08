@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Orbit ready for first U.K. launch](https://spacenews.com/virgin-orbit-ready-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T223330">2023-01-08 22:33:30 UTC</a></sub>
 * [SpaceX gearing up for Falcon Heavy’s second national security launch](https://spacenews.com/spacex-gearing-up-for-falcon-heavys-second-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T173330">2023-01-08 17:33:30 UTC</a></sub>
 * [Defunct NASA satellite to reenter](https://spacenews.com/defunct-nasa-satellite-to-reenter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T153330">2023-01-07 15:33:30 UTC</a></sub>
 * [Launch preps underway for first of up to five Falcon Heavy missions this year](https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T072326">2023-01-07 07:23:26 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Provide Live Coverage of SpaceX Cargo Craft Station Departure](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-spacex-cargo-craft-station-departure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T185300">2023-01-06 18:53:00 UTC</a></sub>
 * [Florida Starship pad construction ramps up with arrival of chopsticks carriage](https://spaceflightnow.com/2023/01/06/florida-starship-launch-pad-construction-ramps-up-with-arrival-of-chopsticks-carriage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T145326">2023-01-06 14:53:26 UTC</a></sub>
 * [NASA faces budget crunch for extended Earth science missions](https://spacenews.com/nasa-faces-budget-crunch-for-extended-earth-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T131332">2023-01-06 13:13:32 UTC</a></sub>
-* [Rocket Report: “Crisis” for European launch industry; Japan’s H3 rocket nears debut](https://arstechnica.com/science/2023/01/rocket-report-crisis-for-european-launch-industry-japans-h3-rocket-nears-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T120733">2023-01-06 12:07:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T223036">2023-01-08 22:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T230102">2023-01-08 23:01:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
