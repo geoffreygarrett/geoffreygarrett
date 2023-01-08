@@ -94,26 +94,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Long March 7A | Shijian 23 at the
-<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">201</a> in
-Wenchang Satellite Launch Center, People's Republic of China
+Ceres-1 | Unknown Payload at the
+<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Unknown Pad</a> in
+Jiuquan, People's Republic of China
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T215000">2023-01-08 21:50:00 UTC</a>. Until
-then, this launch pad will have seen 5
-out of 21 launches in this
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T045500">2023-01-09 04:55:00 UTC</a>. Until
+then, this launch pad will have seen 8
+out of 181 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Possible experimental Chinese High-throughput communication satellite based on the DFH-4E satellite bus; details TBD.
+  
 </blockquote>
 
 <p float="left" align="center">
   <a href="None" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=19.614354,110.948863" >
+  <a href="http://maps.google.com/maps?q=40.9605556,100.2961393" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -126,7 +126,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Shijian 23</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T215000">2023-01-08 21:50:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Shijian 23&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20230108T215000Z%2F20230109T011500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T045500">2023-01-09 04:55:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230109T045500Z%2F20230109T055000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T220000">2023-01-09 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20230109T220000Z%2F20230110T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Start Me Up</b> from Air launch to orbit. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T221600">2023-01-09 22:16:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Start Me Up&location=Air launch to orbit&dates=20230109T221600Z%2F20230110T001600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -223,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T213035">2023-01-08 21:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T220103">2023-01-08 22:01:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
