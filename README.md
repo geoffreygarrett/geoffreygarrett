@@ -179,9 +179,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [European firms partner for LEO collision avoidance demo](https://spacenews.com/european-firms-partner-for-leo-collision-avoidance-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T222329">2023-01-09 22:23:29 UTC</a></sub>
+* [SpaceX cargo capsule undocks from space station, heads for splashdown](https://spaceflightnow.com/2023/01/09/spacex-crs-26-undocking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T223327">2023-01-09 22:33:27 UTC</a></sub>
 * [Observing lightning with a cubesat constellation](https://spacenews.com/cubespark-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T222329">2023-01-09 22:23:29 UTC</a></sub>
-* [Watch live: SpaceX Dragon cargo capsule set to depart space station](https://spaceflightnow.com/2023/01/09/spacex-crs-26-undocking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T220326">2023-01-09 22:03:26 UTC</a></sub>
+* [European firms partner for LEO collision avoidance demo](https://spacenews.com/european-firms-partner-for-leo-collision-avoidance-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T222329">2023-01-09 22:23:29 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket rolls out for first launch of 2023](https://www.teslarati.com/spacex-falcon-heavy-ussf-67-rollout-launch-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T210344">2023-01-09 21:03:44 UTC</a></sub>
 * [NASA Selects Experimental Space Technology Concepts for Initial Study](http://www.nasa.gov/press-release/nasa-selects-experimental-space-technology-concepts-for-initial-study) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T202300">2023-01-09 20:23:00 UTC</a></sub>
 * [Space Force looking to extend laser communications to satellites in higher orbits](https://spacenews.com/space-force-looking-to-extend-laser-communications-to-satellites-in-higher-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T201329">2023-01-09 20:13:29 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T230052">2023-01-09 23:00:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T233119">2023-01-09 23:31:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
