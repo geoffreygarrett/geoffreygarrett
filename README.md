@@ -181,6 +181,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Virgin Orbit ready for first U.K. launch](https://spacenews.com/virgin-orbit-ready-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T223330">2023-01-08 22:33:30 UTC</a></sub>
 * [SpaceX gearing up for Falcon Heavy’s second national security launch](https://spacenews.com/spacex-gearing-up-for-falcon-heavys-second-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T173330">2023-01-08 17:33:30 UTC</a></sub>
+* [Elon Musk: SpaceX’s first orbital Starship launch “highly likely” in Q1 2023](https://www.teslarati.com/spacex-starship-orbital-launch-mount-stress-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T062343">2023-01-08 06:23:43 UTC</a></sub>
 * [Defunct NASA satellite to reenter](https://spacenews.com/defunct-nasa-satellite-to-reenter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T153330">2023-01-07 15:33:30 UTC</a></sub>
 * [Launch preps underway for first of up to five Falcon Heavy missions this year](https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T072326">2023-01-07 07:23:26 UTC</a></sub>
 * [Delta throws down the gauntlet with free Wi-Fi plan](https://spacenews.com/delta-airlines-throws-down-the-gauntlet-with-free-wi-fi-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T213332">2023-01-06 21:33:32 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Some details have emerged about Blue Origin’s “Blue Ring” project](https://arstechnica.com/science/2023/01/blue-origin-is-developing-a-space-tug-for-its-new-glenn-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T194345">2023-01-06 19:43:45 UTC</a></sub>
 * [NASA to Provide Live Coverage of SpaceX Cargo Craft Station Departure](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-spacex-cargo-craft-station-departure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T185300">2023-01-06 18:53:00 UTC</a></sub>
 * [Florida Starship pad construction ramps up with arrival of chopsticks carriage](https://spaceflightnow.com/2023/01/06/florida-starship-launch-pad-construction-ramps-up-with-arrival-of-chopsticks-carriage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T145326">2023-01-06 14:53:26 UTC</a></sub>
-* [NASA faces budget crunch for extended Earth science missions](https://spacenews.com/nasa-faces-budget-crunch-for-extended-earth-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T131332">2023-01-06 13:13:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T060103">2023-01-09 06:01:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T063335">2023-01-09 06:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
