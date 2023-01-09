@@ -179,16 +179,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Orbit says it is ready to make history in the United Kingdom tonight](https://arstechnica.com/science/2023/01/the-first-orbital-launch-from-western-europe-could-happen-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T143310">2023-01-09 14:33:10 UTC</a></sub>
 * [Rogue Space hires sustainability expert to advocate for startup-friendly policies](https://spacenews.com/rogue-space-hires-sustainability-expert-to-advocate-for-startup-friendly-policies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T134331">2023-01-09 13:43:31 UTC</a></sub>
 * [China’s Tianwen-1 Mars orbiter and rover appear to be in trouble](https://spacenews.com/chinas-tianwen-1-mars-orbiter-and-rover-appear-to-be-in-trouble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T121330">2023-01-09 12:13:30 UTC</a></sub>
 * [Pair of Chinese launches put classified and commercial satellites into orbit](https://spacenews.com/pair-of-chinese-launches-put-classified-and-commercial-satellites-into-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T094329">2023-01-09 09:43:29 UTC</a></sub>
 * [Virgin Orbit ready for first U.K. launch](https://spacenews.com/virgin-orbit-ready-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T223330">2023-01-08 22:33:30 UTC</a></sub>
 * [SpaceX gearing up for Falcon Heavy’s second national security launch](https://spacenews.com/spacex-gearing-up-for-falcon-heavys-second-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T173330">2023-01-08 17:33:30 UTC</a></sub>
+* [Virgin Orbit counting down to first historic satellite launch from British soil](https://spaceflightnow.com/2023/01/08/virgin-orbit-counting-down-to-first-historic-satellite-launch-from-british-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T145326">2023-01-08 14:53:26 UTC</a></sub>
 * [Elon Musk: SpaceX’s first orbital Starship launch “highly likely” in Q1 2023](https://www.teslarati.com/spacex-starship-orbital-launch-mount-stress-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T062343">2023-01-08 06:23:43 UTC</a></sub>
 * [Defunct NASA satellite reenters](https://spacenews.com/defunct-nasa-satellite-to-reenter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T121330">2023-01-07 12:13:30 UTC</a></sub>
 * [Launch preps underway for first of up to five Falcon Heavy missions this year](https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T072326">2023-01-07 07:23:26 UTC</a></sub>
-* [Delta throws down the gauntlet with free Wi-Fi plan](https://spacenews.com/delta-airlines-throws-down-the-gauntlet-with-free-wi-fi-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T213332">2023-01-06 21:33:32 UTC</a></sub>
-* [Aiming for instantaneous Earth-observation data](https://spacenews.com/baris-erkmen-hedron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T203332">2023-01-06 20:33:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T150053">2023-01-09 15:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T153453">2023-01-09 15:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
