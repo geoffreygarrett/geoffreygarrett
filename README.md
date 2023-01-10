@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Even before Monday’s launch failure, Virgin Orbit’s finances were dismal](https://arstechnica.com/science/2023/01/even-before-mondays-launch-failure-virgin-orbits-finances-were-dismal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T143017">2023-01-10 14:30:17 UTC</a></sub>
 * [Capella Space raises $60 million from fund run by billionaire entertainment exec Thomas Tull](https://www.cnbc.com/2023/01/10/capella-space-raises-60-million-from-billionaire-thomas-tulls-fund.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T140001">2023-01-10 14:00:01 UTC</a></sub>
 * [OneWeb two launches away from going global after SpaceX mission](https://spacenews.com/oneweb-two-launches-away-from-going-global-after-spacex-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T135217">2023-01-10 13:52:17 UTC</a></sub>
 * [Steven Kwast, a retired U.S. Air Force general, is Skycorp’s new CEO](https://spacenews.com/kwast-joins-skycorp/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T130217">2023-01-10 13:02:17 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Commercial innovation for NOAA ground enterprise architecture](https://spacenews.com/noaa-enterprise-ground-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T053330">2023-01-10 05:33:30 UTC</a></sub>
 * [The first orbital launch attempt from the UK ends in failure](https://arstechnica.com/science/2023/01/virgin-orbits-launcherone-rocket-suffers-anomaly-fails-to-reach-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T005607">2023-01-10 00:56:07 UTC</a></sub>
 * [Virgin Orbit stock plummets after failure of its first UK rocket launch](https://www.cnbc.com/2023/01/09/virgin-orbit-stock-plummets-after-uk-launch-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T005350">2023-01-10 00:53:50 UTC</a></sub>
-* [SpaceX cargo capsule undocks from space station, heads for splashdown](https://spaceflightnow.com/2023/01/09/spacex-crs-26-undocking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T223327">2023-01-09 22:33:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T150111">2023-01-10 15:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T153457">2023-01-10 15:34:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
