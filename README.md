@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Steven Kwast, a retired U.S. Air Force general, is Skycorp’s new CEO](https://spacenews.com/kwast-joins-skycorp/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T130217">2023-01-10 13:02:17 UTC</a></sub>
+* [Last year marked the end of an era in spaceflight—here’s what we’re watching next](https://arstechnica.com/science/2023/01/last-year-marked-the-end-of-an-era-in-spaceflight-heres-what-were-watching-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T124533">2023-01-10 12:45:33 UTC</a></sub>
 * [SpaceX sends 40 more OneWeb internet satellites into orbit](https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T071326">2023-01-10 07:13:26 UTC</a></sub>
 * [SpaceX launches OneWeb Flight #16 mission from Florida](https://www.nasaspaceflight.com/2023/01/oneweb-flight-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T053923">2023-01-10 05:39:23 UTC</a></sub>
 * [Commercial innovation for NOAA ground enterprise architecture](https://spacenews.com/noaa-enterprise-ground-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T053330">2023-01-10 05:33:30 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX cargo capsule undocks from space station, heads for splashdown](https://spaceflightnow.com/2023/01/09/spacex-crs-26-undocking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T223327">2023-01-09 22:33:27 UTC</a></sub>
 * [European firms partner for LEO collision avoidance demo](https://spacenews.com/european-firms-partner-for-leo-collision-avoidance-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T222329">2023-01-09 22:23:29 UTC</a></sub>
 * [Observing lightning with a cubesat constellation](https://spacenews.com/cubespark-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T222329">2023-01-09 22:23:29 UTC</a></sub>
-* [SpaceX Falcon Heavy rocket rolls out for first launch of 2023](https://www.teslarati.com/spacex-falcon-heavy-ussf-67-rollout-launch-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T210344">2023-01-09 21:03:44 UTC</a></sub>
-* [NASA Selects Experimental Space Technology Concepts for Initial Study](http://www.nasa.gov/press-release/nasa-selects-experimental-space-technology-concepts-for-initial-study) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T202300">2023-01-09 20:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T130520">2023-01-10 13:05:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T133326">2023-01-10 13:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
