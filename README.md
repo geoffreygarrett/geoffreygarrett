@@ -178,6 +178,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Full steam ahead for NOAA’s $20 billion GeoXO program](https://spacenews.com/20-billion-geoxo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T205221">2023-01-10 20:52:21 UTC</a></sub>
+* [airBaltic will equip its fleet with Starlink](https://www.teslarati.com/airbaltic-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T203233">2023-01-10 20:32:33 UTC</a></sub>
+* [Geospatial industry investor Keith Masback joins board of directors of Cognitive Space](https://spacenews.com/geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T200218">2023-01-10 20:02:18 UTC</a></sub>
 * [NASA to Host Media Update on Space Station Plans, Soyuz Status](http://www.nasa.gov/press-release/nasa-to-host-media-update-on-space-station-plans-soyuz-status) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T190200">2023-01-10 19:02:00 UTC</a></sub>
 * [NASA’s commercial lunar program ready to start flying in 2023](https://www.nasaspaceflight.com/2023/01/clps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T184357">2023-01-10 18:43:57 UTC</a></sub>
 * [Rep. Mike Rogers named chairman of House Armed Services Committee](https://spacenews.com/rep-mike-rogers-named-chairman-of-house-armed-services-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T183218">2023-01-10 18:32:18 UTC</a></sub>
@@ -185,9 +188,6 @@ region. The mission's status is currently Go for Launch
 * [Astronomers celebrate performance of JWST](https://spacenews.com/astronomers-celebrate-performance-of-jwst/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T175218">2023-01-10 17:52:18 UTC</a></sub>
 * [Even before Monday’s launch failure, Virgin Orbit’s finances were dismal](https://arstechnica.com/science/2023/01/even-before-mondays-launch-failure-virgin-orbits-finances-were-dismal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T143017">2023-01-10 14:30:17 UTC</a></sub>
 * [Capella Space raises $60 million from fund run by billionaire entertainment exec Thomas Tull](https://www.cnbc.com/2023/01/10/capella-space-raises-60-million-from-billionaire-thomas-tulls-fund.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T140001">2023-01-10 14:00:01 UTC</a></sub>
-* [OneWeb two launches away from going global after SpaceX mission](https://spacenews.com/oneweb-two-launches-away-from-going-global-after-spacex-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T135217">2023-01-10 13:52:17 UTC</a></sub>
-* [Steven Kwast, a retired U.S. Air Force general, is Skycorp’s new CEO](https://spacenews.com/kwast-joins-skycorp/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T130217">2023-01-10 13:02:17 UTC</a></sub>
-* [Last year marked the end of an era in spaceflight—here’s what we’re watching next](https://arstechnica.com/science/2023/01/last-year-marked-the-end-of-an-era-in-spaceflight-heres-what-were-watching-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T124533">2023-01-10 12:45:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T203046">2023-01-10 20:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T210131">2023-01-10 21:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
