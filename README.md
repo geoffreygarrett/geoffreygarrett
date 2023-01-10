@@ -33,7 +33,6 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 * [Understand and fix rever ("news" workflow)](https://github.com/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Multiline tagging for parser](https://github.com/tudat-team/tudat-multidoc/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T215945">2021-12-30 21:59:45 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Intersphinx linking to properties not working](https://github.com/tudat-team/tudat-space/issues/27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211105T141639">2021-11-05 14:16:39 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
-* [Move content from tudat-space to tudat-developer-docs](https://github.com/tudat-team/tudat-developer-docs/issues/11) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211014T120651">2021-10-14 12:06:51 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 
 <!-- github issues ends -->
 
@@ -179,6 +178,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Host Media Update on Space Station Plans, Soyuz Status](http://www.nasa.gov/press-release/nasa-to-host-media-update-on-space-station-plans-soyuz-status) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T190200">2023-01-10 19:02:00 UTC</a></sub>
+* [NASA’s commercial lunar program ready to start flying in 2023](https://www.nasaspaceflight.com/2023/01/clps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T184357">2023-01-10 18:43:57 UTC</a></sub>
 * [Rep. Mike Rogers named chairman of House Armed Services Committee](https://spacenews.com/rep-mike-rogers-named-chairman-of-house-armed-services-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T183218">2023-01-10 18:32:18 UTC</a></sub>
 * [NASA, NOAA to Announce 2022 Global Temperatures, Climate Conditions](http://www.nasa.gov/press-release/nasa-noaa-to-announce-2022-global-temperatures-climate-conditions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T180200">2023-01-10 18:02:00 UTC</a></sub>
 * [Astronomers celebrate performance of JWST](https://spacenews.com/astronomers-celebrate-performance-of-jwst/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T175218">2023-01-10 17:52:18 UTC</a></sub>
@@ -187,8 +188,6 @@ region. The mission's status is currently Go for Launch
 * [OneWeb two launches away from going global after SpaceX mission](https://spacenews.com/oneweb-two-launches-away-from-going-global-after-spacex-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T135217">2023-01-10 13:52:17 UTC</a></sub>
 * [Steven Kwast, a retired U.S. Air Force general, is Skycorp’s new CEO](https://spacenews.com/kwast-joins-skycorp/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T130217">2023-01-10 13:02:17 UTC</a></sub>
 * [Last year marked the end of an era in spaceflight—here’s what we’re watching next](https://arstechnica.com/science/2023/01/last-year-marked-the-end-of-an-era-in-spaceflight-heres-what-were-watching-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T124533">2023-01-10 12:45:33 UTC</a></sub>
-* [SpaceX sends 40 more OneWeb internet satellites into orbit](https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T071326">2023-01-10 07:13:26 UTC</a></sub>
-* [SpaceX launches OneWeb Flight #16 mission from Florida](https://www.nasaspaceflight.com/2023/01/oneweb-flight-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T053923">2023-01-10 05:39:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T190055">2023-01-10 19:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T193055">2023-01-10 19:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
