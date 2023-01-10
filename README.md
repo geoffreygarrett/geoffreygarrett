@@ -33,6 +33,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 * [Understand and fix rever ("news" workflow)](https://github.com/tudat-team/tudatpy/issues/46) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220122T210640">2022-01-22 21:06:40 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Multiline tagging for parser](https://github.com/tudat-team/tudat-multidoc/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T215945">2021-12-30 21:59:45 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Intersphinx linking to properties not working](https://github.com/tudat-team/tudat-space/issues/27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211105T141639">2021-11-05 14:16:39 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
+* [Move content from tudat-space to tudat-developer-docs](https://github.com/tudat-team/tudat-developer-docs/issues/11) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211014T120651">2021-10-14 12:06:51 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 
 <!-- github issues ends -->
 
@@ -177,6 +178,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NOAA might revise geostationary weather satellite timeline](https://spacenews.com/goes-u-compact-coronagraph/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T222218">2023-01-10 22:22:18 UTC</a></sub>
+* [SpaceX stacks Starship and Super Heavy booster for “wet dress rehearsal” test](https://www.teslarati.com/spacex-starship-fully-stacked-prelaunch-testing-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T221234">2023-01-10 22:12:34 UTC</a></sub>
 * [CAES Space Systems becomes Frontgrade Technologies](https://spacenews.com/caes-space-systems-becomes-frontgrade-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T212218">2023-01-10 21:22:18 UTC</a></sub>
 * [Full steam ahead for NOAA’s $20 billion GeoXO program](https://spacenews.com/20-billion-geoxo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T205221">2023-01-10 20:52:21 UTC</a></sub>
 * [airBaltic will equip its fleet with Starlink](https://www.teslarati.com/airbaltic-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T203233">2023-01-10 20:32:33 UTC</a></sub>
@@ -185,8 +188,6 @@ region. The mission's status is currently Go for Launch
 * [NASA’s commercial lunar program ready to start flying in 2023](https://www.nasaspaceflight.com/2023/01/clps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T184357">2023-01-10 18:43:57 UTC</a></sub>
 * [Rep. Mike Rogers named chairman of House Armed Services Committee](https://spacenews.com/rep-mike-rogers-named-chairman-of-house-armed-services-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T183218">2023-01-10 18:32:18 UTC</a></sub>
 * [NASA, NOAA to Announce 2022 Global Temperatures, Climate Conditions](http://www.nasa.gov/press-release/nasa-noaa-to-announce-2022-global-temperatures-climate-conditions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T180200">2023-01-10 18:02:00 UTC</a></sub>
-* [Astronomers celebrate performance of JWST](https://spacenews.com/astronomers-celebrate-performance-of-jwst/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T175218">2023-01-10 17:52:18 UTC</a></sub>
-* [Even before Monday’s launch failure, Virgin Orbit’s finances were dismal](https://arstechnica.com/science/2023/01/even-before-mondays-launch-failure-virgin-orbits-finances-were-dismal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T143017">2023-01-10 14:30:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -219,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T220058">2023-01-10 22:00:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T223148">2023-01-10 22:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
