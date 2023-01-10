@@ -179,7 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Watch live: SpaceX launches from Florida; California launch delayed](https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T061326">2023-01-10 06:13:26 UTC</a></sub>
+* [SpaceX sends 40 more OneWeb internet satellites into orbit](https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T071326">2023-01-10 07:13:26 UTC</a></sub>
 * [SpaceX launches OneWeb Flight #16 mission from Florida](https://www.nasaspaceflight.com/2023/01/oneweb-flight-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T053923">2023-01-10 05:39:23 UTC</a></sub>
 * [Commercial innovation for NOAA ground enterprise architecture](https://spacenews.com/noaa-enterprise-ground-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T053330">2023-01-10 05:33:30 UTC</a></sub>
 * [The first orbital launch attempt from the UK ends in failure](https://arstechnica.com/science/2023/01/virgin-orbits-launcherone-rocket-suffers-anomaly-fails-to-reach-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T005607">2023-01-10 00:56:07 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T070058">2023-01-10 07:00:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T073049">2023-01-10 07:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
