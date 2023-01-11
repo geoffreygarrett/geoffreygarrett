@@ -179,16 +179,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon Heavy rocket tests 27 engines for military rideshare launch](https://www.teslarati.com/spacex-falcon-heavy-static-fire-ussf-67/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T215233">2023-01-11 21:52:33 UTC</a></sub>
+* [Progress and obstacles for space weather forecasting](https://spacenews.com/space-weather-ams-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T213218">2023-01-11 21:32:18 UTC</a></sub>
+* [Europe’s investment arm loans SES 300 million euros to bolster space industry](https://spacenews.com/europes-investment-arm-loans-ses-300-million-euros-to-bolster-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T212218">2023-01-11 21:22:18 UTC</a></sub>
+* [NASA Awards Contracts for Human Capital Support Services](http://www.nasa.gov/press-release/nasa-awards-contracts-for-human-capital-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T211200">2023-01-11 21:12:00 UTC</a></sub>
 * [Russia to launch replacement for damaged Soyuz crew ship at space station](https://spaceflightnow.com/2023/01/11/russia-to-launch-replacement-for-damaged-soyuz-crew-capsule-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T175215">2023-01-11 17:52:15 UTC</a></sub>
 * [NOAA takes stock of spectrum amid ongoing challenges](https://spacenews.com/noaa-spectrum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T173218">2023-01-11 17:32:18 UTC</a></sub>
 * [Russia will abandon Soyuz on orbit, fly up a new one to bring crew home](https://arstechnica.com/science/2023/01/russia-will-abandon-soyuz-on-orbit-fly-up-a-new-one-to-bring-crew-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T152524">2023-01-11 15:25:24 UTC</a></sub>
 * [Rocket builder ABL’s inaugural launch fails shortly after liftoff, damages launch pad](https://www.cnbc.com/2023/01/11/abl-space-inaugural-launch-fails-damages-alaska-launchpad.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T144246">2023-01-11 14:42:46 UTC</a></sub>
 * [Roscosmos to launch uncrewed Soyuz to replace damaged spacecraft at ISS](https://spacenews.com/roscosmos-to-launch-uncrewed-soyuz-to-replace-damaged-spacecraft-at-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T122222">2023-01-11 12:22:22 UTC</a></sub>
 * [SpaceX flexes might with simultaneous Starship, Falcon 9, Falcon Heavy, Dragon operations](https://www.teslarati.com/spacex-four-pads-four-rockets-two-dragons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T235233">2023-01-10 23:52:33 UTC</a></sub>
-* [NOAA might revise geostationary weather satellite timeline](https://spacenews.com/goes-u-compact-coronagraph/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T222218">2023-01-10 22:22:18 UTC</a></sub>
-* [SpaceX stacks Starship and Super Heavy booster for “wet dress rehearsal” test](https://www.teslarati.com/spacex-starship-fully-stacked-prelaunch-testing-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T221234">2023-01-10 22:12:34 UTC</a></sub>
-* [CAES Space Systems becomes Frontgrade Technologies](https://spacenews.com/caes-space-systems-becomes-frontgrade-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T212218">2023-01-10 21:22:18 UTC</a></sub>
-* [Full steam ahead for NOAA’s $20 billion GeoXO program](https://spacenews.com/20-billion-geoxo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T205221">2023-01-10 20:52:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T213039">2023-01-11 21:30:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T220136">2023-01-11 22:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
