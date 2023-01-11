@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia to launch replacement for damaged Soyuz crew ship at space station](https://spaceflightnow.com/2023/01/11/russia-to-launch-replacement-for-damaged-soyuz-crew-capsule-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T175215">2023-01-11 17:52:15 UTC</a></sub>
 * [NOAA takes stock of spectrum amid ongoing challenges](https://spacenews.com/noaa-spectrum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T173218">2023-01-11 17:32:18 UTC</a></sub>
 * [Russia will abandon Soyuz on orbit, fly up a new one to bring crew home](https://arstechnica.com/science/2023/01/russia-will-abandon-soyuz-on-orbit-fly-up-a-new-one-to-bring-crew-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T152524">2023-01-11 15:25:24 UTC</a></sub>
 * [Rocket builder ABL’s inaugural launch fails shortly after liftoff, damages launch pad](https://www.cnbc.com/2023/01/11/abl-space-inaugural-launch-fails-damages-alaska-launchpad.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T144246">2023-01-11 14:42:46 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX stacks Starship and Super Heavy booster for “wet dress rehearsal” test](https://www.teslarati.com/spacex-starship-fully-stacked-prelaunch-testing-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T221234">2023-01-10 22:12:34 UTC</a></sub>
 * [CAES Space Systems becomes Frontgrade Technologies](https://spacenews.com/caes-space-systems-becomes-frontgrade-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T212218">2023-01-10 21:22:18 UTC</a></sub>
 * [Full steam ahead for NOAA’s $20 billion GeoXO program](https://spacenews.com/20-billion-geoxo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T205221">2023-01-10 20:52:21 UTC</a></sub>
-* [airBaltic will equip its fleet with Starlink](https://www.teslarati.com/airbaltic-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T203233">2023-01-10 20:32:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T180111">2023-01-11 18:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T183520">2023-01-11 18:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
