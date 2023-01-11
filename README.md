@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Virginia is for Launch Lovers</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T230000">2023-01-23 23:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20230123T230000Z%2F20230124T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> <b>IGS Radar-7</b> from Tanegashima, Japan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T010000">2023-01-25 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar-7&location=Tanegashima, Japan&dates=20230125T010000Z%2F20230125T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-3</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-3&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -179,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Dragon spacecraft returns NASA cargo to Earth after six weeks in space](https://www.teslarati.com/spacex-crs-26-cargo-dragon-reentry-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T231235">2023-01-11 23:12:35 UTC</a></sub>
 * [Space Force official: To beat China, U.S. has to spend smarter](https://spacenews.com/space-force-official-to-beat-china-u-s-has-to-spend-smarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T223218">2023-01-11 22:32:18 UTC</a></sub>
 * [Japan’s Prime Minister, US Secretary of State to Visit NASA](http://www.nasa.gov/press-release/japan-s-prime-minister-us-secretary-of-state-to-visit-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T222200">2023-01-11 22:22:00 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket tests 27 engines for military rideshare launch](https://www.teslarati.com/spacex-falcon-heavy-static-fire-ussf-67/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T215233">2023-01-11 21:52:33 UTC</a></sub>
@@ -188,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Russia to launch replacement for damaged Soyuz crew ship at space station](https://spaceflightnow.com/2023/01/11/russia-to-launch-replacement-for-damaged-soyuz-crew-capsule-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T175215">2023-01-11 17:52:15 UTC</a></sub>
 * [NOAA takes stock of spectrum amid ongoing challenges](https://spacenews.com/noaa-spectrum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T173218">2023-01-11 17:32:18 UTC</a></sub>
 * [Russia will abandon Soyuz on orbit, fly up a new one to bring crew home](https://arstechnica.com/science/2023/01/russia-will-abandon-soyuz-on-orbit-fly-up-a-new-one-to-bring-crew-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T152524">2023-01-11 15:25:24 UTC</a></sub>
-* [Rocket builder ABL’s inaugural launch fails shortly after liftoff, damages launch pad](https://www.cnbc.com/2023/01/11/abl-space-inaugural-launch-fails-damages-alaska-launchpad.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T144246">2023-01-11 14:42:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T230058">2023-01-11 23:00:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T233043">2023-01-11 23:30:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
