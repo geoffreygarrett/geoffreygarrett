@@ -178,6 +178,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX flexes might with simultaneous Starship, Falcon 9, Falcon Heavy, Dragon operations](https://www.teslarati.com/spacex-four-pads-four-rockets-two-dragons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T235233">2023-01-10 23:52:33 UTC</a></sub>
 * [NOAA might revise geostationary weather satellite timeline](https://spacenews.com/goes-u-compact-coronagraph/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T222218">2023-01-10 22:22:18 UTC</a></sub>
 * [SpaceX stacks Starship and Super Heavy booster for “wet dress rehearsal” test](https://www.teslarati.com/spacex-starship-fully-stacked-prelaunch-testing-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T221234">2023-01-10 22:12:34 UTC</a></sub>
 * [CAES Space Systems becomes Frontgrade Technologies](https://spacenews.com/caes-space-systems-becomes-frontgrade-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T212218">2023-01-10 21:22:18 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Host Media Update on Space Station Plans, Soyuz Status](http://www.nasa.gov/press-release/nasa-to-host-media-update-on-space-station-plans-soyuz-status) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T190200">2023-01-10 19:02:00 UTC</a></sub>
 * [NASA’s commercial lunar program ready to start flying in 2023](https://www.nasaspaceflight.com/2023/01/clps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T184357">2023-01-10 18:43:57 UTC</a></sub>
 * [Rep. Mike Rogers named chairman of House Armed Services Committee](https://spacenews.com/rep-mike-rogers-named-chairman-of-house-armed-services-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T183218">2023-01-10 18:32:18 UTC</a></sub>
-* [NASA, NOAA to Announce 2022 Global Temperatures, Climate Conditions](http://www.nasa.gov/press-release/nasa-noaa-to-announce-2022-global-temperatures-climate-conditions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T180200">2023-01-10 18:02:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T233042">2023-01-10 23:30:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T000151">2023-01-11 00:01:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
