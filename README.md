@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Here’s the story of a lunar image that doesn’t look remarkable, but really is](https://arstechnica.com/science/2023/01/koreas-new-orbiter-just-gave-us-a-remarkable-view-of-the-moons-hidden-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T141116">2023-01-12 14:11:16 UTC</a></sub>
 * [Virgin Orbit blames launch failure on upper stage anomaly](https://spacenews.com/virgin-orbit-blames-launch-failure-on-upper-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T130217">2023-01-12 13:02:17 UTC</a></sub>
 * [SpaceX Dragon spacecraft returns NASA cargo to Earth after six weeks in space](https://www.teslarati.com/spacex-crs-26-cargo-dragon-reentry-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T231235">2023-01-11 23:12:35 UTC</a></sub>
 * [Space Force official: To beat China, U.S. has to spend smarter](https://spacenews.com/space-force-official-to-beat-china-u-s-has-to-spend-smarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T223218">2023-01-11 22:32:18 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Europe’s investment arm loans SES 300 million euros to bolster space industry](https://spacenews.com/europes-investment-arm-loans-ses-300-million-euros-to-bolster-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T212218">2023-01-11 21:22:18 UTC</a></sub>
 * [NASA Awards Contracts for Human Capital Support Services](http://www.nasa.gov/press-release/nasa-awards-contracts-for-human-capital-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T211200">2023-01-11 21:12:00 UTC</a></sub>
 * [Russia to launch replacement for damaged Soyuz crew ship at space station](https://spaceflightnow.com/2023/01/11/russia-to-launch-replacement-for-damaged-soyuz-crew-capsule-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T175215">2023-01-11 17:52:15 UTC</a></sub>
-* [NOAA takes stock of spectrum amid ongoing challenges](https://spacenews.com/noaa-spectrum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T173218">2023-01-11 17:32:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T140121">2023-01-12 14:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T143603">2023-01-12 14:36:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
