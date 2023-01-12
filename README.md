@@ -179,6 +179,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [El reto TechRise de la NASA premia a estudiantes con una oportunidad de volar](http://www.nasa.gov/press-release/el-reto-techrise-de-la-nasa-premia-a-estudiantes-con-una-oportunidad-de-volar) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T214200">2023-01-12 21:42:00 UTC</a></sub>
+* [NASA Awards Safety, Mission Assurance, Services Contract](http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T212200">2023-01-12 21:22:00 UTC</a></sub>
 * [NSF and SpaceX reach agreement to reduce Starlink effects on astronomy](https://spacenews.com/nsf-and-spacex-reach-agreement-to-reduce-starlink-effects-on-astronomy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T200220">2023-01-12 20:02:20 UTC</a></sub>
 * [NASA Awards Students Flight Opportunity in TechRise Challenge](http://www.nasa.gov/press-release/nasa-awards-students-flight-opportunity-in-techrise-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T194200">2023-01-12 19:42:00 UTC</a></sub>
 * [InSight Principal Investigator talks Mars lander’s final days](https://www.nasaspaceflight.com/2023/01/insight-final-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T181952">2023-01-12 18:19:52 UTC</a></sub>
@@ -187,8 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Investing in Space: Digital orbital danger](https://www.cnbc.com/2023/01/12/investing-in-space-digital-orbital-danger-spideroak-fundraise.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T161843">2023-01-12 16:18:43 UTC</a></sub>
 * [NASA Says 2022 Fifth Warmest Year on Record, Warming Trend Continues](http://www.nasa.gov/press-release/nasa-says-2022-fifth-warmest-year-on-record-warming-trend-continues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T161200">2023-01-12 16:12:00 UTC</a></sub>
 * [La NASA afirma que 2022 es el quinto año más cálido registrado](http://www.nasa.gov/nasa.gov/press-release/2022-quinto-mas-calido-registrado) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T161200">2023-01-12 16:12:00 UTC</a></sub>
-* [Here’s the story of a lunar image that doesn’t look remarkable, but really is](https://arstechnica.com/science/2023/01/koreas-new-orbiter-just-gave-us-a-remarkable-view-of-the-moons-hidden-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T141116">2023-01-12 14:11:16 UTC</a></sub>
-* [Virgin Orbit blames launch failure on upper stage anomaly](https://spacenews.com/virgin-orbit-blames-launch-failure-on-upper-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T130217">2023-01-12 13:02:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T213039">2023-01-12 21:30:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T220059">2023-01-12 22:00:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
