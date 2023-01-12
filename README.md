@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NSF and SpaceX reach agreement to reduce Starlink effects on astronomy](https://spacenews.com/nsf-and-spacex-reach-agreement-to-reduce-starlink-effects-on-astronomy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T200220">2023-01-12 20:02:20 UTC</a></sub>
 * [NASA Awards Students Flight Opportunity in TechRise Challenge](http://www.nasa.gov/press-release/nasa-awards-students-flight-opportunity-in-techrise-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T194200">2023-01-12 19:42:00 UTC</a></sub>
 * [InSight Principal Investigator talks Mars lander’s final days](https://www.nasaspaceflight.com/2023/01/insight-final-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T181952">2023-01-12 18:19:52 UTC</a></sub>
 * [U.S. Space Force considers a second NOAA weather satellite](https://spacenews.com/space-force-weather-ams/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T171220">2023-01-12 17:12:20 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [La NASA afirma que 2022 es el quinto año más cálido registrado](http://www.nasa.gov/nasa.gov/press-release/2022-quinto-mas-calido-registrado) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T161200">2023-01-12 16:12:00 UTC</a></sub>
 * [Here’s the story of a lunar image that doesn’t look remarkable, but really is](https://arstechnica.com/science/2023/01/koreas-new-orbiter-just-gave-us-a-remarkable-view-of-the-moons-hidden-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T141116">2023-01-12 14:11:16 UTC</a></sub>
 * [Virgin Orbit blames launch failure on upper stage anomaly](https://spacenews.com/virgin-orbit-blames-launch-failure-on-upper-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T130217">2023-01-12 13:02:17 UTC</a></sub>
-* [SpaceX Dragon spacecraft returns NASA cargo to Earth after six weeks in space](https://www.teslarati.com/spacex-crs-26-cargo-dragon-reentry-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T231235">2023-01-11 23:12:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T200057">2023-01-12 20:00:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T203111">2023-01-12 20:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
