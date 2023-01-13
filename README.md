@@ -178,6 +178,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: Starship may actually be near liftoff; China’s copycat booster designs](https://arstechnica.com/science/2023/01/rocket-report-starship-may-actually-be-near-liftoff-chinas-copycat-booster-designs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T120043">2023-01-13 12:00:43 UTC</a></sub>
 * [ESPA satellites maturing as the preferred ride for small national security payloads](https://spacenews.com/espa-satellites-maturing-as-the-preferred-ride-for-small-national-security-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T230219">2023-01-12 23:02:19 UTC</a></sub>
 * [NASA to Announce Major Eco-Friendly Aviation Project Update](http://www.nasa.gov/press-release/nasa-to-announce-major-eco-friendly-aviation-project-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T221200">2023-01-12 22:12:00 UTC</a></sub>
 * [El reto TechRise de la NASA premia a estudiantes con una oportunidad de volar](http://www.nasa.gov/press-release/el-reto-techrise-de-la-nasa-premia-a-estudiantes-con-una-oportunidad-de-volar) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T214200">2023-01-12 21:42:00 UTC</a></sub>
@@ -187,7 +188,6 @@ region. The mission's status is currently To Be Confirmed
 * [InSight Principal Investigator talks Mars lander’s final days](https://www.nasaspaceflight.com/2023/01/insight-final-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T181952">2023-01-12 18:19:52 UTC</a></sub>
 * [U.S. Space Force considers a second NOAA weather satellite](https://spacenews.com/space-force-weather-ams/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T171220">2023-01-12 17:12:20 UTC</a></sub>
 * [SpiderOak raises $16.4 million in Series C funding round](https://spacenews.com/spideroak-series-c/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T165218">2023-01-12 16:52:18 UTC</a></sub>
-* [Investing in Space: Digital orbital danger](https://www.cnbc.com/2023/01/12/investing-in-space-digital-orbital-danger-spideroak-fundraise.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T161843">2023-01-12 16:18:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -220,7 +220,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T120045">2023-01-13 12:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T124026">2023-01-13 12:40:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
