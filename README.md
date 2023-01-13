@@ -179,6 +179,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Provide Coverage of US Spacewalk, Preview News Conference](http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-us-spacewalk-preview-news-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T200200">2023-01-13 20:02:00 UTC</a></sub>
 * [Stratospheric ballooning company World View to go public in SPAC deal](https://spacenews.com/stratospheric-ballooning-company-world-view-to-go-public-in-spac-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T183219">2023-01-13 18:32:19 UTC</a></sub>
 * [NASA Selects Shawn Quinn to Lead Exploration Ground Systems Program](http://www.nasa.gov/press-release/nasa-selects-shawn-quinn-to-lead-exploration-ground-systems-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T163200">2023-01-13 16:32:00 UTC</a></sub>
 * [SpaceX edges closer to first Starship orbital launch attempt](https://spacenews.com/spacex-edges-closer-to-first-starship-orbital-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T131219">2023-01-13 13:12:19 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently To Be Confirmed
 * [El reto TechRise de la NASA premia a estudiantes con una oportunidad de volar](http://www.nasa.gov/press-release/el-reto-techrise-de-la-nasa-premia-a-estudiantes-con-una-oportunidad-de-volar) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T214200">2023-01-12 21:42:00 UTC</a></sub>
 * [NASA Awards Safety, Mission Assurance, Services Contract](http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T212200">2023-01-12 21:22:00 UTC</a></sub>
 * [NSF and SpaceX reach agreement to reduce Starlink effects on astronomy](https://spacenews.com/nsf-and-spacex-reach-agreement-to-reduce-starlink-effects-on-astronomy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T200220">2023-01-12 20:02:20 UTC</a></sub>
-* [NASA Awards Students Flight Opportunity in TechRise Challenge](http://www.nasa.gov/press-release/nasa-awards-students-flight-opportunity-in-techrise-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T194200">2023-01-12 19:42:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T200041">2023-01-13 20:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T203055">2023-01-13 20:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
