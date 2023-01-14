@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After a slow start, SpaceX’s Falcon Heavy rocket is about to hit its stride](https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T161917">2023-01-14 16:19:17 UTC</a></sub>
 * [US, Japan Sign Space Collaboration Agreement at NASA Headquarters](http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T231200">2023-01-13 23:12:00 UTC</a></sub>
 * [Dragonfly mission heads toward PDR, element fabrication from Lockheed Martin set to begin](https://www.nasaspaceflight.com/2023/01/dragonfly-update-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T223129">2023-01-13 22:31:29 UTC</a></sub>
 * [NorthStar using Axelspace’s Earth-imaging satellites to monitor orbits](https://spacenews.com/northstar-using-axelspaces-earth-imaging-satellites-to-monitor-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T214218">2023-01-13 21:42:18 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Selects Shawn Quinn to Lead Exploration Ground Systems Program](http://www.nasa.gov/press-release/nasa-selects-shawn-quinn-to-lead-exploration-ground-systems-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T163200">2023-01-13 16:32:00 UTC</a></sub>
 * [U.S. military payloads mated to SpaceX Falcon Heavy rocket for weekend launch](https://spaceflightnow.com/2023/01/13/u-s-military-payloads-mated-to-spacex-falcon-heavy-rocket-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T142215">2023-01-13 14:22:15 UTC</a></sub>
 * [SpaceX edges closer to first Starship orbital launch attempt](https://spacenews.com/spacex-edges-closer-to-first-starship-orbital-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T131219">2023-01-13 13:12:19 UTC</a></sub>
-* [Rocket Report: Starship may actually be near liftoff; China’s copycat booster designs](https://arstechnica.com/science/2023/01/rocket-report-starship-may-actually-be-near-liftoff-chinas-copycat-booster-designs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T120043">2023-01-13 12:00:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T160058">2023-01-14 16:00:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T163457">2023-01-14 16:34:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
