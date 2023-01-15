@@ -181,7 +181,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [NASA studying thruster problem with lunar cubesat](https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T230219">2023-01-14 23:02:19 UTC</a></sub>
-* [Falcon Heavy launch of USSF-67 slips to Sunday](https://www.nasaspaceflight.com/2023/01/ussf-67-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T185138">2023-01-14 18:51:38 UTC</a></sub>
+* [Falcon Heavy set for USSF-67 launch from 39A](https://www.nasaspaceflight.com/2023/01/ussf-67-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T185138">2023-01-14 18:51:38 UTC</a></sub>
 * [After a slow start, SpaceX’s Falcon Heavy rocket is about to hit its stride](https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T161917">2023-01-14 16:19:17 UTC</a></sub>
 * [US, Japan Sign Space Collaboration Agreement at NASA Headquarters](http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T231200">2023-01-13 23:12:00 UTC</a></sub>
 * [Dragonfly mission heads toward PDR, element fabrication from Lockheed Martin set to begin](https://www.nasaspaceflight.com/2023/01/dragonfly-update-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T223129">2023-01-13 22:31:29 UTC</a></sub>
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T200034">2023-01-15 20:00:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T203102">2023-01-15 20:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
