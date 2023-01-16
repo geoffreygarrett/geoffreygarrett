@@ -181,14 +181,14 @@ region. The mission's status is currently To Be Confirmed
 <!-- spaceflight news starts -->
 * [SpaceX launches U.S. Space Force’s first mission of 2023 on Falcon Heavy](https://spacenews.com/spacex-launches-u-s-space-forces-first-mission-of-2023-on-falcon-heavy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T232219">2023-01-15 23:22:19 UTC</a></sub>
 * [Watch live: SpaceX set to launch first of five Falcon Heavy missions this year](https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T210017">2023-01-15 21:00:17 UTC</a></sub>
+* [SpaceX Falcon Heavy rocket completes most spectacular launch yet](https://www.teslarati.com/spacex-falcon-heavy-launch-spectacular-jellyfish/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T004234">2023-01-15 00:42:34 UTC</a></sub>
+* [United States and Japan sign space cooperation framework agreement](https://spacenews.com/united-states-and-japan-sign-space-cooperation-framework-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T004218">2023-01-15 00:42:18 UTC</a></sub>
 * [NASA studying thruster problem with lunar cubesat](https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T230219">2023-01-14 23:02:19 UTC</a></sub>
 * [SpaceX Falcon Heavy launches USSF-67 from 39A](https://www.nasaspaceflight.com/2023/01/ussf-67-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T185138">2023-01-14 18:51:38 UTC</a></sub>
 * [US, Japan Sign Space Collaboration Agreement at NASA Headquarters](http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T231200">2023-01-13 23:12:00 UTC</a></sub>
 * [Dragonfly mission heads toward PDR, element fabrication from Lockheed Martin set to begin](https://www.nasaspaceflight.com/2023/01/dragonfly-update-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T223129">2023-01-13 22:31:29 UTC</a></sub>
 * [NorthStar using Axelspace’s Earth-imaging satellites to monitor orbits](https://spacenews.com/northstar-using-axelspaces-earth-imaging-satellites-to-monitor-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T214218">2023-01-13 21:42:18 UTC</a></sub>
 * [Space Force weighing new approach for selecting national security launch providers](https://spacenews.com/space-force-weighing-new-approach-for-selecting-national-security-launch-providers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T203219">2023-01-13 20:32:19 UTC</a></sub>
-* [NASA to Provide Coverage of US Spacewalk, Preview News Conference](http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-us-spacewalk-preview-news-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T200200">2023-01-13 20:02:00 UTC</a></sub>
-* [Stratospheric ballooning company World View to go public in SPAC deal](https://spacenews.com/stratospheric-ballooning-company-world-view-to-go-public-in-spac-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T183219">2023-01-13 18:32:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T000146">2023-01-16 00:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T004458">2023-01-16 00:44:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
