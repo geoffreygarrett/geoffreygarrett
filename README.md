@@ -180,6 +180,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA prepares next steps in development of future large space telescope](https://spacenews.com/nasa-prepares-next-steps-in-development-of-future-large-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T183218">2023-01-16 18:32:18 UTC</a></sub>
+* [From start to finish, Sunday’s Falcon Heavy launch delivered spectacular imagery](https://arstechnica.com/science/2023/01/from-start-to-finish-sundays-falcon-heavy-launch-delivered-spectacular-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T181409">2023-01-16 18:14:09 UTC</a></sub>
 * [SpaceX launches U.S. Space Force’s first mission of 2023 on Falcon Heavy](https://spacenews.com/spacex-launches-u-s-space-forces-first-mission-of-2023-on-falcon-heavy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T232219">2023-01-15 23:22:19 UTC</a></sub>
 * [Watch live: SpaceX set to launch first of five Falcon Heavy missions this year](https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T210017">2023-01-15 21:00:17 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket kicks off fifth mission with most spectacular launch yet](https://www.teslarati.com/spacex-falcon-heavy-launch-spectacular-jellyfish/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T005234">2023-01-15 00:52:34 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX Falcon Heavy launches USSF-67 from 39A](https://www.nasaspaceflight.com/2023/01/ussf-67-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T185138">2023-01-14 18:51:38 UTC</a></sub>
 * [US, Japan Sign Space Collaboration Agreement at NASA Headquarters](http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T231200">2023-01-13 23:12:00 UTC</a></sub>
 * [Dragonfly mission heads toward PDR, element fabrication from Lockheed Martin set to begin](https://www.nasaspaceflight.com/2023/01/dragonfly-update-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T223129">2023-01-13 22:31:29 UTC</a></sub>
-* [NorthStar using Axelspace’s Earth-imaging satellites to monitor orbits](https://spacenews.com/northstar-using-axelspaces-earth-imaging-satellites-to-monitor-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T214218">2023-01-13 21:42:18 UTC</a></sub>
-* [Space Force weighing new approach for selecting national security launch providers](https://spacenews.com/space-force-weighing-new-approach-for-selecting-national-security-launch-providers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T203219">2023-01-13 20:32:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T180055">2023-01-16 18:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T183246">2023-01-16 18:32:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
