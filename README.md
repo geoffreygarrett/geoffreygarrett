@@ -181,7 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <!-- spaceflight news starts -->
 * [SpaceX launches U.S. Space Force’s first mission of 2023 on Falcon Heavy](https://spacenews.com/spacex-launches-u-s-space-forces-first-mission-of-2023-on-falcon-heavy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T232219">2023-01-15 23:22:19 UTC</a></sub>
 * [Watch live: SpaceX set to launch first of five Falcon Heavy missions this year](https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T210017">2023-01-15 21:00:17 UTC</a></sub>
-* [SpaceX Falcon Heavy rocket completes most spectacular launch yet](https://www.teslarati.com/spacex-falcon-heavy-launch-spectacular-jellyfish/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T004234">2023-01-15 00:42:34 UTC</a></sub>
+* [SpaceX Falcon Heavy rocket kicks off fifth mission with most spectacular launch yet](https://www.teslarati.com/spacex-falcon-heavy-launch-spectacular-jellyfish/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T005234">2023-01-15 00:52:34 UTC</a></sub>
 * [United States and Japan sign space cooperation framework agreement](https://spacenews.com/united-states-and-japan-sign-space-cooperation-framework-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T004218">2023-01-15 00:42:18 UTC</a></sub>
 * [NASA studying thruster problem with lunar cubesat](https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T230219">2023-01-14 23:02:19 UTC</a></sub>
 * [SpaceX Falcon Heavy launches USSF-67 from 39A](https://www.nasaspaceflight.com/2023/01/ussf-67-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T185138">2023-01-14 18:51:38 UTC</a></sub>
@@ -221,7 +221,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T004458">2023-01-16 00:44:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T012744">2023-01-16 01:27:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
