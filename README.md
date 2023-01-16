@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Study: Space industry deploying more satellites that deliver sharper images](https://spacenews.com/study-space-industry-deploying-more-satellites-that-deliver-sharper-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T191218">2023-01-16 19:12:18 UTC</a></sub>
 * [NASA prepares next steps in development of future large space telescope](https://spacenews.com/nasa-prepares-next-steps-in-development-of-future-large-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T183218">2023-01-16 18:32:18 UTC</a></sub>
 * [From start to finish, Sunday’s Falcon Heavy launch delivered spectacular imagery](https://arstechnica.com/science/2023/01/from-start-to-finish-sundays-falcon-heavy-launch-delivered-spectacular-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T181409">2023-01-16 18:14:09 UTC</a></sub>
 * [SpaceX launches U.S. Space Force’s first mission of 2023 on Falcon Heavy](https://spacenews.com/spacex-launches-u-s-space-forces-first-mission-of-2023-on-falcon-heavy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T232219">2023-01-15 23:22:19 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA studying thruster problem with lunar cubesat](https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T230219">2023-01-14 23:02:19 UTC</a></sub>
 * [SpaceX Falcon Heavy launches USSF-67 from 39A](https://www.nasaspaceflight.com/2023/01/ussf-67-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T185138">2023-01-14 18:51:38 UTC</a></sub>
 * [US, Japan Sign Space Collaboration Agreement at NASA Headquarters](http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T231200">2023-01-13 23:12:00 UTC</a></sub>
-* [Dragonfly mission heads toward PDR, element fabrication from Lockheed Martin set to begin](https://www.nasaspaceflight.com/2023/01/dragonfly-update-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T223129">2023-01-13 22:31:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T190041">2023-01-16 19:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T193044">2023-01-16 19:30:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
