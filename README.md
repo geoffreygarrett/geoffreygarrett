@@ -181,6 +181,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Starship factory aiming to build five megarockets in 2023](https://www.teslarati.com/spacex-starship-factory-2023-production-target-elon-musk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T233237">2023-01-16 23:32:37 UTC</a></sub>
 * [SpaceX’s spectacular USSF-67 Falcon Heavy launch in photos](https://www.teslarati.com/spacexs-spectacular-ussf-67-falcon-heavy-launch-in-photos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T225234">2023-01-16 22:52:34 UTC</a></sub>
 * [Webb peers at young star’s dusty disk, discovers an exoplanet, and uncovers star formation](https://www.nasaspaceflight.com/2023/01/jwst-science-aas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T210056">2023-01-16 21:00:56 UTC</a></sub>
 * [Study: Space industry deploying more satellites that deliver sharper images](https://spacenews.com/study-space-industry-deploying-more-satellites-that-deliver-sharper-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T191218">2023-01-16 19:12:18 UTC</a></sub>
@@ -190,7 +191,6 @@ region. The mission's status is currently To Be Confirmed
 * [Watch live: SpaceX set to launch first of five Falcon Heavy missions this year](https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T210017">2023-01-15 21:00:17 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket kicks off fifth mission with most spectacular launch yet](https://www.teslarati.com/spacex-falcon-heavy-launch-spectacular-jellyfish/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T005234">2023-01-15 00:52:34 UTC</a></sub>
 * [United States and Japan sign space cooperation framework agreement](https://spacenews.com/united-states-and-japan-sign-space-cooperation-framework-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T004218">2023-01-15 00:42:18 UTC</a></sub>
-* [NASA studying thruster problem with lunar cubesat](https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T230219">2023-01-14 23:02:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -223,7 +223,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T233040">2023-01-16 23:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T000146">2023-01-17 00:01:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
