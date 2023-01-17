@@ -180,6 +180,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. delivers first of two space sensors to be hosted on Japanese satellites](https://spacenews.com/u-s-delivers-first-of-two-space-sensors-to-be-hosted-on-japanese-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T182219">2023-01-17 18:22:19 UTC</a></sub>
 * [CesiumAstro acquires U.K. startup TXMission](https://spacenews.com/cesiumastro-buys-txmission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T154218">2023-01-17 15:42:18 UTC</a></sub>
 * [China launch plans more than 70 launches in 2023](https://spacenews.com/china-launch-plans-more-than-70-launches-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T141218">2023-01-17 14:12:18 UTC</a></sub>
 * [Sweden opens orbital launch site looking for users](https://spacenews.com/sweden-opens-orbital-launch-site-looking-for-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T131218">2023-01-17 13:12:18 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently To Be Confirmed
 * [Study: Space industry deploying more satellites that deliver sharper images](https://spacenews.com/study-space-industry-deploying-more-satellites-that-deliver-sharper-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T191218">2023-01-16 19:12:18 UTC</a></sub>
 * [NASA prepares next steps in development of future large space telescope](https://spacenews.com/nasa-prepares-next-steps-in-development-of-future-large-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T183218">2023-01-16 18:32:18 UTC</a></sub>
 * [From start to finish, Sunday’s Falcon Heavy launch delivered spectacular imagery](https://arstechnica.com/science/2023/01/from-start-to-finish-sundays-falcon-heavy-launch-delivered-spectacular-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T181409">2023-01-16 18:14:09 UTC</a></sub>
-* [SpaceX launches U.S. Space Force’s first mission of 2023 on Falcon Heavy](https://spacenews.com/spacex-launches-u-s-space-forces-first-mission-of-2023-on-falcon-heavy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T232219">2023-01-15 23:22:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T180115">2023-01-17 18:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T183252">2023-01-17 18:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
