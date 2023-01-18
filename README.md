@@ -189,7 +189,7 @@ region. The mission's status is currently Go for Launch
 * [CesiumAstro acquires U.K. startup TXMission](https://spacenews.com/cesiumastro-buys-txmission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T154218">2023-01-17 15:42:18 UTC</a></sub>
 * [China launch plans more than 70 launches in 2023](https://spacenews.com/china-launch-plans-more-than-70-launches-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T141218">2023-01-17 14:12:18 UTC</a></sub>
 * [Sweden opens orbital launch site looking for users](https://spacenews.com/sweden-opens-orbital-launch-site-looking-for-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T131218">2023-01-17 13:12:18 UTC</a></sub>
-* [SpaceX ships head to sea for fifth upgraded GPS satellite launch [webcast]](https://www.teslarati.com/spacex-ships-head-to-sea-fifth-upgraded-gps-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T020235">2023-01-17 02:02:35 UTC</a></sub>
+* [GPS navigation satellite set for launch on SpaceX rocket](https://spaceflightnow.com/2023/01/17/gps-navigation-satellite-set-for-launch-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T071215">2023-01-17 07:12:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T070051">2023-01-18 07:00:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T073043">2023-01-18 07:30:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
