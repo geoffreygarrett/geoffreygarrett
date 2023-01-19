@@ -93,26 +93,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Starlink Group 2-4 at the
-<a href="">Space Launch Complex 4E</a> in
-Vandenberg SFB, CA, USA
+Electron | Virginia is for Launch Lovers at the
+<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a> in
+Wallops Island, Virginia, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T154310">2023-01-19 15:43:10 UTC</a>. Until
-then, this launch pad will have seen 100
-out of 709 launches in this
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T230000">2023-01-23 23:00:00 UTC</a>. Until
+then, this launch pad will have seen 0
+out of 73 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Rideshare mission with 3 HawkEye 360 satellites and other payloads.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -125,7 +125,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-4</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T154310">2023-01-19 15:43:10 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20230119T154310Z%2F20230119T154310Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Virginia is for Launch Lovers</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T230000">2023-01-23 23:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20230123T230000Z%2F20230124T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T095200">2023-01-24 09:52:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-2&location=Cape Canaveral, FL, USA&dates=20230124T095200Z%2F20230124T144200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> <b>IGS Radar-7</b> from Tanegashima, Japan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T010000">2023-01-25 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar-7&location=Tanegashima, Japan&dates=20230125T010000Z%2F20230125T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -222,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T153306">2023-01-19 15:33:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T160049">2023-01-19 16:00:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
