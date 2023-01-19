@@ -97,7 +97,7 @@ Falcon 9 Block 5 | Starlink Group 2-4 at the
 <a href="">Space Launch Complex 4E</a> in
 Vandenberg SFB, CA, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T154300">2023-01-19 15:43:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T154310">2023-01-19 15:43:10 UTC</a>. Until
 then, this launch pad will have seen 100
 out of 709 launches in this
 region. The mission's status is currently Go for Launch
@@ -125,9 +125,9 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-4</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T154300">2023-01-19 15:43:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20230119T154300Z%2F20230119T154300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-4</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T154310">2023-01-19 15:43:10 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20230119T154310Z%2F20230119T154310Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Virginia is for Launch Lovers</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T230000">2023-01-23 23:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20230123T230000Z%2F20230124T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
-* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T095200">2023-01-24 09:52:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-2&location=Cape Canaveral, FL, USA&dates=20230124T095200Z%2F20230124T144200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T095200">2023-01-24 09:52:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-2&location=Cape Canaveral, FL, USA&dates=20230124T095200Z%2F20230124T144200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> <b>IGS Radar-7</b> from Tanegashima, Japan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T010000">2023-01-25 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar-7&location=Tanegashima, Japan&dates=20230125T010000Z%2F20230125T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-3</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-3&location=Kennedy Space Center, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -180,6 +180,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [With Starshield, SpaceX readies for battle](https://spacenews.com/with-starshield-spacex-readies-for-battle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150219">2023-01-19 15:02:19 UTC</a></sub>
+* [Amid economic downturn, space investment plummeted in 2022](https://arstechnica.com/science/2023/01/amid-economic-downturn-space-investment-plummeted-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150040">2023-01-19 15:00:40 UTC</a></sub>
 * [Space Capital sees upside to 2022 decline in space investment](https://spacenews.com/space-capital-q4-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T140225">2023-01-19 14:02:25 UTC</a></sub>
 * [NASA faces “difficult choices” for current and future Earth science missions](https://spacenews.com/nasa-faces-difficult-choices-for-current-and-future-earth-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T132218">2023-01-19 13:22:18 UTC</a></sub>
 * [ClearSpace raises $29 million ahead of first debris removal mission](https://spacenews.com/clearspace-raises-29-million-ahead-of-first-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T090218">2023-01-19 09:02:18 UTC</a></sub>
@@ -188,8 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Briefings, Interviews Set for NASA’s SpaceX Crew-6 Mission](http://www.nasa.gov/press-release/briefings-interviews-set-for-nasa-s-spacex-crew-6-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T212200">2023-01-18 21:22:00 UTC</a></sub>
 * [SpaceX follows up Falcon Heavy spectacle with sunrise Falcon 9 launch](https://www.teslarati.com/spacex-gps-iii-sv06-falcon-9-sunrise-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T211237">2023-01-18 21:12:37 UTC</a></sub>
 * [Space Force procurement chief looking for big wins in 2023](https://spacenews.com/space-force-procurement-chief-looking-for-big-wins-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T203219">2023-01-18 20:32:19 UTC</a></sub>
-* [Starship preparing for the business end of pre-launch testing](https://www.nasaspaceflight.com/2023/01/starship-update-jan-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T192740">2023-01-18 19:27:40 UTC</a></sub>
-* [NASA Issues Award for Greener, More Fuel-Efficient Airliner of Future](http://www.nasa.gov/press-release/nasa-issues-award-for-greener-more-fuel-efficient-airliner-of-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T165200">2023-01-18 16:52:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -200,6 +200,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Tianwen-2: China’s Near-Earth asteroid and comet double-header](https://www.planetary.org/articles/tianwen-2-chinas-near-earth-asteroid-and-comet-double-header) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T152233">2023-01-19 15:22:33 UTC</a></sub>
 * [Vulcan Centaur: The countdown to the first Certification Flight is on!](https://blog.ulalaunch.com/blog/vulcan-centaur-the-countdown-to-the-first-certification-flight-is-on) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T161245">2023-01-13 16:12:45 UTC</a></sub>
 * [Extraterrestrial frosts](https://www.planetary.org/the-downlink/extraterrestrial-frosts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T153232">2023-01-13 15:32:32 UTC</a></sub>
 * [Here are some of our favorite LightSail 2 pictures](https://www.planetary.org/articles/favorite-lightsail-2-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T152233">2023-01-12 15:22:33 UTC</a></sub>
@@ -209,7 +210,6 @@ region. The mission's status is currently Go for Launch
 * [Ending a year, looking to the future](https://www.planetary.org/the-downlink/ending-a-year-looking-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T153348">2022-12-30 15:33:48 UTC</a></sub>
 * [A long night, and “so long!” to InSight](https://www.planetary.org/the-downlink/a-long-night-and-so-long-to-insight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T153347">2022-12-23 15:33:47 UTC</a></sub>
 * [Cookie Declaration](https://www.planetary.org/cookie-declaration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153204">2022-12-20 15:32:04 UTC</a></sub>
-* [Privacy Policy](https://www.planetary.org/privacy-policy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153203">2022-12-20 15:32:03 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150107">2023-01-19 15:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T153306">2023-01-19 15:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
