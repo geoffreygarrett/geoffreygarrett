@@ -180,6 +180,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA faces “difficult choices” for current and future Earth science missions](https://spacenews.com/nasa-faces-difficult-choices-for-current-and-future-earth-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T132218">2023-01-19 13:22:18 UTC</a></sub>
 * [ClearSpace raises $29 million ahead of first debris removal mission](https://spacenews.com/clearspace-raises-29-million-ahead-of-first-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T090218">2023-01-19 09:02:18 UTC</a></sub>
 * [SpaceX delivers GPS satellite to 12,000-mile-high orbit](https://spaceflightnow.com/2023/01/18/falcon-9-gps-3-sv06/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T232215">2023-01-18 23:22:15 UTC</a></sub>
 * [Anuvu gets deal to resell Starlink to maritime customers amid Telesat uncertainty](https://spacenews.com/anuvu-gets-deal-to-resell-starlink-to-maritime-customers-amid-telesat-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T223219">2023-01-18 22:32:19 UTC</a></sub>
@@ -189,7 +190,6 @@ region. The mission's status is currently Go for Launch
 * [Starship preparing for the business end of pre-launch testing](https://www.nasaspaceflight.com/2023/01/starship-update-jan-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T192740">2023-01-18 19:27:40 UTC</a></sub>
 * [NASA Issues Award for Greener, More Fuel-Efficient Airliner of Future](http://www.nasa.gov/press-release/nasa-issues-award-for-greener-more-fuel-efficient-airliner-of-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T165200">2023-01-18 16:52:00 UTC</a></sub>
 * [It looks like NASA will finally have an astronaut live in space for a full year](https://arstechnica.com/science/2023/01/it-looks-like-nasa-will-finally-have-an-astronaut-live-in-space-for-a-full-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T153956">2023-01-18 15:39:56 UTC</a></sub>
-* [Report calls on NASA to improve coordination of Artemis international partnerships](https://spacenews.com/reports-calls-on-nasa-to-improve-coordination-of-artemis-international-partnerships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T145218">2023-01-18 14:52:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -222,7 +222,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T130537">2023-01-19 13:05:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T133328">2023-01-19 13:33:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
