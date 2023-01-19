@@ -179,6 +179,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Participate in Aerospace Conference, Discuss New Collaboration](http://www.nasa.gov/press-release/nasa-to-participate-in-aerospace-conference-discuss-new-collaboration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T222200">2023-01-19 22:22:00 UTC</a></sub>
+* [U.S. Space Force chief calls for greater collaboration with allies](https://spacenews.com/u-s-space-force-chief-calls-for-greater-collaboration-with-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T220219">2023-01-19 22:02:19 UTC</a></sub>
+* [SpaceX launches first Starlink mission of 2023 after eight delays](https://www.teslarati.com/spacex-first-starlink-launch-2023-eight-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T215234">2023-01-19 21:52:34 UTC</a></sub>
 * [HawkEye 360 satellites to provide data for U.S. Space Force threat-detection system](https://spacenews.com/hawkeye-360-satellites-to-provide-data-for-u-s-space-force-threat-detection-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T212219">2023-01-19 21:22:19 UTC</a></sub>
 * [Geostationary sounder is a key ingredient of near-term forecasts](https://spacenews.com/geoxo-sounder/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T210218">2023-01-19 21:02:18 UTC</a></sub>
 * [Eutelsat 5 West A successfully retired in graveyard orbit](https://spacenews.com/eutelsat-5-west-a-successfully-retired-in-graveyard-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T205218">2023-01-19 20:52:18 UTC</a></sub>
@@ -186,9 +189,6 @@ region. The mission's status is currently Go for Launch
 * [With Starshield, SpaceX readies for battle](https://spacenews.com/with-starshield-spacex-readies-for-battle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150219">2023-01-19 15:02:19 UTC</a></sub>
 * [Amid economic downturn, space investment plummeted in 2022](https://arstechnica.com/science/2023/01/amid-economic-downturn-space-investment-plummeted-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150040">2023-01-19 15:00:40 UTC</a></sub>
 * [Space Capital sees upside to 2022 decline in space investment](https://spacenews.com/space-capital-q4-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T140225">2023-01-19 14:02:25 UTC</a></sub>
-* [NASA faces “difficult choices” for current and future Earth science missions](https://spacenews.com/nasa-faces-difficult-choices-for-current-and-future-earth-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T132218">2023-01-19 13:22:18 UTC</a></sub>
-* [ClearSpace raises $29 million ahead of first debris removal mission](https://spacenews.com/clearspace-raises-29-million-ahead-of-first-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T090218">2023-01-19 09:02:18 UTC</a></sub>
-* [SpaceX delivers GPS satellite to 12,000-mile-high orbit](https://spaceflightnow.com/2023/01/18/falcon-9-gps-3-sv06/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T232215">2023-01-18 23:22:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T220040">2023-01-19 22:00:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T223114">2023-01-19 22:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
