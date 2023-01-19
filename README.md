@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Eutelsat 5 West A successfully retired in graveyard orbit](https://spacenews.com/eutelsat-5-west-a-successfully-retired-in-graveyard-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T205218">2023-01-19 20:52:18 UTC</a></sub>
 * [Investing in Space: Looking up in 2023](https://www.cnbc.com/2023/01/19/investing-in-space-looking-up-in-2023.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T161056">2023-01-19 16:10:56 UTC</a></sub>
 * [With Starshield, SpaceX readies for battle](https://spacenews.com/with-starshield-spacex-readies-for-battle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150219">2023-01-19 15:02:19 UTC</a></sub>
 * [Amid economic downturn, space investment plummeted in 2022](https://arstechnica.com/science/2023/01/amid-economic-downturn-space-investment-plummeted-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150040">2023-01-19 15:00:40 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX delivers GPS satellite to 12,000-mile-high orbit](https://spaceflightnow.com/2023/01/18/falcon-9-gps-3-sv06/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T232215">2023-01-18 23:22:15 UTC</a></sub>
 * [Anuvu gets deal to resell Starlink to maritime customers amid Telesat uncertainty](https://spacenews.com/anuvu-gets-deal-to-resell-starlink-to-maritime-customers-amid-telesat-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T223219">2023-01-18 22:32:19 UTC</a></sub>
 * [Briefings, Interviews Set for NASA’s SpaceX Crew-6 Mission](http://www.nasa.gov/press-release/briefings-interviews-set-for-nasa-s-spacex-crew-6-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T212200">2023-01-18 21:22:00 UTC</a></sub>
-* [SpaceX follows up Falcon Heavy spectacle with sunrise Falcon 9 launch](https://www.teslarati.com/spacex-gps-iii-sv06-falcon-9-sunrise-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T211237">2023-01-18 21:12:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T203035">2023-01-19 20:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T210047">2023-01-19 21:00:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
