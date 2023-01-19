@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese startups conduct hot fire tests for mini version of SpaceX’s Starship](https://spacenews.com/chinese-startups-conduct-hot-fire-tests-for-mini-version-of-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T223218">2023-01-19 22:32:18 UTC</a></sub>
 * [NASA to Participate in Aerospace Conference, Discuss New Collaboration](http://www.nasa.gov/press-release/nasa-to-participate-in-aerospace-conference-discuss-new-collaboration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T222200">2023-01-19 22:22:00 UTC</a></sub>
 * [U.S. Space Force chief calls for greater collaboration with allies](https://spacenews.com/u-s-space-force-chief-calls-for-greater-collaboration-with-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T220219">2023-01-19 22:02:19 UTC</a></sub>
 * [SpaceX launches first Starlink mission of 2023 after eight delays](https://www.teslarati.com/spacex-first-starlink-launch-2023-eight-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T215234">2023-01-19 21:52:34 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Investing in Space: Looking up in 2023](https://www.cnbc.com/2023/01/19/investing-in-space-looking-up-in-2023.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T161056">2023-01-19 16:10:56 UTC</a></sub>
 * [With Starshield, SpaceX readies for battle](https://spacenews.com/with-starshield-spacex-readies-for-battle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150219">2023-01-19 15:02:19 UTC</a></sub>
 * [Amid economic downturn, space investment plummeted in 2022](https://arstechnica.com/science/2023/01/amid-economic-downturn-space-investment-plummeted-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150040">2023-01-19 15:00:40 UTC</a></sub>
-* [Space Capital sees upside to 2022 decline in space investment](https://spacenews.com/space-capital-q4-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T140225">2023-01-19 14:02:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T223114">2023-01-19 22:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T233056">2023-01-19 23:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
