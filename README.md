@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Looking up in 2023](https://www.cnbc.com/2023/01/19/investing-in-space-looking-up-in-2023.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T161056">2023-01-19 16:10:56 UTC</a></sub>
 * [With Starshield, SpaceX readies for battle](https://spacenews.com/with-starshield-spacex-readies-for-battle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150219">2023-01-19 15:02:19 UTC</a></sub>
 * [Amid economic downturn, space investment plummeted in 2022](https://arstechnica.com/science/2023/01/amid-economic-downturn-space-investment-plummeted-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150040">2023-01-19 15:00:40 UTC</a></sub>
 * [Space Capital sees upside to 2022 decline in space investment](https://spacenews.com/space-capital-q4-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T140225">2023-01-19 14:02:25 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Anuvu gets deal to resell Starlink to maritime customers amid Telesat uncertainty](https://spacenews.com/anuvu-gets-deal-to-resell-starlink-to-maritime-customers-amid-telesat-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T223219">2023-01-18 22:32:19 UTC</a></sub>
 * [Briefings, Interviews Set for NASA’s SpaceX Crew-6 Mission](http://www.nasa.gov/press-release/briefings-interviews-set-for-nasa-s-spacex-crew-6-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T212200">2023-01-18 21:22:00 UTC</a></sub>
 * [SpaceX follows up Falcon Heavy spectacle with sunrise Falcon 9 launch](https://www.teslarati.com/spacex-gps-iii-sv06-falcon-9-sunrise-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T211237">2023-01-18 21:12:37 UTC</a></sub>
-* [Space Force procurement chief looking for big wins in 2023](https://spacenews.com/space-force-procurement-chief-looking-for-big-wins-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T203219">2023-01-18 20:32:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T160049">2023-01-19 16:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T163642">2023-01-19 16:36:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
