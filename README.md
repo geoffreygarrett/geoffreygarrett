@@ -136,6 +136,7 @@ region. The mission's status is currently Go for Launch
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Amazonas Nexus</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T000000">2023-02-05 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Amazonas Nexus&location=Cape Canaveral, FL, USA&dates=20230205T000000Z%2F20230205T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Elektro-L No.4</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T091200">2023-02-05 09:12:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | Elektro-L No.4&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230205T091200Z%2F20230205T091200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-22 (83P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T061500">2023-02-09 06:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-22 (83P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230209T061500Z%2F20230209T061500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> <b>ALOS-3 (Maiden flight)</b> from Tanegashima, Japan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T013755">2023-02-12 01:37:55 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230212T013755Z%2F20230212T014415Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -181,6 +182,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astronauts conduct EVA to lay groundwork for final set of iROSA arrays](https://www.nasaspaceflight.com/2023/01/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T154841">2023-01-20 15:48:41 UTC</a></sub>
 * [Watch live: Astronauts on spacewalk to prep for new ISS solar arrays](https://spaceflightnow.com/2023/01/20/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T145215">2023-01-20 14:52:15 UTC</a></sub>
 * [ESA seeks global adoption of “zero debris” policy](https://spacenews.com/esa-seeks-global-adoption-of-zero-debris-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T132218">2023-01-20 13:22:18 UTC</a></sub>
 * [Rocket Report: SpaceX reaches ‘ludicrous’ cadence; ABL explains RS1 failure](https://arstechnica.com/science/2023/01/rocket-report-spacex-reaches-ludicrous-cadence-abl-explains-rs1-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T120001">2023-01-20 12:00:01 UTC</a></sub>
@@ -190,7 +192,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches first Starlink mission of 2023 after eight delays](https://www.teslarati.com/spacex-first-starlink-launch-2023-eight-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T215234">2023-01-19 21:52:34 UTC</a></sub>
 * [HawkEye 360 satellites to provide data for U.S. Space Force threat-detection system](https://spacenews.com/hawkeye-360-satellites-to-provide-data-for-u-s-space-force-threat-detection-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T212219">2023-01-19 21:22:19 UTC</a></sub>
 * [Geostationary sounder is a key ingredient of near-term forecasts](https://spacenews.com/geoxo-sounder/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T210218">2023-01-19 21:02:18 UTC</a></sub>
-* [Eutelsat 5 West A successfully retired in graveyard orbit](https://spacenews.com/eutelsat-5-west-a-successfully-retired-in-graveyard-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T205218">2023-01-19 20:52:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -201,6 +202,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [I spy with my technologically enhanced eye](https://www.planetary.org/the-downlink/i-spy-with-my-technologically-enhanced-eye) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T153235">2023-01-20 15:32:35 UTC</a></sub>
 * [Tianwen-2: China’s Near-Earth asteroid and comet double-header](https://www.planetary.org/articles/tianwen-2-chinas-near-earth-asteroid-and-comet-double-header) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T152233">2023-01-19 15:22:33 UTC</a></sub>
 * [Vulcan Centaur: The countdown to the first Certification Flight is on!](https://blog.ulalaunch.com/blog/vulcan-centaur-the-countdown-to-the-first-certification-flight-is-on) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T161245">2023-01-13 16:12:45 UTC</a></sub>
 * [Extraterrestrial frosts](https://www.planetary.org/the-downlink/extraterrestrial-frosts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T153232">2023-01-13 15:32:32 UTC</a></sub>
@@ -210,7 +212,6 @@ region. The mission's status is currently Go for Launch
 * [Space life goals](https://www.planetary.org/night-sky/space-life-goals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T180350">2023-01-02 18:03:50 UTC</a></sub>
 * [Ending a year, looking to the future](https://www.planetary.org/the-downlink/ending-a-year-looking-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T153348">2022-12-30 15:33:48 UTC</a></sub>
 * [A long night, and “so long!” to InSight](https://www.planetary.org/the-downlink/a-long-night-and-so-long-to-insight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T153347">2022-12-23 15:33:47 UTC</a></sub>
-* [Cookie Declaration](https://www.planetary.org/cookie-declaration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153204">2022-12-20 15:32:04 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -223,7 +224,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T160102">2023-01-20 16:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T163627">2023-01-20 16:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
