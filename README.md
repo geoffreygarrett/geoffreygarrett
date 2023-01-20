@@ -179,6 +179,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: SpaceX reaches ‘ludicrous’ cadence; ABL explains RS1 failure](https://arstechnica.com/science/2023/01/rocket-report-spacex-reaches-ludicrous-cadence-abl-explains-rs1-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T120001">2023-01-20 12:00:01 UTC</a></sub>
 * [Chinese startups conduct hot fire tests for mini version of SpaceX’s Starship](https://spacenews.com/chinese-startups-conduct-hot-fire-tests-for-mini-version-of-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T223218">2023-01-19 22:32:18 UTC</a></sub>
 * [NASA to Participate in Aerospace Conference, Discuss New Collaboration](http://www.nasa.gov/press-release/nasa-to-participate-in-aerospace-conference-discuss-new-collaboration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T222200">2023-01-19 22:22:00 UTC</a></sub>
 * [U.S. Space Force chief calls for greater collaboration with allies](https://spacenews.com/u-s-space-force-chief-calls-for-greater-collaboration-with-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T220219">2023-01-19 22:02:19 UTC</a></sub>
@@ -188,7 +189,6 @@ region. The mission's status is currently Go for Launch
 * [Eutelsat 5 West A successfully retired in graveyard orbit](https://spacenews.com/eutelsat-5-west-a-successfully-retired-in-graveyard-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T205218">2023-01-19 20:52:18 UTC</a></sub>
 * [Investing in Space: Looking up in 2023](https://www.cnbc.com/2023/01/19/investing-in-space-looking-up-in-2023.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T161056">2023-01-19 16:10:56 UTC</a></sub>
 * [With Starshield, SpaceX readies for battle](https://spacenews.com/with-starshield-spacex-readies-for-battle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150219">2023-01-19 15:02:19 UTC</a></sub>
-* [Amid economic downturn, space investment plummeted in 2022](https://arstechnica.com/science/2023/01/amid-economic-downturn-space-investment-plummeted-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T150040">2023-01-19 15:00:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -221,7 +221,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T120058">2023-01-20 12:00:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T124100">2023-01-20 12:41:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
