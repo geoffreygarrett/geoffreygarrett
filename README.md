@@ -186,8 +186,8 @@ region. The mission's status is currently Go for Launch
 * [Canadian government to establish commercial launch licensing regulations](https://spacenews.com/canadian-government-to-establish-commercial-launch-licensing-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T202217">2023-01-20 20:22:17 UTC</a></sub>
 * [NASA Observes Day of Remembrance Ahead of Columbia 20th Anniversary](http://www.nasa.gov/press-release/nasa-observes-day-of-remembrance-ahead-of-columbia-20th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T185200">2023-01-20 18:52:00 UTC</a></sub>
 * [Astronauts conduct EVA to lay groundwork for final set of iROSA arrays](https://www.nasaspaceflight.com/2023/01/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T154841">2023-01-20 15:48:41 UTC</a></sub>
-* [Watch live: Astronauts on spacewalk to prep for new ISS solar arrays](https://spaceflightnow.com/2023/01/20/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T145215">2023-01-20 14:52:15 UTC</a></sub>
 * [ESA seeks global adoption of “zero debris” policy](https://spacenews.com/esa-seeks-global-adoption-of-zero-debris-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T132218">2023-01-20 13:22:18 UTC</a></sub>
+* [Astronauts complete spacewalk to prep for new ISS solar arrays](https://spaceflightnow.com/2023/01/20/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T124215">2023-01-20 12:42:15 UTC</a></sub>
 * [Rocket Report: SpaceX reaches ‘ludicrous’ cadence; ABL explains RS1 failure](https://arstechnica.com/science/2023/01/rocket-report-spacex-reaches-ludicrous-cadence-abl-explains-rs1-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T120001">2023-01-20 12:00:01 UTC</a></sub>
 * [Chinese startups conduct hot fire tests for mini version of SpaceX’s Starship](https://spacenews.com/chinese-startups-conduct-hot-fire-tests-for-mini-version-of-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T223218">2023-01-19 22:32:18 UTC</a></sub>
 * [NASA to Participate in Aerospace Conference, Discuss New Collaboration](http://www.nasa.gov/press-release/nasa-to-participate-in-aerospace-conference-discuss-new-collaboration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T222200">2023-01-19 22:22:00 UTC</a></sub>
@@ -224,7 +224,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230121T130315">2023-01-21 13:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230121T133050">2023-01-21 13:30:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
