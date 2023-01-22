@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [InSight’s importance: Seismic measurements, new terrain highlight ground-breaking mission](https://www.nasaspaceflight.com/2023/01/insight-importance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230121T173757">2023-01-21 17:37:57 UTC</a></sub>
+* [NASA suspends efforts to fully deploy Lucy solar array](https://spacenews.com/nasa-suspends-efforts-to-fully-deploy-lucy-solar-array/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230121T001218">2023-01-21 00:12:18 UTC</a></sub>
 * [Europe’s Jupiter-bound JUICE spacecraft is ready for April launch](https://spacenews.com/europes-jupiter-bound-juice-spacecraft-is-ready-for-april-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T234218">2023-01-20 23:42:18 UTC</a></sub>
 * [Canadian government to establish commercial launch licensing regulations](https://spacenews.com/canadian-government-to-establish-commercial-launch-licensing-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T202217">2023-01-20 20:22:17 UTC</a></sub>
 * [NASA Observes Day of Remembrance Ahead of Columbia 20th Anniversary](http://www.nasa.gov/press-release/nasa-observes-day-of-remembrance-ahead-of-columbia-20th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T185200">2023-01-20 18:52:00 UTC</a></sub>
@@ -191,7 +192,6 @@ region. The mission's status is currently Go for Launch
 * [Astronauts complete spacewalk to prep for new ISS solar arrays](https://spaceflightnow.com/2023/01/20/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T124215">2023-01-20 12:42:15 UTC</a></sub>
 * [Rocket Report: SpaceX reaches ‘ludicrous’ cadence; ABL explains RS1 failure](https://arstechnica.com/science/2023/01/rocket-report-spacex-reaches-ludicrous-cadence-abl-explains-rs1-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T120001">2023-01-20 12:00:01 UTC</a></sub>
 * [Chinese startups conduct hot fire tests for mini version of SpaceX’s Starship](https://spacenews.com/chinese-startups-conduct-hot-fire-tests-for-mini-version-of-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T223218">2023-01-19 22:32:18 UTC</a></sub>
-* [NASA to Participate in Aerospace Conference, Discuss New Collaboration](http://www.nasa.gov/press-release/nasa-to-participate-in-aerospace-conference-discuss-new-collaboration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T222200">2023-01-19 22:22:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T000136">2023-01-22 00:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T004540">2023-01-22 00:45:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
