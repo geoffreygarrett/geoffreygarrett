@@ -203,6 +203,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Vulcan Centaur: First flight article arrives at Cape Canaveral](https://blog.ulalaunch.com/blog/vulcan-centaur-first-flight-article-arrives-at-cape-canaveral) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T142243">2023-01-23 14:22:43 UTC</a></sub>
 * [I spy with my technologically enhanced eye](https://www.planetary.org/the-downlink/i-spy-with-my-technologically-enhanced-eye) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T153235">2023-01-20 15:32:35 UTC</a></sub>
 * [Tianwen-2: China’s Near-Earth asteroid and comet double-header](https://www.planetary.org/articles/tianwen-2-chinas-near-earth-asteroid-and-comet-double-header) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T152233">2023-01-19 15:22:33 UTC</a></sub>
 * [Vulcan Centaur: The countdown to the first Certification Flight is on!](https://blog.ulalaunch.com/blog/vulcan-centaur-the-countdown-to-the-first-certification-flight-is-on) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T161245">2023-01-13 16:12:45 UTC</a></sub>
@@ -212,7 +213,6 @@ region. The mission's status is currently Go for Launch
 * [How to see Comet 2022 E3 (ZTF)](https://www.planetary.org/articles/how-to-see-comet-2022-e3-ztf) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T145347">2023-01-06 14:53:47 UTC</a></sub>
 * [Space life goals](https://www.planetary.org/night-sky/space-life-goals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T180350">2023-01-02 18:03:50 UTC</a></sub>
 * [Ending a year, looking to the future](https://www.planetary.org/the-downlink/ending-a-year-looking-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T153348">2022-12-30 15:33:48 UTC</a></sub>
-* [A long night, and “so long!” to InSight](https://www.planetary.org/the-downlink/a-long-night-and-so-long-to-insight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T153347">2022-12-23 15:33:47 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T140047">2023-01-23 14:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T143050">2023-01-23 14:30:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
