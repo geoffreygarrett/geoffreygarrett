@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Europe grappling with space access challenges](https://spacenews.com/europe-grappling-with-space-access-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T171218">2023-01-23 17:12:18 UTC</a></sub>
 * [](https://spacenews.com/ams-interference-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T162218">2023-01-23 16:22:18 UTC</a></sub>
 * [Montana Students to Hear from NASA Astronaut on Space Station](http://www.nasa.gov/press-release/montana-students-to-hear-from-nasa-astronaut-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T161200">2023-01-23 16:12:00 UTC</a></sub>
 * [It’s belt-cinching time for space startups](https://spacenews.com/its-belt-cinching-time-for-space-startups/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T153219">2023-01-23 15:32:19 UTC</a></sub>
@@ -192,7 +193,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to cooperate on Israeli astrophysics mission](https://spacenews.com/nasa-to-cooperate-on-israeli-astrophysics-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T032218">2023-01-22 03:22:18 UTC</a></sub>
 * [SpaceX Starlink satellite internet tested in the field in Antarctica](https://www.teslarati.com/spacex-starlink-internet-antacrtica-coldex-nsf-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T002236">2023-01-22 00:22:36 UTC</a></sub>
 * [InSight’s importance: Seismic measurements, new terrain highlight ground-breaking mission](https://www.nasaspaceflight.com/2023/01/insight-importance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230121T173757">2023-01-21 17:37:57 UTC</a></sub>
-* [NASA suspends efforts to fully deploy Lucy solar array](https://spacenews.com/nasa-suspends-efforts-to-fully-deploy-lucy-solar-array/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230121T001218">2023-01-21 00:12:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T170053">2023-01-23 17:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T173049">2023-01-23 17:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
