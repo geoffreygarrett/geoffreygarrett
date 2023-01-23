@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX may perform a wet dress rehearsal of its Starship launch system today](https://arstechnica.com/science/2023/01/spacex-may-perform-a-wet-dress-rehearsal-of-its-starship-launch-system-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T142138">2023-01-23 14:21:38 UTC</a></sub>
 * [SpaceX’s latest Falcon Heavy launch captured from a rare perspective](https://www.teslarati.com/spacex-falcon-heavy-launch-space-station-view/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T215234">2023-01-22 21:52:34 UTC</a></sub>
 * [Lockheed Martin eyes international customers for GPS augmentation systems](https://spacenews.com/lockheed-martin-eyes-international-customers-for-gps-augmentation-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T113219">2023-01-22 11:32:19 UTC</a></sub>
 * [NASA to cooperate on Israeli astrophysics mission](https://spacenews.com/nasa-to-cooperate-on-israeli-astrophysics-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T032218">2023-01-22 03:22:18 UTC</a></sub>
@@ -192,7 +193,6 @@ region. The mission's status is currently Go for Launch
 * [Europe’s Jupiter-bound JUICE spacecraft is ready for April launch](https://spacenews.com/europes-jupiter-bound-juice-spacecraft-is-ready-for-april-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T234218">2023-01-20 23:42:18 UTC</a></sub>
 * [Canadian government to establish commercial launch licensing regulations](https://spacenews.com/canadian-government-to-establish-commercial-launch-licensing-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T202217">2023-01-20 20:22:17 UTC</a></sub>
 * [NASA Observes Day of Remembrance Ahead of Columbia 20th Anniversary](http://www.nasa.gov/press-release/nasa-observes-day-of-remembrance-ahead-of-columbia-20th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T185200">2023-01-20 18:52:00 UTC</a></sub>
-* [Astronauts conduct EVA to lay groundwork for final set of iROSA arrays](https://www.nasaspaceflight.com/2023/01/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T154841">2023-01-20 15:48:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T143050">2023-01-23 14:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T150106">2023-01-23 15:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
