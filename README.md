@@ -183,10 +183,10 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellite constellations could interfere with meteorological spectrum](https://spacenews.com/ams-interference-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T212218">2023-01-23 21:22:18 UTC</a></sub>
 * [UK Space Agency offers $62 million for innovative connectivity projects](https://spacenews.com/uk-space-agency-offers-62-million-for-innovative-connectivity-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T203219">2023-01-23 20:32:19 UTC</a></sub>
 * [Space Development Agency renames constellation to reflect focus on U.S. warfighter](https://spacenews.com/space-development-agency-renames-constellation-to-reflect-focus-on-u-s-warfighter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T191218">2023-01-23 19:12:18 UTC</a></sub>
 * [Europe grappling with space access challenges](https://spacenews.com/europe-grappling-with-space-access-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T171218">2023-01-23 17:12:18 UTC</a></sub>
-* [](https://spacenews.com/ams-interference-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T162218">2023-01-23 16:22:18 UTC</a></sub>
 * [Montana Students to Hear from NASA Astronaut on Space Station](http://www.nasa.gov/press-release/montana-students-to-hear-from-nasa-astronaut-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T161200">2023-01-23 16:12:00 UTC</a></sub>
 * [It’s belt-cinching time for space startups](https://spacenews.com/its-belt-cinching-time-for-space-startups/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T153219">2023-01-23 15:32:19 UTC</a></sub>
 * [SpaceX may perform a wet dress rehearsal of its Starship launch system today](https://arstechnica.com/science/2023/01/spacex-may-perform-a-wet-dress-rehearsal-of-its-starship-launch-system-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T142138">2023-01-23 14:21:38 UTC</a></sub>
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T210042">2023-01-23 21:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T213044">2023-01-23 21:30:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
