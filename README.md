@@ -26,6 +26,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <h3 align="center"> Open issues 🆘 </h3>
 
 <!-- github issues starts -->
+* [Update Tudat API documentation estimation pages](https://github.com/tudat-team/tudat-multidoc/issues/56) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T150136">2023-01-20 15:01:36 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Write documentation on updating Azure Tokens ](https://github.com/tudat-team/tudat-developer-docs/issues/18) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T145907">2023-01-20 14:59:07 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Token is out of date](https://github.com/tudat-team/tudatpy-feedstock/issues/13) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T145815">2023-01-20 14:58:15 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [KaTeX rendering after markdown parser.](https://github.com/geoffreygarrett/notes.geoffreygarrett.com/issues/4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T130043">2022-06-01 13:00:43 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
@@ -224,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T130510">2023-01-23 13:05:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T133311">2023-01-23 13:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
