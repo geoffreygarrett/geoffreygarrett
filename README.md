@@ -183,6 +183,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Channeling frustration into program management software](https://spacenews.com/introducing-charter-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T224218">2023-01-23 22:42:18 UTC</a></sub>
+* [NASA to Launch New Mars Sample Receiving Project Office at Johnson](http://www.nasa.gov/press-release/nasa-to-launch-new-mars-sample-receiving-project-office-at-johnson) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T220200">2023-01-23 22:02:00 UTC</a></sub>
 * [Satellite constellations could interfere with meteorological spectrum](https://spacenews.com/ams-interference-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T212218">2023-01-23 21:22:18 UTC</a></sub>
 * [UK Space Agency offers $62 million for innovative connectivity projects](https://spacenews.com/uk-space-agency-offers-62-million-for-innovative-connectivity-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T203219">2023-01-23 20:32:19 UTC</a></sub>
 * [Space Development Agency renames constellation to reflect focus on U.S. warfighter](https://spacenews.com/space-development-agency-renames-constellation-to-reflect-focus-on-u-s-warfighter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T191218">2023-01-23 19:12:18 UTC</a></sub>
@@ -191,8 +193,6 @@ region. The mission's status is currently Go for Launch
 * [It’s belt-cinching time for space startups](https://spacenews.com/its-belt-cinching-time-for-space-startups/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T153219">2023-01-23 15:32:19 UTC</a></sub>
 * [SpaceX may perform a wet dress rehearsal of its Starship launch system today](https://arstechnica.com/science/2023/01/spacex-may-perform-a-wet-dress-rehearsal-of-its-starship-launch-system-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T142138">2023-01-23 14:21:38 UTC</a></sub>
 * [SpaceX’s latest Falcon Heavy launch captured from a rare perspective](https://www.teslarati.com/spacex-falcon-heavy-launch-space-station-view/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T215234">2023-01-22 21:52:34 UTC</a></sub>
-* [Lockheed Martin eyes international customers for GPS augmentation systems](https://spacenews.com/lockheed-martin-eyes-international-customers-for-gps-augmentation-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T113219">2023-01-22 11:32:19 UTC</a></sub>
-* [NASA to cooperate on Israeli astrophysics mission](https://spacenews.com/nasa-to-cooperate-on-israeli-astrophysics-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T032218">2023-01-22 03:22:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T223043">2023-01-23 22:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T230113">2023-01-23 23:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
