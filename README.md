@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Buckle up, it could get bumpy: The space economy’s vaunted resilience will be tested in 2023](https://spacenews.com/buckle-up-it-could-get-bumpy-the-space-economys-vaunted-resilience-will-be-tested-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T171528">2023-01-24 17:15:28 UTC</a></sub>
 * [European launch chief insists there be no competition with Ariane rockets](https://arstechnica.com/science/2023/01/european-launch-chief-insists-there-be-no-competition-with-ariane-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T154731">2023-01-24 15:47:31 UTC</a></sub>
 * [Thales Alenia Space leading another ESA push to develop quantum comms](https://spacenews.com/thales-leading-another-esa-push-to-develop-quantum-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T145528">2023-01-24 14:55:28 UTC</a></sub>
 * [Quindar raises seed round to provide mission management software services](https://spacenews.com/quindar-raises-seeds-round-to-provide-mission-management-software-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T142528">2023-01-24 14:25:28 UTC</a></sub>
@@ -192,7 +193,6 @@ region. The mission's status is currently Go for Launch
 * [Channeling frustration into program management software](https://spacenews.com/introducing-charter-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T224218">2023-01-23 22:42:18 UTC</a></sub>
 * [NASA to Launch New Mars Sample Receiving Project Office at Johnson](http://www.nasa.gov/press-release/nasa-to-launch-new-mars-sample-receiving-project-office-at-johnson) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T220200">2023-01-23 22:02:00 UTC</a></sub>
 * [Satellite constellations could interfere with meteorological spectrum](https://spacenews.com/ams-interference-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T212218">2023-01-23 21:22:18 UTC</a></sub>
-* [UK Space Agency offers $62 million for innovative connectivity projects](https://spacenews.com/uk-space-agency-offers-62-million-for-innovative-connectivity-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T203219">2023-01-23 20:32:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T170047">2023-01-24 17:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T173046">2023-01-24 17:30:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
