@@ -192,7 +192,7 @@ region. The mission's status is currently Go for Launch
 * [Montana Students to Hear from NASA Astronaut on Space Station](http://www.nasa.gov/press-release/montana-students-to-hear-from-nasa-astronaut-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T161200">2023-01-23 16:12:00 UTC</a></sub>
 * [It’s belt-cinching time for space startups](https://spacenews.com/its-belt-cinching-time-for-space-startups/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T153219">2023-01-23 15:32:19 UTC</a></sub>
 * [SpaceX may perform a wet dress rehearsal of its Starship launch system today](https://arstechnica.com/science/2023/01/spacex-may-perform-a-wet-dress-rehearsal-of-its-starship-launch-system-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T142138">2023-01-23 14:21:38 UTC</a></sub>
-* [SpaceX’s latest Falcon Heavy launch captured from a rare perspective](https://www.teslarati.com/spacex-falcon-heavy-launch-space-station-view/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T215234">2023-01-22 21:52:34 UTC</a></sub>
+* [SpaceX’s Starship rocket sails through first “flight-like” fueling test](https://www.teslarati.com/spacex-starship-full-stack-aces-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T022238">2023-01-23 02:22:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T020103">2023-01-24 02:01:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T024141">2023-01-24 02:41:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
