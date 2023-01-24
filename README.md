@@ -97,26 +97,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Electron | Virginia is for Launch Lovers at the
-<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a> in
-Wallops Island, Virginia, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T230000">2023-01-24 23:00:00 UTC</a>. Until
-then, this launch pad will have seen 0
-out of 73 launches in this
+H-IIA 202 | IGS Radar-7 at the
+<a href="https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex">Yoshinobu Launch Complex</a> in
+Tanegashima, Japan
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T014920">2023-01-26 01:49:20 UTC</a>. Until
+then, this launch pad will have seen 39
+out of 84 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Rideshare mission with 3 HawkEye 360 satellites and other payloads.
+  The IGS-Radar 7 is a Japanese radar reconnaissance satellite. The satellite is operated by the Cabinet Satellite Information Center. The satellite serves both Japan's national defense and civil natural disaster monitoring.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+  <a href="https://en.wikipedia.org/wiki/H-IIA" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="None" >
+  <a href="https://www.google.com/maps/place/30Â°24'08.0"N+130Â°58'30.0"E/" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -129,7 +129,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Virginia is for Launch Lovers</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T230000">2023-01-24 23:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20230124T230000Z%2F20230125T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> <b>IGS Radar-7</b> from Tanegashima, Japan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T014920">2023-01-26 01:49:20 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar-7&location=Tanegashima, Japan&dates=20230126T014920Z%2F20230126T015021Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T090200">2023-01-26 09:02:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-2&location=Cape Canaveral, FL, USA&dates=20230126T090200Z%2F20230126T112400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-6</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T150200">2023-01-29 15:02:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-6&location=Vandenberg SFB, CA, USA&dates=20230129T150200Z%2F20230129T214500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -184,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Command: U.S. satellites ‘constrained’ by lack of mobility](https://spacenews.com/space-command-u-s-satellites-constrained-by-lack-of-mobility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T225528">2023-01-24 22:55:28 UTC</a></sub>
 * [SpaceX completes fueling test, will now work toward massive engine firing test](https://arstechnica.com/science/2023/01/spacex-completes-fueling-test-will-now-work-toward-massive-engine-firing-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T194747">2023-01-24 19:47:47 UTC</a></sub>
 * [Space Force not buying large satellites for the foreseeable future](https://spacenews.com/space-force-not-buying-large-satellites-for-the-foreseeable-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T191528">2023-01-24 19:15:28 UTC</a></sub>
 * [NASA and DARPA to partner on nuclear thermal propulsion demonstration](https://spacenews.com/nasa-and-darpa-to-partner-on-nuclear-thermal-propulsion-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T180529">2023-01-24 18:05:29 UTC</a></sub>
@@ -193,7 +193,6 @@ region. The mission's status is currently Go for Launch
 * [Quindar raises seed round to provide mission management software services](https://spacenews.com/quindar-raises-seeds-round-to-provide-mission-management-software-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T142528">2023-01-24 14:25:28 UTC</a></sub>
 * [Rocket Lab to conduct first Electron launch from American soil](https://www.nasaspaceflight.com/2023/01/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T141103">2023-01-24 14:11:03 UTC</a></sub>
 * [SpaceX completes major Starship test in prep for rocket’s first orbital launch attempt](https://www.cnbc.com/2023/01/24/spacex-completes-starship-rocket-test-in-prep-for-first-orbital-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T134907">2023-01-24 13:49:07 UTC</a></sub>
-* [SpaceX completes Starship wet dress rehearsal](https://spacenews.com/spacex-completes-starship-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T121528">2023-01-24 12:15:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T223040">2023-01-24 22:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T230052">2023-01-24 23:00:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
