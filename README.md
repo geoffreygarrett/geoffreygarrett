@@ -184,6 +184,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX completes fueling test, will now work toward massive engine firing test](https://arstechnica.com/science/2023/01/spacex-completes-fueling-test-will-now-work-toward-massive-engine-firing-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T194747">2023-01-24 19:47:47 UTC</a></sub>
 * [Space Force not buying large satellites for the foreseeable future](https://spacenews.com/space-force-not-buying-large-satellites-for-the-foreseeable-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T191528">2023-01-24 19:15:28 UTC</a></sub>
 * [NASA and DARPA to partner on nuclear thermal propulsion demonstration](https://spacenews.com/nasa-and-darpa-to-partner-on-nuclear-thermal-propulsion-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T180529">2023-01-24 18:05:29 UTC</a></sub>
 * [Buckle up, it could get bumpy: The space economy’s vaunted resilience will be tested in 2023](https://spacenews.com/buckle-up-it-could-get-bumpy-the-space-economys-vaunted-resilience-will-be-tested-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T171528">2023-01-24 17:15:28 UTC</a></sub>
@@ -193,7 +194,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab to conduct first Electron launch from American soil](https://www.nasaspaceflight.com/2023/01/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T141103">2023-01-24 14:11:03 UTC</a></sub>
 * [SpaceX completes major Starship test in prep for rocket’s first orbital launch attempt](https://www.cnbc.com/2023/01/24/spacex-completes-starship-rocket-test-in-prep-for-first-orbital-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T134907">2023-01-24 13:49:07 UTC</a></sub>
 * [SpaceX completes Starship wet dress rehearsal](https://spacenews.com/spacex-completes-starship-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T121528">2023-01-24 12:15:28 UTC</a></sub>
-* [Channeling frustration into program management software](https://spacenews.com/introducing-charter-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T224218">2023-01-23 22:42:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T200044">2023-01-24 20:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T203049">2023-01-24 20:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
