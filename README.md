@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA is no longer planning to send astronauts to China’s Tiangong space station](https://spacenews.com/esa-is-no-longer-planning-to-send-astronauts-to-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T162122">2023-01-25 16:21:22 UTC</a></sub>
 * [NASA will join a military program to develop nuclear thermal propulsion](https://arstechnica.com/science/2023/01/nasa-will-join-a-military-program-to-develop-nuclear-thermal-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T151846">2023-01-25 15:18:46 UTC</a></sub>
 * [Rocket Lab establishes new U.S. foothold with successful launch after years of delays](https://www.cnbc.com/2023/01/25/rocket-lab-us-launch-success.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T150522">2023-01-25 15:05:22 UTC</a></sub>
 * [Spaceflight books dedicated Isar Aerospace launch in 2026](https://spacenews.com/spaceflight-books-dedicated-isar-aerospace-launch-in-2026/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T141122">2023-01-25 14:11:22 UTC</a></sub>
@@ -192,7 +193,6 @@ region. The mission's status is currently Go for Launch
 * [Space Command: U.S. satellites ‘constrained’ by lack of mobility](https://spacenews.com/space-command-u-s-satellites-constrained-by-lack-of-mobility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T225528">2023-01-24 22:55:28 UTC</a></sub>
 * [SpaceX completes fueling test, will now work toward massive engine firing test](https://arstechnica.com/science/2023/01/spacex-completes-fueling-test-will-now-work-toward-massive-engine-firing-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T194747">2023-01-24 19:47:47 UTC</a></sub>
 * [Space Force not buying large satellites for the foreseeable future](https://spacenews.com/space-force-not-buying-large-satellites-for-the-foreseeable-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T191528">2023-01-24 19:15:28 UTC</a></sub>
-* [NASA and DARPA to partner on nuclear thermal propulsion demonstration](https://spacenews.com/nasa-and-darpa-to-partner-on-nuclear-thermal-propulsion-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T180529">2023-01-24 18:05:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T160110">2023-01-25 16:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T163556">2023-01-25 16:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
