@@ -183,6 +183,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch asteroid mining spacecraft alongside private Moon lander](https://www.teslarati.com/spacex-astroforge-asteroid-mining-spacecraft-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T233603">2023-01-24 23:36:03 UTC</a></sub>
+* [Rocket Lab conducts first Electron launch from American soil](https://www.nasaspaceflight.com/2023/01/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T231103">2023-01-24 23:11:03 UTC</a></sub>
 * [Space Command: U.S. satellites ‘constrained’ by lack of mobility](https://spacenews.com/space-command-u-s-satellites-constrained-by-lack-of-mobility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T225528">2023-01-24 22:55:28 UTC</a></sub>
 * [SpaceX completes fueling test, will now work toward massive engine firing test](https://arstechnica.com/science/2023/01/spacex-completes-fueling-test-will-now-work-toward-massive-engine-firing-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T194747">2023-01-24 19:47:47 UTC</a></sub>
 * [Space Force not buying large satellites for the foreseeable future](https://spacenews.com/space-force-not-buying-large-satellites-for-the-foreseeable-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T191528">2023-01-24 19:15:28 UTC</a></sub>
@@ -191,8 +193,6 @@ region. The mission's status is currently Go for Launch
 * [European launch chief insists there be no competition with Ariane rockets](https://arstechnica.com/science/2023/01/european-launch-chief-insists-there-be-no-competition-with-ariane-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T154731">2023-01-24 15:47:31 UTC</a></sub>
 * [Thales Alenia Space leading another ESA push to develop quantum comms](https://spacenews.com/thales-leading-another-esa-push-to-develop-quantum-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T145528">2023-01-24 14:55:28 UTC</a></sub>
 * [Quindar raises seed round to provide mission management software services](https://spacenews.com/quindar-raises-seeds-round-to-provide-mission-management-software-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T142528">2023-01-24 14:25:28 UTC</a></sub>
-* [Rocket Lab to conduct first Electron launch from American soil](https://www.nasaspaceflight.com/2023/01/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T141103">2023-01-24 14:11:03 UTC</a></sub>
-* [SpaceX completes major Starship test in prep for rocket’s first orbital launch attempt](https://www.cnbc.com/2023/01/24/spacex-completes-starship-rocket-test-in-prep-for-first-orbital-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T134907">2023-01-24 13:49:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T233100">2023-01-24 23:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T000138">2023-01-25 00:01:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
