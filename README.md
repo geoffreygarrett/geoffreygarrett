@@ -182,7 +182,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Watch live: SpaceX launches 56 more Starlink satellites from Cape Canaveral](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T105118">2023-01-26 10:51:18 UTC</a></sub>
+* [SpaceX launches 56 more Starlink satellites from Cape Canaveral](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T114118">2023-01-26 11:41:18 UTC</a></sub>
 * [Lamborn named chair of House Armed Services strategic forces subcommittee](https://spacenews.com/lamborn-named-chair-of-house-armed-services-strategic-forces-subcommittee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T231122">2023-01-25 23:11:22 UTC</a></sub>
 * [NASA Awards Innovations, Partnership Support Services Agreements](http://www.nasa.gov/press-release/nasa-awards-innovations-partnership-support-services-agreements) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T211100">2023-01-25 21:11:00 UTC</a></sub>
 * [SpaceX launches Starlink Group 5-2 mission from Florida](https://www.nasaspaceflight.com/2023/01/starlink-5-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T185101">2023-01-25 18:51:01 UTC</a></sub>
@@ -224,7 +224,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T113046">2023-01-26 11:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T120123">2023-01-26 12:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
