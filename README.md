@@ -182,6 +182,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Supporting military operations on Earth to remain U.S. Space Force’s top priority](https://spacenews.com/supporting-military-operations-on-earth-to-remain-u-s-space-forces-top-priority/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T223122">2023-01-26 22:31:22 UTC</a></sub>
+* [SpaceX’s backup Dragon launch pad on track for 2023 debut](https://www.teslarati.com/spacexs-backup-dragon-pad-first-launch-fall-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T220139">2023-01-26 22:01:39 UTC</a></sub>
 * [SpaceX Falcon 9 rocket launches heaviest payload yet](https://www.teslarati.com/spacex-falcon-9-rocket-launches-heaviest-payload-yet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T193140">2023-01-26 19:31:40 UTC</a></sub>
 * [Investing in Space: Doing well to do good](https://www.cnbc.com/2023/01/26/investing-in-space-doing-well-to-do-good.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T162054">2023-01-26 16:20:54 UTC</a></sub>
 * [SpaceX launches heaviest payload on Falcon 9 rocket](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T135118">2023-01-26 13:51:18 UTC</a></sub>
@@ -190,8 +192,6 @@ region. The mission's status is currently To Be Confirmed
 * [Lamborn named chair of House Armed Services strategic forces subcommittee](https://spacenews.com/lamborn-named-chair-of-house-armed-services-strategic-forces-subcommittee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T231122">2023-01-25 23:11:22 UTC</a></sub>
 * [NASA Awards Innovations, Partnership Support Services Agreements](http://www.nasa.gov/press-release/nasa-awards-innovations-partnership-support-services-agreements) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T211100">2023-01-25 21:11:00 UTC</a></sub>
 * [SpaceX launches Starlink Group 5-2 mission from Florida](https://www.nasaspaceflight.com/2023/01/starlink-5-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T185101">2023-01-25 18:51:01 UTC</a></sub>
-* [ESA is no longer planning to send astronauts to China’s Tiangong space station](https://spacenews.com/esa-is-no-longer-planning-to-send-astronauts-to-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T162122">2023-01-25 16:21:22 UTC</a></sub>
-* [NASA will join a military program to develop nuclear thermal propulsion](https://arstechnica.com/science/2023/01/nasa-will-join-a-military-program-to-develop-nuclear-thermal-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T151846">2023-01-25 15:18:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T223047">2023-01-26 22:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T230050">2023-01-26 23:00:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
