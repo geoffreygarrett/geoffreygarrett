@@ -185,7 +185,7 @@ region. The mission's status is currently To Be Confirmed
 * [Watch live: SpaceX on track for predawn launch from Cape Canaveral](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T024118">2023-01-26 02:41:18 UTC</a></sub>
 * [Lamborn named chair of House Armed Services strategic forces subcommittee](https://spacenews.com/lamborn-named-chair-of-house-armed-services-strategic-forces-subcommittee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T231122">2023-01-25 23:11:22 UTC</a></sub>
 * [NASA Awards Innovations, Partnership Support Services Agreements](http://www.nasa.gov/press-release/nasa-awards-innovations-partnership-support-services-agreements) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T211100">2023-01-25 21:11:00 UTC</a></sub>
-* [SpaceX set to launch Starlink Group 5-2 mission from Florida](https://www.nasaspaceflight.com/2023/01/starlink-5-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T185101">2023-01-25 18:51:01 UTC</a></sub>
+* [SpaceX launches Starlink Group 5-2 mission from Florida](https://www.nasaspaceflight.com/2023/01/starlink-5-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T185101">2023-01-25 18:51:01 UTC</a></sub>
 * [ESA is no longer planning to send astronauts to China’s Tiangong space station](https://spacenews.com/esa-is-no-longer-planning-to-send-astronauts-to-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T162122">2023-01-25 16:21:22 UTC</a></sub>
 * [NASA will join a military program to develop nuclear thermal propulsion](https://arstechnica.com/science/2023/01/nasa-will-join-a-military-program-to-develop-nuclear-thermal-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T151846">2023-01-25 15:18:46 UTC</a></sub>
 * [Rocket Lab establishes new U.S. foothold with successful launch after years of delays](https://www.cnbc.com/2023/01/25/rocket-lab-us-launch-success.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T150522">2023-01-25 15:05:22 UTC</a></sub>
@@ -224,7 +224,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T100046">2023-01-26 10:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T103212">2023-01-26 10:32:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
