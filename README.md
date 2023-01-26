@@ -182,6 +182,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA adds asteroid flyby to Lucy mission](https://spacenews.com/nasa-adds-asteroid-flyby-to-lucy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T130122">2023-01-26 13:01:22 UTC</a></sub>
 * [NEO Surveyor launch delayed despite funding boost](https://spacenews.com/neo-surveyor-launch-delayed-despite-funding-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T120123">2023-01-26 12:01:23 UTC</a></sub>
 * [SpaceX launches 56 more Starlink satellites from Cape Canaveral](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T114118">2023-01-26 11:41:18 UTC</a></sub>
 * [Lamborn named chair of House Armed Services strategic forces subcommittee](https://spacenews.com/lamborn-named-chair-of-house-armed-services-strategic-forces-subcommittee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T231122">2023-01-25 23:11:22 UTC</a></sub>
@@ -191,7 +192,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA will join a military program to develop nuclear thermal propulsion](https://arstechnica.com/science/2023/01/nasa-will-join-a-military-program-to-develop-nuclear-thermal-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T151846">2023-01-25 15:18:46 UTC</a></sub>
 * [Rocket Lab establishes new U.S. foothold with successful launch after years of delays](https://www.cnbc.com/2023/01/25/rocket-lab-us-launch-success.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T150522">2023-01-25 15:05:22 UTC</a></sub>
 * [Spaceflight books dedicated Isar Aerospace launch in 2026](https://spacenews.com/spaceflight-books-dedicated-isar-aerospace-launch-in-2026/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T141122">2023-01-25 14:11:22 UTC</a></sub>
-* [Astrobotic completes Peregrine testing](https://spacenews.com/astrobotic-completes-peregrine-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T133122">2023-01-25 13:31:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T130605">2023-01-26 13:06:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T133454">2023-01-26 13:34:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
