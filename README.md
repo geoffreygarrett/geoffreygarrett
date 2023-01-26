@@ -183,6 +183,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: SpaceX on track for predawn launch from Cape Canaveral](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T024118">2023-01-26 02:41:18 UTC</a></sub>
 * [Lamborn named chair of House Armed Services strategic forces subcommittee](https://spacenews.com/lamborn-named-chair-of-house-armed-services-strategic-forces-subcommittee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T231122">2023-01-25 23:11:22 UTC</a></sub>
 * [NASA Awards Innovations, Partnership Support Services Agreements](http://www.nasa.gov/press-release/nasa-awards-innovations-partnership-support-services-agreements) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T211100">2023-01-25 21:11:00 UTC</a></sub>
 * [SpaceX set to launch Starlink Group 5-2 mission from Florida](https://www.nasaspaceflight.com/2023/01/starlink-5-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T185101">2023-01-25 18:51:01 UTC</a></sub>
@@ -192,7 +193,6 @@ region. The mission's status is currently Go for Launch
 * [Spaceflight books dedicated Isar Aerospace launch in 2026](https://spacenews.com/spaceflight-books-dedicated-isar-aerospace-launch-in-2026/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T141122">2023-01-25 14:11:22 UTC</a></sub>
 * [Astrobotic completes Peregrine testing](https://spacenews.com/astrobotic-completes-peregrine-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T133122">2023-01-25 13:31:22 UTC</a></sub>
 * [SpaceX to launch asteroid mining spacecraft alongside private Moon lander](https://www.teslarati.com/spacex-astroforge-asteroid-mining-spacecraft-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T233603">2023-01-24 23:36:03 UTC</a></sub>
-* [Rocket Lab conducts first Electron launch from American soil](https://www.nasaspaceflight.com/2023/01/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T231103">2023-01-24 23:11:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T020037">2023-01-26 02:00:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T024224">2023-01-26 02:42:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
