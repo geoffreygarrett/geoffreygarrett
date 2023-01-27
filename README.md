@@ -189,9 +189,9 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX launches heaviest payload on Falcon 9 rocket](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T135118">2023-01-26 13:51:18 UTC</a></sub>
 * [NASA adds asteroid flyby to Lucy mission](https://spacenews.com/nasa-adds-asteroid-flyby-to-lucy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T130122">2023-01-26 13:01:22 UTC</a></sub>
 * [NEO Surveyor launch delayed despite funding boost](https://spacenews.com/neo-surveyor-launch-delayed-despite-funding-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T120123">2023-01-26 12:01:23 UTC</a></sub>
+* [SpaceX sets stage for Starship booster’s first 33-engine static fire](https://www.teslarati.com/spacex-sets-stage-starship-booster-33-engine-static-fire-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T015138">2023-01-26 01:51:38 UTC</a></sub>
 * [Senators press Defense Secretary Austin to keep Space Command in Colorado](https://spacenews.com/senators-press-defense-secretary-austin-to-keep-space-command-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T002122">2023-01-26 00:21:22 UTC</a></sub>
 * [Lamborn named chair of House Armed Services strategic forces subcommittee](https://spacenews.com/lamborn-named-chair-of-house-armed-services-strategic-forces-subcommittee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T231122">2023-01-25 23:11:22 UTC</a></sub>
-* [NASA Awards Innovations, Partnership Support Services Agreements](http://www.nasa.gov/press-release/nasa-awards-innovations-partnership-support-services-agreements) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T211100">2023-01-25 21:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -224,7 +224,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T012749">2023-01-27 01:27:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T020134">2023-01-27 02:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
