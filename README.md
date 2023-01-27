@@ -26,6 +26,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <h3 align="center"> Open issues 🆘 </h3>
 
 <!-- github issues starts -->
+* [Make versioning consistent with Tudatpy](https://github.com/tudat-team/tudat-space/issues/103) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T151401">2023-01-27 15:14:01 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Automate versioning, and add documentation](https://github.com/tudat-team/tudat-developer-docs/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T192130">2023-01-24 19:21:30 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Update Tudat API documentation estimation pages](https://github.com/tudat-team/tudat-multidoc/issues/56) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T150136">2023-01-20 15:01:36 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Write documentation on updating Azure Tokens ](https://github.com/tudat-team/tudat-developer-docs/issues/18) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T145907">2023-01-20 14:59:07 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
@@ -183,6 +184,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arriving at Titan: How Dragonfly’s Entry, Descent, and Landing will differ from Mars missions](https://www.nasaspaceflight.com/2023/01/dragonfly-edl-overview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T151935">2023-01-27 15:19:35 UTC</a></sub>
 * [NASA still working on long-term plans for ISS seat barters](https://spacenews.com/nasa-still-working-on-long-term-plans-for-iss-seat-barters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T132121">2023-01-27 13:21:21 UTC</a></sub>
 * [Hispasat invests in reforestation to drive sustainability expansion strategy](https://spacenews.com/hispasat-invests-in-reforestation-to-drive-sustainability-expansion-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T131122">2023-01-27 13:11:22 UTC</a></sub>
 * [Janus considering alternative missions after losing original ride](https://spacenews.com/janus-considering-alternative-missions-after-losing-original-ride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T120128">2023-01-27 12:01:28 UTC</a></sub>
@@ -192,7 +194,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX’s backup Dragon launch pad on track for 2023 debut](https://www.teslarati.com/spacexs-backup-dragon-pad-first-launch-fall-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T220139">2023-01-26 22:01:39 UTC</a></sub>
 * [SpaceX Falcon 9 rocket launches heaviest payload yet](https://www.teslarati.com/spacex-falcon-9-rocket-launches-heaviest-payload-yet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T193140">2023-01-26 19:31:40 UTC</a></sub>
 * [Investing in Space: Doing well to do good](https://www.cnbc.com/2023/01/26/investing-in-space-doing-well-to-do-good.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T162054">2023-01-26 16:20:54 UTC</a></sub>
-* [SpaceX launches heaviest payload on Falcon 9 rocket](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T135118">2023-01-26 13:51:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +226,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T150102">2023-01-27 15:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T153117">2023-01-27 15:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
