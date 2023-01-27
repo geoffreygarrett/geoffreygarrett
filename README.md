@@ -185,6 +185,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellite billed as the ‘future GPS’ begins key tests](https://spacenews.com/satellite-billed-as-the-future-gps-begins-key-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T201121">2023-01-27 20:11:21 UTC</a></sub>
 * [L3Harris ‘optimistic’ Aerojet Rocketdyne acquisition will close in 2023](https://spacenews.com/l3harris-optimistic-aerojet-rocketdyne-acquisition-will-close-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T181120">2023-01-27 18:11:20 UTC</a></sub>
 * [Oklahoma Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/oklahoma-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T181100">2023-01-27 18:11:00 UTC</a></sub>
 * [NASA Launches Aeronautics Spanish-Language Webpages](http://www.nasa.gov/press-release/nasa-launches-aeronautics-spanish-language-webpages) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T162100">2023-01-27 16:21:00 UTC</a></sub>
@@ -194,7 +195,6 @@ region. The mission's status is currently To Be Confirmed
 * [Hispasat invests in reforestation to drive sustainability expansion strategy](https://spacenews.com/hispasat-invests-in-reforestation-to-drive-sustainability-expansion-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T131122">2023-01-27 13:11:22 UTC</a></sub>
 * [Janus considering alternative missions after losing original ride](https://spacenews.com/janus-considering-alternative-missions-after-losing-original-ride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T120128">2023-01-27 12:01:28 UTC</a></sub>
 * [Rocket Report: NASA validates new engine design; Chinese firm tests mini Starship](https://arstechnica.com/science/2023/01/rocket-report-nasa-validates-new-engine-design-chinese-firm-tests-mini-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T120034">2023-01-27 12:00:34 UTC</a></sub>
-* [U.S. sanctions Chinese satellite firm for allegedly supplying SAR imagery to Russia’s Wagner Group](https://spacenews.com/u-s-sanctions-chinese-satellite-firm-for-allegedly-supplying-sar-imagery-to-russias-wagner-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T103124">2023-01-27 10:31:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -227,7 +227,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T203038">2023-01-27 20:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T210102">2023-01-27 21:01:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
