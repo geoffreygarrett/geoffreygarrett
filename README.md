@@ -183,6 +183,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. sanctions Chinese satellite firm for allegedly supplying SAR imagery to Russia’s Wagner Group](https://spacenews.com/u-s-sanctions-chinese-satellite-firm-for-allegedly-supplying-sar-imagery-to-russias-wagner-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T103124">2023-01-27 10:31:24 UTC</a></sub>
 * [Supporting military operations on Earth to remain U.S. Space Force’s top priority](https://spacenews.com/supporting-military-operations-on-earth-to-remain-u-s-space-forces-top-priority/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T223122">2023-01-26 22:31:22 UTC</a></sub>
 * [SpaceX’s backup Dragon launch pad on track for 2023 debut](https://www.teslarati.com/spacexs-backup-dragon-pad-first-launch-fall-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T220139">2023-01-26 22:01:39 UTC</a></sub>
 * [SpaceX Falcon 9 rocket launches heaviest payload yet](https://www.teslarati.com/spacex-falcon-9-rocket-launches-heaviest-payload-yet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T193140">2023-01-26 19:31:40 UTC</a></sub>
@@ -192,7 +193,6 @@ region. The mission's status is currently To Be Confirmed
 * [NEO Surveyor launch delayed despite funding boost](https://spacenews.com/neo-surveyor-launch-delayed-despite-funding-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T120123">2023-01-26 12:01:23 UTC</a></sub>
 * [SpaceX sets stage for Starship booster’s first 33-engine static fire](https://www.teslarati.com/spacex-sets-stage-starship-booster-33-engine-static-fire-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T015138">2023-01-26 01:51:38 UTC</a></sub>
 * [Senators press Defense Secretary Austin to keep Space Command in Colorado](https://spacenews.com/senators-press-defense-secretary-austin-to-keep-space-command-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T002122">2023-01-26 00:21:22 UTC</a></sub>
-* [Lamborn named chair of House Armed Services strategic forces subcommittee](https://spacenews.com/lamborn-named-chair-of-house-armed-services-strategic-forces-subcommittee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T231122">2023-01-25 23:11:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -225,7 +225,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T100117">2023-01-27 10:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T103234">2023-01-27 10:32:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
