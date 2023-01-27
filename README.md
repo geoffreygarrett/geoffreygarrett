@@ -185,6 +185,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lynk Global finalizing ground station for direct-to-smartphone services](https://spacenews.com/lynk-global-finalizing-ground-station-for-direct-to-smartphone-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T215122">2023-01-27 21:51:22 UTC</a></sub>
+* [SpaceX preparing for Super Heavy static-fire test](https://spacenews.com/spacex-preparing-for-super-heavy-static-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T214121">2023-01-27 21:41:21 UTC</a></sub>
 * [Satellite billed as the ‘future GPS’ begins key tests](https://spacenews.com/satellite-billed-as-the-future-gps-begins-key-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T201121">2023-01-27 20:11:21 UTC</a></sub>
 * [L3Harris ‘optimistic’ Aerojet Rocketdyne acquisition will close in 2023](https://spacenews.com/l3harris-optimistic-aerojet-rocketdyne-acquisition-will-close-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T181120">2023-01-27 18:11:20 UTC</a></sub>
 * [Oklahoma Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/oklahoma-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T181100">2023-01-27 18:11:00 UTC</a></sub>
@@ -193,8 +195,6 @@ region. The mission's status is currently To Be Confirmed
 * [Arriving at Titan: How Dragonfly’s Entry, Descent, and Landing will differ from Mars missions](https://www.nasaspaceflight.com/2023/01/dragonfly-edl-overview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T151935">2023-01-27 15:19:35 UTC</a></sub>
 * [NASA still working on long-term plans for ISS seat barters](https://spacenews.com/nasa-still-working-on-long-term-plans-for-iss-seat-barters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T132121">2023-01-27 13:21:21 UTC</a></sub>
 * [Hispasat invests in reforestation to drive sustainability expansion strategy](https://spacenews.com/hispasat-invests-in-reforestation-to-drive-sustainability-expansion-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T131122">2023-01-27 13:11:22 UTC</a></sub>
-* [Janus considering alternative missions after losing original ride](https://spacenews.com/janus-considering-alternative-missions-after-losing-original-ride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T120128">2023-01-27 12:01:28 UTC</a></sub>
-* [Rocket Report: NASA validates new engine design; Chinese firm tests mini Starship](https://arstechnica.com/science/2023/01/rocket-report-nasa-validates-new-engine-design-chinese-firm-tests-mini-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T120034">2023-01-27 12:00:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -227,7 +227,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T213045">2023-01-27 21:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T220044">2023-01-27 22:00:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
