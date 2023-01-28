@@ -110,9 +110,9 @@ region. The mission's status is currently Go for Launch
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 49 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 
-This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a share-ride payload.
+This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload.
 </blockquote>
 
 <p float="left" align="center">
@@ -229,7 +229,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a share-ride payloa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T100056">2023-01-28 10:00:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T103105">2023-01-28 10:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
