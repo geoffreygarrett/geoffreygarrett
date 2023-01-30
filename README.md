@@ -188,6 +188,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <!-- spaceflight news starts -->
 * [SpaceX Falcon 9 rockets set for Starlink double-header](https://www.teslarati.com/spacex-falcon-9-starlink-double-header-launch-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T233137">2023-01-29 23:31:37 UTC</a></sub>
+* [NASA meeting works to define exploration architecture](https://spacenews.com/nasa-meeting-works-to-define-exploration-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T004122">2023-01-29 00:41:22 UTC</a></sub>
 * [Commerce Department outlines plans for basic space traffic management service](https://spacenews.com/commerce-department-outlines-plans-for-basic-space-traffic-management-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T180122">2023-01-28 18:01:22 UTC</a></sub>
 * [Europe seeks greater autonomy in space traffic management](https://spacenews.com/europe-seeks-greater-autonomy-in-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T002121">2023-01-28 00:21:21 UTC</a></sub>
 * [Lynk Global finalizing ground station for direct-to-smartphone services](https://spacenews.com/lynk-global-finalizing-ground-station-for-direct-to-smartphone-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T215122">2023-01-27 21:51:22 UTC</a></sub>
@@ -196,7 +197,6 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 * [L3Harris ‘optimistic’ Aerojet Rocketdyne acquisition will close in 2023](https://spacenews.com/l3harris-optimistic-aerojet-rocketdyne-acquisition-will-close-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T181120">2023-01-27 18:11:20 UTC</a></sub>
 * [Oklahoma Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/oklahoma-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T181100">2023-01-27 18:11:00 UTC</a></sub>
 * [NASA Launches Aeronautics Spanish-Language Webpages](http://www.nasa.gov/press-release/nasa-launches-aeronautics-spanish-language-webpages) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T162100">2023-01-27 16:21:00 UTC</a></sub>
-* [La NASA lanza páginas web en español sobre aeronáutica](http://www.nasa.gov/press-release/la-nasa-lanza-paginas-web-en-espanol-sobre-aeronautica) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T162100">2023-01-27 16:21:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T000138">2023-01-30 00:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T004459">2023-01-30 00:44:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
