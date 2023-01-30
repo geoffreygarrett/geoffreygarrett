@@ -187,6 +187,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Asteroid mining startup AstroForge to launch first missions this year](https://spacenews.com/asteroid-mining-startup-astroforge-to-launch-first-missions-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T125122">2023-01-30 12:51:22 UTC</a></sub>
 * [SpaceX Falcon 9 rockets set for Starlink double-header](https://www.teslarati.com/spacex-falcon-9-starlink-double-header-launch-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T233137">2023-01-29 23:31:37 UTC</a></sub>
 * [SpaceX’s 100-launch target is more realistic than it seems](https://www.teslarati.com/elon-musk-spacex-100-launches-2023-surprisingly-doable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T042140">2023-01-29 04:21:40 UTC</a></sub>
 * [NASA meeting works to define exploration architecture](https://spacenews.com/nasa-meeting-works-to-define-exploration-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T004122">2023-01-29 00:41:22 UTC</a></sub>
@@ -196,7 +197,6 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 * [SpaceX preparing for Super Heavy static-fire test](https://spacenews.com/spacex-preparing-for-super-heavy-static-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T214121">2023-01-27 21:41:21 UTC</a></sub>
 * [Satellite billed as the ‘future GPS’ begins key tests](https://spacenews.com/satellite-billed-as-the-future-gps-begins-key-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T201121">2023-01-27 20:11:21 UTC</a></sub>
 * [L3Harris ‘optimistic’ Aerojet Rocketdyne acquisition will close in 2023](https://spacenews.com/l3harris-optimistic-aerojet-rocketdyne-acquisition-will-close-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T181120">2023-01-27 18:11:20 UTC</a></sub>
-* [Oklahoma Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/oklahoma-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T181100">2023-01-27 18:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T130659">2023-01-30 13:06:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T133409">2023-01-30 13:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
