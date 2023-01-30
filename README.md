@@ -188,7 +188,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <!-- spaceflight news starts -->
 * [SpaceX Falcon 9 rockets set for Starlink double-header](https://www.teslarati.com/spacex-falcon-9-starlink-double-header-launch-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T233137">2023-01-29 23:31:37 UTC</a></sub>
-* [Elon Musk’s goal of 100 SpaceX launches in 2023 is looking surprisingly doable](https://www.teslarati.com/elon-musk-spacex-100-launches-2023-surprisingly-doable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T010142">2023-01-29 01:01:42 UTC</a></sub>
+* [SpaceX’s 100-launch target is more realistic than it seems](https://www.teslarati.com/elon-musk-spacex-100-launches-2023-surprisingly-doable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T042140">2023-01-29 04:21:40 UTC</a></sub>
 * [NASA meeting works to define exploration architecture](https://spacenews.com/nasa-meeting-works-to-define-exploration-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T004122">2023-01-29 00:41:22 UTC</a></sub>
 * [Commerce Department outlines plans for basic space traffic management service](https://spacenews.com/commerce-department-outlines-plans-for-basic-space-traffic-management-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T180122">2023-01-28 18:01:22 UTC</a></sub>
 * [Europe seeks greater autonomy in space traffic management](https://spacenews.com/europe-seeks-greater-autonomy-in-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T002121">2023-01-28 00:21:21 UTC</a></sub>
@@ -229,7 +229,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T040045">2023-01-30 04:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T043324">2023-01-30 04:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
