@@ -187,6 +187,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew Dragon astronauts to receive rare space medal from the White House](https://arstechnica.com/science/2023/01/crew-dragon-astronauts-to-receive-rare-space-medal-from-the-white-house/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T144912">2023-01-31 14:49:12 UTC</a></sub>
 * [China’s CAS Space outlines rocket series, inaugurates manufacturing facility](https://spacenews.com/chinas-cas-space-outlines-rocket-series-inaugurates-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T141122">2023-01-31 14:11:22 UTC</a></sub>
 * [Xplore announces first launch of remote-sensing smallsat](https://spacenews.com/xplore-announces-first-launch-of-remote-sensing-smallsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T140120">2023-01-31 14:01:20 UTC</a></sub>
 * [Capella Space establishes new business unit focused on U.S. defense market](https://spacenews.com/capella-space-establishes-new-business-unit-focused-on-u-s-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T140120">2023-01-31 14:01:20 UTC</a></sub>
@@ -196,7 +197,6 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 * [Lockheed Martin to launch first demo of new mid-size bus](https://spacenews.com/lockheed-martin-to-launch-first-demo-of-new-mid-size-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T110123">2023-01-31 11:01:23 UTC</a></sub>
 * [Inmarsat-6 F2 satellite completes three-day trip to SpaceX launch site](https://spacenews.com/inmarsat-6-f2-satellite-completes-three-day-trip-to-spacex-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T213122">2023-01-30 21:31:22 UTC</a></sub>
 * [Former NASA Astronauts to Receive Congressional Space Medal of Honor](http://www.nasa.gov/press-release/former-nasa-astronauts-to-receive-congressional-space-medal-of-honor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T213100">2023-01-30 21:31:00 UTC</a></sub>
-* [NASA to Air Live Coverage of Spacewalk for Power System Upgrades](http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-spacewalk-for-power-system-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T190100">2023-01-30 19:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T143055">2023-01-31 14:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T150109">2023-01-31 15:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
