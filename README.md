@@ -184,6 +184,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Spinoffs Bolster Climate Resilience, Improve Medical Care, More](http://www.nasa.gov/press-release/nasa-spinoffs-bolster-climate-resilience-improve-medical-care-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T181100">2023-01-31 18:11:00 UTC</a></sub>
 * [SpaceX launches first flight of cross-country Starlink doubleheader](https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T154009">2023-01-31 15:40:09 UTC</a></sub>
 * [Crew Dragon astronauts to receive rare space medal from the White House](https://arstechnica.com/science/2023/01/crew-dragon-astronauts-to-receive-rare-space-medal-from-the-white-house/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T144912">2023-01-31 14:49:12 UTC</a></sub>
 * [China’s CAS Space outlines rocket series, inaugurates manufacturing facility](https://spacenews.com/chinas-cas-space-outlines-rocket-series-inaugurates-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T141122">2023-01-31 14:11:22 UTC</a></sub>
@@ -193,7 +194,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA hits limits of space station utilization](https://spacenews.com/nasa-hits-limits-of-space-station-utilization/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T132120">2023-01-31 13:21:20 UTC</a></sub>
 * [House passes commercial remote sensing bill](https://spacenews.com/house-passes-commercial-remote-sensing-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T130122">2023-01-31 13:01:22 UTC</a></sub>
 * [Lockheed Martin to launch first demo of new mid-size bus](https://spacenews.com/lockheed-martin-to-launch-first-demo-of-new-mid-size-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T110123">2023-01-31 11:01:23 UTC</a></sub>
-* [Inmarsat-6 F2 satellite completes three-day trip to SpaceX launch site](https://spacenews.com/inmarsat-6-f2-satellite-completes-three-day-trip-to-spacex-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T213122">2023-01-30 21:31:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T180057">2023-01-31 18:00:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T183304">2023-01-31 18:33:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
