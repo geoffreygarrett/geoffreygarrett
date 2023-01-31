@@ -187,16 +187,16 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China’s CAS Space outlines rocket series, inaugurates manufacturing facility](https://spacenews.com/chinas-cas-space-outlines-rocket-series-inaugurates-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T141122">2023-01-31 14:11:22 UTC</a></sub>
+* [Xplore announces first launch of remote-sensing smallsat](https://spacenews.com/xplore-announces-first-launch-of-remote-sensing-smallsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T140120">2023-01-31 14:01:20 UTC</a></sub>
+* [Capella Space establishes new business unit focused on U.S. defense market](https://spacenews.com/capella-space-establishes-new-business-unit-focused-on-u-s-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T140120">2023-01-31 14:01:20 UTC</a></sub>
+* [LA-based Embedded Ventures launches inaugural fund, with focus on national security and space tech](https://www.cnbc.com/2023/01/31/vc-firm-embedded-ventures-fund-for-national-security-space.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T140001">2023-01-31 14:00:01 UTC</a></sub>
 * [NASA hits limits of space station utilization](https://spacenews.com/nasa-hits-limits-of-space-station-utilization/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T132120">2023-01-31 13:21:20 UTC</a></sub>
 * [House passes commercial remote sensing bill](https://spacenews.com/house-passes-commercial-remote-sensing-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T130122">2023-01-31 13:01:22 UTC</a></sub>
 * [Lockheed Martin to launch first demo of new mid-size bus](https://spacenews.com/lockheed-martin-to-launch-first-demo-of-new-mid-size-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T110123">2023-01-31 11:01:23 UTC</a></sub>
 * [Inmarsat-6 F2 satellite completes three-day trip to SpaceX launch site](https://spacenews.com/inmarsat-6-f2-satellite-completes-three-day-trip-to-spacex-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T213122">2023-01-30 21:31:22 UTC</a></sub>
 * [Former NASA Astronauts to Receive Congressional Space Medal of Honor](http://www.nasa.gov/press-release/former-nasa-astronauts-to-receive-congressional-space-medal-of-honor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T213100">2023-01-30 21:31:00 UTC</a></sub>
 * [NASA to Air Live Coverage of Spacewalk for Power System Upgrades](http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-spacewalk-for-power-system-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T190100">2023-01-30 19:01:00 UTC</a></sub>
-* [NASA's Perseverance Rover Completes Mars Sample Depot](https://mars.nasa.gov/news/9337/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T174100">2023-01-30 17:41:00 UTC</a></sub>
-* [SpaceX delays first flight of cross-country Starlink doubleheader to Tuesday](https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T144009">2023-01-30 14:40:09 UTC</a></sub>
-* [After a failure 4 months ago, the New Shepard spacecraft remains in limbo](https://arstechnica.com/science/2023/01/blue-origin-may-restart-new-shepard-flights-in-april-or-may-or-not/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T135523">2023-01-30 13:55:23 UTC</a></sub>
-* [Asteroid mining startup AstroForge to launch first missions this year](https://spacenews.com/asteroid-mining-startup-astroforge-to-launch-first-missions-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T125122">2023-01-30 12:51:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T140052">2023-01-31 14:00:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T143055">2023-01-31 14:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
