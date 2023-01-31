@@ -187,6 +187,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed Martin to launch first demo of new mid-size bus](https://spacenews.com/lockheed-martin-to-launch-first-demo-of-new-mid-size-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T110123">2023-01-31 11:01:23 UTC</a></sub>
 * [Inmarsat-6 F2 satellite completes three-day trip to SpaceX launch site](https://spacenews.com/inmarsat-6-f2-satellite-completes-three-day-trip-to-spacex-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T213122">2023-01-30 21:31:22 UTC</a></sub>
 * [Former NASA Astronauts to Receive Congressional Space Medal of Honor](http://www.nasa.gov/press-release/former-nasa-astronauts-to-receive-congressional-space-medal-of-honor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T213100">2023-01-30 21:31:00 UTC</a></sub>
 * [NASA to Air Live Coverage of Spacewalk for Power System Upgrades](http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-spacewalk-for-power-system-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T190100">2023-01-30 19:01:00 UTC</a></sub>
@@ -196,7 +197,6 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 * [Asteroid mining startup AstroForge to launch first missions this year](https://spacenews.com/asteroid-mining-startup-astroforge-to-launch-first-missions-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T125122">2023-01-30 12:51:22 UTC</a></sub>
 * [LeoLabs scans skies with West Australian Space Radar](https://spacenews.com/leolabs-commissions-australia-radar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T042121">2023-01-30 04:21:21 UTC</a></sub>
 * [SpaceX’s first NASA astronauts to receive Space Medal of Honor for Dragon test flight](https://www.teslarati.com/spacex-first-nasa-astronauts-congressional-space-medal-of-honor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T005138">2023-01-30 00:51:38 UTC</a></sub>
-* [SpaceX’s 100-launch target is more realistic than it seems](https://www.teslarati.com/elon-musk-spacex-100-launches-2023-surprisingly-doable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T042140">2023-01-29 04:21:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T110038">2023-01-31 11:00:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T113056">2023-01-31 11:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
