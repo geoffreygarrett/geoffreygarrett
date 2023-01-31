@@ -184,6 +184,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force chief: Satellites are under threat, ‘we have to be ready’](https://spacenews.com/space-force-chief-satellites-are-under-threat-we-have-to-be-ready/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T212121">2023-01-31 21:21:21 UTC</a></sub>
+* [NASA Extends Goddard Logistics, Technical Services Contract](http://www.nasa.gov/press-release/nasa-extends-goddard-logistics-technical-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T211100">2023-01-31 21:11:00 UTC</a></sub>
 * [Orbital Sidekick raises $10 million from customers and existing investors](https://spacenews.com/orbital-sidekick-raises-10-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T191122">2023-01-31 19:11:22 UTC</a></sub>
 * [Capella Space establishes new subsidiary focused on U.S. defense market](https://spacenews.com/capella-space-establishes-new-business-unit-focused-on-u-s-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T185122">2023-01-31 18:51:22 UTC</a></sub>
 * [NASA Spinoffs Bolster Climate Resilience, Improve Medical Care, More](http://www.nasa.gov/press-release/nasa-spinoffs-bolster-climate-resilience-improve-medical-care-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T181100">2023-01-31 18:11:00 UTC</a></sub>
@@ -192,8 +194,6 @@ region. The mission's status is currently Go for Launch
 * [China’s CAS Space outlines rocket series, inaugurates manufacturing facility](https://spacenews.com/chinas-cas-space-outlines-rocket-series-inaugurates-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T141122">2023-01-31 14:11:22 UTC</a></sub>
 * [Xplore announces first launch of remote-sensing smallsat](https://spacenews.com/xplore-announces-first-launch-of-remote-sensing-smallsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T140120">2023-01-31 14:01:20 UTC</a></sub>
 * [LA-based Embedded Ventures launches inaugural fund, with focus on national security and space tech](https://www.cnbc.com/2023/01/31/vc-firm-embedded-ventures-fund-for-national-security-space.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T140001">2023-01-31 14:00:01 UTC</a></sub>
-* [NASA hits limits of space station utilization](https://spacenews.com/nasa-hits-limits-of-space-station-utilization/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T132120">2023-01-31 13:21:20 UTC</a></sub>
-* [House passes commercial remote sensing bill](https://spacenews.com/house-passes-commercial-remote-sensing-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T130122">2023-01-31 13:01:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T213043">2023-01-31 21:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T220057">2023-01-31 22:00:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
