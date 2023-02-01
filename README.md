@@ -184,6 +184,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [VP Awards Former NASA Astronauts Congressional Space Medal of Honor](http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T235100">2023-01-31 23:51:00 UTC</a></sub>
+* [Starlink satellites, Italian space tug launched by SpaceX rocket](https://spaceflightnow.com/2023/01/31/starlink-satellites-italian-space-tug-launched-by-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T233118">2023-01-31 23:31:18 UTC</a></sub>
 * [SpaceX launches 200th Falcon 9 rocket](https://www.teslarati.com/spacex-200th-falcon-9-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T224140">2023-01-31 22:41:40 UTC</a></sub>
 * [Space Force chief: Satellites are under threat, ‘we have to be ready’](https://spacenews.com/space-force-chief-satellites-are-under-threat-we-have-to-be-ready/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T212121">2023-01-31 21:21:21 UTC</a></sub>
 * [NASA Extends Goddard Logistics, Technical Services Contract](http://www.nasa.gov/press-release/nasa-extends-goddard-logistics-technical-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T211100">2023-01-31 21:11:00 UTC</a></sub>
@@ -192,8 +194,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Spinoffs Bolster Climate Resilience, Improve Medical Care, More](http://www.nasa.gov/press-release/nasa-spinoffs-bolster-climate-resilience-improve-medical-care-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T181100">2023-01-31 18:11:00 UTC</a></sub>
 * [SpaceX launches first flight of cross-country Starlink doubleheader](https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T154009">2023-01-31 15:40:09 UTC</a></sub>
 * [Crew Dragon astronauts to receive rare space medal from the White House](https://arstechnica.com/science/2023/01/crew-dragon-astronauts-to-receive-rare-space-medal-from-the-white-house/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T144912">2023-01-31 14:49:12 UTC</a></sub>
-* [China’s CAS Space outlines rocket series, inaugurates manufacturing facility](https://spacenews.com/chinas-cas-space-outlines-rocket-series-inaugurates-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T141122">2023-01-31 14:11:22 UTC</a></sub>
-* [Xplore announces first launch of remote-sensing smallsat](https://spacenews.com/xplore-announces-first-launch-of-remote-sensing-smallsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T140120">2023-01-31 14:01:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T233046">2023-01-31 23:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T000222">2023-02-01 00:02:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
