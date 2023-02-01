@@ -139,6 +139,7 @@ region. The mission's status is currently Go for Launch
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Soyuz MS-23</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T015700">2023-02-20 01:57:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-23&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230220T015700Z%2F20230220T015700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T000000">2023-02-25 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 &amp; 2 (Maiden flight)&location=Cape Canaveral, FL, USA&dates=20230225T000000Z%2F20230225T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Crew-6</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T070700">2023-02-26 07:07:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-6&location=Kennedy Space Center, FL, USA&dates=20230226T070700Z%2F20230226T070700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T000000">2023-02-28 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20230228T000000Z%2F20230228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -184,7 +185,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Richard Branson moves to consolidate his secured interest in Virgin Orbit](https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T152505">2023-02-01 15:25:05 UTC</a></sub>
+* [Virgin Orbit receives another small investment from Branson—and it’s worrisome](https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T152505">2023-02-01 15:25:05 UTC</a></sub>
 * [Two decades after the Columbia disaster, is NASA’s safety culture fixed?](https://arstechnica.com/science/2023/02/two-decades-after-the-columbia-disaster-is-nasas-safety-culture-fixed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T120154">2023-02-01 12:01:54 UTC</a></sub>
 * [Governments to be major customers of future Axiom Space private astronaut missions](https://spacenews.com/governments-to-be-major-customers-of-future-axiom-space-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T071122">2023-02-01 07:11:22 UTC</a></sub>
 * [VP Awards Former NASA Astronauts Congressional Space Medal of Honor](http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T235100">2023-01-31 23:51:00 UTC</a></sub>
@@ -226,7 +227,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T160046">2023-02-01 16:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T163557">2023-02-01 16:35:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
