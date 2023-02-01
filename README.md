@@ -184,6 +184,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Governments to be major customers of future Axiom Space private astronaut missions](https://spacenews.com/governments-to-be-major-customers-of-future-axiom-space-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T071122">2023-02-01 07:11:22 UTC</a></sub>
 * [VP Awards Former NASA Astronauts Congressional Space Medal of Honor](http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T235100">2023-01-31 23:51:00 UTC</a></sub>
 * [Starlink satellites, Italian space tug launched by SpaceX rocket](https://spaceflightnow.com/2023/01/31/starlink-satellites-italian-space-tug-launched-by-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T233118">2023-01-31 23:31:18 UTC</a></sub>
 * [SpaceX launches 200th Falcon 9 rocket](https://www.teslarati.com/spacex-200th-falcon-9-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T224140">2023-01-31 22:41:40 UTC</a></sub>
@@ -193,7 +194,6 @@ region. The mission's status is currently Go for Launch
 * [Capella Space establishes new subsidiary focused on U.S. defense market](https://spacenews.com/capella-space-establishes-new-business-unit-focused-on-u-s-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T185122">2023-01-31 18:51:22 UTC</a></sub>
 * [NASA Spinoffs Bolster Climate Resilience, Improve Medical Care, More](http://www.nasa.gov/press-release/nasa-spinoffs-bolster-climate-resilience-improve-medical-care-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T181100">2023-01-31 18:11:00 UTC</a></sub>
 * [SpaceX launches first flight of cross-country Starlink doubleheader](https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T154009">2023-01-31 15:40:09 UTC</a></sub>
-* [Crew Dragon astronauts to receive rare space medal from the White House](https://arstechnica.com/science/2023/01/crew-dragon-astronauts-to-receive-rare-space-medal-from-the-white-house/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T144912">2023-01-31 14:49:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T070049">2023-02-01 07:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T073044">2023-02-01 07:30:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
