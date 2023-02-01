@@ -184,6 +184,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Two decades after the Columbia disaster, is NASA’s safety culture fixed?](https://arstechnica.com/science/2023/02/two-decades-after-the-columbia-disaster-is-nasas-safety-culture-fixed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T120154">2023-02-01 12:01:54 UTC</a></sub>
 * [Governments to be major customers of future Axiom Space private astronaut missions](https://spacenews.com/governments-to-be-major-customers-of-future-axiom-space-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T071122">2023-02-01 07:11:22 UTC</a></sub>
 * [VP Awards Former NASA Astronauts Congressional Space Medal of Honor](http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T235100">2023-01-31 23:51:00 UTC</a></sub>
 * [Starlink satellites, Italian space tug launched by SpaceX rocket](https://spaceflightnow.com/2023/01/31/starlink-satellites-italian-space-tug-launched-by-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T233118">2023-01-31 23:31:18 UTC</a></sub>
@@ -193,7 +194,6 @@ region. The mission's status is currently Go for Launch
 * [Orbital Sidekick raises $10 million from customers and existing investors](https://spacenews.com/orbital-sidekick-raises-10-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T191122">2023-01-31 19:11:22 UTC</a></sub>
 * [Capella Space establishes new subsidiary focused on U.S. defense market](https://spacenews.com/capella-space-establishes-new-business-unit-focused-on-u-s-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T185122">2023-01-31 18:51:22 UTC</a></sub>
 * [NASA Spinoffs Bolster Climate Resilience, Improve Medical Care, More](http://www.nasa.gov/press-release/nasa-spinoffs-bolster-climate-resilience-improve-medical-care-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T181100">2023-01-31 18:11:00 UTC</a></sub>
-* [SpaceX launches first flight of cross-country Starlink doubleheader](https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T154009">2023-01-31 15:40:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T120104">2023-02-01 12:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T124125">2023-02-01 12:41:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
