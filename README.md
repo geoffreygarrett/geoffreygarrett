@@ -185,6 +185,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: SpaceX set to launch 53 more Starlink internet satellites](https://spaceflightnow.com/2023/02/02/falcon-9-starlink-5-3-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T042118">2023-02-02 04:21:18 UTC</a></sub>
 * [Second flight of cross-country Starlink doubleheader targeting Thursday](https://www.nasaspaceflight.com/2023/02/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T214009">2023-02-01 21:40:09 UTC</a></sub>
 * [Virgin Orbit receives another small investment from Branson—and it’s worrisome](https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T152505">2023-02-01 15:25:05 UTC</a></sub>
 * [Two decades after the Columbia disaster, is NASA’s safety culture fixed?](https://arstechnica.com/science/2023/02/two-decades-after-the-columbia-disaster-is-nasas-safety-culture-fixed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T120154">2023-02-01 12:01:54 UTC</a></sub>
@@ -194,7 +195,6 @@ region. The mission's status is currently Go for Launch
 * [Starlink satellites, Italian space tug launched by SpaceX rocket](https://spaceflightnow.com/2023/01/31/starlink-satellites-italian-space-tug-launched-by-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T233118">2023-01-31 23:31:18 UTC</a></sub>
 * [SpaceX launches 200th Falcon 9 rocket](https://www.teslarati.com/spacex-200th-falcon-9-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T224140">2023-01-31 22:41:40 UTC</a></sub>
 * [Space Force chief: Satellites are under threat, ‘we have to be ready’](https://spacenews.com/space-force-chief-satellites-are-under-threat-we-have-to-be-ready/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T212121">2023-01-31 21:21:21 UTC</a></sub>
-* [NASA Extends Goddard Logistics, Technical Services Contract](http://www.nasa.gov/press-release/nasa-extends-goddard-logistics-technical-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T211100">2023-01-31 21:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -227,7 +227,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T040050">2023-02-02 04:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T043338">2023-02-02 04:33:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
