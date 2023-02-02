@@ -184,16 +184,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Astronauts working outside space station on spacewalk](https://spaceflightnow.com/2023/02/02/iss-us-eva-85/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T190118">2023-02-02 19:01:18 UTC</a></sub>
 * [Investing in Space: Picture day](https://www.cnbc.com/2023/02/02/investing-in-space-picture-day.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T162313">2023-02-02 16:23:13 UTC</a></sub>
 * [Joe Acabá, de la NASA, será el astronauta jefe de la agencia](http://www.nasa.gov/press-release/joe-acab-de-la-nasa-ser-el-astronauta-jefe-de-la-agencia) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T151100">2023-02-02 15:11:00 UTC</a></sub>
 * [NASA’s Joe Acaba to Serve as Agency’s Chief Astronaut](http://www.nasa.gov/press-release/nasa-s-joe-acaba-to-serve-as-agency-s-chief-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T151100">2023-02-02 15:11:00 UTC</a></sub>
+* [Astronauts conducting second EVA to lay groundwork for final iROSA arrays](https://www.nasaspaceflight.com/2023/02/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T144841">2023-02-02 14:48:41 UTC</a></sub>
 * [Watch live: SpaceX set to launch 53 more Starlink internet satellites](https://spaceflightnow.com/2023/02/02/falcon-9-starlink-5-3-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T042118">2023-02-02 04:21:18 UTC</a></sub>
 * [SpaceX conducts cross-country Starlink doubleheader](https://www.nasaspaceflight.com/2023/02/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T214009">2023-02-01 21:40:09 UTC</a></sub>
 * [Virgin Orbit receives another small investment from Branson—and it’s worrisome](https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T152505">2023-02-01 15:25:05 UTC</a></sub>
 * [Two decades after the Columbia disaster, is NASA’s safety culture fixed?](https://arstechnica.com/science/2023/02/two-decades-after-the-columbia-disaster-is-nasas-safety-culture-fixed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T120154">2023-02-01 12:01:54 UTC</a></sub>
 * [Governments to be major customers of future Axiom Space private astronaut missions](https://spacenews.com/governments-to-be-major-customers-of-future-axiom-space-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T071122">2023-02-01 07:11:22 UTC</a></sub>
-* [Elon Musk teases expendable version of SpaceX’s reusable Starship rocket](https://www.teslarati.com/spacex-starship-expendable-variant-elon-musk-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T001137">2023-02-01 00:11:37 UTC</a></sub>
-* [VP Awards Former NASA Astronauts Congressional Space Medal of Honor](http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T235100">2023-01-31 23:51:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T190047">2023-02-02 19:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T193122">2023-02-02 19:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
