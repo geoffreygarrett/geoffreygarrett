@@ -184,6 +184,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s Joe Acaba to Serve as Agency’s Chief Astronaut](http://www.nasa.gov/press-release/nasa-s-joe-acaba-to-serve-as-agency-s-chief-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T151100">2023-02-02 15:11:00 UTC</a></sub>
+* [Joe Acabá, de la NASA, será el astronauta jefe de la agencia](http://www.nasa.gov/press-release/joe-acab-de-la-nasa-ser-el-astronauta-jefe-de-la-agencia) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T151100">2023-02-02 15:11:00 UTC</a></sub>
 * [Watch live: SpaceX set to launch 53 more Starlink internet satellites](https://spaceflightnow.com/2023/02/02/falcon-9-starlink-5-3-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T042118">2023-02-02 04:21:18 UTC</a></sub>
 * [SpaceX conducts cross-country Starlink doubleheader](https://www.nasaspaceflight.com/2023/02/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T214009">2023-02-01 21:40:09 UTC</a></sub>
 * [Virgin Orbit receives another small investment from Branson—and it’s worrisome](https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T152505">2023-02-01 15:25:05 UTC</a></sub>
@@ -192,8 +194,6 @@ region. The mission's status is currently Go for Launch
 * [Elon Musk teases expendable version of SpaceX’s reusable Starship rocket](https://www.teslarati.com/spacex-starship-expendable-variant-elon-musk-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T001137">2023-02-01 00:11:37 UTC</a></sub>
 * [VP Awards Former NASA Astronauts Congressional Space Medal of Honor](http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T235100">2023-01-31 23:51:00 UTC</a></sub>
 * [Starlink satellites, Italian space tug launched by SpaceX rocket](https://spaceflightnow.com/2023/01/31/starlink-satellites-italian-space-tug-launched-by-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T233118">2023-01-31 23:31:18 UTC</a></sub>
-* [SpaceX launches 200th Falcon 9 rocket](https://www.teslarati.com/spacex-200th-falcon-9-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T224140">2023-01-31 22:41:40 UTC</a></sub>
-* [Space Force chief: Satellites are under threat, ‘we have to be ready’](https://spacenews.com/space-force-chief-satellites-are-under-threat-we-have-to-be-ready/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T212121">2023-01-31 21:21:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T150044">2023-02-02 15:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T153132">2023-02-02 15:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
