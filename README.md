@@ -191,9 +191,9 @@ region. The mission's status is currently Go for Launch
 * [NASA’s Joe Acaba to Serve as Agency’s Chief Astronaut](http://www.nasa.gov/press-release/nasa-s-joe-acaba-to-serve-as-agency-s-chief-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T151100">2023-02-02 15:11:00 UTC</a></sub>
 * [Astronauts conduct second EVA to lay groundwork for final iROSA arrays](https://www.nasaspaceflight.com/2023/02/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T144841">2023-02-02 14:48:41 UTC</a></sub>
 * [Watch live: SpaceX set to launch 53 more Starlink internet satellites](https://spaceflightnow.com/2023/02/02/falcon-9-starlink-5-3-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T042118">2023-02-02 04:21:18 UTC</a></sub>
+* [SpaceX preparing for surge of geostationary satellite launches](https://www.teslarati.com/spacex-geostationary-satellite-launch-surge-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T011204">2023-02-02 01:12:04 UTC</a></sub>
 * [20 years after Columbia disaster, lessons learned still in sharp focus at NASA](https://spaceflightnow.com/2023/02/01/20-years-after-columbia-disaster-lessons-learned-still-in-sharp-focus-at-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T233118">2023-02-01 23:31:18 UTC</a></sub>
 * [SpaceX conducts cross-country Starlink doubleheader](https://www.nasaspaceflight.com/2023/02/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T214009">2023-02-01 21:40:09 UTC</a></sub>
-* [Virgin Orbit receives another small investment from Branson—and it’s worrisome](https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T152505">2023-02-01 15:25:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T004524">2023-02-03 00:45:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T012801">2023-02-03 01:28:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
