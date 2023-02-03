@@ -185,6 +185,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: Tearing down Ariane’s SUSIE concept; is ChatGPT a rocket scientist?](https://arstechnica.com/science/2023/02/rocket-report-tearing-down-arianes-susie-concept-is-chatgpt-a-rocket-scientist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T120044">2023-02-03 12:00:44 UTC</a></sub>
 * [SpaceX Starlink Gen2 mission marks Falcon 9 rocket’s 200th successful launch](https://www.teslarati.com/spacex-falcon-9-rocket-200th-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T223137">2023-02-02 22:31:37 UTC</a></sub>
 * [Space station astronauts finish preps for next pair of new solar arrays](https://spaceflightnow.com/2023/02/02/iss-us-eva-85/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T195118">2023-02-02 19:51:18 UTC</a></sub>
 * [Investing in Space: Picture day](https://www.cnbc.com/2023/02/02/investing-in-space-picture-day.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T162313">2023-02-02 16:23:13 UTC</a></sub>
@@ -194,7 +195,6 @@ region. The mission's status is currently Go for Launch
 * [Watch live: SpaceX set to launch 53 more Starlink internet satellites](https://spaceflightnow.com/2023/02/02/falcon-9-starlink-5-3-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T042118">2023-02-02 04:21:18 UTC</a></sub>
 * [SpaceX preparing for surge of geostationary satellite launches](https://www.teslarati.com/spacex-geostationary-satellite-launch-surge-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T011204">2023-02-02 01:12:04 UTC</a></sub>
 * [20 years after Columbia disaster, lessons learned still in sharp focus at NASA](https://spaceflightnow.com/2023/02/01/20-years-after-columbia-disaster-lessons-learned-still-in-sharp-focus-at-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T233118">2023-02-01 23:31:18 UTC</a></sub>
-* [SpaceX conducts cross-country Starlink doubleheader](https://www.nasaspaceflight.com/2023/02/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T214009">2023-02-01 21:40:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -227,7 +227,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T120122">2023-02-03 12:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T124023">2023-02-03 12:40:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
