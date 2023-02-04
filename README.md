@@ -99,11 +99,11 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
 Proton-M/Blok DM-03 | Elektro-L No.4 at the
-<a href="">Unknown Pad</a> in
+<a href="">81/24 (81P)</a> in
 Baikonur Cosmodrome, Republic of Kazakhstan
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T091252">2023-02-05 09:12:52 UTC</a>. Until
-then, this launch pad will have seen 0
+then, this launch pad will have seen 91
 out of 1536 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
@@ -117,7 +117,7 @@ region. The mission's status is currently Go for Launch
   <a href="https://en.wikipedia.org/wiki/Proton-M" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="" >
+  <a href="http://maps.google.com/maps?q=46.071+N,+62.985+E" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -227,7 +227,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T193057">2023-02-04 19:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T200102">2023-02-04 20:01:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
