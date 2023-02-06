@@ -185,6 +185,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to SpaceX’s 27th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-27th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T161100">2023-02-06 16:11:00 UTC</a></sub>
 * [Major earthquake devastates areas of Southern Turkey and Northern Syria](https://arstechnica.com/science/2023/02/major-earthquake-devastates-areas-of-southern-turkey-and-northern-syria/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T141940">2023-02-06 14:19:40 UTC</a></sub>
 * [Weather delays SpaceX launch with Hispasat’s Amazonas Nexus](https://www.nasaspaceflight.com/2023/02/amazonas-nexus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T175617">2023-02-05 17:56:17 UTC</a></sub>
 * [Spanish-owned communications satellite ready for launch from Cape Canaveral](https://spaceflightnow.com/2023/02/04/spanish-owned-communications-satellite-ready-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T225118">2023-02-04 22:51:18 UTC</a></sub>
@@ -194,7 +195,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Awards Millions to Historically Black Colleges, Universities](http://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T210100">2023-02-03 21:01:00 UTC</a></sub>
 * [NASA flight software for SLS navigates through clean first launch](https://www.nasaspaceflight.com/2023/02/artemis-1-flight-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T163301">2023-02-03 16:33:01 UTC</a></sub>
 * [When will United Launch Alliance’s Vulcan rocket fly?](https://arstechnica.com/science/2023/02/when-will-united-launch-alliances-vulcan-rocket-fly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T154842">2023-02-03 15:48:42 UTC</a></sub>
-* [Rocket Report: Tearing down Ariane’s SUSIE concept; is ChatGPT a rocket scientist?](https://arstechnica.com/science/2023/02/rocket-report-tearing-down-arianes-susie-concept-is-chatgpt-a-rocket-scientist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T120044">2023-02-03 12:00:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -227,7 +227,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T160102">2023-02-06 16:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T163549">2023-02-06 16:35:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
