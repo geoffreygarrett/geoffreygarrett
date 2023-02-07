@@ -187,13 +187,13 @@ region. The mission's status is currently Go for Launch
 * [Using Hubble, researchers measure the mass of a single white dwarf for the first time](https://www.nasaspaceflight.com/2023/02/white-dwarf-mass-measurement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T170944">2023-02-06 17:09:44 UTC</a></sub>
 * [NASA Invites Media to SpaceX’s 27th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-27th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T161100">2023-02-06 16:11:00 UTC</a></sub>
 * [Major earthquake devastates areas of southern Turkey and northern Syria](https://arstechnica.com/science/2023/02/major-earthquake-devastates-areas-of-southern-turkey-and-northern-syria/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T141940">2023-02-06 14:19:40 UTC</a></sub>
-* [SpaceX launch with Hispasat’s Amazonas Nexus set for Monday](https://www.nasaspaceflight.com/2023/02/amazonas-nexus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T175617">2023-02-05 17:56:17 UTC</a></sub>
+* [SpaceX Falcon 9 rocket launches Spanish Amazonas Nexus satellite](https://www.teslarati.com/spacex-16-falcon-rocket-launches-nine-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T022138">2023-02-06 02:21:38 UTC</a></sub>
+* [SpaceX launches Hispasat’s Amazonas Nexus satellite](https://www.nasaspaceflight.com/2023/02/amazonas-nexus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T175617">2023-02-05 17:56:17 UTC</a></sub>
 * [Spanish-owned communications satellite ready for launch from Cape Canaveral](https://spaceflightnow.com/2023/02/04/spanish-owned-communications-satellite-ready-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T225118">2023-02-04 22:51:18 UTC</a></sub>
 * [Inside the ‘Wormhole,’ Relativity Space’s monster factory 3D-printing reusable rockets](https://www.cnbc.com/2023/02/04/inside-relativity-spaces-monster-factory-3d-printing-reusable-rockets.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T150032">2023-02-04 15:00:32 UTC</a></sub>
 * [Why would the Chinese government be flying a large stratospheric balloon?](https://arstechnica.com/science/2023/02/why-would-the-chinese-government-be-flying-a-large-stratospheric-balloon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T212958">2023-02-03 21:29:58 UTC</a></sub>
 * [NASA Awards Spacecraft Processing Operations Contract](http://www.nasa.gov/press-release/nasa-awards-spacecraft-processing-operations-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T211100">2023-02-03 21:11:00 UTC</a></sub>
 * [NASA Awards Millions to Historically Black Colleges, Universities](http://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T210100">2023-02-03 21:01:00 UTC</a></sub>
-* [NASA flight software for SLS navigates through clean first launch](https://www.nasaspaceflight.com/2023/02/artemis-1-flight-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T163301">2023-02-03 16:33:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T022538">2023-02-07 02:25:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T024212">2023-02-07 02:42:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
