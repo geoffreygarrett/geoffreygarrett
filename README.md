@@ -184,16 +184,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Simulation and Software Technology Services Contract](http://www.nasa.gov/press-release/nasa-awards-simulation-and-software-technology-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T214100">2023-02-07 21:41:00 UTC</a></sub>
 * [New York Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/new-york-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T194100">2023-02-07 19:41:00 UTC</a></sub>
 * [NASA's Aerospace Safety Advisory Panel Releases 2022 Annual Report](http://www.nasa.gov/press-release/nasas-aerospace-safety-advisory-panel-releases-2022-annual-report-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T165100">2023-02-07 16:51:00 UTC</a></sub>
 * [Here’s why Europe is abandoning plans to fly aboard China’s space station](https://arstechnica.com/science/2023/02/heres-why-europe-is-abandoning-plans-to-fly-aboard-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T135129">2023-02-07 13:51:29 UTC</a></sub>
+* [Perseverance completes sample return depot, Ingenuity continues flights](https://www.nasaspaceflight.com/2023/02/mars2020-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T073515">2023-02-07 07:35:15 UTC</a></sub>
 * [Using Hubble, researchers measure the mass of a single white dwarf for the first time](https://www.nasaspaceflight.com/2023/02/white-dwarf-mass-measurement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T170944">2023-02-06 17:09:44 UTC</a></sub>
 * [NASA Invites Media to SpaceX’s 27th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-27th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T161100">2023-02-06 16:11:00 UTC</a></sub>
 * [Major earthquake devastates areas of southern Turkey and northern Syria](https://arstechnica.com/science/2023/02/major-earthquake-devastates-areas-of-southern-turkey-and-northern-syria/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T141940">2023-02-06 14:19:40 UTC</a></sub>
 * [SpaceX launches communications satellite for Spain’s Hispasat](https://spaceflightnow.com/2023/02/06/falcon-9-amazonas-nexus-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T032117">2023-02-06 03:21:17 UTC</a></sub>
 * [SpaceX Falcon 9 rocket launches Spanish Amazonas Nexus satellite](https://www.teslarati.com/spacex-16-falcon-rocket-launches-nine-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T022138">2023-02-06 02:21:38 UTC</a></sub>
-* [SpaceX launches Hispasat’s Amazonas Nexus satellite](https://www.nasaspaceflight.com/2023/02/amazonas-nexus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T175617">2023-02-05 17:56:17 UTC</a></sub>
-* [Spanish-owned communications satellite ready for launch from Cape Canaveral](https://spaceflightnow.com/2023/02/04/spanish-owned-communications-satellite-ready-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T225118">2023-02-04 22:51:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T213046">2023-02-07 21:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T220111">2023-02-07 22:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
