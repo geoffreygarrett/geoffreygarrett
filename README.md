@@ -185,6 +185,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Selects Scientific Support for Goddard Institute of Space Studies](http://www.nasa.gov/press-release/goddard/2023/nasa-selects-scientific-support-for-goddard-institute-of-space-studies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T191100">2023-02-08 19:11:00 UTC</a></sub>
 * [NASA's Curiosity Finds Surprise Clues to Mars' Watery Past](https://mars.nasa.gov/news/9344/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T180100">2023-02-08 18:01:00 UTC</a></sub>
 * [Progress MS-22 resupply ship ready for launch to ISS](https://www.nasaspaceflight.com/2023/02/progress-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T180001">2023-02-08 18:00:01 UTC</a></sub>
 * [Mysterious Russian satellites are now breaking apart in low-Earth orbit](https://arstechnica.com/science/2023/02/mysterious-russian-satellites-are-now-breaking-apart-in-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T142558">2023-02-08 14:25:58 UTC</a></sub>
@@ -194,7 +195,6 @@ region. The mission's status is currently Go for Launch
 * [Here’s why Europe is abandoning plans to fly aboard China’s space station](https://arstechnica.com/science/2023/02/heres-why-europe-is-abandoning-plans-to-fly-aboard-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T135129">2023-02-07 13:51:29 UTC</a></sub>
 * [Perseverance completes sample return depot, Ingenuity continues flights](https://www.nasaspaceflight.com/2023/02/mars2020-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T073515">2023-02-07 07:35:15 UTC</a></sub>
 * [Stoke Space to build SpaceX Raptor engine’s first real competitor](https://www.teslarati.com/stoke-space-spacex-starship-raptor-engine-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T015135">2023-02-07 01:51:35 UTC</a></sub>
-* [Using Hubble, researchers measure the mass of a single white dwarf for the first time](https://www.nasaspaceflight.com/2023/02/white-dwarf-mass-measurement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T170944">2023-02-06 17:09:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -227,7 +227,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T190049">2023-02-08 19:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T193057">2023-02-08 19:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
