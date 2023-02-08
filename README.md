@@ -139,6 +139,7 @@ region. The mission's status is currently Go for Launch
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Soyuz MS-23</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T015700">2023-02-20 01:57:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-23&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230220T015700Z%2F20230220T015700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Crew-6</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T070700">2023-02-26 07:07:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-6&location=Kennedy Space Center, FL, USA&dates=20230226T070700Z%2F20230226T070700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T000000">2023-02-28 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20230228T000000Z%2F20230228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun (Maiden Flight)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T000000">2023-02-28 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230228T000000Z%2F20230228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -189,11 +190,11 @@ region. The mission's status is currently Go for Launch
 * [NASA's Aerospace Safety Advisory Panel Releases 2022 Annual Report](http://www.nasa.gov/press-release/nasas-aerospace-safety-advisory-panel-releases-2022-annual-report-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T165100">2023-02-07 16:51:00 UTC</a></sub>
 * [Here’s why Europe is abandoning plans to fly aboard China’s space station](https://arstechnica.com/science/2023/02/heres-why-europe-is-abandoning-plans-to-fly-aboard-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T135129">2023-02-07 13:51:29 UTC</a></sub>
 * [Perseverance completes sample return depot, Ingenuity continues flights](https://www.nasaspaceflight.com/2023/02/mars2020-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T073515">2023-02-07 07:35:15 UTC</a></sub>
+* [Stoke Space to build SpaceX Raptor engine’s first real competitor](https://www.teslarati.com/stoke-space-spacex-starship-raptor-engine-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T015135">2023-02-07 01:51:35 UTC</a></sub>
 * [Using Hubble, researchers measure the mass of a single white dwarf for the first time](https://www.nasaspaceflight.com/2023/02/white-dwarf-mass-measurement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T170944">2023-02-06 17:09:44 UTC</a></sub>
 * [NASA Invites Media to SpaceX’s 27th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-27th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T161100">2023-02-06 16:11:00 UTC</a></sub>
 * [Major earthquake devastates areas of southern Turkey and northern Syria](https://arstechnica.com/science/2023/02/major-earthquake-devastates-areas-of-southern-turkey-and-northern-syria/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T141940">2023-02-06 14:19:40 UTC</a></sub>
 * [SpaceX launches communications satellite for Spain’s Hispasat](https://spaceflightnow.com/2023/02/06/falcon-9-amazonas-nexus-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T032117">2023-02-06 03:21:17 UTC</a></sub>
-* [SpaceX Falcon 9 rocket launches Spanish Amazonas Nexus satellite](https://www.teslarati.com/spacex-16-falcon-rocket-launches-nine-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T022138">2023-02-06 02:21:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +227,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T012749">2023-02-08 01:27:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T020346">2023-02-08 02:03:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
