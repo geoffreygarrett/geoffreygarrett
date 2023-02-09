@@ -110,7 +110,7 @@ region. The mission's status is currently Go for Launch
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Second test flight of Indian SSLV (Small Satellite Launch Vehicle). The payloads include an Earth observation satellite EOS-7, Janus-1 from US firm Antaris and another domestic rideshare satellite.
+  Second test flight of Indian SSLV (Small Satellite Launch Vehicle). The payloads include an Earth observation satellite EOS-7, Janus-1 from US firm Antaris, and another domestic satellite AzaadiSAT-2.
 </blockquote>
 
 <p float="left" align="center">
@@ -192,8 +192,8 @@ region. The mission's status is currently Go for Launch
 * [Progress MS-22 resupply ship launches to ISS](https://www.nasaspaceflight.com/2023/02/progress-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T060001">2023-02-09 06:00:01 UTC</a></sub>
 * [Watch live: Russian Progress resupply ship ready for launch to space station](https://spaceflightnow.com/2023/02/09/watch-live-russian-progress-resupply-ship-ready-for-launch-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T052118">2023-02-09 05:21:18 UTC</a></sub>
 * [NASA Awards Environmental Compliance, Operations Contract](http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-operations-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T211100">2023-02-08 21:11:00 UTC</a></sub>
+* [Watch live: SpaceX ready for 33-engine test of Starship’s Super Heavy booster](https://spaceflightnow.com/2023/02/08/spacex-ready-for-33-engine-test-firing-of-starships-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T203118">2023-02-08 20:31:18 UTC</a></sub>
 * [SpaceX prepares for a massive test this week: Firing all 33 Starship engines at once](https://www.cnbc.com/2023/02/08/spacex-prepares-test-fire-all-starship-engines-at-once.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T202303">2023-02-08 20:23:03 UTC</a></sub>
-* [NASA's Curiosity Finds Surprise Clues to Mars' Watery Past](https://mars.nasa.gov/news/9344/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T180100">2023-02-08 18:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T210044">2023-02-09 21:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T213052">2023-02-09 21:30:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
