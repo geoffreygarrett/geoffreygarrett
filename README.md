@@ -184,6 +184,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Starship in the D.C. spotlight](https://www.cnbc.com/2023/02/09/investing-in-space-starship-in-the-dc-spotlight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T164943">2023-02-09 16:49:43 UTC</a></sub>
 * [As record rocket launches crowd airspace, the FAA fights to limit travel disruptions](https://www.cnbc.com/2023/02/09/airlines-rocket-launches-crowd-airspace.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T153042">2023-02-09 15:30:42 UTC</a></sub>
 * [Booster 7’s big day: An unprecedented test-firing of 33 Raptor rocket engines](https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T141612">2023-02-09 14:16:12 UTC</a></sub>
 * [Starship program prepares for major test with 33 engine Static Fire](https://www.nasaspaceflight.com/2023/02/starship-b7-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T140623">2023-02-09 14:06:23 UTC</a></sub>
@@ -193,7 +194,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Awards Environmental Compliance, Operations Contract](http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-operations-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T211100">2023-02-08 21:11:00 UTC</a></sub>
 * [SpaceX prepares for a massive test this week: Firing all 33 Starship engines at once](https://www.cnbc.com/2023/02/08/spacex-prepares-test-fire-all-starship-engines-at-once.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T202303">2023-02-08 20:23:03 UTC</a></sub>
 * [NASA's Curiosity Finds Surprise Clues to Mars' Watery Past](https://mars.nasa.gov/news/9344/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T180100">2023-02-08 18:01:00 UTC</a></sub>
-* [SpaceX ready for 33-engine test-firing of Starship’s Super Heavy booster](https://spaceflightnow.com/2023/02/08/spacex-ready-for-33-engine-test-firing-of-starships-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T163119">2023-02-08 16:31:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T170048">2023-02-09 17:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T173103">2023-02-09 17:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
