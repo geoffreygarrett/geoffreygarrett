@@ -98,26 +98,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-SSLV | EOS-7 & rideshare (Demo 2) at the
-<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a> in
-Sriharikota, Republic of India
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T033000">2023-02-10 03:30:00 UTC</a>. Until
-then, this launch pad will have seen 53
-out of 83 launches in this
-region. The mission's status is currently Go for Launch
-(Go) 🟩  which means:
-*current T-0 confirmed by official or reliable sources.* 
+Falcon 9 Block 5 | Starlink Group 5-4 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T044200">2023-02-12 04:42:00 UTC</a>. Until
+then, this launch pad will have seen 168
+out of 873 launches in this
+region. The mission's status is currently To Be Confirmed
+(TBC) 🟨  which means:
+*awaiting official confirmation - current date is known with some certainty.* 
 <br>
 <blockquote>
-  Second test flight of Indian SSLV (Small Satellite Launch Vehicle). The payloads include an Earth observation satellite EOS-7, Janus-1 from US firm Antaris, and another domestic satellite AzaadiSAT-2.
+  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Small_Satellite_Launch_Vehicle" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=13.733,80.235" >
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -130,7 +130,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>EOS-7 & rideshare (SSLV Demo 2)</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T033000">2023-02-10 03:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | EOS-7 &amp; rideshare (Demo 2)&location=Sriharikota, Republic of India&dates=20230210T033000Z%2F20230210T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-4</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T044200">2023-02-12 04:42:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-4&location=Cape Canaveral, FL, USA&dates=20230212T044200Z%2F20230212T090200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> <b>ALOS-3 (Maiden flight)</b> from Tanegashima, Japan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T013755">2023-02-15 01:37:55 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230215T013755Z%2F20230215T014415Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-5</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T163200">2023-02-15 16:32:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-5&location=Vandenberg SFB, CA, USA&dates=20230215T163200Z%2F20230215T215500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -184,7 +183,6 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX Starship booster survives most powerful rocket test in history](https://www.teslarati.com/spacex-starship-booster-survives-most-powerful-static-fire-in-history/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T232137">2023-02-09 23:21:37 UTC</a></sub>
 * [NASA Selects Blue Origin to Launch Mars’ Magnetosphere Study Mission](http://www.nasa.gov/press-release/nasa-selects-blue-origin-to-launch-mars-magnetosphere-study-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T231100">2023-02-09 23:11:00 UTC</a></sub>
 * [SpaceX test-fires 31 engines on Starship’s gigantic Super Heavy booster](https://spaceflightnow.com/2023/02/09/spacex-test-fires-31-engines-on-starships-gigantic-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T223118">2023-02-09 22:31:18 UTC</a></sub>
 * [SpaceX completes a hot fire test of its massive Super Heavy rocket [Updated]](https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T214012">2023-02-09 21:40:12 UTC</a></sub>
@@ -194,6 +192,7 @@ region. The mission's status is currently Go for Launch
 * [Investing in Space: Starship in the D.C. spotlight](https://www.cnbc.com/2023/02/09/investing-in-space-starship-in-the-dc-spotlight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T164943">2023-02-09 16:49:43 UTC</a></sub>
 * [As record rocket launches crowd airspace, the FAA fights to limit travel disruptions](https://www.cnbc.com/2023/02/09/airlines-rocket-launches-crowd-airspace.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T153042">2023-02-09 15:30:42 UTC</a></sub>
 * [Russian Progress resupply ship launches on flight to space station](https://spaceflightnow.com/2023/02/09/soyuz-progress-ms-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T064118">2023-02-09 06:41:18 UTC</a></sub>
+* [Progress MS-22 resupply ship launches to ISS](https://www.nasaspaceflight.com/2023/02/progress-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T060001">2023-02-09 06:00:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +225,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T030753">2023-02-10 03:07:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T033455">2023-02-10 03:34:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
