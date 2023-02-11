@@ -205,6 +205,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Every NASA Authorization](https://www.planetary.org/space-policy/every-nasa-authorization) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T193138">2023-02-11 19:31:38 UTC</a></sub>
 * [What does a bear have in common with a megatsunami?](https://www.planetary.org/the-downlink/what-does-a-bear-have-in-common-with-a-megatsunami) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T153140">2023-02-10 15:31:40 UTC</a></sub>
 * [Our favorite moons of the Solar System](https://www.planetary.org/articles/our-favorite-moons-of-the-solar-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T160136">2023-02-07 16:01:36 UTC</a></sub>
 * [Vulcan: Rocket stacked for inaugural launch](https://blog.ulalaunch.com/blog/vulcan-rocket-stacked-for-inaugural-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T164145">2023-02-06 16:41:45 UTC</a></sub>
@@ -214,7 +215,6 @@ region. The mission's status is currently Go for Launch
 * [How JWST confirmed its first exoplanet and opened a new frontier](https://www.planetary.org/articles/how-jwst-confirmed-its-first-exoplanet-and-opened-a-new-frontier) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T160139">2023-01-26 16:01:39 UTC</a></sub>
 * [What to expect from Juno's Io flybys, and why a proposed mission there would tell us more](https://www.planetary.org/articles/juno-io-flybys) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T150544">2023-01-24 15:05:44 UTC</a></sub>
 * [Vulcan Centaur: First flight article arrives at Cape Canaveral](https://blog.ulalaunch.com/blog/vulcan-centaur-first-flight-article-arrives-at-cape-canaveral) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T142243">2023-01-23 14:22:43 UTC</a></sub>
-* [I spy with my technologically enhanced eye](https://www.planetary.org/the-downlink/i-spy-with-my-technologically-enhanced-eye) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T153235">2023-01-20 15:32:35 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -227,7 +227,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T193041">2023-02-11 19:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T200142">2023-02-11 20:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
