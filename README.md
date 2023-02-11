@@ -185,6 +185,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to break pad turnaround record in support of Starlink](https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T193529">2023-02-11 19:35:29 UTC</a></sub>
 * [Russian cargo ship docks as second Progress suffers sudden loss of coolant](https://spaceflightnow.com/2023/02/11/russian-cargo-ship-docks-as-second-progress-suffers-depressurization-of-coolant-loop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T171118">2023-02-11 17:11:18 UTC</a></sub>
 * [Another Russian spacecraft docked to the space station is leaking](https://arstechnica.com/science/2023/02/another-russian-spacecraft-docked-to-the-space-station-is-leaking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T164717">2023-02-11 16:47:17 UTC</a></sub>
 * [Progress MS-22 arrives at ISS, MS-21 develops coolant loop leak](https://www.nasaspaceflight.com/2023/02/progress-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T160001">2023-02-11 16:00:01 UTC</a></sub>
@@ -194,7 +195,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX test-fires 31 engines on Starship’s gigantic Super Heavy booster](https://spaceflightnow.com/2023/02/09/spacex-test-fires-31-engines-on-starships-gigantic-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T223118">2023-02-09 22:31:18 UTC</a></sub>
 * [SpaceX completes a hot fire test of its massive Super Heavy rocket [Updated]](https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T214012">2023-02-09 21:40:12 UTC</a></sub>
 * [NASA Launches New Framework for Procurement Ideas, Solutions](http://www.nasa.gov/press-release/nasa-launches-new-framework-for-procurement-ideas-solutions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T213100">2023-02-09 21:31:00 UTC</a></sub>
-* [SpaceX successfully test fires Starship booster in last key step before orbital launch](https://www.cnbc.com/2023/02/09/spacex-test-fires-starship-booster.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T212737">2023-02-09 21:27:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -227,7 +227,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T203039">2023-02-11 20:30:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T210056">2023-02-11 21:00:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
