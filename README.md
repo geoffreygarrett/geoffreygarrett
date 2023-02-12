@@ -98,26 +98,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Starlink Group 5-4 at the
-<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
-Cape Canaveral, FL, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T051010">2023-02-12 05:10:10 UTC</a>. Until
-then, this launch pad will have seen 168
-out of 873 launches in this
+H3-22 | ALOS-3 (Maiden flight) at the
+<a href="https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex">Yoshinobu Launch Complex</a> in
+Tanegashima, Japan
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T013755">2023-02-15 01:37:55 UTC</a>. Until
+then, this launch pad will have seen 40
+out of 85 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of 55 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication.
+  Maiden flight of the H3 launch vehicle, carrying the Advanced Land Observing Satellite-3 (ALOS-3).
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/H3_(rocket)" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps/place/30Â°24'08.0"N+130Â°58'30.0"E/" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -130,7 +130,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-4</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T051010">2023-02-12 05:10:10 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-4&location=Cape Canaveral, FL, USA&dates=20230212T051010Z%2F20230212T051010Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> <b>ALOS-3 (Maiden flight)</b> from Tanegashima, Japan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T013755">2023-02-15 01:37:55 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230215T013755Z%2F20230215T014415Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-5</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T174400">2023-02-15 17:44:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-5&location=Vandenberg SFB, CA, USA&dates=20230215T174400Z%2F20230215T205000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Inmarsat-6 F2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T035800">2023-02-18 03:58:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Inmarsat-6 F2&location=Cape Canaveral, FL, USA&dates=20230218T035800Z%2F20230218T061600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -185,11 +184,11 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX to break pad turnaround record in support of Starlink](https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T193529">2023-02-11 19:35:29 UTC</a></sub>
+* [SpaceX breaks pad turnaround record in support of Starlink](https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T053529">2023-02-12 05:35:29 UTC</a></sub>
 * [Russian cargo ship docks as second Progress suffers sudden loss of coolant](https://spaceflightnow.com/2023/02/11/russian-cargo-ship-docks-as-second-progress-suffers-depressurization-of-coolant-loop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T171118">2023-02-11 17:11:18 UTC</a></sub>
 * [Another Russian spacecraft docked to the space station is leaking](https://arstechnica.com/science/2023/02/another-russian-spacecraft-docked-to-the-space-station-is-leaking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T164717">2023-02-11 16:47:17 UTC</a></sub>
 * [Progress MS-22 arrives at ISS, MS-21 develops coolant loop leak](https://www.nasaspaceflight.com/2023/02/progress-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T160001">2023-02-11 16:00:01 UTC</a></sub>
-* [Watch live: SpaceX poised for overnight launch with more Starlink satellites](https://spaceflightnow.com/2023/02/11/falcon-9-starlink-5-4-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T015118">2023-02-11 01:51:18 UTC</a></sub>
+* [SpaceX breaks launch pad turnaround record with midnight mission](https://spaceflightnow.com/2023/02/11/falcon-9-starlink-5-4-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T070119">2023-02-11 07:01:19 UTC</a></sub>
 * [Astronaut Sen. Kelly touts ‘stunning’ space business growth, calls for more rocket competition](https://www.cnbc.com/2023/02/10/astronaut-sen-mark-kelly-praises-space-business.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T174227">2023-02-10 17:42:27 UTC</a></sub>
 * [Rocket Report: SpaceX’s Super Heavy is lit, court strikes down Georgia spaceport](https://arstechnica.com/science/2023/02/rocket-report-spacexs-super-heavy-is-lit-court-strikes-down-georgia-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T120037">2023-02-10 12:00:37 UTC</a></sub>
 * [NASA Selects Blue Origin to Launch Mars’ Magnetosphere Study Mission](http://www.nasa.gov/press-release/nasa-selects-blue-origin-to-launch-mars-magnetosphere-study-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T231100">2023-02-09 23:11:00 UTC</a></sub>
@@ -227,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T050042">2023-02-12 05:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T210045">2023-02-12 21:00:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
