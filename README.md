@@ -26,10 +26,10 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <h3 align="center"> Open issues 🆘 </h3>
 
 <!-- github issues starts -->
+* [Streamlining Access Tokens for Developers](https://github.com/tudat-team/tudat-developer-docs/issues/20) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T170041">2023-02-13 17:00:41 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Make versioning consistent with Tudatpy](https://github.com/tudat-team/tudat-space/issues/103) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T151401">2023-01-27 15:14:01 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Automate versioning, and add documentation](https://github.com/tudat-team/tudat-developer-docs/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T192130">2023-01-24 19:21:30 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Update Tudat API documentation estimation pages](https://github.com/tudat-team/tudat-multidoc/issues/56) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T150136">2023-01-20 15:01:36 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
-* [Write documentation on updating Azure Tokens ](https://github.com/tudat-team/tudat-developer-docs/issues/18) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T145907">2023-01-20 14:59:07 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Token is out of date](https://github.com/tudat-team/tudatpy-feedstock/issues/13) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T145815">2023-01-20 14:58:15 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [KaTeX rendering after markdown parser.](https://github.com/geoffreygarrett/notes.geoffreygarrett.com/issues/4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T130043">2022-06-01 13:00:43 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Implement `conda` package of `multidoc` into workflow](https://github.com/tudat-team/tudat-multidoc/issues/43) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T122202">2022-03-07 12:22:02 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
@@ -47,6 +47,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <h3 align="center"> Closed issues ✅ </h3>
 
 <!-- github issues starts -->
+* [Write documentation on updating Azure Tokens ](https://github.com/tudat-team/tudat-developer-docs/issues/18) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T145907">2023-01-20 14:59:07 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Revise "about" page](https://github.com/tudat-team/tudat-space/issues/62) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T130818">2022-02-18 13:08:18 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
 * [Start using proper versioning for the conda package](https://github.com/tudat-team/tudat-bundle/issues/5) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211230T214648">2021-12-30 21:46:48 UTC</a> - <a href="https://github.com/gaffarelj">gaffarelj</a> </sub>
 * [Ensure readthedocs build fails if build.sh fails](https://github.com/tudat-team/tudat-multidoc/issues/1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211024T172410">2021-10-24 17:24:10 UTC</a> - <a href="https://github.com/FilippoOggionni">FilippoOggionni</a> </sub>
@@ -185,6 +186,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, Partners Clear Axiom’s Second Private Astronaut Mission Crew](http://www.nasa.gov/press-release/nasa-partners-clear-axiom-s-second-private-astronaut-mission-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T165200">2023-02-13 16:52:00 UTC</a></sub>
 * [Blue Origin makes a big lunar announcement without any fanfare](https://arstechnica.com/science/2023/02/blue-origin-makes-a-big-lunar-announcement-without-any-fanfare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T143425">2023-02-13 14:34:25 UTC</a></sub>
 * [SpaceX breaks pad turnaround record in support of Starlink](https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T053529">2023-02-12 05:35:29 UTC</a></sub>
 * [SpaceX rolls naked Starship prototype to test site](https://www.teslarati.com/spacex-rolls-naked-starship-prototype-to-test-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T012135">2023-02-12 01:21:35 UTC</a></sub>
@@ -194,7 +196,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX breaks launch pad turnaround record with midnight mission](https://spaceflightnow.com/2023/02/11/falcon-9-starlink-5-4-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T070119">2023-02-11 07:01:19 UTC</a></sub>
 * [Astronaut Sen. Kelly touts ‘stunning’ space business growth, calls for more rocket competition](https://www.cnbc.com/2023/02/10/astronaut-sen-mark-kelly-praises-space-business.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T174227">2023-02-10 17:42:27 UTC</a></sub>
 * [Rocket Report: SpaceX’s Super Heavy is lit, court strikes down Georgia spaceport](https://arstechnica.com/science/2023/02/rocket-report-spacexs-super-heavy-is-lit-court-strikes-down-georgia-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T120037">2023-02-10 12:00:37 UTC</a></sub>
-* [NASA Selects Blue Origin to Launch Mars’ Magnetosphere Study Mission](http://www.nasa.gov/press-release/nasa-selects-blue-origin-to-launch-mars-magnetosphere-study-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T231100">2023-02-09 23:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -227,7 +228,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T170046">2023-02-13 17:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T173118">2023-02-13 17:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
