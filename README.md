@@ -185,6 +185,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [SpaceX breaks pad turnaround record in support of Starlink](https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T053529">2023-02-12 05:35:29 UTC</a></sub>
+* [SpaceX rolls naked Starship prototype to test site](https://www.teslarati.com/spacex-rolls-naked-starship-prototype-to-test-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T012135">2023-02-12 01:21:35 UTC</a></sub>
 * [Russian cargo ship docks as second Progress suffers sudden loss of coolant](https://spaceflightnow.com/2023/02/11/russian-cargo-ship-docks-as-second-progress-suffers-depressurization-of-coolant-loop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T171118">2023-02-11 17:11:18 UTC</a></sub>
 * [Another Russian spacecraft docked to the space station is leaking](https://arstechnica.com/science/2023/02/another-russian-spacecraft-docked-to-the-space-station-is-leaking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T164717">2023-02-11 16:47:17 UTC</a></sub>
 * [Progress MS-22 arrives at ISS, MS-21 develops coolant loop leak](https://www.nasaspaceflight.com/2023/02/progress-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T160001">2023-02-11 16:00:01 UTC</a></sub>
@@ -193,7 +194,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Report: SpaceX’s Super Heavy is lit, court strikes down Georgia spaceport](https://arstechnica.com/science/2023/02/rocket-report-spacexs-super-heavy-is-lit-court-strikes-down-georgia-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T120037">2023-02-10 12:00:37 UTC</a></sub>
 * [NASA Selects Blue Origin to Launch Mars’ Magnetosphere Study Mission](http://www.nasa.gov/press-release/nasa-selects-blue-origin-to-launch-mars-magnetosphere-study-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T231100">2023-02-09 23:11:00 UTC</a></sub>
 * [SpaceX test-fires 31 engines on Starship’s gigantic Super Heavy booster](https://spaceflightnow.com/2023/02/09/spacex-test-fires-31-engines-on-starships-gigantic-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T223118">2023-02-09 22:31:18 UTC</a></sub>
-* [SpaceX completes a hot fire test of its massive Super Heavy rocket [Updated]](https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T214012">2023-02-09 21:40:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -226,7 +226,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T004518">2023-02-13 00:45:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T012747">2023-02-13 01:27:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
