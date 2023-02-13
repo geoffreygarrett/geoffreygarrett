@@ -186,6 +186,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [It’s not aliens. It’ll probably never be aliens. So stop. Please just stop](https://arstechnica.com/science/2023/02/its-not-aliens-itll-probably-never-be-aliens-so-stop-please-just-stop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T222423">2023-02-13 22:24:23 UTC</a></sub>
 * [NASA, Partners Clear Axiom’s Second Private Astronaut Mission Crew](http://www.nasa.gov/press-release/nasa-partners-clear-axiom-s-second-private-astronaut-mission-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T165200">2023-02-13 16:52:00 UTC</a></sub>
 * [Blue Origin makes a big lunar announcement without any fanfare](https://arstechnica.com/science/2023/02/blue-origin-makes-a-big-lunar-announcement-without-any-fanfare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T143425">2023-02-13 14:34:25 UTC</a></sub>
 * [SpaceX breaks pad turnaround record in support of Starlink](https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T053529">2023-02-12 05:35:29 UTC</a></sub>
@@ -195,7 +196,6 @@ region. The mission's status is currently Go for Launch
 * [Progress MS-22 arrives at ISS, MS-21 develops coolant loop leak](https://www.nasaspaceflight.com/2023/02/progress-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T160001">2023-02-11 16:00:01 UTC</a></sub>
 * [SpaceX breaks launch pad turnaround record with midnight mission](https://spaceflightnow.com/2023/02/11/falcon-9-starlink-5-4-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T070119">2023-02-11 07:01:19 UTC</a></sub>
 * [Astronaut Sen. Kelly touts ‘stunning’ space business growth, calls for more rocket competition](https://www.cnbc.com/2023/02/10/astronaut-sen-mark-kelly-praises-space-business.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T174227">2023-02-10 17:42:27 UTC</a></sub>
-* [Rocket Report: SpaceX’s Super Heavy is lit, court strikes down Georgia spaceport](https://arstechnica.com/science/2023/02/rocket-report-spacexs-super-heavy-is-lit-court-strikes-down-georgia-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T120037">2023-02-10 12:00:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -228,7 +228,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T220046">2023-02-13 22:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T223201">2023-02-13 22:32:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
