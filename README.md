@@ -189,16 +189,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Pentagon working with Congress on unclassified space strategy](https://spacenews.com/pentagon-working-with-congress-on-unclassified-space-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T214603">2023-02-15 21:46:03 UTC</a></sub>
+* [On National Security | A coming of age for commercial satellite imagery](https://spacenews.com/on-national-security-a-coming-of-age-for-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T200000">2023-02-15 20:00:00 UTC</a></sub>
 * [After a decade in development, Japan’s H3 rocket is ready for its debut](https://arstechnica.com/science/2023/02/after-a-decade-in-development-japans-h3-rocket-is-ready-for-its-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T151540">2023-02-15 15:15:40 UTC</a></sub>
+* [Maxar moves to close deal with Advent after receiving no competing offers](https://spacenews.com/maxar-moves-to-close-deal-with-advent-after-receiving-no-competing-offers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T141745">2023-02-15 14:17:45 UTC</a></sub>
+* [NASA updates plans for use of commercial space stations](https://spacenews.com/nasa-updates-plans-for-use-of-commercial-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T131638">2023-02-15 13:16:38 UTC</a></sub>
+* [Virgin Orbit elaborates on potential cause of LauncherOne failure](https://spacenews.com/virgin-orbit-elaborates-on-potential-cause-of-launcherone-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T003400">2023-02-15 00:34:00 UTC</a></sub>
 * [SpaceX prioritizes Starship test flights, pauses plans for floating launch pads](https://www.teslarati.com/spacex-halts-starship-offshore-launch-pad-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T233535">2023-02-14 23:35:35 UTC</a></sub>
+* [Cobham to supply satellite terminals to Inmarsat for U.S. Navy network](https://spacenews.com/cobham-satcom-will-supply-as-many-as-170-terminals-to-inmarsat-for-the-u-s-navy-military-sealift-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T184404">2023-02-14 18:44:04 UTC</a></sub>
+* [Europe opens full-scale investigation into Viasat’s Inmarsat acquisition](https://spacenews.com/europe-opens-full-scale-investigation-into-viasats-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T183929">2023-02-14 18:39:29 UTC</a></sub>
 * [NASA's Perseverance Rover Shows Off Collection of Mars Samples](https://mars.nasa.gov/news/9348/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T182500">2023-02-14 18:25:00 UTC</a></sub>
-* [Elon Musk and astronaut Scott Kelly debate use of Starlink in Ukraine](https://www.cnbc.com/2023/02/13/elon-musk-scott-kelly-debate-use-of-starlink-in-ukraine.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T230436">2023-02-13 23:04:36 UTC</a></sub>
-* [It’s not aliens. It’ll probably never be aliens. So stop. Please just stop.](https://arstechnica.com/science/2023/02/its-not-aliens-itll-probably-never-be-aliens-so-stop-please-just-stop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T222423">2023-02-13 22:24:23 UTC</a></sub>
-* [NASA, Partners Clear Axiom’s Second Private Astronaut Mission Crew](http://www.nasa.gov/press-release/nasa-partners-clear-axiom-s-second-private-astronaut-mission-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T165200">2023-02-13 16:52:00 UTC</a></sub>
-* [Blue Origin makes a big lunar announcement without any fanfare](https://arstechnica.com/science/2023/02/blue-origin-makes-a-big-lunar-announcement-without-any-fanfare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T143425">2023-02-13 14:34:25 UTC</a></sub>
-* [India’s Small Satellite Launch Vehicle successful on second test flight](https://spaceflightnow.com/2023/02/12/indias-small-satellite-launch-vehicle-successful-on-second-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T212515">2023-02-12 21:25:15 UTC</a></sub>
-* [Rapid Starlink launch cadence continuing with Group 2-5 mission](https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T053529">2023-02-12 05:35:29 UTC</a></sub>
-* [SpaceX rolls naked Starship prototype to test site](https://www.teslarati.com/spacex-rolls-naked-starship-prototype-to-test-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T012135">2023-02-12 01:21:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T220042">2023-02-15 22:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T223214">2023-02-15 22:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
