@@ -26,6 +26,9 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <h3 align="center"> Open issues 🆘 </h3>
 
 <!-- github issues starts -->
+* [Cleanup tudat-multidoc and Interface with Multidoc Tool](https://github.com/tudat-team/tudat-multidoc/issues/59) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T134127">2023-02-15 13:41:27 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
+* [Add Native Python Function Layer for Astroquery](https://github.com/tudat-team/tudatpy/issues/94) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T133910">2023-02-15 13:39:10 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
+* [Add Documentation on Building the Docs](https://github.com/tudat-team/tudat-developer-docs/issues/22) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T133618">2023-02-15 13:36:18 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Streamlining Access Tokens for Developers](https://github.com/tudat-team/tudat-developer-docs/issues/20) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T170041">2023-02-13 17:00:41 UTC</a> - <a href="https://github.com/geoffreygarrett">geoffreygarrett</a> </sub>
 * [Make versioning consistent with Tudatpy](https://github.com/tudat-team/tudat-space/issues/103) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T151401">2023-01-27 15:14:01 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
 * [Automate versioning, and add documentation](https://github.com/tudat-team/tudat-developer-docs/issues/19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T192130">2023-01-24 19:21:30 UTC</a> - <a href="https://github.com/DominicDirkx">DominicDirkx</a> </sub>
@@ -228,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T140048">2023-02-15 14:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T143121">2023-02-15 14:31:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
