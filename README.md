@@ -209,6 +209,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What was the Chelyabinsk meteor event?](https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T160534">2023-02-15 16:05:34 UTC</a></sub>
 * [Are we alone in the Universe? SETI project](https://www.planetary.org/sci-tech/are-we-alone-seti-project) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T160532">2023-02-14 16:05:32 UTC</a></sub>
 * [Every NASA Authorization](https://www.planetary.org/space-policy/every-nasa-authorization) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T193138">2023-02-11 19:31:38 UTC</a></sub>
 * [What does a bear have in common with a megatsunami?](https://www.planetary.org/the-downlink/what-does-a-bear-have-in-common-with-a-megatsunami) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T153140">2023-02-10 15:31:40 UTC</a></sub>
@@ -218,7 +219,6 @@ region. The mission's status is currently Go for Launch
 * [Best space pictures of the month: January 2023](https://www.planetary.org/articles/best-space-pictures-january-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T150138">2023-01-31 15:01:38 UTC</a></sub>
 * [By Jove! (Literally)](https://www.planetary.org/the-downlink/by-jove-literally) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T153137">2023-01-27 15:31:37 UTC</a></sub>
 * [How JWST confirmed its first exoplanet and opened a new frontier](https://www.planetary.org/articles/how-jwst-confirmed-its-first-exoplanet-and-opened-a-new-frontier) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T160139">2023-01-26 16:01:39 UTC</a></sub>
-* [What to expect from Juno's Io flybys, and why a proposed mission there would tell us more](https://www.planetary.org/articles/juno-io-flybys) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T150544">2023-01-24 15:05:44 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T160052">2023-02-15 16:00:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T163716">2023-02-15 16:37:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
