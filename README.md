@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After a decade in development, Japan’s H3 rocket is ready for its debut](https://arstechnica.com/science/2023/02/after-a-decade-in-development-japans-h3-rocket-is-ready-for-its-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T151540">2023-02-15 15:15:40 UTC</a></sub>
 * [SpaceX prioritizes Starship test flights, pauses plans for floating launch pads](https://www.teslarati.com/spacex-halts-starship-offshore-launch-pad-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T233535">2023-02-14 23:35:35 UTC</a></sub>
 * [NASA's Perseverance Rover Shows Off Collection of Mars Samples](https://mars.nasa.gov/news/9348/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T182500">2023-02-14 18:25:00 UTC</a></sub>
 * [Elon Musk and astronaut Scott Kelly debate use of Starlink in Ukraine](https://www.cnbc.com/2023/02/13/elon-musk-scott-kelly-debate-use-of-starlink-in-ukraine.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T230436">2023-02-13 23:04:36 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX breaks pad turnaround record in support of Starlink](https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T053529">2023-02-12 05:35:29 UTC</a></sub>
 * [SpaceX rolls naked Starship prototype to test site](https://www.teslarati.com/spacex-rolls-naked-starship-prototype-to-test-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T012135">2023-02-12 01:21:35 UTC</a></sub>
 * [Russian cargo ship docks as second Progress suffers sudden loss of coolant](https://spaceflightnow.com/2023/02/11/russian-cargo-ship-docks-as-second-progress-suffers-depressurization-of-coolant-loop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T171118">2023-02-11 17:11:18 UTC</a></sub>
-* [Another Russian spacecraft docked to the space station is leaking](https://arstechnica.com/science/2023/02/another-russian-spacecraft-docked-to-the-space-station-is-leaking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T164717">2023-02-11 16:47:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T150051">2023-02-15 15:00:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T153221">2023-02-15 15:32:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
