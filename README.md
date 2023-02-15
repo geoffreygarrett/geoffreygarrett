@@ -186,6 +186,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX prioritizes Starship test flights, pauses plans for floating launch pads](https://www.teslarati.com/spacex-halts-starship-offshore-launch-pad-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T233535">2023-02-14 23:35:35 UTC</a></sub>
 * [NASA's Perseverance Rover Shows Off Collection of Mars Samples](https://mars.nasa.gov/news/9348/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T182500">2023-02-14 18:25:00 UTC</a></sub>
 * [Elon Musk and astronaut Scott Kelly debate use of Starlink in Ukraine](https://www.cnbc.com/2023/02/13/elon-musk-scott-kelly-debate-use-of-starlink-in-ukraine.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T230436">2023-02-13 23:04:36 UTC</a></sub>
 * [It’s not aliens. It’ll probably never be aliens. So stop. Please just stop.](https://arstechnica.com/science/2023/02/its-not-aliens-itll-probably-never-be-aliens-so-stop-please-just-stop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T222423">2023-02-13 22:24:23 UTC</a></sub>
@@ -195,7 +196,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX rolls naked Starship prototype to test site](https://www.teslarati.com/spacex-rolls-naked-starship-prototype-to-test-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T012135">2023-02-12 01:21:35 UTC</a></sub>
 * [Russian cargo ship docks as second Progress suffers sudden loss of coolant](https://spaceflightnow.com/2023/02/11/russian-cargo-ship-docks-as-second-progress-suffers-depressurization-of-coolant-loop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T171118">2023-02-11 17:11:18 UTC</a></sub>
 * [Another Russian spacecraft docked to the space station is leaking](https://arstechnica.com/science/2023/02/another-russian-spacecraft-docked-to-the-space-station-is-leaking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T164717">2023-02-11 16:47:17 UTC</a></sub>
-* [Progress MS-22 arrives at ISS, MS-21 develops coolant loop leak](https://www.nasaspaceflight.com/2023/02/progress-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T160001">2023-02-11 16:00:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -228,7 +228,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T233049">2023-02-14 23:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T000130">2023-02-15 00:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
