@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Opinion | A new leap in opportunities for the exploration and utilization of space](https://spacenews.com/opinion-a-new-leap-in-opportunities-for-the-exploration-and-utilization-of-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T185631">2023-02-16 18:56:31 UTC</a></sub>
 * [Investing in Space: The space station kingmaker](https://www.cnbc.com/2023/02/16/investing-in-space-the-space-station-kingmaker.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T160544">2023-02-16 16:05:44 UTC</a></sub>
 * [Chinese rocket firm Space Pioneer set for first launch](https://spacenews.com/chinese-rocket-firm-space-pioneer-set-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T131657">2023-02-16 13:16:57 UTC</a></sub>
 * [Virgin Galactic aircraft returns to flight](https://spacenews.com/virgin-galactic-aircraft-returns-to-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T123209">2023-02-16 12:32:09 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [On National Security | A coming of age for commercial satellite imagery](https://spacenews.com/on-national-security-a-coming-of-age-for-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T200000">2023-02-15 20:00:00 UTC</a></sub>
 * [After a decade in development, Japan’s H3 rocket is ready for its debut](https://arstechnica.com/science/2023/02/after-a-decade-in-development-japans-h3-rocket-is-ready-for-its-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T151540">2023-02-15 15:15:40 UTC</a></sub>
 * [Maxar moves to close deal with Advent after receiving no competing offers](https://spacenews.com/maxar-moves-to-close-deal-with-advent-after-receiving-no-competing-offers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T141745">2023-02-15 14:17:45 UTC</a></sub>
-* [NASA updates plans for use of commercial space stations](https://spacenews.com/nasa-updates-plans-for-use-of-commercial-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T131638">2023-02-15 13:16:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T190048">2023-02-16 19:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T193055">2023-02-16 19:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
