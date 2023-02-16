@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, Boeing to Host Media Call on First Crewed Starliner Flight Test](http://www.nasa.gov/press-release/nasa-boeing-to-host-media-call-on-first-crewed-starliner-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T210100">2023-02-16 21:01:00 UTC</a></sub>
 * [Crew operations training gears up for Starliner and Orion](https://www.nasaspaceflight.com/2023/02/starliner-orion-crew-preparations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T195746">2023-02-16 19:57:46 UTC</a></sub>
 * [Lockheed Martin completes delivery of 10th GPS 3 satellite](https://spacenews.com/the-u-s-space-force-accepted-delivery-of-the-10th-and-final-gps-3-satellite-made-by-lockheed-martin-under-a-2008-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T195709">2023-02-16 19:57:09 UTC</a></sub>
 * [Opinion | A new leap in opportunities for the exploration and utilization of space](https://spacenews.com/opinion-a-new-leap-in-opportunities-for-the-exploration-and-utilization-of-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T185631">2023-02-16 18:56:31 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Boeing opens SLS EUS production facility](https://spacenews.com/boeing-opens-sls-eus-production-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T004803">2023-02-16 00:48:03 UTC</a></sub>
 * [Europe approves multi-orbit connectivity constellation plan](https://spacenews.com/europe-approves-multi-orbit-connectivity-constellation-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T224816">2023-02-15 22:48:16 UTC</a></sub>
 * [Pentagon working with Congress on unclassified space strategy](https://spacenews.com/pentagon-working-with-congress-on-unclassified-space-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T214603">2023-02-15 21:46:03 UTC</a></sub>
-* [On National Security | A coming of age for commercial satellite imagery](https://spacenews.com/on-national-security-a-coming-of-age-for-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T200000">2023-02-15 20:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T210042">2023-02-16 21:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T213058">2023-02-16 21:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
