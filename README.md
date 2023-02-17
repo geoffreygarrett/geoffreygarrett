@@ -102,26 +102,32 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Starlink Group 2-5 at the
-<a href="">Space Launch Complex 4E</a> in
-Vandenberg SFB, CA, USA
+Falcon 9 Block 5 | Inmarsat-6 F2 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T191220">2023-02-17 19:12:20 UTC</a>. Until
-then, this launch pad will have seen 102
-out of 711 launches in this
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T035900">2023-02-18 03:59:00 UTC</a>. Until
+then, this launch pad will have seen 169
+out of 874 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of 51 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Inmarsat-6 is the sixth generation of satellites for the London-based global mobile satellite communications operator Inmarsat. It consists of a dual mission to augment both L-band and Ka-band Global Xpress services.
+
+Airbus Defence and Space has been awarded a contract by Inmarsat to design and develop the first two Inmarsat-6 (I-6) mobile communications satellites, creating the most versatile mobile services satellites in its fleet.
+
+The two I-6 satellites are based on Airbus Defence and Space's Eurostar platform in its E3000e variant, which exclusively uses electric propulsion for orbit raising. The satellites take advantage of the reduction in mass that this electric propulsion technology enables for a dual payload mission, with an exceptionally large next generation digitally processed payload.
+
+I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam Ka-band antennas, and feature a high level of flexibility and connectivity. A new generation modular digital processor provides full routing flexibility over up to 8000 channels and dynamic power allocation to over 200 spot beams in L-band. Ka-band spot beams are steerable over the full Earth disk, with flexible channel to beam allocation.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +140,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-5</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T191220">2023-02-17 19:12:20 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-5&location=Vandenberg SFB, CA, USA&dates=20230217T191220Z%2F20230217T191220Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Inmarsat-6 F2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T035900">2023-02-18 03:59:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Inmarsat-6 F2&location=Cape Canaveral, FL, USA&dates=20230218T035900Z%2F20230218T052800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 6-1</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T183700">2023-02-23 18:37:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-1&location=Cape Canaveral, FL, USA&dates=20230223T183700Z%2F20230223T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Soyuz MS-23</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T003400">2023-02-24 00:34:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-23&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230224T003400Z%2F20230224T003400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -231,7 +236,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T190045">2023-02-17 19:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T193049">2023-02-17 19:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
