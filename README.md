@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Perseverance Rover Set to Begin Third Year at Jezero Crater](https://mars.nasa.gov/news/9349/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T172100">2023-02-17 17:21:00 UTC</a></sub>
+* [AI startup using satellite imagery to trace the path of Chinese balloon](https://spacenews.com/ai-startup-using-satellite-imagery-to-trace-the-path-of-chinese-balloon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T171534">2023-02-17 17:15:34 UTC</a></sub>
 * [FAA wants to fine SpaceX $175,000 for failing to submit data before a launch](https://www.cnbc.com/2023/02/17/faa-spacex-fine-launch-data.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T154831">2023-02-17 15:48:31 UTC</a></sub>
 * [Japan aborts H3 launch moments before liftoff](https://spacenews.com/h3-launch-abort/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T125809">2023-02-17 12:58:09 UTC</a></sub>
 * [First Launcher orbital transfer vehicle fails](https://spacenews.com/first-launcher-orbital-transfer-vehicle-fails/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T125423">2023-02-17 12:54:23 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force to change how it buys national security launches](https://spacenews.com/the-u-s-space-force-on-feb-16-released-its-procurement-strategy-for-the-next-national-security-launch-services-contracts-expected-to-be-awarded-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T022836">2023-02-17 02:28:36 UTC</a></sub>
 * [NASA advisers raise concerns about Artemis safety and workforce](https://spacenews.com/nasa-advisers-raise-concerns-about-artemis-safety-and-workforce/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T235908">2023-02-16 23:59:08 UTC</a></sub>
 * [Analyst: U.S. military space budget likely to get another boost in 2024](https://spacenews.com/the-biden-administration-in-its-budget-proposal-for-fiscal-year-2024-is-likely-to-seek-a-significant-increase-for-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T224740">2023-02-16 22:47:40 UTC</a></sub>
-* [JAXA and Mitsubishi abort cost-cutting H3 rocket at T0](https://www.nasaspaceflight.com/2023/02/h3-debut-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T221122">2023-02-16 22:11:22 UTC</a></sub>
-* [NASA, Boeing to Host Media Call on First Crewed Starliner Flight Test](http://www.nasa.gov/press-release/nasa-boeing-to-host-media-call-on-first-crewed-starliner-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T210100">2023-02-16 21:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T170046">2023-02-17 17:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T173123">2023-02-17 17:31:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
