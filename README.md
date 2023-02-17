@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force to change how it buys national security launch services](https://spacenews.com/the-u-s-space-force-on-feb-16-released-its-procurement-strategy-for-the-next-national-security-launch-services-contracts-expected-to-be-awarded-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T022836">2023-02-17 02:28:36 UTC</a></sub>
 * [NASA advisers raise concerns about Artemis safety and workforce](https://spacenews.com/nasa-advisers-raise-concerns-about-artemis-safety-and-workforce/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T235908">2023-02-16 23:59:08 UTC</a></sub>
 * [Analyst: U.S. military space budget likely to get another boost in 2024](https://spacenews.com/the-biden-administration-in-its-budget-proposal-for-fiscal-year-2024-is-likely-to-seek-a-significant-increase-for-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T224740">2023-02-16 22:47:40 UTC</a></sub>
 * [JAXA and Mitsubishi aborts cost-cutting H3 rocket at T-0](https://www.nasaspaceflight.com/2023/02/h3-debut-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T221122">2023-02-16 22:11:22 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Opinion | A new leap in opportunities for the exploration and utilization of space](https://spacenews.com/opinion-a-new-leap-in-opportunities-for-the-exploration-and-utilization-of-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T185631">2023-02-16 18:56:31 UTC</a></sub>
 * [Investing in Space: The space station kingmaker](https://www.cnbc.com/2023/02/16/investing-in-space-the-space-station-kingmaker.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T160544">2023-02-16 16:05:44 UTC</a></sub>
 * [Chinese rocket firm Space Pioneer set for first launch](https://spacenews.com/chinese-rocket-firm-space-pioneer-set-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T131657">2023-02-16 13:16:57 UTC</a></sub>
-* [Virgin Galactic aircraft returns to flight](https://spacenews.com/virgin-galactic-aircraft-returns-to-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T123209">2023-02-16 12:32:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T020604">2023-02-17 02:06:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T024539">2023-02-17 02:45:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
