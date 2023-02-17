@@ -193,7 +193,7 @@ region. The mission's status is currently Go for Launch
 * [First Launcher orbital transfer vehicle fails](https://spacenews.com/first-launcher-orbital-transfer-vehicle-fails/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T125423">2023-02-17 12:54:23 UTC</a></sub>
 * [Rocket Report: New Glenn scores NASA contract; SpaceX matches global launch output](https://arstechnica.com/science/2023/02/rocket-report-indias-new-rocket-soars-canadian-balloon-launch-company-pops/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T120029">2023-02-17 12:00:29 UTC</a></sub>
 * [First launch of Japan’s H3 rocket aborted moments before liftoff](https://spaceflightnow.com/2023/02/17/first-launch-of-japans-h3-rocket-aborted-moments-before-liftoff/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T071048">2023-02-17 07:10:48 UTC</a></sub>
-* [Space Force to change how it buys national security launch services](https://spacenews.com/the-u-s-space-force-on-feb-16-released-its-procurement-strategy-for-the-next-national-security-launch-services-contracts-expected-to-be-awarded-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T022836">2023-02-17 02:28:36 UTC</a></sub>
+* [Space Force to change how it buys national security launches](https://spacenews.com/the-u-s-space-force-on-feb-16-released-its-procurement-strategy-for-the-next-national-security-launch-services-contracts-expected-to-be-awarded-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T022836">2023-02-17 02:28:36 UTC</a></sub>
 * [NASA advisers raise concerns about Artemis safety and workforce](https://spacenews.com/nasa-advisers-raise-concerns-about-artemis-safety-and-workforce/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T235908">2023-02-16 23:59:08 UTC</a></sub>
 * [Analyst: U.S. military space budget likely to get another boost in 2024](https://spacenews.com/the-biden-administration-in-its-budget-proposal-for-fiscal-year-2024-is-likely-to-seek-a-significant-increase-for-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T224740">2023-02-16 22:47:40 UTC</a></sub>
 * [JAXA and Mitsubishi abort cost-cutting H3 rocket at T0](https://www.nasaspaceflight.com/2023/02/h3-debut-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T221122">2023-02-16 22:11:22 UTC</a></sub>
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T140048">2023-02-17 14:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T143057">2023-02-17 14:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
