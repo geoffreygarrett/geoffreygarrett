@@ -194,6 +194,7 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Falcon 9 launch from California adds 51 more satellites to Starlink network](https://spaceflightnow.com/2023/02/17/falcon-9-launch-from-california-adds-51-more-satellites-to-starlink-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T214048">2023-02-17 21:40:48 UTC</a></sub>
 * [NASA conducting cybersecurity review of Deep Space Network tracking site](https://spacenews.com/nasa-conducting-cybersecurity-review-of-deep-space-network-tracking-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T200044">2023-02-17 20:00:44 UTC</a></sub>
 * [Op-ed | Enlisting AI to secure the space domain](https://spacenews.com/op-ed-enlisting-ai-to-secure-the-space-domain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T194735">2023-02-17 19:47:35 UTC</a></sub>
 * [Opinion | Inflation’s squeeze on space and national security contracts](https://spacenews.com/opinion-inflations-squeeze-on-space-and-national-security-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T181340">2023-02-17 18:13:40 UTC</a></sub>
@@ -203,7 +204,6 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 * [Deep space smallsats face big challenges](https://spacenews.com/deep-space-smallsats-face-big-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T170000">2023-02-17 17:00:00 UTC</a></sub>
 * [FAA wants to fine SpaceX $175,000 for failing to submit data before a launch](https://www.cnbc.com/2023/02/17/faa-spacex-fine-launch-data.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T154831">2023-02-17 15:48:31 UTC</a></sub>
 * [Rapid Starlink launch cadence continues with Group 2-5 mission](https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T153529">2023-02-17 15:35:29 UTC</a></sub>
-* [Japan aborts H3 launch moments before liftoff](https://spacenews.com/h3-launch-abort/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T125809">2023-02-17 12:58:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -236,7 +236,7 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T213042">2023-02-17 21:30:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T220103">2023-02-17 22:01:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
