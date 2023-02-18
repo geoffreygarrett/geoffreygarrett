@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches Inmarsat-6 F2 in a boost for direct-to-device services](https://spacenews.com/spacex-launches-inmarsat-6-f2-in-a-boost-for-direct-to-device-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T222057">2023-02-18 22:20:57 UTC</a></sub>
 * [Russia reschedules Soyuz launch after Progress undocks](https://spacenews.com/russia-reschedules-soyuz-launch-after-progress-undocks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T165044">2023-02-18 16:50:44 UTC</a></sub>
 * [Eutelsat nearly ready to seek bids for building OneWeb Gen 2](https://spacenews.com/eutelsat-nearly-ready-to-seek-bids-for-building-oneweb-gen-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T015227">2023-02-18 01:52:27 UTC</a></sub>
 * [Peraton wins NOAA contract](https://spacenews.com/peraton-wins-noaa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T001318">2023-02-18 00:13:18 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Falcon 9 launch from California adds 51 more satellites to Starlink network](https://spaceflightnow.com/2023/02/17/falcon-9-launch-from-california-adds-51-more-satellites-to-starlink-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T214048">2023-02-17 21:40:48 UTC</a></sub>
 * [NASA conducting cybersecurity review of Deep Space Network tracking site](https://spacenews.com/nasa-conducting-cybersecurity-review-of-deep-space-network-tracking-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T200044">2023-02-17 20:00:44 UTC</a></sub>
 * [Op-ed | Enlisting AI to secure the space domain](https://spacenews.com/op-ed-enlisting-ai-to-secure-the-space-domain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T194735">2023-02-17 19:47:35 UTC</a></sub>
-* [Opinion | Inflation’s squeeze on space and national security contracts](https://spacenews.com/opinion-inflations-squeeze-on-space-and-national-security-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T181340">2023-02-17 18:13:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T223047">2023-02-18 22:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T230056">2023-02-18 23:00:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
