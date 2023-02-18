@@ -190,13 +190,13 @@ region. The mission's status is currently To Be Confirmed
 * [Eutelsat nearly ready to seek bids for building OneWeb Gen 2](https://spacenews.com/eutelsat-nearly-ready-to-seek-bids-for-building-oneweb-gen-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T015227">2023-02-18 01:52:27 UTC</a></sub>
 * [Peraton wins NOAA contract](https://spacenews.com/peraton-wins-noaa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T001318">2023-02-18 00:13:18 UTC</a></sub>
 * [First crewed Starliner mission on track for April](https://spacenews.com/first-crewed-starliner-mission-on-track-for-april/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T233037">2023-02-17 23:30:37 UTC</a></sub>
-* [Watch live: SpaceX to complete Friday doubleheader with launch for Inmarsat](https://spaceflightnow.com/2023/02/17/falcon-9-inmarsat-6-f2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T231048">2023-02-17 23:10:48 UTC</a></sub>
 * [SpaceX launches Inmarsat I-6 F2 on 12th mission of 2023](https://www.nasaspaceflight.com/2023/02/inmarsat-i-6-f2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T230947">2023-02-17 23:09:47 UTC</a></sub>
 * [NASA Sets Coverage for Agency’s SpaceX Crew-6 Events, Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-agency-s-spacex-crew-6-events-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T222000">2023-02-17 22:20:00 UTC</a></sub>
 * [Falcon 9 launch from California adds 51 more satellites to Starlink network](https://spaceflightnow.com/2023/02/17/falcon-9-launch-from-california-adds-51-more-satellites-to-starlink-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T214048">2023-02-17 21:40:48 UTC</a></sub>
 * [NASA conducting cybersecurity review of Deep Space Network tracking site](https://spacenews.com/nasa-conducting-cybersecurity-review-of-deep-space-network-tracking-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T200044">2023-02-17 20:00:44 UTC</a></sub>
 * [Op-ed | Enlisting AI to secure the space domain](https://spacenews.com/op-ed-enlisting-ai-to-secure-the-space-domain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T194735">2023-02-17 19:47:35 UTC</a></sub>
 * [Opinion | Inflation’s squeeze on space and national security contracts](https://spacenews.com/opinion-inflations-squeeze-on-space-and-national-security-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T181340">2023-02-17 18:13:40 UTC</a></sub>
+* [FAA proposes fining SpaceX for missing launch data](https://spacenews.com/faa-proposes-fining-spacex-for-missing-launch-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T175802">2023-02-17 17:58:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T070055">2023-02-18 07:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T073054">2023-02-18 07:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
