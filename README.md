@@ -194,6 +194,7 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Peraton wins NOAA contract](https://spacenews.com/peraton-wins-noaa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T001318">2023-02-18 00:13:18 UTC</a></sub>
 * [First crewed Starliner mission on track for April](https://spacenews.com/first-crewed-starliner-mission-on-track-for-april/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T233037">2023-02-17 23:30:37 UTC</a></sub>
 * [Watch live: SpaceX to complete Friday doubleheader with launch for Inmarsat](https://spaceflightnow.com/2023/02/17/falcon-9-inmarsat-6-f2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T231048">2023-02-17 23:10:48 UTC</a></sub>
 * [SpaceX to launch Inmarsat I-6 F2 for 12th mission of 2023](https://www.nasaspaceflight.com/2023/02/inmarsat-i-6-f2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T230947">2023-02-17 23:09:47 UTC</a></sub>
@@ -203,7 +204,6 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 * [Op-ed | Enlisting AI to secure the space domain](https://spacenews.com/op-ed-enlisting-ai-to-secure-the-space-domain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T194735">2023-02-17 19:47:35 UTC</a></sub>
 * [Opinion | Inflation’s squeeze on space and national security contracts](https://spacenews.com/opinion-inflations-squeeze-on-space-and-national-security-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T181340">2023-02-17 18:13:40 UTC</a></sub>
 * [FAA proposes fining SpaceX for missing launch data](https://spacenews.com/faa-proposes-fining-spacex-for-missing-launch-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T175802">2023-02-17 17:58:02 UTC</a></sub>
-* [NASA's Perseverance Rover Set to Begin Third Year at Jezero Crater](https://mars.nasa.gov/news/9349/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T172100">2023-02-17 17:21:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -236,7 +236,7 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T000138">2023-02-18 00:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T004453">2023-02-18 00:44:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
