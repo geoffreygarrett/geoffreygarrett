@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lance Bass was kicked off a Russian spaceflight two decades ago—now he’s back](https://arstechnica.com/science/2023/02/lance-bass-was-kicked-off-a-russian-spaceflight-two-decades-ago-now-hes-back/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T182130">2023-02-20 18:21:30 UTC</a></sub>
 * [ESA’s David Parker updates status of Orion service modules and European astronauts for Artemis](https://www.nasaspaceflight.com/2023/02/esas-david-parker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T165450">2023-02-20 16:54:50 UTC</a></sub>
 * [ESA, China conduct spacecraft-rocket integration tests but joint science mission delayed to 2025](https://spacenews.com/esa-china-conduct-spacecraft-rocket-integration-tests-but-joint-science-mission-delayed-to-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T121317">2023-02-20 12:13:17 UTC</a></sub>
 * [NSL unveils new Black Box](https://spacenews.com/nsl-unveils-new-black-box/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T110000">2023-02-20 11:00:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Eutelsat nearly ready to seek bids for building OneWeb Gen 2](https://spacenews.com/eutelsat-nearly-ready-to-seek-bids-for-building-oneweb-gen-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T015227">2023-02-18 01:52:27 UTC</a></sub>
 * [Peraton wins NOAA contract](https://spacenews.com/peraton-wins-noaa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T001318">2023-02-18 00:13:18 UTC</a></sub>
 * [First crewed Starliner mission on track for April](https://spacenews.com/first-crewed-starliner-mission-on-track-for-april/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T233037">2023-02-17 23:30:37 UTC</a></sub>
-* [SpaceX launches Inmarsat I-6 F2 on 12th mission of 2023](https://www.nasaspaceflight.com/2023/02/inmarsat-i-6-f2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T230947">2023-02-17 23:09:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T180053">2023-02-20 18:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T183315">2023-02-20 18:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
