@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets TV Coverage for Launch, Docking of Replacement Soyuz](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-launch-docking-of-replacement-soyuz) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T220200">2023-02-21 22:02:00 UTC</a></sub>
 * [Space station company Vast, founded by billionaire Jed McCaleb, acquires startup Launcher](https://www.cnbc.com/2023/02/21/jed-mccalebs-vast-acquires-launcher.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T211333">2023-02-21 21:13:33 UTC</a></sub>
 * [Envisioning the next generation of space telescopes](https://spacenews.com/envisioning-the-next-generation-of-space-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T203902">2023-02-21 20:39:02 UTC</a></sub>
 * [NASA Mars orbiter reveals China’s Zhurong rover has not moved for months](https://spacenews.com/nasa-mars-orbiter-reveals-chinas-zhurong-rover-has-not-moved-for-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T192656">2023-02-21 19:26:56 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [The growing Chinese space threat](https://spacenews.com/the-growing-chinese-space-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T142450">2023-02-21 14:24:50 UTC</a></sub>
 * [FAA forecasts surging commercial launch activity](https://spacenews.com/faa-forecasts-surging-commercial-launch-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T100422">2023-02-21 10:04:22 UTC</a></sub>
 * [Secretive military space agency stepping out of the shadows](https://spacenews.com/secretive-military-space-agency-stepping-out-of-the-shadows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T220000">2023-02-20 22:00:00 UTC</a></sub>
-* [Space Force considers public-private partnerships to respond to crises](https://spacenews.com/space-force-considers-public-private-partnerships-to-respond-to-crises/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T193053">2023-02-20 19:30:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T220104">2023-02-21 22:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T223219">2023-02-21 22:32:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
