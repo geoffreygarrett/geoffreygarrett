@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Mars orbiter reveals China’s Zhurong rover has not moved for months](https://spacenews.com/nasa-mars-orbiter-reveals-chinas-zhurong-rover-has-not-moved-for-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T192656">2023-02-21 19:26:56 UTC</a></sub>
 * [Vast acquires Launcher to support space station development](https://spacenews.com/vast-acquires-launcher-to-support-space-station-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T191003">2023-02-21 19:10:03 UTC</a></sub>
 * [Russia claims an “external impact” damaged its Progress spacecraft](https://arstechnica.com/science/2023/02/russia-claims-an-external-impact-damaged-its-progress-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T172946">2023-02-21 17:29:46 UTC</a></sub>
 * [Texas is planning to make a huge public investment in space](https://arstechnica.com/science/2023/02/texas-is-planning-to-make-a-huge-public-investment-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T150440">2023-02-21 15:04:40 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force considers public-private partnerships to respond to crises](https://spacenews.com/space-force-considers-public-private-partnerships-to-respond-to-crises/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T193053">2023-02-20 19:30:53 UTC</a></sub>
 * [Lance Bass was kicked off a Russian spaceflight two decades ago—now he’s back](https://arstechnica.com/science/2023/02/lance-bass-was-kicked-off-a-russian-spaceflight-two-decades-ago-now-hes-back/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T182130">2023-02-20 18:21:30 UTC</a></sub>
 * [ESA’s David Parker updates status of Orion service modules and European astronauts for Artemis](https://www.nasaspaceflight.com/2023/02/esas-david-parker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T165450">2023-02-20 16:54:50 UTC</a></sub>
-* [ESA, China conduct spacecraft-rocket integration tests but joint science mission delayed to 2025](https://spacenews.com/esa-china-conduct-spacecraft-rocket-integration-tests-but-joint-science-mission-delayed-to-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T121317">2023-02-20 12:13:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T193059">2023-02-21 19:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T200124">2023-02-21 20:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
