@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Vast acquires Launcher to support space station development](https://spacenews.com/vast-acquires-launcher-to-support-space-station-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T191003">2023-02-21 19:10:03 UTC</a></sub>
 * [Russia claims an “external impact” damaged its Progress spacecraft](https://arstechnica.com/science/2023/02/russia-claims-an-external-impact-damaged-its-progress-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T172946">2023-02-21 17:29:46 UTC</a></sub>
 * [Texas is planning to make a huge public investment in space](https://arstechnica.com/science/2023/02/texas-is-planning-to-make-a-huge-public-investment-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T150440">2023-02-21 15:04:40 UTC</a></sub>
 * [The growing Chinese space threat](https://spacenews.com/the-growing-chinese-space-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T142450">2023-02-21 14:24:50 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Lance Bass was kicked off a Russian spaceflight two decades ago—now he’s back](https://arstechnica.com/science/2023/02/lance-bass-was-kicked-off-a-russian-spaceflight-two-decades-ago-now-hes-back/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T182130">2023-02-20 18:21:30 UTC</a></sub>
 * [ESA’s David Parker updates status of Orion service modules and European astronauts for Artemis](https://www.nasaspaceflight.com/2023/02/esas-david-parker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T165450">2023-02-20 16:54:50 UTC</a></sub>
 * [ESA, China conduct spacecraft-rocket integration tests but joint science mission delayed to 2025](https://spacenews.com/esa-china-conduct-spacecraft-rocket-integration-tests-but-joint-science-mission-delayed-to-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T121317">2023-02-20 12:13:17 UTC</a></sub>
-* [NSL unveils new Black Box](https://spacenews.com/nsl-unveils-new-black-box/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T110000">2023-02-20 11:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T190141">2023-02-21 19:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T193059">2023-02-21 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
