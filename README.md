@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia claims an “external impact” damaged its Progress spacecraft](https://arstechnica.com/science/2023/02/russia-claims-an-external-impact-damaged-its-progress-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T172946">2023-02-21 17:29:46 UTC</a></sub>
 * [Texas is planning to make a huge public investment in space](https://arstechnica.com/science/2023/02/texas-is-planning-to-make-a-huge-public-investment-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T150440">2023-02-21 15:04:40 UTC</a></sub>
 * [The growing Chinese space threat](https://spacenews.com/the-growing-chinese-space-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T142450">2023-02-21 14:24:50 UTC</a></sub>
 * [FAA forecasts surging commercial launch activity](https://spacenews.com/faa-forecasts-surging-commercial-launch-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T100422">2023-02-21 10:04:22 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [ESA’s David Parker updates status of Orion service modules and European astronauts for Artemis](https://www.nasaspaceflight.com/2023/02/esas-david-parker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T165450">2023-02-20 16:54:50 UTC</a></sub>
 * [ESA, China conduct spacecraft-rocket integration tests but joint science mission delayed to 2025](https://spacenews.com/esa-china-conduct-spacecraft-rocket-integration-tests-but-joint-science-mission-delayed-to-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T121317">2023-02-20 12:13:17 UTC</a></sub>
 * [NSL unveils new Black Box](https://spacenews.com/nsl-unveils-new-black-box/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T110000">2023-02-20 11:00:00 UTC</a></sub>
-* [Office of Space Commerce examines options for commercial SSA pilot project in LEO](https://spacenews.com/office-of-space-commerce-examines-options-for-commercial-ssa-pilot-project-in-leo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230219T001843">2023-02-19 00:18:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T173057">2023-02-21 17:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T180101">2023-02-21 18:01:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
