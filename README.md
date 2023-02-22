@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [How to Implement Open Architectures Faster in Ground Systems—Legacy, Now, and Next](https://spacenews.com/how-to-implement-open-architectures-faster-in-ground-systems-legacy-now-and-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T050000">2023-02-22 05:00:00 UTC</a></sub>
 * [Military to tap commercial industry for ‘space mobility’ services](https://spacenews.com/military-to-tap-commercial-industry-for-space-mobility-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T015717">2023-02-22 01:57:17 UTC</a></sub>
 * [NASA Sets TV Coverage for Launch, Docking of Replacement Soyuz](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-launch-docking-of-replacement-soyuz) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T220200">2023-02-21 22:02:00 UTC</a></sub>
 * [Space station company Vast, founded by billionaire Jed McCaleb, acquires startup Launcher](https://www.cnbc.com/2023/02/21/jed-mccalebs-vast-acquires-launcher.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T211333">2023-02-21 21:13:33 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Russia claims an “external impact” damaged its Progress spacecraft](https://arstechnica.com/science/2023/02/russia-claims-an-external-impact-damaged-its-progress-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T172946">2023-02-21 17:29:46 UTC</a></sub>
 * [Texas is planning to make a huge public investment in space](https://arstechnica.com/science/2023/02/texas-is-planning-to-make-a-huge-public-investment-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T150440">2023-02-21 15:04:40 UTC</a></sub>
 * [The growing Chinese space threat](https://spacenews.com/the-growing-chinese-space-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T142450">2023-02-21 14:24:50 UTC</a></sub>
-* [FAA forecasts surging commercial launch activity](https://spacenews.com/faa-forecasts-surging-commercial-launch-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T100422">2023-02-21 10:04:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T060053">2023-02-22 06:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T063434">2023-02-22 06:34:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
