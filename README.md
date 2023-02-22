@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Experts Go on Tour with The Color of Space Documentary](http://www.nasa.gov/press-release/nasa-experts-go-on-tour-with-the-color-of-space-documentary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T201200">2023-02-22 20:12:00 UTC</a></sub>
 * [NASA Virtual Aviation Showcase to Highlight Transformative Innovation](http://www.nasa.gov/press-release/nasa-virtual-aviation-showcase-to-highlight-transformative-innovation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T181200">2023-02-22 18:12:00 UTC</a></sub>
 * [Delving Deeper: Super Heavy thrust and counting down to flight](https://www.nasaspaceflight.com/2023/02/starship-delving-deeper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T170428">2023-02-22 17:04:28 UTC</a></sub>
 * [Terran Orbital announces $2.4 billion Rivada Space Networks contract](https://spacenews.com/terran-orbital-announces-2-4-billion-rivada-space-networks-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T154552">2023-02-22 15:45:52 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Crew-6 launch slips as Progress leak investigation continues](https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T110742">2023-02-22 11:07:42 UTC</a></sub>
 * [Space Force: Smaller launchers made case to compete for national security contracts](https://spacenews.com/space-force-smaller-launchers-made-case-to-compete-for-national-security-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T103813">2023-02-22 10:38:13 UTC</a></sub>
 * [SpaceX proceeding with Starship orbital launch attempt after static fire](https://spacenews.com/spacex-proceeding-with-starship-orbital-launch-attempt-after-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T085703">2023-02-22 08:57:03 UTC</a></sub>
-* [How to Implement Open Architectures Faster in Ground Systems—Legacy, Now, and Next](https://spacenews.com/how-to-implement-open-architectures-faster-in-ground-systems-legacy-now-and-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T050000">2023-02-22 05:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T200056">2023-02-22 20:00:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T203209">2023-02-22 20:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
