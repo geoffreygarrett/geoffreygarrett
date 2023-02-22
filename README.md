@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Terran Orbital announces $2.4 billion Rivada Space Networks contract](https://spacenews.com/terran-orbital-announces-2-4-billion-rivada-space-networks-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T154552">2023-02-22 15:45:52 UTC</a></sub>
 * [SpaceX adjusts Starlink monthly pricing for residential customers based on service capacity](https://www.cnbc.com/2023/02/22/spacex-starlink-residential-monthly-pricing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T143651">2023-02-22 14:36:51 UTC</a></sub>
 * [Capella teams with analytics firms to promote use of radar imagery](https://spacenews.com/capella-teams-with-analytics-firms-to-promote-use-of-radar-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T140000">2023-02-22 14:00:00 UTC</a></sub>
 * [Terran Orbital stock surges after winning $2.4 billion contract to build satellites for Rivada](https://www.cnbc.com/2023/02/22/terran-orbital-wins-2point4-billion-rivada-satellite-contract.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T135313">2023-02-22 13:53:13 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [How to Implement Open Architectures Faster in Ground Systems—Legacy, Now, and Next](https://spacenews.com/how-to-implement-open-architectures-faster-in-ground-systems-legacy-now-and-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T050000">2023-02-22 05:00:00 UTC</a></sub>
 * [Military to tap commercial industry for ‘space mobility’ services](https://spacenews.com/military-to-tap-commercial-industry-for-space-mobility-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T015717">2023-02-22 01:57:17 UTC</a></sub>
 * [NASA Sets TV Coverage for Launch, Docking of Replacement Soyuz](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-launch-docking-of-replacement-soyuz) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T220200">2023-02-21 22:02:00 UTC</a></sub>
-* [Space station company Vast, founded by billionaire Jed McCaleb, acquires startup Launcher](https://www.cnbc.com/2023/02/21/jed-mccalebs-vast-acquires-launcher.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T211333">2023-02-21 21:13:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T160058">2023-02-22 16:00:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T163644">2023-02-22 16:36:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
