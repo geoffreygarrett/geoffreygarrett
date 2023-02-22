@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA warns of budget challenges in year ahead](https://spacenews.com/nasa-warns-of-budget-challenges-in-year-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T223153">2023-02-22 22:31:53 UTC</a></sub>
+* [The future of Starship includes national security missions](https://spacenews.com/the-future-of-starship-includes-national-security-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T222756">2023-02-22 22:27:56 UTC</a></sub>
 * [China’s LEO push looms over Western expansion efforts](https://spacenews.com/chinas-leo-push-looms-over-western-expansion-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T205725">2023-02-22 20:57:25 UTC</a></sub>
 * [NASA Experts Go on Tour with The Color of Space Documentary](http://www.nasa.gov/press-release/nasa-experts-go-on-tour-with-the-color-of-space-documentary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T201200">2023-02-22 20:12:00 UTC</a></sub>
 * [NASA Virtual Aviation Showcase to Highlight Transformative Innovation](http://www.nasa.gov/press-release/nasa-virtual-aviation-showcase-to-highlight-transformative-innovation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T181200">2023-02-22 18:12:00 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX adjusts Starlink monthly pricing for residential customers based on service capacity](https://www.cnbc.com/2023/02/22/spacex-starlink-residential-monthly-pricing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T143651">2023-02-22 14:36:51 UTC</a></sub>
 * [Capella teams with analytics firms to promote use of radar imagery](https://spacenews.com/capella-teams-with-analytics-firms-to-promote-use-of-radar-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T140000">2023-02-22 14:00:00 UTC</a></sub>
 * [Terran Orbital surges 71% after winning $2.4 billion contract to build satellites for Rivada](https://www.cnbc.com/2023/02/22/terran-orbital-wins-2point4-billion-rivada-satellite-contract.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T135313">2023-02-22 13:53:13 UTC</a></sub>
-* [Crew-6 launch slips as Progress leak investigation continues](https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T110742">2023-02-22 11:07:42 UTC</a></sub>
-* [Space Force: Smaller launchers made case to compete for national security contracts](https://spacenews.com/space-force-smaller-launchers-made-case-to-compete-for-national-security-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T103813">2023-02-22 10:38:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T220101">2023-02-22 22:01:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T223217">2023-02-22 22:32:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
