@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China Resumes Orbital Launches with Zhongxing-26 Satellite Mission](https://tlpnetwork.com/news/2023/02/china-resumes-orbital-launches-with-zhongxing-26-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T195000">2023-02-23 19:50:00 UTC</a></sub>
+* [Polaris Dawn Crew Prepares For Historic Mission This Summer](https://tlpnetwork.com/news/2023/02/polaris-dawn-prepares-for-historic-mission-this-summer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T193100">2023-02-23 19:31:00 UTC</a></sub>
 * [NASA Expands Lunar Communication Networks](https://tlpnetwork.com/news/2023/02/nasa-files-rfp-for-near-space-communication-networks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T183300">2023-02-23 18:33:00 UTC</a></sub>
 * [Investing in Space: Texts from orbit](https://www.cnbc.com/2023/02/23/investing-in-space-texts-from-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T171505">2023-02-23 17:15:05 UTC</a></sub>
 * [Uncrewed Soyuz MS-23 “rescue” mission ready for launch](https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T164126">2023-02-23 16:41:26 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [SAR solutions provider Asterra in talks for first satellite](https://spacenews.com/sar-solutions-provider-asterra-in-talks-for-first-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T000433">2023-02-23 00:04:33 UTC</a></sub>
 * [Relativity Receives Launch Licence, Sets Launch Date](https://tlpnetwork.com/news/2023/02/relativity-launch-licence-and-launch-date-announcement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T235600">2023-02-22 23:56:00 UTC</a></sub>
 * [NASA warns of budget challenges in year ahead](https://spacenews.com/nasa-warns-of-budget-challenges-in-year-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T223153">2023-02-22 22:31:53 UTC</a></sub>
-* [The future of Starship includes national security missions](https://spacenews.com/the-future-of-starship-includes-national-security-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T222756">2023-02-22 22:27:56 UTC</a></sub>
-* [China’s LEO push looms over Western expansion efforts](https://spacenews.com/chinas-leo-push-looms-over-western-expansion-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T205725">2023-02-22 20:57:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T193059">2023-02-23 19:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T200104">2023-02-23 20:01:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
