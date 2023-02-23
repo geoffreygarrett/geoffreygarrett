@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Expands Lunar Communication Networks](https://tlpnetwork.com/news/2023/02/nasa-files-rfp-for-near-space-communication-networks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T183300">2023-02-23 18:33:00 UTC</a></sub>
 * [Investing in Space: Texts from orbit](https://www.cnbc.com/2023/02/23/investing-in-space-texts-from-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T171505">2023-02-23 17:15:05 UTC</a></sub>
 * [Uncrewed Soyuz MS-23 “rescue” mission ready for launch](https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T164126">2023-02-23 16:41:26 UTC</a></sub>
 * [Relativity Space sets date for first Terran 1 launch](https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T004103">2023-02-23 00:41:03 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [NASA warns of budget challenges in year ahead](https://spacenews.com/nasa-warns-of-budget-challenges-in-year-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T223153">2023-02-22 22:31:53 UTC</a></sub>
 * [The future of Starship includes national security missions](https://spacenews.com/the-future-of-starship-includes-national-security-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T222756">2023-02-22 22:27:56 UTC</a></sub>
 * [China’s LEO push looms over Western expansion efforts](https://spacenews.com/chinas-leo-push-looms-over-western-expansion-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T205725">2023-02-22 20:57:25 UTC</a></sub>
-* [NASA Experts Go on Tour with The Color of Space Documentary](http://www.nasa.gov/press-release/nasa-experts-go-on-tour-with-the-color-of-space-documentary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T201200">2023-02-22 20:12:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T190042">2023-02-23 19:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T193059">2023-02-23 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
