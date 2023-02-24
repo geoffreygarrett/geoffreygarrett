@@ -186,6 +186,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: SpaceX counting down to test-firing before next crew launch](https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T100607">2023-02-24 10:06:07 UTC</a></sub>
 * [Uncrewed Soyuz MS-23 “rescue” mission launches to ISS](https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T234126">2023-02-23 23:41:26 UTC</a></sub>
 * [BREAKING! ULA Now Targeting May 4th For Vulcan Launch](https://tlpnetwork.com/news/2023/02/ula-now-targeting-may-4-for-vulcan-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T231500">2023-02-23 23:15:00 UTC</a></sub>
 * [NASA Awards Consolidated Operations, Management, Engineering Contract](http://www.nasa.gov/press-release/nasa-awards-consolidated-operations-management-engineering-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T210600">2023-02-23 21:06:00 UTC</a></sub>
@@ -195,7 +196,6 @@ region. The mission's status is currently To Be Confirmed
 * [Investing in Space: Texts from orbit](https://www.cnbc.com/2023/02/23/investing-in-space-texts-from-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T171505">2023-02-23 17:15:05 UTC</a></sub>
 * [Relativity Space sets date for first Terran 1 launch](https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T004103">2023-02-23 00:41:03 UTC</a></sub>
 * [Terran Orbital Secures $2.4 Billion Contract to Build 300 Satellites for Rivada Space Networks ](https://tlpnetwork.com/news/2023/02/terran-orbital-secures-rivada-space-networks-contact) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T003800">2023-02-23 00:38:00 UTC</a></sub>
-* [SAR solutions provider Asterra in talks for first satellite](https://spacenews.com/sar-solutions-provider-asterra-in-talks-for-first-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T000433">2023-02-23 00:04:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -228,7 +228,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T093101">2023-02-24 09:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T100630">2023-02-24 10:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
