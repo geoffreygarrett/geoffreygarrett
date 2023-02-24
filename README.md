@@ -141,6 +141,7 @@ region. The mission's status is currently To Be Confirmed
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>OneWeb 17</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T194400">2023-03-01 19:44:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230301T194400Z%2F20230301T194400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun (Maiden Flight)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SES-18 & SES-19</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T003500">2023-03-09 00:35:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-18 &amp; SES-19&location=Cape Canaveral, FL, USA&dates=20230309T003500Z%2F20230309T003500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Orbital Flight Test</b> from SpaceX Space Launch Facility, TX, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T000000">2023-03-11 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Orbital Flight Test&location=SpaceX Space Launch Facility, TX, USA&dates=20230311T000000Z%2F20230311T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -186,16 +187,16 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date](https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T120023">2023-02-24 12:00:23 UTC</a></sub>
 * [Watch live: SpaceX counting down to test-firing before next crew launch](https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T100607">2023-02-24 10:06:07 UTC</a></sub>
 * [Uncrewed Soyuz MS-23 “rescue” mission launches to ISS](https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T234126">2023-02-23 23:41:26 UTC</a></sub>
-* [BREAKING! ULA Now Targeting May 4th For Vulcan Launch](https://tlpnetwork.com/news/2023/02/ula-now-targeting-may-4-for-vulcan-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T231500">2023-02-23 23:15:00 UTC</a></sub>
+* [ULA Now Targeting May 4th For Vulcan Launch](https://tlpnetwork.com/news/2023/02/ula-now-targeting-may-4-for-vulcan-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T231500">2023-02-23 23:15:00 UTC</a></sub>
 * [NASA Awards Consolidated Operations, Management, Engineering Contract](http://www.nasa.gov/press-release/nasa-awards-consolidated-operations-management-engineering-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T210600">2023-02-23 21:06:00 UTC</a></sub>
 * [China Resumes Orbital Launches with Zhongxing-26 Satellite Mission](https://tlpnetwork.com/news/2023/02/china-resumes-orbital-launches-with-zhongxing-26-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T195000">2023-02-23 19:50:00 UTC</a></sub>
 * [Polaris Dawn Crew Prepares For Historic Mission This Summer](https://tlpnetwork.com/news/2023/02/polaris-dawn-prepares-for-historic-mission-this-summer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T193100">2023-02-23 19:31:00 UTC</a></sub>
 * [NASA Expands Lunar Communication Networks](https://tlpnetwork.com/news/2023/02/nasa-files-rfp-for-near-space-communication-networks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T183300">2023-02-23 18:33:00 UTC</a></sub>
 * [Investing in Space: Texts from orbit](https://www.cnbc.com/2023/02/23/investing-in-space-texts-from-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T171505">2023-02-23 17:15:05 UTC</a></sub>
 * [Relativity Space sets date for first Terran 1 launch](https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T004103">2023-02-23 00:41:03 UTC</a></sub>
-* [Terran Orbital Secures $2.4 Billion Contract to Build 300 Satellites for Rivada Space Networks ](https://tlpnetwork.com/news/2023/02/terran-orbital-secures-rivada-space-networks-contact) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T003800">2023-02-23 00:38:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -228,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T113100">2023-02-24 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T121025">2023-02-24 12:10:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
