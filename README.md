@@ -187,6 +187,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After Vulcan comes online, ULA plans to dramatically increase launch cadence](https://arstechnica.com/science/2023/02/after-vulcan-comes-online-ula-plans-to-dramatically-increase-launch-cadence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T150249">2023-02-24 15:02:49 UTC</a></sub>
 * [Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date](https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T120023">2023-02-24 12:00:23 UTC</a></sub>
 * [Watch live: SpaceX counting down to test-firing before next crew launch](https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T100607">2023-02-24 10:06:07 UTC</a></sub>
 * [Uncrewed Soyuz MS-23 “rescue” mission launches to ISS](https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T234126">2023-02-23 23:41:26 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently To Be Confirmed
 * [Polaris Dawn Crew Prepares For Historic Mission This Summer](https://tlpnetwork.com/news/2023/02/polaris-dawn-prepares-for-historic-mission-this-summer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T193100">2023-02-23 19:31:00 UTC</a></sub>
 * [NASA Expands Lunar Communication Networks](https://tlpnetwork.com/news/2023/02/nasa-files-rfp-for-near-space-communication-networks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T183300">2023-02-23 18:33:00 UTC</a></sub>
 * [Investing in Space: Texts from orbit](https://www.cnbc.com/2023/02/23/investing-in-space-texts-from-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T171505">2023-02-23 17:15:05 UTC</a></sub>
-* [Relativity Space sets date for first Terran 1 launch](https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T004103">2023-02-23 00:41:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -207,6 +207,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Red hot space](https://www.planetary.org/the-downlink/red-hot-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T153623">2023-02-24 15:36:23 UTC</a></sub>
 * [Why we need the NEO Surveyor space telescope](https://www.planetary.org/articles/the-need-for-neo-surveyor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T153624">2023-02-23 15:36:24 UTC</a></sub>
 * [Io, Jupiter’s chaotic volcano moon](https://www.planetary.org/worlds/io) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T153229">2023-02-21 15:32:29 UTC</a></sub>
 * [Weaving together a picture of the Cosmos](https://www.planetary.org/the-downlink/weaving-together-a-picture-of-the-cosmos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T153102">2023-02-17 15:31:02 UTC</a></sub>
@@ -216,7 +217,6 @@ region. The mission's status is currently To Be Confirmed
 * [What does a bear have in common with a megatsunami?](https://www.planetary.org/the-downlink/what-does-a-bear-have-in-common-with-a-megatsunami) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T153140">2023-02-10 15:31:40 UTC</a></sub>
 * [Our favorite moons of the Solar System](https://www.planetary.org/articles/our-favorite-moons-of-the-solar-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T160136">2023-02-07 16:01:36 UTC</a></sub>
 * [Vulcan: Rocket stacked for inaugural launch](https://blog.ulalaunch.com/blog/vulcan-rocket-stacked-for-inaugural-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T164145">2023-02-06 16:41:45 UTC</a></sub>
-* [More worlds, anyone?](https://www.planetary.org/the-downlink/more-worlds-anyone) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T153132">2023-02-03 15:31:32 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T153206">2023-02-24 15:32:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T160725">2023-02-24 16:07:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
