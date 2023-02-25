@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First Image from SONY Star Sphere Satellite Released](https://tlpnetwork.com/news/2023/02/first-image-from-sony-star-sphere-released) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T220600">2023-02-25 22:06:00 UTC</a></sub>
 * [Space Force is taking a ‘mutual fund approach’ to buying rocket launches](https://www.cnbc.com/2023/02/24/space-force-rocket-launch-acquisitions-approach.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T214436">2023-02-24 21:44:36 UTC</a></sub>
 * [NASA Loses Command Of IBEX Spacecraft](https://tlpnetwork.com/news/2023/02/nasa-loses-command-of-ibex-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T205000">2023-02-24 20:50:00 UTC</a></sub>
 * [NASA Prepares To Start Work On First Lunar Gateway Cargo Mission](https://tlpnetwork.com/news/2023/02/nasa-prepares-to-start-work-on-first-lunar-gateway-cargo-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T204500">2023-02-24 20:45:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX completes test-firing before next crew launch](https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T085608">2023-02-24 08:56:08 UTC</a></sub>
 * [Replacement Soyuz launched on fight to space station](https://spaceflightnow.com/2023/02/24/replacement-soyuz-launched-on-fight-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T045608">2023-02-24 04:56:08 UTC</a></sub>
 * [Uncrewed Soyuz MS-23 “rescue” mission launches to ISS](https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T234126">2023-02-23 23:41:26 UTC</a></sub>
-* [ULA Now Targeting May 4th For Vulcan Launch](https://tlpnetwork.com/news/2023/02/ula-now-targeting-may-4-for-vulcan-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T231500">2023-02-23 23:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T223219">2023-02-25 22:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T230307">2023-02-25 23:03:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
