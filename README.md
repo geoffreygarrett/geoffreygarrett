@@ -188,6 +188,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Spaceport Company To Develop Commercial Sea Launch Pads](https://tlpnetwork.com/news/2023/02/the-spaceport-company-to-develop-sea-launch-pads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T233700">2023-02-26 23:37:00 UTC</a></sub>
+* [SpaceX unveils next-gen Starlink V2 Mini satellites ahead of Monday launch](https://www.teslarati.com/spacex-unveils-next-gen-starlink-v2-mini-satellites-ahead-of-monday-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T232533">2023-02-26 23:25:33 UTC</a></sub>
+* [Startup developing sea-based launch pads](https://spacenews.com/startup-developing-sea-based-launch-pads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T232300">2023-02-26 23:23:00 UTC</a></sub>
 * [Unpiloted Soyuz spacecraft docks at space station to replace damaged crew capsule](https://spaceflightnow.com/2023/02/26/unpiloted-soyuz-spacecraft-docks-at-space-station-to-replace-damaged-crew-capsule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T220517">2023-02-26 22:05:17 UTC</a></sub>
 * [SpaceX Crew Dragon poised for overnight launch to space station](https://spaceflightnow.com/2023/02/26/spacex-crew-dragon-poised-for-overnight-launch-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T214517">2023-02-26 21:45:17 UTC</a></sub>
 * [SpaceX Reveals Details Of Next Generation Starlink Satellites](https://tlpnetwork.com/news/2023/02/starlink-v2-mini-details) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T203100">2023-02-26 20:31:00 UTC</a></sub>
@@ -195,9 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Replacement Soyuz arrives at space station](https://spacenews.com/replacement-soyuz-arrives-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T130259">2023-02-26 13:02:59 UTC</a></sub>
 * [Uncrewed Soyuz MS-23 “rescue” mission arrives at ISS](https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T234126">2023-02-25 23:41:26 UTC</a></sub>
 * [First Image from SONY Star Sphere Satellite Released](https://tlpnetwork.com/news/2023/02/first-image-from-sony-star-sphere-released) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T220600">2023-02-25 22:06:00 UTC</a></sub>
-* [Space Force looks to energize industry with next round of launch contracts](https://spacenews.com/space-force-looks-to-energize-industry-with-next-round-of-launch-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T174511">2023-02-25 17:45:11 UTC</a></sub>
-* [Commercial space a key topic for National Space Council advisory group](https://spacenews.com/commercial-space-a-key-topic-for-national-space-council-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T161951">2023-02-25 16:19:51 UTC</a></sub>
-* [Space Force is taking a ‘mutual fund approach’ to buying rocket launches](https://www.cnbc.com/2023/02/24/space-force-rocket-launch-acquisitions-approach.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T214436">2023-02-24 21:44:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T233054">2023-02-26 23:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T003213">2023-02-27 00:32:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
