@@ -187,6 +187,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s SpaceX Crew-5 to Discuss Mission, Splashdown from Space](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-splashdown-from-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T212500">2023-02-27 21:25:00 UTC</a></sub>
+* [U.S. Army extends Maxar’s contract for 3D geospatial data](https://spacenews.com/u-s-army-extends-maxars-contract-for-3d-geospatial-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T210904">2023-02-27 21:09:04 UTC</a></sub>
 * [China Unveils Crew Lunar Lander, Targets 2027 For Demo Mission](https://tlpnetwork.com/news/2023/02/china-unveils-crew-lunar-lander-targets-2027-for-demo-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T204200">2023-02-27 20:42:00 UTC</a></sub>
 * [Heliophysics director named NASA associate administrator for science](https://spacenews.com/heliophysics-director-named-nasa-associate-administrator-for-science/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T202849">2023-02-27 20:28:49 UTC</a></sub>
 * [Air Force navigation satellite to launch on Vulcan’s first national security mission](https://spacenews.com/air-force-navigation-satellite-to-launch-on-vulcans-first-national-security-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T194636">2023-02-27 19:46:36 UTC</a></sub>
@@ -195,8 +197,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX to launch first Starlink v2 satellites as part of doubleheader](https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T165947">2023-02-27 16:59:47 UTC</a></sub>
 * [Technical issue scrubs SpaceX commercial crew launch](https://spacenews.com/technical-issue-scrubs-spacex-commercial-crew-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T123141">2023-02-27 12:31:41 UTC</a></sub>
 * [China unveils lunar lander to put astronauts on the moon](https://spacenews.com/china-unveils-lunar-lander-to-put-astronauts-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T114435">2023-02-27 11:44:35 UTC</a></sub>
-* [NASA SpaceX Set March 2 For Next Crew-6 Launch Attempt ](https://tlpnetwork.com/news/2023/02/nasa-spacex-schedule-next-crew-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T091200">2023-02-27 09:12:00 UTC</a></sub>
-* [SpaceX, NASA scrub international Crew-6 launch to Station](https://www.nasaspaceflight.com/2023/02/crew-6-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T072222">2023-02-27 07:22:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T213114">2023-02-27 21:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T220432">2023-02-27 22:04:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
