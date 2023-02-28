@@ -186,6 +186,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin continues investigation into New Shepard anomaly](https://spacenews.com/blue-origin-continues-investigation-into-new-shepard-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T182432">2023-02-28 18:24:32 UTC</a></sub>
 * [China Plans Tiangong Space Station Expansion ](https://tlpnetwork.com/news/2023/02/china-plans-tiangong-space-station-expansion ) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T173400">2023-02-28 17:34:00 UTC</a></sub>
 * [Japan Announces First New Astronaut in 14 Years to Join Artemis Missions](https://tlpnetwork.com/news/2023/02/jaxa-announces-new-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T172300">2023-02-28 17:23:00 UTC</a></sub>
 * [Lux Semiconductors raises $2.3 million for microelectronics  packaging technology](https://spacenews.com/lux-semiconductors-raises-2-3-million-for-microelectronics-packaging-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T171518">2023-02-28 17:15:18 UTC</a></sub>
@@ -195,7 +196,6 @@ region. The mission's status is currently To Be Confirmed
 * [Japan selects first new astronauts in 14 years to support Artemis program ](https://spacenews.com/jaxa-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T142456">2023-02-28 14:24:56 UTC</a></sub>
 * [SpaceX begins launching second-generation Starlink satellites with four times the network capacity](https://www.cnbc.com/2023/02/28/spacex-launches-v2-mini-starlink-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T140051">2023-02-28 14:00:51 UTC</a></sub>
 * [SpaceX launches first upgraded Starlink satellites](https://spacenews.com/spacex-launches-first-upgraded-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T134653">2023-02-28 13:46:53 UTC</a></sub>
-* [First ispace mission on track for April lunar landing](https://spacenews.com/first-ispace-mission-on-track-for-april-lunar-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T120727">2023-02-28 12:07:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -228,7 +228,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T180726">2023-02-28 18:07:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T183800">2023-02-28 18:38:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
