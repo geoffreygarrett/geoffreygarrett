@@ -186,6 +186,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches first Starlink v2 satellites to orbit](https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T225947">2023-02-27 22:59:47 UTC</a></sub>
 * [NASA's SWOT Satellite Main Instrument Offline](https://tlpnetwork.com/news/2023/02/nasa-swot-satellite-main-instrument-offline) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T223200">2023-02-27 22:32:00 UTC</a></sub>
 * [NASA’s SpaceX Crew-5 to Discuss Mission, Splashdown from Space](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-splashdown-from-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T212500">2023-02-27 21:25:00 UTC</a></sub>
 * [U.S. Army extends Maxar’s contract for 3D geospatial data](https://spacenews.com/u-s-army-extends-maxars-contract-for-3d-geospatial-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T210904">2023-02-27 21:09:04 UTC</a></sub>
@@ -194,7 +195,6 @@ region. The mission's status is currently To Be Confirmed
 * [Air Force navigation satellite to launch on Vulcan’s first national security mission](https://spacenews.com/air-force-navigation-satellite-to-launch-on-vulcans-first-national-security-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T194636">2023-02-27 19:46:36 UTC</a></sub>
 * [Mitsubishi makes strategic investment in Astroscale’s $76 million funding round](https://spacenews.com/mitsubishi-makes-strategic-investment-in-astroscales-76-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T194359">2023-02-27 19:43:59 UTC</a></sub>
 * [NASA Administrator Selects New Head of Science](http://www.nasa.gov/press-release/nasa-administrator-selects-new-head-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T180500">2023-02-27 18:05:00 UTC</a></sub>
-* [SpaceX to launch first Starlink v2 satellites as part of doubleheader](https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T165947">2023-02-27 16:59:47 UTC</a></sub>
 * [Technical issue scrubs SpaceX commercial crew launch](https://spacenews.com/technical-issue-scrubs-spacex-commercial-crew-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T123141">2023-02-27 12:31:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -228,7 +228,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T233145">2023-02-27 23:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T003156">2023-02-28 00:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
