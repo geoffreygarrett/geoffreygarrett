@@ -186,6 +186,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA´s William Hartwell updates on Artemis I and future ESMs](https://www.nasaspaceflight.com/2023/02/artemis-i-future-esm-updates/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T160953">2023-02-28 16:09:53 UTC</a></sub>
 * [Meet the space billionaire who is interested in something other than rockets](https://arstechnica.com/science/2023/02/meet-the-space-billionaire-who-is-interested-in-something-other-than-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T153040">2023-02-28 15:30:40 UTC</a></sub>
 * [China to expand its space station, international astronaut selection underway](https://spacenews.com/china-to-expand-its-space-station-international-astronaut-selection-underway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T145953">2023-02-28 14:59:53 UTC</a></sub>
 * [Japan selects first new astronauts in 14 years to support Artemis program ](https://spacenews.com/jaxa-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T142456">2023-02-28 14:24:56 UTC</a></sub>
@@ -195,7 +196,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX launches first Starlink v2 satellites to orbit](https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T225947">2023-02-27 22:59:47 UTC</a></sub>
 * [NASA's SWOT Satellite Main Instrument Offline](https://tlpnetwork.com/news/2023/02/nasa-swot-satellite-main-instrument-offline) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T223200">2023-02-27 22:32:00 UTC</a></sub>
 * [NASA’s SpaceX Crew-5 to Discuss Mission, Splashdown from Space](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-splashdown-from-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T212500">2023-02-27 21:25:00 UTC</a></sub>
-* [U.S. Army extends Maxar’s contract for 3D geospatial data](https://spacenews.com/u-s-army-extends-maxars-contract-for-3d-geospatial-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T210904">2023-02-27 21:09:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -228,7 +228,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T160721">2023-02-28 16:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T164442">2023-02-28 16:44:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
