@@ -186,6 +186,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab quarterly revenue stays steady as space company doubles order backlog](https://www.cnbc.com/2023/02/28/rocket-lab-rklb-q4-2022-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T214019">2023-02-28 21:40:19 UTC</a></sub>
+* [NASA Awards Contract Supporting Langley’s Research, Science Services](http://www.nasa.gov/press-release/nasa-awards-contract-supporting-langley-s-research-science-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T211500">2023-02-28 21:15:00 UTC</a></sub>
+* [Virgin Galactic completes lengthy upgrade process ahead of resuming spaceflights](https://www.cnbc.com/2023/02/28/virgin-galactic-spce-q4-2022-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T211310">2023-02-28 21:13:10 UTC</a></sub>
 * [Industry group to examine potential security threats in cislunar space ](https://spacenews.com/industry-group-to-examine-potential-security-threats-in-cislunar-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T184256">2023-02-28 18:42:56 UTC</a></sub>
 * [iSpace On Track For First Lunar Landing, Preparing For Next Missions](https://tlpnetwork.com/news/2023/02/ispace-on-track-for-first-lunar-landing-preparing-for-next-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T183700">2023-02-28 18:37:00 UTC</a></sub>
 * [Blue Origin continues investigation into New Shepard anomaly](https://spacenews.com/blue-origin-continues-investigation-into-new-shepard-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T182432">2023-02-28 18:24:32 UTC</a></sub>
@@ -193,9 +196,6 @@ region. The mission's status is currently To Be Confirmed
 * [Japan Announces First New Astronaut in 14 Years to Join Artemis Missions](https://tlpnetwork.com/news/2023/02/jaxa-announces-new-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T172300">2023-02-28 17:23:00 UTC</a></sub>
 * [Lux Semiconductors raises $2.3 million for microelectronics  packaging technology](https://spacenews.com/lux-semiconductors-raises-2-3-million-for-microelectronics-packaging-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T171518">2023-02-28 17:15:18 UTC</a></sub>
 * [NASA´s William Hartwell updates on Artemis I and future ESMs](https://www.nasaspaceflight.com/2023/02/artemis-i-future-esm-updates/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T160953">2023-02-28 16:09:53 UTC</a></sub>
-* [Meet the space billionaire who is interested in something other than rockets](https://arstechnica.com/science/2023/02/meet-the-space-billionaire-who-is-interested-in-something-other-than-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T153040">2023-02-28 15:30:40 UTC</a></sub>
-* [China to expand its space station, international astronaut selection underway](https://spacenews.com/china-to-expand-its-space-station-international-astronaut-selection-underway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T145953">2023-02-28 14:59:53 UTC</a></sub>
-* [Japan selects first new astronauts in 14 years to support Artemis program ](https://spacenews.com/jaxa-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T142456">2023-02-28 14:24:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -228,7 +228,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T213056">2023-02-28 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T220359">2023-02-28 22:03:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
