@@ -106,7 +106,7 @@ Falcon 9 Block 5 | Starlink Group 2-7 at the
 <a href="">Space Launch Complex 4E</a> in
 Vandenberg SFB, CA, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T192000">2023-02-28 19:20:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T190600">2023-03-01 19:06:00 UTC</a>. Until
 then, this launch pad will have seen 103
 out of 712 launches in this
 region. The mission's status is currently To Be Confirmed
@@ -134,7 +134,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-7</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T192000">2023-02-28 19:20:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-7&location=Vandenberg SFB, CA, USA&dates=20230228T192000Z%2F20230228T192000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-7</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T190600">2023-03-01 19:06:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-7&location=Vandenberg SFB, CA, USA&dates=20230301T190600Z%2F20230301T190600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Crew-6</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T053400">2023-03-02 05:34:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-6&location=Kennedy Space Center, FL, USA&dates=20230302T053400Z%2F20230302T053400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun (Maiden Flight)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>OneWeb 17</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T190500">2023-03-09 19:05:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T190500Z%2F20230309T190500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -186,6 +186,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Meet the space billionaire who is interested in something other than rockets](https://arstechnica.com/science/2023/02/meet-the-space-billionaire-who-is-interested-in-something-other-than-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T153040">2023-02-28 15:30:40 UTC</a></sub>
+* [China to expand its space station, international astronaut selection underway](https://spacenews.com/china-to-expand-its-space-station-international-astronaut-selection-underway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T145953">2023-02-28 14:59:53 UTC</a></sub>
 * [Japan selects first new astronauts in 14 years to support Artemis program ](https://spacenews.com/jaxa-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T142456">2023-02-28 14:24:56 UTC</a></sub>
 * [SpaceX begins launching second-generation Starlink satellites with four times the network capacity](https://www.cnbc.com/2023/02/28/spacex-launches-v2-mini-starlink-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T140051">2023-02-28 14:00:51 UTC</a></sub>
 * [SpaceX launches first upgraded Starlink satellites](https://spacenews.com/spacex-launches-first-upgraded-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T134653">2023-02-28 13:46:53 UTC</a></sub>
@@ -194,8 +196,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA's SWOT Satellite Main Instrument Offline](https://tlpnetwork.com/news/2023/02/nasa-swot-satellite-main-instrument-offline) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T223200">2023-02-27 22:32:00 UTC</a></sub>
 * [NASA’s SpaceX Crew-5 to Discuss Mission, Splashdown from Space](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-splashdown-from-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T212500">2023-02-27 21:25:00 UTC</a></sub>
 * [U.S. Army extends Maxar’s contract for 3D geospatial data](https://spacenews.com/u-s-army-extends-maxars-contract-for-3d-geospatial-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T210904">2023-02-27 21:09:04 UTC</a></sub>
-* [China Unveils Crew Lunar Lander, Targets 2027 For Demo Mission](https://tlpnetwork.com/news/2023/02/china-unveils-crew-lunar-lander-targets-2027-for-demo-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T204200">2023-02-27 20:42:00 UTC</a></sub>
-* [Heliophysics director named NASA associate administrator for science](https://spacenews.com/heliophysics-director-named-nasa-associate-administrator-for-science/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T202849">2023-02-27 20:28:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -206,6 +206,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The coolest new space pictures: February 2023](https://www.planetary.org/worlds/coolest-space-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T153529">2023-02-28 15:35:29 UTC</a></sub>
 * [Demystifying near-Earth asteroids](https://www.planetary.org/sci-tech/demystifying-near-earth-asteroids) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T153530">2023-02-27 15:35:30 UTC</a></sub>
 * [Red hot space](https://www.planetary.org/the-downlink/red-hot-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T153623">2023-02-24 15:36:23 UTC</a></sub>
 * [Why we need the NEO Surveyor space telescope](https://www.planetary.org/articles/the-need-for-neo-surveyor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T153624">2023-02-23 15:36:24 UTC</a></sub>
@@ -215,7 +216,6 @@ region. The mission's status is currently To Be Confirmed
 * [Are we alone in the Universe? SETI project](https://www.planetary.org/sci-tech/are-we-alone-seti-project) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T160532">2023-02-14 16:05:32 UTC</a></sub>
 * [Every NASA Authorization](https://www.planetary.org/space-policy/every-nasa-authorization) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T193138">2023-02-11 19:31:38 UTC</a></sub>
 * [What does a bear have in common with a megatsunami?](https://www.planetary.org/the-downlink/what-does-a-bear-have-in-common-with-a-megatsunami) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T153140">2023-02-10 15:31:40 UTC</a></sub>
-* [Our favorite moons of the Solar System](https://www.planetary.org/articles/our-favorite-moons-of-the-solar-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T160136">2023-02-07 16:01:36 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -228,7 +228,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T153403">2023-02-28 15:34:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T160721">2023-02-28 16:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
