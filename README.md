@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! Astra Concludes Tropics-1 Launch Failure Investigation](https://tlpnetwork.com/news/2023/03/astra-concludes-tropics-1-launch-failure-investigation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T220500">2023-03-01 22:05:00 UTC</a></sub>
 * [DoD interested in smartphone-to-satellite communications services](https://spacenews.com/dod-interested-in-smartphone-to-satellite-communications-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T215514">2023-03-01 21:55:14 UTC</a></sub>
 * [NASA Awards Systems Engineering Advanced Services II Contract](http://www.nasa.gov/press-release/nasa-awards-systems-engineering-advanced-services-ii-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T210500">2023-03-01 21:05:00 UTC</a></sub>
 * [RocketLab Considers Ending Helicopter Recovery Program](https://tlpnetwork.com/news/2023/03/rocketlab-considers-ending-helicopter-recovery-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T205900">2023-03-01 20:59:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Updates Coverage for Agency’s SpaceX Crew-6 Launch](http://www.nasa.gov/press-release/nasa-updates-coverage-for-agency-s-spacex-crew-6-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T184500">2023-03-01 18:45:00 UTC</a></sub>
 * [Viasat Acquisition Of Inmarsat Receives Provisional Approval From UK](https://tlpnetwork.com/news/2023/03/viasat-acquisition-of-inmarsat-receives-provisional-approval-from-uk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T183400">2023-03-01 18:34:00 UTC</a></sub>
 * [Sources say prominent US rocket-maker United Launch Alliance is up for sale](https://arstechnica.com/science/2023/03/sources-say-prominent-us-rocket-maker-united-launch-alliance-is-up-for-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T165034">2023-03-01 16:50:34 UTC</a></sub>
-* [UK provisionally clears Viasat’s Inmarsat acquisition](https://spacenews.com/uk-provisionally-clears-viasats-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T141538">2023-03-01 14:15:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T223257">2023-03-01 22:32:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T230428">2023-03-01 23:04:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
