@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic in final phases of return to flight](https://spacenews.com/virgin-galactic-in-final-phases-of-return-to-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T131634">2023-03-01 13:16:34 UTC</a></sub>
 * [Apple lends Globalstar $252 million for satellite-enabled iPhones](https://spacenews.com/apple-loans-globalstar-252-million-for-satellite-enabled-iphones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T234602">2023-02-28 23:46:02 UTC</a></sub>
 * [Rocket Lab quarterly revenue stays steady as space company doubles order backlog](https://www.cnbc.com/2023/02/28/rocket-lab-rklb-q4-2022-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T214019">2023-02-28 21:40:19 UTC</a></sub>
 * [NASA Awards Contract Supporting Langley’s Research, Science Services](http://www.nasa.gov/press-release/nasa-awards-contract-supporting-langley-s-research-science-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T211500">2023-02-28 21:15:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Blue Origin continues investigation into New Shepard anomaly](https://spacenews.com/blue-origin-continues-investigation-into-new-shepard-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T182432">2023-02-28 18:24:32 UTC</a></sub>
 * [China Plans Tiangong Space Station Expansion ](https://tlpnetwork.com/news/2023/02/china-plans-tiangong-space-station-expansion ) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T173400">2023-02-28 17:34:00 UTC</a></sub>
 * [Japan Announces First New Astronaut in 14 Years to Join Artemis Missions](https://tlpnetwork.com/news/2023/02/jaxa-announces-new-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T172300">2023-02-28 17:23:00 UTC</a></sub>
-* [Lux Semiconductors raises $2.3 million for microelectronics  packaging technology](https://spacenews.com/lux-semiconductors-raises-2-3-million-for-microelectronics-packaging-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T171518">2023-02-28 17:15:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T131742">2023-03-01 13:17:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T133821">2023-03-01 13:38:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
