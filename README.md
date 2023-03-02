@@ -191,7 +191,7 @@ region. The mission's status is currently Go for Launch
 * [Crew-6 launches to space station](https://spacenews.com/crew-6-launches-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T091902">2023-03-02 09:19:02 UTC</a></sub>
 * [After flying four astronauts into orbit, SpaceX makes its 101st straight landing](https://arstechnica.com/science/2023/03/on-its-second-attempt-the-crew-6-mission-soared-into-orbit-early-thursday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T060604">2023-03-02 06:06:04 UTC</a></sub>
 * [Crew-6 mission timeline](https://spaceflightnow.com/2023/03/01/crew-6-mission-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T231517">2023-03-01 23:15:17 UTC</a></sub>
-* [BREAKING! Astra Concludes Tropics-1 Launch Failure Investigation](https://tlpnetwork.com/news/2023/03/astra-concludes-tropics-1-launch-failure-investigation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T220500">2023-03-01 22:05:00 UTC</a></sub>
+* [Astra Concludes Tropics-1 Launch Failure Investigation](https://tlpnetwork.com/news/2023/03/astra-concludes-tropics-1-launch-failure-investigation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T220500">2023-03-01 22:05:00 UTC</a></sub>
 * [DoD interested in smartphone-to-satellite communications services](https://spacenews.com/dod-interested-in-smartphone-to-satellite-communications-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T215514">2023-03-01 21:55:14 UTC</a></sub>
 * [NASA Awards Systems Engineering Advanced Services II Contract](http://www.nasa.gov/press-release/nasa-awards-systems-engineering-advanced-services-ii-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T210500">2023-03-01 21:05:00 UTC</a></sub>
 * [RocketLab Considers Ending Helicopter Recovery Program](https://tlpnetwork.com/news/2023/03/rocketlab-considers-ending-helicopter-recovery-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T205900">2023-03-01 20:59:00 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T093213">2023-03-02 09:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T100630">2023-03-02 10:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
