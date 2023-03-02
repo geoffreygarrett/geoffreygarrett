@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [White House cybersecurity strategy warns of ‘complex threat environment’](https://spacenews.com/white-house-cybersecurity-strategy-warns-of-complex-threat-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T213421">2023-03-02 21:34:21 UTC</a></sub>
+* [China’s Shenzhou-15 astronauts conduct secretive second spacewalk](https://spacenews.com/chinas-shenzhou-15-astronauts-conduct-secretive-second-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T212817">2023-03-02 21:28:17 UTC</a></sub>
 * [Raytheon wins $250 million contract for missile-tracking satellites](https://spacenews.com/raytheon-wins-250-million-contract-for-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T185327">2023-03-02 18:53:27 UTC</a></sub>
 * [NASA to Discuss Findings from Successful Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-findings-from-successful-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T173500">2023-03-02 17:35:00 UTC</a></sub>
 * [Investing in Space: Sizing up](https://www.cnbc.com/2023/03/02/investing-in-space-sizing-up.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T172418">2023-03-02 17:24:18 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [CesiumAstro wins SDA contract for Link 16 antennas](https://spacenews.com/cesiumastro-wins-sda-contract-for-link-16-antennas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T123000">2023-03-02 12:30:00 UTC</a></sub>
 * [Crew-6 launches to space station](https://spacenews.com/crew-6-launches-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T091902">2023-03-02 09:19:02 UTC</a></sub>
 * [After flying four astronauts into orbit, SpaceX makes its 101st straight landing](https://arstechnica.com/science/2023/03/on-its-second-attempt-the-crew-6-mission-soared-into-orbit-early-thursday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T060604">2023-03-02 06:06:04 UTC</a></sub>
-* [Crew-6 mission timeline](https://spaceflightnow.com/2023/03/01/crew-6-mission-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T231517">2023-03-01 23:15:17 UTC</a></sub>
-* [Astra Concludes Tropics-1 Launch Failure Investigation](https://tlpnetwork.com/news/2023/03/astra-concludes-tropics-1-launch-failure-investigation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T220500">2023-03-01 22:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T213102">2023-03-02 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T220319">2023-03-02 22:03:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
