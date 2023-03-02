@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After flying four astronauts into orbit, SpaceX makes its 101st straight landing](https://arstechnica.com/science/2023/03/on-its-second-attempt-the-crew-6-mission-soared-into-orbit-early-thursday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T060604">2023-03-02 06:06:04 UTC</a></sub>
 * [Crew-6 mission timeline](https://spaceflightnow.com/2023/03/01/crew-6-mission-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T231517">2023-03-01 23:15:17 UTC</a></sub>
 * [BREAKING! Astra Concludes Tropics-1 Launch Failure Investigation](https://tlpnetwork.com/news/2023/03/astra-concludes-tropics-1-launch-failure-investigation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T220500">2023-03-01 22:05:00 UTC</a></sub>
 * [DoD interested in smartphone-to-satellite communications services](https://spacenews.com/dod-interested-in-smartphone-to-satellite-communications-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T215514">2023-03-01 21:55:14 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX Crew Dragon poised for second launch attempt](https://spaceflightnow.com/2023/03/01/spacex-crew-dragon-poised-for-second-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T195517">2023-03-01 19:55:17 UTC</a></sub>
 * [Virgin Galactic VMS Eve Returns to Spaceport America](https://tlpnetwork.com/news/2023/03/virgin-galactic-vms-eve-returns-to-spaceport-america) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T192100">2023-03-01 19:21:00 UTC</a></sub>
 * [NASA Updates Coverage for Agency’s SpaceX Crew-6 Launch](http://www.nasa.gov/press-release/nasa-updates-coverage-for-agency-s-spacex-crew-6-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T184500">2023-03-01 18:45:00 UTC</a></sub>
-* [Viasat Acquisition Of Inmarsat Receives Provisional Approval From UK](https://tlpnetwork.com/news/2023/03/viasat-acquisition-of-inmarsat-receives-provisional-approval-from-uk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T183400">2023-03-01 18:34:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T060827">2023-03-02 06:08:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T063835">2023-03-02 06:38:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
