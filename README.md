@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD releases updated guidance on ‘responsible behaviors in space’](https://spacenews.com/dod-releases-updated-guidance-on-responsible-behaviors-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T200717">2023-03-03 20:07:17 UTC</a></sub>
 * [Starship debut leading the rocket industry toward full reusability](https://www.nasaspaceflight.com/2023/03/starship-debut-reusability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T195041">2023-03-03 19:50:41 UTC</a></sub>
 * [SpaceX launches v1.5 satellites from Vandenberg following debut of Starlink v2](https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T175947">2023-03-03 17:59:47 UTC</a></sub>
 * [Viasat to enter direct-to-device market with Ligado Networks](https://spacenews.com/viasat-to-enter-direct-to-device-market-with-ligado-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T143907">2023-03-03 14:39:07 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [White House cybersecurity strategy warns of ‘complex threat environment’](https://spacenews.com/white-house-cybersecurity-strategy-warns-of-complex-threat-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T213421">2023-03-02 21:34:21 UTC</a></sub>
 * [China’s Shenzhou-15 astronauts conduct secretive second spacewalk](https://spacenews.com/chinas-shenzhou-15-astronauts-conduct-secretive-second-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T212817">2023-03-02 21:28:17 UTC</a></sub>
 * [Raytheon wins $250 million contract for missile-tracking satellites](https://spacenews.com/raytheon-wins-250-million-contract-for-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T185327">2023-03-02 18:53:27 UTC</a></sub>
-* [NASA to Discuss Findings from Successful Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-findings-from-successful-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T173500">2023-03-02 17:35:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T203206">2023-03-03 20:32:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210159">2023-03-03 21:01:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
