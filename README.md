@@ -188,6 +188,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [German Startup 'Rivada' Books 12 Falcon 9 Flights](https://tlpnetwork.com/news/2023/03/german-startup-rivada-books-12-falcon-9-flights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210700">2023-03-03 21:07:00 UTC</a></sub>
+* [Relativity's Aeon-R Engine Survives First Full Throttle thrust Chamber Test](https://tlpnetwork.com/news/2023/03/relativity-aeon-r-engine-survives-first-full-throttle-thrust-chamber-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210600">2023-03-03 21:06:00 UTC</a></sub>
+* [NASA Awards Agencywide Contract for Communication Services](http://www.nasa.gov/press-release/nasa-awards-agencywide-contract-for-communication-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210500">2023-03-03 21:05:00 UTC</a></sub>
 * [DoD releases updated guidance on ‘responsible behaviors in space’](https://spacenews.com/dod-releases-updated-guidance-on-responsible-behaviors-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T200717">2023-03-03 20:07:17 UTC</a></sub>
 * [Starship debut leading the rocket industry toward full reusability](https://www.nasaspaceflight.com/2023/03/starship-debut-reusability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T195041">2023-03-03 19:50:41 UTC</a></sub>
 * [SpaceX launches v1.5 satellites from Vandenberg following debut of Starlink v2](https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T175947">2023-03-03 17:59:47 UTC</a></sub>
@@ -195,9 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Nozzle erosion blamed for Vega C launch failure](https://spacenews.com/nozzle-erosion-blamed-for-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T123736">2023-03-03 12:37:36 UTC</a></sub>
 * [Rocket Report: Rocket Lab may drop helicopter recovery; ULA up for sale?](https://arstechnica.com/science/2023/03/rocket-report-ula-seeks-to-up-vulcan-cadence-capella-inks-with-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T120057">2023-03-03 12:00:57 UTC</a></sub>
 * [Astra identifies cause of last failed Rocket 3.3 launch](https://spacenews.com/astra-identifies-cause-of-last-failed-rocket-3-3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T112629">2023-03-03 11:26:29 UTC</a></sub>
-* [White House cybersecurity strategy warns of ‘complex threat environment’](https://spacenews.com/white-house-cybersecurity-strategy-warns-of-complex-threat-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T213421">2023-03-02 21:34:21 UTC</a></sub>
-* [China’s Shenzhou-15 astronauts conduct secretive second spacewalk](https://spacenews.com/chinas-shenzhou-15-astronauts-conduct-secretive-second-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T212817">2023-03-02 21:28:17 UTC</a></sub>
-* [Raytheon wins $250 million contract for missile-tracking satellites](https://spacenews.com/raytheon-wins-250-million-contract-for-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T185327">2023-03-02 18:53:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T213109">2023-03-03 21:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T220305">2023-03-03 22:03:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
