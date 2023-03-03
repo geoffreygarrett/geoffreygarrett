@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Viasat to enter direct-to-device market with Ligado Networks](https://spacenews.com/viasat-to-enter-direct-to-device-market-with-ligado-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T143907">2023-03-03 14:39:07 UTC</a></sub>
 * [Nozzle erosion blamed for Vega C launch failure](https://spacenews.com/nozzle-erosion-blamed-for-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T123736">2023-03-03 12:37:36 UTC</a></sub>
 * [Rocket Report: Rocket Lab may drop helicopter recovery; ULA up for sale?](https://arstechnica.com/science/2023/03/rocket-report-ula-seeks-to-up-vulcan-cadence-capella-inks-with-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T120057">2023-03-03 12:00:57 UTC</a></sub>
 * [Astra identifies cause of last failed Rocket 3.3 launch](https://spacenews.com/astra-identifies-cause-of-last-failed-rocket-3-3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T112629">2023-03-03 11:26:29 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA to Discuss Findings from Successful Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-findings-from-successful-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T173500">2023-03-02 17:35:00 UTC</a></sub>
 * [Investing in Space: Sizing up](https://www.cnbc.com/2023/03/02/investing-in-space-sizing-up.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T172418">2023-03-02 17:24:18 UTC</a></sub>
 * [SpaceX prepares v1.5 satellites for Friday launch following debut of Starlink v2](https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T155947">2023-03-02 15:59:47 UTC</a></sub>
-* [SpaceX launches Crew-6 mission for NASA, sending four more astronauts to the space station](https://www.cnbc.com/2023/03/02/spacex-launches-nasa-crew-6-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T135137">2023-03-02 13:51:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T143247">2023-03-03 14:32:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T150425">2023-03-03 15:04:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
