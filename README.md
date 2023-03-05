@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA and Roscosmos planning to add mission to seat barter agreement](https://spacenews.com/nasa-and-roscosmos-planning-to-add-mission-to-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T010755">2023-03-05 01:07:55 UTC</a></sub>
 * [German Startup 'Rivada' Books 12 Falcon 9 Flights](https://tlpnetwork.com/news/2023/03/german-startup-rivada-books-12-falcon-9-flights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210700">2023-03-03 21:07:00 UTC</a></sub>
 * [Relativity's Aeon-R Engine Survives First Full Throttle thrust Chamber Test](https://tlpnetwork.com/news/2023/03/relativity-aeon-r-engine-survives-first-full-throttle-thrust-chamber-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210600">2023-03-03 21:06:00 UTC</a></sub>
 * [NASA Awards Agencywide Contract for Communication Services](http://www.nasa.gov/press-release/nasa-awards-agencywide-contract-for-communication-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210500">2023-03-03 21:05:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Viasat to enter direct-to-device market with Ligado Networks](https://spacenews.com/viasat-to-enter-direct-to-device-market-with-ligado-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T143907">2023-03-03 14:39:07 UTC</a></sub>
 * [Nozzle erosion blamed for Vega C launch failure](https://spacenews.com/nozzle-erosion-blamed-for-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T123736">2023-03-03 12:37:36 UTC</a></sub>
 * [Rocket Report: Rocket Lab may drop helicopter recovery; ULA up for sale?](https://arstechnica.com/science/2023/03/rocket-report-ula-seeks-to-up-vulcan-cadence-capella-inks-with-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T120057">2023-03-03 12:00:57 UTC</a></sub>
-* [Astra identifies cause of last failed Rocket 3.3 launch](https://spacenews.com/astra-identifies-cause-of-last-failed-rocket-3-3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T112629">2023-03-03 11:26:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T003523">2023-03-05 00:35:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T022704">2023-03-05 02:27:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
