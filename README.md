@@ -189,7 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [The Final Ariane 5 EAP Is Completed](https://tlpnetwork.com/news/2023/03/the-final-ariane-5-eap-is-completed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T132128">2023-03-05 13:21:28 UTC</a></sub>
+* [Europropropulsion Completes Manufacturing of Final Ariane 5 EAP](https://tlpnetwork.com/news/2023/03/the-final-ariane-5-eap-is-completed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T132128">2023-03-05 13:21:28 UTC</a></sub>
 * [NASA and Roscosmos planning to add mission to seat barter agreement](https://spacenews.com/nasa-and-roscosmos-planning-to-add-mission-to-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T010755">2023-03-05 01:07:55 UTC</a></sub>
 * [German Startup 'Rivada' Books 12 Falcon 9 Flights](https://tlpnetwork.com/news/2023/03/german-startup-rivada-books-12-falcon-9-flights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210700">2023-03-03 21:07:00 UTC</a></sub>
 * [Relativity's Aeon-R Engine Survives First Full Throttle thrust Chamber Test](https://tlpnetwork.com/news/2023/03/relativity-aeon-r-engine-survives-first-full-throttle-thrust-chamber-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210600">2023-03-03 21:06:00 UTC</a></sub>
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T140155">2023-03-05 14:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T143112">2023-03-05 14:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
