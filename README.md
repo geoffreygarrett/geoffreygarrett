@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investors in space startups see hurdles in defense market](https://spacenews.com/investors-in-space-startups-see-hurdles-in-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T221618">2023-03-06 22:16:18 UTC</a></sub>
 * [The small launch industry is brutal—yes, even more than you thought](https://arstechnica.com/science/2023/03/the-small-launch-industry-is-brutal-yes-even-more-than-you-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T175853">2023-03-06 17:58:53 UTC</a></sub>
 * [NASA's Curiosity Views First 'Sun Rays' on Mars](https://mars.nasa.gov/news/9358/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T170500">2023-03-06 17:05:00 UTC</a></sub>
 * [JAXA and Mitsubishi ready for second attempt at H3 rocket debut](https://www.nasaspaceflight.com/2023/03/h3-debut-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T161122">2023-03-06 16:11:22 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA proposes final extension of ISS cargo contracts](https://spacenews.com/nasa-proposes-final-extension-of-iss-cargo-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T211501">2023-03-05 21:15:01 UTC</a></sub>
 * [Europropulsion Completes Manufacturing of Final Ariane 5 EAP](https://tlpnetwork.com/news/2023/03/the-final-ariane-5-eap-is-completed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T132128">2023-03-05 13:21:28 UTC</a></sub>
 * [NASA and Roscosmos planning to add mission to seat barter agreement](https://spacenews.com/nasa-and-roscosmos-planning-to-add-mission-to-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T010755">2023-03-05 01:07:55 UTC</a></sub>
-* [German Startup 'Rivada' Books 12 Falcon 9 Flights](https://tlpnetwork.com/news/2023/03/german-startup-rivada-books-12-falcon-9-flights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210700">2023-03-03 21:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T220400">2023-03-06 22:04:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T223425">2023-03-06 22:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
