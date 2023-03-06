@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA shifts focus of suborbital crew program](https://spacenews.com/nasa-shifts-focus-of-suborbital-crew-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T132136">2023-03-06 13:21:36 UTC</a></sub>
 * [The gold rush for the next round of military launch contracts has started](https://arstechnica.com/science/2023/03/the-gold-rush-for-the-next-round-of-military-launch-contracts-has-started/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T114521">2023-03-06 11:45:21 UTC</a></sub>
 * [Lonestar raises $5 million for lunar data centers](https://spacenews.com/lonestar-raises-5-million-for-lunar-data-centers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T110000">2023-03-06 11:00:00 UTC</a></sub>
 * [NASA proposes final extension of ISS cargo contracts](https://spacenews.com/nasa-proposes-final-extension-of-iss-cargo-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T211501">2023-03-05 21:15:01 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Relativity's Aeon-R Engine Survives First Full Throttle thrust Chamber Test](https://tlpnetwork.com/news/2023/03/relativity-aeon-r-engine-survives-first-full-throttle-thrust-chamber-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210600">2023-03-03 21:06:00 UTC</a></sub>
 * [NASA Awards Agencywide Contract for Communication Services](http://www.nasa.gov/press-release/nasa-awards-agencywide-contract-for-communication-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210500">2023-03-03 21:05:00 UTC</a></sub>
 * [DoD releases updated guidance on ‘responsible behaviors in space’](https://spacenews.com/dod-releases-updated-guidance-on-responsible-behaviors-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T200717">2023-03-03 20:07:17 UTC</a></sub>
-* [Starship debut leading the rocket industry toward full reusability](https://www.nasaspaceflight.com/2023/03/starship-debut-reusability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T195041">2023-03-03 19:50:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T131636">2023-03-06 13:16:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T133754">2023-03-06 13:37:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
