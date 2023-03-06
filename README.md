@@ -209,6 +209,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Your impact: March equinox 2023](https://www.planetary.org/articles/your-impact-march-equinox-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T153531">2023-03-06 15:35:31 UTC</a></sub>
 * [Harnessing the power of the crowd](https://www.planetary.org/articles/harnessing-the-power-of-the-crowd) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T152531">2023-03-06 15:25:31 UTC</a></sub>
 * [The future of solar sailing](https://www.planetary.org/articles/the-future-of-solar-sailing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T152529">2023-03-06 15:25:29 UTC</a></sub>
 * [Never let a rock sneak up on you](https://www.planetary.org/the-downlink/never-let-a-rock-sneak-up-on-you) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T153535">2023-03-03 15:35:35 UTC</a></sub>
@@ -218,7 +219,6 @@ region. The mission's status is currently Go for Launch
 * [Why we need the NEO Surveyor space telescope](https://www.planetary.org/articles/the-need-for-neo-surveyor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T153624">2023-02-23 15:36:24 UTC</a></sub>
 * [Io, Jupiter’s chaotic volcano moon](https://www.planetary.org/worlds/io) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T153229">2023-02-21 15:32:29 UTC</a></sub>
 * [Weaving together a picture of the Cosmos](https://www.planetary.org/the-downlink/weaving-together-a-picture-of-the-cosmos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T153102">2023-02-17 15:31:02 UTC</a></sub>
-* [What was the Chelyabinsk meteor event?](https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T160534">2023-02-15 16:05:34 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T153518">2023-03-06 15:35:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T160717">2023-03-06 16:07:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
