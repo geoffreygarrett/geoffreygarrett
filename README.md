@@ -188,6 +188,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab ‘very happy’ with Space Force plan to procure launch services](https://spacenews.com/rocket-lab-very-happy-with-space-force-plan-to-procure-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T195735">2023-03-07 19:57:35 UTC</a></sub>
+* [DEVELOPING STORY: Russian Assets Reportedly Seizes At The Baikonur Cosmodrome By Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-seized-at-the-baikonur-cosmodrome) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193400">2023-03-07 19:34:00 UTC</a></sub>
+* [DEVELOPING STORY: Russian Assets Reportidly Arrested At The Baikonur Cosmodrome By Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-arrested-at-the-baikonur-cosmodrome-by-kazakh-authorities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193400">2023-03-07 19:34:00 UTC</a></sub>
 * [Florida’s Space Economy: The Future is Now](https://spacenews.com/floridas-space-economy-the-future-is-now/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T185929">2023-03-07 18:59:29 UTC</a></sub>
 * [Extended life for ESA's science missions](https://sci.esa.int/web/director-desk/-/extended-life-for-esa-s-science-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T164529">2023-03-07 16:45:29 UTC</a></sub>
 * [Boeing’s ground system for U.S. satellite communications passes key test](https://spacenews.com/boeings-ground-system-for-u-s-satellite-communications-passes-key-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T143422">2023-03-07 14:34:22 UTC</a></sub>
@@ -195,9 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Satellite imagery company BlackSky sees quarterly losses slow as it adds another military contract](https://www.cnbc.com/2023/03/07/blacksky-bksy-q4-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T142347">2023-03-07 14:23:47 UTC</a></sub>
 * [Antenna verification framework now accepting drone measurements](https://spacenews.com/antenna-verification-framework-now-accepting-drone-measurements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T141306">2023-03-07 14:13:06 UTC</a></sub>
 * [JPL making progress on Psyche independent review recommendations](https://spacenews.com/jpl-making-progress-on-psyche-independent-review-recommendations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T130354">2023-03-07 13:03:54 UTC</a></sub>
-* [Japan’s H3 rocket launch fails after second stage malfunction](https://spacenews.com/japans-h3-rocket-launch-fails-after-second-stage-malfunction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T114546">2023-03-07 11:45:46 UTC</a></sub>
-* [Japan’s flagship H3 rocket fails on first test flight](https://spaceflightnow.com/2023/03/07/japans-flagship-h3-rocket-fails-on-first-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T083517">2023-03-07 08:35:17 UTC</a></sub>
-* [Japan's H3 Rocket Fails During Inaugural Launch](https://tlpnetwork.com/news/2023/03/h3-maiden-flight-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T021700">2023-03-07 02:17:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193121">2023-03-07 19:31:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T200601">2023-03-07 20:06:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
