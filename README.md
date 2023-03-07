@@ -102,26 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-H3-22 | ALOS-3 (Maiden flight) at the
-<a href="https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex">Yoshinobu Launch Complex</a> in
-Tanegashima, Japan
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T013755">2023-03-07 01:37:55 UTC</a>. Until
-then, this launch pad will have seen 40
-out of 85 launches in this
+Terran 1 | Good Luck, Have Fun (Maiden Flight) at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_16">Launch Complex 16</a> in
+Cape Canaveral, FL, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a>. Until
+then, this launch pad will have seen 0
+out of 876 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Maiden flight of the H3 launch vehicle, carrying the Advanced Land Observing Satellite-3 (ALOS-3).
+  Maiden launch of the Terran 1 rocket developed by Relativity Space.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/H3_(rocket)" >
+  <a href="https://en.wikipedia.org/wiki/Terran_1" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps/place/30Â°24'08.0"N+130Â°58'30.0"E/" >
+  <a href="http://www.google.com/maps?q=28.501626,-80.5518" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +134,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> <b>ALOS-3 (Maiden flight)</b> from Tanegashima, Japan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T013755">2023-03-07 01:37:55 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230307T013755Z%2F20230307T014415Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun (Maiden Flight)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>OneWeb 17</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191300">2023-03-09 19:13:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T191300Z%2F20230309T191300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Taiyuan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T223300">2023-03-09 22:33:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20230309T223300Z%2F20230309T231700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -189,16 +188,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ukrainian government criticizes Vega C investigation](https://spacenews.com/ukrainian-government-criticizes-vega-c-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T011706">2023-03-07 01:17:06 UTC</a></sub>
 * [Investors in space startups see hurdles in defense market](https://spacenews.com/investors-in-space-startups-see-hurdles-in-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T221618">2023-03-06 22:16:18 UTC</a></sub>
 * [The small launch industry is brutal—yes, even more than you thought](https://arstechnica.com/science/2023/03/the-small-launch-industry-is-brutal-yes-even-more-than-you-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T175853">2023-03-06 17:58:53 UTC</a></sub>
 * [NASA's Curiosity Views First 'Sun Rays' on Mars](https://mars.nasa.gov/news/9358/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T170500">2023-03-06 17:05:00 UTC</a></sub>
-* [JAXA and Mitsubishi ready for second attempt at H3 rocket debut](https://www.nasaspaceflight.com/2023/03/h3-debut-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T161122">2023-03-06 16:11:22 UTC</a></sub>
+* [Japan’s maiden launch of H3 rocket fails during second stage flight](https://www.nasaspaceflight.com/2023/03/h3-debut-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T161122">2023-03-06 16:11:22 UTC</a></sub>
 * [NASA shifts focus of suborbital crew program](https://spacenews.com/nasa-shifts-focus-of-suborbital-crew-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T132136">2023-03-06 13:21:36 UTC</a></sub>
 * [The gold rush for the next round of military launch contracts has started](https://arstechnica.com/science/2023/03/the-gold-rush-for-the-next-round-of-military-launch-contracts-has-started/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T114521">2023-03-06 11:45:21 UTC</a></sub>
 * [Lonestar raises $5 million for lunar data centers](https://spacenews.com/lonestar-raises-5-million-for-lunar-data-centers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T110000">2023-03-06 11:00:00 UTC</a></sub>
 * [Japan’s new H3 rocket ready for another launch attempt after last-second abort](https://spaceflightnow.com/2023/03/05/japans-new-h3-rocket-ready-for-another-launch-attempt-after-last-second-abort/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T223517">2023-03-05 22:35:17 UTC</a></sub>
 * [NASA proposes final extension of ISS cargo contracts](https://spacenews.com/nasa-proposes-final-extension-of-iss-cargo-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T211501">2023-03-05 21:15:01 UTC</a></sub>
-* [Europropulsion Completes Manufacturing of Final Ariane 5 EAP](https://tlpnetwork.com/news/2023/03/the-final-ariane-5-eap-is-completed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T132128">2023-03-05 13:21:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T003441">2023-03-07 00:34:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T022317">2023-03-07 02:23:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
