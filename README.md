@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! Japan's H3 Rocket Fails During Inaugural Launch](https://tlpnetwork.com/news/2023/03/h3-maiden-flight-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T021700">2023-03-07 02:17:00 UTC</a></sub>
 * [Ukrainian government criticizes Vega C investigation](https://spacenews.com/ukrainian-government-criticizes-vega-c-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T011706">2023-03-07 01:17:06 UTC</a></sub>
 * [Investors in space startups see hurdles in defense market](https://spacenews.com/investors-in-space-startups-see-hurdles-in-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T221618">2023-03-06 22:16:18 UTC</a></sub>
 * [The small launch industry is brutal—yes, even more than you thought](https://arstechnica.com/science/2023/03/the-small-launch-industry-is-brutal-yes-even-more-than-you-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T175853">2023-03-06 17:58:53 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [The gold rush for the next round of military launch contracts has started](https://arstechnica.com/science/2023/03/the-gold-rush-for-the-next-round-of-military-launch-contracts-has-started/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T114521">2023-03-06 11:45:21 UTC</a></sub>
 * [Lonestar raises $5 million for lunar data centers](https://spacenews.com/lonestar-raises-5-million-for-lunar-data-centers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T110000">2023-03-06 11:00:00 UTC</a></sub>
 * [Japan’s new H3 rocket ready for another launch attempt after last-second abort](https://spaceflightnow.com/2023/03/05/japans-new-h3-rocket-ready-for-another-launch-attempt-after-last-second-abort/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T223517">2023-03-05 22:35:17 UTC</a></sub>
-* [NASA proposes final extension of ISS cargo contracts](https://spacenews.com/nasa-proposes-final-extension-of-iss-cargo-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T211501">2023-03-05 21:15:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T022317">2023-03-07 02:23:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T030924">2023-03-07 03:09:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
