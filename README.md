@@ -189,8 +189,8 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [Rocket Lab ‘very happy’ with Space Force plan to procure launch services](https://spacenews.com/rocket-lab-very-happy-with-space-force-plan-to-procure-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T195735">2023-03-07 19:57:35 UTC</a></sub>
-* [DEVELOPING STORY: Russian Assets Reportedly Seizes At The Baikonur Cosmodrome By Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-seized-at-the-baikonur-cosmodrome) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193400">2023-03-07 19:34:00 UTC</a></sub>
 * [DEVELOPING STORY: Russian Assets Reportidly Arrested At The Baikonur Cosmodrome By Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-arrested-at-the-baikonur-cosmodrome-by-kazakh-authorities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193400">2023-03-07 19:34:00 UTC</a></sub>
+* [DEVELOPING STORY: Russian Assets Reportedly Seized At The Baikonur Cosmodrome By Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-seized-at-the-baikonur-cosmodrome) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193400">2023-03-07 19:34:00 UTC</a></sub>
 * [Florida’s Space Economy: The Future is Now](https://spacenews.com/floridas-space-economy-the-future-is-now/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T185929">2023-03-07 18:59:29 UTC</a></sub>
 * [Extended life for ESA's science missions](https://sci.esa.int/web/director-desk/-/extended-life-for-esa-s-science-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T164529">2023-03-07 16:45:29 UTC</a></sub>
 * [Boeing’s ground system for U.S. satellite communications passes key test](https://spacenews.com/boeings-ground-system-for-u-s-satellite-communications-passes-key-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T143422">2023-03-07 14:34:22 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T203226">2023-03-07 20:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T210245">2023-03-07 21:02:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
