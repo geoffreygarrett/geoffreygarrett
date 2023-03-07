@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Florida’s Space Economy: The Future is Now](https://spacenews.com/floridas-space-economy-the-future-is-now/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T185929">2023-03-07 18:59:29 UTC</a></sub>
 * [Extended life for ESA's science missions](https://sci.esa.int/web/director-desk/-/extended-life-for-esa-s-science-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T164529">2023-03-07 16:45:29 UTC</a></sub>
 * [Boeing’s ground system for U.S. satellite communications passes key test](https://spacenews.com/boeings-ground-system-for-u-s-satellite-communications-passes-key-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T143422">2023-03-07 14:34:22 UTC</a></sub>
 * [After nearly a decade in development, Japan’s new rocket fails in debut](https://arstechnica.com/science/2023/03/the-launch-of-japans-large-new-rocket-fails-after-a-second-stage-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T143018">2023-03-07 14:30:18 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Japan’s H3 rocket launch fails after second stage malfunction](https://spacenews.com/japans-h3-rocket-launch-fails-after-second-stage-malfunction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T114546">2023-03-07 11:45:46 UTC</a></sub>
 * [Japan’s flagship H3 rocket fails on first test flight](https://spaceflightnow.com/2023/03/07/japans-flagship-h3-rocket-fails-on-first-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T083517">2023-03-07 08:35:17 UTC</a></sub>
 * [Japan's H3 Rocket Fails During Inaugural Launch](https://tlpnetwork.com/news/2023/03/h3-maiden-flight-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T021700">2023-03-07 02:17:00 UTC</a></sub>
-* [Ukrainian government criticizes Vega C investigation](https://spacenews.com/ukrainian-government-criticizes-vega-c-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T011706">2023-03-07 01:17:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T190206">2023-03-07 19:02:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193121">2023-03-07 19:31:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
