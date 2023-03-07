@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [JPL making progress on Psyche independent review recommendations](https://spacenews.com/jpl-making-progress-on-psyche-independent-review-recommendations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T130354">2023-03-07 13:03:54 UTC</a></sub>
 * [Japan’s H3 rocket launch fails after second stage malfunction](https://spacenews.com/japans-h3-rocket-launch-fails-after-second-stage-malfunction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T114546">2023-03-07 11:45:46 UTC</a></sub>
 * [Japan’s flagship H3 rocket fails on first test flight](https://spaceflightnow.com/2023/03/07/japans-flagship-h3-rocket-fails-on-first-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T083517">2023-03-07 08:35:17 UTC</a></sub>
 * [BREAKING! Japan's H3 Rocket Fails During Inaugural Launch](https://tlpnetwork.com/news/2023/03/h3-maiden-flight-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T021700">2023-03-07 02:17:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [NASA's Curiosity Views First 'Sun Rays' on Mars](https://mars.nasa.gov/news/9358/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T170500">2023-03-06 17:05:00 UTC</a></sub>
 * [Japan’s maiden launch of H3 rocket fails during second stage flight](https://www.nasaspaceflight.com/2023/03/h3-debut-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T161122">2023-03-06 16:11:22 UTC</a></sub>
 * [NASA shifts focus of suborbital crew program](https://spacenews.com/nasa-shifts-focus-of-suborbital-crew-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T132136">2023-03-06 13:21:36 UTC</a></sub>
-* [The gold rush for the next round of military launch contracts has started](https://arstechnica.com/science/2023/03/the-gold-rush-for-the-next-round-of-military-launch-contracts-has-started/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T114521">2023-03-06 11:45:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T131729">2023-03-07 13:17:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T133831">2023-03-07 13:38:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
