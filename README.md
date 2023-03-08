@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [No major issues found with Artemis 1 mission](https://spacenews.com/no-major-issues-found-with-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T045834">2023-03-08 04:58:34 UTC</a></sub>
 * [BREAKING! USSF Allocates Launch Complexes To 4 Commercial Launchers](https://tlpnetwork.com/news/2023/03/ussf-allocated-slcs-to-4-commercial-launchers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T012300">2023-03-08 01:23:00 UTC</a></sub>
 * [EXCLUSIVE! Inspired 24 Launches Mission To Democratize Access To Space](https://tlpnetwork.com/news/2023/03/inspired-24-launches-mission-to-democratize-access-to-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T230000">2023-03-07 23:00:00 UTC</a></sub>
 * [BREAKING! NASA Targeting November 2024 For Artemis II Launch](https://tlpnetwork.com/news/2023/03/nasa-targeting-november-2024-for-artemis-ii-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T223000">2023-03-07 22:30:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Florida’s Space Economy: The Future is Now](https://spacenews.com/floridas-space-economy-the-future-is-now/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T185929">2023-03-07 18:59:29 UTC</a></sub>
 * [Extended life for ESA's science missions](https://sci.esa.int/web/director-desk/-/extended-life-for-esa-s-science-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T164529">2023-03-07 16:45:29 UTC</a></sub>
 * [Boeing’s ground system for U.S. satellite communications passes key test](https://spacenews.com/boeings-ground-system-for-u-s-satellite-communications-passes-key-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T143422">2023-03-07 14:34:22 UTC</a></sub>
-* [After nearly a decade in development, Japan’s new rocket fails in debut](https://arstechnica.com/science/2023/03/the-launch-of-japans-large-new-rocket-fails-after-a-second-stage-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T143018">2023-03-07 14:30:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T050418">2023-03-08 05:04:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T053204">2023-03-08 05:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
