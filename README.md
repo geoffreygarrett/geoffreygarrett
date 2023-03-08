@@ -102,26 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Terran 1 | Good Luck, Have Fun (Maiden Flight) at the
-<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_16">Launch Complex 16</a> in
+Falcon 9 Block 5 | OneWeb 17 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a>. Until
-then, this launch pad will have seen 0
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191300">2023-03-09 19:13:00 UTC</a>. Until
+then, this launch pad will have seen 171
 out of 876 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Maiden launch of the Terran 1 rocket developed by Relativity Space.
+  A batch of 48 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Terran_1" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://www.google.com/maps?q=28.501626,-80.5518" >
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +134,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun (Maiden Flight)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>OneWeb 17</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191300">2023-03-09 19:13:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T191300Z%2F20230309T191300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Taiyuan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T223300">2023-03-09 22:33:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20230309T223300Z%2F20230309T231700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Stronger Together</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T230000">2023-03-11 23:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Stronger Together&location=Wallops Island, Virginia, USA&dates=20230311T230000Z%2F20230312T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -189,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch Relativity attempt the first launch of its 3D-printed rocket Terran 1](https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T174630">2023-03-08 17:46:30 UTC</a></sub>
+* [U.S. Space Force game plan: Compete with China, prevent shooting war in orbit](https://spacenews.com/u-s-space-force-game-plan-compete-with-china-prevent-shooting-war-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T174521">2023-03-08 17:45:21 UTC</a></sub>
 * [Starfish Space raises $14 million for in-orbit servicers](https://spacenews.com/starfish-space-raises-14-million-for-in-orbit-servicers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T170154">2023-03-08 17:01:54 UTC</a></sub>
 * [Watch live: Relativity Space to launch first 3D-printed, methane-fueled orbital rocket](https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T164517">2023-03-08 16:45:17 UTC</a></sub>
 * [Relativity Space will attempt to become a real rocket company today](https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T154910">2023-03-08 15:49:10 UTC</a></sub>
@@ -197,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [NASA studying unexpected performance of Orion’s heat shield ahead of crew mission](https://arstechnica.com/science/2023/03/nasa-will-target-november-2024-to-send-astronauts-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T143300">2023-03-08 14:33:00 UTC</a></sub>
 * [ISS dodges commercial imaging satellite](https://spacenews.com/iss-dodges-commercial-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T132221">2023-03-08 13:22:21 UTC</a></sub>
 * [Launch day timeline for Relativity Space’s Terran 1 rocket](https://spaceflightnow.com/2023/03/08/launch-day-timeline-for-relativity-spaces-terran-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T093517">2023-03-08 09:35:17 UTC</a></sub>
-* [NASA Preparing Final ISS Commercial Cargo Delivery Contracts](https://tlpnetwork.com/news/2023/03/nasa-advances-final-commercial-cargo-delivery-services-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T064300">2023-03-08 06:43:00 UTC</a></sub>
-* [SpaceX Introduces £15 Per Month Starlink Rental Offer in UK](https://tlpnetwork.com/news/2023/03/spacex-introduces-per-month-starlink-rental-offer-in-uk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T061600">2023-03-08 06:16:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T173301">2023-03-08 17:33:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180726">2023-03-08 18:07:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
