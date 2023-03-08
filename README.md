@@ -143,6 +143,7 @@ region. The mission's status is currently Go for Launch
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-27</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T003000">2023-03-15 00:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-27&location=Kennedy Space Center, FL, USA&dates=20230315T003000Z%2F20230315T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SES-18 & SES-19</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T003500">2023-03-18 00:35:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-18 &amp; SES-19&location=Cape Canaveral, FL, USA&dates=20230318T003500Z%2F20230318T003500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>OneWeb 18</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T000000">2023-03-26 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 18&location=Sriharikota, Republic of India&dates=20230326T000000Z%2F20230326T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SDA Tranche 0</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0&location=Vandenberg SFB, CA, USA&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -188,16 +189,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Watch Relativity attempt the first launch of its 3D-printed rocket Terran 1](https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T174630">2023-03-08 17:46:30 UTC</a></sub>
+* [Relativity Space scrubs launch of 3D-printed, methane-fueled orbital rocket](https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T204517">2023-03-08 20:45:17 UTC</a></sub>
+* [NASA, Smithsonian to Discuss Air Quality Satellite Instrument](http://www.nasa.gov/press-release/nasa-smithsonian-to-discuss-air-quality-satellite-instrument) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T203500">2023-03-08 20:35:00 UTC</a></sub>
+* [Relativity postpones first launch attempt of 3D-printed rocket Terran 1](https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T174630">2023-03-08 17:46:30 UTC</a></sub>
 * [U.S. Space Force game plan: Compete with China, prevent shooting war in orbit](https://spacenews.com/u-s-space-force-game-plan-compete-with-china-prevent-shooting-war-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T174521">2023-03-08 17:45:21 UTC</a></sub>
 * [Starfish Space raises $14 million for in-orbit servicers](https://spacenews.com/starfish-space-raises-14-million-for-in-orbit-servicers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T170154">2023-03-08 17:01:54 UTC</a></sub>
-* [Watch live: Relativity Space to launch first 3D-printed, methane-fueled orbital rocket](https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T164517">2023-03-08 16:45:17 UTC</a></sub>
-* [Relativity Space will attempt to become a real rocket company today](https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T154910">2023-03-08 15:49:10 UTC</a></sub>
-* [Relativity Space set for maiden launch of Terran 1 rocket](https://www.nasaspaceflight.com/2023/03/maiden-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T153522">2023-03-08 15:35:22 UTC</a></sub>
+* [Relativity Space scrubs first attempt to launch Terran 1 [Updated]](https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T154910">2023-03-08 15:49:10 UTC</a></sub>
+* [Relativity Space scrubs maiden launch of Terran 1 rocket](https://www.nasaspaceflight.com/2023/03/maiden-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T153522">2023-03-08 15:35:22 UTC</a></sub>
 * [Shield Capital adds retired general Goldfein to national security advisory board](https://spacenews.com/shield-capital-adds-retired-general-goldfein-to-national-security-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T151320">2023-03-08 15:13:20 UTC</a></sub>
 * [NASA studying unexpected performance of Orion’s heat shield ahead of crew mission](https://arstechnica.com/science/2023/03/nasa-will-target-november-2024-to-send-astronauts-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T143300">2023-03-08 14:33:00 UTC</a></sub>
 * [ISS dodges commercial imaging satellite](https://spacenews.com/iss-dodges-commercial-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T132221">2023-03-08 13:22:21 UTC</a></sub>
-* [Launch day timeline for Relativity Space’s Terran 1 rocket](https://spaceflightnow.com/2023/03/08/launch-day-timeline-for-relativity-spaces-terran-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T093517">2023-03-08 09:35:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T203209">2023-03-08 20:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T210302">2023-03-08 21:03:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
