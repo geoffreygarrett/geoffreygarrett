@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EXCLUSIVE! Inspired 24 Launches Mission To Democratize Access To Space](https://tlpnetwork.com/news/2023/03/inspired-24-launches-mission-to-democratize-access-to-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T230000">2023-03-07 23:00:00 UTC</a></sub>
 * [Rocket Lab ‘very happy’ with Space Force plan to procure launch services](https://spacenews.com/rocket-lab-very-happy-with-space-force-plan-to-procure-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T195735">2023-03-07 19:57:35 UTC</a></sub>
 * [DEVELOPING STORY: Russian Assets Reportidly Arrested At The Baikonur Cosmodrome By Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-arrested-at-the-baikonur-cosmodrome-by-kazakh-authorities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193400">2023-03-07 19:34:00 UTC</a></sub>
 * [DEVELOPING STORY: Russian Assets Reportedly Seized At The Baikonur Cosmodrome By Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-seized-at-the-baikonur-cosmodrome) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193400">2023-03-07 19:34:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [After nearly a decade in development, Japan’s new rocket fails in debut](https://arstechnica.com/science/2023/03/the-launch-of-japans-large-new-rocket-fails-after-a-second-stage-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T143018">2023-03-07 14:30:18 UTC</a></sub>
 * [Satellite imagery company BlackSky sees quarterly losses slow as it adds another military contract](https://www.cnbc.com/2023/03/07/blacksky-bksy-q4-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T142347">2023-03-07 14:23:47 UTC</a></sub>
 * [Antenna verification framework now accepting drone measurements](https://spacenews.com/antenna-verification-framework-now-accepting-drone-measurements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T141306">2023-03-07 14:13:06 UTC</a></sub>
-* [JPL making progress on Psyche independent review recommendations](https://spacenews.com/jpl-making-progress-on-psyche-independent-review-recommendations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T130354">2023-03-07 13:03:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T233140">2023-03-07 23:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T003239">2023-03-08 00:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
