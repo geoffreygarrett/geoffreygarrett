@@ -196,7 +196,7 @@ region. The mission's status is currently Go for Launch
 * [No major issues found with Artemis 1 mission](https://spacenews.com/no-major-issues-found-with-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T045834">2023-03-08 04:58:34 UTC</a></sub>
 * [BREAKING! USSF Allocates Launch Complexes To 4 Commercial Launchers](https://tlpnetwork.com/news/2023/03/ussf-allocated-slcs-to-4-commercial-launchers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T012300">2023-03-08 01:23:00 UTC</a></sub>
 * [EXCLUSIVE! Inspired 24 Launches Mission To Democratize Access To Space](https://tlpnetwork.com/news/2023/03/inspired-24-launches-mission-to-democratize-access-to-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T230000">2023-03-07 23:00:00 UTC</a></sub>
-* [BREAKING! NASA Targeting November 2024 For Artemis II Launch](https://tlpnetwork.com/news/2023/03/nasa-targeting-november-2024-for-artemis-ii-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T223000">2023-03-07 22:30:00 UTC</a></sub>
+* [NASA Targeting November 2024 For Artemis II Launch](https://tlpnetwork.com/news/2023/03/nasa-targeting-november-2024-for-artemis-ii-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T223000">2023-03-07 22:30:00 UTC</a></sub>
 * [Rocket Lab ‘very happy’ with Space Force plan to procure launch services](https://spacenews.com/rocket-lab-very-happy-with-space-force-plan-to-procure-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T195735">2023-03-07 19:57:35 UTC</a></sub>
 * [DEVELOPING STORY: Russian Assets Reportedly Seized At The Baikonur Cosmodrome By Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-seized-at-the-baikonur-cosmodrome) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193400">2023-03-07 19:34:00 UTC</a></sub>
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T100648">2023-03-08 10:06:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T103656">2023-03-08 10:36:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
