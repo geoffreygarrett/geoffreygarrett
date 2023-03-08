@@ -197,8 +197,8 @@ region. The mission's status is currently Go for Launch
 * [EXCLUSIVE! Inspired 24 Launches Mission To Democratize Access To Space](https://tlpnetwork.com/news/2023/03/inspired-24-launches-mission-to-democratize-access-to-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T230000">2023-03-07 23:00:00 UTC</a></sub>
 * [BREAKING! NASA Targeting November 2024 For Artemis II Launch](https://tlpnetwork.com/news/2023/03/nasa-targeting-november-2024-for-artemis-ii-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T223000">2023-03-07 22:30:00 UTC</a></sub>
 * [Rocket Lab ‘very happy’ with Space Force plan to procure launch services](https://spacenews.com/rocket-lab-very-happy-with-space-force-plan-to-procure-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T195735">2023-03-07 19:57:35 UTC</a></sub>
-* [DEVELOPING STORY: Russian Assets Reportidly Arrested At The Baikonur Cosmodrome By Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-arrested-at-the-baikonur-cosmodrome-by-kazakh-authorities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193400">2023-03-07 19:34:00 UTC</a></sub>
 * [DEVELOPING STORY: Russian Assets Reportedly Seized At The Baikonur Cosmodrome By Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-seized-at-the-baikonur-cosmodrome) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T193400">2023-03-07 19:34:00 UTC</a></sub>
+* [Florida’s Space Economy: The Future is Now](https://spacenews.com/floridas-space-economy-the-future-is-now/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T185929">2023-03-07 18:59:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T090619">2023-03-08 09:06:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T093152">2023-03-08 09:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
