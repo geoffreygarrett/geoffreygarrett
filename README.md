@@ -189,6 +189,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Relativity Space will attempt to become a real rocket company today](https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T154910">2023-03-08 15:49:10 UTC</a></sub>
+* [Relativity Space set for maiden launch of Terran 1 rocket](https://www.nasaspaceflight.com/2023/03/maiden-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T153522">2023-03-08 15:35:22 UTC</a></sub>
+* [Shield Capital adds retired general Goldfein to national security advisory board](https://spacenews.com/shield-capital-adds-retired-general-goldfein-to-national-security-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T151320">2023-03-08 15:13:20 UTC</a></sub>
 * [NASA studying unexpected performance of Orion’s heat shield ahead of crew mission](https://arstechnica.com/science/2023/03/nasa-will-target-november-2024-to-send-astronauts-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T143300">2023-03-08 14:33:00 UTC</a></sub>
 * [ISS dodges commercial imaging satellite](https://spacenews.com/iss-dodges-commercial-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T132221">2023-03-08 13:22:21 UTC</a></sub>
 * [Launch day timeline for Relativity Space’s Terran 1 rocket](https://spaceflightnow.com/2023/03/08/launch-day-timeline-for-relativity-spaces-terran-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T093517">2023-03-08 09:35:17 UTC</a></sub>
@@ -196,9 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Preparing Final ISS Commercial Cargo Delivery Contracts](https://tlpnetwork.com/news/2023/03/nasa-advances-final-commercial-cargo-delivery-services-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T064300">2023-03-08 06:43:00 UTC</a></sub>
 * [SpaceX Introduces £15 Per Month Starlink Rental Offer in UK](https://tlpnetwork.com/news/2023/03/spacex-introduces-per-month-starlink-rental-offer-in-uk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T061600">2023-03-08 06:16:00 UTC</a></sub>
 * [No major issues found with Artemis 1 mission](https://spacenews.com/no-major-issues-found-with-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T045834">2023-03-08 04:58:34 UTC</a></sub>
-* [USSF Allocates Launch Complexes To 4 Commercial Launchers](https://tlpnetwork.com/news/2023/03/ussf-allocated-slcs-to-4-commercial-launchers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T012300">2023-03-08 01:23:00 UTC</a></sub>
-* [EXCLUSIVE! Inspired 24 Launches Mission To Democratize Access To Space](https://tlpnetwork.com/news/2023/03/inspired-24-launches-mission-to-democratize-access-to-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T230000">2023-03-07 23:00:00 UTC</a></sub>
-* [NASA Targeting November 2024 For Artemis II Launch](https://tlpnetwork.com/news/2023/03/nasa-targeting-november-2024-for-artemis-ii-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T223000">2023-03-07 22:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T153422">2023-03-08 15:34:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T160737">2023-03-08 16:07:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
