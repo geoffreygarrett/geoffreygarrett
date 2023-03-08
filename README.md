@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Relativity Space Scrubs Maiden Flight Of Terran 1 Rocket](https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-8-march) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T212100">2023-03-08 21:21:00 UTC</a></sub>
 * [Relativity Space scrubs launch of 3D-printed, methane-fueled orbital rocket](https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T204517">2023-03-08 20:45:17 UTC</a></sub>
 * [NASA, Smithsonian to Discuss Air Quality Satellite Instrument](http://www.nasa.gov/press-release/nasa-smithsonian-to-discuss-air-quality-satellite-instrument) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T203500">2023-03-08 20:35:00 UTC</a></sub>
 * [Relativity postpones first launch attempt of 3D-printed rocket Terran 1](https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T174630">2023-03-08 17:46:30 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Relativity Space scrubs maiden launch of Terran 1 rocket](https://www.nasaspaceflight.com/2023/03/maiden-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T153522">2023-03-08 15:35:22 UTC</a></sub>
 * [Shield Capital adds retired general Goldfein to national security advisory board](https://spacenews.com/shield-capital-adds-retired-general-goldfein-to-national-security-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T151320">2023-03-08 15:13:20 UTC</a></sub>
 * [NASA studying unexpected performance of Orion’s heat shield ahead of crew mission](https://arstechnica.com/science/2023/03/nasa-will-target-november-2024-to-send-astronauts-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T143300">2023-03-08 14:33:00 UTC</a></sub>
-* [ISS dodges commercial imaging satellite](https://spacenews.com/iss-dodges-commercial-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T132221">2023-03-08 13:22:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T213110">2023-03-08 21:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T220354">2023-03-08 22:03:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
