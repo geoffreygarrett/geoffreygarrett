@@ -106,7 +106,7 @@ Falcon 9 Block 5 | OneWeb 17 at the
 <a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191300">2023-03-09 19:13:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191328">2023-03-09 19:13:28 UTC</a>. Until
 then, this launch pad will have seen 171
 out of 876 launches in this
 region. The mission's status is currently Go for Launch
@@ -134,7 +134,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>OneWeb 17</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191300">2023-03-09 19:13:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T191300Z%2F20230309T191300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>OneWeb 17</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191328">2023-03-09 19:13:28 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T191328Z%2F20230309T191328Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Taiyuan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T223300">2023-03-09 22:33:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20230309T223300Z%2F20230309T231700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun (Maiden Flight)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T180000">2023-03-11 18:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230311T180000Z%2F20230311T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Stronger Together</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T230000">2023-03-11 23:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Stronger Together&location=Wallops Island, Virginia, USA&dates=20230311T230000Z%2F20230312T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -189,16 +189,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House subcommittee advances five satellite-related bills](https://spacenews.com/house-subcommittee-advances-five-satellite-related-bills/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T185500">2023-03-09 18:55:00 UTC</a></sub>
 * [White House proposes $27.2 billion for NASA in 2024](https://spacenews.com/white-house-proposes-27-2-billion-for-nasa-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T175055">2023-03-09 17:50:55 UTC</a></sub>
-* [Biden wants more money for the FAA after air travel disruptions](https://www.cnbc.com/2023/03/09/biden-proposed-2024-faa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
 * [Biden budget seeks $27.2 billion for NASA, with increases for moon and Mars programs](https://www.cnbc.com/2023/03/09/biden-proposed-2024-nasa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
+* [Biden wants more money for the FAA after air travel disruptions](https://www.cnbc.com/2023/03/09/biden-proposed-2024-faa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
 * [Investing in Space: Launch jitters](https://www.cnbc.com/2023/03/09/investing-in-space-newsletter-launch-jitters.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T164934">2023-03-09 16:49:34 UTC</a></sub>
 * [Tesat-Spacecom establishes U.S. subsidiary](https://spacenews.com/tesat-spacecom-establishes-u-s-subsidiary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T164553">2023-03-09 16:45:53 UTC</a></sub>
 * [SpaceX to launch OneWeb 17 mission and return booster to LZ-1](https://www.nasaspaceflight.com/2023/03/oneweb-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T155909">2023-03-09 15:59:09 UTC</a></sub>
 * [Watch live: SpaceX launch and landing on tap today at Cape Canaveral](https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T153517">2023-03-09 15:35:17 UTC</a></sub>
 * [Coverage Set as NASA’s SpaceX Crew-5 Prepares to Splashdown](http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-5-prepares-to-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T142500">2023-03-09 14:25:00 UTC</a></sub>
 * [Japanese lunar lander company ispace to go public](https://spacenews.com/japanese-lunar-lander-company-ispace-to-go-public/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T123919">2023-03-09 12:39:19 UTC</a></sub>
-* [Relativity Space scrubs first Terran 1 launch attempt](https://spacenews.com/relativity-space-scrubs-first-terran-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T022816">2023-03-09 02:28:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T183716">2023-03-09 18:37:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T190055">2023-03-09 19:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
