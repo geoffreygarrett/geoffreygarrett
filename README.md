@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [White House proposes $27.2 billion for NASA in 2024](https://spacenews.com/white-house-proposes-27-2-billion-for-nasa-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T175055">2023-03-09 17:50:55 UTC</a></sub>
 * [Biden wants more money for the FAA after air travel disruptions](https://www.cnbc.com/2023/03/09/biden-proposed-2024-faa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
 * [Biden budget seeks $27.2 billion for NASA, with increases for moon and Mars programs](https://www.cnbc.com/2023/03/09/biden-proposed-2024-nasa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
 * [Investing in Space: Launch jitters](https://www.cnbc.com/2023/03/09/investing-in-space-newsletter-launch-jitters.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T164934">2023-03-09 16:49:34 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Coverage Set as NASA’s SpaceX Crew-5 Prepares to Splashdown](http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-5-prepares-to-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T142500">2023-03-09 14:25:00 UTC</a></sub>
 * [Japanese lunar lander company ispace to go public](https://spacenews.com/japanese-lunar-lander-company-ispace-to-go-public/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T123919">2023-03-09 12:39:19 UTC</a></sub>
 * [Relativity Space scrubs first Terran 1 launch attempt](https://spacenews.com/relativity-space-scrubs-first-terran-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T022816">2023-03-09 02:28:16 UTC</a></sub>
-* [U.S. intelligence report: China’s commercial space sector to become global competitor by 2030](https://spacenews.com/u-s-intelligence-report-chinas-commercial-space-sector-to-become-global-competitor-by-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T002324">2023-03-09 00:23:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T173325">2023-03-09 17:33:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T180740">2023-03-09 18:07:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
