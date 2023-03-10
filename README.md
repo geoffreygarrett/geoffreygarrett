@@ -187,6 +187,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hughes unveils Jupiter 3](https://spacenews.com/hughes-jupiter-3-preps-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T052748">2023-03-10 05:27:48 UTC</a></sub>
 * [Atlas joins forces with Viasat RTE](https://spacenews.com/atlas-expands-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T020525">2023-03-10 02:05:25 UTC</a></sub>
 * [SpaceX completes final dedicated launch for OneWeb](https://spacenews.com/spacex-completes-final-dedicated-launch-for-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T003046">2023-03-10 00:30:46 UTC</a></sub>
 * [NASA Tracking Newly Discovered Earth Bound Asteroid](https://tlpnetwork.com/news/2023/03/nasa-tracking-newly-discovered-earth-bound-asteroid) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T000500">2023-03-10 00:05:00 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently Go for Launch
 * [BREAKING! NASA to Announce Artemis 2 Crew on April 3rd](https://tlpnetwork.com/news/2023/03/nasa-to-announce-artemis-2-crew-on-april-3rd) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T200900">2023-03-09 20:09:00 UTC</a></sub>
 * [President’s Fiscal Year 2024 Budget Strengthens NASA, Space Economy](http://www.nasa.gov/press-release/president-s-fiscal-year-2024-budget-strengthens-nasa-space-economy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T200500">2023-03-09 20:05:00 UTC</a></sub>
 * [Limits on Ukraine’s use of Starlink for war operations is a lesson for U.S. military](https://spacenews.com/limits-on-ukraines-use-of-starlink-for-war-operations-is-a-lesson-for-u-s-military/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191625">2023-03-09 19:16:25 UTC</a></sub>
-* [House subcommittee advances five satellite-related bills](https://spacenews.com/house-subcommittee-advances-five-satellite-related-bills/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T185500">2023-03-09 18:55:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T060102">2023-03-10 06:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T063446">2023-03-10 06:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
