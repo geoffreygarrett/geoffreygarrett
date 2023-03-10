@@ -187,6 +187,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China is developing a quantum communications satellite network](https://spacenews.com/china-is-developing-a-quantum-communications-satellite-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T101118">2023-03-10 10:11:18 UTC</a></sub>
 * [Hughes unveils Jupiter 3](https://spacenews.com/hughes-jupiter-3-preps-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T052748">2023-03-10 05:27:48 UTC</a></sub>
 * [Atlas joins forces with Viasat RTE](https://spacenews.com/atlas-expands-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T020525">2023-03-10 02:05:25 UTC</a></sub>
 * [SpaceX completes final dedicated launch for OneWeb](https://spacenews.com/spacex-completes-final-dedicated-launch-for-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T003046">2023-03-10 00:30:46 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently Go for Launch
 * [ULA Rolls First Vulcan Rocket To The Pad Ahead Of Testing Campaign For Launch](https://tlpnetwork.com/news/2023/03/vulcan-centaur-rocket-rolled-out-to-the-launch-site-for-testing-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T203224">2023-03-09 20:32:24 UTC</a></sub>
 * [NASA to Announce Artemis 2 Crew on April 3rd](https://tlpnetwork.com/news/2023/03/nasa-to-announce-artemis-2-crew-on-april-3rd) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T200900">2023-03-09 20:09:00 UTC</a></sub>
 * [President’s Fiscal Year 2024 Budget Strengthens NASA, Space Economy](http://www.nasa.gov/press-release/president-s-fiscal-year-2024-budget-strengthens-nasa-space-economy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T200500">2023-03-09 20:05:00 UTC</a></sub>
-* [Limits on Ukraine’s use of Starlink for war operations is a lesson for U.S. military](https://spacenews.com/limits-on-ukraines-use-of-starlink-for-war-operations-is-a-lesson-for-u-s-military/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191625">2023-03-09 19:16:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T100050">2023-03-10 10:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T103348">2023-03-10 10:33:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
