@@ -187,6 +187,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Atlas joins forces with Viasat RTE](https://spacenews.com/atlas-expands-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T020525">2023-03-10 02:05:25 UTC</a></sub>
 * [SpaceX completes final dedicated launch for OneWeb](https://spacenews.com/spacex-completes-final-dedicated-launch-for-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T003046">2023-03-10 00:30:46 UTC</a></sub>
 * [NASA Tracking Newly Discovered Earth Bound Asteroid](https://tlpnetwork.com/news/2023/03/nasa-tracking-newly-discovered-earth-bound-asteroid) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T000500">2023-03-10 00:05:00 UTC</a></sub>
 * [SpaceX launches and lands rocket on mission for OneWeb](https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T214517">2023-03-09 21:45:17 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently Go for Launch
 * [President’s Fiscal Year 2024 Budget Strengthens NASA, Space Economy](http://www.nasa.gov/press-release/president-s-fiscal-year-2024-budget-strengthens-nasa-space-economy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T200500">2023-03-09 20:05:00 UTC</a></sub>
 * [Limits on Ukraine’s use of Starlink for war operations is a lesson for U.S. military](https://spacenews.com/limits-on-ukraines-use-of-starlink-for-war-operations-is-a-lesson-for-u-s-military/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191625">2023-03-09 19:16:25 UTC</a></sub>
 * [House subcommittee advances five satellite-related bills](https://spacenews.com/house-subcommittee-advances-five-satellite-related-bills/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T185500">2023-03-09 18:55:00 UTC</a></sub>
-* [White House proposes $27.2 billion for NASA in 2024](https://spacenews.com/white-house-proposes-27-2-billion-for-nasa-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T175055">2023-03-09 17:50:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T020744">2023-03-10 02:07:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T024909">2023-03-10 02:49:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
