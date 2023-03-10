@@ -143,6 +143,7 @@ region. The mission's status is currently Go for Launch
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SES-18 & SES-19</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T003500">2023-03-18 00:35:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-18 &amp; SES-19&location=Cape Canaveral, FL, USA&dates=20230318T003500Z%2F20230318T003500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>OneWeb 18</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T010000">2023-03-26 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 18&location=Sriharikota, Republic of India&dates=20230326T010000Z%2F20230326T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SDA Tranche 0</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0&location=Vandenberg SFB, CA, USA&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 6-3</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -188,6 +189,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Canadian military orders space surveillance micro satellite](https://spacenews.com/canadian-military-orders-space-surveillance-micro-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T232419">2023-03-10 23:24:19 UTC</a></sub>
+* [Intelsat and Eutelsat forge multi-orbit capacity deal](https://spacenews.com/intelsat-and-eutelsat-forge-multi-orbit-capacity-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T230535">2023-03-10 23:05:35 UTC</a></sub>
+* [Space sector reacts to collapse of Silicon Valley Bank](https://spacenews.com/space-sector-reacts-to-collapse-of-silicon-valley-bank/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T223708">2023-03-10 22:37:08 UTC</a></sub>
 * [Space Force allocates three historic Cape Canaveral launch pads to four companies](https://spacenews.com/space-force-allocates-three-historic-cape-canaveral-launch-pads-to-four-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T220956">2023-03-10 22:09:56 UTC</a></sub>
 * [NASA Names University Teams to Take on Aeronautics Research Challenges](http://www.nasa.gov/press-release/nasa-names-university-teams-to-take-on-aeronautics-research-challenges) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T190500">2023-03-10 19:05:00 UTC</a></sub>
 * [NASA’s State Fact Sheets Highlight Economic Impact in All 50 States, DC](http://www.nasa.gov/press-release/nasa-s-state-fact-sheets-highlight-economic-impact-in-all-50-states-dc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T164500">2023-03-10 16:45:00 UTC</a></sub>
@@ -195,9 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Meet the brothers building massive spacecraft to leverage SpaceX’s Starship](https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150001">2023-03-10 15:00:01 UTC</a></sub>
 * [Astra investigating ‘potential illegal short selling’ as delisting deadline looms](https://www.cnbc.com/2023/03/10/astra-investigates-potential-illegal-short-selling-as-delisting-deadline-looms.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T143547">2023-03-10 14:35:47 UTC</a></sub>
 * [La NASA y CSA asignarán astronautas para Artemis II](http://www.nasa.gov/press-release/la-nasa-y-csa-asignar-n-astronautas-para-artemis-ii) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T142500">2023-03-10 14:25:00 UTC</a></sub>
-* [NASA, Canadian Space Agency to Assign Artemis II Moon Astronauts](http://www.nasa.gov/press-release/nasa-canadian-space-agency-to-assign-artemis-ii-moon-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T140600">2023-03-10 14:06:00 UTC</a></sub>
-* [RS21 earns patent for AI-based monitoring](https://spacenews.com/rs21-patent-for-ai-based-monitoring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T140000">2023-03-10 14:00:00 UTC</a></sub>
-* [Rocket Report: Boeing to bid SLS for military launch; Ariane chief says all is well](https://arstechnica.com/science/2023/03/rocket-report-boeing-to-bid-sls-for-military-launch-ariane-chief-says-all-is-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T120037">2023-03-10 12:00:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T230041">2023-03-10 23:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T233057">2023-03-10 23:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
