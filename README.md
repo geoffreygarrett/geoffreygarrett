@@ -187,6 +187,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s State Fact Sheets Highlight Economic Impact in All 50 States, DC](http://www.nasa.gov/press-release/nasa-s-state-fact-sheets-highlight-economic-impact-in-all-50-states-dc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T164500">2023-03-10 16:45:00 UTC</a></sub>
 * [Astra Investigating Potential Illegal Short Selling As Delisting Deadline Approaches](https://tlpnetwork.com/news/2023/03/astra-investigating-potential-illegal-short-selling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150800">2023-03-10 15:08:00 UTC</a></sub>
 * [Meet the brothers building massive spacecraft to leverage SpaceX’s Starship](https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150001">2023-03-10 15:00:01 UTC</a></sub>
 * [Astra investigating ‘potential illegal short selling’ as delisting deadline looms](https://www.cnbc.com/2023/03/10/astra-investigates-potential-illegal-short-selling-as-delisting-deadline-looms.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T143547">2023-03-10 14:35:47 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Report: Boeing to bid SLS for military launch; Ariane chief says all is well](https://arstechnica.com/science/2023/03/rocket-report-boeing-to-bid-sls-for-military-launch-ariane-chief-says-all-is-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T120037">2023-03-10 12:00:37 UTC</a></sub>
 * [Momentus preparing for Vigoride thruster test as it ships next vehicle](https://spacenews.com/momentus-preparing-for-vigoride-thruster-test-as-it-ships-next-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T113915">2023-03-10 11:39:15 UTC</a></sub>
 * [China is developing a quantum communications satellite network](https://spacenews.com/china-is-developing-a-quantum-communications-satellite-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T101118">2023-03-10 10:11:18 UTC</a></sub>
-* [Hughes unveils Jupiter 3](https://spacenews.com/hughes-jupiter-3-preps-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T052748">2023-03-10 05:27:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T170057">2023-03-10 17:00:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T173115">2023-03-10 17:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
