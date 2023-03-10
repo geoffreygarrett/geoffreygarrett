@@ -187,16 +187,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra Investigating Potential Illegal Short Selling As Delisting Deadline Approaches](https://tlpnetwork.com/news/2023/03/astra-investigating-potential-illegal-short-selling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150800">2023-03-10 15:08:00 UTC</a></sub>
+* [Meet the brothers building massive spacecraft to leverage SpaceX’s Starship](https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150001">2023-03-10 15:00:01 UTC</a></sub>
+* [Astra investigating ‘potential illegal short selling’ as delisting deadline looms](https://www.cnbc.com/2023/03/10/astra-investigates-potential-illegal-short-selling-as-delisting-deadline-looms.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T143547">2023-03-10 14:35:47 UTC</a></sub>
 * [La NASA y CSA asignarán astronautas para Artemis II](http://www.nasa.gov/press-release/la-nasa-y-csa-asignar-n-astronautas-para-artemis-ii) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T142500">2023-03-10 14:25:00 UTC</a></sub>
 * [NASA, Canadian Space Agency to Assign Artemis II Moon Astronauts](http://www.nasa.gov/press-release/nasa-canadian-space-agency-to-assign-artemis-ii-moon-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T140600">2023-03-10 14:06:00 UTC</a></sub>
+* [RS21 earns patent for AI-based monitoring](https://spacenews.com/rs21-patent-for-ai-based-monitoring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T140000">2023-03-10 14:00:00 UTC</a></sub>
 * [Rocket Report: Boeing to bid SLS for military launch; Ariane chief says all is well](https://arstechnica.com/science/2023/03/rocket-report-boeing-to-bid-sls-for-military-launch-ariane-chief-says-all-is-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T120037">2023-03-10 12:00:37 UTC</a></sub>
 * [Momentus preparing for Vigoride thruster test as it ships next vehicle](https://spacenews.com/momentus-preparing-for-vigoride-thruster-test-as-it-ships-next-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T113915">2023-03-10 11:39:15 UTC</a></sub>
 * [China is developing a quantum communications satellite network](https://spacenews.com/china-is-developing-a-quantum-communications-satellite-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T101118">2023-03-10 10:11:18 UTC</a></sub>
 * [Hughes unveils Jupiter 3](https://spacenews.com/hughes-jupiter-3-preps-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T052748">2023-03-10 05:27:48 UTC</a></sub>
-* [Atlas joins forces with Viasat RTE](https://spacenews.com/atlas-expands-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T020525">2023-03-10 02:05:25 UTC</a></sub>
-* [SpaceX completes final dedicated launch for OneWeb](https://spacenews.com/spacex-completes-final-dedicated-launch-for-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T003046">2023-03-10 00:30:46 UTC</a></sub>
-* [NASA Tracking Newly Discovered Earth Bound Asteroid](https://tlpnetwork.com/news/2023/03/nasa-tracking-newly-discovered-earth-bound-asteroid) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T000500">2023-03-10 00:05:00 UTC</a></sub>
-* [SpaceX launches and lands rocket on mission for OneWeb](https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T214517">2023-03-09 21:45:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150051">2023-03-10 15:00:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T153144">2023-03-10 15:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
