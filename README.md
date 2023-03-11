@@ -190,6 +190,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch Relativity attempt the first launch of its 3D-printed rocket Terran 1](https://www.cnbc.com/2023/03/11/watch-live-relativity-first-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T180513">2023-03-11 18:05:13 UTC</a></sub>
 * [Watch live: Relativity Space preps 3D-printed rocket for second launch attempt](https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T144517">2023-03-11 14:45:17 UTC</a></sub>
 * [SpaceX capsule with four-person crew departs space station, heads for Earth](https://spaceflightnow.com/2023/03/11/spacex-capsule-with-four-person-crew-departs-space-station-heads-for-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T103517">2023-03-11 10:35:17 UTC</a></sub>
 * [Meet The Startup Developing The Next Generation of Satellite Technology](https://tlpnetwork.com/news/2023/03/k2-space-announcement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T235500">2023-03-10 23:55:00 UTC</a></sub>
@@ -199,7 +200,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Space sector reacts to collapse of Silicon Valley Bank](https://spacenews.com/space-sector-reacts-to-collapse-of-silicon-valley-bank/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T223708">2023-03-10 22:37:08 UTC</a></sub>
 * [Space Force allocates three historic Cape Canaveral launch pads to four companies](https://spacenews.com/space-force-allocates-three-historic-cape-canaveral-launch-pads-to-four-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T220956">2023-03-10 22:09:56 UTC</a></sub>
 * [NASA Names University Teams to Take on Aeronautics Research Challenges](http://www.nasa.gov/press-release/nasa-names-university-teams-to-take-on-aeronautics-research-challenges) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T190500">2023-03-10 19:05:00 UTC</a></sub>
-* [NASA’s State Fact Sheets Highlight Economic Impact in All 50 States, DC](http://www.nasa.gov/press-release/nasa-s-state-fact-sheets-highlight-economic-impact-in-all-50-states-dc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T164500">2023-03-10 16:45:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -232,7 +232,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T180041">2023-03-11 18:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T183152">2023-03-11 18:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
