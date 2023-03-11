@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Relativity scrubs first Terran 1 launch again](https://spacenews.com/relativity-scrubs-first-terran-1-launch-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T223036">2023-03-11 22:30:36 UTC</a></sub>
 * [Relativity Space Scrubs Second Attempt At Maiden Flight Of Terran 1 Rocket](https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-11-march) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T220100">2023-03-11 22:01:00 UTC</a></sub>
 * [Relativity Space scrubs second launch attempt for Terran 1 rocket](https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T213517">2023-03-11 21:35:17 UTC</a></sub>
 * [Relativity at last moment calls off launch attempt of Terran 1 rocket after briefly igniting engines](https://www.cnbc.com/2023/03/11/watch-live-relativity-first-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T180513">2023-03-11 18:05:13 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Canadian military orders space surveillance micro satellite](https://spacenews.com/canadian-military-orders-space-surveillance-micro-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T232419">2023-03-10 23:24:19 UTC</a></sub>
 * [Intelsat and Eutelsat forge multi-orbit capacity deal](https://spacenews.com/intelsat-and-eutelsat-forge-multi-orbit-capacity-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T230535">2023-03-10 23:05:35 UTC</a></sub>
 * [Space sector reacts to collapse of Silicon Valley Bank](https://spacenews.com/space-sector-reacts-to-collapse-of-silicon-valley-bank/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T223708">2023-03-10 22:37:08 UTC</a></sub>
-* [Space Force allocates three historic Cape Canaveral launch pads to four companies](https://spacenews.com/space-force-allocates-three-historic-cape-canaveral-launch-pads-to-four-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T220956">2023-03-10 22:09:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T223055">2023-03-11 22:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T230115">2023-03-11 23:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
