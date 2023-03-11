@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew Dragon Endurance set for return to Earth on Crew-5 mission](https://www.nasaspaceflight.com/2023/03/crew-5-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T233214">2023-03-10 23:32:14 UTC</a></sub>
 * [Canadian military orders space surveillance micro satellite](https://spacenews.com/canadian-military-orders-space-surveillance-micro-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T232419">2023-03-10 23:24:19 UTC</a></sub>
 * [Intelsat and Eutelsat forge multi-orbit capacity deal](https://spacenews.com/intelsat-and-eutelsat-forge-multi-orbit-capacity-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T230535">2023-03-10 23:05:35 UTC</a></sub>
 * [Space sector reacts to collapse of Silicon Valley Bank](https://spacenews.com/space-sector-reacts-to-collapse-of-silicon-valley-bank/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T223708">2023-03-10 22:37:08 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Astra Investigating Potential Illegal Short Selling As Delisting Deadline Approaches](https://tlpnetwork.com/news/2023/03/astra-investigating-potential-illegal-short-selling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150800">2023-03-10 15:08:00 UTC</a></sub>
 * [Meet the brothers building massive spacecraft to leverage SpaceX’s Starship](https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150001">2023-03-10 15:00:01 UTC</a></sub>
 * [Astra investigating ‘potential illegal short selling’ as delisting deadline looms](https://www.cnbc.com/2023/03/10/astra-investigates-potential-illegal-short-selling-as-delisting-deadline-looms.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T143547">2023-03-10 14:35:47 UTC</a></sub>
-* [La NASA y CSA asignarán astronautas para Artemis II](http://www.nasa.gov/press-release/la-nasa-y-csa-asignar-n-astronautas-para-artemis-ii) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T142500">2023-03-10 14:25:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T233057">2023-03-10 23:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T000142">2023-03-11 00:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
