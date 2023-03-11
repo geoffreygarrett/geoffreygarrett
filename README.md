@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Relativity Space preps 3D-printed rocket for second launch attempt](https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T105517">2023-03-11 10:55:17 UTC</a></sub>
+* [SpaceX capsule with four-person crew departs space station, heads for Earth](https://spaceflightnow.com/2023/03/11/spacex-capsule-with-four-person-crew-departs-space-station-heads-for-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T103517">2023-03-11 10:35:17 UTC</a></sub>
 * [Meet The Startup Developing The Next Generation of Satellite Technology](https://tlpnetwork.com/news/2023/03/k2-space-announcement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T235500">2023-03-10 23:55:00 UTC</a></sub>
 * [Crew Dragon Endurance returning to Earth on Crew-5 mission](https://www.nasaspaceflight.com/2023/03/crew-5-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T233214">2023-03-10 23:32:14 UTC</a></sub>
 * [Canadian military orders space surveillance micro satellite](https://spacenews.com/canadian-military-orders-space-surveillance-micro-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T232419">2023-03-10 23:24:19 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force allocates three historic Cape Canaveral launch pads to four companies](https://spacenews.com/space-force-allocates-three-historic-cape-canaveral-launch-pads-to-four-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T220956">2023-03-10 22:09:56 UTC</a></sub>
 * [NASA Names University Teams to Take on Aeronautics Research Challenges](http://www.nasa.gov/press-release/nasa-names-university-teams-to-take-on-aeronautics-research-challenges) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T190500">2023-03-10 19:05:00 UTC</a></sub>
 * [NASA’s State Fact Sheets Highlight Economic Impact in All 50 States, DC](http://www.nasa.gov/press-release/nasa-s-state-fact-sheets-highlight-economic-impact-in-all-50-states-dc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T164500">2023-03-10 16:45:00 UTC</a></sub>
-* [Astra Investigating Potential Illegal Short Selling As Delisting Deadline Approaches](https://tlpnetwork.com/news/2023/03/astra-investigating-potential-illegal-short-selling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150800">2023-03-10 15:08:00 UTC</a></sub>
-* [Meet the brothers building massive spacecraft to leverage SpaceX’s Starship](https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150001">2023-03-10 15:00:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T110040">2023-03-11 11:00:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T113047">2023-03-11 11:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
