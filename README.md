@@ -190,12 +190,12 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [Crew-5 mission ends with Florida splashdown](https://spacenews.com/crew-5-mission-ends-with-florida-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T031827">2023-03-12 03:18:27 UTC</a></sub>
+* [Crew Dragon Endurance returns to Earth on Crew-5 mission](https://www.nasaspaceflight.com/2023/03/crew-5-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T013214">2023-03-12 01:32:14 UTC</a></sub>
 * [Relativity scrubs first Terran 1 launch again](https://spacenews.com/relativity-scrubs-first-terran-1-launch-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T223036">2023-03-11 22:30:36 UTC</a></sub>
 * [Relativity Space Scrubs Second Attempt At Maiden Flight Of Terran 1 Rocket](https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-11-march) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T220100">2023-03-11 22:01:00 UTC</a></sub>
 * [Relativity Space scrubs second launch attempt for Terran 1 rocket](https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T213517">2023-03-11 21:35:17 UTC</a></sub>
 * [Relativity at last moment calls off launch attempt of Terran 1 rocket after briefly igniting engines](https://www.cnbc.com/2023/03/11/watch-live-relativity-first-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T180513">2023-03-11 18:05:13 UTC</a></sub>
 * [SpaceX capsule with four-person crew departs space station, heads for Earth](https://spaceflightnow.com/2023/03/11/spacex-capsule-with-four-person-crew-departs-space-station-heads-for-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T103517">2023-03-11 10:35:17 UTC</a></sub>
-* [Crew Dragon Endurance return to Earth on Crew-5 mission](https://www.nasaspaceflight.com/2023/03/crew-5-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T073214">2023-03-11 07:32:14 UTC</a></sub>
 * [NASA’s SpaceX Crew-5 Splash Down Near Florida Coast, Safe on Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-splash-down-near-florida-coast-safe-on-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T034500">2023-03-11 03:45:00 UTC</a></sub>
 * [Meet The Startup Developing The Next Generation of Satellite Technology](https://tlpnetwork.com/news/2023/03/k2-space-announcement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T235500">2023-03-10 23:55:00 UTC</a></sub>
 * [Canadian military orders space surveillance micro satellite](https://spacenews.com/canadian-military-orders-space-surveillance-micro-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T232419">2023-03-10 23:24:19 UTC</a></sub>
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T040051">2023-03-12 04:00:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T043252">2023-03-12 04:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
