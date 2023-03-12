@@ -196,9 +196,9 @@ region. The mission's status is currently Go for Launch
 * [Relativity at last moment calls off launch attempt of Terran 1 rocket after briefly igniting engines](https://www.cnbc.com/2023/03/11/watch-live-relativity-first-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T180513">2023-03-11 18:05:13 UTC</a></sub>
 * [SpaceX capsule with four-person crew departs space station, heads for Earth](https://spaceflightnow.com/2023/03/11/spacex-capsule-with-four-person-crew-departs-space-station-heads-for-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T103517">2023-03-11 10:35:17 UTC</a></sub>
 * [Crew Dragon Endurance return to Earth on Crew-5 mission](https://www.nasaspaceflight.com/2023/03/crew-5-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T073214">2023-03-11 07:32:14 UTC</a></sub>
+* [NASA’s SpaceX Crew-5 Splash Down Near Florida Coast, Safe on Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-splash-down-near-florida-coast-safe-on-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T034500">2023-03-11 03:45:00 UTC</a></sub>
 * [Meet The Startup Developing The Next Generation of Satellite Technology](https://tlpnetwork.com/news/2023/03/k2-space-announcement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T235500">2023-03-10 23:55:00 UTC</a></sub>
 * [Canadian military orders space surveillance micro satellite](https://spacenews.com/canadian-military-orders-space-surveillance-micro-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T232419">2023-03-10 23:24:19 UTC</a></sub>
-* [Intelsat and Eutelsat forge multi-orbit capacity deal](https://spacenews.com/intelsat-and-eutelsat-forge-multi-orbit-capacity-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T230535">2023-03-10 23:05:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T033047">2023-03-12 03:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T040051">2023-03-12 04:00:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
