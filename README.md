@@ -189,6 +189,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia Lofts Luch Relay Satellite Aboard Proton Rocket](https://tlpnetwork.com/news/2023/03/luch-5x-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T084200">2023-03-13 08:42:00 UTC</a></sub>
 * [Crew Dragon splashes down to close out 157-day mission](https://spaceflightnow.com/2023/03/12/crew-dragon-splashes-down-to-close-out-157-day-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T160517">2023-03-12 16:05:17 UTC</a></sub>
 * [Managing the complexity of the world’s largest satellite navigation system](https://spacenews.com/managing-the-complexity-of-the-worlds-largest-satellite-navigation-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T160000">2023-03-12 16:00:00 UTC</a></sub>
 * [Crew-5 mission ends with Florida splashdown](https://spacenews.com/crew-5-mission-ends-with-florida-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T031827">2023-03-12 03:18:27 UTC</a></sub>
@@ -198,7 +199,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Relativity Space scrubs second launch attempt for Terran 1 rocket](https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T213517">2023-03-11 21:35:17 UTC</a></sub>
 * [Relativity at last moment calls off launch attempt of Terran 1 rocket after briefly igniting engines](https://www.cnbc.com/2023/03/11/watch-live-relativity-first-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T180513">2023-03-11 18:05:13 UTC</a></sub>
 * [SpaceX capsule with four-person crew departs space station, heads for Earth](https://spaceflightnow.com/2023/03/11/spacex-capsule-with-four-person-crew-departs-space-station-heads-for-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T103517">2023-03-11 10:35:17 UTC</a></sub>
-* [NASA’s SpaceX Crew-5 Splash Down Near Florida Coast, Safe on Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-splash-down-near-florida-coast-safe-on-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T034500">2023-03-11 03:45:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T090102">2023-03-13 09:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T093048">2023-03-13 09:30:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
