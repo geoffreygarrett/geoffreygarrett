@@ -102,26 +102,28 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Long March 2C | Unknown Payload at the
-<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a> in
-Jiuquan, People's Republic of China
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T035300">2023-03-13 03:53:00 UTC</a>. Until
-then, this launch pad will have seen 91
-out of 184 launches in this
-region. The mission's status is currently Go for Launch
-(Go) 🟩  which means:
-*current T-0 confirmed by official or reliable sources.* 
+Electron | Stronger Together at the
+<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a> in
+Wallops Island, Virginia, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T220000">2023-03-14 22:00:00 UTC</a>. Until
+then, this launch pad will have seen 1
+out of 74 launches in this
+region. The mission's status is currently To Be Confirmed
+(TBC) 🟨  which means:
+*awaiting official confirmation - current date is known with some certainty.* 
 <br>
 <blockquote>
-  
+  Payload consists of 2 Synthetic Aperture Radar (SAR) satellites for Capella Space.
+
+These 100-kg class satellites will expand Capella’s existing SAR constellation, increasing imaging capacity to meet growing customer demand.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=40.960556,100.298333" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +136,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T035300">2023-03-13 03:53:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230313T035300Z%2F20230313T041700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Stronger Together</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T220000">2023-03-14 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Stronger Together&location=Wallops Island, Virginia, USA&dates=20230314T220000Z%2F20230315T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-27</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T003000">2023-03-15 00:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-27&location=Kennedy Space Center, FL, USA&dates=20230315T003000Z%2F20230315T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T113600">2023-03-15 11:36:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 11 | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230315T113600Z%2F20230315T115600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -230,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T033120">2023-03-13 03:31:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T040050">2023-03-13 04:00:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
