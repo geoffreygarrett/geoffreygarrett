@@ -189,6 +189,9 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Silicon Valley Bank’s space clients regain account access](https://spacenews.com/silicon-valley-banks-space-clients-regain-account-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T191901">2023-03-13 19:19:01 UTC</a></sub>
+* [BREAKING! OneWeb Announces Global Partnership With Amazon ](https://tlpnetwork.com/news/2023/03/oneweb-announces-global-partnership-with-amazon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T183600">2023-03-13 18:36:00 UTC</a></sub>
+* [NASA Sets Out New Timeline For Moon And Mars Missions](https://tlpnetwork.com/news/2023/03/nasa-sets-out-new-timeline-for-moon-and-mars-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T183100">2023-03-13 18:31:00 UTC</a></sub>
 * [SpaceX Set To Test Starlink To Cell Service This Year With T-Mobile](https://tlpnetwork.com/news/2023/03/spacex-to-test-starlink-to-cell-service-this-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T175900">2023-03-13 17:59:00 UTC</a></sub>
 * [Silicon Valley Bank Collapse Hits Space Industry](https://tlpnetwork.com/news/2023/03/silicon-valley-bank-collapse-hits-space-industry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T174725">2023-03-13 17:47:25 UTC</a></sub>
 * [Japanese Lunar Lander Company iSpace Set To Go Public On April 12th](https://tlpnetwork.com/news/2023/03/ispace-set-to-go-public) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T172000">2023-03-13 17:20:00 UTC</a></sub>
@@ -196,9 +199,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [SpaceX says it will test Starlink’s satellite-to-cell service with T-Mobile this year](https://www.cnbc.com/2023/03/13/spacex-t-mobile-cell-service-tests-this-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T165456">2023-03-13 16:54:56 UTC</a></sub>
 * [JUICE arrives in French Guiana for launch, project manager outlines next steps](https://www.nasaspaceflight.com/2023/03/juice-csg-arrival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T151349">2023-03-13 15:13:49 UTC</a></sub>
 * [U.S. Space Force budget hits $30 billion in 2024 proposal](https://spacenews.com/u-s-space-force-budget-hits-30-billion-in-2024-funding-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T144000">2023-03-13 14:40:00 UTC</a></sub>
-* [Rivada Space Networks selects Aalyria Spacetime](https://spacenews.com/rivada-space-networks-selects-aalyria-spacetime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T133551">2023-03-13 13:35:51 UTC</a></sub>
-* [LeoLabs to build  radar in Argentina](https://spacenews.com/leolabs-argentina/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T133000">2023-03-13 13:30:00 UTC</a></sub>
-* [CesiumAstro enters IFC market](https://spacenews.com/cesiumastro-ifc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T110000">2023-03-13 11:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T190037">2023-03-13 19:00:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T193056">2023-03-13 19:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
