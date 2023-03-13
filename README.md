@@ -189,6 +189,9 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japanese Lunar Lander Company iSpace Set To Go Public On April 12th](https://tlpnetwork.com/news/2023/03/ispace-set-to-go-public) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T172000">2023-03-13 17:20:00 UTC</a></sub>
+* [Getting real about space business models](https://spacenews.com/getting-real-about-space-business-models/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T170830">2023-03-13 17:08:30 UTC</a></sub>
+* [SpaceX says it will test Starlink’s satellite-to-cell service with T-Mobile this year](https://www.cnbc.com/2023/03/13/spacex-t-mobile-cell-service-tests-this-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T165456">2023-03-13 16:54:56 UTC</a></sub>
 * [JUICE arrives in French Guiana for launch, project manager outlines next steps](https://www.nasaspaceflight.com/2023/03/juice-csg-arrival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T151349">2023-03-13 15:13:49 UTC</a></sub>
 * [U.S. Space Force budget hits $30 billion in 2024 proposal](https://spacenews.com/u-s-space-force-budget-hits-30-billion-in-2024-funding-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T144000">2023-03-13 14:40:00 UTC</a></sub>
 * [Rivada Space Networks selects Aalyria Spacetime](https://spacenews.com/rivada-space-networks-selects-aalyria-spacetime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T133551">2023-03-13 13:35:51 UTC</a></sub>
@@ -196,9 +199,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [CesiumAstro enters IFC market](https://spacenews.com/cesiumastro-ifc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T110000">2023-03-13 11:00:00 UTC</a></sub>
 * [NASA study assess costs and benefits of orbital debris removal](https://spacenews.com/nasa-study-assess-costs-and-benefits-of-orbital-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T104953">2023-03-13 10:49:53 UTC</a></sub>
 * [Russia Lofts Luch Relay Satellite Aboard Proton Rocket](https://tlpnetwork.com/news/2023/03/luch-5x-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T084200">2023-03-13 08:42:00 UTC</a></sub>
-* [Crew Dragon splashes down to close out 157-day mission](https://spaceflightnow.com/2023/03/12/crew-dragon-splashes-down-to-close-out-157-day-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T160517">2023-03-12 16:05:17 UTC</a></sub>
-* [Managing the complexity of the world’s largest satellite navigation system](https://spacenews.com/managing-the-complexity-of-the-worlds-largest-satellite-navigation-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T160000">2023-03-12 16:00:00 UTC</a></sub>
-* [Crew-5 mission ends with Florida splashdown](https://spacenews.com/crew-5-mission-ends-with-florida-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T031827">2023-03-12 03:18:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -209,6 +209,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [NASA's FY 2024 Budget](https://www.planetary.org/space-policy/nasas-fy-2024-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T171544">2023-03-13 17:15:44 UTC</a></sub>
 * [Spectacularly crepuscular!](https://www.planetary.org/the-downlink/spectacularly-crepuscular) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T153535">2023-03-10 15:35:35 UTC</a></sub>
 * [Vulcan: Inaugural rocket moved to launch pad for tanking tests](https://blog.ulalaunch.com/blog/vulcan-inaugural-rocket-moved-to-launch-pad-for-tanking-tests) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T195541">2023-03-09 19:55:41 UTC</a></sub>
 * [Welcome to your member community!](https://www.planetary.org/articles/welcome-to-your-member-community) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T170534">2023-03-08 17:05:34 UTC</a></sub>
@@ -218,7 +219,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Never let a rock sneak up on you](https://www.planetary.org/the-downlink/never-let-a-rock-sneak-up-on-you) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T153535">2023-03-03 15:35:35 UTC</a></sub>
 * [The coolest new space pictures: February 2023](https://www.planetary.org/worlds/coolest-space-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T153529">2023-02-28 15:35:29 UTC</a></sub>
 * [Demystifying near-Earth asteroids](https://www.planetary.org/sci-tech/demystifying-near-earth-asteroids) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T153530">2023-02-27 15:35:30 UTC</a></sub>
-* [Red hot space](https://www.planetary.org/the-downlink/red-hot-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T153623">2023-02-24 15:36:23 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T170044">2023-03-13 17:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T173110">2023-03-13 17:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
