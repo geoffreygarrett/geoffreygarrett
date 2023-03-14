@@ -190,6 +190,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellite executives spar over direct-to-device evolution](https://spacenews.com/satellite-executives-spar-over-direct-to-device-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T021219">2023-03-14 02:12:19 UTC</a></sub>
 * [NASA planning to spend up to $1 billion on space station deorbit module](https://spacenews.com/nasa-planning-to-spend-up-to-1-billion-on-space-station-deorbit-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T212503">2023-03-13 21:25:03 UTC</a></sub>
 * [L3 Harris wins $765.5 million contract to develop GeoXO imager](https://spacenews.com/l3-harris-wins-765-5-million-contract-to-develop-geoxo-imager/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T210803">2023-03-13 21:08:03 UTC</a></sub>
 * [Space Force pauses GPS satellite orders due to excess inventory](https://spacenews.com/space-force-pauses-gps-satellite-orders-due-to-excess-inventory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T204302">2023-03-13 20:43:02 UTC</a></sub>
@@ -199,7 +200,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [NASA Sets Out New Timeline For Moon And Mars Missions](https://tlpnetwork.com/news/2023/03/nasa-sets-out-new-timeline-for-moon-and-mars-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T183100">2023-03-13 18:31:00 UTC</a></sub>
 * [SpaceX Set To Test Starlink To Cell Service This Year With T-Mobile](https://tlpnetwork.com/news/2023/03/spacex-to-test-starlink-to-cell-service-this-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T175900">2023-03-13 17:59:00 UTC</a></sub>
 * [Silicon Valley Bank Collapse Hits Space Industry](https://tlpnetwork.com/news/2023/03/silicon-valley-bank-collapse-hits-space-industry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T174725">2023-03-13 17:47:25 UTC</a></sub>
-* [Japanese Lunar Lander Company iSpace Set To Go Public On April 12th](https://tlpnetwork.com/news/2023/03/ispace-set-to-go-public) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T172000">2023-03-13 17:20:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -232,7 +232,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T023825">2023-03-14 02:38:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T030051">2023-03-14 03:00:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
