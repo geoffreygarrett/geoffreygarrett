@@ -194,7 +194,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Amazon unveils Project Kuiper terminals for services starting in 2024](https://spacenews.com/amazon-unveils-project-kuiper-terminals-for-services-starting-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T143920">2023-03-14 14:39:20 UTC</a></sub>
 * [Satellite manufacturers continue to diversify](https://spacenews.com/satellite-manufacturers-continue-to-diversify/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T141451">2023-03-14 14:14:51 UTC</a></sub>
 * [NASA’s SpaceX Crew-5 to Discuss Mission Following Return to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-following-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T140500">2023-03-14 14:05:00 UTC</a></sub>
-* [Amazon gives a first look at the satellite internet antennas for its Project Kuiper network](https://www.cnbc.com/2023/03/14/amazon-first-look-project-kuiper-satellite-internet-antennas.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T130044">2023-03-14 13:00:44 UTC</a></sub>
+* [Amazon shows off new satellite internet antennas as it takes on SpaceX’s Starlink](https://www.cnbc.com/2023/03/14/amazon-first-look-project-kuiper-satellite-internet-antennas.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T130044">2023-03-14 13:00:44 UTC</a></sub>
 * [As DoD pivots to smaller satellites, Congress airdrops a big one into the budget](https://spacenews.com/as-dod-pivots-to-smaller-satellites-congress-airdrops-a-big-one-into-the-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T121131">2023-03-14 12:11:31 UTC</a></sub>
 * [Satellite executives spar over direct-to-device evolution](https://spacenews.com/satellite-executives-spar-over-direct-to-device-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T021219">2023-03-14 02:12:19 UTC</a></sub>
 * [NASA planning to spend up to $1 billion on space station deorbit module](https://spacenews.com/nasa-planning-to-spend-up-to-1-billion-on-space-station-deorbit-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T212503">2023-03-13 21:25:03 UTC</a></sub>
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T160059">2023-03-14 16:00:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T163927">2023-03-14 16:39:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
