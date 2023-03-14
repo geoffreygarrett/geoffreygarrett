@@ -191,6 +191,9 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astranis gets order for a pair of Mexico-focused GEO broadband satellites](https://spacenews.com/astranis-gets-order-for-a-pair-of-mexico-focused-geo-broadband-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T202116">2023-03-14 20:21:16 UTC</a></sub>
+* [Viasat deploying ‘zero trust’ cybersecurity across global network](https://spacenews.com/viasat-deploying-zero-trust-cybersecurity-across-global-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T200540">2023-03-14 20:05:40 UTC</a></sub>
+* [NASA Picks Firefly Aerospace for Robotic Delivery to Far Side of Moon](http://www.nasa.gov/press-release/nasa-picks-firefly-aerospace-for-robotic-delivery-to-far-side-of-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T200500">2023-03-14 20:05:00 UTC</a></sub>
 * [CRS-27 set to launch fresh cargo and experiments to ISS](https://www.nasaspaceflight.com/2023/03/spacex-crs-27/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T182153">2023-03-14 18:21:53 UTC</a></sub>
 * [Investors project space company funding to rebound in 2023](https://spacenews.com/investors-project-space-company-funding-to-rebound-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T164450">2023-03-14 16:44:50 UTC</a></sub>
 * [Amazon unveils Project Kuiper terminals for services starting in 2024](https://spacenews.com/amazon-unveils-project-kuiper-terminals-for-services-starting-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T143920">2023-03-14 14:39:20 UTC</a></sub>
@@ -198,9 +201,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [NASA’s SpaceX Crew-5 to Discuss Mission Following Return to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-following-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T140500">2023-03-14 14:05:00 UTC</a></sub>
 * [Amazon shows off new satellite internet antennas as it takes on SpaceX’s Starlink](https://www.cnbc.com/2023/03/14/amazon-first-look-project-kuiper-satellite-internet-antennas.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T130044">2023-03-14 13:00:44 UTC</a></sub>
 * [As DoD pivots to smaller satellites, Congress airdrops a big one into the budget](https://spacenews.com/as-dod-pivots-to-smaller-satellites-congress-airdrops-a-big-one-into-the-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T121131">2023-03-14 12:11:31 UTC</a></sub>
-* [Satellite executives spar over direct-to-device evolution](https://spacenews.com/satellite-executives-spar-over-direct-to-device-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T021219">2023-03-14 02:12:19 UTC</a></sub>
-* [NASA planning to spend up to $1 billion on space station deorbit module](https://spacenews.com/nasa-planning-to-spend-up-to-1-billion-on-space-station-deorbit-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T212503">2023-03-13 21:25:03 UTC</a></sub>
-* [L3 Harris wins $765.5 million contract to develop GeoXO imager](https://spacenews.com/l3-harris-wins-765-5-million-contract-to-develop-geoxo-imager/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T210803">2023-03-13 21:08:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T200107">2023-03-14 20:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203431">2023-03-14 20:34:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
