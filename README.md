@@ -191,16 +191,16 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amazon unveils satellite receivers for Starlink competitor, ‘Project Kuiper’](https://www.teslarati.com/amazon-unveils-starlink-competitor-project-kuiper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T205534">2023-03-14 20:55:34 UTC</a></sub>
+* [Amazon Reveals Project Kuiper Commercial Satellite Terminals](https://tlpnetwork.com/news/2023/03/amazon-reveals-project-kuiper-commercial-satellite-terminals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T205300">2023-03-14 20:53:00 UTC</a></sub>
+* [Why the Office of Space Commerce should supervise novel commercial space activities](https://spacenews.com/why-the-office-of-space-commerce-should-supervise-novel-commercial-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T204418">2023-03-14 20:44:18 UTC</a></sub>
+* [NASA Approves AX-3 Mission To ISS](https://tlpnetwork.com/news/2023/03/nasa-approves-ax-3-mission-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203900">2023-03-14 20:39:00 UTC</a></sub>
+* [Kayhan offers coordinated collision avoidance](https://spacenews.com/kayhan-coordinated-collision-avoidance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203502">2023-03-14 20:35:02 UTC</a></sub>
+* [NASA Selects Axiom Space for Third Private Astronaut Station Mission](http://www.nasa.gov/press-release/nasa-selects-axiom-space-for-third-private-astronaut-station-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203500">2023-03-14 20:35:00 UTC</a></sub>
+* [NASA Selects Firefly Aerospace for Robotic Moon Mission](https://tlpnetwork.com/news/2023/03/nasa-selects-firefly-aerospace-for-robotic-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203500">2023-03-14 20:35:00 UTC</a></sub>
 * [Astranis gets order for a pair of Mexico-focused GEO broadband satellites](https://spacenews.com/astranis-gets-order-for-a-pair-of-mexico-focused-geo-broadband-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T202116">2023-03-14 20:21:16 UTC</a></sub>
 * [Viasat deploying ‘zero trust’ cybersecurity across global network](https://spacenews.com/viasat-deploying-zero-trust-cybersecurity-across-global-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T200540">2023-03-14 20:05:40 UTC</a></sub>
 * [NASA Picks Firefly Aerospace for Robotic Delivery to Far Side of Moon](http://www.nasa.gov/press-release/nasa-picks-firefly-aerospace-for-robotic-delivery-to-far-side-of-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T200500">2023-03-14 20:05:00 UTC</a></sub>
-* [CRS-27 set to launch fresh cargo and experiments to ISS](https://www.nasaspaceflight.com/2023/03/spacex-crs-27/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T182153">2023-03-14 18:21:53 UTC</a></sub>
-* [Investors project space company funding to rebound in 2023](https://spacenews.com/investors-project-space-company-funding-to-rebound-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T164450">2023-03-14 16:44:50 UTC</a></sub>
-* [Amazon unveils Project Kuiper terminals for services starting in 2024](https://spacenews.com/amazon-unveils-project-kuiper-terminals-for-services-starting-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T143920">2023-03-14 14:39:20 UTC</a></sub>
-* [Satellite manufacturers continue to diversify](https://spacenews.com/satellite-manufacturers-continue-to-diversify/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T141451">2023-03-14 14:14:51 UTC</a></sub>
-* [NASA’s SpaceX Crew-5 to Discuss Mission Following Return to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-following-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T140500">2023-03-14 14:05:00 UTC</a></sub>
-* [Amazon shows off new satellite internet antennas as it takes on SpaceX’s Starlink](https://www.cnbc.com/2023/03/14/amazon-first-look-project-kuiper-satellite-internet-antennas.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T130044">2023-03-14 13:00:44 UTC</a></sub>
-* [As DoD pivots to smaller satellites, Congress airdrops a big one into the budget](https://spacenews.com/as-dod-pivots-to-smaller-satellites-congress-airdrops-a-big-one-into-the-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T121131">2023-03-14 12:11:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T210037">2023-03-14 21:00:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T213052">2023-03-14 21:30:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
