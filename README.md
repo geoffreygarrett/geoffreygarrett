@@ -191,6 +191,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amazon gives a first look at the satellite internet antennas for its Project Kuiper network](https://www.cnbc.com/2023/03/14/amazon-first-look-project-kuiper-satellite-internet-antennas.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T130044">2023-03-14 13:00:44 UTC</a></sub>
 * [As DoD pivots to smaller satellites, Congress airdrops a big one into the budget](https://spacenews.com/as-dod-pivots-to-smaller-satellites-congress-airdrops-a-big-one-into-the-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T121131">2023-03-14 12:11:31 UTC</a></sub>
 * [Satellite executives spar over direct-to-device evolution](https://spacenews.com/satellite-executives-spar-over-direct-to-device-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T021219">2023-03-14 02:12:19 UTC</a></sub>
 * [NASA planning to spend up to $1 billion on space station deorbit module](https://spacenews.com/nasa-planning-to-spend-up-to-1-billion-on-space-station-deorbit-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T212503">2023-03-13 21:25:03 UTC</a></sub>
@@ -200,7 +201,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Space firms regain access to Silicon Valley Bank accounts](https://spacenews.com/silicon-valley-banks-space-clients-regain-account-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T191901">2023-03-13 19:19:01 UTC</a></sub>
 * [OneWeb Announces Global Partnership With Amazon ](https://tlpnetwork.com/news/2023/03/oneweb-announces-global-partnership-with-amazon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T183600">2023-03-13 18:36:00 UTC</a></sub>
 * [NASA Sets Out New Timeline For Moon And Mars Missions](https://tlpnetwork.com/news/2023/03/nasa-sets-out-new-timeline-for-moon-and-mars-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T183100">2023-03-13 18:31:00 UTC</a></sub>
-* [SpaceX Set To Test Starlink To Cell Service This Year With T-Mobile](https://tlpnetwork.com/news/2023/03/spacex-to-test-starlink-to-cell-service-this-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T175900">2023-03-13 17:59:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T131128">2023-03-14 13:11:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T133917">2023-03-14 13:39:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
