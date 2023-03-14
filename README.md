@@ -191,6 +191,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amazon unveils Project Kuiper terminals for services starting in 2024](https://spacenews.com/amazon-unveils-project-kuiper-terminals-for-services-starting-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T143920">2023-03-14 14:39:20 UTC</a></sub>
 * [Satellite manufacturers continue to diversify](https://spacenews.com/satellite-manufacturers-continue-to-diversify/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T141451">2023-03-14 14:14:51 UTC</a></sub>
 * [NASA’s SpaceX Crew-5 to Discuss Mission Following Return to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-following-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T140500">2023-03-14 14:05:00 UTC</a></sub>
 * [Amazon gives a first look at the satellite internet antennas for its Project Kuiper network](https://www.cnbc.com/2023/03/14/amazon-first-look-project-kuiper-satellite-internet-antennas.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T130044">2023-03-14 13:00:44 UTC</a></sub>
@@ -200,7 +201,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [L3 Harris wins $765.5 million contract to develop GeoXO imager](https://spacenews.com/l3-harris-wins-765-5-million-contract-to-develop-geoxo-imager/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T210803">2023-03-13 21:08:03 UTC</a></sub>
 * [Space Force pauses GPS satellite orders due to excess inventory](https://spacenews.com/space-force-pauses-gps-satellite-orders-due-to-excess-inventory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T204302">2023-03-13 20:43:02 UTC</a></sub>
 * [NASA Selects L3Harris to Develop Imager for NOAA Satellite](http://www.nasa.gov/press-release/nasa-selects-l3harris-to-develop-imager-for-noaa-satellite) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T203500">2023-03-13 20:35:00 UTC</a></sub>
-* [Space firms regain access to Silicon Valley Bank accounts](https://spacenews.com/silicon-valley-banks-space-clients-regain-account-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T191901">2023-03-13 19:19:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T150053">2023-03-14 15:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T153429">2023-03-14 15:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
