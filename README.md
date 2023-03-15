@@ -189,6 +189,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Orbit pauses operations](https://spacenews.com/virgin-orbit-pauses-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T230021">2023-03-15 23:00:21 UTC</a></sub>
 * [Voyager Space acquires ZIN Technologies to support Starlab development](https://spacenews.com/voyager-space-acquires-zin-technologies-to-support-starlab-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T224044">2023-03-15 22:40:44 UTC</a></sub>
 * [DEVELOPING STORY: Virgin Orbit Pauses Operations, Furloughs Staff, Seeks Funding](https://tlpnetwork.com/news/2023/03/virgin-orbit-pauses-operations-furloughs-staff-seeks-funding) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T215000">2023-03-15 21:50:00 UTC</a></sub>
 * [NASA Mars Odyssey Orbiter Fuel Supply Running Low](https://tlpnetwork.com/news/2023/03/nasa-mars-odyssey-orbiter-fuel-supply-running-low) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T214600">2023-03-15 21:46:00 UTC</a></sub>
@@ -198,7 +199,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Engineers Keep an Eye on Fuel Supply of NASA's Oldest Mars Orbiter](https://mars.nasa.gov/news/9365/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T183500">2023-03-15 18:35:00 UTC</a></sub>
 * [Goonhilly Announces US Sat Comm Network Expansion](https://tlpnetwork.com/news/2023/03/goonhilly-announces-us-sat-comm-network-expansion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T171200">2023-03-15 17:12:00 UTC</a></sub>
 * [Quadsat raises $9.6 million for antenna-testing drones](https://spacenews.com/quadsat-raises-9-6-million-for-antenna-testing-drones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T165642">2023-03-15 16:56:42 UTC</a></sub>
-* [Axiom unveils spacesuits for NASA’s upcoming Artemis moon missions](https://www.cnbc.com/2023/03/15/axiom-spacesuits-nasa-artemis-missions.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T164230">2023-03-15 16:42:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T230044">2023-03-15 23:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T233046">2023-03-15 23:30:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
