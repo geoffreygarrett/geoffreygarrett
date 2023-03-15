@@ -189,6 +189,8 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Quadsat raises $9.6 million for antenna-testing drones](https://spacenews.com/quadsat-raises-9-6-million-for-antenna-testing-drones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T165642">2023-03-15 16:56:42 UTC</a></sub>
+* [Axiom unveils spacesuits for NASA’s upcoming Artemis moon missions](https://www.cnbc.com/2023/03/15/axiom-spacesuits-nasa-artemis-missions.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T164230">2023-03-15 16:42:30 UTC</a></sub>
 * [China launches classified Shiyan-19 test satellite from the Gobi Desert](https://spacenews.com/china-launches-classified-shiyan-19-test-satellite-from-gobi-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T151414">2023-03-15 15:14:14 UTC</a></sub>
 * [Artemis 3 Spacesuit Revealed By NASA and Axiom Space](https://tlpnetwork.com/news/2023/03/artemis-3-spacesuit-revealed-nasa-and-axiom-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T143600">2023-03-15 14:36:00 UTC</a></sub>
 * [Space Force: We expect to see ‘interfering, blinding’ of satellites during conflict](https://spacenews.com/space-force-we-expect-to-see-interfering-blinding-of-satellites-during-conflict/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T133330">2023-03-15 13:33:30 UTC</a></sub>
@@ -197,8 +199,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [SpaceX Launches Science and Supplies To Space Station](https://tlpnetwork.com/news/2023/03/spacex-launches-crs-27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T025900">2023-03-15 02:59:00 UTC</a></sub>
 * [Amazon unveils satellite receivers for Starlink competitor, ‘Project Kuiper’](https://www.teslarati.com/amazon-unveils-starlink-competitor-project-kuiper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T205534">2023-03-14 20:55:34 UTC</a></sub>
 * [Amazon Reveals Project Kuiper Commercial Satellite Terminals](https://tlpnetwork.com/news/2023/03/amazon-reveals-project-kuiper-commercial-satellite-terminals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T205300">2023-03-14 20:53:00 UTC</a></sub>
-* [Why the Office of Space Commerce should supervise novel commercial space activities](https://spacenews.com/why-the-office-of-space-commerce-should-supervise-novel-commercial-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T204418">2023-03-14 20:44:18 UTC</a></sub>
-* [NASA Approves AX-3 Mission To ISS](https://tlpnetwork.com/news/2023/03/nasa-approves-ax-3-mission-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203900">2023-03-14 20:39:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T170053">2023-03-15 17:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T173205">2023-03-15 17:32:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
