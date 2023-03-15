@@ -189,6 +189,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force: We expect to see ‘interfering, blinding’ of satellites during conflict](https://spacenews.com/space-force-we-expect-to-see-interfering-blinding-of-satellites-during-conflict/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T133330">2023-03-15 13:33:30 UTC</a></sub>
 * [Firefly wins second NASA CLPS mission](https://spacenews.com/firefly-wins-second-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T095104">2023-03-15 09:51:04 UTC</a></sub>
 * [SpaceX launches 27th cargo mission to ISS](https://spacenews.com/spacex-launches-27th-cargo-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T081155">2023-03-15 08:11:55 UTC</a></sub>
 * [SpaceX Launches Science and Supplies To Space Station](https://tlpnetwork.com/news/2023/03/spacex-launches-crs-27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T025900">2023-03-15 02:59:00 UTC</a></sub>
@@ -198,7 +199,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [NASA Approves AX-3 Mission To ISS](https://tlpnetwork.com/news/2023/03/nasa-approves-ax-3-mission-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203900">2023-03-14 20:39:00 UTC</a></sub>
 * [Kayhan offers coordinated collision avoidance](https://spacenews.com/kayhan-coordinated-collision-avoidance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203502">2023-03-14 20:35:02 UTC</a></sub>
 * [NASA Selects Axiom Space for Third Private Astronaut Station Mission](http://www.nasa.gov/press-release/nasa-selects-axiom-space-for-third-private-astronaut-station-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203500">2023-03-14 20:35:00 UTC</a></sub>
-* [NASA Selects Firefly Aerospace for Robotic Moon Mission](https://tlpnetwork.com/news/2023/03/nasa-selects-firefly-aerospace-for-robotic-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203500">2023-03-14 20:35:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T140101">2023-03-15 14:01:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T143135">2023-03-15 14:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
