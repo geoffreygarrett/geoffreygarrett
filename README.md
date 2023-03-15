@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Firefly wins second NASA CLPS mission](https://spacenews.com/firefly-wins-second-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T095104">2023-03-15 09:51:04 UTC</a></sub>
 * [SpaceX launches 27th cargo mission to ISS](https://spacenews.com/spacex-launches-27th-cargo-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T081155">2023-03-15 08:11:55 UTC</a></sub>
 * [SpaceX Launches Science and Supplies To Space Station](https://tlpnetwork.com/news/2023/03/spacex-launches-crs-27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T025900">2023-03-15 02:59:00 UTC</a></sub>
 * [Amazon unveils satellite receivers for Starlink competitor, ‘Project Kuiper’](https://www.teslarati.com/amazon-unveils-starlink-competitor-project-kuiper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T205534">2023-03-14 20:55:34 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Kayhan offers coordinated collision avoidance](https://spacenews.com/kayhan-coordinated-collision-avoidance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203502">2023-03-14 20:35:02 UTC</a></sub>
 * [NASA Selects Axiom Space for Third Private Astronaut Station Mission](http://www.nasa.gov/press-release/nasa-selects-axiom-space-for-third-private-astronaut-station-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203500">2023-03-14 20:35:00 UTC</a></sub>
 * [NASA Selects Firefly Aerospace for Robotic Moon Mission](https://tlpnetwork.com/news/2023/03/nasa-selects-firefly-aerospace-for-robotic-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203500">2023-03-14 20:35:00 UTC</a></sub>
-* [Astranis gets order for a pair of Mexico-focused GEO broadband satellites](https://spacenews.com/astranis-gets-order-for-a-pair-of-mexico-focused-geo-broadband-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T202116">2023-03-14 20:21:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T093050">2023-03-15 09:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T100100">2023-03-15 10:01:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
