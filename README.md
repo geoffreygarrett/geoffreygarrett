@@ -189,6 +189,8 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Mars Odyssey Orbiter Fuel Supply Running Low](https://tlpnetwork.com/news/2023/03/nasa-mars-odyssey-orbiter-fuel-supply-running-low) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T214600">2023-03-15 21:46:00 UTC</a></sub>
+* [Virgin Orbit pauses operations for a week, furloughs nearly entire staff as it seeks funding](https://www.cnbc.com/2023/03/15/virgin-orbit-pauses-operations-furloughs-staff.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T213038">2023-03-15 21:30:38 UTC</a></sub>
 * [NanoAvionics to build three more IoT satellites for OQ Technology](https://spacenews.com/nanoavionics-to-build-three-more-iot-satellites-for-oq-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T210840">2023-03-15 21:08:40 UTC</a></sub>
 * [Official Lunar Time Zone Coming Soon](https://tlpnetwork.com/news/2023/03/official-lunar-time-zone-coming-soon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T191600">2023-03-15 19:16:00 UTC</a></sub>
 * [Engineers Keep an Eye on Fuel Supply of NASA's Oldest Mars Orbiter](https://mars.nasa.gov/news/9365/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T183500">2023-03-15 18:35:00 UTC</a></sub>
@@ -197,8 +199,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Axiom unveils spacesuits for NASA’s upcoming Artemis moon missions](https://www.cnbc.com/2023/03/15/axiom-spacesuits-nasa-artemis-missions.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T164230">2023-03-15 16:42:30 UTC</a></sub>
 * [China launches classified Shiyan-19 test satellite from the Gobi Desert](https://spacenews.com/china-launches-classified-shiyan-19-test-satellite-from-gobi-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T151414">2023-03-15 15:14:14 UTC</a></sub>
 * [Artemis 3 Spacesuit Revealed By NASA and Axiom Space](https://tlpnetwork.com/news/2023/03/artemis-3-spacesuit-revealed-nasa-and-axiom-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T143600">2023-03-15 14:36:00 UTC</a></sub>
-* [Space Force: We expect to see ‘interfering, blinding’ of satellites during conflict](https://spacenews.com/space-force-we-expect-to-see-interfering-blinding-of-satellites-during-conflict/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T133330">2023-03-15 13:33:30 UTC</a></sub>
-* [Firefly wins second NASA CLPS mission](https://spacenews.com/firefly-wins-second-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T095104">2023-03-15 09:51:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T213055">2023-03-15 21:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T220103">2023-03-15 22:01:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
