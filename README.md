@@ -189,6 +189,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NanoAvionics to build three more IoT satellites for OQ Technology](https://spacenews.com/nanoavionics-to-build-three-more-iot-satellites-for-oq-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T210840">2023-03-15 21:08:40 UTC</a></sub>
 * [Official Lunar Time Zone Coming Soon](https://tlpnetwork.com/news/2023/03/official-lunar-time-zone-coming-soon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T191600">2023-03-15 19:16:00 UTC</a></sub>
 * [Engineers Keep an Eye on Fuel Supply of NASA's Oldest Mars Orbiter](https://mars.nasa.gov/news/9365/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T183500">2023-03-15 18:35:00 UTC</a></sub>
 * [Goonhilly Announces US Sat Comm Network Expansion](https://tlpnetwork.com/news/2023/03/goonhilly-announces-us-sat-comm-network-expansion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T171200">2023-03-15 17:12:00 UTC</a></sub>
@@ -198,7 +199,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Artemis 3 Spacesuit Revealed By NASA and Axiom Space](https://tlpnetwork.com/news/2023/03/artemis-3-spacesuit-revealed-nasa-and-axiom-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T143600">2023-03-15 14:36:00 UTC</a></sub>
 * [Space Force: We expect to see ‘interfering, blinding’ of satellites during conflict](https://spacenews.com/space-force-we-expect-to-see-interfering-blinding-of-satellites-during-conflict/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T133330">2023-03-15 13:33:30 UTC</a></sub>
 * [Firefly wins second NASA CLPS mission](https://spacenews.com/firefly-wins-second-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T095104">2023-03-15 09:51:04 UTC</a></sub>
-* [SpaceX launches 27th cargo mission to ISS](https://spacenews.com/spacex-launches-27th-cargo-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T081155">2023-03-15 08:11:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T210048">2023-03-15 21:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T213055">2023-03-15 21:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
