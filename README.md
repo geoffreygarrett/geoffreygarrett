@@ -189,6 +189,8 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Voyager Space acquires ZIN Technologies to support Starlab development](https://spacenews.com/voyager-space-acquires-zin-technologies-to-support-starlab-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T224044">2023-03-15 22:40:44 UTC</a></sub>
+* [DEVELOPING STORY: Virgin Orbit Pauses Operations, Furloughs Staff, Seeks Funding](https://tlpnetwork.com/news/2023/03/virgin-orbit-pauses-operations-furloughs-staff-seeks-funding) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T215000">2023-03-15 21:50:00 UTC</a></sub>
 * [NASA Mars Odyssey Orbiter Fuel Supply Running Low](https://tlpnetwork.com/news/2023/03/nasa-mars-odyssey-orbiter-fuel-supply-running-low) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T214600">2023-03-15 21:46:00 UTC</a></sub>
 * [Virgin Orbit pauses operations for a week, furloughs nearly entire staff as it seeks funding](https://www.cnbc.com/2023/03/15/virgin-orbit-pauses-operations-furloughs-staff.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T213038">2023-03-15 21:30:38 UTC</a></sub>
 * [NanoAvionics to build three more IoT satellites for OQ Technology](https://spacenews.com/nanoavionics-to-build-three-more-iot-satellites-for-oq-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T210840">2023-03-15 21:08:40 UTC</a></sub>
@@ -197,8 +199,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Goonhilly Announces US Sat Comm Network Expansion](https://tlpnetwork.com/news/2023/03/goonhilly-announces-us-sat-comm-network-expansion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T171200">2023-03-15 17:12:00 UTC</a></sub>
 * [Quadsat raises $9.6 million for antenna-testing drones](https://spacenews.com/quadsat-raises-9-6-million-for-antenna-testing-drones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T165642">2023-03-15 16:56:42 UTC</a></sub>
 * [Axiom unveils spacesuits for NASA’s upcoming Artemis moon missions](https://www.cnbc.com/2023/03/15/axiom-spacesuits-nasa-artemis-missions.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T164230">2023-03-15 16:42:30 UTC</a></sub>
-* [China launches classified Shiyan-19 test satellite from the Gobi Desert](https://spacenews.com/china-launches-classified-shiyan-19-test-satellite-from-gobi-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T151414">2023-03-15 15:14:14 UTC</a></sub>
-* [Artemis 3 Spacesuit Revealed By NASA and Axiom Space](https://tlpnetwork.com/news/2023/03/artemis-3-spacesuit-revealed-nasa-and-axiom-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T143600">2023-03-15 14:36:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T223047">2023-03-15 22:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T230044">2023-03-15 23:00:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
