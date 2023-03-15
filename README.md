@@ -189,6 +189,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Goonhilly Announces US Sat Comm Network Expansion](https://tlpnetwork.com/news/2023/03/goonhilly-announces-us-sat-comm-network-expansion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T171200">2023-03-15 17:12:00 UTC</a></sub>
 * [Quadsat raises $9.6 million for antenna-testing drones](https://spacenews.com/quadsat-raises-9-6-million-for-antenna-testing-drones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T165642">2023-03-15 16:56:42 UTC</a></sub>
 * [Axiom unveils spacesuits for NASA’s upcoming Artemis moon missions](https://www.cnbc.com/2023/03/15/axiom-spacesuits-nasa-artemis-missions.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T164230">2023-03-15 16:42:30 UTC</a></sub>
 * [China launches classified Shiyan-19 test satellite from the Gobi Desert](https://spacenews.com/china-launches-classified-shiyan-19-test-satellite-from-gobi-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T151414">2023-03-15 15:14:14 UTC</a></sub>
@@ -198,7 +199,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [SpaceX launches 27th cargo mission to ISS](https://spacenews.com/spacex-launches-27th-cargo-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T081155">2023-03-15 08:11:55 UTC</a></sub>
 * [SpaceX Launches Science and Supplies To Space Station](https://tlpnetwork.com/news/2023/03/spacex-launches-crs-27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T025900">2023-03-15 02:59:00 UTC</a></sub>
 * [Amazon unveils satellite receivers for Starlink competitor, ‘Project Kuiper’](https://www.teslarati.com/amazon-unveils-starlink-competitor-project-kuiper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T205534">2023-03-14 20:55:34 UTC</a></sub>
-* [Amazon Reveals Project Kuiper Commercial Satellite Terminals](https://tlpnetwork.com/news/2023/03/amazon-reveals-project-kuiper-commercial-satellite-terminals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T205300">2023-03-14 20:53:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -209,6 +209,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Scientists spot possible signs of active volcanism on Venus](https://www.planetary.org/articles/possible-active-volcanism-on-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T180530">2023-03-15 18:05:30 UTC</a></sub>
 * [The secrets of Jupiter’s tiny new moons](https://www.planetary.org/articles/secrets-of-jupiters-new-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T140534">2023-03-14 14:05:34 UTC</a></sub>
 * [NASA's FY 2024 Budget](https://www.planetary.org/space-policy/nasas-fy-2024-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T171544">2023-03-13 17:15:44 UTC</a></sub>
 * [Spectacularly crepuscular!](https://www.planetary.org/the-downlink/spectacularly-crepuscular) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T153535">2023-03-10 15:35:35 UTC</a></sub>
@@ -218,7 +219,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Harnessing the power of the crowd](https://www.planetary.org/articles/harnessing-the-power-of-the-crowd) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T152531">2023-03-06 15:25:31 UTC</a></sub>
 * [The future of solar sailing](https://www.planetary.org/articles/the-future-of-solar-sailing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T152529">2023-03-06 15:25:29 UTC</a></sub>
 * [Never let a rock sneak up on you](https://www.planetary.org/the-downlink/never-let-a-rock-sneak-up-on-you) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T153535">2023-03-03 15:35:35 UTC</a></sub>
-* [The coolest new space pictures: February 2023](https://www.planetary.org/worlds/coolest-space-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T153529">2023-02-28 15:35:29 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T180058">2023-03-15 18:00:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T183306">2023-03-15 18:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
