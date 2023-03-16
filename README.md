@@ -188,16 +188,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA selects Axiom Space for third private astronaut mission to ISS](https://spacenews.com/nasa-selects-axiom-space-for-third-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T223830">2023-03-16 22:38:30 UTC</a></sub>
+* [DoD seeking seamless military-commercial satellite communications](https://spacenews.com/dod-seeking-seamless-military-commercial-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T223301">2023-03-16 22:33:01 UTC</a></sub>
+* [Rocket Lab launches pair of Capella satellites from Wallops](https://www.nasaspaceflight.com/2023/03/stronger-together/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T220113">2023-03-16 22:01:13 UTC</a></sub>
 * [Astra Requests NASDAQ Extension, Considers Reverse Stock Split To Avoid Delisting](https://tlpnetwork.com/news/2023/03/astra-requests-nasdaq-compliance-extension-to-avoid-delisting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T203200">2023-03-16 20:32:00 UTC</a></sub>
 * [Astra outlines its plan to avoid Nasdaq delisting, including possible reverse stock split](https://www.cnbc.com/2023/03/16/astra-plan-to-avoid-nasdaq-stock-delisting.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T202538">2023-03-16 20:25:38 UTC</a></sub>
 * [NASA Selects 21 New Learning Projects to Engage Students in STEM](http://www.nasa.gov/press-release/nasa-selects-21-new-learning-projects-to-engage-students-in-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T200500">2023-03-16 20:05:00 UTC</a></sub>
 * [NASA AIM Earth Orbiter Mission Ends Following Battery Issues](https://tlpnetwork.com/news/2023/03/nasa-aim-earth-orbiter-mission-ends-following-battery-issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T184300">2023-03-16 18:43:00 UTC</a></sub>
 * [NASA Awards Advance 3D Printing, Quantum Tech for Climate Research](http://www.nasa.gov/press-release/nasa-awards-advance-3d-printing-quantum-tech-for-climate-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T180500">2023-03-16 18:05:00 UTC</a></sub>
-* [Rocket Lab to launch pair of Capella satellites from Wallops](https://www.nasaspaceflight.com/2023/03/stronger-together/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T180113">2023-03-16 18:01:13 UTC</a></sub>
 * [NASA Awardees to Develop Sustainable Aviation Composite Tech](http://www.nasa.gov/press-release/nasa-awardees-to-develop-sustainable-aviation-composite-tech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T173500">2023-03-16 17:35:00 UTC</a></sub>
 * [Investing in Space: Don’t panic](https://www.cnbc.com/2023/03/16/investing-in-space-dont-panic.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T151756">2023-03-16 15:17:56 UTC</a></sub>
-* [LEO constellations are starting to disrupt GEO capacity contracts](https://spacenews.com/leo-constellations-are-starting-to-disrupt-geo-capacity-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T151111">2023-03-16 15:11:11 UTC</a></sub>
-* [SpaceX supply ship docks at International Space Station](https://spaceflightnow.com/2023/03/16/dragon-crs-27-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T125517">2023-03-16 12:55:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T230044">2023-03-16 23:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T233049">2023-03-16 23:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
