@@ -191,6 +191,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA AIM Earth Orbiter Mission Ends Following Battery Issues](https://tlpnetwork.com/news/2023/03/nasa-aim-earth-orbiter-mission-ends-following-battery-issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T184300">2023-03-16 18:43:00 UTC</a></sub>
 * [NASA Awards Advance 3D Printing, Quantum Tech for Climate Research](http://www.nasa.gov/press-release/nasa-awards-advance-3d-printing-quantum-tech-for-climate-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T180500">2023-03-16 18:05:00 UTC</a></sub>
 * [Rocket Lab to launch pair of Capella satellites from Wallops](https://www.nasaspaceflight.com/2023/03/stronger-together/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T180113">2023-03-16 18:01:13 UTC</a></sub>
 * [NASA Awardees to Develop Sustainable Aviation Composite Tech](http://www.nasa.gov/press-release/nasa-awardees-to-develop-sustainable-aviation-composite-tech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T173500">2023-03-16 17:35:00 UTC</a></sub>
@@ -200,7 +201,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Axiom Space reveals design of Artemis spacesuit](https://spacenews.com/axiom-space-reveals-design-of-artemis-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T114105">2023-03-16 11:41:05 UTC</a></sub>
 * [Northrop Grumman, IHI team up to bolster Japan’s space domain awareness capabilities](https://spacenews.com/146960-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T110200">2023-03-16 11:02:00 UTC</a></sub>
 * [Watch live: SpaceX supply ship approaching space station for docking](https://spaceflightnow.com/2023/03/16/watch-live-spacex-supply-ship-approaching-space-station-for-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T103517">2023-03-16 10:35:17 UTC</a></sub>
-* [Cargo Dragon CRS-27 docks with ISS](https://www.nasaspaceflight.com/2023/03/spacex-crs-27/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T052153">2023-03-16 05:21:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T190045">2023-03-16 19:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T193047">2023-03-16 19:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
