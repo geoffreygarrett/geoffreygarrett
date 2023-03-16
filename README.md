@@ -211,6 +211,8 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [NASA’s 2024 budget proposal is pretty good, but it faces political headwinds](https://www.planetary.org/articles/nasas-2024-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T163534">2023-03-16 16:35:34 UTC</a></sub>
+* [The Planetary Society is co-hosting “Asteroid Hunters” screening in Vienna](https://www.planetary.org/the-planetary-society-is-co-hosting-asteroid-hunters-screening-in-vienna) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T155533">2023-03-16 15:55:33 UTC</a></sub>
 * [Scientists spot possible signs of active volcanism on Venus](https://www.planetary.org/articles/possible-active-volcanism-on-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T180530">2023-03-15 18:05:30 UTC</a></sub>
 * [The secrets of Jupiter’s tiny new moons](https://www.planetary.org/articles/secrets-of-jupiters-new-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T140534">2023-03-14 14:05:34 UTC</a></sub>
 * [NASA's FY 2024 Budget](https://www.planetary.org/space-policy/nasas-fy-2024-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T171544">2023-03-13 17:15:44 UTC</a></sub>
@@ -219,8 +221,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Welcome to your member community!](https://www.planetary.org/articles/welcome-to-your-member-community) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T170534">2023-03-08 17:05:34 UTC</a></sub>
 * [Your impact: March equinox 2023](https://www.planetary.org/articles/your-impact-march-equinox-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T153531">2023-03-06 15:35:31 UTC</a></sub>
 * [Harnessing the power of the crowd](https://www.planetary.org/articles/harnessing-the-power-of-the-crowd) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T152531">2023-03-06 15:25:31 UTC</a></sub>
-* [The future of solar sailing](https://www.planetary.org/articles/the-future-of-solar-sailing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T152529">2023-03-06 15:25:29 UTC</a></sub>
-* [Never let a rock sneak up on you](https://www.planetary.org/the-downlink/never-let-a-rock-sneak-up-on-you) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T153535">2023-03-03 15:35:35 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -233,7 +233,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T160053">2023-03-16 16:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T163807">2023-03-16 16:38:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
