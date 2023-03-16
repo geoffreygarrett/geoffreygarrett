@@ -102,28 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Electron | Stronger Together at the
-<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a> in
-Wallops Island, Virginia, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T220000">2023-03-16 22:00:00 UTC</a>. Until
-then, this launch pad will have seen 1
-out of 74 launches in this
+Long March 3B/E | ChinaSat 6E (?) at the
+<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a> in
+Xichang Satellite Launch Center, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T082300">2023-03-17 08:23:00 UTC</a>. Until
+then, this launch pad will have seen 70
+out of 185 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Payload consists of 2 Synthetic Aperture Radar (SAR) satellites for Capella Space.
-
-These 100-kg class satellites will expand Capella’s existing SAR constellation, increasing imaging capacity to meet growing customer demand.
+  Geostationary communication satellite in the C- and Ku-bands for China SatCom, based on the DFH-4E satellite bus. Satellite will replace ChinaSat 6B launched in 2007.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="None" >
+  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -136,7 +134,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Stronger Together</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T220000">2023-03-16 22:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Stronger Together&location=Wallops Island, Virginia, USA&dates=20230316T220000Z%2F20230317T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>ChinaSat 6E</b> from Xichang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T082300">2023-03-17 08:23:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | ChinaSat 6E (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20230317T082300Z%2F20230317T091800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-8</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T192100">2023-03-17 19:21:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-8&location=Vandenberg SFB, CA, USA&dates=20230317T192100Z%2F20230317T231900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SES-18 & SES-19</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T233800">2023-03-17 23:38:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-18 &amp; SES-19&location=Cape Canaveral, FL, USA&dates=20230317T233800Z%2F20230318T001600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -191,7 +188,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Astra Requests NASDAQ Compliance Extension To Avoid Delisting](https://tlpnetwork.com/news/2023/03/astra-requests-nasdaq-compliance-extension-to-avoid-delisting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T203200">2023-03-16 20:32:00 UTC</a></sub>
+* [Astra Requests NASDAQ Extension, Considers Reverse Stock Split To Avoid Delisting](https://tlpnetwork.com/news/2023/03/astra-requests-nasdaq-compliance-extension-to-avoid-delisting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T203200">2023-03-16 20:32:00 UTC</a></sub>
 * [Astra outlines its plan to avoid Nasdaq delisting, including possible reverse stock split](https://www.cnbc.com/2023/03/16/astra-plan-to-avoid-nasdaq-stock-delisting.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T202538">2023-03-16 20:25:38 UTC</a></sub>
 * [NASA Selects 21 New Learning Projects to Engage Students in STEM](http://www.nasa.gov/press-release/nasa-selects-21-new-learning-projects-to-engage-students-in-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T200500">2023-03-16 20:05:00 UTC</a></sub>
 * [NASA AIM Earth Orbiter Mission Ends Following Battery Issues](https://tlpnetwork.com/news/2023/03/nasa-aim-earth-orbiter-mission-ends-following-battery-issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T184300">2023-03-16 18:43:00 UTC</a></sub>
@@ -233,7 +230,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T213047">2023-03-16 21:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T220052">2023-03-16 22:00:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
