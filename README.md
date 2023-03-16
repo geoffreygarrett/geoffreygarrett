@@ -191,7 +191,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Watch live: SpaceX supply ship docks at International Space Station](https://spaceflightnow.com/2023/03/16/dragon-crs-27-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T114528">2023-03-16 11:45:28 UTC</a></sub>
+* [SpaceX supply ship docks at International Space Station](https://spaceflightnow.com/2023/03/16/dragon-crs-27-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T125517">2023-03-16 12:55:17 UTC</a></sub>
 * [Axiom Space reveals design of Artemis spacesuit](https://spacenews.com/axiom-space-reveals-design-of-artemis-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T114105">2023-03-16 11:41:05 UTC</a></sub>
 * [Northrop Grumman, IHI team up to bolster Japan’s space domain awareness capabilities](https://spacenews.com/146960-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T110200">2023-03-16 11:02:00 UTC</a></sub>
 * [Watch live: SpaceX supply ship approaching space station for docking](https://spaceflightnow.com/2023/03/16/watch-live-spacex-supply-ship-approaching-space-station-for-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T103517">2023-03-16 10:35:17 UTC</a></sub>
@@ -233,7 +233,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T130530">2023-03-16 13:05:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T133624">2023-03-16 13:36:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
