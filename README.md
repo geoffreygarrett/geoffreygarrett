@@ -191,6 +191,8 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Don’t panic](https://www.cnbc.com/2023/03/16/investing-in-space-dont-panic.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T151756">2023-03-16 15:17:56 UTC</a></sub>
+* [LEO constellations are starting to disrupt GEO capacity contracts](https://spacenews.com/leo-constellations-are-starting-to-disrupt-geo-capacity-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T151111">2023-03-16 15:11:11 UTC</a></sub>
 * [SpaceX supply ship docks at International Space Station](https://spaceflightnow.com/2023/03/16/dragon-crs-27-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T125517">2023-03-16 12:55:17 UTC</a></sub>
 * [Axiom Space reveals design of Artemis spacesuit](https://spacenews.com/axiom-space-reveals-design-of-artemis-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T114105">2023-03-16 11:41:05 UTC</a></sub>
 * [Northrop Grumman, IHI team up to bolster Japan’s space domain awareness capabilities](https://spacenews.com/146960-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T110200">2023-03-16 11:02:00 UTC</a></sub>
@@ -199,8 +201,6 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 * [Benchmark signs contracts for metal plasma thrusters](https://spacenews.com/benchmark-signs-contracts-for-metal-plasma-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T020047">2023-03-16 02:00:47 UTC</a></sub>
 * [Virgin Orbit pauses operations](https://spacenews.com/virgin-orbit-pauses-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T230021">2023-03-15 23:00:21 UTC</a></sub>
 * [Voyager Space acquires ZIN Technologies to support Starlab development](https://spacenews.com/voyager-space-acquires-zin-technologies-to-support-starlab-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T224044">2023-03-15 22:40:44 UTC</a></sub>
-* [DEVELOPING STORY: Virgin Orbit Pauses Operations, Furloughs Staff, Seeks Funding](https://tlpnetwork.com/news/2023/03/virgin-orbit-pauses-operations-furloughs-staff-seeks-funding) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T215000">2023-03-15 21:50:00 UTC</a></sub>
-* [NASA Mars Odyssey Orbiter Fuel Supply Running Low](https://tlpnetwork.com/news/2023/03/nasa-mars-odyssey-orbiter-fuel-supply-running-low) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T214600">2023-03-15 21:46:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T150049">2023-03-16 15:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T153229">2023-03-16 15:32:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
