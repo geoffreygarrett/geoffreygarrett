@@ -187,6 +187,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: SpaceX counting down to sunset launch from Cape Canaveral](https://spaceflightnow.com/2023/03/17/falcon-9-ses-18-19-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T162517">2023-03-17 16:25:17 UTC</a></sub>
 * [Arianespace wins Vega contract for Italian imaging satellite constellation](https://spacenews.com/arianespace-wins-vega-contract-for-italian-imaging-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T121234">2023-03-17 12:12:34 UTC</a></sub>
 * [China launches second classified Gaofen-13 remote sensing satellite](https://spacenews.com/china-launches-second-classified-gaofen-13-remote-sensing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T115752">2023-03-17 11:57:52 UTC</a></sub>
 * [Electron launches two Capella Space radar satellites](https://spacenews.com/electron-launches-two-capella-space-radar-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T234650">2023-03-16 23:46:50 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently Go for Launch
 * [Astra Requests NASDAQ Extension, Considers Reverse Stock Split To Avoid Delisting](https://tlpnetwork.com/news/2023/03/astra-requests-nasdaq-compliance-extension-to-avoid-delisting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T203200">2023-03-16 20:32:00 UTC</a></sub>
 * [Astra outlines its plan to avoid Nasdaq delisting, including possible reverse stock split](https://www.cnbc.com/2023/03/16/astra-plan-to-avoid-nasdaq-stock-delisting.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T202538">2023-03-16 20:25:38 UTC</a></sub>
 * [NASA Selects 21 New Learning Projects to Engage Students in STEM](http://www.nasa.gov/press-release/nasa-selects-21-new-learning-projects-to-engage-students-in-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T200500">2023-03-16 20:05:00 UTC</a></sub>
-* [NASA AIM Earth Orbiter Mission Ends Following Battery Issues](https://tlpnetwork.com/news/2023/03/nasa-aim-earth-orbiter-mission-ends-following-battery-issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T184300">2023-03-16 18:43:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T160117">2023-03-17 16:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T163620">2023-03-17 16:36:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
