@@ -188,6 +188,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches final two satellites in SES C-band clearing plan](https://spacenews.com/spacex-launches-final-two-satellites-in-ses-c-band-clearing-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T013248">2023-03-18 01:32:48 UTC</a></sub>
 * [NASA weighing continuing VERITAS versus future Discovery mission](https://spacenews.com/nasa-weighing-continuing-veritas-versus-future-discovery-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T233301">2023-03-17 23:33:01 UTC</a></sub>
 * [Intelsat buys capacity on Hispasat’s Amazonas Nexus satellite](https://spacenews.com/intelsat-buys-capacity-on-hispasats-amazonas-nexus-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T221541">2023-03-17 22:15:41 UTC</a></sub>
 * [FCC unveils proposed satellite direct-to-device regulatory framework](https://spacenews.com/fcc-unveils-proposed-satellite-direct-to-device-regulatory-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T205617">2023-03-17 20:56:17 UTC</a></sub>
@@ -197,7 +198,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [China launches second classified Gaofen-13 remote sensing satellite](https://spacenews.com/china-launches-second-classified-gaofen-13-remote-sensing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T115752">2023-03-17 11:57:52 UTC</a></sub>
 * [SpaceX launches Falcon 9 rocket from Cape Canaveral at sunset](https://spaceflightnow.com/2023/03/17/falcon-9-ses-18-19-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T003518">2023-03-17 00:35:18 UTC</a></sub>
 * [Electron launches two Capella Space radar satellites](https://spacenews.com/electron-launches-two-capella-space-radar-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T234650">2023-03-16 23:46:50 UTC</a></sub>
-* [NASA selects Axiom Space for third private astronaut mission to ISS](https://spacenews.com/nasa-selects-axiom-space-for-third-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T223830">2023-03-16 22:38:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T012725">2023-03-18 01:27:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T015757">2023-03-18 01:57:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
