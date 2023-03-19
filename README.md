@@ -145,6 +145,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 6-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T000000">2023-03-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-2&location=Cape Canaveral, FL, USA&dates=20230330T000000Z%2F20230330T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Intelsat 40e</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T053000">2023-04-07 05:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Intelsat 40e&location=Cape Canaveral, FL, USA&dates=20230407T053000Z%2F20230407T053000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>ViaSat-3 Americas</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230408T222500">2023-04-08 22:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230408T222500Z%2F20230408T222500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>JUICE (JUpiter ICy moons Explorer)</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T121500">2023-04-13 12:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)&location=Kourou, French Guiana&dates=20230413T121500Z%2F20230413T121500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -190,6 +191,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Mars Sample Return cost growth threatens other science missions](https://spacenews.com/mars-sample-return-cost-growth-threatens-other-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T235443">2023-03-18 23:54:43 UTC</a></sub>
 * [Satellogic sells Earth-imagery satellites](https://spacenews.com/satellogic-sells-earth-imagery-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T204121">2023-03-18 20:41:21 UTC</a></sub>
 * [Rolls-Royce Collaborates with UK Space Agency to Develop Lunar Nuclear Reactor](https://tlpnetwork.com/news/2023/03/rolls-royce-uksa-lunar-nuclear-reactor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T173700">2023-03-18 17:37:00 UTC</a></sub>
 * [SpaceX launches final two satellites in SES C-band clearing plan](https://spacenews.com/spacex-launches-final-two-satellites-in-ses-c-band-clearing-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T013248">2023-03-18 01:32:48 UTC</a></sub>
@@ -199,7 +201,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [ULA Completes Vulcan Tanking Test, WDR Next](https://tlpnetwork.com/news/2023/03/ula-completes-vulcan-tanking-test-wdr-next) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T182700">2023-03-17 18:27:00 UTC</a></sub>
 * [SpaceX conducts doubleheader with Starlink mission followed by launch for SES](https://www.nasaspaceflight.com/2023/03/spacex-starlink-ses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T175214">2023-03-17 17:52:14 UTC</a></sub>
 * [Arianespace wins Vega contract for Italian imaging satellite constellation](https://spacenews.com/arianespace-wins-vega-contract-for-italian-imaging-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T121234">2023-03-17 12:12:34 UTC</a></sub>
-* [China launches second classified Gaofen-13 remote sensing satellite](https://spacenews.com/china-launches-second-classified-gaofen-13-remote-sensing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T115752">2023-03-17 11:57:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -232,7 +233,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T233052">2023-03-18 23:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230319T000156">2023-03-19 00:01:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
