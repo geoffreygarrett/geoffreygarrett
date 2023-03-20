@@ -191,6 +191,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ATL Partners forms new holding company focused on space and air sensors](https://spacenews.com/atl-partners-forms-new-holding-company-focused-on-space-and-air-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T100500">2023-03-20 10:05:00 UTC</a></sub>
 * [Space industry deals with launch shortage](https://spacenews.com/space-industry-deals-with-launch-shortage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T003629">2023-03-20 00:36:29 UTC</a></sub>
 * [NASA's SWOT Spacecraft Resumes Operations After Primary Instrument Shutdown](https://tlpnetwork.com/news/2023/03/swot-returns-to-commissioning-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T001300">2023-03-20 00:13:00 UTC</a></sub>
 * [Mars Sample Return cost growth threatens other science missions](https://spacenews.com/mars-sample-return-cost-growth-threatens-other-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T235443">2023-03-18 23:54:43 UTC</a></sub>
@@ -200,7 +201,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [NASA weighing continuing VERITAS versus future Discovery mission](https://spacenews.com/nasa-weighing-continuing-veritas-versus-future-discovery-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T233301">2023-03-17 23:33:01 UTC</a></sub>
 * [Intelsat buys capacity on Hispasat’s Amazonas Nexus satellite](https://spacenews.com/intelsat-buys-capacity-on-hispasats-amazonas-nexus-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T221541">2023-03-17 22:15:41 UTC</a></sub>
 * [FCC unveils proposed satellite direct-to-device regulatory framework](https://spacenews.com/fcc-unveils-proposed-satellite-direct-to-device-regulatory-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T205617">2023-03-17 20:56:17 UTC</a></sub>
-* [ULA Completes Vulcan Tanking Test, WDR Next](https://tlpnetwork.com/news/2023/03/ula-completes-vulcan-tanking-test-wdr-next) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T182700">2023-03-17 18:27:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T110050">2023-03-20 11:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T113051">2023-03-20 11:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
