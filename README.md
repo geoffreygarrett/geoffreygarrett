@@ -191,6 +191,8 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [GMV partnership to bring revolutionary precise positioning services to Australia and New Zealand](https://spacenews.com/gmv-partnership-to-bring-revolutionary-precise-positioning-services-to-australia-and-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T204648">2023-03-20 20:46:48 UTC</a></sub>
+* [NASA Awards Grants to Support Research, Technology Development](http://www.nasa.gov/press-release/nasa-awards-grants-to-support-research-technology-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T200500">2023-03-20 20:05:00 UTC</a></sub>
 * [Mars exploration and the debate about planetary protection](https://spacenews.com/mars-exploration-and-the-debate-about-planetary-protection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T171153">2023-03-20 17:11:53 UTC</a></sub>
 * [Virgin Orbit scrambles to avoid bankruptcy as deal talks continue](https://www.cnbc.com/2023/03/20/virgin-orbit-looming-bankruptcy-deal-talks.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T160802">2023-03-20 16:08:02 UTC</a></sub>
 * [As launch approaches, JUICE project manager discusses trajectories and science](https://www.nasaspaceflight.com/2023/03/juice-project-manager/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T151303">2023-03-20 15:13:03 UTC</a></sub>
@@ -199,8 +201,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [ATL Partners forms new holding company focused on space and air sensors](https://spacenews.com/atl-partners-forms-new-holding-company-focused-on-space-and-air-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T100500">2023-03-20 10:05:00 UTC</a></sub>
 * [Space industry deals with launch shortage](https://spacenews.com/space-industry-deals-with-launch-shortage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T003629">2023-03-20 00:36:29 UTC</a></sub>
 * [NASA's SWOT Spacecraft Resumes Operations After Primary Instrument Shutdown](https://tlpnetwork.com/news/2023/03/swot-returns-to-commissioning-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T001300">2023-03-20 00:13:00 UTC</a></sub>
-* [Mars Sample Return cost growth threatens other science missions](https://spacenews.com/mars-sample-return-cost-growth-threatens-other-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T235443">2023-03-18 23:54:43 UTC</a></sub>
-* [Satellogic sells Earth-imagery satellites](https://spacenews.com/satellogic-sells-earth-imagery-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T204121">2023-03-18 20:41:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T203049">2023-03-20 20:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T210112">2023-03-20 21:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
