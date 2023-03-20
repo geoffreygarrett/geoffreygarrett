@@ -191,6 +191,8 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arkisys and partners   to show how they would build a satellite in orbit](https://spacenews.com/arkisys-and-partners-show-how-they-would-build-a-satellite-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T140328">2023-03-20 14:03:28 UTC</a></sub>
+* [The SpaceX steamroller has shifted into a higher gear this year](https://arstechnica.com/science/2023/03/the-spacex-steamroller-has-shifted-into-a-higher-gear-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T134055">2023-03-20 13:40:55 UTC</a></sub>
 * [ATL Partners forms new holding company focused on space and air sensors](https://spacenews.com/atl-partners-forms-new-holding-company-focused-on-space-and-air-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T100500">2023-03-20 10:05:00 UTC</a></sub>
 * [Space industry deals with launch shortage](https://spacenews.com/space-industry-deals-with-launch-shortage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T003629">2023-03-20 00:36:29 UTC</a></sub>
 * [NASA's SWOT Spacecraft Resumes Operations After Primary Instrument Shutdown](https://tlpnetwork.com/news/2023/03/swot-returns-to-commissioning-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T001300">2023-03-20 00:13:00 UTC</a></sub>
@@ -199,8 +201,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [Rolls-Royce Collaborates with UK Space Agency to Develop Lunar Nuclear Reactor](https://tlpnetwork.com/news/2023/03/rolls-royce-uksa-lunar-nuclear-reactor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T173700">2023-03-18 17:37:00 UTC</a></sub>
 * [SpaceX launches final two satellites in SES C-band clearing plan](https://spacenews.com/spacex-launches-final-two-satellites-in-ses-c-band-clearing-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T013248">2023-03-18 01:32:48 UTC</a></sub>
 * [NASA weighing continuing VERITAS versus future Discovery mission](https://spacenews.com/nasa-weighing-continuing-veritas-versus-future-discovery-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T233301">2023-03-17 23:33:01 UTC</a></sub>
-* [Intelsat buys capacity on Hispasat’s Amazonas Nexus satellite](https://spacenews.com/intelsat-buys-capacity-on-hispasats-amazonas-nexus-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T221541">2023-03-17 22:15:41 UTC</a></sub>
-* [FCC unveils proposed satellite direct-to-device regulatory framework](https://spacenews.com/fcc-unveils-proposed-satellite-direct-to-device-regulatory-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T205617">2023-03-17 20:56:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T140053">2023-03-20 14:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T143255">2023-03-20 14:32:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
