@@ -191,6 +191,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Mars exploration and the debate about planetary protection](https://spacenews.com/mars-exploration-and-the-debate-about-planetary-protection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T171153">2023-03-20 17:11:53 UTC</a></sub>
 * [Virgin Orbit scrambles to avoid bankruptcy as deal talks continue](https://www.cnbc.com/2023/03/20/virgin-orbit-looming-bankruptcy-deal-talks.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T160802">2023-03-20 16:08:02 UTC</a></sub>
 * [As launch approaches, JUICE project manager discusses trajectories and science](https://www.nasaspaceflight.com/2023/03/juice-project-manager/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T151303">2023-03-20 15:13:03 UTC</a></sub>
 * [Arkisys and partners   to show how they would build a satellite in orbit](https://spacenews.com/arkisys-and-partners-show-how-they-would-build-a-satellite-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T140328">2023-03-20 14:03:28 UTC</a></sub>
@@ -200,7 +201,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [NASA's SWOT Spacecraft Resumes Operations After Primary Instrument Shutdown](https://tlpnetwork.com/news/2023/03/swot-returns-to-commissioning-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T001300">2023-03-20 00:13:00 UTC</a></sub>
 * [Mars Sample Return cost growth threatens other science missions](https://spacenews.com/mars-sample-return-cost-growth-threatens-other-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T235443">2023-03-18 23:54:43 UTC</a></sub>
 * [Satellogic sells Earth-imagery satellites](https://spacenews.com/satellogic-sells-earth-imagery-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T204121">2023-03-18 20:41:21 UTC</a></sub>
-* [Rolls-Royce Collaborates with UK Space Agency to Develop Lunar Nuclear Reactor](https://tlpnetwork.com/news/2023/03/rolls-royce-uksa-lunar-nuclear-reactor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T173700">2023-03-18 17:37:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T170048">2023-03-20 17:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T173054">2023-03-20 17:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
