@@ -191,6 +191,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [As launch approaches, JUICE project manager discusses trajectories and science](https://www.nasaspaceflight.com/2023/03/juice-project-manager/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T151303">2023-03-20 15:13:03 UTC</a></sub>
 * [Arkisys and partners   to show how they would build a satellite in orbit](https://spacenews.com/arkisys-and-partners-show-how-they-would-build-a-satellite-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T140328">2023-03-20 14:03:28 UTC</a></sub>
 * [The SpaceX steamroller has shifted into a higher gear this year](https://arstechnica.com/science/2023/03/the-spacex-steamroller-has-shifted-into-a-higher-gear-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T134055">2023-03-20 13:40:55 UTC</a></sub>
 * [ATL Partners forms new holding company focused on space and air sensors](https://spacenews.com/atl-partners-forms-new-holding-company-focused-on-space-and-air-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T100500">2023-03-20 10:05:00 UTC</a></sub>
@@ -200,7 +201,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [Satellogic sells Earth-imagery satellites](https://spacenews.com/satellogic-sells-earth-imagery-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T204121">2023-03-18 20:41:21 UTC</a></sub>
 * [Rolls-Royce Collaborates with UK Space Agency to Develop Lunar Nuclear Reactor](https://tlpnetwork.com/news/2023/03/rolls-royce-uksa-lunar-nuclear-reactor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T173700">2023-03-18 17:37:00 UTC</a></sub>
 * [SpaceX launches final two satellites in SES C-band clearing plan](https://spacenews.com/spacex-launches-final-two-satellites-in-ses-c-band-clearing-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T013248">2023-03-18 01:32:48 UTC</a></sub>
-* [NASA weighing continuing VERITAS versus future Discovery mission](https://spacenews.com/nasa-weighing-continuing-veritas-versus-future-discovery-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T233301">2023-03-17 23:33:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T150106">2023-03-20 15:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T153256">2023-03-20 15:32:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
