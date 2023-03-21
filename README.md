@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Industry sees missed opportunity in deorbiting ISS](https://spacenews.com/industry-sees-missed-opportunity-in-deorbiting-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T035643">2023-03-21 03:56:43 UTC</a></sub>
 * [TLP Network Announces First Mission To Lunar Surface](https://tlpnetwork.com/news/2023/03/tlpnetwork-announces-first-mission-to-the-lunar-surface) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T234500">2023-03-20 23:45:00 UTC</a></sub>
 * [U.S. Space Force budget includes $60 million for ‘tactically responsive space’](https://spacenews.com/u-s-space-force-budget-includes-60-million-for-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T220521">2023-03-20 22:05:21 UTC</a></sub>
 * [GMV partnership to bring revolutionary precise positioning services to Australia and New Zealand](https://spacenews.com/gmv-partnership-to-bring-revolutionary-precise-positioning-services-to-australia-and-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T204648">2023-03-20 20:46:48 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [As launch approaches, JUICE project manager discusses trajectories and science](https://www.nasaspaceflight.com/2023/03/juice-project-manager/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T151303">2023-03-20 15:13:03 UTC</a></sub>
 * [Arkisys and partners   to show how they would build a satellite in orbit](https://spacenews.com/arkisys-and-partners-show-how-they-would-build-a-satellite-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T140328">2023-03-20 14:03:28 UTC</a></sub>
 * [The SpaceX steamroller has shifted into a higher gear this year](https://arstechnica.com/science/2023/03/the-spacex-steamroller-has-shifted-into-a-higher-gear-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T134055">2023-03-20 13:40:55 UTC</a></sub>
-* [ATL Partners forms new holding company focused on space and air sensors](https://spacenews.com/atl-partners-forms-new-holding-company-focused-on-space-and-air-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T100500">2023-03-20 10:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T040106">2023-03-21 04:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T043207">2023-03-21 04:32:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
