@@ -191,6 +191,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ispace's HAKUTO-R M1 Lunar Lander Successfully Enters Moon Orbit](https://tlpnetwork.com/news/2023/03/hokuto-r-m1-enters-lunar-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T143700">2023-03-21 14:37:00 UTC</a></sub>
 * [South Korea’s Innospace succeeds in test launch](https://spacenews.com/south-koreas-innospace-succeeds-in-test-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T135030">2023-03-21 13:50:30 UTC</a></sub>
 * [Kazakhstan’s seizure of Russian space assets threatens the Soyuz-5 rocket](https://arstechnica.com/science/2023/03/kazakhstans-seizure-of-russian-space-assets-threatens-the-soyuz-5-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T130218">2023-03-21 13:02:18 UTC</a></sub>
 * [Japanese lander enters lunar orbit](https://spacenews.com/japanese-lander-enters-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T124805">2023-03-21 12:48:05 UTC</a></sub>
@@ -200,7 +201,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [U.S. Space Force budget includes $60 million for ‘tactically responsive space’](https://spacenews.com/u-s-space-force-budget-includes-60-million-for-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T220521">2023-03-20 22:05:21 UTC</a></sub>
 * [GMV partnership to bring revolutionary precise positioning services to Australia and New Zealand](https://spacenews.com/gmv-partnership-to-bring-revolutionary-precise-positioning-services-to-australia-and-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T204648">2023-03-20 20:46:48 UTC</a></sub>
 * [NASA Awards Grants to Support Research, Technology Development](http://www.nasa.gov/press-release/nasa-awards-grants-to-support-research-technology-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T200500">2023-03-20 20:05:00 UTC</a></sub>
-* [Mars exploration and the debate about planetary protection](https://spacenews.com/mars-exploration-and-the-debate-about-planetary-protection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T171153">2023-03-20 17:11:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T150122">2023-03-21 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T153044">2023-03-21 15:30:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
