@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Warns MSR Costs Could Impact Other Scientific Missions](https://tlpnetwork.com/news/2023/03/nasa-warns-msr-costs-could-impact-other-scientific-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T200700">2023-03-21 20:07:00 UTC</a></sub>
 * [NASA Selects Repairs Operations Maintenance and Engineering Contractor](http://www.nasa.gov/press-release/nasa-selects-repairs-operations-maintenance-and-engineering-contractor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T200500">2023-03-21 20:05:00 UTC</a></sub>
 * [FCC Reveals Framework For Satellite To Smartphone Connectivity](https://tlpnetwork.com/news/2023/03/fcc-reveals-framework-for-satellite-to-smartphone-connectivity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T195800">2023-03-21 19:58:00 UTC</a></sub>
 * [Satellite maker Terran Orbital sees annual revenue climb near $100 million](https://www.cnbc.com/2023/03/21/terran-orbital-llap-q4-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T193202">2023-03-21 19:32:02 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [South Korea’s Innospace succeeds in test launch](https://spacenews.com/south-koreas-innospace-succeeds-in-test-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T135030">2023-03-21 13:50:30 UTC</a></sub>
 * [Kazakhstan’s seizure of Russian space assets threatens the Soyuz-5 rocket](https://arstechnica.com/science/2023/03/kazakhstans-seizure-of-russian-space-assets-threatens-the-soyuz-5-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T130218">2023-03-21 13:02:18 UTC</a></sub>
 * [Japanese lander enters lunar orbit](https://spacenews.com/japanese-lander-enters-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T124805">2023-03-21 12:48:05 UTC</a></sub>
-* [On National Security | Space Force and commercial industry taking relationship to the next level](https://spacenews.com/on-national-security-space-force-and-commercial-industry-taking-relationship-to-the-next-level/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T120000">2023-03-21 12:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T203101">2023-03-21 20:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T210116">2023-03-21 21:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
