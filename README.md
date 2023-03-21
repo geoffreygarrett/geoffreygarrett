@@ -102,28 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Electron | The Beat Goes On at the
-<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a> in
-Onenui Station, Mahia Peninsula, New Zealand
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T084500">2023-03-22 08:45:00 UTC</a>. Until
-then, this launch pad will have seen 6
-out of 32 launches in this
+Kuaizhou-1A | Unknown Payload at the
+<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Unknown Pad</a> in
+Jiuquan, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T090000">2023-03-22 09:00:00 UTC</a>. Until
+then, this launch pad will have seen 10
+out of 186 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Payload consists of 2 second generation Earth-imaging satellites for BlackSky.
-
-They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites adding capacity to the company’s real-time geospatial intelligence and monitoring capabilities.
+  
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+  <a href="https://en.wikipedia.org/wiki/Kuaizhou" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
+  <a href="http://maps.google.com/maps?q=40.9605556,100.2961393" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -136,10 +134,10 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>The Beat Goes On</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T084500">2023-03-22 08:45:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Beat Goes On&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230322T084500Z%2F20230322T084500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T090000">2023-03-22 09:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230322T090000Z%2F20230322T092100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Good Luck, Have Fun (Maiden Flight)</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T020000">2023-03-23 02:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230323T020000Z%2F20230323T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Bars-M No. 4</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T060000">2023-03-23 06:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Bars-M No. 4 (Kosmos 25XX)&location=Plesetsk Cosmodrome, Russian Federation&dates=20230323T060000Z%2F20230323T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>The Beat Goes On</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T074500">2023-03-24 07:45:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Beat Goes On&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230324T074500Z%2F20230324T074500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-5</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T152300">2023-03-24 15:23:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-5&location=Cape Canaveral, FL, USA&dates=20230324T152300Z%2F20230324T190600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>OneWeb 18</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T033000">2023-03-26 03:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 18&location=Sriharikota, Republic of India&dates=20230326T033000Z%2F20230326T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>EO MKA #4</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T190000">2023-03-29 19:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1v | EO MKA-4 (Kosmos 25XX)&location=Plesetsk Cosmodrome, Russian Federation&dates=20230329T190000Z%2F20230329T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -233,7 +231,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T170041">2023-03-21 17:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T173051">2023-03-21 17:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
