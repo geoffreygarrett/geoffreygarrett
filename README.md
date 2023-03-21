@@ -189,16 +189,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Selects Repairs Operations Maintenance and Engineering Contractor](http://www.nasa.gov/press-release/nasa-selects-repairs-operations-maintenance-and-engineering-contractor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T200500">2023-03-21 20:05:00 UTC</a></sub>
+* [FCC Reveals Framework For Satellite To Smartphone Connectivity](https://tlpnetwork.com/news/2023/03/fcc-reveals-framework-for-satellite-to-smartphone-connectivity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T195800">2023-03-21 19:58:00 UTC</a></sub>
+* [Satellite maker Terran Orbital sees annual revenue climb near $100 million](https://www.cnbc.com/2023/03/21/terran-orbital-llap-q4-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T193202">2023-03-21 19:32:02 UTC</a></sub>
+* [U.S. Air Force to test hardware at hypersonic speeds on Varda’s space capsules](https://spacenews.com/u-s-air-force-to-test-hardware-at-hypersonic-speeds-on-vardas-space-capsules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T193112">2023-03-21 19:31:12 UTC</a></sub>
 * [NASA Seeks Student Solutions for Managing Moon Landing Dust Cloud](http://www.nasa.gov/press-release/nasa-seeks-student-solutions-for-managing-moon-landing-dust-cloud) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T180500">2023-03-21 18:05:00 UTC</a></sub>
 * [ispace's HAKUTO-R M1 Lunar Lander Successfully Enters Moon Orbit](https://tlpnetwork.com/news/2023/03/hokuto-r-m1-enters-lunar-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T143700">2023-03-21 14:37:00 UTC</a></sub>
 * [South Korea’s Innospace succeeds in test launch](https://spacenews.com/south-koreas-innospace-succeeds-in-test-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T135030">2023-03-21 13:50:30 UTC</a></sub>
 * [Kazakhstan’s seizure of Russian space assets threatens the Soyuz-5 rocket](https://arstechnica.com/science/2023/03/kazakhstans-seizure-of-russian-space-assets-threatens-the-soyuz-5-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T130218">2023-03-21 13:02:18 UTC</a></sub>
 * [Japanese lander enters lunar orbit](https://spacenews.com/japanese-lander-enters-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T124805">2023-03-21 12:48:05 UTC</a></sub>
 * [On National Security | Space Force and commercial industry taking relationship to the next level](https://spacenews.com/on-national-security-space-force-and-commercial-industry-taking-relationship-to-the-next-level/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T120000">2023-03-21 12:00:00 UTC</a></sub>
-* [Industry sees missed opportunity in deorbiting ISS](https://spacenews.com/industry-sees-missed-opportunity-in-deorbiting-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T035643">2023-03-21 03:56:43 UTC</a></sub>
-* [TLP Network Announces First Mission To Lunar Surface](https://tlpnetwork.com/news/2023/03/tlpnetwork-announces-first-mission-to-the-lunar-surface) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T234500">2023-03-20 23:45:00 UTC</a></sub>
-* [U.S. Space Force budget includes $60 million for ‘tactically responsive space’](https://spacenews.com/u-s-space-force-budget-includes-60-million-for-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T220521">2023-03-20 22:05:21 UTC</a></sub>
-* [GMV partnership to bring revolutionary precise positioning services to Australia and New Zealand](https://spacenews.com/gmv-partnership-to-bring-revolutionary-precise-positioning-services-to-australia-and-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T204648">2023-03-20 20:46:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T200056">2023-03-21 20:00:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T203101">2023-03-21 20:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
