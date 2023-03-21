@@ -191,6 +191,9 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kazakhstan’s seizure of Russian space assets threatens the Soyuz-5 rocket](https://arstechnica.com/science/2023/03/kazakhstans-seizure-of-russian-space-assets-threatens-the-soyuz-5-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T130218">2023-03-21 13:02:18 UTC</a></sub>
+* [Japanese lander enters lunar orbit](https://spacenews.com/japanese-lander-enters-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T124805">2023-03-21 12:48:05 UTC</a></sub>
+* [On National Security | Space Force and commercial industry taking relationship to the next level](https://spacenews.com/on-national-security-space-force-and-commercial-industry-taking-relationship-to-the-next-level/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T120000">2023-03-21 12:00:00 UTC</a></sub>
 * [Industry sees missed opportunity in deorbiting ISS](https://spacenews.com/industry-sees-missed-opportunity-in-deorbiting-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T035643">2023-03-21 03:56:43 UTC</a></sub>
 * [TLP Network Announces First Mission To Lunar Surface](https://tlpnetwork.com/news/2023/03/tlpnetwork-announces-first-mission-to-the-lunar-surface) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T234500">2023-03-20 23:45:00 UTC</a></sub>
 * [U.S. Space Force budget includes $60 million for ‘tactically responsive space’](https://spacenews.com/u-s-space-force-budget-includes-60-million-for-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T220521">2023-03-20 22:05:21 UTC</a></sub>
@@ -198,9 +201,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [NASA Awards Grants to Support Research, Technology Development](http://www.nasa.gov/press-release/nasa-awards-grants-to-support-research-technology-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T200500">2023-03-20 20:05:00 UTC</a></sub>
 * [Mars exploration and the debate about planetary protection](https://spacenews.com/mars-exploration-and-the-debate-about-planetary-protection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T171153">2023-03-20 17:11:53 UTC</a></sub>
 * [Virgin Orbit scrambles to avoid bankruptcy as deal talks continue](https://www.cnbc.com/2023/03/20/virgin-orbit-looming-bankruptcy-deal-talks.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T160802">2023-03-20 16:08:02 UTC</a></sub>
-* [As launch approaches, JUICE project manager discusses trajectories and science](https://www.nasaspaceflight.com/2023/03/juice-project-manager/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T151303">2023-03-20 15:13:03 UTC</a></sub>
-* [Arkisys and partners   to show how they would build a satellite in orbit](https://spacenews.com/arkisys-and-partners-show-how-they-would-build-a-satellite-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T140328">2023-03-20 14:03:28 UTC</a></sub>
-* [The SpaceX steamroller has shifted into a higher gear this year](https://arstechnica.com/science/2023/03/the-spacex-steamroller-has-shifted-into-a-higher-gear-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T134055">2023-03-20 13:40:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T130146">2023-03-21 13:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T133057">2023-03-21 13:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
