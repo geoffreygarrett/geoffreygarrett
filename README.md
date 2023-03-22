@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Teens send experiments out of this world](https://spacenews.com/teens-send-experiments-out-of-this-world/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T040134">2023-03-22 04:01:34 UTC</a></sub>
 * [Virgin Orbit returning ‘small’ team from unpaid pause on Thursday to prep for next rocket launch](https://www.cnbc.com/2023/03/22/virgin-orbit-returning-small-team-to-prep-for-next-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T034418">2023-03-22 03:44:18 UTC</a></sub>
 * [Terran Orbital further expands satellite production facilities](https://spacenews.com/terran-orbital-further-expands-satellite-production-facilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T034306">2023-03-22 03:43:06 UTC</a></sub>
 * [Frontier collects $10 million from AEI HorizonX](https://spacenews.com/frontier-collects-10-million-from-aei-horizonx/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T231638">2023-03-21 23:16:38 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [FCC Reveals Framework For Satellite To Smartphone Connectivity](https://tlpnetwork.com/news/2023/03/fcc-reveals-framework-for-satellite-to-smartphone-connectivity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T195800">2023-03-21 19:58:00 UTC</a></sub>
 * [Satellite maker Terran Orbital sees annual revenue climb near $100 million](https://www.cnbc.com/2023/03/21/terran-orbital-llap-q4-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T193202">2023-03-21 19:32:02 UTC</a></sub>
 * [U.S. Air Force to test hardware at hypersonic speeds on Varda’s space capsules](https://spacenews.com/u-s-air-force-to-test-hardware-at-hypersonic-speeds-on-vardas-space-capsules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T193112">2023-03-21 19:31:12 UTC</a></sub>
-* [NASA Seeks Student Solutions for Managing Moon Landing Dust Cloud](http://www.nasa.gov/press-release/nasa-seeks-student-solutions-for-managing-moon-landing-dust-cloud) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T180500">2023-03-21 18:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T040057">2023-03-22 04:00:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T043216">2023-03-22 04:32:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
