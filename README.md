@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NRO signs agreements with commercial providers of hyperspectral imagery](https://spacenews.com/nro-signs-agreements-with-commercial-providers-of-hyperspectral-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T160449">2023-03-22 16:04:49 UTC</a></sub>
+* [Relativity targets nighttime window for next Terran 1 launch attempt](https://www.nasaspaceflight.com/2023/03/maiden-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T153522">2023-03-22 15:35:22 UTC</a></sub>
 * [Virgin Orbit raising $200 million from investor Matthew Brown, closing deal as soon as Thursday](https://www.cnbc.com/2023/03/22/virgin-orbit-nears-funding-deal.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T144640">2023-03-22 14:46:40 UTC</a></sub>
 * [Relativity Space hopes to live additively ever after with Wednesday’s launch](https://arstechnica.com/science/2023/03/relativity-space-will-try-again-for-the-third-time-to-launch-wednesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T142048">2023-03-22 14:20:48 UTC</a></sub>
 * [Virgin Orbit begins “incremental” return to work as it seeks new funding](https://spacenews.com/virgin-orbit-begins-incremental-return-to-work-as-it-seeks-new-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T120431">2023-03-22 12:04:31 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Terran Orbital further expands satellite production facilities](https://spacenews.com/terran-orbital-further-expands-satellite-production-facilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T034306">2023-03-22 03:43:06 UTC</a></sub>
 * [Frontier collects $10 million from AEI HorizonX](https://spacenews.com/frontier-collects-10-million-from-aei-horizonx/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T231638">2023-03-21 23:16:38 UTC</a></sub>
 * [NASA Considers Continuing VERITAS Or Pursuing New Discovery Mission](https://tlpnetwork.com/news/2023/03/nasa-considers-continuing-veritas-or-pursuing-new-discovery-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T210600">2023-03-21 21:06:00 UTC</a></sub>
-* [NASA Warns MSR Costs Could Impact Other Scientific Missions](https://tlpnetwork.com/news/2023/03/nasa-warns-msr-costs-could-impact-other-scientific-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T200700">2023-03-21 20:07:00 UTC</a></sub>
-* [NASA Selects Repairs Operations Maintenance and Engineering Contractor](http://www.nasa.gov/press-release/nasa-selects-repairs-operations-maintenance-and-engineering-contractor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T200500">2023-03-21 20:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T160102">2023-03-22 16:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T163514">2023-03-22 16:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
