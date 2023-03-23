@@ -209,6 +209,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What the search for aliens can learn from life on Earth](https://www.planetary.org/articles/what-the-search-for-aliens-can-learn-from-life-on-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T150535">2023-03-23 15:05:35 UTC</a></sub>
 * [The Planetary Society’s Space Book Club](https://www.planetary.org/articles/the-planetary-societys-space-book-club) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T150533">2023-03-22 15:05:33 UTC</a></sub>
 * [Vulcan: Tanking tests performed on ULA's new rocket](https://blog.ulalaunch.com/blog/vulcan-tanking-tests-performed-on-ulas-new-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T182542">2023-03-17 18:25:42 UTC</a></sub>
 * [Volcanic Venus, myriad moons, and space sonification](https://www.planetary.org/the-downlink/volcanic-venus-myriad-moons-and-space-sonification) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T143535">2023-03-17 14:35:35 UTC</a></sub>
@@ -218,7 +219,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [The secrets of Jupiter’s tiny new moons](https://www.planetary.org/articles/secrets-of-jupiters-new-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T140534">2023-03-14 14:05:34 UTC</a></sub>
 * [NASA's FY 2024 Budget](https://www.planetary.org/space-policy/nasas-fy-2024-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T171544">2023-03-13 17:15:44 UTC</a></sub>
 * [Spectacularly crepuscular!](https://www.planetary.org/the-downlink/spectacularly-crepuscular) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T153535">2023-03-10 15:35:35 UTC</a></sub>
-* [Vulcan: Inaugural rocket moved to launch pad for tanking tests](https://blog.ulalaunch.com/blog/vulcan-inaugural-rocket-moved-to-launch-pad-for-tanking-tests) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T195541">2023-03-09 19:55:41 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T150107">2023-03-23 15:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T153057">2023-03-23 15:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
