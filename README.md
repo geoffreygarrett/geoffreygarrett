@@ -143,6 +143,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>EO MKA #4</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T190000">2023-03-29 19:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1v | EO MKA-4 (Kosmos 25XX)&location=Plesetsk Cosmodrome, Russian Federation&dates=20230329T190000Z%2F20230329T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SDA Tranche 0</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T000000">2023-03-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0&location=Vandenberg SFB, CA, USA&dates=20230330T000000Z%2F20230330T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Intelsat 40e</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T053000">2023-04-07 05:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Intelsat 40e&location=Cape Canaveral, FL, USA&dates=20230407T053000Z%2F20230407T053000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>ViaSat-3 Americas</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230408T222500">2023-04-08 22:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230408T222500Z%2F20230408T222500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -188,6 +189,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX investment from Saudi, UAE investors being planned: report](https://www.teslarati.com/spacex-investment-saudi-uae-investors-planned-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T085531">2023-03-23 08:55:31 UTC</a></sub>
 * [Relativity launches first Terran 1](https://spacenews.com/relativity-launches-first-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T042029">2023-03-23 04:20:29 UTC</a></sub>
 * [Relativity’s first 3D-printed rocket launches successfully but fails to reach orbit](https://www.cnbc.com/2023/03/23/relativitys-3d-printed-terran-1-rocket-launches-fails-to-reach-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T041958">2023-03-23 04:19:58 UTC</a></sub>
 * [Relativity Makes History With Maiden Terran 1 Flight, Fails To Reach Orbit](https://tlpnetwork.com/news/2023/03/relativity-makes-history-with-maiden-terran-1-flight-fails-to-reach-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T035400">2023-03-23 03:54:00 UTC</a></sub>
@@ -197,7 +199,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [NRO Signs 5 Year Commercial Hyperspectral Satellite Imagery Agreement](https://tlpnetwork.com/news/2023/03/nro-signs-5-year-commercial-hyperspectral-satellite-imagery-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T181900">2023-03-22 18:19:00 UTC</a></sub>
 * [USSF Requests First Tactically Responsive Space Program Budget](https://tlpnetwork.com/news/2023/03/ussf-requests-first-tactically-responsive-space-program-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T180700">2023-03-22 18:07:00 UTC</a></sub>
 * [Innospace Test Launches HANBIT-TLV From Brazil Successfully ](https://tlpnetwork.com/news/2023/03/innospace-test-launches-rocket-from-brazil-successfully) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T180000">2023-03-22 18:00:00 UTC</a></sub>
-* [NRO signs agreements with commercial providers of hyperspectral imagery](https://spacenews.com/nro-signs-agreements-with-commercial-providers-of-hyperspectral-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T160449">2023-03-22 16:04:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +231,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T090111">2023-03-23 09:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T093105">2023-03-23 09:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
