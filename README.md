@@ -189,6 +189,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: The latecomer](https://www.cnbc.com/2023/03/23/investing-in-space-the-virgin-orbit-latecomer-matthew-brown.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T162628">2023-03-23 16:26:28 UTC</a></sub>
 * [Relativity Space has a successful failure with the debut of Terran 1](https://arstechnica.com/science/2023/03/relativity-space-has-a-successful-failure-with-the-debut-of-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T125021">2023-03-23 12:50:21 UTC</a></sub>
 * [SpaceX investment from Saudi, UAE investors being planned: report](https://www.teslarati.com/spacex-investment-saudi-uae-investors-planned-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T085531">2023-03-23 08:55:31 UTC</a></sub>
 * [Relativity launches first Terran 1](https://spacenews.com/relativity-launches-first-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T042029">2023-03-23 04:20:29 UTC</a></sub>
@@ -198,7 +199,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [SpaceX experiencing problems with first upgraded Starlink V2 satellites](https://spacenews.com/spacex-experiencing-problems-with-first-upgraded-starlink-v2-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T230738">2023-03-22 23:07:38 UTC</a></sub>
 * [Avio secures Italian government funding for methane engine and small launch vehicle prototype](https://spacenews.com/avio-secures-italian-government-funding-for-methane-engine-and-small-launch-vehicle-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T194808">2023-03-22 19:48:08 UTC</a></sub>
 * [NRO Signs 5 Year Commercial Hyperspectral Satellite Imagery Agreement](https://tlpnetwork.com/news/2023/03/nro-signs-5-year-commercial-hyperspectral-satellite-imagery-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T181900">2023-03-22 18:19:00 UTC</a></sub>
-* [USSF Requests First Tactically Responsive Space Program Budget](https://tlpnetwork.com/news/2023/03/ussf-requests-first-tactically-responsive-space-program-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T180700">2023-03-22 18:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T170048">2023-03-23 17:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T173111">2023-03-23 17:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
