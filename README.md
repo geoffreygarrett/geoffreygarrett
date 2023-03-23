@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Starlink V2 Satellites Experiencing Problems On Orbit](https://tlpnetwork.com/news/2023/03/spacex-starlink-v2-satellites-experiencing-problems-on-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T232200">2023-03-22 23:22:00 UTC</a></sub>
+* [SpaceX experiencing problems with first upgraded Starlink V2 satellites](https://spacenews.com/spacex-experiencing-problems-with-first-upgraded-starlink-v2-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T230738">2023-03-22 23:07:38 UTC</a></sub>
 * [Avio secures Italian government funding for methane engine and small launch vehicle prototype](https://spacenews.com/avio-secures-italian-government-funding-for-methane-engine-and-small-launch-vehicle-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T194808">2023-03-22 19:48:08 UTC</a></sub>
 * [NRO Signs 5 Year Commercial Hyperspectral Satellite Imagery Agreement](https://tlpnetwork.com/news/2023/03/nro-signs-5-year-commercial-hyperspectral-satellite-imagery-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T181900">2023-03-22 18:19:00 UTC</a></sub>
 * [USSF Requests First Tactically Responsive Space Program Budget](https://tlpnetwork.com/news/2023/03/ussf-requests-first-tactically-responsive-space-program-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T180700">2023-03-22 18:07:00 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Relativity targets nighttime window for next Terran 1 launch attempt](https://www.nasaspaceflight.com/2023/03/maiden-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T153522">2023-03-22 15:35:22 UTC</a></sub>
 * [Virgin Orbit raising $200 million from investor Matthew Brown, closing deal as soon as Thursday](https://www.cnbc.com/2023/03/22/virgin-orbit-nears-funding-deal.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T144640">2023-03-22 14:46:40 UTC</a></sub>
 * [Relativity Space hopes to live additively ever after with Wednesday’s launch](https://arstechnica.com/science/2023/03/relativity-space-will-try-again-for-the-third-time-to-launch-wednesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T142048">2023-03-22 14:20:48 UTC</a></sub>
-* [Virgin Orbit begins “incremental” return to work as it seeks new funding](https://spacenews.com/virgin-orbit-begins-incremental-return-to-work-as-it-seeks-new-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T120431">2023-03-22 12:04:31 UTC</a></sub>
-* [Teens send experiments out of this world](https://spacenews.com/teens-send-experiments-out-of-this-world/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T040134">2023-03-22 04:01:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T233039">2023-03-22 23:30:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T000150">2023-03-23 00:01:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
