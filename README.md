@@ -189,6 +189,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab to launch BlackSky sats, test Electron ocean recovery](https://www.nasaspaceflight.com/2023/03/the-beat-goes-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T204521">2023-03-23 20:45:21 UTC</a></sub>
 * [Boeing Starliner Crew Flight Test Delayed](https://tlpnetwork.com/news/2023/03/boeing-starliner-crew-flight-test-delayed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T193900">2023-03-23 19:39:00 UTC</a></sub>
 * [Investing in Space: The latecomer](https://www.cnbc.com/2023/03/23/investing-in-space-the-virgin-orbit-latecomer-matthew-brown.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T162628">2023-03-23 16:26:28 UTC</a></sub>
 * [Relativity Space has a successful failure with the debut of Terran 1](https://arstechnica.com/science/2023/03/relativity-space-has-a-successful-failure-with-the-debut-of-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T125021">2023-03-23 12:50:21 UTC</a></sub>
@@ -198,7 +199,6 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 * [Relativity Makes History With Maiden Terran 1 Flight, Fails To Reach Orbit](https://tlpnetwork.com/news/2023/03/relativity-makes-history-with-maiden-terran-1-flight-fails-to-reach-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T035400">2023-03-23 03:54:00 UTC</a></sub>
 * [SpaceX Starlink V2 Satellites Experiencing Problems On Orbit](https://tlpnetwork.com/news/2023/03/spacex-starlink-v2-satellites-experiencing-problems-on-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T232200">2023-03-22 23:22:00 UTC</a></sub>
 * [SpaceX experiencing problems with first upgraded Starlink V2 satellites](https://spacenews.com/spacex-experiencing-problems-with-first-upgraded-starlink-v2-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T230738">2023-03-22 23:07:38 UTC</a></sub>
-* [Avio secures Italian government funding for methane engine and small launch vehicle prototype](https://spacenews.com/avio-secures-italian-government-funding-for-methane-engine-and-small-launch-vehicle-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T194808">2023-03-22 19:48:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T203050">2023-03-23 20:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T210114">2023-03-23 21:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
