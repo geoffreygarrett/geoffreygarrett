@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Advisory group backs European human spaceflight program using commercial approaches](https://spacenews.com/advisory-group-backs-european-human-spaceflight-program-using-commercial-approaches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T122012">2023-03-24 12:20:12 UTC</a></sub>
 * [Rocket Report: German launch company loses backer; Soyuz-5 may be in trouble](https://arstechnica.com/science/2023/03/rocket-report-relativity-and-innospace-soar-stoke-reveals-a-steampunk-hopper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T111543">2023-03-24 11:15:43 UTC</a></sub>
 * [First crewed Starliner launch slips again](https://spacenews.com/first-crewed-starliner-launch-slips-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T085717">2023-03-24 08:57:17 UTC</a></sub>
 * [NASA warns of “devastating” impacts of potential budget cuts](https://spacenews.com/nasa-warns-of-devastating-impacts-of-potential-budget-cuts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T012052">2023-03-24 01:20:52 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Relativity Space has a successful failure with the debut of Terran 1](https://arstechnica.com/science/2023/03/relativity-space-has-a-successful-failure-with-the-debut-of-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T125021">2023-03-23 12:50:21 UTC</a></sub>
 * [(UPDATED) SpaceX investment from Saudi, UAE investors being planned: report](https://www.teslarati.com/spacex-investment-saudi-uae-investors-planned-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T112533">2023-03-23 11:25:33 UTC</a></sub>
 * [Relativity launches first Terran 1](https://spacenews.com/relativity-launches-first-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T042029">2023-03-23 04:20:29 UTC</a></sub>
-* [Relativity’s first 3D-printed rocket launches successfully but fails to reach orbit](https://www.cnbc.com/2023/03/23/relativitys-3d-printed-terran-1-rocket-launches-fails-to-reach-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T041958">2023-03-23 04:19:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T120106">2023-03-24 12:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T123855">2023-03-24 12:38:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
