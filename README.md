@@ -187,6 +187,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Coverage Set for Uncrewed Soyuz Undocking, Departure](http://www.nasa.gov/press-release/nasa-coverage-set-for-uncrewed-soyuz-undocking-departure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T190500">2023-03-24 19:05:00 UTC</a></sub>
+* [ABL Space gets $60 million for responsive launch demonstrations](https://spacenews.com/abl-space-gets-60-million-for-responsive-launch-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T184521">2023-03-24 18:45:21 UTC</a></sub>
+* [Cape Congestion: World’s busiest spaceport stretched to its limits](https://spacenews.com/cape-congestion-worlds-busiest-spaceport-stretched-to-its-limits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T183945">2023-03-24 18:39:45 UTC</a></sub>
 * [Blue Origin says an overheated engine part caused last year’s cargo rocket failure](https://www.cnbc.com/2023/03/24/blue-origin-ns-23-failure-cause.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T170221">2023-03-24 17:02:21 UTC</a></sub>
 * [China Loses UAE As Lunar Mission Partner](https://tlpnetwork.com/news/2023/03/china-loses-uae-as-lunar-mission-partner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T162800">2023-03-24 16:28:00 UTC</a></sub>
 * [Blue Origin Completes NS-23 Investigation, Releases Findings](https://tlpnetwork.com/news/2023/03/blue-origin-completes-ns-23-investigation-releases-findings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T161400">2023-03-24 16:14:00 UTC</a></sub>
@@ -194,9 +197,6 @@ region. The mission's status is currently Go for Launch
 * [Dream Chaser is delayed again, raising questions about Vulcan launch plans](https://arstechnica.com/science/2023/03/dream-chaser-is-delayed-again-raising-questions-about-vulcan-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T134007">2023-03-24 13:40:07 UTC</a></sub>
 * [China loses UAE as partner for Chang’e-7 lunar south pole mission](https://spacenews.com/china-loses-uae-as-partner-for-change-7-lunar-south-pole-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T124832">2023-03-24 12:48:32 UTC</a></sub>
 * [Advisory group backs European human spaceflight program using commercial approaches](https://spacenews.com/advisory-group-backs-european-human-spaceflight-program-using-commercial-approaches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T122012">2023-03-24 12:20:12 UTC</a></sub>
-* [Rocket Report: German launch company loses backer; Soyuz-5 may be in trouble](https://arstechnica.com/science/2023/03/rocket-report-relativity-and-innospace-soar-stoke-reveals-a-steampunk-hopper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T111543">2023-03-24 11:15:43 UTC</a></sub>
-* [Rocket Lab launches BlackSky sats, tests Electron ocean recovery](https://www.nasaspaceflight.com/2023/03/the-beat-goes-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T094521">2023-03-24 09:45:21 UTC</a></sub>
-* [First crewed Starliner launch slips again](https://spacenews.com/first-crewed-starliner-launch-slips-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T085717">2023-03-24 08:57:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T190045">2023-03-24 19:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T193045">2023-03-24 19:30:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
