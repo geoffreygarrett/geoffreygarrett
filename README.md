@@ -208,6 +208,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Asteroids worth getting psyched about](https://www.planetary.org/the-downlink/asteroids-worth-getting-psyched-about) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T143535">2023-03-24 14:35:35 UTC</a></sub>
 * [What the search for aliens can learn from life on Earth](https://www.planetary.org/articles/what-the-search-for-aliens-can-learn-from-life-on-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T150535">2023-03-23 15:05:35 UTC</a></sub>
 * [The Planetary Society’s Space Book Club](https://www.planetary.org/articles/the-planetary-societys-space-book-club) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T150533">2023-03-22 15:05:33 UTC</a></sub>
 * [Vulcan: Tanking tests performed on ULA's new rocket](https://blog.ulalaunch.com/blog/vulcan-tanking-tests-performed-on-ulas-new-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T182542">2023-03-17 18:25:42 UTC</a></sub>
@@ -217,7 +218,6 @@ region. The mission's status is currently Go for Launch
 * [Scientists spot possible signs of active volcanism on Venus](https://www.planetary.org/articles/possible-active-volcanism-on-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T180530">2023-03-15 18:05:30 UTC</a></sub>
 * [The secrets of Jupiter’s tiny new moons](https://www.planetary.org/articles/secrets-of-jupiters-new-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T140534">2023-03-14 14:05:34 UTC</a></sub>
 * [NASA's FY 2024 Budget](https://www.planetary.org/space-policy/nasas-fy-2024-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T171544">2023-03-13 17:15:44 UTC</a></sub>
-* [Spectacularly crepuscular!](https://www.planetary.org/the-downlink/spectacularly-crepuscular) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T153535">2023-03-10 15:35:35 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T143052">2023-03-24 14:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T150051">2023-03-24 15:00:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
