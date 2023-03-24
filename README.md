@@ -188,7 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Rocket Report: Relativity and Innospace soar; Stoke reveals a steampunk hopper](https://arstechnica.com/science/2023/03/rocket-report-relativity-and-innospace-soar-stoke-reveals-a-steampunk-hopper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T111543">2023-03-24 11:15:43 UTC</a></sub>
+* [Rocket Report: German launch company loses backer; Soyuz-5 may be in trouble](https://arstechnica.com/science/2023/03/rocket-report-relativity-and-innospace-soar-stoke-reveals-a-steampunk-hopper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T111543">2023-03-24 11:15:43 UTC</a></sub>
 * [First crewed Starliner launch slips again](https://spacenews.com/first-crewed-starliner-launch-slips-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T085717">2023-03-24 08:57:17 UTC</a></sub>
 * [NASA warns of “devastating” impacts of potential budget cuts](https://spacenews.com/nasa-warns-of-devastating-impacts-of-potential-budget-cuts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T012052">2023-03-24 01:20:52 UTC</a></sub>
 * [Rocket Lab launches BlackSky sats, test Electron ocean recovery](https://www.nasaspaceflight.com/2023/03/the-beat-goes-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T204521">2023-03-23 20:45:21 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T113049">2023-03-24 11:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T120106">2023-03-24 12:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
