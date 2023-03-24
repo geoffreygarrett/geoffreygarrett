@@ -187,6 +187,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin Completes NS-23 Investigation, Releases Findings](https://tlpnetwork.com/news/2023/03/blue-origin-completes-ns-23-investigation-releases-findings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T161400">2023-03-24 16:14:00 UTC</a></sub>
 * [SpaceX keeping up cadence with Starlink Group 5-5 mission](https://www.nasaspaceflight.com/2023/03/starlink-5-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T134839">2023-03-24 13:48:39 UTC</a></sub>
 * [Dream Chaser is delayed again, raising questions about Vulcan launch plans](https://arstechnica.com/science/2023/03/dream-chaser-is-delayed-again-raising-questions-about-vulcan-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T134007">2023-03-24 13:40:07 UTC</a></sub>
 * [China loses UAE as partner for Chang’e-7 lunar south pole mission](https://spacenews.com/china-loses-uae-as-partner-for-change-7-lunar-south-pole-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T124832">2023-03-24 12:48:32 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently Go for Launch
 * [First crewed Starliner launch slips again](https://spacenews.com/first-crewed-starliner-launch-slips-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T085717">2023-03-24 08:57:17 UTC</a></sub>
 * [NASA warns of “devastating” impacts of potential budget cuts](https://spacenews.com/nasa-warns-of-devastating-impacts-of-potential-budget-cuts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T012052">2023-03-24 01:20:52 UTC</a></sub>
 * [Boeing Starliner Crew Flight Test Delayed](https://tlpnetwork.com/news/2023/03/boeing-starliner-crew-flight-test-delayed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T193900">2023-03-23 19:39:00 UTC</a></sub>
-* [Investing in Space: The latecomer](https://www.cnbc.com/2023/03/23/investing-in-space-the-virgin-orbit-latecomer-matthew-brown.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T162628">2023-03-23 16:26:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T160054">2023-03-24 16:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T163516">2023-03-24 16:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
