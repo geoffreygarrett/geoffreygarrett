@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Canada agrees to ISS extension to 2030](https://spacenews.com/canada-agrees-to-iss-extension-to-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T223528">2023-03-25 22:35:28 UTC</a></sub>
 * [OneWeb set to complete initial constellation with launch from India](https://www.nasaspaceflight.com/2023/03/oneweb-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T193500">2023-03-25 19:35:00 UTC</a></sub>
 * [Dawn Aerospace's Spaceplane Gets Green Light for Suborbital Test Flights in New Zealand](https://tlpnetwork.com/news/2023/03/dawn-aerospace-receives-caa-certification) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T235400">2023-03-24 23:54:00 UTC</a></sub>
 * [Space companies Spire and Momentus get stock exchange delisting warnings](https://www.cnbc.com/2023/03/24/spire-momentus-get-stock-exchange-delisting-warnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T211422">2023-03-24 21:14:22 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Coverage Set for Uncrewed Soyuz Undocking, Departure](http://www.nasa.gov/press-release/nasa-coverage-set-for-uncrewed-soyuz-undocking-departure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T190500">2023-03-24 19:05:00 UTC</a></sub>
 * [ABL Space gets $60 million for responsive launch demonstrations](https://spacenews.com/abl-space-gets-60-million-for-responsive-launch-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T184521">2023-03-24 18:45:21 UTC</a></sub>
 * [Cape Congestion: World’s busiest spaceport stretched to its limits](https://spacenews.com/cape-congestion-worlds-busiest-spaceport-stretched-to-its-limits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T183945">2023-03-24 18:39:45 UTC</a></sub>
-* [Blue Origin says an overheated engine part caused last year’s cargo rocket failure](https://www.cnbc.com/2023/03/24/blue-origin-ns-23-failure-cause.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T170221">2023-03-24 17:02:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T223036">2023-03-25 22:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T230059">2023-03-25 23:00:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
