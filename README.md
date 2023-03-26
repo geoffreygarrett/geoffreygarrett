@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OneWeb Completes V1 Constellation With India Launch](https://tlpnetwork.com/news/2023/03/oneweb-18-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T140800">2023-03-26 14:08:00 UTC</a></sub>
 * [Space Force selects 18 vendors to provide space data analytics and software services](https://spacenews.com/space-force-selects-18-vendors-to-provide-space-data-analytics-and-software-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T232545">2023-03-25 23:25:45 UTC</a></sub>
 * [Canada agrees to ISS extension to 2030](https://spacenews.com/canada-agrees-to-iss-extension-to-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T223528">2023-03-25 22:35:28 UTC</a></sub>
 * [OneWeb completes initial constellation with launch from India](https://www.nasaspaceflight.com/2023/03/oneweb-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T193500">2023-03-25 19:35:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab targets $50 million launch price for Neutron rocket to challenge SpaceX’s Falcon 9](https://www.cnbc.com/2023/03/24/rocket-lab-neutron-launch-price-challenges-spacex.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T195757">2023-03-24 19:57:57 UTC</a></sub>
 * [Blue Origin blames New Shepard mishap on engine nozzle failure](https://spacenews.com/blue-origin-blames-new-shepard-mishap-on-engine-nozzle-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T194702">2023-03-24 19:47:02 UTC</a></sub>
 * [NASA Coverage Set for Uncrewed Soyuz Undocking, Departure](http://www.nasa.gov/press-release/nasa-coverage-set-for-uncrewed-soyuz-undocking-departure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T190500">2023-03-24 19:05:00 UTC</a></sub>
-* [ABL Space gets $60 million for responsive launch demonstrations](https://spacenews.com/abl-space-gets-60-million-for-responsive-launch-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T184521">2023-03-24 18:45:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T140046">2023-03-26 14:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T143054">2023-03-26 14:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
