@@ -102,26 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-GSLV Mk III | OneWeb 18 at the
-<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad">Satish Dhawan Space Centre Second Launch Pad</a> in
-Sriharikota, Republic of India
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T033000">2023-03-26 03:30:00 UTC</a>. Until
-then, this launch pad will have seen 22
-out of 84 launches in this
+Kuaizhou-1A | Unknown Payload at the
+<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Unknown Pad</a> in
+Jiuquan, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T022300">2023-03-27 02:23:00 UTC</a>. Until
+then, this launch pad will have seen 11
+out of 187 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.
+  
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle" >
+  <a href="https://en.wikipedia.org/wiki/Kuaizhou" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=13.7199,80.2304" >
+  <a href="http://maps.google.com/maps?q=40.9605556,100.2961393" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +134,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>OneWeb 18</b> from Sriharikota, Republic of India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T033000">2023-03-26 03:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 18&location=Sriharikota, Republic of India&dates=20230326T033000Z%2F20230326T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T022300">2023-03-27 02:23:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230327T022300Z%2F20230327T025400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Demo Flight</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T064200">2023-03-29 06:42:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Tianlong-2 | Demo Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20230329T064200Z%2F20230329T080700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>EO MKA #4</b> from Plesetsk Cosmodrome, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T190000">2023-03-29 19:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1v | EO MKA-4 (Kosmos 25XX)&location=Plesetsk Cosmodrome, Russian Federation&dates=20230329T190000Z%2F20230329T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -231,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T030043">2023-03-26 03:00:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T033053">2023-03-26 03:30:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
