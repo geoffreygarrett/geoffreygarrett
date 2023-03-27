@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Helps Fund Minority Institutions Preparing Students for College](http://www.nasa.gov/press-release/nasa-helps-fund-minority-institutions-preparing-students-for-college) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T200500">2023-03-27 20:05:00 UTC</a></sub>
 * [NASA space operations head Lueders to retire](https://spacenews.com/nasa-space-operations-head-lueders-to-retire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T190354">2023-03-27 19:03:54 UTC</a></sub>
 * [Damaged Soyuz MS-22 craft prepares to come home uncrewed](https://www.nasaspaceflight.com/2023/03/soyuz-ms-22-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T184817">2023-03-27 18:48:17 UTC</a></sub>
 * [OneWeb completes constellation deployment for global broadband](https://spacenews.com/oneweb-completes-constellation-deployment-for-global-broadband/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T181225">2023-03-27 18:12:25 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Changes Ahead as NASA’s Human Spaceflight Head Plans Retirement](http://www.nasa.gov/press-release/changes-ahead-as-nasa-s-human-spaceflight-head-plans-retirement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T163500">2023-03-27 16:35:00 UTC</a></sub>
 * [Blue Origin provides a detailed analysis of its launch failure](https://arstechnica.com/science/2023/03/blue-origin-provides-a-detailed-analysis-of-its-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T134332">2023-03-27 13:43:32 UTC</a></sub>
 * [Inflation, high demand driving up launch prices](https://spacenews.com/inflation-high-demand-driving-up-launch-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T015014">2023-03-27 01:50:14 UTC</a></sub>
-* [Remote sensing companies try to capture bigger piece of satellite imaging market](https://spacenews.com/remote-sensing-companies-try-to-capture-bigger-piece-of-satellite-imaging-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T195921">2023-03-26 19:59:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T200045">2023-03-27 20:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T203059">2023-03-27 20:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
