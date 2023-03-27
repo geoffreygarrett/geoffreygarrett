@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OneWeb completes constellation deployment for global broadband](https://spacenews.com/oneweb-completes-constellation-deployment-for-global-broadband/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T181225">2023-03-27 18:12:25 UTC</a></sub>
 * [NASA, Boeing to Host Media Briefing, Provide Starliner Update](http://www.nasa.gov/press-release/nasa-boeing-to-host-media-briefing-provide-starliner-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T174500">2023-03-27 17:45:00 UTC</a></sub>
 * [NASA Names Two Diversity Champions for Agency](http://www.nasa.gov/press-release/nasa-names-two-diversity-champions-for-agency) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T170500">2023-03-27 17:05:00 UTC</a></sub>
 * [NASA Associate Administrator Announces Retirement, Replacement Announced](https://tlpnetwork.com/news/2023/03/nasa-associate-administrator-announces-retirement-replacement-announced) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T170000">2023-03-27 17:00:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Remote sensing companies try to capture bigger piece of satellite imaging market](https://spacenews.com/remote-sensing-companies-try-to-capture-bigger-piece-of-satellite-imaging-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T195921">2023-03-26 19:59:21 UTC</a></sub>
 * [ABL Space Secures $60M USSF/USAF Demo Contract](https://tlpnetwork.com/news/2023/03/abl-space-secures-ussf-usaf-demo-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T184800">2023-03-26 18:48:00 UTC</a></sub>
 * [Canada Commits To ISS 2030 Extension](https://tlpnetwork.com/news/2023/03/canada-commits-to-iss-2030-extension) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T184600">2023-03-26 18:46:00 UTC</a></sub>
-* [OneWeb Completes V1 Constellation With India Launch](https://tlpnetwork.com/news/2023/03/oneweb-18-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T140800">2023-03-26 14:08:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T180053">2023-03-27 18:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T183356">2023-03-27 18:33:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
