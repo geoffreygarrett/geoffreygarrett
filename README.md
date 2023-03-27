@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Inflation, high demand driving up launch prices](https://spacenews.com/inflation-high-demand-driving-up-launch-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T015014">2023-03-27 01:50:14 UTC</a></sub>
 * [Remote sensing companies try to capture bigger piece of satellite imaging market](https://spacenews.com/remote-sensing-companies-try-to-capture-bigger-piece-of-satellite-imaging-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T195921">2023-03-26 19:59:21 UTC</a></sub>
 * [ABL Space Secures $60M USSF/USAF Demo Contract](https://tlpnetwork.com/news/2023/03/abl-space-secures-ussf-usaf-demo-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T184800">2023-03-26 18:48:00 UTC</a></sub>
 * [Canada Commits To ISS 2030 Extension](https://tlpnetwork.com/news/2023/03/canada-commits-to-iss-2030-extension) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T184600">2023-03-26 18:46:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [OneWeb completes initial constellation with launch from India](https://www.nasaspaceflight.com/2023/03/oneweb-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T193500">2023-03-25 19:35:00 UTC</a></sub>
 * [Dawn Aerospace's Spaceplane Gets Green Light for Suborbital Test Flights in New Zealand](https://tlpnetwork.com/news/2023/03/dawn-aerospace-receives-caa-certification) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T235400">2023-03-24 23:54:00 UTC</a></sub>
 * [Space companies Spire and Momentus get stock exchange delisting warnings](https://www.cnbc.com/2023/03/24/spire-momentus-get-stock-exchange-delisting-warnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T211422">2023-03-24 21:14:22 UTC</a></sub>
-* [NASA Invites Media to See Mars Habitat Before Crew Enters for One Year](http://www.nasa.gov/press-release/nasa-invites-media-to-see-mars-habitat-before-crew-enters-for-one-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T203500">2023-03-24 20:35:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T015411">2023-03-27 01:54:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T021505">2023-03-27 02:15:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
