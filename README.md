@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA space operations head Lueders to retire](https://spacenews.com/nasa-space-operations-head-lueders-to-retire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T190354">2023-03-27 19:03:54 UTC</a></sub>
+* [Damaged Soyuz MS-22 craft prepares to come home uncrewed](https://www.nasaspaceflight.com/2023/03/soyuz-ms-22-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T184817">2023-03-27 18:48:17 UTC</a></sub>
 * [OneWeb completes constellation deployment for global broadband](https://spacenews.com/oneweb-completes-constellation-deployment-for-global-broadband/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T181225">2023-03-27 18:12:25 UTC</a></sub>
 * [NASA, Boeing to Host Media Briefing, Provide Starliner Update](http://www.nasa.gov/press-release/nasa-boeing-to-host-media-briefing-provide-starliner-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T174500">2023-03-27 17:45:00 UTC</a></sub>
 * [NASA Names Two Diversity Champions for Agency](http://www.nasa.gov/press-release/nasa-names-two-diversity-champions-for-agency) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T170500">2023-03-27 17:05:00 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Blue Origin provides a detailed analysis of its launch failure](https://arstechnica.com/science/2023/03/blue-origin-provides-a-detailed-analysis-of-its-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T134332">2023-03-27 13:43:32 UTC</a></sub>
 * [Inflation, high demand driving up launch prices](https://spacenews.com/inflation-high-demand-driving-up-launch-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T015014">2023-03-27 01:50:14 UTC</a></sub>
 * [Remote sensing companies try to capture bigger piece of satellite imaging market](https://spacenews.com/remote-sensing-companies-try-to-capture-bigger-piece-of-satellite-imaging-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T195921">2023-03-26 19:59:21 UTC</a></sub>
-* [ABL Space Secures $60M USSF/USAF Demo Contract](https://tlpnetwork.com/news/2023/03/abl-space-secures-ussf-usaf-demo-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T184800">2023-03-26 18:48:00 UTC</a></sub>
-* [Canada Commits To ISS 2030 Extension](https://tlpnetwork.com/news/2023/03/canada-commits-to-iss-2030-extension) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T184600">2023-03-26 18:46:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T190045">2023-03-27 19:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T193054">2023-03-27 19:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
