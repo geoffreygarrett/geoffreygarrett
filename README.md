@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to begin constructing its own megaconstellation later this year](https://spacenews.com/china-to-begin-constructing-its-own-megaconstellation-later-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T175304">2023-03-28 17:53:04 UTC</a></sub>
+* [Historic scrubs and aborts that could happen to Starship](https://www.nasaspaceflight.com/2023/03/starship-aborts-scrubs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T173336">2023-03-28 17:33:36 UTC</a></sub>
 * [NASA’s Jon B. Olansen to Serve as New Gateway Program Manager](http://www.nasa.gov/press-release/nasa-s-jon-b-olansen-to-serve-as-new-gateway-program-manager) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T161500">2023-03-28 16:15:00 UTC</a></sub>
 * [NASA Astronauts Bring STEM to Washington Students](http://www.nasa.gov/press-release/nasa-astronauts-bring-stem-to-washington-students) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T150500">2023-03-28 15:05:00 UTC</a></sub>
 * [Maxar unveils 30-centimeter global basemap](https://spacenews.com/maxar-unveils-30-centimeter-global-basemap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T140000">2023-03-28 14:00:00 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [U.S. allies in the Middle East express interest in establishing space forces](https://spacenews.com/u-s-allies-in-the-middle-east-express-interest-in-establishing-space-forces/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T211909">2023-03-27 21:19:09 UTC</a></sub>
 * [Virgin Orbit Extends Shutdown, Lifeline Investment Talks Collapse](https://tlpnetwork.com/news/2023/03/virgin-orbit-extends-shutdown-lifeline-investment-talks-collapse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T211100">2023-03-27 21:11:00 UTC</a></sub>
 * [Virgin Orbit extends unpaid pause as Brown deal collapses, ‘dynamic’ talks continue](https://www.cnbc.com/2023/03/27/virgin-orbit-extends-unpaid-pause-as-deal-collapses-talks-continue.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T205225">2023-03-27 20:52:25 UTC</a></sub>
-* [NASA Helps Fund Minority Institutions Preparing Students for College](http://www.nasa.gov/press-release/nasa-helps-fund-minority-institutions-preparing-students-for-college) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T200500">2023-03-27 20:05:00 UTC</a></sub>
-* [NASA space operations head Lueders to retire](https://spacenews.com/nasa-space-operations-head-lueders-to-retire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T190354">2023-03-27 19:03:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T173051">2023-03-28 17:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T180052">2023-03-28 18:00:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
