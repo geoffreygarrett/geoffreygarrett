@@ -190,7 +190,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- spaceflight news starts -->
 * [U.S. allies in the Middle East express interest in establishing space forces](https://spacenews.com/u-s-allies-in-the-middle-east-express-interest-in-establishing-space-forces/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T211909">2023-03-27 21:19:09 UTC</a></sub>
-* [BREAKING! Virgin Orbit Extends Shutdown, Lifeline Investment Talks Collapse](https://tlpnetwork.com/news/2023/03/virgin-orbit-extends-shutdown-lifeline-investment-talks-collapse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T211100">2023-03-27 21:11:00 UTC</a></sub>
+* [Virgin Orbit Extends Shutdown, Lifeline Investment Talks Collapse](https://tlpnetwork.com/news/2023/03/virgin-orbit-extends-shutdown-lifeline-investment-talks-collapse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T211100">2023-03-27 21:11:00 UTC</a></sub>
 * [Virgin Orbit extends unpaid pause as Brown deal collapses, ‘dynamic’ talks continue](https://www.cnbc.com/2023/03/27/virgin-orbit-extends-unpaid-pause-as-deal-collapses-talks-continue.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T205225">2023-03-27 20:52:25 UTC</a></sub>
 * [NASA Helps Fund Minority Institutions Preparing Students for College](http://www.nasa.gov/press-release/nasa-helps-fund-minority-institutions-preparing-students-for-college) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T200500">2023-03-27 20:05:00 UTC</a></sub>
 * [NASA space operations head Lueders to retire](https://spacenews.com/nasa-space-operations-head-lueders-to-retire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T190354">2023-03-27 19:03:54 UTC</a></sub>
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T090055">2023-03-28 09:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T093055">2023-03-28 09:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
