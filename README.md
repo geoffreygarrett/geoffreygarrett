@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Isar Aerospace raises $165 million as it gears up for first launch](https://spacenews.com/isar-aerospace-raises-165-million-as-it-gears-up-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T095308">2023-03-28 09:53:08 UTC</a></sub>
 * [U.S. allies in the Middle East express interest in establishing space forces](https://spacenews.com/u-s-allies-in-the-middle-east-express-interest-in-establishing-space-forces/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T211909">2023-03-27 21:19:09 UTC</a></sub>
 * [Virgin Orbit Extends Shutdown, Lifeline Investment Talks Collapse](https://tlpnetwork.com/news/2023/03/virgin-orbit-extends-shutdown-lifeline-investment-talks-collapse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T211100">2023-03-27 21:11:00 UTC</a></sub>
 * [Virgin Orbit extends unpaid pause as Brown deal collapses, ‘dynamic’ talks continue](https://www.cnbc.com/2023/03/27/virgin-orbit-extends-unpaid-pause-as-deal-collapses-talks-continue.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T205225">2023-03-27 20:52:25 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [OneWeb completes constellation deployment for global broadband](https://spacenews.com/oneweb-completes-constellation-deployment-for-global-broadband/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T181225">2023-03-27 18:12:25 UTC</a></sub>
 * [NASA, Boeing to Host Media Briefing, Provide Starliner Update](http://www.nasa.gov/press-release/nasa-boeing-to-host-media-briefing-provide-starliner-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T174500">2023-03-27 17:45:00 UTC</a></sub>
 * [NASA Names Two Diversity Champions for Agency](http://www.nasa.gov/press-release/nasa-names-two-diversity-champions-for-agency) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T170500">2023-03-27 17:05:00 UTC</a></sub>
-* [NASA Associate Administrator Announces Retirement, Replacement Announced](https://tlpnetwork.com/news/2023/03/nasa-associate-administrator-announces-retirement-replacement-announced) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T170000">2023-03-27 17:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T093055">2023-03-28 09:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T100105">2023-03-28 10:01:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
