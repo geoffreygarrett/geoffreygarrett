@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Space Force ramps up cybersecurity spending](https://spacenews.com/u-s-space-force-ramps-up-cybersecurity-spending/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T194202">2023-03-28 19:42:02 UTC</a></sub>
 * [Air Force Secretary: ‘Haven’t made a decision on U.S. Space Command’ ](https://spacenews.com/air-force-secretary-havent-made-a-decision-on-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T175912">2023-03-28 17:59:12 UTC</a></sub>
 * [China to begin constructing its own megaconstellation later this year](https://spacenews.com/china-to-begin-constructing-its-own-megaconstellation-later-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T175304">2023-03-28 17:53:04 UTC</a></sub>
 * [Historic scrubs and aborts that could happen to Starship](https://www.nasaspaceflight.com/2023/03/starship-aborts-scrubs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T173336">2023-03-28 17:33:36 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [A front-runner emerges in the European small launcher race](https://arstechnica.com/science/2023/03/a-front-runner-emerges-in-the-european-small-launcher-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T135507">2023-03-28 13:55:07 UTC</a></sub>
 * [Isar Aerospace raises $165 million as it gears up for first launch](https://spacenews.com/isar-aerospace-raises-165-million-as-it-gears-up-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T095308">2023-03-28 09:53:08 UTC</a></sub>
 * [U.S. allies in the Middle East express interest in establishing space forces](https://spacenews.com/u-s-allies-in-the-middle-east-express-interest-in-establishing-space-forces/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T211909">2023-03-27 21:19:09 UTC</a></sub>
-* [Virgin Orbit Extends Shutdown, Lifeline Investment Talks Collapse](https://tlpnetwork.com/news/2023/03/virgin-orbit-extends-shutdown-lifeline-investment-talks-collapse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T211100">2023-03-27 21:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T193046">2023-03-28 19:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T200046">2023-03-28 20:00:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
