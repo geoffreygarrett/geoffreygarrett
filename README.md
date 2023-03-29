@@ -186,6 +186,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellite imagery venture Planet reports record quarterly revenue to cap strong year](https://www.cnbc.com/2023/03/29/planet-pl-q4-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T204406">2023-03-29 20:44:06 UTC</a></sub>
+* [Planet acquires Slovenian startup Sinergise](https://spacenews.com/planet-acquires-slovenian-startup-sinergise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T201100">2023-03-29 20:11:00 UTC</a></sub>
+* [NASA Awards Snow and Ice Distributed Active Archive Center Contract](http://www.nasa.gov/press-release/nasa-awards-snow-and-ice-distributed-active-archive-center-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T200300">2023-03-29 20:03:00 UTC</a></sub>
 * [DEVELOPING STORY: 1 Firefighter Dead, 3 Injured at French Guiana Space Center](https://tlpnetwork.com/news/2023/03/arianespace-guiana-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T193400">2023-03-29 19:34:00 UTC</a></sub>
 * [NASA Updates Psyche Mission Plan](https://tlpnetwork.com/news/2023/03/nasa-updates-psyche-mission-plan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T190300">2023-03-29 19:03:00 UTC</a></sub>
 * [Lockheed Martin To Build Lunar Communications And Navigation Network](https://tlpnetwork.com/news/2023/03/lockheed-martin-to-build-lunar-communications-and-navigation-network) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T172200">2023-03-29 17:22:00 UTC</a></sub>
@@ -193,9 +196,6 @@ region. The mission's status is currently Go for Launch
 * [SES confirms Intelsat merger talks](https://spacenews.com/ses-confirms-merger-talks-with-intelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T143830">2023-03-29 14:38:30 UTC</a></sub>
 * [NASA Receives Top Honor of Best Place to Work in Federal Government](http://www.nasa.gov/press-release/nasa-receives-top-honor-of-best-place-to-work-in-federal-government) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T134500">2023-03-29 13:45:00 UTC</a></sub>
 * [Space infrastructure company Redwire trims quarterly losses, builds order backlog](https://www.cnbc.com/2023/03/29/redwire-rdw-q4-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T134240">2023-03-29 13:42:40 UTC</a></sub>
-* [Israel launches Ofek spy satellite](https://spacenews.com/israel-ofek/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T132438">2023-03-29 13:24:38 UTC</a></sub>
-* [Impact Observatory raises $5.9 million to apply AI to satellite imagery](https://spacenews.com/impact-observatory-raises-5-9-million-to-apply-ai-to-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T130000">2023-03-29 13:00:00 UTC</a></sub>
-* [H3 failure could delay Japanese science missions](https://spacenews.com/h3-failure-could-delay-japanese-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T095319">2023-03-29 09:53:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -228,7 +228,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T203041">2023-03-29 20:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T210103">2023-03-29 21:01:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
