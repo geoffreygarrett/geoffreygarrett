@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [H3 failure could delay Japanese science missions](https://spacenews.com/h3-failure-could-delay-japanese-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T095319">2023-03-29 09:53:19 UTC</a></sub>
 * [Lockheed Martin subsidiary to offer commercial lunar communications and navigation services](https://spacenews.com/lockheed-martin-subsidiary-to-offer-commercial-lunar-communications-and-navigation-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T040728">2023-03-29 04:07:28 UTC</a></sub>
 * [Ovzon gets deadline extension for debut satellite](https://spacenews.com/ovzon-gets-deadline-extension-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T234331">2023-03-28 23:43:31 UTC</a></sub>
 * [U.S. Space Force ramps up cybersecurity spending](https://spacenews.com/u-s-space-force-ramps-up-cybersecurity-spending/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T194202">2023-03-28 19:42:02 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [NASA’s Jon B. Olansen to Serve as New Gateway Program Manager](http://www.nasa.gov/press-release/nasa-s-jon-b-olansen-to-serve-as-new-gateway-program-manager) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T161500">2023-03-28 16:15:00 UTC</a></sub>
 * [NASA Astronauts Bring STEM to Washington Students](http://www.nasa.gov/press-release/nasa-astronauts-bring-stem-to-washington-students) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T150500">2023-03-28 15:05:00 UTC</a></sub>
 * [Maxar unveils 30-centimeter global basemap](https://spacenews.com/maxar-unveils-30-centimeter-global-basemap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T140000">2023-03-28 14:00:00 UTC</a></sub>
-* [A front-runner emerges in the European small launcher race](https://arstechnica.com/science/2023/03/a-front-runner-emerges-in-the-european-small-launcher-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T135507">2023-03-28 13:55:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T093049">2023-03-29 09:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T103223">2023-03-29 10:32:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
