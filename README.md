@@ -187,6 +187,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DEVELOPING STORY: 1 Firefighter Dead, 3 Injured at French Guiana Space Center](https://tlpnetwork.com/news/2023/03/arianespace-guiana-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T193400">2023-03-29 19:34:00 UTC</a></sub>
 * [NASA Updates Psyche Mission Plan](https://tlpnetwork.com/news/2023/03/nasa-updates-psyche-mission-plan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T190300">2023-03-29 19:03:00 UTC</a></sub>
 * [Lockheed Martin To Build Lunar Communications And Navigation Network](https://tlpnetwork.com/news/2023/03/lockheed-martin-to-build-lunar-communications-and-navigation-network) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T172200">2023-03-29 17:22:00 UTC</a></sub>
 * [Starlink Group 5-10 prepares for launch, pending weather](https://www.nasaspaceflight.com/2023/03/starlink-group-5-10/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T162824">2023-03-29 16:28:24 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently Go for Launch
 * [Israel launches Ofek spy satellite](https://spacenews.com/israel-ofek/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T132438">2023-03-29 13:24:38 UTC</a></sub>
 * [Impact Observatory raises $5.9 million to apply AI to satellite imagery](https://spacenews.com/impact-observatory-raises-5-9-million-to-apply-ai-to-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T130000">2023-03-29 13:00:00 UTC</a></sub>
 * [H3 failure could delay Japanese science missions](https://spacenews.com/h3-failure-could-delay-japanese-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T095319">2023-03-29 09:53:19 UTC</a></sub>
-* [Lockheed Martin subsidiary to offer commercial lunar communications and navigation services](https://spacenews.com/lockheed-martin-subsidiary-to-offer-commercial-lunar-communications-and-navigation-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T040728">2023-03-29 04:07:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T193045">2023-03-29 19:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T200055">2023-03-29 20:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
