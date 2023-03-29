@@ -188,16 +188,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SES confirms merger talks with Intelsat](https://spacenews.com/ses-confirms-merger-talks-with-intelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T143830">2023-03-29 14:38:30 UTC</a></sub>
+* [NASA Receives Top Honor of Best Place to Work in Federal Government](http://www.nasa.gov/press-release/nasa-receives-top-honor-of-best-place-to-work-in-federal-government) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T134500">2023-03-29 13:45:00 UTC</a></sub>
+* [Space infrastructure company Redwire trims quarterly losses, builds order backlog](https://www.cnbc.com/2023/03/29/redwire-rdw-q4-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T134240">2023-03-29 13:42:40 UTC</a></sub>
 * [Israel launches Ofek spy satellite](https://spacenews.com/israel-ofek/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T132438">2023-03-29 13:24:38 UTC</a></sub>
+* [Impact Observatory raises $5.9 million to apply AI to satellite imagery](https://spacenews.com/impact-observatory-raises-5-9-million-to-apply-ai-to-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T130000">2023-03-29 13:00:00 UTC</a></sub>
 * [H3 failure could delay Japanese science missions](https://spacenews.com/h3-failure-could-delay-japanese-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T095319">2023-03-29 09:53:19 UTC</a></sub>
 * [Lockheed Martin subsidiary to offer commercial lunar communications and navigation services](https://spacenews.com/lockheed-martin-subsidiary-to-offer-commercial-lunar-communications-and-navigation-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T040728">2023-03-29 04:07:28 UTC</a></sub>
 * [Ovzon gets deadline extension for debut satellite](https://spacenews.com/ovzon-gets-deadline-extension-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T234331">2023-03-28 23:43:31 UTC</a></sub>
 * [U.S. Space Force ramps up cybersecurity spending](https://spacenews.com/u-s-space-force-ramps-up-cybersecurity-spending/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T194202">2023-03-28 19:42:02 UTC</a></sub>
 * [Air Force Secretary: ‘Haven’t made a decision on U.S. Space Command’ ](https://spacenews.com/air-force-secretary-havent-made-a-decision-on-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T175912">2023-03-28 17:59:12 UTC</a></sub>
-* [China to begin constructing its own megaconstellation later this year](https://spacenews.com/china-to-begin-constructing-its-own-megaconstellation-later-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T175304">2023-03-28 17:53:04 UTC</a></sub>
-* [Historic scrubs and aborts that could happen to Starship](https://www.nasaspaceflight.com/2023/03/starship-aborts-scrubs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T173336">2023-03-28 17:33:36 UTC</a></sub>
-* [NASA’s Jon B. Olansen to Serve as New Gateway Program Manager](http://www.nasa.gov/press-release/nasa-s-jon-b-olansen-to-serve-as-new-gateway-program-manager) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T161500">2023-03-28 16:15:00 UTC</a></sub>
-* [NASA Astronauts Bring STEM to Washington Students](http://www.nasa.gov/press-release/nasa-astronauts-bring-stem-to-washington-students) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T150500">2023-03-28 15:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T140045">2023-03-29 14:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T144753">2023-03-29 14:47:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
