@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed Martin To Build Lunar Communications And Navigation Network](https://tlpnetwork.com/news/2023/03/lockheed-martin-to-build-lunar-communications-and-navigation-network) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T172200">2023-03-29 17:22:00 UTC</a></sub>
 * [Starlink Group 5-10 prepares for launch, pending weather](https://www.nasaspaceflight.com/2023/03/starlink-group-5-10/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T162824">2023-03-29 16:28:24 UTC</a></sub>
 * [SES confirms Intelsat merger talks](https://spacenews.com/ses-confirms-merger-talks-with-intelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T143830">2023-03-29 14:38:30 UTC</a></sub>
 * [NASA Receives Top Honor of Best Place to Work in Federal Government](http://www.nasa.gov/press-release/nasa-receives-top-honor-of-best-place-to-work-in-federal-government) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T134500">2023-03-29 13:45:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [H3 failure could delay Japanese science missions](https://spacenews.com/h3-failure-could-delay-japanese-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T095319">2023-03-29 09:53:19 UTC</a></sub>
 * [Lockheed Martin subsidiary to offer commercial lunar communications and navigation services](https://spacenews.com/lockheed-martin-subsidiary-to-offer-commercial-lunar-communications-and-navigation-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T040728">2023-03-29 04:07:28 UTC</a></sub>
 * [Ovzon gets deadline extension for debut satellite](https://spacenews.com/ovzon-gets-deadline-extension-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T234331">2023-03-28 23:43:31 UTC</a></sub>
-* [U.S. Space Force ramps up cybersecurity spending](https://spacenews.com/u-s-space-force-ramps-up-cybersecurity-spending/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T194202">2023-03-28 19:42:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T171312">2023-03-29 17:13:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T175307">2023-03-29 17:53:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
