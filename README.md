@@ -188,7 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SES confirms merger talks with Intelsat](https://spacenews.com/ses-confirms-merger-talks-with-intelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T143830">2023-03-29 14:38:30 UTC</a></sub>
+* [Starlink Group 5-10 prepares for launch, pending weather](https://www.nasaspaceflight.com/2023/03/starlink-group-5-10/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T162824">2023-03-29 16:28:24 UTC</a></sub>
+* [SES confirms Intelsat merger talks](https://spacenews.com/ses-confirms-merger-talks-with-intelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T143830">2023-03-29 14:38:30 UTC</a></sub>
 * [NASA Receives Top Honor of Best Place to Work in Federal Government](http://www.nasa.gov/press-release/nasa-receives-top-honor-of-best-place-to-work-in-federal-government) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T134500">2023-03-29 13:45:00 UTC</a></sub>
 * [Space infrastructure company Redwire trims quarterly losses, builds order backlog](https://www.cnbc.com/2023/03/29/redwire-rdw-q4-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T134240">2023-03-29 13:42:40 UTC</a></sub>
 * [Israel launches Ofek spy satellite](https://spacenews.com/israel-ofek/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T132438">2023-03-29 13:24:38 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Lockheed Martin subsidiary to offer commercial lunar communications and navigation services](https://spacenews.com/lockheed-martin-subsidiary-to-offer-commercial-lunar-communications-and-navigation-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T040728">2023-03-29 04:07:28 UTC</a></sub>
 * [Ovzon gets deadline extension for debut satellite](https://spacenews.com/ovzon-gets-deadline-extension-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T234331">2023-03-28 23:43:31 UTC</a></sub>
 * [U.S. Space Force ramps up cybersecurity spending](https://spacenews.com/u-s-space-force-ramps-up-cybersecurity-spending/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T194202">2023-03-28 19:42:02 UTC</a></sub>
-* [Air Force Secretary: ‘Haven’t made a decision on U.S. Space Command’ ](https://spacenews.com/air-force-secretary-havent-made-a-decision-on-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T175912">2023-03-28 17:59:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T150950">2023-03-29 15:09:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T170048">2023-03-29 17:00:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
