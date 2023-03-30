@@ -186,6 +186,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Announces Moon To Mars Program Office](https://tlpnetwork.com/news/2023/03/nasa-announces-moon-to-mars-program-office) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T165300">2023-03-30 16:53:00 UTC</a></sub>
+* [New Program Office Leads NASA’s Path Forward for Moon, Mars](http://www.nasa.gov/press-release/new-program-office-leads-nasa-s-path-forward-for-moon-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T165300">2023-03-30 16:53:00 UTC</a></sub>
 * [BREAKING! Astronomers Discover Two Closest Black Holes to Earth](https://tlpnetwork.com/news/2023/03/astronomers-discover-two-closest-black-holes-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T162400">2023-03-30 16:24:00 UTC</a></sub>
 * [Investing in Space: Boeing’s got to get going](https://www.cnbc.com/2023/03/30/investing-in-space-boeings-got-to-get-going.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T155229">2023-03-30 15:52:29 UTC</a></sub>
 * [Chinese defense contractor to begin launching VLEO satellites](https://spacenews.com/chinese-defense-contractor-to-begin-launching-vleo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T122344">2023-03-30 12:23:44 UTC</a></sub>
@@ -194,8 +196,6 @@ region. The mission's status is currently Go for Launch
 * [Vulcan Experiences Anomaly During Test, Maiden Flight Delayed](https://tlpnetwork.com/news/2023/03/vulcan-experiences-anomaly-during-test-maiden-flight-delayed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T025300">2023-03-30 02:53:00 UTC</a></sub>
 * [Isar Aerospace Raises $165 Million Ahead Of First Launch](https://tlpnetwork.com/news/2023/03/isar-aerospace-raises-millions-ahead-of-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T002400">2023-03-30 00:24:00 UTC</a></sub>
 * [Starliner crewed test flight delayed to July](https://spacenews.com/starliner-crewed-test-flight-delayed-to-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T233252">2023-03-29 23:32:52 UTC</a></sub>
-* [Rosotics unveils 3D printer for rocket tanks and fairings](https://spacenews.com/rosotics-unveils-3d-printer-for-rocket-tanks-and-fairings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T232329">2023-03-29 23:23:29 UTC</a></sub>
-* [US Space Development Agency Ready To Launch First Satellites](https://tlpnetwork.com/news/2023/03/us-space-development-agency-ready-to-launch-first-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T232200">2023-03-29 23:22:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -228,7 +228,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T170038">2023-03-30 17:00:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T173059">2023-03-30 17:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
