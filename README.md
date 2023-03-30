@@ -188,6 +188,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! Virgin Orbit To Cease Operations, Lay Off 90% After Funding Failure](https://tlpnetwork.com/news/2023/03/virgin-orbit-to-cease-operations-lay-off-90-percent-after-funding-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T212200">2023-03-30 21:22:00 UTC</a></sub>
+* [Virgin Orbit fails to secure funding, will cease operations and lay off nearly entire workforce](https://www.cnbc.com/2023/03/30/virgin-orbit-funding-ceasing-operations-layoffs.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T210802">2023-03-30 21:08:02 UTC</a></sub>
+* [Maxar eyes military customers for satellite images of objects in space](https://spacenews.com/maxar-eyes-military-customers-for-satellite-images-of-objects-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T205420">2023-03-30 20:54:20 UTC</a></sub>
 * [Telesat still bullish on Lightspeed despite funding uncertainty](https://spacenews.com/telesat-still-bullish-on-lightspeed-despite-funding-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T202332">2023-03-30 20:23:32 UTC</a></sub>
 * [NASA Announces Moon To Mars Program Office](https://tlpnetwork.com/news/2023/03/nasa-announces-moon-to-mars-program-office) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T165300">2023-03-30 16:53:00 UTC</a></sub>
 * [New Program Office Leads NASA’s Path Forward for Moon, Mars](http://www.nasa.gov/press-release/new-program-office-leads-nasa-s-path-forward-for-moon-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T165300">2023-03-30 16:53:00 UTC</a></sub>
@@ -195,9 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Investing in Space: Boeing’s got to get going](https://www.cnbc.com/2023/03/30/investing-in-space-boeings-got-to-get-going.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T155229">2023-03-30 15:52:29 UTC</a></sub>
 * [Chinese defense contractor to begin launching VLEO satellites](https://spacenews.com/chinese-defense-contractor-to-begin-launching-vleo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T122344">2023-03-30 12:23:44 UTC</a></sub>
 * [SpaceX aborts launch with initial satellites for Space Development Agency](https://www.nasaspaceflight.com/2023/03/tranche-0-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T120156">2023-03-30 12:01:56 UTC</a></sub>
-* [NASA releases draft strategy for long-term robotic Mars exploration](https://spacenews.com/nasa-releases-draft-strategy-for-long-term-robotic-mars-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T113654">2023-03-30 11:36:54 UTC</a></sub>
-* [Vulcan Experiences Anomaly During Test, Maiden Flight Delayed](https://tlpnetwork.com/news/2023/03/vulcan-experiences-anomaly-during-test-maiden-flight-delayed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T025300">2023-03-30 02:53:00 UTC</a></sub>
-* [Isar Aerospace Raises $165 Million Ahead Of First Launch](https://tlpnetwork.com/news/2023/03/isar-aerospace-raises-millions-ahead-of-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T002400">2023-03-30 00:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T213041">2023-03-30 21:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T220117">2023-03-30 22:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
