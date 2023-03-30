@@ -142,6 +142,7 @@ region. The mission's status is currently Go for Launch
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Intelsat 40e</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T043900">2023-04-07 04:39:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Intelsat 40e&location=Cape Canaveral, FL, USA&dates=20230407T043900Z%2F20230407T043900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Transporter 7 (Dedicated SSO Rideshare)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T000000">2023-04-09 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20230409T000000Z%2F20230409T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>JUICE (JUpiter ICy moons Explorer)</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T121501">2023-04-13 12:15:01 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)&location=Kourou, French Guiana&dates=20230413T121501Z%2F20230413T121501Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>ViaSat-3 Americas</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T233600">2023-04-18 23:36:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230418T233600Z%2F20230418T233600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -187,8 +188,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [New Program Office Leads NASA’s Path Forward for Moon, Mars](http://www.nasa.gov/press-release/new-program-office-leads-nasa-s-path-forward-for-moon-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T165300">2023-03-30 16:53:00 UTC</a></sub>
+* [Telesat still bullish on Lightspeed despite funding uncertainty](https://spacenews.com/telesat-still-bullish-on-lightspeed-despite-funding-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T202332">2023-03-30 20:23:32 UTC</a></sub>
 * [NASA Announces Moon To Mars Program Office](https://tlpnetwork.com/news/2023/03/nasa-announces-moon-to-mars-program-office) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T165300">2023-03-30 16:53:00 UTC</a></sub>
+* [New Program Office Leads NASA’s Path Forward for Moon, Mars](http://www.nasa.gov/press-release/new-program-office-leads-nasa-s-path-forward-for-moon-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T165300">2023-03-30 16:53:00 UTC</a></sub>
 * [BREAKING! Astronomers Discover Two Closest Black Holes to Earth](https://tlpnetwork.com/news/2023/03/astronomers-discover-two-closest-black-holes-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T162400">2023-03-30 16:24:00 UTC</a></sub>
 * [Investing in Space: Boeing’s got to get going](https://www.cnbc.com/2023/03/30/investing-in-space-boeings-got-to-get-going.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T155229">2023-03-30 15:52:29 UTC</a></sub>
 * [Chinese defense contractor to begin launching VLEO satellites](https://spacenews.com/chinese-defense-contractor-to-begin-launching-vleo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T122344">2023-03-30 12:23:44 UTC</a></sub>
@@ -196,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [NASA releases draft strategy for long-term robotic Mars exploration](https://spacenews.com/nasa-releases-draft-strategy-for-long-term-robotic-mars-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T113654">2023-03-30 11:36:54 UTC</a></sub>
 * [Vulcan Experiences Anomaly During Test, Maiden Flight Delayed](https://tlpnetwork.com/news/2023/03/vulcan-experiences-anomaly-during-test-maiden-flight-delayed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T025300">2023-03-30 02:53:00 UTC</a></sub>
 * [Isar Aerospace Raises $165 Million Ahead Of First Launch](https://tlpnetwork.com/news/2023/03/isar-aerospace-raises-millions-ahead-of-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T002400">2023-03-30 00:24:00 UTC</a></sub>
-* [Starliner crewed test flight delayed to July](https://spacenews.com/starliner-crewed-test-flight-delayed-to-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T233252">2023-03-29 23:32:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T203036">2023-03-30 20:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T210059">2023-03-30 21:00:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
