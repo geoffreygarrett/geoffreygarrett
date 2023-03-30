@@ -187,16 +187,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Isar Aerospace Raises $165 Million Ahead Of First Launch](https://tlpnetwork.com/news/2023/03/isar-aerospace-raises-millions-ahead-of-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T002400">2023-03-30 00:24:00 UTC</a></sub>
 * [Starliner crewed test flight delayed to July](https://spacenews.com/starliner-crewed-test-flight-delayed-to-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T233252">2023-03-29 23:32:52 UTC</a></sub>
 * [Rosotics unveils 3D printer for rocket tanks and fairings](https://spacenews.com/rosotics-unveils-3d-printer-for-rocket-tanks-and-fairings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T232329">2023-03-29 23:23:29 UTC</a></sub>
+* [US Space Development Agency Ready To Launch First Satellites](https://tlpnetwork.com/news/2023/03/us-space-development-agency-ready-to-launch-first-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T232200">2023-03-29 23:22:00 UTC</a></sub>
 * [Military space agency created to go fast is about to launch its first satellites](https://spacenews.com/military-space-agency-created-to-go-fast-is-about-to-launch-its-first-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T221844">2023-03-29 22:18:44 UTC</a></sub>
 * [NASA delays flight of Boeing’s Starliner again, this time for parachutes](https://arstechnica.com/science/2023/03/nasa-delays-flight-of-boeings-starliner-again-this-time-for-parachutes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T213946">2023-03-29 21:39:46 UTC</a></sub>
 * [Satellite-imagery venture Planet reports record quarterly revenue to cap strong year](https://www.cnbc.com/2023/03/29/planet-pl-q4-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T204406">2023-03-29 20:44:06 UTC</a></sub>
 * [Planet acquires Slovenian startup Sinergise](https://spacenews.com/planet-acquires-slovenian-startup-sinergise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T201100">2023-03-29 20:11:00 UTC</a></sub>
 * [NASA Awards Snow and Ice Distributed Active Archive Center Contract](http://www.nasa.gov/press-release/nasa-awards-snow-and-ice-distributed-active-archive-center-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T200300">2023-03-29 20:03:00 UTC</a></sub>
 * [DEVELOPING STORY: 1 Firefighter Dead, 3 Injured at French Guiana Space Center](https://tlpnetwork.com/news/2023/03/arianespace-guiana-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T193400">2023-03-29 19:34:00 UTC</a></sub>
-* [NASA Updates Psyche Mission Plan](https://tlpnetwork.com/news/2023/03/nasa-updates-psyche-mission-plan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T190300">2023-03-29 19:03:00 UTC</a></sub>
-* [Lockheed Martin To Build Lunar Communications And Navigation Network](https://tlpnetwork.com/news/2023/03/lockheed-martin-to-build-lunar-communications-and-navigation-network) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T172200">2023-03-29 17:22:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T000142">2023-03-30 00:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T004456">2023-03-30 00:44:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
