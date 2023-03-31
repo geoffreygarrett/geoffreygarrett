@@ -188,6 +188,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrolab Signs Starship Launch Agreement For FLEX Rover Mission](https://tlpnetwork.com/news/2023/03/astrolab-signs-starship-launch-agreement-for-flex-rover-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T153000">2023-03-31 15:30:00 UTC</a></sub>
+* [NASA Updates Media on Next Private Astronaut Mission to Space Station](http://www.nasa.gov/press-release/nasa-updates-media-on-next-private-astronaut-mission-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T151300">2023-03-31 15:13:00 UTC</a></sub>
 * [NASA to Host Media Call on Upcoming Air Quality Satellite Launch](http://www.nasa.gov/press-release/nasa-to-host-media-call-on-upcoming-air-quality-satellite-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T142300">2023-03-31 14:23:00 UTC</a></sub>
 * [Astrolab to send rover to the moon on SpaceX’s Starship](https://spacenews.com/astrolab-to-send-rover-to-the-moon-on-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T142216">2023-03-31 14:22:16 UTC</a></sub>
 * [South Korea sets record space budget  to bolster industry, develop new rocket](https://spacenews.com/south-korea-sets-record-space-budget-to-bolster-industry-develop-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T122834">2023-03-31 12:28:34 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Rocket Report: ULA Centaur stage has an ‘anomaly,’ Virgin Orbit funding is dire](https://arstechnica.com/science/2023/03/rocket-report-ula-centaur-stage-has-an-anomaly-virgin-orbit-funding-is-dire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T110043">2023-03-31 11:00:43 UTC</a></sub>
 * [China launches 4 InSAR satellites and new Yaogan reconnaissance sat](https://spacenews.com/china-launches-4-insar-satellites-and-new-yaogan-reconnaissance-sat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T104323">2023-03-31 10:43:23 UTC</a></sub>
 * [Space official calls for China to seize crucial opportunity to establish lunar infrastructure](https://spacenews.com/space-official-calls-for-china-to-seize-crucial-opportunity-to-establish-lunar-infrastructure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T092243">2023-03-31 09:22:43 UTC</a></sub>
-* [Virgin Orbit lays off most employees](https://spacenews.com/virgin-orbit-lays-off-most-employees/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T224821">2023-03-30 22:48:21 UTC</a></sub>
-* [Virgin Orbit To Cease Operations, Lay Off 90% After Funding Failure](https://tlpnetwork.com/news/2023/03/virgin-orbit-to-cease-operations-lay-off-90-percent-after-funding-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T212200">2023-03-30 21:22:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T153038">2023-03-31 15:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T160144">2023-03-31 16:01:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
