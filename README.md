@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Orbit collapsed despite a billionaire’s backing and an intriguing plan. Here’s what happened](https://www.cnbc.com/2023/03/31/virgin-orbit-what-went-wrong.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T192041">2023-03-31 19:20:41 UTC</a></sub>
 * [NASA's Perseverance Collects First Mars Sample of New Science Campaign](https://mars.nasa.gov/news/9373/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T183400">2023-03-31 18:34:00 UTC</a></sub>
 * [Astrolab Signs Starship Launch Agreement For FLEX Rover Mission](https://tlpnetwork.com/news/2023/03/astrolab-signs-starship-launch-agreement-for-flex-rover-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T153000">2023-03-31 15:30:00 UTC</a></sub>
 * [NASA Updates Media on Next Private Astronaut Mission to Space Station](http://www.nasa.gov/press-release/nasa-updates-media-on-next-private-astronaut-mission-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T151300">2023-03-31 15:13:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Astra says Rocket 4 development on schedule for late 2023 first flight](https://spacenews.com/astra-says-rocket-4-development-on-schedule-for-late-2023-first-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T120906">2023-03-31 12:09:06 UTC</a></sub>
 * [Momentus successfully test-fires thruster on Vigoride-5](https://spacenews.com/momentus-successfully-test-fires-thruster-on-vigoride-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T110735">2023-03-31 11:07:35 UTC</a></sub>
 * [Rocket Report: ULA Centaur stage has an ‘anomaly,’ Virgin Orbit funding is dire](https://arstechnica.com/science/2023/03/rocket-report-ula-centaur-stage-has-an-anomaly-virgin-orbit-funding-is-dire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T110043">2023-03-31 11:00:43 UTC</a></sub>
-* [China launches 4 InSAR satellites and new Yaogan reconnaissance sat](https://spacenews.com/china-launches-4-insar-satellites-and-new-yaogan-reconnaissance-sat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T104323">2023-03-31 10:43:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T193036">2023-03-31 19:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T200109">2023-03-31 20:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
