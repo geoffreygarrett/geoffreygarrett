@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New Mars Map Created By NYUAD Scientists From UAE Mars Orbiter Photos](https://tlpnetwork.com/news/2023/04/new-mars-map-created-by-nyuad-scientists-from-uae-mars-orbiter-photos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T012100">2023-04-01 01:21:00 UTC</a></sub>
 * [China Preparing To Launch Mega Satellite Constellation This Year](https://tlpnetwork.com/news/2023/03/china-preparing-to-launch-mega-satellite-constellation-this-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T231500">2023-03-31 23:15:00 UTC</a></sub>
 * [NASA Reveals New Mars Robotic Exploration Strategy](https://tlpnetwork.com/news/2023/03/nasa-reveals-new-mars-robotic-exploration-strategy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T225400">2023-03-31 22:54:00 UTC</a></sub>
 * [Astra Loses $36M Last Quarter, Sets Target For First Rocket 4 Launch](https://tlpnetwork.com/news/2023/03/astra-loses-36-million-last-quarter-sets-target-for-first-rocket-4-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T224900">2023-03-31 22:49:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Astrolab Signs Starship Launch Agreement For FLEX Rover Mission](https://tlpnetwork.com/news/2023/03/astrolab-signs-starship-launch-agreement-for-flex-rover-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T153000">2023-03-31 15:30:00 UTC</a></sub>
 * [NASA Updates Media on Next Private Astronaut Mission to Space Station](http://www.nasa.gov/press-release/nasa-updates-media-on-next-private-astronaut-mission-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T151300">2023-03-31 15:13:00 UTC</a></sub>
 * [NASA to Host Media Call on Upcoming Air Quality Satellite Launch](http://www.nasa.gov/press-release/nasa-to-host-media-call-on-upcoming-air-quality-satellite-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T142300">2023-03-31 14:23:00 UTC</a></sub>
-* [Astrolab to send rover to the moon on SpaceX’s Starship](https://spacenews.com/astrolab-to-send-rover-to-the-moon-on-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T142216">2023-03-31 14:22:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T004526">2023-04-01 00:45:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T012714">2023-04-01 01:27:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
