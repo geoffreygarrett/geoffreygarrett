@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EGS Integration Console engineers review Artemis I campaign](https://www.nasaspaceflight.com/2023/04/egs-review-artemis-i-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T160858">2023-04-01 16:08:58 UTC</a></sub>
 * [New Mars Map Created By NYUAD Scientists From UAE Mars Orbiter Photos](https://tlpnetwork.com/news/2023/04/new-mars-map-created-by-nyuad-scientists-from-uae-mars-orbiter-photos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T012100">2023-04-01 01:21:00 UTC</a></sub>
 * [China Preparing To Launch Mega Satellite Constellation This Year](https://tlpnetwork.com/news/2023/03/china-preparing-to-launch-mega-satellite-constellation-this-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T231500">2023-03-31 23:15:00 UTC</a></sub>
 * [NASA Reveals New Mars Robotic Exploration Strategy](https://tlpnetwork.com/news/2023/03/nasa-reveals-new-mars-robotic-exploration-strategy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T225400">2023-03-31 22:54:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA's Perseverance Collects First Mars Sample of New Science Campaign](https://mars.nasa.gov/news/9373/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T183400">2023-03-31 18:34:00 UTC</a></sub>
 * [Astrolab Signs Starship Launch Agreement For FLEX Rover Mission](https://tlpnetwork.com/news/2023/03/astrolab-signs-starship-launch-agreement-for-flex-rover-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T153000">2023-03-31 15:30:00 UTC</a></sub>
 * [NASA Updates Media on Next Private Astronaut Mission to Space Station](http://www.nasa.gov/press-release/nasa-updates-media-on-next-private-astronaut-mission-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T151300">2023-03-31 15:13:00 UTC</a></sub>
-* [NASA to Host Media Call on Upcoming Air Quality Satellite Launch](http://www.nasa.gov/press-release/nasa-to-host-media-call-on-upcoming-air-quality-satellite-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T142300">2023-03-31 14:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T160048">2023-04-01 16:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T163311">2023-04-01 16:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
