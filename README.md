@@ -142,6 +142,7 @@ region. The mission's status is currently Go for Launch
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>O3b mPower 3 & 4</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T211200">2023-04-28 21:12:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 3 &amp; 4&location=Cape Canaveral, FL, USA&dates=20230428T211200Z%2F20230428T211200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 6-3</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-6</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-6&location=Vandenberg SFB, CA, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -187,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China’s Space Pioneer reaches orbit with liquid propellent rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellent-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
+* [China’s Space Pioneer reaches orbit with liquid propellant rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellant-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
 * [NASA policy discourages naming missions after individuals](https://spacenews.com/nasa-policy-discourages-naming-missions-after-individuals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T082103">2023-04-03 08:21:03 UTC</a></sub>
 * [SpaceX launches 10 satellites for U.S. Space Development Agency](https://spacenews.com/spacex-launches-10-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T150119">2023-04-02 15:01:19 UTC</a></sub>
 * [SpaceX launches initial satellites for Space Development Agency](https://www.nasaspaceflight.com/2023/04/tranche-0-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T120156">2023-04-02 12:01:56 UTC</a></sub>
@@ -195,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [EGS Integration Console engineers review Artemis I campaign](https://www.nasaspaceflight.com/2023/04/egs-review-artemis-i-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T160858">2023-04-01 16:08:58 UTC</a></sub>
 * [New Mars Map Created By NYUAD Scientists From UAE Mars Orbiter Photos](https://tlpnetwork.com/news/2023/04/new-mars-map-created-by-nyuad-scientists-from-uae-mars-orbiter-photos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T012100">2023-04-01 01:21:00 UTC</a></sub>
 * [China Preparing To Launch Mega Satellite Constellation This Year](https://tlpnetwork.com/news/2023/03/china-preparing-to-launch-mega-satellite-constellation-this-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T231500">2023-03-31 23:15:00 UTC</a></sub>
-* [NASA Reveals New Mars Robotic Exploration Strategy](https://tlpnetwork.com/news/2023/03/nasa-reveals-new-mars-robotic-exploration-strategy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T225400">2023-03-31 22:54:00 UTC</a></sub>
-* [Astra Loses $36M Last Quarter, Sets Target For First Rocket 4 Launch](https://tlpnetwork.com/news/2023/03/astra-loses-36-million-last-quarter-sets-target-for-first-rocket-4-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T224900">2023-03-31 22:49:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T090049">2023-04-03 09:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T093045">2023-04-03 09:30:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
