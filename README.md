@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [A passenger aircraft that flies around the world at Mach 9? Sure, why not](https://arstechnica.com/science/2023/04/a-passenger-aircraft-that-flies-around-the-world-at-mach-9-sure-why-not/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T122320">2023-04-03 12:23:20 UTC</a></sub>
+* [Japan delays H2A launch in the wake of H3 failure](https://spacenews.com/japan-delays-h2a-launch-in-the-wake-of-h3-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T121930">2023-04-03 12:19:30 UTC</a></sub>
 * [China’s Space Pioneer reaches orbit with liquid propellent rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellent-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
 * [China’s Space Pioneer reaches orbit with liquid propellant rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellant-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
 * [NASA policy discourages naming missions after individuals](https://spacenews.com/nasa-policy-discourages-naming-missions-after-individuals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T082103">2023-04-03 08:21:03 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [ISRO Successfully Conducts RLV Autonomous Landing Mission](https://tlpnetwork.com/news/2023/04/isro-successfully-conducts-rlv-autonomous-landing-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T024800">2023-04-02 02:48:00 UTC</a></sub>
 * [SpaceX moves Starship to launch site, and liftoff could be just days away](https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T205002">2023-04-01 20:50:02 UTC</a></sub>
 * [EGS Integration Console engineers review Artemis I campaign](https://www.nasaspaceflight.com/2023/04/egs-review-artemis-i-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T160858">2023-04-01 16:08:58 UTC</a></sub>
-* [New Mars Map Created By NYUAD Scientists From UAE Mars Orbiter Photos](https://tlpnetwork.com/news/2023/04/new-mars-map-created-by-nyuad-scientists-from-uae-mars-orbiter-photos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T012100">2023-04-01 01:21:00 UTC</a></sub>
-* [China Preparing To Launch Mega Satellite Constellation This Year](https://tlpnetwork.com/news/2023/03/china-preparing-to-launch-mega-satellite-constellation-this-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T231500">2023-03-31 23:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T120106">2023-04-03 12:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T123903">2023-04-03 12:39:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
