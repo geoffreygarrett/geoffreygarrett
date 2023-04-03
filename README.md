@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [All of a sudden, NASA’s return to the Moon feels rather real](https://arstechnica.com/science/2023/04/we-now-know-who-will-be-at-the-tip-of-the-spear-for-our-return-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T222110">2023-04-03 22:21:10 UTC</a></sub>
 * [Thuraya invests in Astrocast’s LEO constellation](https://spacenews.com/thuraya-invests-in-astrocasts-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T213742">2023-04-03 21:37:42 UTC</a></sub>
 * [Lockheed Martin selected by Australia for military satcom project](https://spacenews.com/lockheed-martin-selected-by-australia-for-military-satcom-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T202207">2023-04-03 20:22:07 UTC</a></sub>
 * [Using JWST, scientists observe silicate clouds and measure the temperature of exoplanets](https://www.nasaspaceflight.com/2023/04/jwst-clouds-temp-exoplanets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T190010">2023-04-03 19:00:10 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Names Astronauts to Next Moon Mission, First Crew Under Artemis](http://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T154500">2023-04-03 15:45:00 UTC</a></sub>
 * [NASA unveils the four astronauts who will fly on the Artemis 2 mission around the moon in 2024](https://www.cnbc.com/2023/04/03/nasa-unveils-artemis-ii-astronauts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T153548">2023-04-03 15:35:48 UTC</a></sub>
 * [BREAKING! NASA Announces Artemis 2 Crew](https://tlpnetwork.com/news/2023/04/nasa-announces-artemis-2-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T150600">2023-04-03 15:06:00 UTC</a></sub>
-* [Testing the Promise of Harnessing Ocean Energy with Satellite Technology](https://spacenews.com/testing-the-promise-of-harnessing-ocean-energy-with-satellite-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T131800">2023-04-03 13:18:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T230046">2023-04-03 23:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T233051">2023-04-03 23:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
