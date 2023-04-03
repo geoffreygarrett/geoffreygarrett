@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Thuraya invests in Astrocast’s LEO constellation](https://spacenews.com/thuraya-invests-in-astrocasts-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T213742">2023-04-03 21:37:42 UTC</a></sub>
 * [Lockheed Martin selected by Australia for military satcom project](https://spacenews.com/lockheed-martin-selected-by-australia-for-military-satcom-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T202207">2023-04-03 20:22:07 UTC</a></sub>
 * [Using JWST, scientists observe silicate clouds and measure the temperature of exoplanets](https://www.nasaspaceflight.com/2023/04/jwst-clouds-temp-exoplanets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T190010">2023-04-03 19:00:10 UTC</a></sub>
 * [Kleos Space, Spire Global get contract extensions from NRO](https://spacenews.com/kleos-space-spire-global-get-contract-extensions-from-nro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T183159">2023-04-03 18:31:59 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA unveils the four astronauts who will fly on the Artemis 2 mission around the moon in 2024](https://www.cnbc.com/2023/04/03/nasa-unveils-artemis-ii-astronauts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T153548">2023-04-03 15:35:48 UTC</a></sub>
 * [BREAKING! NASA Announces Artemis 2 Crew](https://tlpnetwork.com/news/2023/04/nasa-announces-artemis-2-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T150600">2023-04-03 15:06:00 UTC</a></sub>
 * [Redwire to demonstrate a security camera for military satellites](https://spacenews.com/redwire-to-demonstrate-a-security-camera-for-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T125520">2023-04-03 12:55:20 UTC</a></sub>
-* [A passenger aircraft that flies around the world at Mach 9? Sure, why not](https://arstechnica.com/science/2023/04/a-passenger-aircraft-that-flies-around-the-world-at-mach-9-sure-why-not/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T122320">2023-04-03 12:23:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T213040">2023-04-03 21:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T220051">2023-04-03 22:00:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
