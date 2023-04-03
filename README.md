@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA announces crew for Artemis 2 mission](https://spacenews.com/nasa-announces-crew-for-artemis-2-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T160354">2023-04-03 16:03:54 UTC</a></sub>
 * [NASA Names Astronauts to Next Moon Mission, First Crew Under Artemis](http://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T154500">2023-04-03 15:45:00 UTC</a></sub>
 * [NASA unveils the four astronauts who will fly on the Artemis 2 mission around the moon in 2024](https://www.cnbc.com/2023/04/03/nasa-unveils-artemis-ii-astronauts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T153548">2023-04-03 15:35:48 UTC</a></sub>
 * [BREAKING! NASA Announces Artemis 2 Crew](https://tlpnetwork.com/news/2023/04/nasa-announces-artemis-2-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T150600">2023-04-03 15:06:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [China’s Space Pioneer reaches orbit with liquid propellent rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellent-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
 * [China’s Space Pioneer reaches orbit with liquid propellant rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellant-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
 * [NASA policy discourages naming missions after individuals](https://spacenews.com/nasa-policy-discourages-naming-missions-after-individuals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T082103">2023-04-03 08:21:03 UTC</a></sub>
-* [SpaceX launches 10 satellites for U.S. Space Development Agency](https://spacenews.com/spacex-launches-10-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T150119">2023-04-02 15:01:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T160102">2023-04-03 16:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T163354">2023-04-03 16:33:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
