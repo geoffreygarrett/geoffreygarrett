@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! Virgin Orbit Files For Bankruptcy ](https://tlpnetwork.com/news/2023/04/virgin-orbit-files-for-bankruptcy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T121105">2023-04-04 12:11:05 UTC</a></sub>
+* [Virgin Orbit files for bankruptcy](https://spacenews.com/virgin-orbit-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T120256">2023-04-04 12:02:56 UTC</a></sub>
 * [Richard Branson's Virgin Orbit files for bankruptcy, to seek buyer](https://www.reuters.com/business/aerospace-defense/bransons-virgin-orbit-files-bankruptcy-2023-04-04/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T090000">2023-04-04 09:00:00 UTC</a></sub>
 * [All of a sudden, NASA’s return to the Moon feels rather real](https://arstechnica.com/science/2023/04/we-now-know-who-will-be-at-the-tip-of-the-spear-for-our-return-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T222110">2023-04-03 22:21:10 UTC</a></sub>
 * [Thuraya invests in Astrocast’s LEO constellation](https://spacenews.com/thuraya-invests-in-astrocasts-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T213742">2023-04-03 21:37:42 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Kleos Space, Spire Global get contract extensions from NRO](https://spacenews.com/kleos-space-spire-global-get-contract-extensions-from-nro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T183159">2023-04-03 18:31:59 UTC</a></sub>
 * [NASA designa astronautas para su próxima misión de Artemis a la Luna](http://www.nasa.gov/press-release/nasa-designa-astronautas-para-su-pr-xima-misi-n-de-artemis-a-la-luna) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T172500">2023-04-03 17:25:00 UTC</a></sub>
 * [NASA announces crew for Artemis 2 mission](https://spacenews.com/nasa-announces-crew-for-artemis-2-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T160354">2023-04-03 16:03:54 UTC</a></sub>
-* [NASA Names Astronauts to Next Moon Mission, First Crew Under Artemis](http://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T154500">2023-04-03 15:45:00 UTC</a></sub>
-* [NASA unveils the four astronauts who will fly on the Artemis 2 mission around the moon in 2024](https://www.cnbc.com/2023/04/03/nasa-unveils-artemis-ii-astronauts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T153548">2023-04-03 15:35:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T120106">2023-04-04 12:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T123916">2023-04-04 12:39:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
