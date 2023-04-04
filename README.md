@@ -191,6 +191,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EGS launch team looking forward to working with Artemis II crew](https://www.nasaspaceflight.com/2023/04/egs-launch-team-artemis-ii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T151047">2023-04-04 15:10:47 UTC</a></sub>
 * [Apex to launch first satellite in 2024](https://spacenews.com/apex-to-launch-first-satellite-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T141058">2023-04-04 14:10:58 UTC</a></sub>
 * [Virgin Orbit formally enters bankruptcy, seeking a buyer](https://arstechnica.com/science/2023/04/virgin-orbit-formally-enters-bankruptcy-seeking-a-buyer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T133749">2023-04-04 13:37:49 UTC</a></sub>
 * [BREAKING! Virgin Orbit Files For Bankruptcy ](https://tlpnetwork.com/news/2023/04/virgin-orbit-files-for-bankruptcy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T121105">2023-04-04 12:11:05 UTC</a></sub>
@@ -200,7 +201,6 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 * [Thuraya invests in Astrocast’s LEO constellation](https://spacenews.com/thuraya-invests-in-astrocasts-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T213742">2023-04-03 21:37:42 UTC</a></sub>
 * [Lockheed Martin selected by Australia for military satcom project](https://spacenews.com/lockheed-martin-selected-by-australia-for-military-satcom-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T202207">2023-04-03 20:22:07 UTC</a></sub>
 * [Using JWST, scientists observe silicate clouds and measure the temperature of exoplanets](https://www.nasaspaceflight.com/2023/04/jwst-clouds-temp-exoplanets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T190010">2023-04-03 19:00:10 UTC</a></sub>
-* [Kleos Space, Spire Global get contract extensions from NRO](https://spacenews.com/kleos-space-spire-global-get-contract-extensions-from-nro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T183159">2023-04-03 18:31:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T150106">2023-04-04 15:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T153100">2023-04-04 15:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
