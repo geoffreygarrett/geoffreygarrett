@@ -191,6 +191,8 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Apex to launch first satellite in 2024](https://spacenews.com/apex-to-launch-first-satellite-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T141058">2023-04-04 14:10:58 UTC</a></sub>
+* [Virgin Orbit formally enters bankruptcy, seeking a buyer](https://arstechnica.com/science/2023/04/virgin-orbit-formally-enters-bankruptcy-seeking-a-buyer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T133749">2023-04-04 13:37:49 UTC</a></sub>
 * [BREAKING! Virgin Orbit Files For Bankruptcy ](https://tlpnetwork.com/news/2023/04/virgin-orbit-files-for-bankruptcy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T121105">2023-04-04 12:11:05 UTC</a></sub>
 * [Virgin Orbit files for bankruptcy](https://spacenews.com/virgin-orbit-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T120256">2023-04-04 12:02:56 UTC</a></sub>
 * [Richard Branson's Virgin Orbit files for bankruptcy, to seek buyer](https://www.reuters.com/business/aerospace-defense/bransons-virgin-orbit-files-bankruptcy-2023-04-04/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T090000">2023-04-04 09:00:00 UTC</a></sub>
@@ -199,8 +201,6 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 * [Lockheed Martin selected by Australia for military satcom project](https://spacenews.com/lockheed-martin-selected-by-australia-for-military-satcom-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T202207">2023-04-03 20:22:07 UTC</a></sub>
 * [Using JWST, scientists observe silicate clouds and measure the temperature of exoplanets](https://www.nasaspaceflight.com/2023/04/jwst-clouds-temp-exoplanets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T190010">2023-04-03 19:00:10 UTC</a></sub>
 * [Kleos Space, Spire Global get contract extensions from NRO](https://spacenews.com/kleos-space-spire-global-get-contract-extensions-from-nro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T183159">2023-04-03 18:31:59 UTC</a></sub>
-* [NASA designa astronautas para su próxima misión de Artemis a la Luna](http://www.nasa.gov/press-release/nasa-designa-astronautas-para-su-pr-xima-misi-n-de-artemis-a-la-luna) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T172500">2023-04-03 17:25:00 UTC</a></sub>
-* [NASA announces crew for Artemis 2 mission](https://spacenews.com/nasa-announces-crew-for-artemis-2-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T160354">2023-04-03 16:03:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T133104">2023-04-04 13:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T143112">2023-04-04 14:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
