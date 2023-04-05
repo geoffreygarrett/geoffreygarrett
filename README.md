@@ -191,6 +191,8 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [A New Zealand company has started flying a rocket-powered spaceplane](https://arstechnica.com/science/2023/04/a-new-zealand-company-has-started-flying-a-rocket-powered-spaceplane/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T173036">2023-04-05 17:30:36 UTC</a></sub>
+* [Dawn flies rocket-powered spaceplane](https://spacenews.com/dawn-flies-rocket-powered-spaceplane/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T173000">2023-04-05 17:30:00 UTC</a></sub>
 * [New Interactive Mosaic Uses NASA Imagery to Show Mars in Vivid Detail](https://mars.nasa.gov/news/9375/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T161500">2023-04-05 16:15:00 UTC</a></sub>
 * [Updated space safety document outlines rules of the road for avoiding collisions](https://spacenews.com/updated-space-safety-document-outlines-rules-of-the-road-for-avoiding-collisions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T113352">2023-04-05 11:33:52 UTC</a></sub>
 * [Apple executive Doug Beck tapped to lead the Defense Innovation Unit](https://spacenews.com/apple-executive-doug-beck-to-lead-the-defense-innovation-unit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T202449">2023-04-04 20:24:49 UTC</a></sub>
@@ -199,8 +201,6 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 * [EGS launch team looking forward to working with Artemis II crew](https://www.nasaspaceflight.com/2023/04/egs-launch-team-artemis-ii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T151047">2023-04-04 15:10:47 UTC</a></sub>
 * [Apex to launch first satellite in 2024](https://spacenews.com/apex-to-launch-first-satellite-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T141058">2023-04-04 14:10:58 UTC</a></sub>
 * [Arabsat blames thruster issue for temporary satellite outage](https://spacenews.com/arabsat-blames-thruster-issue-for-temporary-satellite-outage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T140000">2023-04-04 14:00:00 UTC</a></sub>
-* [Virgin Orbit formally enters bankruptcy, seeking a buyer](https://arstechnica.com/science/2023/04/virgin-orbit-formally-enters-bankruptcy-seeking-a-buyer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T133749">2023-04-04 13:37:49 UTC</a></sub>
-* [Virgin Orbit Files For Bankruptcy ](https://tlpnetwork.com/news/2023/04/virgin-orbit-files-for-bankruptcy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T121105">2023-04-04 12:11:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T173056">2023-04-05 17:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T180101">2023-04-05 18:01:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
