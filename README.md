@@ -211,6 +211,8 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The Planetary Society, American Geophysical Union, and Prominent Academic Institutions Call on Congress to Save VERITAS Mission to Venus](https://www.planetary.org/articles/joint-letter-supporting-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142619">2023-04-05 14:26:19 UTC</a></sub>
+* [Why we need VERITAS](https://www.planetary.org/articles/why-we-need-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142618">2023-04-05 14:26:18 UTC</a></sub>
 * [Unusual Uranus! Moist Moon! Volcanic Venus!](https://www.planetary.org/the-downlink/unusual-uranus-moist-moon-volcanic-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T143406">2023-03-31 14:34:06 UTC</a></sub>
 * [Asteroids worth getting psyched about](https://www.planetary.org/the-downlink/asteroids-worth-getting-psyched-about) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T143535">2023-03-24 14:35:35 UTC</a></sub>
 * [What the search for aliens can learn from life on Earth](https://www.planetary.org/articles/what-the-search-for-aliens-can-learn-from-life-on-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T150535">2023-03-23 15:05:35 UTC</a></sub>
@@ -219,8 +221,6 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 * [Volcanic Venus, myriad moons, and space sonification](https://www.planetary.org/the-downlink/volcanic-venus-myriad-moons-and-space-sonification) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T143535">2023-03-17 14:35:35 UTC</a></sub>
 * [NASA’s 2024 budget proposal is pretty good, but it faces political headwinds](https://www.planetary.org/articles/nasas-2024-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T163534">2023-03-16 16:35:34 UTC</a></sub>
 * [The Planetary Society is co-hosting “Asteroid Hunters” screening in Vienna](https://www.planetary.org/the-planetary-society-is-co-hosting-asteroid-hunters-screening-in-vienna) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T155533">2023-03-16 15:55:33 UTC</a></sub>
-* [Scientists spot possible signs of active volcanism on Venus](https://www.planetary.org/articles/possible-active-volcanism-on-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T180530">2023-03-15 18:05:30 UTC</a></sub>
-* [The secrets of Jupiter’s tiny new moons](https://www.planetary.org/articles/secrets-of-jupiters-new-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T140534">2023-03-14 14:05:34 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -233,7 +233,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T140048">2023-04-05 14:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T143116">2023-04-05 14:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
