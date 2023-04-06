@@ -191,6 +191,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Earth science hosted payload set for launch on Intelsat satellite](https://spacenews.com/nasa-earth-science-hosted-payload-set-for-launch-on-intelsat-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T023146">2023-04-06 02:31:46 UTC</a></sub>
 * [Space Development Agency’s first satellite launch hailed as model](https://spacenews.com/space-development-agencys-first-satellite-launch-hailed-as-model/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T230413">2023-04-05 23:04:13 UTC</a></sub>
 * [Space Force embraces unconventional ways to attract and retain talent](https://spacenews.com/space-force-embraces-unconventional-ways-to-attract-and-retain-talent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T204537">2023-04-05 20:45:37 UTC</a></sub>
 * [A New Zealand company has started flying a rocket-powered spaceplane](https://arstechnica.com/science/2023/04/a-new-zealand-company-has-started-flying-a-rocket-powered-spaceplane/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T173036">2023-04-05 17:30:36 UTC</a></sub>
@@ -200,7 +201,6 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 * [Apple executive Doug Beck tapped to lead the Defense Innovation Unit](https://spacenews.com/apple-executive-doug-beck-to-lead-the-defense-innovation-unit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T202449">2023-04-04 20:24:49 UTC</a></sub>
 * [NASA TV Coverage Set for Crew to Move Soyuz Space Station Location](http://www.nasa.gov/press-release/nasa-tv-coverage-set-for-crew-to-move-soyuz-space-station-location) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T185500">2023-04-04 18:55:00 UTC</a></sub>
 * [Virgin Orbit COO calls out company leadership for failures in goodbye memo. Read the full email](https://www.cnbc.com/2023/04/04/virgin-orbit-coo-goodbye-email.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T184100">2023-04-04 18:41:00 UTC</a></sub>
-* [EGS launch team looking forward to working with Artemis II crew](https://www.nasaspaceflight.com/2023/04/egs-launch-team-artemis-ii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T151047">2023-04-04 15:10:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T023604">2023-04-06 02:36:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T030058">2023-04-06 03:00:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
