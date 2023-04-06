@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Deloitte formalizes its space consulting business, with an eye on growth](https://www.cnbc.com/2023/04/06/investing-in-space-orbital-consulting.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T155558">2023-04-06 15:55:58 UTC</a></sub>
 * [NASA Awards Innovative Concept Studies for Science, Exploration](http://www.nasa.gov/press-release/nasa-awards-innovative-concept-studies-for-science-exploration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T143500">2023-04-06 14:35:00 UTC</a></sub>
 * [NASA Sets Coverage for Air Quality Instrument Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-air-quality-instrument-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T131500">2023-04-06 13:15:00 UTC</a></sub>
 * [Startup aims to fill technology gaps in space warfare](https://spacenews.com/startup-aims-to-fill-technology-gaps-in-space-warfare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T131339">2023-04-06 13:13:39 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Space Development Agency’s first satellite launch hailed as model](https://spacenews.com/space-development-agencys-first-satellite-launch-hailed-as-model/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T230413">2023-04-05 23:04:13 UTC</a></sub>
 * [Space Force embraces unconventional ways to attract and retain talent](https://spacenews.com/space-force-embraces-unconventional-ways-to-attract-and-retain-talent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T204537">2023-04-05 20:45:37 UTC</a></sub>
 * [A New Zealand company has started flying a rocket-powered spaceplane](https://arstechnica.com/science/2023/04/a-new-zealand-company-has-started-flying-a-rocket-powered-spaceplane/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T173036">2023-04-05 17:30:36 UTC</a></sub>
-* [Dawn flies rocket-powered spaceplane](https://spacenews.com/dawn-flies-rocket-powered-spaceplane/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T173000">2023-04-05 17:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T160113">2023-04-06 16:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T163344">2023-04-06 16:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
