@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Innovative Concept Studies for Science, Exploration](http://www.nasa.gov/press-release/nasa-awards-innovative-concept-studies-for-science-exploration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T143500">2023-04-06 14:35:00 UTC</a></sub>
 * [NASA Sets Coverage for Air Quality Instrument Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-air-quality-instrument-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T131500">2023-04-06 13:15:00 UTC</a></sub>
 * [Startup aims to fill technology gaps in space warfare](https://spacenews.com/startup-aims-to-fill-technology-gaps-in-space-warfare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T131339">2023-04-06 13:13:39 UTC</a></sub>
 * [Loft Orbital orders 15 more buses from Airbus OneWeb Satellites](https://spacenews.com/loft-orbital-orders-15-more-buses-from-airbus-oneweb-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T110410">2023-04-06 11:04:10 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force embraces unconventional ways to attract and retain talent](https://spacenews.com/space-force-embraces-unconventional-ways-to-attract-and-retain-talent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T204537">2023-04-05 20:45:37 UTC</a></sub>
 * [A New Zealand company has started flying a rocket-powered spaceplane](https://arstechnica.com/science/2023/04/a-new-zealand-company-has-started-flying-a-rocket-powered-spaceplane/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T173036">2023-04-05 17:30:36 UTC</a></sub>
 * [Dawn flies rocket-powered spaceplane](https://spacenews.com/dawn-flies-rocket-powered-spaceplane/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T173000">2023-04-05 17:30:00 UTC</a></sub>
-* [New Interactive Mosaic Uses NASA Imagery to Show Mars in Vivid Detail](https://mars.nasa.gov/news/9375/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T161500">2023-04-05 16:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -209,6 +209,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Juice launch and mission preview: What to expect](https://www.planetary.org/articles/juice-launch-mission-preview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T143529">2023-04-06 14:35:29 UTC</a></sub>
 * [The Planetary Society, American Geophysical Union, and Prominent Academic Institutions Call on Congress to Save VERITAS Mission to Venus](https://www.planetary.org/articles/joint-letter-supporting-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142619">2023-04-05 14:26:19 UTC</a></sub>
 * [Why we need VERITAS](https://www.planetary.org/articles/why-we-need-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142618">2023-04-05 14:26:18 UTC</a></sub>
 * [Unusual Uranus! Moist Moon! Volcanic Venus!](https://www.planetary.org/the-downlink/unusual-uranus-moist-moon-volcanic-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T143406">2023-03-31 14:34:06 UTC</a></sub>
@@ -218,7 +219,6 @@ region. The mission's status is currently Go for Launch
 * [Vulcan: Tanking tests performed on ULA's new rocket](https://blog.ulalaunch.com/blog/vulcan-tanking-tests-performed-on-ulas-new-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T182542">2023-03-17 18:25:42 UTC</a></sub>
 * [Volcanic Venus, myriad moons, and space sonification](https://www.planetary.org/the-downlink/volcanic-venus-myriad-moons-and-space-sonification) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T143535">2023-03-17 14:35:35 UTC</a></sub>
 * [NASA’s 2024 budget proposal is pretty good, but it faces political headwinds](https://www.planetary.org/articles/nasas-2024-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T163534">2023-03-16 16:35:34 UTC</a></sub>
-* [The Planetary Society is co-hosting “Asteroid Hunters” screening in Vienna](https://www.planetary.org/the-planetary-society-is-co-hosting-asteroid-hunters-screening-in-vienna) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T155533">2023-03-16 15:55:33 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T143047">2023-04-06 14:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T150107">2023-04-06 15:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
