@@ -187,6 +187,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: Starship gets a tentative launch date; China tests ocean landing](https://arstechnica.com/science/2023/04/rocket-report-starship-gets-a-tentative-launch-date-china-tests-ocean-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T111515">2023-04-07 11:15:15 UTC</a></sub>
 * [NASA’s High-Resolution Air Quality Control Instrument Launches](http://www.nasa.gov/press-release/nasa-s-high-resolution-air-quality-control-instrument-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T054500">2023-04-07 05:45:00 UTC</a></sub>
 * [SpaceX launches Intelsat 40e with NASA’s TEMPO instrument](https://www.nasaspaceflight.com/2023/04/inteslat-40e-tempo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T051913">2023-04-07 05:19:13 UTC</a></sub>
 * [NOAA seeks funding increases for next-generation satellite programs](https://spacenews.com/noaa-seeks-funding-increases-for-next-generation-satellite-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T230833">2023-04-06 23:08:33 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX Sets Timeline For Inaugural Starship Flight](https://tlpnetwork.com/news/2023/04/spacex-sets-timeline-for-inaugural-starship-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T183300">2023-04-06 18:33:00 UTC</a></sub>
 * [NASA Administrator Names New Goddard Center Director](http://www.nasa.gov/press-release/nasa-administrator-names-new-goddard-center-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T180500">2023-04-06 18:05:00 UTC</a></sub>
 * [Investing in Space: Deloitte formalizes its space consulting business, with an eye on growth](https://www.cnbc.com/2023/04/06/investing-in-space-orbital-consulting.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T155558">2023-04-06 15:55:58 UTC</a></sub>
-* [NASA Awards Innovative Concept Studies for Science, Exploration](http://www.nasa.gov/press-release/nasa-awards-innovative-concept-studies-for-science-exploration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T143500">2023-04-06 14:35:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T110045">2023-04-07 11:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T113050">2023-04-07 11:30:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
