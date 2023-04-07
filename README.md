@@ -187,6 +187,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches Intelsat’s IS-40e high throughput satellite](https://spacenews.com/spacex-launches-intelsats-is-40e-high-throughput-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T173202">2023-04-07 17:32:02 UTC</a></sub>
 * [Two recent wargames hold timely lessons for space resilience](https://spacenews.com/two-recent-wargames-hold-timely-lessons-for-space-resilience/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T141018">2023-04-07 14:10:18 UTC</a></sub>
 * [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T121739">2023-04-07 12:17:39 UTC</a></sub>
 * [Second Axiom Space mission to ISS scheduled for May](https://spacenews.com/second-axiom-space-mission-to-iss-scheduled-for-may/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T114445">2023-04-07 11:44:45 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently To Be Confirmed
 * [NOAA seeks funding increases for next-generation satellite programs](https://spacenews.com/noaa-seeks-funding-increases-for-next-generation-satellite-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T230833">2023-04-06 23:08:33 UTC</a></sub>
 * [Norwegian Cruise Line plots Starlink rollout](https://spacenews.com/norwegian-cruise-line-plots-starlink-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T224517">2023-04-06 22:45:17 UTC</a></sub>
 * [Space Force renames Greenland’s Thule Air Base](https://spacenews.com/space-force-renames-greenlands-thule-air-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T215743">2023-04-06 21:57:43 UTC</a></sub>
-* [Starship into final preps for launch targeting second half of April](https://www.nasaspaceflight.com/2023/04/starship-targeting-h2-april/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T191824">2023-04-06 19:18:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T173041">2023-04-07 17:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T180057">2023-04-07 18:00:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
