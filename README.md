@@ -187,6 +187,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T121739">2023-04-07 12:17:39 UTC</a></sub>
 * [Second Axiom Space mission to ISS scheduled for May](https://spacenews.com/second-axiom-space-mission-to-iss-scheduled-for-may/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T114445">2023-04-07 11:44:45 UTC</a></sub>
 * [Rocket Report: Starship gets a tentative launch date; China tests ocean landing](https://arstechnica.com/science/2023/04/rocket-report-starship-gets-a-tentative-launch-date-china-tests-ocean-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T111515">2023-04-07 11:15:15 UTC</a></sub>
 * [NASA’s High-Resolution Air Quality Control Instrument Launches](http://www.nasa.gov/press-release/nasa-s-high-resolution-air-quality-control-instrument-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T054500">2023-04-07 05:45:00 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently To Be Confirmed
 * [Space Force renames Greenland’s Thule Air Base](https://spacenews.com/space-force-renames-greenlands-thule-air-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T215743">2023-04-06 21:57:43 UTC</a></sub>
 * [Starship into final preps for launch targeting second half of April](https://www.nasaspaceflight.com/2023/04/starship-targeting-h2-april/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T191824">2023-04-06 19:18:24 UTC</a></sub>
 * [SpaceX Sets Timeline For Inaugural Starship Flight](https://tlpnetwork.com/news/2023/04/spacex-sets-timeline-for-inaugural-starship-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T183300">2023-04-06 18:33:00 UTC</a></sub>
-* [NASA Administrator Names New Goddard Center Director](http://www.nasa.gov/press-release/nasa-administrator-names-new-goddard-center-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T180500">2023-04-06 18:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T120054">2023-04-07 12:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T123813">2023-04-07 12:38:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
