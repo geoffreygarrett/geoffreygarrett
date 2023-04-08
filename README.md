@@ -187,8 +187,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New photo reveals extent of Centaur V anomaly explosion [Updated]](https://arstechnica.com/science/2023/04/ula-continues-investigation-of-centaur-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230408T023023">2023-04-08 02:30:23 UTC</a></sub>
 * [What to expect on the day of Starship's Orbital Test Flight](https://tlpnetwork.com/news/2023/04/starship-oft-launch-day) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T185700">2023-04-07 18:57:00 UTC</a></sub>
-* [ULA continues investigation of Centaur stage “anomaly”](https://arstechnica.com/science/2023/04/ula-continues-investigation-of-centaur-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T182723">2023-04-07 18:27:23 UTC</a></sub>
 * [SpaceX launches Intelsat’s IS-40e high throughput satellite](https://spacenews.com/spacex-launches-intelsats-is-40e-high-throughput-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T173202">2023-04-07 17:32:02 UTC</a></sub>
 * [Two recent wargames hold timely lessons for space resilience](https://spacenews.com/two-recent-wargames-hold-timely-lessons-for-space-resilience/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T141018">2023-04-07 14:10:18 UTC</a></sub>
 * [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T121739">2023-04-07 12:17:39 UTC</a></sub>
@@ -229,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230408T023354">2023-04-08 02:33:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230408T030109">2023-04-08 03:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
