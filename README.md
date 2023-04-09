@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman developing military communications satellite for 2025 launch](https://spacenews.com/northrop-grumman-developing-military-communications-satellite-for-2025-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T214647">2023-04-09 21:46:47 UTC</a></sub>
 * [NASA sets up Moon to Mars office](https://spacenews.com/nasa-sets-up-moon-to-mars-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T003528">2023-04-09 00:35:28 UTC</a></sub>
 * [New photo reveals extent of Centaur V anomaly explosion [Updated]](https://arstechnica.com/science/2023/04/ula-continues-investigation-of-centaur-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230408T023023">2023-04-08 02:30:23 UTC</a></sub>
 * [What to expect on the day of Starship's Orbital Test Flight](https://tlpnetwork.com/news/2023/04/starship-oft-launch-day) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T185700">2023-04-07 18:57:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [Second Axiom Space mission to ISS scheduled for May](https://spacenews.com/second-axiom-space-mission-to-iss-scheduled-for-may/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T114445">2023-04-07 11:44:45 UTC</a></sub>
 * [Rocket Report: Starship gets a tentative launch date; China tests ocean landing](https://arstechnica.com/science/2023/04/rocket-report-starship-gets-a-tentative-launch-date-china-tests-ocean-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T111515">2023-04-07 11:15:15 UTC</a></sub>
 * [NASA’s High-Resolution Air Quality Control Instrument Launches](http://www.nasa.gov/press-release/nasa-s-high-resolution-air-quality-control-instrument-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T054500">2023-04-07 05:45:00 UTC</a></sub>
-* [SpaceX launches Intelsat 40e with NASA’s TEMPO instrument](https://www.nasaspaceflight.com/2023/04/inteslat-40e-tempo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T051913">2023-04-07 05:19:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T220055">2023-04-09 22:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T223039">2023-04-09 22:30:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
