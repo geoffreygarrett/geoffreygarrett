@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX’s Starship vehicle is ready to fly, just waiting for a launch license](https://arstechnica.com/science/2023/04/spacexs-starship-vehicle-is-ready-to-fly-just-waiting-for-a-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T130304">2023-04-10 13:03:04 UTC</a></sub>
 * [Canada proposes to develop robotic lunar rover for Artemis](https://spacenews.com/canada-proposes-to-develop-robotic-lunar-rover-for-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T120104">2023-04-10 12:01:04 UTC</a></sub>
 * [Report recommends allowing “learning period” for commercial human spaceflight safety regulations to expire](https://spacenews.com/report-recommends-allowing-learning-period-for-commercial-human-spaceflight-safety-regulations-to-expire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T111318">2023-04-10 11:13:18 UTC</a></sub>
 * [Northrop Grumman developing military communications satellite for 2025 launch](https://spacenews.com/northrop-grumman-developing-military-communications-satellite-for-2025-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T214647">2023-04-09 21:46:47 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [SpaceX launches Intelsat’s IS-40e high throughput satellite](https://spacenews.com/spacex-launches-intelsats-is-40e-high-throughput-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T173202">2023-04-07 17:32:02 UTC</a></sub>
 * [Two recent wargames hold timely lessons for space resilience](https://spacenews.com/two-recent-wargames-hold-timely-lessons-for-space-resilience/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T141018">2023-04-07 14:10:18 UTC</a></sub>
 * [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T121739">2023-04-07 12:17:39 UTC</a></sub>
-* [Second Axiom Space mission to ISS scheduled for May](https://spacenews.com/second-axiom-space-mission-to-iss-scheduled-for-may/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T114445">2023-04-07 11:44:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -209,6 +209,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [ICPS-2: ULA begins readying upper stage for Artemis II launch](https://blog.ulalaunch.com/blog/icps-2-ula-begins-readying-upper-stage-for-artemis-ii-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T132515">2023-04-10 13:25:15 UTC</a></sub>
 * [A mission to pull back the shroud](https://www.planetary.org/the-downlink/a-mission-to-pull-back-the-shroud) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T143504">2023-04-07 14:35:04 UTC</a></sub>
 * [Juice launch and mission preview: What to expect](https://www.planetary.org/articles/juice-launch-mission-preview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T143529">2023-04-06 14:35:29 UTC</a></sub>
 * [The Planetary Society, American Geophysical Union, and Prominent Academic Institutions Call on Congress to Save VERITAS Mission to Venus](https://www.planetary.org/articles/joint-letter-supporting-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142619">2023-04-05 14:26:19 UTC</a></sub>
@@ -218,7 +219,6 @@ region. The mission's status is currently To Be Confirmed
 * [What the search for aliens can learn from life on Earth](https://www.planetary.org/articles/what-the-search-for-aliens-can-learn-from-life-on-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T150535">2023-03-23 15:05:35 UTC</a></sub>
 * [The Planetary Society’s Space Book Club](https://www.planetary.org/articles/the-planetary-societys-space-book-club) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T150533">2023-03-22 15:05:33 UTC</a></sub>
 * [Vulcan: Tanking tests performed on ULA's new rocket](https://blog.ulalaunch.com/blog/vulcan-tanking-tests-performed-on-ulas-new-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T182542">2023-03-17 18:25:42 UTC</a></sub>
-* [Volcanic Venus, myriad moons, and space sonification](https://www.planetary.org/the-downlink/volcanic-venus-myriad-moons-and-space-sonification) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T143535">2023-03-17 14:35:35 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T130223">2023-04-10 13:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T133055">2023-04-10 13:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
