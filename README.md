@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Canada proposes to develop robotic lunar rover for Artemis](https://spacenews.com/canada-proposes-to-develop-robotic-lunar-rover-for-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T120104">2023-04-10 12:01:04 UTC</a></sub>
 * [Report recommends allowing “learning period” for commercial human spaceflight safety regulations to expire](https://spacenews.com/report-recommends-allowing-learning-period-for-commercial-human-spaceflight-safety-regulations-to-expire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T111318">2023-04-10 11:13:18 UTC</a></sub>
 * [Northrop Grumman developing military communications satellite for 2025 launch](https://spacenews.com/northrop-grumman-developing-military-communications-satellite-for-2025-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T214647">2023-04-09 21:46:47 UTC</a></sub>
 * [NASA sets up Moon to Mars office](https://spacenews.com/nasa-sets-up-moon-to-mars-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T003528">2023-04-09 00:35:28 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [Two recent wargames hold timely lessons for space resilience](https://spacenews.com/two-recent-wargames-hold-timely-lessons-for-space-resilience/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T141018">2023-04-07 14:10:18 UTC</a></sub>
 * [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T121739">2023-04-07 12:17:39 UTC</a></sub>
 * [Second Axiom Space mission to ISS scheduled for May](https://spacenews.com/second-axiom-space-mission-to-iss-scheduled-for-may/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T114445">2023-04-07 11:44:45 UTC</a></sub>
-* [Rocket Report: Starship gets a tentative launch date; China tests ocean landing](https://arstechnica.com/science/2023/04/rocket-report-starship-gets-a-tentative-launch-date-china-tests-ocean-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T111515">2023-04-07 11:15:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T120108">2023-04-10 12:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T123843">2023-04-10 12:38:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
