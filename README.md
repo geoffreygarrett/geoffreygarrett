@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Preventing sticker shock with transparent pricing](https://spacenews.com/preventing-sticker-shock-with-transparent-pricing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T172538">2023-04-10 17:25:38 UTC</a></sub>
 * [Connecting the Dots | European space investments get serious](https://spacenews.com/connecting-the-dots-european-space-investments-get-serious/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T133859">2023-04-10 13:38:59 UTC</a></sub>
 * [SpaceX’s Starship vehicle is ready to fly, just waiting for a launch license](https://arstechnica.com/science/2023/04/spacexs-starship-vehicle-is-ready-to-fly-just-waiting-for-a-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T130304">2023-04-10 13:03:04 UTC</a></sub>
 * [Canada proposes to develop robotic lunar rover for Artemis](https://spacenews.com/canada-proposes-to-develop-robotic-lunar-rover-for-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T120104">2023-04-10 12:01:04 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [New photo reveals extent of Centaur V anomaly explosion [Updated]](https://arstechnica.com/science/2023/04/ula-continues-investigation-of-centaur-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230408T023023">2023-04-08 02:30:23 UTC</a></sub>
 * [What to expect on the day of Starship's Orbital Test Flight](https://tlpnetwork.com/news/2023/04/starship-oft-launch-day) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T185700">2023-04-07 18:57:00 UTC</a></sub>
 * [SpaceX launches Intelsat’s IS-40e high throughput satellite](https://spacenews.com/spacex-launches-intelsats-is-40e-high-throughput-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T173202">2023-04-07 17:32:02 UTC</a></sub>
-* [Two recent wargames hold timely lessons for space resilience](https://spacenews.com/two-recent-wargames-hold-timely-lessons-for-space-resilience/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T141018">2023-04-07 14:10:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T173051">2023-04-10 17:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T180100">2023-04-10 18:01:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
