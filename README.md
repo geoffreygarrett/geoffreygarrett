@@ -189,6 +189,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Next O3b mPower satellites en route to launchpad](https://spacenews.com/next-o3b-mpower-satellites-en-route-to-launchpad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T140100">2023-04-11 14:01:00 UTC</a></sub>
+* [Op-ed | Practical applications of a space mission authorization framework](https://spacenews.com/op-ed-practical-applications-of-a-space-mission-authorization-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T133650">2023-04-11 13:36:50 UTC</a></sub>
+* [Ball taps Loft and Microsoft for SDA NExT program](https://spacenews.com/ball-taps-loft-and-microsoft-for-sda-next-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T130000">2023-04-11 13:00:00 UTC</a></sub>
 * [Lockheed Martin makes a big bet on commercial space and the Moon](https://arstechnica.com/science/2023/04/lockheed-martin-makes-a-big-bet-on-commercial-space-and-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T124404">2023-04-11 12:44:04 UTC</a></sub>
 * [Virgin Orbit seeking expedited bankruptcy sale](https://spacenews.com/virgin-orbit-seeking-expedited-bankruptcy-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T115733">2023-04-11 11:57:33 UTC</a></sub>
 * [Rocket Lab shifts NASA cubesat launches from Virginia to New Zealand](https://spacenews.com/rocket-lab-shifts-nasa-cubesat-launches-from-virginia-to-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T111250">2023-04-11 11:12:50 UTC</a></sub>
@@ -196,9 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab Sets Launch Dates For TROPICS Launches](https://tlpnetwork.com/news/2023/04/rocketlab-announces-tropics-launch-dates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T220600">2023-04-10 22:06:00 UTC</a></sub>
 * [Report: U.S. military satellite antennas overdue for upgrades](https://spacenews.com/report-u-s-military-satellite-antennas-overdue-for-upgrades/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T212257">2023-04-10 21:22:57 UTC</a></sub>
 * [Preventing sticker shock with transparent pricing](https://spacenews.com/preventing-sticker-shock-with-transparent-pricing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T172538">2023-04-10 17:25:38 UTC</a></sub>
-* [Connecting the Dots | European space investments get serious](https://spacenews.com/connecting-the-dots-european-space-investments-get-serious/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T133859">2023-04-10 13:38:59 UTC</a></sub>
-* [SpaceX’s Starship vehicle is ready to fly, just waiting for a launch license](https://arstechnica.com/science/2023/04/spacexs-starship-vehicle-is-ready-to-fly-just-waiting-for-a-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T130304">2023-04-10 13:03:04 UTC</a></sub>
-* [Canada proposes to develop robotic lunar rover for Artemis](https://spacenews.com/canada-proposes-to-develop-robotic-lunar-rover-for-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T120104">2023-04-10 12:01:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T140044">2023-04-11 14:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T143048">2023-04-11 14:30:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
