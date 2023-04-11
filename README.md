@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! SpaceX Sets Launch Date for Starship Integrated Flight Test](https://tlpnetwork.com/news/2023/04/spacex-sets-date-for-starship-integrated-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T213800">2023-04-11 21:38:00 UTC</a></sub>
 * [Next O3b mPower satellites en route to launchpad](https://spacenews.com/next-o3b-mpower-satellites-en-route-to-launchpad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T140100">2023-04-11 14:01:00 UTC</a></sub>
 * [Op-ed | Practical applications of a space mission authorization framework](https://spacenews.com/op-ed-practical-applications-of-a-space-mission-authorization-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T133650">2023-04-11 13:36:50 UTC</a></sub>
 * [Ball taps Loft and Microsoft for SDA NExT program](https://spacenews.com/ball-taps-loft-and-microsoft-for-sda-next-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T130000">2023-04-11 13:00:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [China to target asteroid 2019 VL5 for 2025 planetary defense test](https://spacenews.com/china-to-target-asteroid-2019-vl5-for-2025-planetary-defense-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T101316">2023-04-11 10:13:16 UTC</a></sub>
 * [Rocket Lab Sets Launch Dates For TROPICS Launches](https://tlpnetwork.com/news/2023/04/rocketlab-announces-tropics-launch-dates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T220600">2023-04-10 22:06:00 UTC</a></sub>
 * [Report: U.S. military satellite antennas overdue for upgrades](https://spacenews.com/report-u-s-military-satellite-antennas-overdue-for-upgrades/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T212257">2023-04-10 21:22:57 UTC</a></sub>
-* [Preventing sticker shock with transparent pricing](https://spacenews.com/preventing-sticker-shock-with-transparent-pricing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T172538">2023-04-10 17:25:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T213035">2023-04-11 21:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T220047">2023-04-11 22:00:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
