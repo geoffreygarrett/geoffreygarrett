@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab shifts NASA cubesat launches from Virginia to New Zealand](https://spacenews.com/rocket-lab-shifts-nasa-cubesat-launches-from-virginia-to-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T111250">2023-04-11 11:12:50 UTC</a></sub>
 * [China to target asteroid 2019 VL5 for 2025 planetary defense test](https://spacenews.com/china-to-target-asteroid-2019-vl5-for-2025-planetary-defense-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T101316">2023-04-11 10:13:16 UTC</a></sub>
 * [Rocket Lab Sets Launch Dates For TROPICS Launches](https://tlpnetwork.com/news/2023/04/rocketlab-announces-tropics-launch-dates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T220600">2023-04-10 22:06:00 UTC</a></sub>
 * [Report: U.S. military satellite antennas overdue for upgrades](https://spacenews.com/report-u-s-military-satellite-antennas-overdue-for-upgrades/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T212257">2023-04-10 21:22:57 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Canada proposes to develop robotic lunar rover for Artemis](https://spacenews.com/canada-proposes-to-develop-robotic-lunar-rover-for-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T120104">2023-04-10 12:01:04 UTC</a></sub>
 * [Report recommends allowing “learning period” for commercial human spaceflight safety regulations to expire](https://spacenews.com/report-recommends-allowing-learning-period-for-commercial-human-spaceflight-safety-regulations-to-expire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T111318">2023-04-10 11:13:18 UTC</a></sub>
 * [Northrop Grumman developing military communications satellite for 2025 launch](https://spacenews.com/northrop-grumman-developing-military-communications-satellite-for-2025-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T214647">2023-04-09 21:46:47 UTC</a></sub>
-* [NASA sets up Moon to Mars office](https://spacenews.com/nasa-sets-up-moon-to-mars-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T003528">2023-04-09 00:35:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T110044">2023-04-11 11:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T113054">2023-04-11 11:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
