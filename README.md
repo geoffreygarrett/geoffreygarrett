@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to target asteroid 2019 VL5 for 2025 planetary defense test](https://spacenews.com/china-to-target-asteroid-2019-vl5-for-2025-planetary-defense-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T101316">2023-04-11 10:13:16 UTC</a></sub>
 * [Rocket Lab Sets Launch Dates For TROPICS Launches](https://tlpnetwork.com/news/2023/04/rocketlab-announces-tropics-launch-dates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T220600">2023-04-10 22:06:00 UTC</a></sub>
 * [Report: U.S. military satellite antennas overdue for upgrades](https://spacenews.com/report-u-s-military-satellite-antennas-overdue-for-upgrades/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T212257">2023-04-10 21:22:57 UTC</a></sub>
 * [Preventing sticker shock with transparent pricing](https://spacenews.com/preventing-sticker-shock-with-transparent-pricing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T172538">2023-04-10 17:25:38 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Report recommends allowing “learning period” for commercial human spaceflight safety regulations to expire](https://spacenews.com/report-recommends-allowing-learning-period-for-commercial-human-spaceflight-safety-regulations-to-expire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T111318">2023-04-10 11:13:18 UTC</a></sub>
 * [Northrop Grumman developing military communications satellite for 2025 launch](https://spacenews.com/northrop-grumman-developing-military-communications-satellite-for-2025-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T214647">2023-04-09 21:46:47 UTC</a></sub>
 * [NASA sets up Moon to Mars office](https://spacenews.com/nasa-sets-up-moon-to-mars-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230409T003528">2023-04-09 00:35:28 UTC</a></sub>
-* [New photo reveals extent of Centaur V anomaly explosion [Updated]](https://arstechnica.com/science/2023/04/ula-continues-investigation-of-centaur-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230408T023023">2023-04-08 02:30:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T100114">2023-04-11 10:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T103134">2023-04-11 10:31:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
