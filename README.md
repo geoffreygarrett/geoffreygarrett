@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA set to launch JUICE to Jupiter’s icy moons atop Ariane 5](https://www.nasaspaceflight.com/2023/04/juice-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T161733">2023-04-12 16:17:33 UTC</a></sub>
 * [Delivering Data: What customers get wrong about the ground segment](https://spacenews.com/delivering-data-what-customers-get-wrong-about-the-ground-segment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T142456">2023-04-12 14:24:56 UTC</a></sub>
 * [Relativity Space is moving on from the Terran 1 rocket to something much bigger](https://arstechnica.com/science/2023/04/relativity-space-is-moving-on-from-the-terran-1-rocket-to-something-much-bigger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T141941">2023-04-12 14:19:41 UTC</a></sub>
 * [Relativity goes ‘all in’ on larger reusable rocket, shifting 3D-printing approach after first launch](https://www.cnbc.com/2023/04/12/relativity-all-in-on-terran-r-rocket-shifting-3d-printing-approach.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T140002">2023-04-12 14:00:02 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Ariane 5 ready to launch ESA’s JUICE mission to Jupiter](https://spacenews.com/ariane-5-ready-to-launch-esas-juice-mission-to-jupiter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T114014">2023-04-12 11:40:14 UTC</a></sub>
 * [Space Force to propose plan to acquire high-capacity satellite communications](https://spacenews.com/space-force-to-propose-plan-to-acquire-high-capacity-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T011000">2023-04-12 01:10:00 UTC</a></sub>
 * [FCC launches space-focused bureau](https://spacenews.com/fcc-launches-space-focused-bureau/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T224322">2023-04-11 22:43:22 UTC</a></sub>
-* [SpaceX Sets Launch Date for Starship Integrated Flight Test](https://tlpnetwork.com/news/2023/04/spacex-sets-date-for-starship-integrated-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T213800">2023-04-11 21:38:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T160101">2023-04-12 16:01:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T163405">2023-04-12 16:34:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
