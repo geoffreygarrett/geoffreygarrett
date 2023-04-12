@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force to propose plan to acquire high-capacity satellite communications](https://spacenews.com/space-force-to-propose-plan-to-acquire-high-capacity-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T011000">2023-04-12 01:10:00 UTC</a></sub>
 * [FCC launches space-focused bureau](https://spacenews.com/fcc-launches-space-focused-bureau/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T224322">2023-04-11 22:43:22 UTC</a></sub>
 * [BREAKING! SpaceX Sets Launch Date for Starship Integrated Flight Test](https://tlpnetwork.com/news/2023/04/spacex-sets-date-for-starship-integrated-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T213800">2023-04-11 21:38:00 UTC</a></sub>
 * [Next O3b mPower satellites en route to launchpad](https://spacenews.com/next-o3b-mpower-satellites-en-route-to-launchpad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T140100">2023-04-11 14:01:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Virgin Orbit seeking expedited bankruptcy sale](https://spacenews.com/virgin-orbit-seeking-expedited-bankruptcy-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T115733">2023-04-11 11:57:33 UTC</a></sub>
 * [Rocket Lab shifts NASA cubesat launches from Virginia to New Zealand](https://spacenews.com/rocket-lab-shifts-nasa-cubesat-launches-from-virginia-to-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T111250">2023-04-11 11:12:50 UTC</a></sub>
 * [China to target asteroid 2019 VL5 for 2025 planetary defense test](https://spacenews.com/china-to-target-asteroid-2019-vl5-for-2025-planetary-defense-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T101316">2023-04-11 10:13:16 UTC</a></sub>
-* [Rocket Lab Sets Launch Dates For TROPICS Launches](https://tlpnetwork.com/news/2023/04/rocketlab-announces-tropics-launch-dates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T220600">2023-04-10 22:06:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T015314">2023-04-12 01:53:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T021428">2023-04-12 02:14:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
