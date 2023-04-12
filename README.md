@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Op-ed | U.S. leadership of cislunar space hinges on foresight and planning](https://spacenews.com/op-ed-u-s-leadership-of-cislunar-space-hinges-on-foresight-and-planning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T121100">2023-04-12 12:11:00 UTC</a></sub>
+* [Slingshot’s space-tracking network to extend coverage of low Earth orbit](https://spacenews.com/slingshots-space-tracking-network-to-extend-coverage-of-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T120000">2023-04-12 12:00:00 UTC</a></sub>
 * [Ariane 5 ready to launch ESA’s JUICE mission to Jupiter](https://spacenews.com/ariane-5-ready-to-launch-esas-juice-mission-to-jupiter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T114014">2023-04-12 11:40:14 UTC</a></sub>
 * [Space Force to propose plan to acquire high-capacity satellite communications](https://spacenews.com/space-force-to-propose-plan-to-acquire-high-capacity-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T011000">2023-04-12 01:10:00 UTC</a></sub>
 * [FCC launches space-focused bureau](https://spacenews.com/fcc-launches-space-focused-bureau/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T224322">2023-04-11 22:43:22 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Op-ed | Practical applications of a space mission authorization framework](https://spacenews.com/op-ed-practical-applications-of-a-space-mission-authorization-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T133650">2023-04-11 13:36:50 UTC</a></sub>
 * [Ball taps Loft and Microsoft for SDA NExT program](https://spacenews.com/ball-taps-loft-and-microsoft-for-sda-next-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T130000">2023-04-11 13:00:00 UTC</a></sub>
 * [Lockheed Martin makes a big bet on commercial space and the Moon](https://arstechnica.com/science/2023/04/lockheed-martin-makes-a-big-bet-on-commercial-space-and-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T124404">2023-04-11 12:44:04 UTC</a></sub>
-* [Virgin Orbit seeking expedited bankruptcy sale](https://spacenews.com/virgin-orbit-seeking-expedited-bankruptcy-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T115733">2023-04-11 11:57:33 UTC</a></sub>
-* [Rocket Lab shifts NASA cubesat launches from Virginia to New Zealand](https://spacenews.com/rocket-lab-shifts-nasa-cubesat-launches-from-virginia-to-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T111250">2023-04-11 11:12:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T130309">2023-04-12 13:03:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T133051">2023-04-12 13:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
