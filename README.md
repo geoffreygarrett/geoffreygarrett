@@ -191,7 +191,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Space Force to propose plan to acquire high-capacity satellite communications](https://spacenews.com/space-force-to-propose-plan-to-acquire-high-capacity-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T011000">2023-04-12 01:10:00 UTC</a></sub>
 * [FCC launches space-focused bureau](https://spacenews.com/fcc-launches-space-focused-bureau/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T224322">2023-04-11 22:43:22 UTC</a></sub>
-* [BREAKING! SpaceX Sets Launch Date for Starship Integrated Flight Test](https://tlpnetwork.com/news/2023/04/spacex-sets-date-for-starship-integrated-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T213800">2023-04-11 21:38:00 UTC</a></sub>
+* [SpaceX Sets Launch Date for Starship Integrated Flight Test](https://tlpnetwork.com/news/2023/04/spacex-sets-date-for-starship-integrated-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T213800">2023-04-11 21:38:00 UTC</a></sub>
 * [Next O3b mPower satellites en route to launchpad](https://spacenews.com/next-o3b-mpower-satellites-en-route-to-launchpad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T140100">2023-04-11 14:01:00 UTC</a></sub>
 * [Op-ed | Practical applications of a space mission authorization framework](https://spacenews.com/op-ed-practical-applications-of-a-space-mission-authorization-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T133650">2023-04-11 13:36:50 UTC</a></sub>
 * [Ball taps Loft and Microsoft for SDA NExT program](https://spacenews.com/ball-taps-loft-and-microsoft-for-sda-next-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T130000">2023-04-11 13:00:00 UTC</a></sub>
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T093040">2023-04-12 09:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T100108">2023-04-12 10:01:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
