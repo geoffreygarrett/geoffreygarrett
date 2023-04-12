@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amid commercial boom, U.S. military lacks timely access to satellite imagery](https://spacenews.com/amid-commercial-boom-u-s-military-lacks-timely-access-to-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T223911">2023-04-12 22:39:11 UTC</a></sub>
+* [Europe is about to launch one of its most ambitious missions ever](https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T215946">2023-04-12 21:59:46 UTC</a></sub>
 * [Inmarsat and MediaTek expand direct-to-device partnership](https://spacenews.com/inmarsat-and-mediatek-expand-direct-to-device-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T214545">2023-04-12 21:45:45 UTC</a></sub>
 * [ESA set to launch JUICE to Jupiter’s icy moons atop Ariane 5](https://www.nasaspaceflight.com/2023/04/juice-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T161733">2023-04-12 16:17:33 UTC</a></sub>
 * [Delivering Data: What customers get wrong about the ground segment](https://spacenews.com/delivering-data-what-customers-get-wrong-about-the-ground-segment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T142456">2023-04-12 14:24:56 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [ISRO Successfully Completes Final Long Duration Hot Fire Test of Human-Rated Vikas Engine](https://tlpnetwork.com/news/2023/04/isro-qualifies-human-rated-vikas-engine-for-gaganyaan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T134900">2023-04-12 13:49:00 UTC</a></sub>
 * [Op-ed | U.S. leadership of cislunar space hinges on foresight and planning](https://spacenews.com/op-ed-u-s-leadership-of-cislunar-space-hinges-on-foresight-and-planning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T121100">2023-04-12 12:11:00 UTC</a></sub>
 * [Slingshot’s space-tracking network to extend coverage of low Earth orbit](https://spacenews.com/slingshots-space-tracking-network-to-extend-coverage-of-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T120000">2023-04-12 12:00:00 UTC</a></sub>
-* [Ariane 5 ready to launch ESA’s JUICE mission to Jupiter](https://spacenews.com/ariane-5-ready-to-launch-esas-juice-mission-to-jupiter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T114014">2023-04-12 11:40:14 UTC</a></sub>
-* [Space Force to propose plan to acquire high-capacity satellite communications](https://spacenews.com/space-force-to-propose-plan-to-acquire-high-capacity-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T011000">2023-04-12 01:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T223049">2023-04-12 22:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T230100">2023-04-12 23:01:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
