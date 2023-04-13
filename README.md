@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Convene Mars Sample Return Review](https://mars.nasa.gov/news/9377/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T192500">2023-04-13 19:25:00 UTC</a></sub>
+* [Boeing unveils WGS-11 design with new military payload](https://spacenews.com/boeing-unveils-wgs-11-design-with-new-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T190225">2023-04-13 19:02:25 UTC</a></sub>
 * [Draper completes initial milestones for NASA CLPS mission](https://spacenews.com/draper-completes-initial-milestones-for-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T171905">2023-04-13 17:19:05 UTC</a></sub>
 * [NASA's Curiosity Mars Rover Gets a Major Software Upgrade](https://mars.nasa.gov/news/9378/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T165500">2023-04-13 16:55:00 UTC</a></sub>
 * [Investing in Space: Intelsat signs up for Northrop Grumman satellite servicing](https://www.cnbc.com/2023/04/13/investing-in-space-intelsat-signs-up-for-northrop-grumman-satellite-servicing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T145244">2023-04-13 14:52:44 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Kepler Communications raises $92 million for optical data relay network](https://spacenews.com/kepler-communications-raises-92-million-for-optical-data-relay-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T111101">2023-04-13 11:11:01 UTC</a></sub>
 * [Relativity shelves Terran 1 after one launch, redesigns Terran R](https://spacenews.com/relativity-shelves-terran-1-after-one-launch-redesigns-terran-r/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T011442">2023-04-13 01:14:42 UTC</a></sub>
 * [Amid commercial boom, U.S. military lacks timely access to satellite imagery](https://spacenews.com/amid-commercial-boom-u-s-military-lacks-timely-access-to-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T223911">2023-04-12 22:39:11 UTC</a></sub>
-* [Europe is about to launch one of its most ambitious missions ever](https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T215946">2023-04-12 21:59:46 UTC</a></sub>
-* [Inmarsat and MediaTek expand direct-to-device partnership](https://spacenews.com/inmarsat-and-mediatek-expand-direct-to-device-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T214545">2023-04-12 21:45:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T190045">2023-04-13 19:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T193100">2023-04-13 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
