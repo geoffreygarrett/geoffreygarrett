@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Intelsat signs up for Northrop Grumman satellite servicing](https://www.cnbc.com/2023/04/13/investing-in-space-intelsat-signs-up-for-northrop-grumman-satellite-servicing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T145244">2023-04-13 14:52:44 UTC</a></sub>
 * [Space Systems Command’s Tetra-1 begins mission operations](https://spacenews.com/tetra-1-begins-mission-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T120000">2023-04-13 12:00:00 UTC</a></sub>
 * [ESCAPADE confident in planned 2024 New Glenn launch](https://spacenews.com/escapade-confident-in-planned-2024-new-glenn-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T114213">2023-04-13 11:42:13 UTC</a></sub>
 * [Kepler Communications raises $92 million for optical data relay network](https://spacenews.com/kepler-communications-raises-92-million-for-optical-data-relay-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T111101">2023-04-13 11:11:01 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Inmarsat and MediaTek expand direct-to-device partnership](https://spacenews.com/inmarsat-and-mediatek-expand-direct-to-device-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T214545">2023-04-12 21:45:45 UTC</a></sub>
 * [ESA reschedules JUICE launch to Jupiter’s icy moons atop Ariane 5](https://www.nasaspaceflight.com/2023/04/juice-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T161733">2023-04-12 16:17:33 UTC</a></sub>
 * [Delivering Data: What customers get wrong about the ground segment](https://spacenews.com/delivering-data-what-customers-get-wrong-about-the-ground-segment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T142456">2023-04-12 14:24:56 UTC</a></sub>
-* [Relativity Space is moving on from the Terran 1 rocket to something much bigger](https://arstechnica.com/science/2023/04/relativity-space-is-moving-on-from-the-terran-1-rocket-to-something-much-bigger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T141941">2023-04-12 14:19:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T143055">2023-04-13 14:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T150114">2023-04-13 15:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
