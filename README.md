@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kepler Communications raises $92 million for optical data relay network](https://spacenews.com/kepler-communications-raises-92-million-for-optical-data-relay-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T111101">2023-04-13 11:11:01 UTC</a></sub>
 * [Relativity shelves Terran 1 after one launch, redesigns Terran R](https://spacenews.com/relativity-shelves-terran-1-after-one-launch-redesigns-terran-r/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T011442">2023-04-13 01:14:42 UTC</a></sub>
 * [Amid commercial boom, U.S. military lacks timely access to satellite imagery](https://spacenews.com/amid-commercial-boom-u-s-military-lacks-timely-access-to-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T223911">2023-04-12 22:39:11 UTC</a></sub>
 * [Europe is about to launch one of its most ambitious missions ever](https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T215946">2023-04-12 21:59:46 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Relativity Space is moving on from the Terran 1 rocket to something much bigger](https://arstechnica.com/science/2023/04/relativity-space-is-moving-on-from-the-terran-1-rocket-to-something-much-bigger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T141941">2023-04-12 14:19:41 UTC</a></sub>
 * [Relativity goes ‘all in’ on larger reusable rocket, shifting 3D-printing approach after first launch](https://www.cnbc.com/2023/04/12/relativity-all-in-on-terran-r-rocket-shifting-3d-printing-approach.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T140002">2023-04-12 14:00:02 UTC</a></sub>
 * [ISRO Successfully Completes Final Long Duration Hot Fire Test of Human-Rated Vikas Engine](https://tlpnetwork.com/news/2023/04/isro-qualifies-human-rated-vikas-engine-for-gaganyaan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T134900">2023-04-12 13:49:00 UTC</a></sub>
-* [Op-ed | U.S. leadership of cislunar space hinges on foresight and planning](https://spacenews.com/op-ed-u-s-leadership-of-cislunar-space-hinges-on-foresight-and-planning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T121100">2023-04-12 12:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T110047">2023-04-13 11:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T113043">2023-04-13 11:30:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
