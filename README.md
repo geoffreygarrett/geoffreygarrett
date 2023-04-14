@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ariane 5 launches ESA’s JUICE mission to Jupiter](https://spacenews.com/ariane-5-launches-esas-juice-mission-to-jupiter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T174107">2023-04-14 17:41:07 UTC</a></sub>
 * [New reports explain why security in space is fragile](https://spacenews.com/new-reports-explain-why-security-in-space-is-fragile/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T153737">2023-04-14 15:37:37 UTC</a></sub>
 * [UK Space Industry Sees Annual Expansion](https://tlpnetwork.com/news/2023/04/uk-space-industry-annual-expansion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T142100">2023-04-14 14:21:00 UTC</a></sub>
 * [ESA Launches Europe's First Mission to Jupiter](https://tlpnetwork.com/news/2023/04/juice-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T140900">2023-04-14 14:09:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceLogistics to service Intelsat satellite after Optus life-extending mission](https://spacenews.com/spacelogistics-robot-to-service-intelsat-satellite-after-optus-life-extending-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T122221">2023-04-14 12:22:21 UTC</a></sub>
 * [In Navy experiment, commercial satellites serve as key weapons against drug traffickers](https://spacenews.com/in-navy-experiment-commercial-satellites-serve-as-key-weapons-against-drug-traffickers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T121805">2023-04-14 12:18:05 UTC</a></sub>
 * [First ispace mission ready for lunar landing as company stock starts trading](https://spacenews.com/first-ispace-mission-ready-for-lunar-landing-as-company-stock-starts-trading/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T115829">2023-04-14 11:58:29 UTC</a></sub>
-* [Rocket Report: SpaceX may lease High Bay 1 in the VAB; China to fight price war](https://arstechnica.com/science/2023/04/rocket-report-spacex-may-lease-high-bay-1-in-the-vab-china-to-fight-price-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T110006">2023-04-14 11:00:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T173047">2023-04-14 17:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T180113">2023-04-14 18:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
