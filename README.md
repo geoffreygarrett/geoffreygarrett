@@ -188,16 +188,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK Space Industry Sees Annual Expansion](https://tlpnetwork.com/news/2023/04/uk-space-industry-annual-expansion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T142100">2023-04-14 14:21:00 UTC</a></sub>
+* [ESA Launches Europe's First Mission to Jupiter](https://tlpnetwork.com/news/2023/04/juice-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T140900">2023-04-14 14:09:00 UTC</a></sub>
+* [Europe successfully launches spacecraft toward the moons of Jupiter [Updated]](https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T140046">2023-04-14 14:00:46 UTC</a></sub>
+* [The next battle for U.S. military launch contracts is about to begin](https://spacenews.com/the-next-battle-for-u-s-military-launch-contracts-is-about-to-begin/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T140000">2023-04-14 14:00:00 UTC</a></sub>
 * [Time to designate space systems as critical infrastructure](https://spacenews.com/time-to-designate-space-systems-as-critical-infrastructure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T130419">2023-04-14 13:04:19 UTC</a></sub>
 * [SpaceLogistics to service Intelsat satellite after Optus life-extending mission](https://spacenews.com/spacelogistics-robot-to-service-intelsat-satellite-after-optus-life-extending-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T122221">2023-04-14 12:22:21 UTC</a></sub>
 * [In Navy experiment, commercial satellites serve as key weapons against drug traffickers](https://spacenews.com/in-navy-experiment-commercial-satellites-serve-as-key-weapons-against-drug-traffickers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T121805">2023-04-14 12:18:05 UTC</a></sub>
 * [First ispace mission ready for lunar landing as company stock starts trading](https://spacenews.com/first-ispace-mission-ready-for-lunar-landing-as-company-stock-starts-trading/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T115829">2023-04-14 11:58:29 UTC</a></sub>
 * [Rocket Report: SpaceX may lease High Bay 1 in the VAB; China to fight price war](https://arstechnica.com/science/2023/04/rocket-report-spacex-may-lease-high-bay-1-in-the-vab-china-to-fight-price-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T110006">2023-04-14 11:00:06 UTC</a></sub>
 * [SpaceX Transporter-7 scrubs launch of 51 payloads, booster return to LZ](https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T064924">2023-04-14 06:49:24 UTC</a></sub>
-* [NASA's Ingenuity Mars Helicopter Completes 50th Flight](https://mars.nasa.gov/news/9381/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T234500">2023-04-13 23:45:00 UTC</a></sub>
-* [NRO awards contract extensions to Hawkeye 360 and Maxar’s Aurora Insight for radio-frequency data](https://spacenews.com/nro-awards-contract-extensions-to-hawkeye-360-and-maxars-aurora-insight-for-radio-frequency-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T230506">2023-04-13 23:05:06 UTC</a></sub>
-* [Saltzman: Space Force has to better define relationship with commercial industry](https://spacenews.com/saltzman-space-force-has-to-better-define-relationship-with-commercial-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T210852">2023-04-13 21:08:52 UTC</a></sub>
-* [South Korea’s KSLV-2 rocket set to launch May 24](https://spacenews.com/kslv-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T210400">2023-04-13 21:04:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -208,6 +208,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Want more space? Speak up!](https://www.planetary.org/the-downlink/want-more-space-speak-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T143517">2023-04-14 14:35:17 UTC</a></sub>
 * [Juice launches on mission to explore Jupiter's icy moons](https://www.planetary.org/articles/juice-launches-icy-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T134503">2023-04-14 13:45:03 UTC</a></sub>
 * [Digital Day of Action 2023](https://www.planetary.org/advocacy/digital-day-of-action-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T171507">2023-04-11 17:15:07 UTC</a></sub>
 * [What would it be like to stand on the surface of Venus?](https://www.planetary.org/articles/what-would-it-be-like-to-stand-on-the-surface-of-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T144505">2023-04-11 14:45:05 UTC</a></sub>
@@ -217,7 +218,6 @@ region. The mission's status is currently Go for Launch
 * [The Planetary Society, American Geophysical Union, and Prominent Academic Institutions Call on Congress to Save VERITAS Mission to Venus](https://www.planetary.org/articles/joint-letter-supporting-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142619">2023-04-05 14:26:19 UTC</a></sub>
 * [Why we need VERITAS](https://www.planetary.org/articles/why-we-need-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142618">2023-04-05 14:26:18 UTC</a></sub>
 * [Unusual Uranus! Moist Moon! Volcanic Venus!](https://www.planetary.org/the-downlink/unusual-uranus-moist-moon-volcanic-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T143406">2023-03-31 14:34:06 UTC</a></sub>
-* [Asteroids worth getting psyched about](https://www.planetary.org/the-downlink/asteroids-worth-getting-psyched-about) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T143535">2023-03-24 14:35:35 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T143042">2023-04-14 14:30:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T150043">2023-04-14 15:00:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
