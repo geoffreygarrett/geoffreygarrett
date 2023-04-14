@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orbex CEO resigns](https://spacenews.com/orbex-ceo-resigns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T211027">2023-04-14 21:10:27 UTC</a></sub>
 * [Starship ready for historic maiden flight, awaits FAA launch license](https://www.nasaspaceflight.com/2023/04/starship-ready-for-historic-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T195318">2023-04-14 19:53:18 UTC</a></sub>
 * [Aerojet gets $215 million to boost production of solid rocket motors used in weapons for Ukraine](https://spacenews.com/aerojet-gets-215-million-to-boost-production-of-solid-rocket-motors-used-in-weapons-for-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T193025">2023-04-14 19:30:25 UTC</a></sub>
 * [Ariane 5 launches ESA’s JUICE mission to Jupiter](https://spacenews.com/ariane-5-launches-esas-juice-mission-to-jupiter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T174107">2023-04-14 17:41:07 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Europe successfully launches spacecraft toward the moons of Jupiter [Updated]](https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T140046">2023-04-14 14:00:46 UTC</a></sub>
 * [The next battle for U.S. military launch contracts is about to begin](https://spacenews.com/the-next-battle-for-u-s-military-launch-contracts-is-about-to-begin/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T140000">2023-04-14 14:00:00 UTC</a></sub>
 * [Time to designate space systems as critical infrastructure](https://spacenews.com/time-to-designate-space-systems-as-critical-infrastructure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T130419">2023-04-14 13:04:19 UTC</a></sub>
-* [SpaceLogistics to service Intelsat satellite after Optus life-extending mission](https://spacenews.com/spacelogistics-robot-to-service-intelsat-satellite-after-optus-life-extending-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T122221">2023-04-14 12:22:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T210052">2023-04-14 21:00:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T213039">2023-04-14 21:30:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
