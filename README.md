@@ -189,16 +189,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Ingenuity Mars Helicopter Completes 50th Flight](https://mars.nasa.gov/news/9381/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T234500">2023-04-13 23:45:00 UTC</a></sub>
+* [NRO awards contract extensions to Hawkeye 360 and Maxar’s Aurora Insight for radio-frequency data](https://spacenews.com/nro-awards-contract-extensions-to-hawkeye-360-and-maxars-aurora-insight-for-radio-frequency-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T230506">2023-04-13 23:05:06 UTC</a></sub>
 * [Saltzman: Space Force has to better define relationship with commercial industry](https://spacenews.com/saltzman-space-force-has-to-better-define-relationship-with-commercial-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T210852">2023-04-13 21:08:52 UTC</a></sub>
+* [South Korea’s KSLV-2 rocket set to launch May 24](https://spacenews.com/kslv-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T210400">2023-04-13 21:04:00 UTC</a></sub>
 * [NOAA looks to update weather satellite and ground systems](https://spacenews.com/noaa-looks-to-update-weather-satellite-and-ground-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T205301">2023-04-13 20:53:01 UTC</a></sub>
 * [SpaceX Transporter-7 to launch 51 payloads, return booster to LZ](https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T204924">2023-04-13 20:49:24 UTC</a></sub>
 * [NASA to Convene Mars Sample Return Review](https://mars.nasa.gov/news/9377/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T192500">2023-04-13 19:25:00 UTC</a></sub>
 * [Boeing unveils WGS-11 design with new military payload](https://spacenews.com/boeing-unveils-wgs-11-design-with-new-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T190225">2023-04-13 19:02:25 UTC</a></sub>
 * [Draper completes initial milestones for NASA CLPS mission](https://spacenews.com/draper-completes-initial-milestones-for-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T171905">2023-04-13 17:19:05 UTC</a></sub>
 * [NASA's Curiosity Mars Rover Gets a Major Software Upgrade](https://mars.nasa.gov/news/9378/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T165500">2023-04-13 16:55:00 UTC</a></sub>
-* [Investing in Space: Intelsat signs up for Northrop Grumman satellite servicing](https://www.cnbc.com/2023/04/13/investing-in-space-intelsat-signs-up-for-northrop-grumman-satellite-servicing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T145244">2023-04-13 14:52:44 UTC</a></sub>
-* [Space Systems Command’s Tetra-1 begins mission operations](https://spacenews.com/tetra-1-begins-mission-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T120000">2023-04-13 12:00:00 UTC</a></sub>
-* [ESCAPADE confident in planned 2024 New Glenn launch](https://spacenews.com/escapade-confident-in-planned-2024-new-glenn-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T114213">2023-04-13 11:42:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T233038">2023-04-13 23:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T000152">2023-04-14 00:01:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
