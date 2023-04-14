@@ -102,26 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer) at the
-<a href="http://en.wikipedia.org/wiki/ELA-3">Ariane Launch Area 3</a> in
-Kourou, French Guiana
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T121429">2023-04-14 12:14:29 UTC</a>. Until
-then, this launch pad will have seen 116
-out of 317 launches in this
+Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare) at the
+<a href="">Space Launch Complex 4E</a> in
+Vandenberg SFB, CA, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T064700">2023-04-15 06:47:00 UTC</a>. Until
+then, this launch pad will have seen 106
+out of 715 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  JUICE is an ESA mission to study some of the Jupiter's moons: Ganymede, Callisto and Europa.
+  Transporter 7 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Ariane_5" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=5.239,-52.768" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +134,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>JUICE (JUpiter ICy moons Explorer)</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T121429">2023-04-14 12:14:29 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)&location=Kourou, French Guiana&dates=20230414T121429Z%2F20230414T121429Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Transporter 7 (Dedicated SSO Rideshare)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T064700">2023-04-15 06:47:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20230415T064700Z%2F20230415T064700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Fengyun-3G</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230416T012800">2023-04-16 01:28:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4B | Fengyun-3G&location=Jiuquan, People&#x27;s Republic of China&dates=20230416T012800Z%2F20230416T015100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Integrated Flight Test</b> from SpaceX Space Launch Facility, TX, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T120000">2023-04-17 12:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test&location=SpaceX Space Launch Facility, TX, USA&dates=20230417T120000Z%2F20230417T150500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -189,6 +188,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceLogistics to service Intelsat satellite after Optus life-extending mission](https://spacenews.com/spacelogistics-robot-to-service-intelsat-satellite-after-optus-life-extending-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T122221">2023-04-14 12:22:21 UTC</a></sub>
+* [In Navy experiment, commercial satellites serve as key weapons against drug traffickers](https://spacenews.com/in-navy-experiment-commercial-satellites-serve-as-key-weapons-against-drug-traffickers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T121805">2023-04-14 12:18:05 UTC</a></sub>
+* [First ispace mission ready for lunar landing as company stock starts trading](https://spacenews.com/first-ispace-mission-ready-for-lunar-landing-as-company-stock-starts-trading/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T115829">2023-04-14 11:58:29 UTC</a></sub>
 * [Rocket Report: SpaceX may lease High Bay 1 in the VAB; China to fight price war](https://arstechnica.com/science/2023/04/rocket-report-spacex-may-lease-high-bay-1-in-the-vab-china-to-fight-price-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T110006">2023-04-14 11:00:06 UTC</a></sub>
 * [NASA's Ingenuity Mars Helicopter Completes 50th Flight](https://mars.nasa.gov/news/9381/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T234500">2023-04-13 23:45:00 UTC</a></sub>
 * [NRO awards contract extensions to Hawkeye 360 and Maxar’s Aurora Insight for radio-frequency data](https://spacenews.com/nro-awards-contract-extensions-to-hawkeye-360-and-maxars-aurora-insight-for-radio-frequency-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T230506">2023-04-13 23:05:06 UTC</a></sub>
@@ -196,9 +198,6 @@ region. The mission's status is currently Go for Launch
 * [South Korea’s KSLV-2 rocket set to launch May 24](https://spacenews.com/kslv-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T210400">2023-04-13 21:04:00 UTC</a></sub>
 * [NOAA looks to update weather satellite and ground systems](https://spacenews.com/noaa-looks-to-update-weather-satellite-and-ground-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T205301">2023-04-13 20:53:01 UTC</a></sub>
 * [SpaceX Transporter-7 scrubs launch of 51 payloads, return booster to LZ](https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T204924">2023-04-13 20:49:24 UTC</a></sub>
-* [NASA to Convene Mars Sample Return Review](https://mars.nasa.gov/news/9377/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T192500">2023-04-13 19:25:00 UTC</a></sub>
-* [Boeing unveils WGS-11 design with new military payload](https://spacenews.com/boeing-unveils-wgs-11-design-with-new-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T190225">2023-04-13 19:02:25 UTC</a></sub>
-* [Draper completes initial milestones for NASA CLPS mission](https://spacenews.com/draper-completes-initial-milestones-for-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T171905">2023-04-13 17:19:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T120106">2023-04-14 12:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T123838">2023-04-14 12:38:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
