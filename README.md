@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ingenuity Keeps Pushing Upwards, Completes 50th Flight](https://tlpnetwork.com/news/2023/04/ingenuity-50th-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T165300">2023-04-15 16:53:00 UTC</a></sub>
 * [SpaceX launches seventh Transporter rideshare mission](https://spacenews.com/spacex-launches-seventh-transporter-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T153629">2023-04-15 15:36:29 UTC</a></sub>
 * [FAA issues license for first Starship integrated test flight](https://spacenews.com/faa-issues-license-for-first-starship-integrated-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T223630">2023-04-14 22:36:30 UTC</a></sub>
 * [NASA to Participate in Space Symposium, Discuss Moon to Mars](http://www.nasa.gov/press-release/nasa-to-participate-in-space-symposium-discuss-moon-to-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T222500">2023-04-14 22:25:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Starship ready for historic maiden flight, gains FAA launch license](https://www.nasaspaceflight.com/2023/04/starship-ready-for-historic-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T195318">2023-04-14 19:53:18 UTC</a></sub>
 * [Aerojet gets $215 million to boost production of solid rocket motors used in weapons for Ukraine](https://spacenews.com/aerojet-gets-215-million-to-boost-production-of-solid-rocket-motors-used-in-weapons-for-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T193025">2023-04-14 19:30:25 UTC</a></sub>
 * [Ariane 5 launches ESA’s JUICE mission to Jupiter](https://spacenews.com/ariane-5-launches-esas-juice-mission-to-jupiter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T174107">2023-04-14 17:41:07 UTC</a></sub>
-* [New reports explain why security in space is fragile](https://spacenews.com/new-reports-explain-why-security-in-space-is-fragile/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T153737">2023-04-14 15:37:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T170048">2023-04-15 17:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T173045">2023-04-15 17:30:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
