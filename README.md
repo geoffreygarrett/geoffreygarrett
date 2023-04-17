@@ -102,26 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Starship | Integrated Flight Test at the
-<a href="https://en.wikipedia.org/wiki/SpaceX_South_Texas_Launch_Site">Orbital Launch Mount A</a> in
-SpaceX Space Launch Facility, TX, USA
+Falcon 9 Block 5 | Starlink Group 6-2 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T120000">2023-04-17 12:00:00 UTC</a>. Until
-then, this launch pad will have seen 0
-out of 9 launches in this
-region. The mission's status is currently Go for Launch
-(Go) 🟩  which means:
-*current T-0 confirmed by official or reliable sources.* 
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T122800">2023-04-19 12:28:00 UTC</a>. Until
+then, this launch pad will have seen 176
+out of 882 launches in this
+region. The mission's status is currently To Be Confirmed
+(TBC) 🟨  which means:
+*awaiting official confirmation - current date is known with some certainty.* 
 <br>
 <blockquote>
-  Maiden flight of the two-stage Starship launch vehicle. The booster will separate 170 seconds into flight and return to land approximately 32 km off the shore in the Gulf of Mexico. The second stage will follow a suborbital trajectory and perform an unpowered splashdown approximately 100 km off the northwest coast of Kauai (Hawaii).
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=25.997116,-97.15503099856647" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +134,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Integrated Flight Test</b> from SpaceX Space Launch Facility, TX, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T120000">2023-04-17 12:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test&location=SpaceX Space Launch Facility, TX, USA&dates=20230417T120000Z%2F20230417T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 6-2</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T122800">2023-04-19 12:28:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-2&location=Cape Canaveral, FL, USA&dates=20230419T122800Z%2F20230419T122800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>TeLEOS-2</b> from Satish Dhawan Space Centre, India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T084900">2023-04-22 08:49:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV | TeLEOS-2&location=Satish Dhawan Space Centre, India&dates=20230422T084900Z%2F20230422T084900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>ViaSat-3 Americas</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T232400">2023-04-24 23:24:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230424T232400Z%2F20230425T001800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -189,10 +188,10 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: SpaceX to attempt a test flight of its Starship launch system](https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T111510">2023-04-17 11:15:10 UTC</a></sub>
 * [Orbit Fab raises $28.5 million](https://spacenews.com/orbit-fab-raises-28-5-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T110505">2023-04-17 11:05:05 UTC</a></sub>
 * [How to rapidly produce high-volume satellite structures](https://spacenews.com/how-to-rapidly-produce-high-volume-satellite-structures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T023000">2023-04-17 02:30:00 UTC</a></sub>
 * [Starship ready for maiden launch attempt](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T003331">2023-04-17 00:33:31 UTC</a></sub>
-* [Setting expectations on the eve of Starship’s historic launch](https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230416T225110">2023-04-16 22:51:10 UTC</a></sub>
 * [Ingenuity Keeps Pushing Upwards, Completes 50th Flight](https://tlpnetwork.com/news/2023/04/ingenuity-50th-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T165300">2023-04-15 16:53:00 UTC</a></sub>
 * [TrustPoint launches PNT cubesat](https://spacenews.com/trustpoint-launches-pnt-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T154456">2023-04-15 15:44:56 UTC</a></sub>
 * [SpaceX launches seventh Transporter rideshare mission](https://spacenews.com/spacex-launches-seventh-transporter-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T153629">2023-04-15 15:36:29 UTC</a></sub>
@@ -231,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T113045">2023-04-17 11:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T120122">2023-04-17 12:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
