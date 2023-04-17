@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starship ready for maiden launch attempt](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T003331">2023-04-17 00:33:31 UTC</a></sub>
 * [Setting expectations on the eve of Starship’s historic launch](https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230416T225110">2023-04-16 22:51:10 UTC</a></sub>
 * [Ingenuity Keeps Pushing Upwards, Completes 50th Flight](https://tlpnetwork.com/news/2023/04/ingenuity-50th-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T165300">2023-04-15 16:53:00 UTC</a></sub>
 * [TrustPoint launches PNT cubesat](https://spacenews.com/trustpoint-launches-pnt-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T154456">2023-04-15 15:44:56 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX cleared by FAA to launch first orbital Starship flight](https://www.cnbc.com/2023/04/14/faa-clears-spacex-to-launch-starship-flight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T215754">2023-04-14 21:57:54 UTC</a></sub>
 * [Green light go: SpaceX receives a launch license from the FAA for Starship](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T215211">2023-04-14 21:52:11 UTC</a></sub>
 * [Orbex CEO resigns](https://spacenews.com/orbex-ceo-resigns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T211027">2023-04-14 21:10:27 UTC</a></sub>
-* [Starship ready for historic maiden flight, gains FAA launch license](https://www.nasaspaceflight.com/2023/04/starship-ready-for-historic-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T195318">2023-04-14 19:53:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T000137">2023-04-17 00:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T004524">2023-04-17 00:45:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
