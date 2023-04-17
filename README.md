@@ -189,6 +189,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets Coverage of Spacewalk, News Conference for Station Upgrades](http://www.nasa.gov/press-release/nasa-sets-coverage-of-spacewalk-news-conference-for-station-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T161500">2023-04-17 16:15:00 UTC</a></sub>
+* [Crunchtime ahead for Victus Nox](https://spacenews.com/crunchtime-ahead-for-victus-nox/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
+* [Options for achieving Tactically Responsive Space](https://spacenews.com/options-for-achieving-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
 * [SpaceX scrubs first Starship launch attempt](https://spacenews.com/spacex-scrubs-first-starship-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T134021">2023-04-17 13:40:21 UTC</a></sub>
 * [On National Security | Satellite imaging industry responds to demand for intelligence fusion](https://spacenews.com/on-national-security-satellite-imaging-industry-responds-to-demand-for-intelligence-fusion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T120000">2023-04-17 12:00:00 UTC</a></sub>
 * [SpaceX scrubs first launch attempt of its Starship launch system [Updated]](https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T111510">2023-04-17 11:15:10 UTC</a></sub>
@@ -196,9 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [How to rapidly produce high-volume satellite structures](https://spacenews.com/how-to-rapidly-produce-high-volume-satellite-structures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T023000">2023-04-17 02:30:00 UTC</a></sub>
 * [Starship gets close, but scrubs for maiden launch attempt](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T003331">2023-04-17 00:33:31 UTC</a></sub>
 * [Ingenuity Keeps Pushing Upwards, Completes 50th Flight](https://tlpnetwork.com/news/2023/04/ingenuity-50th-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T165300">2023-04-15 16:53:00 UTC</a></sub>
-* [TrustPoint launches PNT cubesat](https://spacenews.com/trustpoint-launches-pnt-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T154456">2023-04-15 15:44:56 UTC</a></sub>
-* [SpaceX launches seventh Transporter rideshare mission](https://spacenews.com/spacex-launches-seventh-transporter-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T153629">2023-04-15 15:36:29 UTC</a></sub>
-* [FAA issues license for first Starship integrated test flight](https://spacenews.com/faa-issues-license-for-first-starship-integrated-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T223630">2023-04-14 22:36:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T160043">2023-04-17 16:00:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T163412">2023-04-17 16:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
