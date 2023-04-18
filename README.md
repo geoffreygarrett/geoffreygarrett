@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Omnibus Multidiscipline Engineering Services III Contract](http://www.nasa.gov/press-release/nasa-awards-omnibus-multidiscipline-engineering-services-iii-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T201400">2023-04-18 20:14:00 UTC</a></sub>
 * [NASA releases architecture for human exploration of the moon and Mars](https://spacenews.com/nasa-releases-architecture-for-human-exploration-of-the-moon-and-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T181310">2023-04-18 18:13:10 UTC</a></sub>
 * [Maxar secures Dish Network order in its first satellite contract of 2023](https://spacenews.com/maxar-secures-dish-network-order-in-its-first-satellite-contract-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T175739">2023-04-18 17:57:39 UTC</a></sub>
 * [Sierra Space and ILC Dover partner on inflatable modules and spacesuits](https://spacenews.com/sierra-space-and-ilc-dover-partner-on-inflatable-modules-and-spacesuits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T171640">2023-04-18 17:16:40 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Sets Coverage for Northrop Grumman Cygnus Departure from Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-northrop-grumman-cygnus-departure-from-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T150500">2023-04-18 15:05:00 UTC</a></sub>
 * [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T150243">2023-04-18 15:02:43 UTC</a></sub>
 * [Axiom announces new government human spaceflight program](https://spacenews.com/axiom-announces-new-government-human-spaceflight-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T145606">2023-04-18 14:56:06 UTC</a></sub>
-* [Inmarsat working to restore L-band services in Asia Pacific after satellite outage](https://spacenews.com/inmarsat-working-to-restore-l-band-services-in-asia-pacific-after-satellite-outage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T144614">2023-04-18 14:46:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T200109">2023-04-18 20:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T203116">2023-04-18 20:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
