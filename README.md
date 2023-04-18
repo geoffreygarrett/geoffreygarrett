@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [AWS chooses 14 startups for its third space accelerator program](https://spacenews.com/aws-chooses-14-startups-for-its-third-space-accelerator-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T090000">2023-04-18 09:00:00 UTC</a></sub>
 * [Export control update on the way](https://spacenews.com/export-control-update-on-the-way/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T041622">2023-04-18 04:16:22 UTC</a></sub>
 * [Speed and safety are top priorities for regulators](https://spacenews.com/speed-and-safety-are-top-priorities-for-regulators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T221018">2023-04-17 22:10:18 UTC</a></sub>
 * [Lamborn urges military leaders to be less secretive on space issues](https://spacenews.com/lamborn-urges-military-leaders-to-be-less-secretive-on-space-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T220112">2023-04-17 22:01:12 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [Space Symposium 2023](https://spacenews.com/space-symposium-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T181000">2023-04-17 18:10:00 UTC</a></sub>
 * [NASA Sets Coverage of Spacewalk, News Conference for Station Upgrades](http://www.nasa.gov/press-release/nasa-sets-coverage-of-spacewalk-news-conference-for-station-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T161500">2023-04-17 16:15:00 UTC</a></sub>
 * [Options for achieving Tactically Responsive Space](https://spacenews.com/options-for-achieving-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
-* [Crunchtime ahead for Victus Nox](https://spacenews.com/crunchtime-ahead-for-victus-nox/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T100056">2023-04-18 10:00:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T103128">2023-04-18 10:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
