@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman clears design hurdle for military communications satellite](https://spacenews.com/northrop-grumman-clears-design-hurdle-for-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T133000">2023-04-18 13:30:00 UTC</a></sub>
 * [ESA working on human spaceflight scenarios for European space summit](https://spacenews.com/esa-working-on-human-spaceflight-scenarios-for-european-space-summit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T104126">2023-04-18 10:41:26 UTC</a></sub>
 * [AWS chooses 14 startups for its third space accelerator program](https://spacenews.com/aws-chooses-14-startups-for-its-third-space-accelerator-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T090000">2023-04-18 09:00:00 UTC</a></sub>
 * [Export control update on the way](https://spacenews.com/export-control-update-on-the-way/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T041622">2023-04-18 04:16:22 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [Keeping watch on aggressor satellites a key challenge for U.S. Space Force](https://spacenews.com/keeping-watch-on-aggressor-satellites-a-key-challenge-for-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T193121">2023-04-17 19:31:21 UTC</a></sub>
 * [Lockheed Martin declares success demonstrating tech for in-orbit satellite servicing](https://spacenews.com/lockheed-martin-declares-success-demonstrating-tech-for-in-orbit-satellite-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T191915">2023-04-17 19:19:15 UTC</a></sub>
 * [Space Symposium 2023](https://spacenews.com/space-symposium-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T181000">2023-04-17 18:10:00 UTC</a></sub>
-* [NASA Sets Coverage of Spacewalk, News Conference for Station Upgrades](http://www.nasa.gov/press-release/nasa-sets-coverage-of-spacewalk-news-conference-for-station-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T161500">2023-04-17 16:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T133053">2023-04-18 13:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T140054">2023-04-18 14:00:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
