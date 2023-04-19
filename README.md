@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to Launch Upgraded Starlink Satellites After Issues with First Batch](https://www.nasaspaceflight.com/2023/04/starlink-6-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T225710">2023-04-18 22:57:10 UTC</a></sub>
 * [Lower space company price tags pave the way to more acquisitions](https://spacenews.com/lower-space-company-price-tags-pave-the-way-to-more-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T213511">2023-04-18 21:35:11 UTC</a></sub>
 * [NASA Awards Omnibus Multidiscipline Engineering Services III Contract](http://www.nasa.gov/press-release/nasa-awards-omnibus-multidiscipline-engineering-services-iii-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T201400">2023-04-18 20:14:00 UTC</a></sub>
 * [NASA releases architecture for human exploration of the moon and Mars](https://spacenews.com/nasa-releases-architecture-for-human-exploration-of-the-moon-and-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T181310">2023-04-18 18:13:10 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Shares First Moon to Mars Architecture Concept Review Results](http://www.nasa.gov/press-release/nasa-shares-first-moon-to-mars-architecture-concept-review-results) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T163400">2023-04-18 16:34:00 UTC</a></sub>
 * [NASA Selects 10 Scientists for International Mission to Martian Moons](https://mars.nasa.gov/news/9384/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T160500">2023-04-18 16:05:00 UTC</a></sub>
 * [NASA Sets Coverage for Northrop Grumman Cygnus Departure from Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-northrop-grumman-cygnus-departure-from-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T150500">2023-04-18 15:05:00 UTC</a></sub>
-* [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T150243">2023-04-18 15:02:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T233034">2023-04-18 23:30:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T000144">2023-04-19 00:01:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
