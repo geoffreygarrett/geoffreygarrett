@@ -193,7 +193,7 @@ region. The mission's status is currently Go for Launch
 * [Space Forge reveals plans for U.S. manufacturing](https://spacenews.com/space-forge-reveals-plans-for-u-s-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T110000">2023-04-19 11:00:00 UTC</a></sub>
 * [Space Force in wait-and-see mode as ULA continues to investigate upper-stage anomaly](https://spacenews.com/space-force-in-wait-and-see-mode-as-ula-continues-to-investigate-upper-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T023741">2023-04-19 02:37:41 UTC</a></sub>
 * [NRO seeks innovative electro-optics](https://spacenews.com/nro-seeks-innovative-electro-optics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T014050">2023-04-19 01:40:50 UTC</a></sub>
-* [SpaceX to Launch Upgraded Starlink Satellites After Issues with First Batch](https://www.nasaspaceflight.com/2023/04/starlink-6-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T225710">2023-04-18 22:57:10 UTC</a></sub>
+* [SpaceX Launches Upgraded Starlink Satellites After Issues with First Batch](https://www.nasaspaceflight.com/2023/04/starlink-6-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T225710">2023-04-18 22:57:10 UTC</a></sub>
 * [Lower space company price tags pave the way to more acquisitions](https://spacenews.com/lower-space-company-price-tags-pave-the-way-to-more-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T213511">2023-04-18 21:35:11 UTC</a></sub>
 * [NASA Awards Omnibus Multidiscipline Engineering Services III Contract](http://www.nasa.gov/press-release/nasa-awards-omnibus-multidiscipline-engineering-services-iii-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T201400">2023-04-18 20:14:00 UTC</a></sub>
 * [NASA releases architecture for human exploration of the moon and Mars](https://spacenews.com/nasa-releases-architecture-for-human-exploration-of-the-moon-and-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T181310">2023-04-18 18:13:10 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T150049">2023-04-19 15:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T153052">2023-04-19 15:30:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
