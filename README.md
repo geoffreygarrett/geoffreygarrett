@@ -208,6 +208,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What does “Mercury in retrograde” actually mean?](https://www.planetary.org/articles/what-does-mercury-in-retrograde-actually-mean) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T173507">2023-04-19 17:35:07 UTC</a></sub>
 * [Meet the Solar System's five official dwarf planets](https://www.planetary.org/articles/meet-the-dwarf-planets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T140509">2023-04-19 14:05:09 UTC</a></sub>
 * [Want more space? Speak up!](https://www.planetary.org/the-downlink/want-more-space-speak-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T143517">2023-04-14 14:35:17 UTC</a></sub>
 * [Juice launches on mission to explore Jupiter's icy moons](https://www.planetary.org/articles/juice-launches-icy-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T134503">2023-04-14 13:45:03 UTC</a></sub>
@@ -217,7 +218,6 @@ region. The mission's status is currently Go for Launch
 * [A mission to pull back the shroud](https://www.planetary.org/the-downlink/a-mission-to-pull-back-the-shroud) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T143504">2023-04-07 14:35:04 UTC</a></sub>
 * [Juice launch and mission preview: What to expect](https://www.planetary.org/articles/juice-launch-mission-preview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T143529">2023-04-06 14:35:29 UTC</a></sub>
 * [The Planetary Society, American Geophysical Union, and Prominent Academic Institutions Call on Congress to Save VERITAS Mission to Venus](https://www.planetary.org/articles/joint-letter-supporting-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142619">2023-04-05 14:26:19 UTC</a></sub>
-* [Why we need VERITAS](https://www.planetary.org/articles/why-we-need-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142618">2023-04-05 14:26:18 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T173053">2023-04-19 17:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T180106">2023-04-19 18:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
