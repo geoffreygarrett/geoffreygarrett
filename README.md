@@ -190,6 +190,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Ukraine’s lessons for military space](https://spacenews.com/ukraines-lessons-for-military-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T155406">2023-04-19 15:54:06 UTC</a></sub>
 * [Aerospace CEO: More startups seek DoD work amid cash crunch](https://spacenews.com/aerospace-ceo-more-startups-seek-dod-work-amid-cash-crunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T145359">2023-04-19 14:53:59 UTC</a></sub>
+* [From Galileo to the Lunar Gateway: Mapping Italy’s Growing Space Industry](https://spacenews.com/from-galileo-to-the-lunar-gateway-mapping-italys-growing-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T121900">2023-04-19 12:19:00 UTC</a></sub>
 * [NASA warns of near-term cost growth on Mars Sample Return](https://spacenews.com/nasa-warns-of-near-term-cost-growth-on-mars-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T114040">2023-04-19 11:40:40 UTC</a></sub>
 * [Space Forge reveals plans for U.S. manufacturing](https://spacenews.com/space-forge-reveals-plans-for-u-s-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T110000">2023-04-19 11:00:00 UTC</a></sub>
 * [Space Force in wait-and-see mode as ULA continues to investigate upper-stage anomaly](https://spacenews.com/space-force-in-wait-and-see-mode-as-ula-continues-to-investigate-upper-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T023741">2023-04-19 02:37:41 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX Launches Upgraded Starlink Satellites After Issues with First Batch](https://www.nasaspaceflight.com/2023/04/starlink-6-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T225710">2023-04-18 22:57:10 UTC</a></sub>
 * [Lower space company price tags pave the way to more acquisitions](https://spacenews.com/lower-space-company-price-tags-pave-the-way-to-more-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T213511">2023-04-18 21:35:11 UTC</a></sub>
 * [NASA Awards Omnibus Multidiscipline Engineering Services III Contract](http://www.nasa.gov/press-release/nasa-awards-omnibus-multidiscipline-engineering-services-iii-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T201400">2023-04-18 20:14:00 UTC</a></sub>
-* [NASA releases architecture for human exploration of the moon and Mars](https://spacenews.com/nasa-releases-architecture-for-human-exploration-of-the-moon-and-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T181310">2023-04-18 18:13:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T160102">2023-04-19 16:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T163414">2023-04-19 16:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
