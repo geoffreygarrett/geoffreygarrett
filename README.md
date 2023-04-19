@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Creates In-Space Servicing, Assembly, Manufacturing Consortium](http://www.nasa.gov/press-release/nasa-creates-in-space-servicing-assembly-manufacturing-consortium) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T211500">2023-04-19 21:15:00 UTC</a></sub>
+* [Space investors see a return in industry growth capital](https://spacenews.com/space-investors-see-a-return-in-industry-growth-capital/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T210507">2023-04-19 21:05:07 UTC</a></sub>
 * [Rocket Lab to refly Electron engine](https://spacenews.com/rocket-lab-to-refly-electron-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T193553">2023-04-19 19:35:53 UTC</a></sub>
 * [Space Force chief: ‘We must pivot’ to new ways of doing business](https://spacenews.com/space-force-chief-we-must-pivot-to-new-ways-of-doing-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T192039">2023-04-19 19:20:39 UTC</a></sub>
 * [Air Force Secretary to seek new congressional authorities to speed up acquisitions](https://spacenews.com/air-force-secretary-to-seek-new-congressional-authorities-to-speed-up-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T184317">2023-04-19 18:43:17 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Aerospace CEO: More startups seek DoD work amid cash crunch](https://spacenews.com/aerospace-ceo-more-startups-seek-dod-work-amid-cash-crunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T145359">2023-04-19 14:53:59 UTC</a></sub>
 * [From Galileo to the Lunar Gateway: Mapping Italy’s Growing Space Industry](https://spacenews.com/from-galileo-to-the-lunar-gateway-mapping-italys-growing-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T121900">2023-04-19 12:19:00 UTC</a></sub>
 * [NASA warns of near-term cost growth on Mars Sample Return](https://spacenews.com/nasa-warns-of-near-term-cost-growth-on-mars-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T114040">2023-04-19 11:40:40 UTC</a></sub>
-* [Space Forge reveals plans for U.S. manufacturing](https://spacenews.com/space-forge-reveals-plans-for-u-s-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T110000">2023-04-19 11:00:00 UTC</a></sub>
-* [Space Force in wait-and-see mode as ULA continues to investigate upper-stage anomaly](https://spacenews.com/space-force-in-wait-and-see-mode-as-ula-continues-to-investigate-upper-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T023741">2023-04-19 02:37:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T213043">2023-04-19 21:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T220050">2023-04-19 22:00:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
