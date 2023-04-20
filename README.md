@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA starts consortium for ISAM technologies](https://spacenews.com/nasa-starts-consortium-for-isam-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T120600">2023-04-20 12:06:00 UTC</a></sub>
 * [SpaceX prepares for another Starship test flight attempt](https://www.teslarati.com/spacex-prepares-2nd-starship-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T103505">2023-04-20 10:35:05 UTC</a></sub>
 * [SpaceX to make a second attempt to launch its massive Starship rocket](https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T100134">2023-04-20 10:01:34 UTC</a></sub>
 * [With a new medium rocket, Firefly plans to compete for national security launches](https://spacenews.com/with-a-new-medium-rocket-firefly-plans-to-compete-for-national-security-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T025131">2023-04-20 02:51:31 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab to refly Electron engine](https://spacenews.com/rocket-lab-to-refly-electron-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T193553">2023-04-19 19:35:53 UTC</a></sub>
 * [Space Force chief: ‘We must pivot’ to new ways of doing business](https://spacenews.com/space-force-chief-we-must-pivot-to-new-ways-of-doing-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T192039">2023-04-19 19:20:39 UTC</a></sub>
 * [Air Force Secretary to seek new congressional authorities to speed up acquisitions](https://spacenews.com/air-force-secretary-to-seek-new-congressional-authorities-to-speed-up-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T184317">2023-04-19 18:43:17 UTC</a></sub>
-* [Leidos working with NASCAR on Artemis lunar rover](https://spacenews.com/leidos-working-with-nascar-on-artemis-lunar-rover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T180846">2023-04-19 18:08:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T120109">2023-04-20 12:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T123858">2023-04-20 12:38:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
