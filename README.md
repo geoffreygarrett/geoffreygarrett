@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [So what was that? Was Starship’s launch a failure or a success?](https://arstechnica.com/science/2023/04/so-what-was-that-was-starships-launch-a-failure-or-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T173302">2023-04-20 17:33:02 UTC</a></sub>
 * [Investing in Space special report: Starship succeeds, in spite of failure](https://www.cnbc.com/2023/04/20/investing-in-space-spacex-starship-succeeds-in-spite-of-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T161420">2023-04-20 16:14:20 UTC</a></sub>
 * [Our pledge to diversify the space industry workforce continues | Open Letter](https://spacenews.com/our-pledge-to-diversify-the-space-industry-workforce-continues-open-letter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150458">2023-04-20 15:04:58 UTC</a></sub>
 * [SpaceX Starship completes first successful test flight](https://www.teslarati.com/spacex-starship-completes-first-successful-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T143527">2023-04-20 14:35:27 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches its massive Starship rocket for the first time [Updated]](https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T100134">2023-04-20 10:01:34 UTC</a></sub>
 * [With a new medium rocket, Firefly plans to compete for national security launches](https://spacenews.com/with-a-new-medium-rocket-firefly-plans-to-compete-for-national-security-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T025131">2023-04-20 02:51:31 UTC</a></sub>
 * [Starship conducts maiden launch – clears launch site and first stage flight](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T003331">2023-04-20 00:33:31 UTC</a></sub>
-* [NASA Creates In-Space Servicing, Assembly, Manufacturing Consortium](http://www.nasa.gov/press-release/nasa-creates-in-space-servicing-assembly-manufacturing-consortium) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T211500">2023-04-19 21:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T173103">2023-04-20 17:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T180106">2023-04-20 18:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
