@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [With a new medium rocket, Firefly plans to compete for national security launches](https://spacenews.com/with-a-new-medium-rocket-firefly-plans-to-compete-for-national-security-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T025131">2023-04-20 02:51:31 UTC</a></sub>
+* [Starship set for maiden launch attempt Thursday](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T003331">2023-04-20 00:33:31 UTC</a></sub>
 * [NASA Creates In-Space Servicing, Assembly, Manufacturing Consortium](http://www.nasa.gov/press-release/nasa-creates-in-space-servicing-assembly-manufacturing-consortium) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T211500">2023-04-19 21:15:00 UTC</a></sub>
 * [Space investors see a return in industry growth capital](https://spacenews.com/space-investors-see-a-return-in-industry-growth-capital/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T210507">2023-04-19 21:05:07 UTC</a></sub>
 * [Rocket Lab to refly Electron engine](https://spacenews.com/rocket-lab-to-refly-electron-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T193553">2023-04-19 19:35:53 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Leidos working with NASCAR on Artemis lunar rover](https://spacenews.com/leidos-working-with-nascar-on-artemis-lunar-rover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T180846">2023-04-19 18:08:46 UTC</a></sub>
 * [Ukraine’s lessons for military space](https://spacenews.com/ukraines-lessons-for-military-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T155406">2023-04-19 15:54:06 UTC</a></sub>
 * [Aerospace CEO: More startups seek DoD work amid cash crunch](https://spacenews.com/aerospace-ceo-more-startups-seek-dod-work-amid-cash-crunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T145359">2023-04-19 14:53:59 UTC</a></sub>
-* [From Galileo to the Lunar Gateway: Mapping Italy’s Growing Space Industry](https://spacenews.com/from-galileo-to-the-lunar-gateway-mapping-italys-growing-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T121900">2023-04-19 12:19:00 UTC</a></sub>
-* [NASA warns of near-term cost growth on Mars Sample Return](https://spacenews.com/nasa-warns-of-near-term-cost-growth-on-mars-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T114040">2023-04-19 11:40:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T023716">2023-04-20 02:37:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T030044">2023-04-20 03:00:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
