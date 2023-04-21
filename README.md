@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [FCC adopts revised NGSO spectrum-sharing rules](https://spacenews.com/fcc-adopts-revised-ngso-spectrum-sharing-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T015738">2023-04-21 01:57:38 UTC</a></sub>
 * [U.S. Space Command announces new cooperation agreements with allies](https://spacenews.com/u-s-space-command-announces-new-cooperation-agreements-with-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T004635">2023-04-21 00:46:35 UTC</a></sub>
 * [Space Force procurement command rebrands commercial space office](https://spacenews.com/space-force-procurement-command-rebrands-commercial-space-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T001834">2023-04-21 00:18:34 UTC</a></sub>
 * [BREAKING! SpaceX Starship Experiences Anomaly In Flight](https://tlpnetwork.com/news/2023/04/starship-ift-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T215500">2023-04-20 21:55:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX Starship completes first successful test flight](https://www.teslarati.com/spacex-starship-completes-first-successful-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T143527">2023-04-20 14:35:27 UTC</a></sub>
 * [Starship lifts off on first integrated test flight, breaks apart minutes later](https://spacenews.com/starship-lifts-off-on-first-integrated-test-flight-breaks-apart-minutes-later/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T140131">2023-04-20 14:01:31 UTC</a></sub>
 * [NASA starts consortium for ISAM technologies](https://spacenews.com/nasa-starts-consortium-for-isam-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T120600">2023-04-20 12:06:00 UTC</a></sub>
-* [SpaceX prepares for another Starship test flight attempt](https://www.teslarati.com/spacex-prepares-2nd-starship-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T103505">2023-04-20 10:35:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T015315">2023-04-21 01:53:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T021417">2023-04-21 02:14:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
