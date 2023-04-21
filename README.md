@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EGS launch team applying first SLS launch lessons to future Artemis missions](https://www.nasaspaceflight.com/2023/04/egs-launch-team-sls-lessons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T182008">2023-04-21 18:20:08 UTC</a></sub>
 * [Government calls for greater responsibility by satellite operators](https://spacenews.com/government-calls-for-greater-responsibility-by-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T172351">2023-04-21 17:23:51 UTC</a></sub>
 * [LeoLabs highlights on-orbit maneuvers](https://spacenews.com/leolabs-highlights-on-orbit-maneuvers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T144949">2023-04-21 14:49:49 UTC</a></sub>
 * [Pennsylvania Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/pennsylvania-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T125500">2023-04-21 12:55:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [U.S. Space Command announces new cooperation agreements with allies](https://spacenews.com/u-s-space-command-announces-new-cooperation-agreements-with-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T004635">2023-04-21 00:46:35 UTC</a></sub>
 * [Space Force procurement command rebrands commercial space office](https://spacenews.com/space-force-procurement-command-rebrands-commercial-space-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T001834">2023-04-21 00:18:34 UTC</a></sub>
 * [SpaceX Starship Experiences Anomaly In Flight](https://tlpnetwork.com/news/2023/04/starship-ift-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T215500">2023-04-20 21:55:00 UTC</a></sub>
-* [So what was that? Was Starship’s launch a failure or a success?](https://arstechnica.com/science/2023/04/so-what-was-that-was-starships-launch-a-failure-or-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T173302">2023-04-20 17:33:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T173051">2023-04-21 17:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T183103">2023-04-21 18:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
