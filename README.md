@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [LeoLabs highlights on-orbit maneuvers](https://spacenews.com/leolabs-highlights-on-orbit-maneuvers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T144949">2023-04-21 14:49:49 UTC</a></sub>
 * [Pennsylvania Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/pennsylvania-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T125500">2023-04-21 12:55:00 UTC</a></sub>
 * [Nelson supports continuing restrictions on NASA cooperation with China](https://spacenews.com/nelson-supports-continuing-restrictions-on-nasa-cooperation-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T122019">2023-04-21 12:20:19 UTC</a></sub>
 * [Rocket Report: Starship RUDs on the way to space; Rocket Lab to reuse engine](https://arstechnica.com/science/2023/04/rocket-report-starship-ruds-on-the-way-to-space-rocket-lab-to-reuse-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T103000">2023-04-21 10:30:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX Starship Experiences Anomaly In Flight](https://tlpnetwork.com/news/2023/04/starship-ift-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T215500">2023-04-20 21:55:00 UTC</a></sub>
 * [So what was that? Was Starship’s launch a failure or a success?](https://arstechnica.com/science/2023/04/so-what-was-that-was-starships-launch-a-failure-or-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T173302">2023-04-20 17:33:02 UTC</a></sub>
 * [Investing in Space special report: Starship succeeds, in spite of failure](https://www.cnbc.com/2023/04/20/investing-in-space-spacex-starship-succeeds-in-spite-of-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T161420">2023-04-20 16:14:20 UTC</a></sub>
-* [Our pledge to diversify the space industry workforce continues | Open Letter](https://spacenews.com/our-pledge-to-diversify-the-space-industry-workforce-continues-open-letter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150458">2023-04-20 15:04:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -209,6 +209,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Rocket flight and the five dwarfs](https://www.planetary.org/the-downlink/rocket-flight-and-the-five-dwarfs) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T143509">2023-04-21 14:35:09 UTC</a></sub>
 * [2023 Digital Day of Action recap](https://www.planetary.org/articles/2023-digital-day-of-action-recap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150506">2023-04-20 15:05:06 UTC</a></sub>
 * [What does “Mercury in retrograde” actually mean?](https://www.planetary.org/articles/what-does-mercury-in-retrograde-actually-mean) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T173507">2023-04-19 17:35:07 UTC</a></sub>
 * [Meet the Solar System's five official dwarf planets](https://www.planetary.org/articles/meet-the-dwarf-planets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T140509">2023-04-19 14:05:09 UTC</a></sub>
@@ -218,7 +219,6 @@ region. The mission's status is currently Go for Launch
 * [Digital Day of Action 2023](https://www.planetary.org/advocacy/digital-day-of-action-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T171507">2023-04-11 17:15:07 UTC</a></sub>
 * [What would it be like to stand on the surface of Venus?](https://www.planetary.org/articles/what-would-it-be-like-to-stand-on-the-surface-of-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T144505">2023-04-11 14:45:05 UTC</a></sub>
 * [ICPS-2: ULA begins readying upper stage for Artemis II launch](https://blog.ulalaunch.com/blog/icps-2-ula-begins-readying-upper-stage-for-artemis-ii-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T132515">2023-04-10 13:25:15 UTC</a></sub>
-* [A mission to pull back the shroud](https://www.planetary.org/the-downlink/a-mission-to-pull-back-the-shroud) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T143504">2023-04-07 14:35:04 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T143040">2023-04-21 14:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T150102">2023-04-21 15:01:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
