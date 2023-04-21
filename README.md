@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: Starship RUDs on the way to space; Rocket Lab to reuse engine](https://arstechnica.com/science/2023/04/rocket-report-starship-ruds-on-the-way-to-space-rocket-lab-to-reuse-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T103000">2023-04-21 10:30:00 UTC</a></sub>
 * [FCC adopts revised NGSO spectrum-sharing rules](https://spacenews.com/fcc-adopts-revised-ngso-spectrum-sharing-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T015738">2023-04-21 01:57:38 UTC</a></sub>
 * [U.S. Space Command announces new cooperation agreements with allies](https://spacenews.com/u-s-space-command-announces-new-cooperation-agreements-with-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T004635">2023-04-21 00:46:35 UTC</a></sub>
 * [Space Force procurement command rebrands commercial space office](https://spacenews.com/space-force-procurement-command-rebrands-commercial-space-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T001834">2023-04-21 00:18:34 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Our pledge to diversify the space industry workforce continues | Open Letter](https://spacenews.com/our-pledge-to-diversify-the-space-industry-workforce-continues-open-letter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150458">2023-04-20 15:04:58 UTC</a></sub>
 * [SpaceX Starship completes first successful test flight](https://www.teslarati.com/spacex-starship-completes-first-successful-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T143527">2023-04-20 14:35:27 UTC</a></sub>
 * [Starship lifts off on first integrated test flight, breaks apart minutes later](https://spacenews.com/starship-lifts-off-on-first-integrated-test-flight-breaks-apart-minutes-later/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T140131">2023-04-20 14:01:31 UTC</a></sub>
-* [NASA starts consortium for ISAM technologies](https://spacenews.com/nasa-starts-consortium-for-isam-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T120600">2023-04-20 12:06:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T103104">2023-04-21 10:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T110048">2023-04-21 11:00:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
