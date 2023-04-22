@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Space Force will be the first customer for BlueHalo’s mobile ground station](https://spacenews.com/u-s-space-force-will-be-the-first-customer-for-bluehalos-mobile-ground-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T121833">2023-04-22 12:18:33 UTC</a></sub>
 * [Swedish astronaut to fly to ISS on Axiom mission](https://spacenews.com/swedish-astronaut-to-fly-to-iss-on-axiom-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T224214">2023-04-21 22:42:14 UTC</a></sub>
 * [Inmarsat still trying to restore satellite phone services in Asia Pacific](https://spacenews.com/inmarsat-still-trying-to-restore-satellite-phone-services-in-asia-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T214556">2023-04-21 21:45:56 UTC</a></sub>
 * [EGS launch team applying first SLS launch lessons to future Artemis missions](https://www.nasaspaceflight.com/2023/04/egs-launch-team-sls-lessons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T182008">2023-04-21 18:20:08 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Nelson supports continuing restrictions on NASA cooperation with China](https://spacenews.com/nelson-supports-continuing-restrictions-on-nasa-cooperation-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T122019">2023-04-21 12:20:19 UTC</a></sub>
 * [Rocket Report: Starship RUDs on the way to space; Rocket Lab to reuse engine](https://arstechnica.com/science/2023/04/rocket-report-starship-ruds-on-the-way-to-space-rocket-lab-to-reuse-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T103000">2023-04-21 10:30:00 UTC</a></sub>
 * [FCC adopts revised NGSO spectrum-sharing rules](https://spacenews.com/fcc-adopts-revised-ngso-spectrum-sharing-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T015738">2023-04-21 01:57:38 UTC</a></sub>
-* [U.S. Space Command announces new cooperation agreements with allies](https://spacenews.com/u-s-space-command-announces-new-cooperation-agreements-with-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T004635">2023-04-21 00:46:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T120100">2023-04-22 12:01:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T123801">2023-04-22 12:38:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
