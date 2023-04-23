@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra wins $11.5 million contract to launch military experimental payloads](https://spacenews.com/astra-wins-11-5-million-contract-to-launch-military-experimental-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T231708">2023-04-22 23:17:08 UTC</a></sub>
 * [U.S. military buying SES mPower satcom services under new NATO agreement](https://spacenews.com/u-s-military-buying-ses-mpower-satcom-services-under-new-nato-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T200908">2023-04-22 20:09:08 UTC</a></sub>
 * [U.S. Space Force will be the first customer for BlueHalo’s mobile ground station](https://spacenews.com/u-s-space-force-will-be-the-first-customer-for-bluehalos-mobile-ground-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T121833">2023-04-22 12:18:33 UTC</a></sub>
 * [Swedish astronaut to fly to ISS on Axiom mission](https://spacenews.com/swedish-astronaut-to-fly-to-iss-on-axiom-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T224214">2023-04-21 22:42:14 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [LeoLabs highlights on-orbit maneuvers](https://spacenews.com/leolabs-highlights-on-orbit-maneuvers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T144949">2023-04-21 14:49:49 UTC</a></sub>
 * [Pennsylvania Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/pennsylvania-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T125500">2023-04-21 12:55:00 UTC</a></sub>
 * [Nelson supports continuing restrictions on NASA cooperation with China](https://spacenews.com/nelson-supports-continuing-restrictions-on-nasa-cooperation-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T122019">2023-04-21 12:20:19 UTC</a></sub>
-* [Rocket Report: Starship RUDs on the way to space; Rocket Lab to reuse engine](https://arstechnica.com/science/2023/04/rocket-report-starship-ruds-on-the-way-to-space-rocket-lab-to-reuse-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T103000">2023-04-21 10:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T233044">2023-04-22 23:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230423T000140">2023-04-23 00:01:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
