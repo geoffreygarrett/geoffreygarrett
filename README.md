@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Inmarsat Q&A | Mobile satellite services coming back stronger than a ‘90s trend](https://spacenews.com/inmarsat-qa-mobile-satellite-services-coming-back-stronger-than-a-90s-trend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T160619">2023-04-24 16:06:19 UTC</a></sub>
 * [A Japanese company is about to attempt a Moon landing](https://arstechnica.com/science/2023/04/a-japanese-company-is-about-to-attempt-a-moon-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T150427">2023-04-24 15:04:27 UTC</a></sub>
 * [Maxar eyes summer launch of WorldView Legion imaging satellites ](https://spacenews.com/maxar-eyes-summer-launch-of-worldview-legion-imaging-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T133053">2023-04-24 13:30:53 UTC</a></sub>
 * [Virgin Orbit completes LauncherOne investigation as Chapter 11 bankruptcy continues](https://spacenews.com/virgin-orbit-completes-launcherone-investigation-as-chapter-11-bankruptcy-continues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T013418">2023-04-24 01:34:18 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [U.S. military buying SES mPower satcom services under new NATO agreement](https://spacenews.com/u-s-military-buying-ses-mpower-satcom-services-under-new-nato-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T200908">2023-04-22 20:09:08 UTC</a></sub>
 * [U.S. Space Force will be the first customer for BlueHalo’s mobile ground station](https://spacenews.com/u-s-space-force-will-be-the-first-customer-for-bluehalos-mobile-ground-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T121833">2023-04-22 12:18:33 UTC</a></sub>
 * [Swedish astronaut to fly to ISS on Axiom mission](https://spacenews.com/swedish-astronaut-to-fly-to-iss-on-axiom-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T224214">2023-04-21 22:42:14 UTC</a></sub>
-* [Inmarsat still trying to restore satellite phone services in Asia Pacific](https://spacenews.com/inmarsat-still-trying-to-restore-satellite-phone-services-in-asia-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T214556">2023-04-21 21:45:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T160056">2023-04-24 16:00:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T163352">2023-04-24 16:33:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
