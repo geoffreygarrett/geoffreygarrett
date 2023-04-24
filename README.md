@@ -189,6 +189,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Report: Space Force could benefit from commercial data to monitor satellites and debris](https://spacenews.com/report-space-force-could-benefit-from-commercial-data-to-monitor-satellites-and-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T203914">2023-04-24 20:39:14 UTC</a></sub>
+* [SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week](https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T201004">2023-04-24 20:10:04 UTC</a></sub>
 * [KMI advertises prices for debris removal](https://spacenews.com/kmi-advertises-prices-for-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195642">2023-04-24 19:56:42 UTC</a></sub>
 * [NASA, Rocket Lab Set Coverage for Tropical Cyclones Mission](http://www.nasa.gov/press-release/nasa-rocket-lab-set-coverage-for-tropical-cyclones-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195000">2023-04-24 19:50:00 UTC</a></sub>
 * [Using Hubble, researchers accidentally discover ejected black hole forcing star creation](https://www.nasaspaceflight.com/2023/04/runaway-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T192514">2023-04-24 19:25:14 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [A Japanese company is about to attempt a Moon landing](https://arstechnica.com/science/2023/04/a-japanese-company-is-about-to-attempt-a-moon-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T150427">2023-04-24 15:04:27 UTC</a></sub>
 * [Maxar eyes summer launch of WorldView Legion imaging satellites ](https://spacenews.com/maxar-eyes-summer-launch-of-worldview-legion-imaging-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T133053">2023-04-24 13:30:53 UTC</a></sub>
 * [Virgin Orbit completes LauncherOne investigation as Chapter 11 bankruptcy continues](https://spacenews.com/virgin-orbit-completes-launcherone-investigation-as-chapter-11-bankruptcy-continues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T013418">2023-04-24 01:34:18 UTC</a></sub>
-* [As megaconstellations grow, scientists become concerned with their impacts on astronomy](https://www.nasaspaceflight.com/2023/04/megaconstellations-effects-on-astronomy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230423T202311">2023-04-23 20:23:11 UTC</a></sub>
-* [China may include helicopter in Mars sample return mission](https://spacenews.com/china-may-include-helicopter-in-mars-sample-return-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230423T153114">2023-04-23 15:31:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T203043">2023-04-24 20:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T210047">2023-04-24 21:00:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
