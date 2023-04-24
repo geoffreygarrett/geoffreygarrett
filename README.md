@@ -189,6 +189,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [KMI advertises prices for debris removal](https://spacenews.com/kmi-advertises-prices-for-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195642">2023-04-24 19:56:42 UTC</a></sub>
+* [NASA, Rocket Lab Set Coverage for Tropical Cyclones Mission](http://www.nasa.gov/press-release/nasa-rocket-lab-set-coverage-for-tropical-cyclones-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195000">2023-04-24 19:50:00 UTC</a></sub>
+* [Using Hubble, researchers accidentally discover ejected black hole forcing star creation](https://www.nasaspaceflight.com/2023/04/runaway-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T192514">2023-04-24 19:25:14 UTC</a></sub>
 * [VP Harris, South Korea President Yoon Suk Yeol to Visit NASA Goddard](http://www.nasa.gov/press-release/vp-harris-south-korea-president-yoon-suk-yeol-to-visit-nasa-goddard) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T185000">2023-04-24 18:50:00 UTC</a></sub>
 * [Inmarsat Q&A | Mobile satellite services coming back stronger than a ‘90s trend](https://spacenews.com/inmarsat-qa-mobile-satellite-services-coming-back-stronger-than-a-90s-trend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T160619">2023-04-24 16:06:19 UTC</a></sub>
 * [A Japanese company is about to attempt a Moon landing](https://arstechnica.com/science/2023/04/a-japanese-company-is-about-to-attempt-a-moon-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T150427">2023-04-24 15:04:27 UTC</a></sub>
@@ -196,9 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [Virgin Orbit completes LauncherOne investigation as Chapter 11 bankruptcy continues](https://spacenews.com/virgin-orbit-completes-launcherone-investigation-as-chapter-11-bankruptcy-continues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T013418">2023-04-24 01:34:18 UTC</a></sub>
 * [As megaconstellations grow, scientists become concerned with their impacts on astronomy](https://www.nasaspaceflight.com/2023/04/megaconstellations-effects-on-astronomy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230423T202311">2023-04-23 20:23:11 UTC</a></sub>
 * [China may include helicopter in Mars sample return mission](https://spacenews.com/china-may-include-helicopter-in-mars-sample-return-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230423T153114">2023-04-23 15:31:14 UTC</a></sub>
-* [Astra wins $11.5 million contract to launch military experimental payloads](https://spacenews.com/astra-wins-11-5-million-contract-to-launch-military-experimental-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T231708">2023-04-22 23:17:08 UTC</a></sub>
-* [U.S. military buying SES mPower satcom services under new NATO agreement](https://spacenews.com/u-s-military-buying-ses-mpower-satcom-services-under-new-nato-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T200908">2023-04-22 20:09:08 UTC</a></sub>
-* [U.S. Space Force will be the first customer for BlueHalo’s mobile ground station](https://spacenews.com/u-s-space-force-will-be-the-first-customer-for-bluehalos-mobile-ground-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T121833">2023-04-22 12:18:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T193037">2023-04-24 19:30:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T200137">2023-04-24 20:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
