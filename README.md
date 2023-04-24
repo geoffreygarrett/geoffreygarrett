@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Orbit completes LauncherOne investigation as Chapter 11 bankruptcy continues](https://spacenews.com/virgin-orbit-completes-launcherone-investigation-as-chapter-11-bankruptcy-continues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T013418">2023-04-24 01:34:18 UTC</a></sub>
 * [As megaconstellations grow, scientists become concerned with their impacts on astronomy](https://www.nasaspaceflight.com/2023/04/megaconstellations-effects-on-astronomy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230423T202311">2023-04-23 20:23:11 UTC</a></sub>
 * [China may include helicopter in Mars sample return mission](https://spacenews.com/china-may-include-helicopter-in-mars-sample-return-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230423T153114">2023-04-23 15:31:14 UTC</a></sub>
 * [Astra wins $11.5 million contract to launch military experimental payloads](https://spacenews.com/astra-wins-11-5-million-contract-to-launch-military-experimental-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T231708">2023-04-22 23:17:08 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [Inmarsat still trying to restore satellite phone services in Asia Pacific](https://spacenews.com/inmarsat-still-trying-to-restore-satellite-phone-services-in-asia-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T214556">2023-04-21 21:45:56 UTC</a></sub>
 * [EGS launch team applying first SLS launch lessons to future Artemis missions](https://www.nasaspaceflight.com/2023/04/egs-launch-team-sls-lessons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T182008">2023-04-21 18:20:08 UTC</a></sub>
 * [Government calls for greater responsibility by satellite operators](https://spacenews.com/government-calls-for-greater-responsibility-by-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T172351">2023-04-21 17:23:51 UTC</a></sub>
-* [LeoLabs highlights on-orbit maneuvers](https://spacenews.com/leolabs-highlights-on-orbit-maneuvers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T144949">2023-04-21 14:49:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T015518">2023-04-24 01:55:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T021551">2023-04-24 02:15:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
