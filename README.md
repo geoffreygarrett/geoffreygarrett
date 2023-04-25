@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Announces Student Winners of Power to Explore Challenge](http://www.nasa.gov/press-release/nasa-announces-student-winners-of-power-to-explore-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T145000">2023-04-25 14:50:00 UTC</a></sub>
 * [Hydrosat collects $20 million in investment and grants](https://spacenews.com/hydrosat-collects-20-million-in-investment-and-grants/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T120000">2023-04-25 12:00:00 UTC</a></sub>
 * [Quantum Space moves up development of Ranger transfer vehicle](https://spacenews.com/quantum-space-moves-up-development-of-ranger-transfer-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T113020">2023-04-25 11:30:20 UTC</a></sub>
 * [SpaceX delays latest Starlink Group 3 deployment launch](https://www.nasaspaceflight.com/2023/04/starlink-3-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T111838">2023-04-25 11:18:38 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Ursa Major to supply upper-stage engine for Astra’s new rocket](https://spacenews.com/ursa-major-to-supply-upper-stage-engine-for-astras-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T214316">2023-04-24 21:43:16 UTC</a></sub>
 * [Report: Space Force could benefit from commercial data to monitor satellites and debris](https://spacenews.com/report-space-force-could-benefit-from-commercial-data-to-monitor-satellites-and-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T203914">2023-04-24 20:39:14 UTC</a></sub>
 * [SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week](https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T201004">2023-04-24 20:10:04 UTC</a></sub>
-* [KMI advertises prices for debris removal](https://spacenews.com/kmi-advertises-prices-for-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195642">2023-04-24 19:56:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -209,6 +209,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Resilient Space: A Defense in Depth](https://blog.ulalaunch.com/blog/resilient-space-a-defense-in-depth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T145018">2023-04-25 14:50:18 UTC</a></sub>
 * [Rocket flight and the five dwarfs](https://www.planetary.org/the-downlink/rocket-flight-and-the-five-dwarfs) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T143509">2023-04-21 14:35:09 UTC</a></sub>
 * [SpaceX's Starship test flight succeeds despite not reaching orbit](https://www.planetary.org/articles/starship-first-integrated-test-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T192504">2023-04-20 19:25:04 UTC</a></sub>
 * [2023 Digital Day of Action recap](https://www.planetary.org/articles/2023-digital-day-of-action-recap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150506">2023-04-20 15:05:06 UTC</a></sub>
@@ -218,7 +219,6 @@ region. The mission's status is currently Go for Launch
 * [Juice launches on mission to explore Jupiter's icy moons](https://www.planetary.org/articles/juice-launches-icy-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T134503">2023-04-14 13:45:03 UTC</a></sub>
 * [Digital Day of Action 2023](https://www.planetary.org/advocacy/digital-day-of-action-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T171507">2023-04-11 17:15:07 UTC</a></sub>
 * [What would it be like to stand on the surface of Venus?](https://www.planetary.org/articles/what-would-it-be-like-to-stand-on-the-surface-of-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T144505">2023-04-11 14:45:05 UTC</a></sub>
-* [ICPS-2: ULA begins readying upper stage for Artemis II launch](https://blog.ulalaunch.com/blog/icps-2-ula-begins-readying-upper-stage-for-artemis-ii-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T132515">2023-04-10 13:25:15 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T143048">2023-04-25 14:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T150110">2023-04-25 15:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
