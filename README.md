@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Quantum Space moves up development of Ranger transfer vehicle](https://spacenews.com/quantum-space-moves-up-development-of-ranger-transfer-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T113020">2023-04-25 11:30:20 UTC</a></sub>
 * [SpaceX resumes Starlink Group 3 deployment](https://www.nasaspaceflight.com/2023/04/starlink-3-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T111838">2023-04-25 11:18:38 UTC</a></sub>
 * [Falcon Heavy delay affects space station manifest](https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T010003">2023-04-25 01:00:03 UTC</a></sub>
 * [SpaceX Receives Permission To Lease Historic SLC-6 At Vandenberg Space Force Base](https://tlpnetwork.com/news/2023/04/spacex-receives-permission-to-lease-slc-6-at-vandenberg-space-force-base) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T002700">2023-04-25 00:27:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week](https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T201004">2023-04-24 20:10:04 UTC</a></sub>
 * [KMI advertises prices for debris removal](https://spacenews.com/kmi-advertises-prices-for-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195642">2023-04-24 19:56:42 UTC</a></sub>
 * [NASA, Rocket Lab Set Coverage for Tropical Cyclones Mission](http://www.nasa.gov/press-release/nasa-rocket-lab-set-coverage-for-tropical-cyclones-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195000">2023-04-24 19:50:00 UTC</a></sub>
-* [Using Hubble, researchers accidentally discover ejected black hole forcing star creation](https://www.nasaspaceflight.com/2023/04/runaway-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T192514">2023-04-24 19:25:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T113044">2023-04-25 11:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T120049">2023-04-25 12:00:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
