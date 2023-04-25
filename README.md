@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DEVELOPING STORY: Hakuto-R Lunar Lander Experiences Landing Failure ](https://tlpnetwork.com/news/2023/04/hakuto-r-landing-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T202512">2023-04-25 20:25:12 UTC</a></sub>
+* [SpaceX to take over West Coast launch pad previously used by ULA](https://spacenews.com/spacex-to-take-over-west-coast-launch-pad-previously-used-by-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T195108">2023-04-25 19:51:08 UTC</a></sub>
 * [NASA Selects 12 Companies to Collaborate on Key Technology Development](http://www.nasa.gov/press-release/nasa-selects-12-companies-to-collaborate-on-key-technology-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T185000">2023-04-25 18:50:00 UTC</a></sub>
 * [Ursa Major Engine To Be Used On Astra Rocket 4](https://tlpnetwork.com/news/2023/04/ursa-major-astra-rocket-4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T182300">2023-04-25 18:23:00 UTC</a></sub>
 * [First ispace lunar lander feared lost](https://spacenews.com/first-ispace-lunar-lander-feared-lost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173706">2023-04-25 17:37:06 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Japanese ispace moon landing attempt falls short at ‘very end,’ CEO says](https://www.cnbc.com/2023/04/25/ispace-moon-landing-watch-live.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T153252">2023-04-25 15:32:52 UTC</a></sub>
 * [NASA Announces Student Winners of Power to Explore Challenge](http://www.nasa.gov/press-release/nasa-announces-student-winners-of-power-to-explore-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T145000">2023-04-25 14:50:00 UTC</a></sub>
 * [Connecting the Dots | SES-Intelsat merger would face uphill regulatory struggle](https://spacenews.com/connecting-the-dots-ses-intelsat-merger-would-face-uphill-regulatory-struggle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T144200">2023-04-25 14:42:00 UTC</a></sub>
-* [Hydrosat collects $20 million in investment and grants](https://spacenews.com/hydrosat-collects-20-million-in-investment-and-grants/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T120000">2023-04-25 12:00:00 UTC</a></sub>
-* [Quantum Space moves up development of Ranger transfer vehicle](https://spacenews.com/quantum-space-moves-up-development-of-ranger-transfer-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T113020">2023-04-25 11:30:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T200052">2023-04-25 20:00:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T203059">2023-04-25 20:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
