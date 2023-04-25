@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Falcon Heavy delay affects space station manifest](https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T010003">2023-04-25 01:00:03 UTC</a></sub>
 * [SpaceX Receives Permission To Lease Historic SLC-6 At Vandenberg Space Force Base](https://tlpnetwork.com/news/2023/04/spacex-receives-permission-to-lease-slc-6-at-vandenberg-space-force-base) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T002700">2023-04-25 00:27:00 UTC</a></sub>
 * [NASA InSight Study Provides Clearest Look Ever at Martian Core](https://mars.nasa.gov/insight/news/nasa-insight-study-provides-clearest-look-ever-at-martian-core) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T225000">2023-04-24 22:50:00 UTC</a></sub>
 * [Ursa Major to supply upper-stage engine for Astra’s new rocket](https://spacenews.com/ursa-major-to-supply-upper-stage-engine-for-astras-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T214316">2023-04-24 21:43:16 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA, Rocket Lab Set Coverage for Tropical Cyclones Mission](http://www.nasa.gov/press-release/nasa-rocket-lab-set-coverage-for-tropical-cyclones-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195000">2023-04-24 19:50:00 UTC</a></sub>
 * [Using Hubble, researchers accidentally discover ejected black hole forcing star creation](https://www.nasaspaceflight.com/2023/04/runaway-black-hole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T192514">2023-04-24 19:25:14 UTC</a></sub>
 * [VP Harris, South Korea President Yoon Suk Yeol to Visit NASA Goddard](http://www.nasa.gov/press-release/vp-harris-south-korea-president-yoon-suk-yeol-to-visit-nasa-goddard) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T185000">2023-04-24 18:50:00 UTC</a></sub>
-* [Inmarsat Q&A | Mobile satellite services coming back stronger than a ‘90s trend](https://spacenews.com/inmarsat-qa-mobile-satellite-services-coming-back-stronger-than-a-90s-trend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T160619">2023-04-24 16:06:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T004503">2023-04-25 00:45:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T012717">2023-04-25 01:27:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
