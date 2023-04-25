@@ -189,7 +189,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Watch live as Japanese ispace aims to be first company to land cargo on the moon](https://www.cnbc.com/2023/04/25/ispace-moon-landing-watch-live.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T153252">2023-04-25 15:32:52 UTC</a></sub>
+* [NASA Retires Mineral Mapping Instrument on Mars Orbiter](https://mars.nasa.gov/news/9390/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173000">2023-04-25 17:30:00 UTC</a></sub>
+* [Japanese lander appears to fail just before touchdown on the Moon [Updated]](https://arstechnica.com/science/2023/04/a-japanese-company-is-about-to-attempt-a-moon-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T171027">2023-04-25 17:10:27 UTC</a></sub>
+* [Japanese ispace assumes attempted moon landing crashed, CEO says](https://www.cnbc.com/2023/04/25/ispace-moon-landing-watch-live.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T153252">2023-04-25 15:32:52 UTC</a></sub>
 * [NASA Announces Student Winners of Power to Explore Challenge](http://www.nasa.gov/press-release/nasa-announces-student-winners-of-power-to-explore-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T145000">2023-04-25 14:50:00 UTC</a></sub>
 * [Connecting the Dots | SES-Intelsat merger would face uphill regulatory struggle](https://spacenews.com/connecting-the-dots-ses-intelsat-merger-would-face-uphill-regulatory-struggle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T144200">2023-04-25 14:42:00 UTC</a></sub>
 * [Hydrosat collects $20 million in investment and grants](https://spacenews.com/hydrosat-collects-20-million-in-investment-and-grants/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T120000">2023-04-25 12:00:00 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX delays latest Starlink Group 3 deployment launch](https://www.nasaspaceflight.com/2023/04/starlink-3-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T111838">2023-04-25 11:18:38 UTC</a></sub>
 * [Falcon Heavy delay affects space station manifest](https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T010003">2023-04-25 01:00:03 UTC</a></sub>
 * [SpaceX Receives Permission To Lease Historic SLC-6 At Vandenberg Space Force Base](https://tlpnetwork.com/news/2023/04/spacex-receives-permission-to-lease-slc-6-at-vandenberg-space-force-base) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T002700">2023-04-25 00:27:00 UTC</a></sub>
-* [NASA InSight Study Provides Clearest Look Ever at Martian Core](https://mars.nasa.gov/insight/news/nasa-insight-study-provides-clearest-look-ever-at-martian-core) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T225000">2023-04-24 22:50:00 UTC</a></sub>
-* [Ursa Major to supply upper-stage engine for Astra’s new rocket](https://spacenews.com/ursa-major-to-supply-upper-stage-engine-for-astras-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T214316">2023-04-24 21:43:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T170107">2023-04-25 17:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173100">2023-04-25 17:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
