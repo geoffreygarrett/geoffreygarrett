@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrobotic purchases Falcon Heavy for third lunar lander mission](https://spacenews.com/astrobotic-purchases-falcon-heavy-for-third-lunar-lander-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T020330">2023-04-26 02:03:30 UTC</a></sub>
 * [AST SpaceMobile conducts first direct-to-device voice test](https://spacenews.com/ast-spacemobile-conducts-first-direct-to-device-voice-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T001149">2023-04-26 00:11:49 UTC</a></sub>
 * [SpaceX to take over Space Launch Complex 6 at Vandenberg Space Force Base](https://www.teslarati.com/spacex-take-over-space-launch-complex-6-vandenberg-space-force-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T210011">2023-04-25 21:00:11 UTC</a></sub>
 * [DEVELOPING STORY: Hakuto-R Lunar Lander Experiences Landing Failure ](https://tlpnetwork.com/news/2023/04/hakuto-r-landing-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T202512">2023-04-25 20:25:12 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [First ispace lunar lander feared lost](https://spacenews.com/first-ispace-lunar-lander-feared-lost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173706">2023-04-25 17:37:06 UTC</a></sub>
 * [NASA Retires Mineral Mapping Instrument on Mars Orbiter](https://mars.nasa.gov/news/9390/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173000">2023-04-25 17:30:00 UTC</a></sub>
 * [Japanese lander appears to fail just before touchdown on the Moon [Updated]](https://arstechnica.com/science/2023/04/a-japanese-company-is-about-to-attempt-a-moon-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T171027">2023-04-25 17:10:27 UTC</a></sub>
-* [Japanese ispace moon landing attempt falls short at ‘very end,’ CEO says](https://www.cnbc.com/2023/04/25/ispace-moon-landing-watch-live.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T153252">2023-04-25 15:32:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T015329">2023-04-26 01:53:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T021452">2023-04-26 02:14:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
