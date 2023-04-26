@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [United States and South Korea agree to enhance space cooperation](https://spacenews.com/united-states-and-south-korea-agree-to-enhance-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T121808">2023-04-26 12:18:08 UTC</a></sub>
 * [X-Bow announces $60 million STRATFI agreement](https://spacenews.com/x-bow-announces-60-million-stratfi-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T090000">2023-04-26 09:00:00 UTC</a></sub>
 * [Astrobotic purchases Falcon Heavy for third lunar lander mission](https://spacenews.com/astrobotic-purchases-falcon-heavy-for-third-lunar-lander-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T020330">2023-04-26 02:03:30 UTC</a></sub>
 * [AST SpaceMobile conducts first direct-to-device voice test](https://spacenews.com/ast-spacemobile-conducts-first-direct-to-device-voice-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T001149">2023-04-26 00:11:49 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Selects 12 Companies to Collaborate on Key Technology Development](http://www.nasa.gov/press-release/nasa-selects-12-companies-to-collaborate-on-key-technology-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T185000">2023-04-25 18:50:00 UTC</a></sub>
 * [Ursa Major Engine To Be Used On Astra Rocket 4](https://tlpnetwork.com/news/2023/04/ursa-major-astra-rocket-4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T182300">2023-04-25 18:23:00 UTC</a></sub>
 * [First ispace lunar lander feared lost](https://spacenews.com/first-ispace-lunar-lander-feared-lost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173706">2023-04-25 17:37:06 UTC</a></sub>
-* [NASA Retires Mineral Mapping Instrument on Mars Orbiter](https://mars.nasa.gov/news/9390/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173000">2023-04-25 17:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T120054">2023-04-26 12:00:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T123913">2023-04-26 12:39:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
