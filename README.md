@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Announces Winners of 2023 Human Exploration Rover Challenge](http://www.nasa.gov/press-release/nasa-announces-winners-of-2023-human-exploration-rover-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T151000">2023-04-26 15:10:00 UTC</a></sub>
+* [ViaSat-3 Americas set for expendable Falcon Heavy launch](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T150625">2023-04-26 15:06:25 UTC</a></sub>
 * [China to hunt for Earth-like planets with formation-flying telescopes](https://spacenews.com/china-to-hunt-for-earth-like-planets-with-formation-flying-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T135356">2023-04-26 13:53:56 UTC</a></sub>
 * [United States and South Korea agree to enhance space cooperation](https://spacenews.com/united-states-and-south-korea-agree-to-enhance-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T121808">2023-04-26 12:18:08 UTC</a></sub>
 * [X-Bow announces $60 million STRATFI agreement](https://spacenews.com/x-bow-announces-60-million-stratfi-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T090000">2023-04-26 09:00:00 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX to take over Space Launch Complex 6 at Vandenberg Space Force Base](https://www.teslarati.com/spacex-take-over-space-launch-complex-6-vandenberg-space-force-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T210011">2023-04-25 21:00:11 UTC</a></sub>
 * [DEVELOPING STORY: Hakuto-R Lunar Lander Experiences Landing Failure ](https://tlpnetwork.com/news/2023/04/hakuto-r-landing-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T202512">2023-04-25 20:25:12 UTC</a></sub>
 * [SpaceX to take over West Coast launch pad previously used by ULA](https://spacenews.com/spacex-to-take-over-west-coast-launch-pad-previously-used-by-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T195108">2023-04-25 19:51:08 UTC</a></sub>
-* [NASA Selects 12 Companies to Collaborate on Key Technology Development](http://www.nasa.gov/press-release/nasa-selects-12-companies-to-collaborate-on-key-technology-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T185000">2023-04-25 18:50:00 UTC</a></sub>
-* [Ursa Major Engine To Be Used On Astra Rocket 4](https://tlpnetwork.com/news/2023/04/ursa-major-astra-rocket-4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T182300">2023-04-25 18:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T150055">2023-04-26 15:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T153059">2023-04-26 15:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
