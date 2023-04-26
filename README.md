@@ -189,6 +189,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Updates Coverage of Roscosmos Spacewalks at Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-of-roscosmos-spacewalks-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T192000">2023-04-26 19:20:00 UTC</a></sub>
+* [SpaceShipTwo makes first flight in nearly two years](https://spacenews.com/spaceshiptwo-makes-first-flight-in-nearly-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T185006">2023-04-26 18:50:06 UTC</a></sub>
+* [Virgin Galactic Completes Glide Test Ahead Of Powered Flight](https://tlpnetwork.com/news/2023/04/vss-unity-24) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T184401">2023-04-26 18:44:01 UTC</a></sub>
 * [NASA Experts Available for Interviews About Sea and Sky Campaign](http://www.nasa.gov/press-release/nasa-experts-available-for-interviews-about-sea-and-sky-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T183000">2023-04-26 18:30:00 UTC</a></sub>
 * [After nearly two years, Virgin Galactic’s space plane returns to the sky](https://arstechnica.com/science/2023/04/after-nearly-two-years-virgin-galactics-space-plane-returns-to-the-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T174650">2023-04-26 17:46:50 UTC</a></sub>
 * [NASA Announces Winners of 2023 Human Exploration Rover Challenge](http://www.nasa.gov/press-release/nasa-announces-winners-of-2023-human-exploration-rover-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T151000">2023-04-26 15:10:00 UTC</a></sub>
@@ -196,9 +199,6 @@ region. The mission's status is currently Go for Launch
 * [China to hunt for Earth-like planets with formation-flying telescopes](https://spacenews.com/china-to-hunt-for-earth-like-planets-with-formation-flying-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T135356">2023-04-26 13:53:56 UTC</a></sub>
 * [United States and South Korea agree to enhance space cooperation](https://spacenews.com/united-states-and-south-korea-agree-to-enhance-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T121808">2023-04-26 12:18:08 UTC</a></sub>
 * [X-Bow announces $60 million STRATFI agreement](https://spacenews.com/x-bow-announces-60-million-stratfi-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T090000">2023-04-26 09:00:00 UTC</a></sub>
-* [Astrobotic purchases Falcon Heavy for third lunar lander mission](https://spacenews.com/astrobotic-purchases-falcon-heavy-for-third-lunar-lander-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T020330">2023-04-26 02:03:30 UTC</a></sub>
-* [AST SpaceMobile conducts first direct-to-device voice test](https://spacenews.com/ast-spacemobile-conducts-first-direct-to-device-voice-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T001149">2023-04-26 00:11:49 UTC</a></sub>
-* [SpaceX to take over Space Launch Complex 6 at Vandenberg Space Force Base](https://www.teslarati.com/spacex-take-over-space-launch-complex-6-vandenberg-space-force-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T210011">2023-04-25 21:00:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T190048">2023-04-26 19:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T193050">2023-04-26 19:30:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
