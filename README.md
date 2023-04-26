@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Experts Available for Interviews About Sea and Sky Campaign](http://www.nasa.gov/press-release/nasa-experts-available-for-interviews-about-sea-and-sky-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T183000">2023-04-26 18:30:00 UTC</a></sub>
 * [After nearly two years, Virgin Galactic’s space plane returns to the sky](https://arstechnica.com/science/2023/04/after-nearly-two-years-virgin-galactics-space-plane-returns-to-the-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T174650">2023-04-26 17:46:50 UTC</a></sub>
 * [NASA Announces Winners of 2023 Human Exploration Rover Challenge](http://www.nasa.gov/press-release/nasa-announces-winners-of-2023-human-exploration-rover-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T151000">2023-04-26 15:10:00 UTC</a></sub>
 * [ViaSat-3 Americas moved to Thursday for expendable Falcon Heavy launch](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T150625">2023-04-26 15:06:25 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Astrobotic purchases Falcon Heavy for third lunar lander mission](https://spacenews.com/astrobotic-purchases-falcon-heavy-for-third-lunar-lander-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T020330">2023-04-26 02:03:30 UTC</a></sub>
 * [AST SpaceMobile conducts first direct-to-device voice test](https://spacenews.com/ast-spacemobile-conducts-first-direct-to-device-voice-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T001149">2023-04-26 00:11:49 UTC</a></sub>
 * [SpaceX to take over Space Launch Complex 6 at Vandenberg Space Force Base](https://www.teslarati.com/spacex-take-over-space-launch-complex-6-vandenberg-space-force-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T210011">2023-04-25 21:00:11 UTC</a></sub>
-* [DEVELOPING STORY: Hakuto-R Lunar Lander Experiences Landing Failure ](https://tlpnetwork.com/news/2023/04/hakuto-r-landing-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T202512">2023-04-25 20:25:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T180107">2023-04-26 18:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T183126">2023-04-26 18:31:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
