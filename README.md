@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD weighing options to create ‘commercial space reserve’](https://spacenews.com/dod-weighing-options-to-create-commercial-space-reserve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T211728">2023-04-26 21:17:28 UTC</a></sub>
 * [NASA Sets Coverage for Czech Republic Artemis Accords Signing Ceremony](http://www.nasa.gov/press-release/nasa-sets-coverage-for-czech-republic-artemis-accords-signing-ceremony) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T200000">2023-04-26 20:00:00 UTC</a></sub>
 * [NASA Updates Coverage of Roscosmos Spacewalks at Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-of-roscosmos-spacewalks-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T192000">2023-04-26 19:20:00 UTC</a></sub>
 * [SpaceShipTwo makes first flight in nearly two years](https://spacenews.com/spaceshiptwo-makes-first-flight-in-nearly-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T185006">2023-04-26 18:50:06 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Announces Winners of 2023 Human Exploration Rover Challenge](http://www.nasa.gov/press-release/nasa-announces-winners-of-2023-human-exploration-rover-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T151000">2023-04-26 15:10:00 UTC</a></sub>
 * [ViaSat-3 Americas moved to Thursday for expendable Falcon Heavy launch](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T150625">2023-04-26 15:06:25 UTC</a></sub>
 * [China to hunt for Earth-like planets with formation-flying telescopes](https://spacenews.com/china-to-hunt-for-earth-like-planets-with-formation-flying-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T135356">2023-04-26 13:53:56 UTC</a></sub>
-* [United States and South Korea agree to enhance space cooperation](https://spacenews.com/united-states-and-south-korea-agree-to-enhance-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T121808">2023-04-26 12:18:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T213052">2023-04-26 21:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T220055">2023-04-26 22:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
