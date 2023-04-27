@@ -188,6 +188,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Entrepreneurs to Pitch Ideas for Future in NASA ‘Space Tank’](http://www.nasa.gov/press-release/entrepreneurs-to-pitch-ideas-for-future-in-nasa-space-tank) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T183000">2023-04-27 18:30:00 UTC</a></sub>
+* [Raytheon rethinks strategy to compete in military satellite market](https://spacenews.com/raytheon-rethinks-strategy-to-compete-in-military-satellite-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174927">2023-04-27 17:49:27 UTC</a></sub>
+* [Albedo wins Air Force contract to supply thermal imagery at night](https://spacenews.com/albedo-wins-air-force-contract-to-supply-thermal-imagery-at-night/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174314">2023-04-27 17:43:14 UTC</a></sub>
 * [Italy’s post-pandemic space industry boost](https://spacenews.com/italys-post-pandemic-space-industry-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T152325">2023-04-27 15:23:25 UTC</a></sub>
 * [SpaceX completes its 25th Falcon 9 launch of 2023 with latest Starlink deployment](https://www.teslarati.com/spacex-completes-25th-falcon-9-launch-2023-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T151003">2023-04-27 15:10:03 UTC</a></sub>
 * [China plans full reusability for its super heavy Long March 9 rocket](https://spacenews.com/china-plans-full-reusability-for-its-super-heavy-long-march-9-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T112707">2023-04-27 11:27:07 UTC</a></sub>
@@ -195,9 +198,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX SLC-6 takeover to mark a new chapter for a famous pad](https://www.nasaspaceflight.com/2023/04/spacex-slc-6-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T022744">2023-04-27 02:27:44 UTC</a></sub>
 * [DoD weighing options to create ‘commercial space reserve’](https://spacenews.com/dod-weighing-options-to-create-commercial-space-reserve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T211728">2023-04-26 21:17:28 UTC</a></sub>
 * [NASA Sets Coverage for Czech Republic Artemis Accords Signing Ceremony](http://www.nasa.gov/press-release/nasa-sets-coverage-for-czech-republic-artemis-accords-signing-ceremony) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T200000">2023-04-26 20:00:00 UTC</a></sub>
-* [NASA Updates Coverage of Roscosmos Spacewalks at Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-of-roscosmos-spacewalks-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T192000">2023-04-26 19:20:00 UTC</a></sub>
-* [SpaceShipTwo makes first flight in nearly two years](https://spacenews.com/spaceshiptwo-makes-first-flight-in-nearly-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T185006">2023-04-26 18:50:06 UTC</a></sub>
-* [Virgin Galactic Completes Glide Test Ahead Of Powered Flight](https://tlpnetwork.com/news/2023/04/vss-unity-24) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T184401">2023-04-26 18:44:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T180059">2023-04-27 18:00:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T183111">2023-04-27 18:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
