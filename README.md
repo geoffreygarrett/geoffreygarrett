@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Spain’s Satlantis expands into thermal imagery with UK investment](https://spacenews.com/spains-satlantis-expands-into-thermal-imagery-with-uk-investment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T203959">2023-04-27 20:39:59 UTC</a></sub>
+* [Light Steering Technologies claims $1.25 million Air Force contract](https://spacenews.com/light-steering-technologies-claims-1-25-million-air-force-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T200000">2023-04-27 20:00:00 UTC</a></sub>
 * [Entrepreneurs to Pitch Ideas for Future in NASA ‘Space Tank’](http://www.nasa.gov/press-release/entrepreneurs-to-pitch-ideas-for-future-in-nasa-space-tank) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T183000">2023-04-27 18:30:00 UTC</a></sub>
 * [Raytheon rethinks strategy to compete in military satellite market](https://spacenews.com/raytheon-rethinks-strategy-to-compete-in-military-satellite-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174927">2023-04-27 17:49:27 UTC</a></sub>
 * [Albedo wins Air Force contract to supply thermal imagery at night](https://spacenews.com/albedo-wins-air-force-contract-to-supply-thermal-imagery-at-night/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174314">2023-04-27 17:43:14 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [China plans full reusability for its super heavy Long March 9 rocket](https://spacenews.com/china-plans-full-reusability-for-its-super-heavy-long-march-9-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T112707">2023-04-27 11:27:07 UTC</a></sub>
 * [Fish and Wildlife Service documents damage from Starship launch](https://spacenews.com/fish-and-wildlife-service-documents-damage-from-starship-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T025328">2023-04-27 02:53:28 UTC</a></sub>
 * [SpaceX SLC-6 takeover to mark a new chapter for a famous pad](https://www.nasaspaceflight.com/2023/04/spacex-slc-6-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T022744">2023-04-27 02:27:44 UTC</a></sub>
-* [DoD weighing options to create ‘commercial space reserve’](https://spacenews.com/dod-weighing-options-to-create-commercial-space-reserve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T211728">2023-04-26 21:17:28 UTC</a></sub>
-* [NASA Sets Coverage for Czech Republic Artemis Accords Signing Ceremony](http://www.nasa.gov/press-release/nasa-sets-coverage-for-czech-republic-artemis-accords-signing-ceremony) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T200000">2023-04-26 20:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T203056">2023-04-27 20:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T210043">2023-04-27 21:00:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
