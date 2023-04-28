@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to establish organization to coordinate international moon base](https://spacenews.com/china-to-establish-organization-to-coordinate-international-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T075935">2023-04-28 07:59:35 UTC</a></sub>
 * [Nelson expects SpaceX to be ready for next Starship launch within months](https://spacenews.com/nelson-expects-spacex-to-be-ready-for-next-starship-launch-within-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T031639">2023-04-28 03:16:39 UTC</a></sub>
 * [How Chang Zheng 9 arrived at the “Starship-like” design](https://www.nasaspaceflight.com/2023/04/cz-9-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T000157">2023-04-28 00:01:57 UTC</a></sub>
 * [Russia commits to ISS extension to 2028](https://spacenews.com/russia-commits-to-iss-extension-to-2028/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T234726">2023-04-27 23:47:26 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Entrepreneurs to Pitch Ideas for Future in NASA ‘Space Tank’](http://www.nasa.gov/press-release/entrepreneurs-to-pitch-ideas-for-future-in-nasa-space-tank) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T183000">2023-04-27 18:30:00 UTC</a></sub>
 * [Raytheon rethinks strategy to compete in military satellite market](https://spacenews.com/raytheon-rethinks-strategy-to-compete-in-military-satellite-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174927">2023-04-27 17:49:27 UTC</a></sub>
 * [Albedo wins Air Force contract to supply thermal imagery at night](https://spacenews.com/albedo-wins-air-force-contract-to-supply-thermal-imagery-at-night/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174314">2023-04-27 17:43:14 UTC</a></sub>
-* [Italy’s post-pandemic space industry boost](https://spacenews.com/italys-post-pandemic-space-industry-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T152325">2023-04-27 15:23:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T080037">2023-04-28 08:00:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T083117">2023-04-28 08:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
