@@ -192,13 +192,13 @@ region. The mission's status is currently Go for Launch
 * [Europe’s major new interplanetary spacecraft has a slight problem](https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143641">2023-04-28 14:36:41 UTC</a></sub>
 * [Rocket Report: Feds assess Starship fallout; Sweden accidentally bombs Norway](https://arstechnica.com/science/2023/04/rocket-report-feds-assess-starship-fallout-sweden-accidentally-bombs-norway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T111547">2023-04-28 11:15:47 UTC</a></sub>
 * [China to establish organization to coordinate international moon base](https://spacenews.com/china-to-establish-organization-to-coordinate-international-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T075935">2023-04-28 07:59:35 UTC</a></sub>
+* [Download the 2023 Space Symposium Daily](https://spacenews.com/download-the-2023-space-symposium-daily/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T061100">2023-04-28 06:11:00 UTC</a></sub>
 * [Nelson expects SpaceX to be ready for next Starship launch within months](https://spacenews.com/nelson-expects-spacex-to-be-ready-for-next-starship-launch-within-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T031639">2023-04-28 03:16:39 UTC</a></sub>
 * [How Chang Zheng 9 arrived at the “Starship-like” design](https://www.nasaspaceflight.com/2023/04/cz-9-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T000157">2023-04-28 00:01:57 UTC</a></sub>
 * [Russia commits to ISS extension to 2028](https://spacenews.com/russia-commits-to-iss-extension-to-2028/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T234726">2023-04-27 23:47:26 UTC</a></sub>
 * [Chinese state-owned academy makes rocket engines available to commercial space firms](https://spacenews.com/chinese-state-owned-academy-makes-rocket-engines-available-to-commercial-space-firms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T210127">2023-04-27 21:01:27 UTC</a></sub>
 * [Spain’s Satlantis expands into thermal imagery with UK investment](https://spacenews.com/spains-satlantis-expands-into-thermal-imagery-with-uk-investment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T203959">2023-04-27 20:39:59 UTC</a></sub>
 * [Light Steering Technologies claims $1.25 million Air Force contract](https://spacenews.com/light-steering-technologies-claims-1-25-million-air-force-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T200000">2023-04-27 20:00:00 UTC</a></sub>
-* [Entrepreneurs to Pitch Ideas for Future in NASA ‘Space Tank’](http://www.nasa.gov/press-release/entrepreneurs-to-pitch-ideas-for-future-in-nasa-space-tank) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T183000">2023-04-27 18:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T160100">2023-04-28 16:01:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T163226">2023-04-28 16:32:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
