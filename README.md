@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra, Exotrail win satellite propulsion orders](https://spacenews.com/astra-exotrail-win-satellite-propulsion-orders/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T191538">2023-04-28 19:15:38 UTC</a></sub>
+* [SpaceX prepares for Falcon and Falcon 9 double header, weather may play spoiler](https://www.teslarati.com/falcon-heavy-falcon-9-double-header-launch-weather-spoiler/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T191006">2023-04-28 19:10:06 UTC</a></sub>
 * [Spaceport Cornwall expands facilities following Virgin Orbit failure](https://spacenews.com/spaceport-cornwall-expands-facilities-following-virgin-orbit-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T182440">2023-04-28 18:24:40 UTC</a></sub>
 * [SpaceX to launch O3b mPOWER 3 & 4 mission from Florida](https://www.nasaspaceflight.com/2023/04/o3b-mpower-3-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T171049">2023-04-28 17:10:49 UTC</a></sub>
 * [Europe’s major new interplanetary spacecraft has a slight problem](https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143641">2023-04-28 14:36:41 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Download the 2023 Space Symposium Daily](https://spacenews.com/download-the-2023-space-symposium-daily/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T061100">2023-04-28 06:11:00 UTC</a></sub>
 * [Nelson expects SpaceX to be ready for next Starship launch within months](https://spacenews.com/nelson-expects-spacex-to-be-ready-for-next-starship-launch-within-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T031639">2023-04-28 03:16:39 UTC</a></sub>
 * [How Chang Zheng 9 arrived at the “Starship-like” design](https://www.nasaspaceflight.com/2023/04/cz-9-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T000157">2023-04-28 00:01:57 UTC</a></sub>
-* [Russia commits to ISS extension to 2028](https://spacenews.com/russia-commits-to-iss-extension-to-2028/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T234726">2023-04-27 23:47:26 UTC</a></sub>
-* [Chinese state-owned academy makes rocket engines available to commercial space firms](https://spacenews.com/chinese-state-owned-academy-makes-rocket-engines-available-to-commercial-space-firms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T210127">2023-04-27 21:01:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T193038">2023-04-28 19:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T200057">2023-04-28 20:00:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
