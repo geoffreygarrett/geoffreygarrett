@@ -190,7 +190,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX launches second set of O3b mPower satellites](https://spacenews.com/spacex-launches-second-set-of-o3b-mpower-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T011940">2023-04-29 01:19:40 UTC</a></sub>
+* [SpaceX launches second pair of O3b mPower satellites](https://spacenews.com/spacex-launches-second-set-of-o3b-mpower-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T011940">2023-04-29 01:19:40 UTC</a></sub>
 * [As JUICE struggles with antenna deployment, program manager highlights status of the mission](https://www.nasaspaceflight.com/2023/04/juice-status-post-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T003750">2023-04-29 00:37:50 UTC</a></sub>
 * [Orienspace of China targets first launch in second half of the year](https://spacenews.com/orienspace-of-china-targets-first-launch-in-second-half-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T205917">2023-04-28 20:59:17 UTC</a></sub>
 * [Air Force navigation satellite experiment applying lessons from GPS](https://spacenews.com/air-force-navigation-satellite-experiment-applying-lessons-from-gps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T203024">2023-04-28 20:30:24 UTC</a></sub>
@@ -232,7 +232,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T023621">2023-04-29 02:36:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T033048">2023-04-29 03:30:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
