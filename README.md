@@ -102,26 +102,28 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Firefly Alpha | FLTA003 (VICTUS NOX) at the
-<a href="">Space Launch Complex 2W</a> in
-Vandenberg SFB, CA, USA
+Falcon Heavy | ViaSat-3 Americas & Others at the
+<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a> in
+Kennedy Space Center, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>. Until
-then, this launch pad will have seen 94
-out of 717 launches in this
-region. The mission's status is currently To Be Determined
-(TBD) 🟧  which means:
-*current date is a placeholder or rough estimation based on unreliable or interpreted sources.* 
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T232900">2023-04-29 23:29:00 UTC</a>. Until
+then, this launch pad will have seen 159
+out of 217 launches in this
+region. The mission's status is currently To Be Confirmed
+(TBC) 🟨  which means:
+*awaiting official confirmation - current date is known with some certainty.* 
 <br>
 <blockquote>
-  Third flight of the Firefly Alpha small sat launcher, carrying a payload for the US Department of Defense.
+  The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.
+
+Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Space’s GS-1 satellite.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Firefly_Alpha" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.7556,-120.6224" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,6 +136,7 @@ region. The mission's status is currently To Be Determined
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>ViaSat-3 Americas & Others</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T232900">2023-04-29 23:29:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas &amp; Others&location=Kennedy Space Center, FL, USA&dates=20230429T232900Z%2F20230430T002600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>FLTA003 (VICTUS NOX)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA003 (VICTUS NOX)&location=Vandenberg SFB, CA, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-6</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T081000">2023-05-02 08:10:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-6&location=Cape Canaveral, FL, USA&dates=20230502T081000Z%2F20230502T125000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-2</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T010000">2023-05-03 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Rocket Like A Hurricane (TROPICS-2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230503T010000Z%2F20230503T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -187,16 +190,16 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [As JUICE struggles with antenna deployment, program manager highlights status of the mission](https://www.nasaspaceflight.com/2023/04/juice-status-post-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T003750">2023-04-29 00:37:50 UTC</a></sub>
 * [Orienspace of China targets first launch in second half of the year](https://spacenews.com/orienspace-of-china-targets-first-launch-in-second-half-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T205917">2023-04-28 20:59:17 UTC</a></sub>
 * [Air Force navigation satellite experiment applying lessons from GPS](https://spacenews.com/air-force-navigation-satellite-experiment-applying-lessons-from-gps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T203024">2023-04-28 20:30:24 UTC</a></sub>
 * [Astra, Exotrail win satellite propulsion orders](https://spacenews.com/astra-exotrail-win-satellite-propulsion-orders/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T191538">2023-04-28 19:15:38 UTC</a></sub>
 * [SpaceX prepares for Falcon and Falcon 9 double header, weather may play spoiler](https://www.teslarati.com/falcon-heavy-falcon-9-double-header-launch-weather-spoiler/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T191006">2023-04-28 19:10:06 UTC</a></sub>
 * [Spaceport Cornwall expands facilities following Virgin Orbit failure](https://spacenews.com/spaceport-cornwall-expands-facilities-following-virgin-orbit-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T182440">2023-04-28 18:24:40 UTC</a></sub>
 * [SpaceX launches O3b mPOWER 3 & 4 mission from Florida](https://www.nasaspaceflight.com/2023/04/o3b-mpower-3-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T171049">2023-04-28 17:10:49 UTC</a></sub>
+* [ViaSat-3 Americas scrubs Friday ride on expendable Falcon Heavy launch](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T150625">2023-04-28 15:06:25 UTC</a></sub>
 * [Europe’s major new interplanetary spacecraft has a slight problem](https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143641">2023-04-28 14:36:41 UTC</a></sub>
 * [Rocket Report: Feds assess Starship fallout; Sweden accidentally bombs Norway](https://arstechnica.com/science/2023/04/rocket-report-feds-assess-starship-fallout-sweden-accidentally-bombs-norway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T111547">2023-04-28 11:15:47 UTC</a></sub>
-* [China to establish organization to coordinate international moon base](https://spacenews.com/china-to-establish-organization-to-coordinate-international-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T075935">2023-04-28 07:59:35 UTC</a></sub>
-* [Download the 2023 Space Symposium Daily](https://spacenews.com/download-the-2023-space-symposium-daily/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T061100">2023-04-28 06:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +232,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T000131">2023-04-29 00:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T004456">2023-04-29 00:44:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
