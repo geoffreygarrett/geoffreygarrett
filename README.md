@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Determined
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [What’s next for SpaceX’s Starship after a dramatic first launch](https://www.cnbc.com/2023/04/29/spacex-starship-whats-next.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T120001">2023-04-29 12:00:01 UTC</a></sub>
 * [SpaceX launches second pair of O3b mPower satellites](https://spacenews.com/spacex-launches-second-set-of-o3b-mpower-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T011940">2023-04-29 01:19:40 UTC</a></sub>
 * [As JUICE struggles with antenna deployment, program manager highlights status of the mission](https://www.nasaspaceflight.com/2023/04/juice-status-post-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T003750">2023-04-29 00:37:50 UTC</a></sub>
 * [Orienspace of China targets first launch in second half of the year](https://spacenews.com/orienspace-of-china-targets-first-launch-in-second-half-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T205917">2023-04-28 20:59:17 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Determined
 * [Spaceport Cornwall expands facilities following Virgin Orbit failure](https://spacenews.com/spaceport-cornwall-expands-facilities-following-virgin-orbit-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T182440">2023-04-28 18:24:40 UTC</a></sub>
 * [SpaceX launches O3b mPOWER 3 & 4 mission from Florida](https://www.nasaspaceflight.com/2023/04/o3b-mpower-3-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T171049">2023-04-28 17:10:49 UTC</a></sub>
 * [ViaSat-3 Americas realigns to Sunday for expendable Falcon Heavy launch](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T150625">2023-04-28 15:06:25 UTC</a></sub>
-* [Europe’s major new interplanetary spacecraft has a slight problem](https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143641">2023-04-28 14:36:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Determined
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T113052">2023-04-29 11:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T120054">2023-04-29 12:00:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
