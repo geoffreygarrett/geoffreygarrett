@@ -102,28 +102,28 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon Heavy | ViaSat-3 Americas & Others at the
-<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a> in
-Kennedy Space Center, FL, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T232900">2023-04-30 23:29:00 UTC</a>. Until
-then, this launch pad will have seen 159
-out of 217 launches in this
-region. The mission's status is currently Go for Launch
-(Go) 🟩  which means:
-*current T-0 confirmed by official or reliable sources.* 
+Electron | Rocket Like A Hurricane (TROPICS-2) at the
+<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a> in
+Onenui Station, Mahia Peninsula, New Zealand
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T010000">2023-05-03 01:00:00 UTC</a>. Until
+then, this launch pad will have seen 7
+out of 33 launches in this
+region. The mission's status is currently To Be Confirmed
+(TBC) 🟨  which means:
+*awaiting official confirmation - current date is known with some certainty.* 
 <br>
 <blockquote>
-  The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.
+  Third and fourth operational (TROPICS-04 & TROPICS-05) satellites for NASA's Time-Resolved Observations of Precipitation Structure and Storm Intensity with a Constellation of SmallSats (TROPICS) mission.
 
-Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Space’s GS-1 satellite.
+The CubeSats are designed to provide rapid-refresh microwave measurements that can be used to determine temperature, pressure, and humidity inside hurricanes as they form and evolve.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -136,7 +136,6 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>ViaSat-3 Americas & Others</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T232900">2023-04-30 23:29:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas &amp; Others&location=Kennedy Space Center, FL, USA&dates=20230430T232900Z%2F20230501T002600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-2</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T010000">2023-05-03 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Rocket Like A Hurricane (TROPICS-2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230503T010000Z%2F20230503T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-6</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T071900">2023-05-04 07:19:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-6&location=Cape Canaveral, FL, USA&dates=20230504T071900Z%2F20230504T115900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianzhou-6</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T132000">2023-05-10 13:20:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-6&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20230510T132000Z%2F20230510T134100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -233,7 +232,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T230045">2023-04-30 23:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T233041">2023-04-30 23:30:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
