@@ -191,6 +191,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX aims to launch Falcon Heavy tonight after multiple delays](https://www.teslarati.com/spacex-falcon-heavy-launch-multiple-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T184001">2023-04-30 18:40:01 UTC</a></sub>
 * [Spaceport Cornwall Opens A New Satellite Center](https://tlpnetwork.com/news/2023/04/cornwall-ssof-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T173814">2023-04-30 17:38:14 UTC</a></sub>
 * [Elon Musk Gives Update on Failed Starship Launch, Expected To Spend $2B This Year](https://tlpnetwork.com/news/2023/04/starship-ift-postlaunch-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T030703">2023-04-30 03:07:03 UTC</a></sub>
 * [Musk predicts next Starship launch in a “couple months”](https://spacenews.com/musk-predicts-next-starship-launch-in-a-couple-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T013733">2023-04-30 01:37:33 UTC</a></sub>
@@ -200,7 +201,6 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 * [As JUICE struggles with antenna deployment, program manager highlights status of the mission](https://www.nasaspaceflight.com/2023/04/juice-status-post-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T003750">2023-04-29 00:37:50 UTC</a></sub>
 * [Orienspace of China targets first launch in second half of the year](https://spacenews.com/orienspace-of-china-targets-first-launch-in-second-half-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T205917">2023-04-28 20:59:17 UTC</a></sub>
 * [Air Force navigation satellite experiment applying lessons from GPS](https://spacenews.com/air-force-navigation-satellite-experiment-applying-lessons-from-gps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T203024">2023-04-28 20:30:24 UTC</a></sub>
-* [Astra, Exotrail win satellite propulsion orders](https://spacenews.com/astra-exotrail-win-satellite-propulsion-orders/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T191538">2023-04-28 19:15:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T183046">2023-04-30 18:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T193057">2023-04-30 19:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
