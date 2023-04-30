@@ -191,7 +191,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [BREAKING! Elon Musk Gives Update on Failed Starship Launch, Expected To Spend $2B This Year](https://tlpnetwork.com/news/2023/04/starship-ift-postlaunch-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T025001">2023-04-30 02:50:01 UTC</a></sub>
+* [Elon Musk Gives Update on Failed Starship Launch, Expected To Spend $2B This Year](https://tlpnetwork.com/news/2023/04/starship-ift-postlaunch-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T030703">2023-04-30 03:07:03 UTC</a></sub>
 * [Musk predicts next Starship launch in a “couple months”](https://spacenews.com/musk-predicts-next-starship-launch-in-a-couple-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T013733">2023-04-30 01:37:33 UTC</a></sub>
 * [SpaceX to spend about $2 billion on Starship this year, as Elon Musk pushes to reach orbit](https://www.cnbc.com/2023/04/29/elon-musk-spacexs-starship-costing-about-2-billion-this-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T012430">2023-04-30 01:24:30 UTC</a></sub>
 * [What’s next for SpaceX’s Starship after a dramatic first launch](https://www.cnbc.com/2023/04/29/spacex-starship-whats-next.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T120001">2023-04-29 12:00:01 UTC</a></sub>
@@ -233,7 +233,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T153041">2023-04-30 15:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T160049">2023-04-30 16:00:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
