@@ -191,6 +191,8 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Musk predicts next Starship launch in a “couple months”](https://spacenews.com/musk-predicts-next-starship-launch-in-a-couple-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T013733">2023-04-30 01:37:33 UTC</a></sub>
+* [SpaceX to spend about $2 billion on Starship this year, as Elon Musk pushes to reach orbit](https://www.cnbc.com/2023/04/29/elon-musk-spacexs-starship-costing-about-2-billion-this-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T012430">2023-04-30 01:24:30 UTC</a></sub>
 * [What’s next for SpaceX’s Starship after a dramatic first launch](https://www.cnbc.com/2023/04/29/spacex-starship-whats-next.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T120001">2023-04-29 12:00:01 UTC</a></sub>
 * [SpaceX launches second pair of O3b mPower satellites](https://spacenews.com/spacex-launches-second-set-of-o3b-mpower-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T011940">2023-04-29 01:19:40 UTC</a></sub>
 * [As JUICE struggles with antenna deployment, program manager highlights status of the mission](https://www.nasaspaceflight.com/2023/04/juice-status-post-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T003750">2023-04-29 00:37:50 UTC</a></sub>
@@ -199,8 +201,6 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 * [Astra, Exotrail win satellite propulsion orders](https://spacenews.com/astra-exotrail-win-satellite-propulsion-orders/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T191538">2023-04-28 19:15:38 UTC</a></sub>
 * [SpaceX prepares for Falcon and Falcon 9 double header, weather may play spoiler](https://www.teslarati.com/falcon-heavy-falcon-9-double-header-launch-weather-spoiler/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T191006">2023-04-28 19:10:06 UTC</a></sub>
 * [Spaceport Cornwall expands facilities following Virgin Orbit failure](https://spacenews.com/spaceport-cornwall-expands-facilities-following-virgin-orbit-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T182440">2023-04-28 18:24:40 UTC</a></sub>
-* [SpaceX launches O3b mPOWER 3 & 4 mission from Florida](https://www.nasaspaceflight.com/2023/04/o3b-mpower-3-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T171049">2023-04-28 17:10:49 UTC</a></sub>
-* [ViaSat-3 Americas realigns to Sunday for expendable Falcon Heavy launch](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T150625">2023-04-28 15:06:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T015502">2023-04-30 01:55:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T021451">2023-04-30 02:14:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
