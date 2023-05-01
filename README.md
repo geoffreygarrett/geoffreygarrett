@@ -190,6 +190,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA troubleshooting JUICE radar antenna](https://spacenews.com/esa-troubleshooting-juice-radar-antenna/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T111430">2023-05-01 11:14:30 UTC</a></sub>
 * [SpaceX Falcon Heavy launches first ViaSat-3 satellite](https://spacenews.com/spacex-falcon-heavy-launches-first-viasat-3-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T062011">2023-05-01 06:20:11 UTC</a></sub>
 * [SpaceX aims to launch Falcon Heavy tonight after multiple delays](https://www.teslarati.com/spacex-falcon-heavy-launch-multiple-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T184001">2023-04-30 18:40:01 UTC</a></sub>
 * [Spaceport Cornwall Opens A New Satellite Center](https://tlpnetwork.com/news/2023/04/cornwall-ssof-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T173814">2023-04-30 17:38:14 UTC</a></sub>
@@ -199,7 +200,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [SpaceX to spend about $2 billion on Starship this year, as Elon Musk pushes to reach orbit](https://www.cnbc.com/2023/04/29/elon-musk-spacexs-starship-costing-about-2-billion-this-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T012430">2023-04-30 01:24:30 UTC</a></sub>
 * [What’s next for SpaceX’s Starship after a dramatic first launch](https://www.cnbc.com/2023/04/29/spacex-starship-whats-next.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T120001">2023-04-29 12:00:01 UTC</a></sub>
 * [SpaceX launches second pair of O3b mPower satellites](https://spacenews.com/spacex-launches-second-set-of-o3b-mpower-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T011940">2023-04-29 01:19:40 UTC</a></sub>
-* [As JUICE struggles with antenna deployment, program manager highlights status of the mission](https://www.nasaspaceflight.com/2023/04/juice-status-post-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T003750">2023-04-29 00:37:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -232,7 +232,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T113038">2023-05-01 11:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T120054">2023-05-01 12:00:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
