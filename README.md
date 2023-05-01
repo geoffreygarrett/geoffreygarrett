@@ -190,6 +190,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! FAA Sued Over SpaceX Starship Launch License](https://tlpnetwork.com/news/2023/05/faa-sued-over-spacex-starship-launch-license) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T181908">2023-05-01 18:19:08 UTC</a></sub>
 * [Elon Musk provides detailed review of Starship’s first launch—and what’s next](https://arstechnica.com/science/2023/05/elon-musk-provides-detailed-review-of-starships-first-launch-and-whats-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T172412">2023-05-01 17:24:12 UTC</a></sub>
 * [Environmentalists sue FAA over SpaceX launch license for Texas](https://www.reuters.com/technology/space/environmentalists-sue-faa-over-spacex-launch-license-texas-2023-05-01/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T171500">2023-05-01 17:15:00 UTC</a></sub>
 * [SpaceX Falcon Heavy successfully brings 3 satellites to orbit after delays](https://www.teslarati.com/spacex-falcon-heavy-launches-after-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T140006">2023-05-01 14:00:06 UTC</a></sub>
@@ -199,7 +200,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [Spaceport Cornwall Opens A New Satellite Center](https://tlpnetwork.com/news/2023/04/cornwall-ssof-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T173814">2023-04-30 17:38:14 UTC</a></sub>
 * [ViaSat-3 Americas launches on expendable Falcon Heavy](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T150625">2023-04-30 15:06:25 UTC</a></sub>
 * [Elon Musk Gives Update on Failed Starship Launch, Expected To Spend $2B This Year](https://tlpnetwork.com/news/2023/04/starship-ift-postlaunch-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T030703">2023-04-30 03:07:03 UTC</a></sub>
-* [Musk predicts next Starship launch in a “couple months”](https://spacenews.com/musk-predicts-next-starship-launch-in-a-couple-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T013733">2023-04-30 01:37:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -232,7 +232,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T180050">2023-05-01 18:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T183059">2023-05-01 18:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
