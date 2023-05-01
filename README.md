@@ -102,28 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Electron | Rocket Like A Hurricane (TROPICS-2) at the
-<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a> in
-Onenui Station, Mahia Peninsula, New Zealand
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T010000">2023-05-03 01:00:00 UTC</a>. Until
-then, this launch pad will have seen 7
-out of 33 launches in this
+Falcon 9 Block 5 | Starlink Group 5-6 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T071900">2023-05-04 07:19:00 UTC</a>. Until
+then, this launch pad will have seen 178
+out of 884 launches in this
 region. The mission's status is currently To Be Confirmed
 (TBC) 🟨  which means:
 *awaiting official confirmation - current date is known with some certainty.* 
 <br>
 <blockquote>
-  Third and fourth operational (TROPICS-04 & TROPICS-05) satellites for NASA's Time-Resolved Observations of Precipitation Structure and Storm Intensity with a Constellation of SmallSats (TROPICS) mission.
-
-The CubeSats are designed to provide rapid-refresh microwave measurements that can be used to determine temperature, pressure, and humidity inside hurricanes as they form and evolve.
+  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -136,7 +134,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-2</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T010000">2023-05-03 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Rocket Like A Hurricane (TROPICS-2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230503T010000Z%2F20230503T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-6</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T071900">2023-05-04 07:19:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-6&location=Cape Canaveral, FL, USA&dates=20230504T071900Z%2F20230504T111200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-9</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T000000">2023-05-08 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-9&location=Vandenberg SFB, CA, USA&dates=20230508T000000Z%2F20230508T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianzhou-6</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T132000">2023-05-10 13:20:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-6&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20230510T132000Z%2F20230510T134100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -145,6 +142,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>BADR-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T032000">2023-05-22 03:20:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230522T032000Z%2F20230522T032000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>NEXTSat-2 & SNIPE</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T085400">2023-05-24 08:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | NEXTSat-2 &amp; SNIPE&location=Naro Space Center, South Korea&dates=20230524T085400Z%2F20230524T095400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-23 (84P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T125600">2023-05-24 12:56:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-23 (84P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230524T125600Z%2F20230524T125600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Kondor-FKA No.1</b> from Vostochny Cosmodrome, Siberia, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T211400">2023-05-26 21:14:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Kondor-FKA No.1&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230526T211400Z%2F20230526T211400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -190,6 +188,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Environmental groups sue FAA over Starship launch license](https://spacenews.com/environmental-groups-sue-faa-over-starship-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T221134">2023-05-01 22:11:34 UTC</a></sub>
 * [The next space race starts at our spaceports](https://spacenews.com/the-next-space-race-starts-at-our-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T201018">2023-05-01 20:10:18 UTC</a></sub>
 * [Environmental groups sue the FAA over SpaceX launch from Texas](https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T200636">2023-05-01 20:06:36 UTC</a></sub>
 * [NASA Sets Coverage for Dragon Port Relocation on Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-dragon-port-relocation-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T193000">2023-05-01 19:30:00 UTC</a></sub>
@@ -199,7 +198,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [Environmentalists sue FAA over SpaceX launch license for Texas](https://www.reuters.com/technology/space/environmentalists-sue-faa-over-spacex-launch-license-texas-2023-05-01/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T171500">2023-05-01 17:15:00 UTC</a></sub>
 * [SpaceX Falcon Heavy successfully brings 3 satellites to orbit after delays](https://www.teslarati.com/spacex-falcon-heavy-launches-after-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T140006">2023-05-01 14:00:06 UTC</a></sub>
 * [ESA troubleshooting JUICE radar antenna](https://spacenews.com/esa-troubleshooting-juice-radar-antenna/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T111430">2023-05-01 11:14:30 UTC</a></sub>
-* [SpaceX Falcon Heavy launches first ViaSat-3 satellite](https://spacenews.com/spacex-falcon-heavy-launches-first-viasat-3-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T062011">2023-05-01 06:20:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -232,7 +230,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T223037">2023-05-01 22:30:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T230058">2023-05-01 23:00:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
