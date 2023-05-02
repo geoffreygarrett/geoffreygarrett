@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Air Force to launch Link 16 tactical communications cubesat](https://spacenews.com/air-force-to-launch-link-16-tactical-communications-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T222538">2023-05-02 22:25:38 UTC</a></sub>
 * [Satellite manufacturer LeoStella focused on defense market as commercial demand softens](https://spacenews.com/satellite-manufacturer-leostella-focused-on-defense-market-as-commercial-demand-softens/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T212917">2023-05-02 21:29:17 UTC</a></sub>
 * [European space giants join forces for IRIS²](https://spacenews.com/european-space-giants-join-forces-for-iris%c2%b2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T205736">2023-05-02 20:57:36 UTC</a></sub>
 * [Artemis II Moon mission transitioning from planning to preparation](https://www.nasaspaceflight.com/2023/05/artemis-ii-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T164744">2023-05-02 16:47:44 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Environmental groups sue FAA over Starship launch license](https://spacenews.com/environmental-groups-sue-faa-over-starship-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T221134">2023-05-01 22:11:34 UTC</a></sub>
 * [The next space race starts at our spaceports](https://spacenews.com/the-next-space-race-starts-at-our-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T201018">2023-05-01 20:10:18 UTC</a></sub>
 * [Environmental groups sue the FAA over SpaceX launch from Texas](https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T200636">2023-05-01 20:06:36 UTC</a></sub>
-* [NASA Sets Coverage for Dragon Port Relocation on Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-dragon-port-relocation-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T193000">2023-05-01 19:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T223046">2023-05-02 22:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T230114">2023-05-02 23:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
