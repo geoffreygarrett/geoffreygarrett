@@ -194,7 +194,7 @@ region. The mission's status is currently To Be Confirmed
 * [Environmental groups sue the FAA over SpaceX launch from Texas](https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T200636">2023-05-01 20:06:36 UTC</a></sub>
 * [NASA Sets Coverage for Dragon Port Relocation on Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-dragon-port-relocation-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T193000">2023-05-01 19:30:00 UTC</a></sub>
 * [Lawmakers raise concerns about new plan to procure national security launch services](https://spacenews.com/lawmakers-raise-concerns-about-new-plan-to-procure-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T183708">2023-05-01 18:37:08 UTC</a></sub>
-* [BREAKING! FAA Sued Over SpaceX Starship Launch License](https://tlpnetwork.com/news/2023/05/faa-sued-over-spacex-starship-launch-license) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T181908">2023-05-01 18:19:08 UTC</a></sub>
+* [FAA Sued Over SpaceX Starship Launch License](https://tlpnetwork.com/news/2023/05/faa-sued-over-spacex-starship-launch-license) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T181908">2023-05-01 18:19:08 UTC</a></sub>
 * [Elon Musk provides detailed review of Starship’s first launch—and what’s next](https://arstechnica.com/science/2023/05/elon-musk-provides-detailed-review-of-starships-first-launch-and-whats-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T172412">2023-05-01 17:24:12 UTC</a></sub>
 * [Environmentalists sue FAA over SpaceX launch license for Texas](https://www.reuters.com/technology/space/environmentalists-sue-faa-over-spacex-launch-license-texas-2023-05-01/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T171500">2023-05-01 17:15:00 UTC</a></sub>
 * [SpaceX Falcon Heavy successfully brings 3 satellites to orbit after delays](https://www.teslarati.com/spacex-falcon-heavy-launches-after-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T140006">2023-05-01 14:00:06 UTC</a></sub>
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T060059">2023-05-02 06:00:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T063211">2023-05-02 06:32:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
