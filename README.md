@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis II Moon mission transitioning from planning to preparation](https://www.nasaspaceflight.com/2023/05/artemis-ii-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T164744">2023-05-02 16:47:44 UTC</a></sub>
 * [Rocket Lab hitting its stride with high cadence, new venture for Electron](https://arstechnica.com/science/2023/05/rocket-lab-hitting-its-stride-with-high-cadence-new-venture-for-electron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T161818">2023-05-02 16:18:18 UTC</a></sub>
 * [African space agencies have the potential to lead the global space race](https://spacenews.com/african-space-agencies-have-the-potential-to-lead-the-global-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T133055">2023-05-02 13:30:55 UTC</a></sub>
 * [Court approves plans for Virgin Orbit bankruptcy sale](https://spacenews.com/court-approves-plans-for-virgin-orbit-bankruptcy-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T102734">2023-05-02 10:27:34 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Sets Coverage for Dragon Port Relocation on Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-dragon-port-relocation-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T193000">2023-05-01 19:30:00 UTC</a></sub>
 * [Lawmakers raise concerns about new plan to procure national security launch services](https://spacenews.com/lawmakers-raise-concerns-about-new-plan-to-procure-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T183708">2023-05-01 18:37:08 UTC</a></sub>
 * [FAA Sued Over SpaceX Starship Launch License](https://tlpnetwork.com/news/2023/05/faa-sued-over-spacex-starship-launch-license) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T181908">2023-05-01 18:19:08 UTC</a></sub>
-* [Elon Musk provides detailed review of Starship’s first launch—and what’s next](https://arstechnica.com/science/2023/05/elon-musk-provides-detailed-review-of-starships-first-launch-and-whats-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T172412">2023-05-01 17:24:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T170045">2023-05-02 17:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T173049">2023-05-02 17:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
