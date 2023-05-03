@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis 1 cubesat nearing end of mission](https://spacenews.com/artemis-1-cubesat-nearing-end-of-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T001644">2023-05-03 00:16:44 UTC</a></sub>
 * [SpaceX shares amazing fairing re-entry video](https://www.teslarati.com/spacex-amazing-fairing-re-entry-video/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T233601">2023-05-02 23:36:01 UTC</a></sub>
 * [Air Force to launch Link 16 tactical communications cubesat](https://spacenews.com/air-force-to-launch-link-16-tactical-communications-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T222538">2023-05-02 22:25:38 UTC</a></sub>
 * [Satellite manufacturer LeoStella focused on defense market as commercial demand softens](https://spacenews.com/satellite-manufacturer-leostella-focused-on-defense-market-as-commercial-demand-softens/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T212917">2023-05-02 21:29:17 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [African space agencies have the potential to lead the global space race](https://spacenews.com/african-space-agencies-have-the-potential-to-lead-the-global-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T133055">2023-05-02 13:30:55 UTC</a></sub>
 * [Court approves plans for Virgin Orbit bankruptcy sale](https://spacenews.com/court-approves-plans-for-virgin-orbit-bankruptcy-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T102734">2023-05-02 10:27:34 UTC</a></sub>
 * [Environmental groups sue FAA over Starship launch license](https://spacenews.com/environmental-groups-sue-faa-over-starship-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T221134">2023-05-01 22:11:34 UTC</a></sub>
-* [The next space race starts at our spaceports](https://spacenews.com/the-next-space-race-starts-at-our-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T201018">2023-05-01 20:10:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T000145">2023-05-03 00:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T004441">2023-05-03 00:44:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
