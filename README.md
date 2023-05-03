@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Welcomes Czech Foreign Minister for Artemis Accords Signing](http://www.nasa.gov/press-release/nasa-welcomes-czech-foreign-minister-for-artemis-accords-signing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T153300">2023-05-03 15:33:00 UTC</a></sub>
+* [Europe’s major satellite players line up to build Starlink competitor](https://arstechnica.com/science/2023/05/europes-major-satellite-players-line-up-to-build-starlink-competitor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T151754">2023-05-03 15:17:54 UTC</a></sub>
 * [Lockheed, Raytheon to develop ground systems for nuclear-hardened satellite communications](https://spacenews.com/lockheed-raytheon-to-develop-ground-systems-for-nuclear-hardened-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T132101">2023-05-03 13:21:01 UTC</a></sub>
 * [SpaceX removes 1 TB fair use system for Starlink “Standard” service plan](https://www.teslarati.com/spacex-removes-1tb-fair-use-starlink-standard-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T112324">2023-05-03 11:23:24 UTC</a></sub>
 * [Plutonium availability constrains plans for future planetary missions](https://spacenews.com/plutonium-availability-constrains-plans-for-future-planetary-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T103159">2023-05-03 10:31:59 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX shares amazing fairing re-entry video](https://www.teslarati.com/spacex-amazing-fairing-re-entry-video/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T233601">2023-05-02 23:36:01 UTC</a></sub>
 * [Air Force to launch Link 16 tactical communications cubesat](https://spacenews.com/air-force-to-launch-link-16-tactical-communications-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T222538">2023-05-02 22:25:38 UTC</a></sub>
 * [Satellite manufacturer LeoStella focused on defense market as commercial demand softens](https://spacenews.com/satellite-manufacturer-leostella-focused-on-defense-market-as-commercial-demand-softens/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T212917">2023-05-02 21:29:17 UTC</a></sub>
-* [European space giants join forces for IRIS²](https://spacenews.com/european-space-giants-join-forces-for-iris%c2%b2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T205736">2023-05-02 20:57:36 UTC</a></sub>
-* [Artemis II Moon mission transitioning from planning to preparation](https://www.nasaspaceflight.com/2023/05/artemis-ii-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T164744">2023-05-02 16:47:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T153035">2023-05-03 15:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T160057">2023-05-03 16:00:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
