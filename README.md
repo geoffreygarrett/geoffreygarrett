@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [TTTech: Secure networking for safety-critical space systems](https://spacenews.com/tttech-secure-networking-for-safety-critical-space-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T052500">2023-05-03 05:25:00 UTC</a></sub>
 * [Artemis 1 cubesat nearing end of mission](https://spacenews.com/artemis-1-cubesat-nearing-end-of-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T001644">2023-05-03 00:16:44 UTC</a></sub>
 * [SpaceX shares amazing fairing re-entry video](https://www.teslarati.com/spacex-amazing-fairing-re-entry-video/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T233601">2023-05-02 23:36:01 UTC</a></sub>
 * [Air Force to launch Link 16 tactical communications cubesat](https://spacenews.com/air-force-to-launch-link-16-tactical-communications-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T222538">2023-05-02 22:25:38 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab hitting its stride with high cadence, new venture for Electron](https://arstechnica.com/science/2023/05/rocket-lab-hitting-its-stride-with-high-cadence-new-venture-for-electron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T161818">2023-05-02 16:18:18 UTC</a></sub>
 * [African space agencies have the potential to lead the global space race](https://spacenews.com/african-space-agencies-have-the-potential-to-lead-the-global-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T133055">2023-05-02 13:30:55 UTC</a></sub>
 * [Court approves plans for Virgin Orbit bankruptcy sale](https://spacenews.com/court-approves-plans-for-virgin-orbit-bankruptcy-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T102734">2023-05-02 10:27:34 UTC</a></sub>
-* [Environmental groups sue FAA over Starship launch license](https://spacenews.com/environmental-groups-sue-faa-over-starship-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T221134">2023-05-01 22:11:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T060055">2023-05-03 06:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T063126">2023-05-03 06:31:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
