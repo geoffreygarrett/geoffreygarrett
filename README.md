@@ -188,6 +188,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! Orbex Breaks Ground On UK Mainland's First Vertical Launch Facility](https://tlpnetwork.com/news/2023/05/spaceport-sutherland-ground-breaking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T232222">2023-05-04 23:22:22 UTC</a></sub>
+* [Boeing preparing to ship milestone O3b mPower satellites for launch](https://spacenews.com/boeing-preparing-to-ship-milestone-o3b-mpower-satellites-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T220810">2023-05-04 22:08:10 UTC</a></sub>
 * [Debate rages about future of New Horizons](https://spacenews.com/debate-rages-about-future-of-new-horizons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T203253">2023-05-04 20:32:53 UTC</a></sub>
 * [Lockheed Martin announces reorganization of its space business](https://spacenews.com/lockheed-martin-announces-reorganization-of-its-space-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T201726">2023-05-04 20:17:26 UTC</a></sub>
 * [Investing in Space: Viasat launch adds power and flexibility in satellite broadband competition](https://www.cnbc.com/2023/05/04/investing-in-space-viasat-3-power-flexibility-in-satellite-broadband.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T164255">2023-05-04 16:42:55 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [CesiumAstro to supply communications payloads for Space Development Agency satellites](https://spacenews.com/cesiumastro-to-supply-communications-payloads-for-space-development-agency-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T112347">2023-05-04 11:23:47 UTC</a></sub>
 * [SpaceX readies for a busy month, first up, a Falcon 9 and Starlink satellites](https://www.teslarati.com/spacex-readies-for-a-busy-month-first-up-a-falcon-9-and-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T073324">2023-05-04 07:33:24 UTC</a></sub>
 * [Seraphim picks startups for eleventh accelerator program](https://spacenews.com/seraphim-picks-startups-for-eleventh-accelerator-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T050000">2023-05-04 05:00:00 UTC</a></sub>
-* [Czech Republic signs Artemis Accords](https://spacenews.com/czech-republic-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T005029">2023-05-04 00:50:29 UTC</a></sub>
-* [Private equity firm closes $6.4 billion deal to acquire Maxar Technologies](https://spacenews.com/pe-firm-closes-6-4-billion-deal-to-acquire-maxar-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T175639">2023-05-03 17:56:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T223101">2023-05-04 22:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T233044">2023-05-04 23:30:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
