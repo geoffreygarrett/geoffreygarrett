@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Viasat launch adds power and flexibility in satellite broadband competition](https://www.cnbc.com/2023/05/04/investing-in-space-viasat-3-power-flexibility-in-satellite-broadband.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T164255">2023-05-04 16:42:55 UTC</a></sub>
 * [Swedish Space Corporation CEO Retires, Replacement Appointed](https://tlpnetwork.com/news/2023/05/ssc-ceo-retires) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T135914">2023-05-04 13:59:14 UTC</a></sub>
 * [SpaceX aces Falcon 9 launch, delivers 56 Starlink satellites to orbit](https://www.teslarati.com/spacex-aces-falcon-9-launch-56-starlink-satellites-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T123336">2023-05-04 12:33:36 UTC</a></sub>
 * [CesiumAstro to supply communications payloads for Space Development Agency satellites](https://spacenews.com/cesiumastro-to-supply-communications-payloads-for-space-development-agency-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T112347">2023-05-04 11:23:47 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Private equity firm closes $6.4 billion deal to acquire Maxar Technologies](https://spacenews.com/pe-firm-closes-6-4-billion-deal-to-acquire-maxar-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T175639">2023-05-03 17:56:39 UTC</a></sub>
 * [NASA awards contracts for NOAA coronagraph studies](https://spacenews.com/nasa-awards-contracts-for-noaa-coronagraph-studies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T170404">2023-05-03 17:04:04 UTC</a></sub>
 * [Elon Musk pushes for orbital goal following data gathering objectives during Starship debut](https://www.nasaspaceflight.com/2023/05/musk-orbital-goal-starship-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T163944">2023-05-03 16:39:44 UTC</a></sub>
-* [NASA Welcomes Czech Foreign Minister for Artemis Accords Signing](http://www.nasa.gov/press-release/nasa-welcomes-czech-foreign-minister-for-artemis-accords-signing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T153300">2023-05-03 15:33:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T170045">2023-05-04 17:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T173049">2023-05-04 17:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
