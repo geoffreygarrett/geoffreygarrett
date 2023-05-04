@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Seraphim picks startups for eleventh accelerator program](https://spacenews.com/seraphim-picks-startups-for-eleventh-accelerator-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T050000">2023-05-04 05:00:00 UTC</a></sub>
 * [Czech Republic signs Artemis Accords](https://spacenews.com/czech-republic-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T005029">2023-05-04 00:50:29 UTC</a></sub>
 * [Private equity firm closes $6.4 billion deal to acquire Maxar Technologies](https://spacenews.com/pe-firm-closes-6-4-billion-deal-to-acquire-maxar-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T175639">2023-05-03 17:56:39 UTC</a></sub>
 * [NASA awards contracts for NOAA coronagraph studies](https://spacenews.com/nasa-awards-contracts-for-noaa-coronagraph-studies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T170404">2023-05-03 17:04:04 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Lockheed, Raytheon to develop ground systems for nuclear-hardened satellite communications](https://spacenews.com/lockheed-raytheon-to-develop-ground-systems-for-nuclear-hardened-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T132101">2023-05-03 13:21:01 UTC</a></sub>
 * [SpaceX removes 1 TB fair use system for Starlink “Standard” service plan](https://www.teslarati.com/spacex-removes-1tb-fair-use-starlink-standard-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T112324">2023-05-03 11:23:24 UTC</a></sub>
 * [Plutonium availability constrains plans for future planetary missions](https://spacenews.com/plutonium-availability-constrains-plans-for-future-planetary-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T103159">2023-05-03 10:31:59 UTC</a></sub>
-* [TTTech: Secure networking for safety-critical space systems](https://spacenews.com/tttech-secure-networking-for-safety-critical-space-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T052500">2023-05-03 05:25:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T053049">2023-05-04 05:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T060119">2023-05-04 06:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
