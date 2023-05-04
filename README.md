@@ -102,26 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Starlink Group 5-6 at the
-<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
-Cape Canaveral, FL, USA
+Falcon 9 Block 5 | Starlink Group 2-9 at the
+<a href="">Space Launch Complex 4E</a> in
+Vandenberg SFB, CA, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T073100">2023-05-04 07:31:00 UTC</a>. Until
-then, this launch pad will have seen 178
-out of 884 launches in this
-region. The mission's status is currently Go for Launch
-(Go) 🟩  which means:
-*current T-0 confirmed by official or reliable sources.* 
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T000000">2023-05-08 00:00:00 UTC</a>. Until
+then, this launch pad will have seen 108
+out of 717 launches in this
+region. The mission's status is currently To Be Determined
+(TBD) 🟧  which means:
+*current date is a placeholder or rough estimation based on unreliable or interpreted sources.* 
 <br>
 <blockquote>
-  A batch of 56 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +134,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-6</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T073100">2023-05-04 07:31:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-6&location=Cape Canaveral, FL, USA&dates=20230504T073100Z%2F20230504T073100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-9</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T000000">2023-05-08 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-9&location=Vandenberg SFB, CA, USA&dates=20230508T000000Z%2F20230508T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-9</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T045800">2023-05-09 04:58:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-9&location=Cape Canaveral, FL, USA&dates=20230509T045800Z%2F20230509T114900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianzhou-6</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T132000">2023-05-10 13:20:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-6&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20230510T132000Z%2F20230510T134100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -189,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX readies for a busy month, first up, a Falcon 9 and Starlink satellites](https://www.teslarati.com/spacex-readies-for-a-busy-month-first-up-a-falcon-9-and-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T073324">2023-05-04 07:33:24 UTC</a></sub>
 * [Seraphim picks startups for eleventh accelerator program](https://spacenews.com/seraphim-picks-startups-for-eleventh-accelerator-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T050000">2023-05-04 05:00:00 UTC</a></sub>
 * [Czech Republic signs Artemis Accords](https://spacenews.com/czech-republic-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T005029">2023-05-04 00:50:29 UTC</a></sub>
 * [Private equity firm closes $6.4 billion deal to acquire Maxar Technologies](https://spacenews.com/pe-firm-closes-6-4-billion-deal-to-acquire-maxar-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T175639">2023-05-03 17:56:39 UTC</a></sub>
@@ -198,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Europe’s major satellite players line up to build Starlink competitor](https://arstechnica.com/science/2023/05/europes-major-satellite-players-line-up-to-build-starlink-competitor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T151754">2023-05-03 15:17:54 UTC</a></sub>
 * [Lockheed, Raytheon to develop ground systems for nuclear-hardened satellite communications](https://spacenews.com/lockheed-raytheon-to-develop-ground-systems-for-nuclear-hardened-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T132101">2023-05-03 13:21:01 UTC</a></sub>
 * [SpaceX removes 1 TB fair use system for Starlink “Standard” service plan](https://www.teslarati.com/spacex-removes-1tb-fair-use-starlink-standard-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T112324">2023-05-03 11:23:24 UTC</a></sub>
-* [Plutonium availability constrains plans for future planetary missions](https://spacenews.com/plutonium-availability-constrains-plans-for-future-planetary-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T103159">2023-05-03 10:31:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T073042">2023-05-04 07:30:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T080054">2023-05-04 08:00:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
