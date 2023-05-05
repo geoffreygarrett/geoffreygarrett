@@ -191,7 +191,8 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [BREAKING! Orbex Breaks Ground On UK Mainland's First Vertical Launch Facility](https://tlpnetwork.com/news/2023/05/spaceport-sutherland-ground-breaking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T232222">2023-05-04 23:22:22 UTC</a></sub>
+* [Rocket Report: China selling reusable engines; can SpaceX still raise money?](https://arstechnica.com/science/2023/05/rocket-report-china-selling-reusable-engines-can-spacex-still-raise-money/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T110040">2023-05-05 11:00:40 UTC</a></sub>
+* [Orbex Breaks Ground On UK Mainland's First Vertical Launch Facility](https://tlpnetwork.com/news/2023/05/spaceport-sutherland-ground-breaking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T232222">2023-05-04 23:22:22 UTC</a></sub>
 * [Boeing preparing to ship milestone O3b mPower satellites for launch](https://spacenews.com/boeing-preparing-to-ship-milestone-o3b-mpower-satellites-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T220810">2023-05-04 22:08:10 UTC</a></sub>
 * [Debate rages about future of New Horizons](https://spacenews.com/debate-rages-about-future-of-new-horizons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T203253">2023-05-04 20:32:53 UTC</a></sub>
 * [Lockheed Martin announces reorganization of its space business](https://spacenews.com/lockheed-martin-announces-reorganization-of-its-space-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T201726">2023-05-04 20:17:26 UTC</a></sub>
@@ -200,7 +201,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [SpaceX aces Falcon 9 launch, delivers 56 Starlink satellites to orbit](https://www.teslarati.com/spacex-aces-falcon-9-launch-56-starlink-satellites-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T123336">2023-05-04 12:33:36 UTC</a></sub>
 * [CesiumAstro to supply communications payloads for Space Development Agency satellites](https://spacenews.com/cesiumastro-to-supply-communications-payloads-for-space-development-agency-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T112347">2023-05-04 11:23:47 UTC</a></sub>
 * [SpaceX readies for a busy month, first up, a Falcon 9 and Starlink satellites](https://www.teslarati.com/spacex-readies-for-a-busy-month-first-up-a-falcon-9-and-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T073324">2023-05-04 07:33:24 UTC</a></sub>
-* [Seraphim picks startups for eleventh accelerator program](https://spacenews.com/seraphim-picks-startups-for-eleventh-accelerator-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T050000">2023-05-04 05:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T110038">2023-05-05 11:00:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T113048">2023-05-05 11:30:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
