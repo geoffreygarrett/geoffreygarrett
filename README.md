@@ -191,6 +191,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [With help from NEOWISE, astronomers observe giant star destroying planet for the first time](https://www.nasaspaceflight.com/2023/05/star-destroys-planet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T083001">2023-05-06 08:30:01 UTC</a></sub>
 * [SAIC signs another commercial partner for its small satellite business](https://spacenews.com/saic-signs-another-commercial-partner-for-its-small-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T232212">2023-05-05 23:22:12 UTC</a></sub>
 * [US, Russian EVAs install upgrades and make history aboard ISS](https://www.nasaspaceflight.com/2023/05/evas-may-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T231848">2023-05-05 23:18:48 UTC</a></sub>
 * [NASA Invites Media to Next SpaceX Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-next-spacex-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T215300">2023-05-05 21:53:00 UTC</a></sub>
@@ -200,7 +201,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [Society and Technology: The Space Observing Imperative](https://spacenews.com/society-and-technology-the-space-observing-imperative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T125127">2023-05-05 12:51:27 UTC</a></sub>
 * [BlackSky seeks to extend operations of satellites running on empty](https://spacenews.com/blacksky-seeks-to-extend-operations-of-satellites-running-on-empty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T115508">2023-05-05 11:55:08 UTC</a></sub>
 * [Rocket Report: China selling reusable engines; can SpaceX still raise money?](https://arstechnica.com/science/2023/05/rocket-report-china-selling-reusable-engines-can-spacex-still-raise-money/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T110040">2023-05-05 11:00:40 UTC</a></sub>
-* [Orbex Breaks Ground On UK Mainland's First Vertical Launch Facility](https://tlpnetwork.com/news/2023/05/spaceport-sutherland-ground-breaking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T232222">2023-05-04 23:22:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T083039">2023-05-06 08:30:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T090048">2023-05-06 09:00:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
