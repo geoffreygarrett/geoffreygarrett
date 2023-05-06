@@ -191,6 +191,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Dragonfly mission studying effects of potential budget cut](https://spacenews.com/dragonfly-mission-studying-effects-of-potential-budget-cut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T194250">2023-05-06 19:42:50 UTC</a></sub>
 * [Starlink hits incredible subscriber milestone as potential IPO looms](https://www.teslarati.com/starlink-hits-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T161323">2023-05-06 16:13:23 UTC</a></sub>
 * [Rocket builder Firefly takes on high-speed Space Force mission for crucial next launch](https://www.cnbc.com/2023/05/06/firefly-launching-space-force-high-speed-victus-nox-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T120001">2023-05-06 12:00:01 UTC</a></sub>
 * [With help from NEOWISE, astronomers observe giant star destroying planet for the first time](https://www.nasaspaceflight.com/2023/05/star-destroys-planet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T083001">2023-05-06 08:30:01 UTC</a></sub>
@@ -200,7 +201,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [NASA, Rocket Lab Update Launch Coverage for Tropical Cyclones Mission](http://www.nasa.gov/press-release/nasa-rocket-lab-update-launch-coverage-for-tropical-cyclones-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T211300">2023-05-05 21:13:00 UTC</a></sub>
 * [Scientists say they have found more moons with oceans in the Solar System](https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T151841">2023-05-05 15:18:41 UTC</a></sub>
 * [DoD spending on commercial space services negligible, despite growing Space Force budget](https://spacenews.com/dod-spending-on-commercial-space-services-negligible-despite-growing-space-force-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T133604">2023-05-05 13:36:04 UTC</a></sub>
-* [Society and Technology: The Space Observing Imperative](https://spacenews.com/society-and-technology-the-space-observing-imperative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T125127">2023-05-05 12:51:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T193100">2023-05-06 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T200047">2023-05-06 20:00:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
