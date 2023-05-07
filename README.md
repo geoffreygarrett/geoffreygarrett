@@ -191,6 +191,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab set to launch NASA’s TROPICS satellites from New Zealand](https://www.nasaspaceflight.com/2023/05/electron-tropics-launch-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230507T201156">2023-05-07 20:11:56 UTC</a></sub>
 * [NASA Inducts Roy Bridges & Mark Kelly Into Astronaut Hall of Fame](https://tlpnetwork.com/news/2023/05/nasa-astronaut-hall-of-fame-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T215700">2023-05-06 21:57:00 UTC</a></sub>
 * [Dragonfly mission studying effects of potential budget cut](https://spacenews.com/dragonfly-mission-studying-effects-of-potential-budget-cut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T194250">2023-05-06 19:42:50 UTC</a></sub>
 * [Starlink hits incredible subscriber milestone as potential IPO looms](https://www.teslarati.com/starlink-hits-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T161323">2023-05-06 16:13:23 UTC</a></sub>
@@ -200,7 +201,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [US, Russian EVAs install upgrades and make history aboard ISS](https://www.nasaspaceflight.com/2023/05/evas-may-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T231848">2023-05-05 23:18:48 UTC</a></sub>
 * [NASA Invites Media to Next SpaceX Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-next-spacex-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T215300">2023-05-05 21:53:00 UTC</a></sub>
 * [NASA, Rocket Lab Update Launch Coverage for Tropical Cyclones Mission](http://www.nasa.gov/press-release/nasa-rocket-lab-update-launch-coverage-for-tropical-cyclones-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T211300">2023-05-05 21:13:00 UTC</a></sub>
-* [Scientists say they have found more moons with oceans in the Solar System](https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T151841">2023-05-05 15:18:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230507T193056">2023-05-07 19:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230507T203044">2023-05-07 20:30:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
