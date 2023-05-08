@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Momentus tug raises orbit with water-fueled thruster](https://spacenews.com/momentus-tug-raises-orbit-with-water-fueled-thruster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T113007">2023-05-08 11:30:07 UTC</a></sub>
 * [China’s mystery reusable spaceplane lands after 276 days in orbit](https://spacenews.com/chinas-mystery-reusable-spaceplane-lands-after-276-days-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T073002">2023-05-08 07:30:02 UTC</a></sub>
 * [Rocket Lab launches NASA TROPICS cubesats](https://spacenews.com/rocket-lab-launches-nasa-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T024320">2023-05-08 02:43:20 UTC</a></sub>
 * [Rocket Lab launches NASA’s TROPICS satellites from New Zealand](https://www.nasaspaceflight.com/2023/05/electron-tropics-launch-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230507T201156">2023-05-07 20:11:56 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket builder Firefly takes on high-speed Space Force mission for crucial next launch](https://www.cnbc.com/2023/05/06/firefly-launching-space-force-high-speed-victus-nox-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T120001">2023-05-06 12:00:01 UTC</a></sub>
 * [With help from NEOWISE, astronomers observe giant star destroying planet for the first time](https://www.nasaspaceflight.com/2023/05/star-destroys-planet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T083001">2023-05-06 08:30:01 UTC</a></sub>
 * [SAIC signs another commercial partner for its small satellite business](https://spacenews.com/saic-signs-another-commercial-partner-for-its-small-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T232212">2023-05-05 23:22:12 UTC</a></sub>
-* [US, Russian EVAs install upgrades and make history aboard ISS](https://www.nasaspaceflight.com/2023/05/evas-may-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T231848">2023-05-05 23:18:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T113034">2023-05-08 11:30:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T120057">2023-05-08 12:00:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
