@@ -102,28 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Electron | Rocket Like A Hurricane (TROPICS-2) at the
-<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a> in
-Onenui Station, Mahia Peninsula, New Zealand
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T010000">2023-05-08 01:00:00 UTC</a>. Until
-then, this launch pad will have seen 7
-out of 33 launches in this
+Long March 7  | Tianzhou-6 at the
+<a href="https://en.wikipedia.org/wiki/Wenchang_Satellite_Launch_Center">Wenchang</a> in
+Wenchang Satellite Launch Center, People's Republic of China
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T131500">2023-05-10 13:15:00 UTC</a>. Until
+then, this launch pad will have seen 16
+out of 22 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Third and fourth operational (TROPICS-04 & TROPICS-05) satellites for NASA's Time-Resolved Observations of Precipitation Structure and Storm Intensity with a Constellation of SmallSats (TROPICS) mission.
-
-The CubeSats are designed to provide rapid-refresh microwave measurements that can be used to determine temperature, pressure, and humidity inside hurricanes as they form and evolve.
+  Fifth cargo delivery mission to the Chinese space station.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_7" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=19.614354,110.951057" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -136,7 +134,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-2</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T010000">2023-05-08 01:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Rocket Like A Hurricane (TROPICS-2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230508T010000Z%2F20230508T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianzhou-6</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T131500">2023-05-10 13:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-6&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20230510T131500Z%2F20230510T133500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-9</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T195400">2023-05-10 19:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-9&location=Vandenberg SFB, CA, USA&dates=20230510T195400Z%2F20230510T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-9</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T034200">2023-05-12 03:42:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-9&location=Cape Canaveral, FL, USA&dates=20230512T034200Z%2F20230512T103300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -191,7 +188,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Rocket Lab set to launch NASA’s TROPICS satellites from New Zealand](https://www.nasaspaceflight.com/2023/05/electron-tropics-launch-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230507T201156">2023-05-07 20:11:56 UTC</a></sub>
+* [Rocket Lab launches NASA’s TROPICS satellites from New Zealand](https://www.nasaspaceflight.com/2023/05/electron-tropics-launch-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230507T201156">2023-05-07 20:11:56 UTC</a></sub>
 * [NASA Inducts Roy Bridges & Mark Kelly Into Astronaut Hall of Fame](https://tlpnetwork.com/news/2023/05/nasa-astronaut-hall-of-fame-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T215700">2023-05-06 21:57:00 UTC</a></sub>
 * [Dragonfly mission studying effects of potential budget cut](https://spacenews.com/dragonfly-mission-studying-effects-of-potential-budget-cut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T194250">2023-05-06 19:42:50 UTC</a></sub>
 * [Starlink hits incredible subscriber milestone as potential IPO looms](https://www.teslarati.com/starlink-hits-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T161323">2023-05-06 16:13:23 UTC</a></sub>
@@ -233,7 +230,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T004439">2023-05-08 00:44:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T012728">2023-05-08 01:27:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
