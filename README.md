@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Former head of Roscosmos now thinks NASA did not land on the Moon](https://arstechnica.com/science/2023/05/former-head-of-roscosmos-now-thinks-nasa-did-not-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T142719">2023-05-08 14:27:19 UTC</a></sub>
+* [Maxar pursuing defense deals for its new line of small satellites](https://spacenews.com/maxar-pursuing-defense-deals-for-its-new-line-of-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T140131">2023-05-08 14:01:31 UTC</a></sub>
 * [Sizing up the 2023 GEO manufacturing battleground](https://spacenews.com/sizing-up-the-2023-geo-manufacturing-battleground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T134826">2023-05-08 13:48:26 UTC</a></sub>
 * [Momentus tug raises orbit with water-fueled thruster](https://spacenews.com/momentus-tug-raises-orbit-with-water-fueled-thruster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T113007">2023-05-08 11:30:07 UTC</a></sub>
 * [From Japan to the Philippines: US expands SSA cooperation with Asian countries](https://spacenews.com/from-japan-to-the-philippines-us-expands-ssa-cooperation-with-asian-countries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T081300">2023-05-08 08:13:00 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab launches NASA’s TROPICS satellites from New Zealand](https://www.nasaspaceflight.com/2023/05/electron-tropics-launch-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230507T201156">2023-05-07 20:11:56 UTC</a></sub>
 * [NASA Inducts Roy Bridges & Mark Kelly Into Astronaut Hall of Fame](https://tlpnetwork.com/news/2023/05/nasa-astronaut-hall-of-fame-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T215700">2023-05-06 21:57:00 UTC</a></sub>
 * [Dragonfly mission studying effects of potential budget cut](https://spacenews.com/dragonfly-mission-studying-effects-of-potential-budget-cut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T194250">2023-05-06 19:42:50 UTC</a></sub>
-* [Starlink hits incredible subscriber milestone as potential IPO looms](https://www.teslarati.com/starlink-hits-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T161323">2023-05-06 16:13:23 UTC</a></sub>
-* [Rocket builder Firefly takes on high-speed Space Force mission for crucial next launch](https://www.cnbc.com/2023/05/06/firefly-launching-space-force-high-speed-victus-nox-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T120001">2023-05-06 12:00:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T143051">2023-05-08 14:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T150125">2023-05-08 15:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
