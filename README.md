@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Breaking out of the space echo chamber ](https://spacenews.com/breaking-out-of-the-space-echo-chamber/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T184929">2023-05-08 18:49:29 UTC</a></sub>
+* [Blue Origin picking up the pace at the Cape](https://www.nasaspaceflight.com/2023/05/blue-origin-pace-cape/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T183541">2023-05-08 18:35:41 UTC</a></sub>
 * [NASA, Rocket Lab Launch First Pair of Storm Observing CubeSats](http://www.nasa.gov/press-release/nasa-rocket-lab-launch-first-pair-of-storm-observing-cubesats) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T150300">2023-05-08 15:03:00 UTC</a></sub>
 * [Former head of Roscosmos now thinks NASA did not land on the Moon](https://arstechnica.com/science/2023/05/former-head-of-roscosmos-now-thinks-nasa-did-not-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T142719">2023-05-08 14:27:19 UTC</a></sub>
 * [Maxar pursuing defense deals for its new line of small satellites](https://spacenews.com/maxar-pursuing-defense-deals-for-its-new-line-of-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T140131">2023-05-08 14:01:31 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [From Japan to the Philippines: US expands SSA cooperation with Asian countries](https://spacenews.com/from-japan-to-the-philippines-us-expands-ssa-cooperation-with-asian-countries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T081300">2023-05-08 08:13:00 UTC</a></sub>
 * [China’s mystery reusable spaceplane lands after 276 days in orbit](https://spacenews.com/chinas-mystery-reusable-spaceplane-lands-after-276-days-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T073002">2023-05-08 07:30:02 UTC</a></sub>
 * [Rocket Lab launches NASA TROPICS cubesats](https://spacenews.com/rocket-lab-launches-nasa-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T024320">2023-05-08 02:43:20 UTC</a></sub>
-* [Rocket Lab launches NASA’s TROPICS satellites from New Zealand](https://www.nasaspaceflight.com/2023/05/electron-tropics-launch-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230507T201156">2023-05-07 20:11:56 UTC</a></sub>
-* [NASA Inducts Roy Bridges & Mark Kelly Into Astronaut Hall of Fame](https://tlpnetwork.com/news/2023/05/nasa-astronaut-hall-of-fame-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T215700">2023-05-06 21:57:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T190040">2023-05-08 19:00:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T193057">2023-05-08 19:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
