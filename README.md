@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ambitious Arab mission to explore seven asteroids, including a very red one](https://arstechnica.com/science/2023/05/ambitious-arab-mission-to-explore-seven-asteroids-including-a-very-red-one/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T130351">2023-05-09 13:03:51 UTC</a></sub>
 * [NASA proposes “hybrid” contract approach for space station deorbit vehicle](https://spacenews.com/nasa-proposals-hybrid-contract-approach-for-space-station-deorbit-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T120500">2023-05-09 12:05:00 UTC</a></sub>
 * [ClearSpace books Vega C for 2026 de-orbit mission](https://spacenews.com/clearspace-books-vega-c-for-2026-de-orbit-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T090000">2023-05-09 09:00:00 UTC</a></sub>
 * [Space Force reviewing bids from satellite manufacturers for Space Test Program](https://spacenews.com/space-force-reviewing-bids-from-satellite-manufacturers-for-space-test-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T005328">2023-05-09 00:53:28 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Blue Origin picking up the pace at the Cape](https://www.nasaspaceflight.com/2023/05/blue-origin-pace-cape/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T183541">2023-05-08 18:35:41 UTC</a></sub>
 * [NASA, Rocket Lab Launch First Pair of Storm Observing CubeSats](http://www.nasa.gov/press-release/nasa-rocket-lab-launch-first-pair-of-storm-observing-cubesats) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T150300">2023-05-08 15:03:00 UTC</a></sub>
 * [Former head of Roscosmos now thinks NASA did not land on the Moon](https://arstechnica.com/science/2023/05/former-head-of-roscosmos-now-thinks-nasa-did-not-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T142719">2023-05-08 14:27:19 UTC</a></sub>
-* [Maxar pursuing defense deals for its new line of small satellites](https://spacenews.com/maxar-pursuing-defense-deals-for-its-new-line-of-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T140131">2023-05-08 14:01:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T124710">2023-05-09 12:47:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T133921">2023-05-09 13:39:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
