@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Former congressman Mac Thornberry joins CesiumAstro’s board of advisers](https://spacenews.com/former-congressman-mac-thornberry-joins-cesiumastros-board-of-advisors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T170404">2023-05-09 17:04:04 UTC</a></sub>
+* [The satellite boom is far from over](https://spacenews.com/the-satellite-boom-is-far-from-over/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T163803">2023-05-09 16:38:03 UTC</a></sub>
 * [Orbital Outpost X raises $5 million](https://spacenews.com/orbital-outpost-x-raises-5-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T155810">2023-05-09 15:58:10 UTC</a></sub>
 * [NASA Announces Upcoming Retirement of Space Technology Head](http://www.nasa.gov/press-release/nasa-announces-upcoming-retirement-of-space-technology-head) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T140300">2023-05-09 14:03:00 UTC</a></sub>
 * [Ambitious Arab mission to explore seven asteroids, including a very red one](https://arstechnica.com/science/2023/05/ambitious-arab-mission-to-explore-seven-asteroids-including-a-very-red-one/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T130351">2023-05-09 13:03:51 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [ClearSpace books Vega C for 2026 de-orbit mission](https://spacenews.com/clearspace-books-vega-c-for-2026-de-orbit-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T090000">2023-05-09 09:00:00 UTC</a></sub>
 * [Space Force reviewing bids from satellite manufacturers for Space Test Program](https://spacenews.com/space-force-reviewing-bids-from-satellite-manufacturers-for-space-test-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T005328">2023-05-09 00:53:28 UTC</a></sub>
 * [Ball Aerospace zeroes in on future technologies](https://spacenews.com/ball-aerospace-zeroes-in-on-future-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T204148">2023-05-08 20:41:48 UTC</a></sub>
-* [Propelling ASCENT into commercial markets](https://spacenews.com/propelling-ascent-into-commercial-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T201300">2023-05-08 20:13:00 UTC</a></sub>
-* [Breaking out of the space echo chamber ](https://spacenews.com/breaking-out-of-the-space-echo-chamber/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T184929">2023-05-08 18:49:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T170047">2023-05-09 17:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T173045">2023-05-09 17:30:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
