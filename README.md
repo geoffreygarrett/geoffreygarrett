@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ClearSpace books Vega C for 2026 de-orbit mission](https://spacenews.com/clearspace-books-vega-c-for-2026-de-orbit-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T090000">2023-05-09 09:00:00 UTC</a></sub>
 * [Space Force reviewing bids from satellite manufacturers for Space Test Program](https://spacenews.com/space-force-reviewing-bids-from-satellite-manufacturers-for-space-test-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T005328">2023-05-09 00:53:28 UTC</a></sub>
 * [Ball Aerospace zeroes in on future technologies](https://spacenews.com/ball-aerospace-zeroes-in-on-future-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T204148">2023-05-08 20:41:48 UTC</a></sub>
 * [Propelling ASCENT into commercial markets](https://spacenews.com/propelling-ascent-into-commercial-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T201300">2023-05-08 20:13:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Former head of Roscosmos now thinks NASA did not land on the Moon](https://arstechnica.com/science/2023/05/former-head-of-roscosmos-now-thinks-nasa-did-not-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T142719">2023-05-08 14:27:19 UTC</a></sub>
 * [Maxar pursuing defense deals for its new line of small satellites](https://spacenews.com/maxar-pursuing-defense-deals-for-its-new-line-of-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T140131">2023-05-08 14:01:31 UTC</a></sub>
 * [Sizing up the 2023 GEO manufacturing battleground](https://spacenews.com/sizing-up-the-2023-geo-manufacturing-battleground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T134826">2023-05-08 13:48:26 UTC</a></sub>
-* [Momentus tug raises orbit with water-fueled thruster](https://spacenews.com/momentus-tug-raises-orbit-with-water-fueled-thruster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T113007">2023-05-08 11:30:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T093036">2023-05-09 09:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T100055">2023-05-09 10:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
