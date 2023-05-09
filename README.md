@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Florida-based intercity rail service adopts Starlink](https://spacenews.com/florida-based-intercity-rail-service-adopts-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T212539">2023-05-09 21:25:39 UTC</a></sub>
 * [Virgin Galactic quarterly loss widens while company preps for spaceflight return this month](https://www.cnbc.com/2023/05/09/virgin-galactic-q1-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T205616">2023-05-09 20:56:16 UTC</a></sub>
 * [Construction starts on Orbex Scottish launch site](https://spacenews.com/construction-starts-on-orbex-scottish-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T194233">2023-05-09 19:42:33 UTC</a></sub>
 * [Starbase repairs proceeding – Ships prepared for future flights](https://www.nasaspaceflight.com/2023/05/starbase-repairs-ships-future-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T183816">2023-05-09 18:38:16 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Orbital Outpost X raises $5 million](https://spacenews.com/orbital-outpost-x-raises-5-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T155810">2023-05-09 15:58:10 UTC</a></sub>
 * [NASA Announces Upcoming Retirement of Space Technology Head](http://www.nasa.gov/press-release/nasa-announces-upcoming-retirement-of-space-technology-head) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T140300">2023-05-09 14:03:00 UTC</a></sub>
 * [Ambitious Arab mission to explore seven asteroids, including a very red one](https://arstechnica.com/science/2023/05/ambitious-arab-mission-to-explore-seven-asteroids-including-a-very-red-one/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T130351">2023-05-09 13:03:51 UTC</a></sub>
-* [NOAA kicks off NEON weather satellite program](https://spacenews.com/noaa-kicks-off-neon-weather-satellite-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T130000">2023-05-09 13:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T213047">2023-05-09 21:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T220059">2023-05-09 22:00:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
