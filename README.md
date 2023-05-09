@@ -209,6 +209,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Freelance Digital Advertising Specialist (Contract & Part-time)](https://www.planetary.org/careers/freelance-digital-advertising-specialist-contract-part-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T150323">2023-05-09 15:03:23 UTC</a></sub>
 * [Moonshadow, Moonshadow](https://www.planetary.org/the-downlink/moonshadow-moonshadow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T143330">2023-05-05 14:33:30 UTC</a></sub>
 * [What happened with Psyche?](https://www.planetary.org/articles/what-happened-with-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T150326">2023-05-04 15:03:26 UTC</a></sub>
 * [Have a nice flight!](https://www.planetary.org/the-downlink/have-a-nice-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143012">2023-04-28 14:30:12 UTC</a></sub>
@@ -218,7 +219,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX's Starship test flight succeeds despite not reaching orbit](https://www.planetary.org/articles/starship-first-integrated-test-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T192504">2023-04-20 19:25:04 UTC</a></sub>
 * [2023 Digital Day of Action recap](https://www.planetary.org/articles/2023-digital-day-of-action-recap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150506">2023-04-20 15:05:06 UTC</a></sub>
 * [What does “Mercury in retrograde” actually mean?](https://www.planetary.org/articles/what-does-mercury-in-retrograde-actually-mean) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T173507">2023-04-19 17:35:07 UTC</a></sub>
-* [Meet the Solar System's five official dwarf planets](https://www.planetary.org/articles/meet-the-dwarf-planets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T140509">2023-04-19 14:05:09 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T150050">2023-05-09 15:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T153055">2023-05-09 15:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
