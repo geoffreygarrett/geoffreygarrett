@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starbase repairs proceeding – Ships prepared for future flights](https://www.nasaspaceflight.com/2023/05/starbase-repairs-ships-future-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T183816">2023-05-09 18:38:16 UTC</a></sub>
 * [UK unconditionally approves Viasat’s Inmarsat takeover](https://spacenews.com/uk-unconditionally-approves-viasats-inmarsat-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T175744">2023-05-09 17:57:44 UTC</a></sub>
 * [Former congressman Mac Thornberry joins CesiumAstro’s board of advisers](https://spacenews.com/former-congressman-mac-thornberry-joins-cesiumastros-board-of-advisors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T170404">2023-05-09 17:04:04 UTC</a></sub>
 * [The satellite boom is far from over](https://spacenews.com/the-satellite-boom-is-far-from-over/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T163803">2023-05-09 16:38:03 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NOAA kicks off NEON weather satellite program](https://spacenews.com/noaa-kicks-off-neon-weather-satellite-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T130000">2023-05-09 13:00:00 UTC</a></sub>
 * [NASA proposes “hybrid” contract approach for space station deorbit vehicle](https://spacenews.com/nasa-proposals-hybrid-contract-approach-for-space-station-deorbit-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T120500">2023-05-09 12:05:00 UTC</a></sub>
 * [ClearSpace books Vega C for 2026 de-orbit mission](https://spacenews.com/clearspace-books-vega-c-for-2026-de-orbit-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T090000">2023-05-09 09:00:00 UTC</a></sub>
-* [Space Force reviewing bids from satellite manufacturers for Space Test Program](https://spacenews.com/space-force-reviewing-bids-from-satellite-manufacturers-for-space-test-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T005328">2023-05-09 00:53:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T190104">2023-05-09 19:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T193047">2023-05-09 19:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
