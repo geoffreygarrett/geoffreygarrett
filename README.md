@@ -102,26 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Long March 7  | Tianzhou-6 at the
-<a href="https://en.wikipedia.org/wiki/Wenchang_Satellite_Launch_Center">Wenchang</a> in
-Wenchang Satellite Launch Center, People's Republic of China
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T131500">2023-05-10 13:15:00 UTC</a>. Until
-then, this launch pad will have seen 16
-out of 22 launches in this
+Falcon 9 Block 5 | Starlink Group 2-9 at the
+<a href="">Space Launch Complex 4E</a> in
+Vandenberg SFB, CA, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T200900">2023-05-10 20:09:00 UTC</a>. Until
+then, this launch pad will have seen 108
+out of 717 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Fifth cargo delivery mission to the Chinese space station.
+  A batch of 51 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_7" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=19.614354,110.951057" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +134,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Tianzhou-6</b> from Wenchang Satellite Launch Center, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T131500">2023-05-10 13:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-6&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20230510T131500Z%2F20230510T133500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-9</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T200900">2023-05-10 20:09:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-9&location=Vandenberg SFB, CA, USA&dates=20230510T200900Z%2F20230510T200900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-9</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T044800">2023-05-14 04:48:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-9&location=Cape Canaveral, FL, USA&dates=20230514T044800Z%2F20230514T092800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 6-3</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T042600">2023-05-18 04:26:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230518T042600Z%2F20230518T084500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -189,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! VAST Announces Haven-1 Station & VAST-1 Mission ](https://tlpnetwork.com/news/2023/05/vast-announces-haven-1-station-and-vast-1-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T122500">2023-05-10 12:25:00 UTC</a></sub>
 * [Rocket Lab sees itself as leader of the small launch industry](https://spacenews.com/rocket-lab-sees-itself-as-leader-of-the-small-launch-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T032526">2023-05-10 03:25:26 UTC</a></sub>
 * [Virgin Galactic looks ahead to future spaceplanes as it gears up for return to space](https://spacenews.com/virgin-galactic-looks-ahead-to-future-spaceplanes-as-it-gears-up-for-return-to-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T013059">2023-05-10 01:30:59 UTC</a></sub>
 * [China prepares resupply mission, lands space plane, and readies methane rocket](https://www.nasaspaceflight.com/2023/05/tianzhou-6-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T010109">2023-05-10 01:01:09 UTC</a></sub>
@@ -198,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Construction starts on Orbex Scottish launch site](https://spacenews.com/construction-starts-on-orbex-scottish-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T194233">2023-05-09 19:42:33 UTC</a></sub>
 * [Starbase repairs proceeding – Ships prepared for future flights](https://www.nasaspaceflight.com/2023/05/starbase-repairs-ships-future-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T183816">2023-05-09 18:38:16 UTC</a></sub>
 * [UK unconditionally approves Viasat’s Inmarsat takeover](https://spacenews.com/uk-unconditionally-approves-viasats-inmarsat-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T175744">2023-05-09 17:57:44 UTC</a></sub>
-* [Former congressman Mac Thornberry joins CesiumAstro’s board of advisers](https://spacenews.com/former-congressman-mac-thornberry-joins-cesiumastros-board-of-advisors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T170404">2023-05-09 17:04:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T130355">2023-05-10 13:03:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T133311">2023-05-10 13:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
