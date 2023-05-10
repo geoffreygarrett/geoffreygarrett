@@ -191,7 +191,7 @@ region. The mission's status is currently Go for Launch
 * [BREAKING! VAST Announces Haven-1 Station & VAST-1 Mission ](https://tlpnetwork.com/news/2023/05/vast-announces-haven-1-station-and-vast-1-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T122500">2023-05-10 12:25:00 UTC</a></sub>
 * [Rocket Lab sees itself as leader of the small launch industry](https://spacenews.com/rocket-lab-sees-itself-as-leader-of-the-small-launch-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T032526">2023-05-10 03:25:26 UTC</a></sub>
 * [Virgin Galactic looks ahead to future spaceplanes as it gears up for return to space](https://spacenews.com/virgin-galactic-looks-ahead-to-future-spaceplanes-as-it-gears-up-for-return-to-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T013059">2023-05-10 01:30:59 UTC</a></sub>
-* [China prepares resupply mission, lands space plane, and readies methane rocket](https://www.nasaspaceflight.com/2023/05/tianzhou-6-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T010109">2023-05-10 01:01:09 UTC</a></sub>
+* [China launches resupply mission, lands space plane, and readies methane rocket](https://www.nasaspaceflight.com/2023/05/tianzhou-6-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T010109">2023-05-10 01:01:09 UTC</a></sub>
 * [Rocket Lab revenue increases slightly, company adds NASA launch contract](https://www.cnbc.com/2023/05/09/rocket-lab-rklb-q1-2023-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T214945">2023-05-09 21:49:45 UTC</a></sub>
 * [Florida-based intercity rail service adopts Starlink](https://spacenews.com/florida-based-intercity-rail-service-adopts-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T212539">2023-05-09 21:25:39 UTC</a></sub>
 * [Virgin Galactic quarterly loss widens while company preps for spaceflight return this month](https://www.cnbc.com/2023/05/09/virgin-galactic-q1-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T205616">2023-05-09 20:56:16 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T140041">2023-05-10 14:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T143102">2023-05-10 14:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
