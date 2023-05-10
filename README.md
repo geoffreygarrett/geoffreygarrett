@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab sees itself as leader of the small launch industry](https://spacenews.com/rocket-lab-sees-itself-as-leader-of-the-small-launch-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T032526">2023-05-10 03:25:26 UTC</a></sub>
 * [Virgin Galactic looks ahead to future spaceplanes as it gears up for return to space](https://spacenews.com/virgin-galactic-looks-ahead-to-future-spaceplanes-as-it-gears-up-for-return-to-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T013059">2023-05-10 01:30:59 UTC</a></sub>
 * [China prepares resupply mission, lands space plane, and readies methane rocket](https://www.nasaspaceflight.com/2023/05/tianzhou-6-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T010109">2023-05-10 01:01:09 UTC</a></sub>
 * [Rocket Lab revenue increases slightly, company adds NASA launch contract](https://www.cnbc.com/2023/05/09/rocket-lab-rklb-q1-2023-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T214945">2023-05-09 21:49:45 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Starbase repairs proceeding – Ships prepared for future flights](https://www.nasaspaceflight.com/2023/05/starbase-repairs-ships-future-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T183816">2023-05-09 18:38:16 UTC</a></sub>
 * [UK unconditionally approves Viasat’s Inmarsat takeover](https://spacenews.com/uk-unconditionally-approves-viasats-inmarsat-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T175744">2023-05-09 17:57:44 UTC</a></sub>
 * [Former congressman Mac Thornberry joins CesiumAstro’s board of advisers](https://spacenews.com/former-congressman-mac-thornberry-joins-cesiumastros-board-of-advisors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T170404">2023-05-09 17:04:04 UTC</a></sub>
-* [The satellite boom is far from over](https://spacenews.com/the-satellite-boom-is-far-from-over/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T163803">2023-05-09 16:38:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T033043">2023-05-10 03:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T040111">2023-05-10 04:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
