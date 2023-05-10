@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EnduroSat raises $10 million](https://spacenews.com/endurosat-raises-10-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T182759">2023-05-10 18:27:59 UTC</a></sub>
 * [Vast says it will launch its first space station in 2025 on a Falcon 9](https://arstechnica.com/science/2023/05/vast-says-it-will-launch-its-first-space-station-in-2025-on-a-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T151928">2023-05-10 15:19:28 UTC</a></sub>
 * [On National Security | The space surveillance arms race is in full swing](https://spacenews.com/on-national-security-the-space-surveillance-arms-race-is-in-full-swing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T135600">2023-05-10 13:56:00 UTC</a></sub>
 * [BREAKING! VAST Announces Haven-1 Station & VAST-1 Mission ](https://tlpnetwork.com/news/2023/05/vast-announces-haven-1-station-and-vast-1-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T122500">2023-05-10 12:25:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab revenue increases slightly, company adds NASA launch contract](https://www.cnbc.com/2023/05/09/rocket-lab-rklb-q1-2023-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T214945">2023-05-09 21:49:45 UTC</a></sub>
 * [Florida-based intercity rail service adopts Starlink](https://spacenews.com/florida-based-intercity-rail-service-adopts-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T212539">2023-05-09 21:25:39 UTC</a></sub>
 * [Virgin Galactic quarterly loss widens while company preps for spaceflight return this month](https://www.cnbc.com/2023/05/09/virgin-galactic-q1-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T205616">2023-05-09 20:56:16 UTC</a></sub>
-* [Construction starts on Orbex Scottish launch site](https://spacenews.com/construction-starts-on-orbex-scottish-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T194233">2023-05-09 19:42:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T180057">2023-05-10 18:00:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T183352">2023-05-10 18:33:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
