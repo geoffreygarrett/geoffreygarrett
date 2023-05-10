@@ -187,6 +187,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Redwire reports record revenue as it seeks profitability](https://spacenews.com/redwire-reports-record-revenue-as-it-seeks-profitability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T224532">2023-05-10 22:45:32 UTC</a></sub>
+* [SpaceX successfully launches 51 Starlink satellites](https://www.teslarati.com/spacex-starlink-successfully-launches-51-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T222327">2023-05-10 22:23:27 UTC</a></sub>
+* [Tianzhou-6 cargo spacecraft reaches China’s Tiangong space station](https://spacenews.com/tianzhou-6-cargo-spacecraft-reaches-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T220440">2023-05-10 22:04:40 UTC</a></sub>
 * [Starlink unveils suite of top of the line internet plans](https://www.teslarati.com/starlink-unveils-new-internet-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T202325">2023-05-10 20:23:25 UTC</a></sub>
 * [Vast announces plans for first commercial space station](https://spacenews.com/vast-announces-plans-for-first-commercial-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T200132">2023-05-10 20:01:32 UTC</a></sub>
 * [Space Force to build digital infrastructure to train operators and test hardware](https://spacenews.com/space-force-to-build-digital-infrastructure-to-train-operators-and-test-hardware/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T191618">2023-05-10 19:16:18 UTC</a></sub>
@@ -194,9 +197,6 @@ region. The mission's status is currently To Be Confirmed
 * [EnduroSat raises $10 million](https://spacenews.com/endurosat-raises-10-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T182759">2023-05-10 18:27:59 UTC</a></sub>
 * [Vast says it will launch its first space station in 2025 on a Falcon 9](https://arstechnica.com/science/2023/05/vast-says-it-will-launch-its-first-space-station-in-2025-on-a-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T151928">2023-05-10 15:19:28 UTC</a></sub>
 * [On National Security | The space surveillance arms race is in full swing](https://spacenews.com/on-national-security-the-space-surveillance-arms-race-is-in-full-swing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T135600">2023-05-10 13:56:00 UTC</a></sub>
-* [BREAKING! VAST Announces Haven-1 Station & VAST-1 Mission ](https://tlpnetwork.com/news/2023/05/vast-announces-haven-1-station-and-vast-1-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T122500">2023-05-10 12:25:00 UTC</a></sub>
-* [Rocket Lab sees itself as leader of the small launch industry](https://spacenews.com/rocket-lab-sees-itself-as-leader-of-the-small-launch-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T032526">2023-05-10 03:25:26 UTC</a></sub>
-* [Virgin Galactic looks ahead to future spaceplanes as it gears up for return to space](https://spacenews.com/virgin-galactic-looks-ahead-to-future-spaceplanes-as-it-gears-up-for-return-to-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T013059">2023-05-10 01:30:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T223212">2023-05-10 22:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T230052">2023-05-10 23:00:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
