@@ -188,6 +188,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The answer to solving the digital divide is hybrid connectivity infrastructures](https://spacenews.com/the-answer-to-solving-the-digital-divide-is-hybrid-connectivity-infrastructures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T151250">2023-05-11 15:12:50 UTC</a></sub>
+* [Foust Forward | Big opportunities for big science with big rockets](https://spacenews.com/foust-forward-big-opportunities-for-big-science-with-big-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T142100">2023-05-11 14:21:00 UTC</a></sub>
 * [China’s spaceplane conducted proximity and capture maneuvers with subsatellite, data suggests](https://spacenews.com/chinas-spaceplane-conducted-proximity-and-capture-maneuvers-with-subsatellite-data-suggests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T114925">2023-05-11 11:49:25 UTC</a></sub>
 * [EchoStar has fingers crossed for August Falcon Heavy launch](https://spacenews.com/echostar-has-fingers-crossed-for-august-falcon-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T233009">2023-05-10 23:30:09 UTC</a></sub>
 * [Redwire reports record revenue as it seeks profitability](https://spacenews.com/redwire-reports-record-revenue-as-it-seeks-profitability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T224532">2023-05-10 22:45:32 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Starlink unveils suite of top of the line internet plans](https://www.teslarati.com/starlink-unveils-new-internet-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T202325">2023-05-10 20:23:25 UTC</a></sub>
 * [Vast announces plans for first commercial space station](https://spacenews.com/vast-announces-plans-for-first-commercial-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T200132">2023-05-10 20:01:32 UTC</a></sub>
 * [Space Force to build digital infrastructure to train operators and test hardware](https://spacenews.com/space-force-to-build-digital-infrastructure-to-train-operators-and-test-hardware/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T191618">2023-05-10 19:16:18 UTC</a></sub>
-* [America’s SPAC-funded NewSpace industry is crashing](https://spacenews.com/op-ed-americas-spac-funded-newspace-industry-is-crashing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T185431">2023-05-10 18:54:31 UTC</a></sub>
-* [EnduroSat raises $10 million](https://spacenews.com/endurosat-raises-10-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T182759">2023-05-10 18:27:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -208,6 +208,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How did Earth get its oxygen?](https://www.planetary.org/articles/how-did-earth-get-its-oxygen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T144324">2023-05-11 14:43:24 UTC</a></sub>
 * [Freelance Digital Advertising Specialist (Contract & Part-time)](https://www.planetary.org/careers/freelance-digital-advertising-specialist-contract-part-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T150323">2023-05-09 15:03:23 UTC</a></sub>
 * [Moonshadow, Moonshadow](https://www.planetary.org/the-downlink/moonshadow-moonshadow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T143330">2023-05-05 14:33:30 UTC</a></sub>
 * [What happened with Psyche?](https://www.planetary.org/articles/what-happened-with-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T150326">2023-05-04 15:03:26 UTC</a></sub>
@@ -217,7 +218,6 @@ region. The mission's status is currently To Be Confirmed
 * [Rocket flight and the five dwarfs](https://www.planetary.org/the-downlink/rocket-flight-and-the-five-dwarfs) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T143509">2023-04-21 14:35:09 UTC</a></sub>
 * [SpaceX's Starship test flight succeeds despite not reaching orbit](https://www.planetary.org/articles/starship-first-integrated-test-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T192504">2023-04-20 19:25:04 UTC</a></sub>
 * [2023 Digital Day of Action recap](https://www.planetary.org/articles/2023-digital-day-of-action-recap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150506">2023-04-20 15:05:06 UTC</a></sub>
-* [What does “Mercury in retrograde” actually mean?](https://www.planetary.org/articles/what-does-mercury-in-retrograde-actually-mean) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T173507">2023-04-19 17:35:07 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T150055">2023-05-11 15:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T153051">2023-05-11 15:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
