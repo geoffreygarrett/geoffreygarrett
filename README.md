@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Images From NASA's Perseverance May Show Record of Wild Martian River](https://mars.nasa.gov/news/9399/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T154300">2023-05-11 15:43:00 UTC</a></sub>
 * [The answer to solving the digital divide is hybrid connectivity infrastructures](https://spacenews.com/the-answer-to-solving-the-digital-divide-is-hybrid-connectivity-infrastructures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T151250">2023-05-11 15:12:50 UTC</a></sub>
 * [Foust Forward | Big opportunities for big science with big rockets](https://spacenews.com/foust-forward-big-opportunities-for-big-science-with-big-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T142100">2023-05-11 14:21:00 UTC</a></sub>
 * [China’s spaceplane conducted proximity and capture maneuvers with subsatellite, data suggests](https://spacenews.com/chinas-spaceplane-conducted-proximity-and-capture-maneuvers-with-subsatellite-data-suggests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T114925">2023-05-11 11:49:25 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Tianzhou-6 cargo spacecraft reaches China’s Tiangong space station](https://spacenews.com/tianzhou-6-cargo-spacecraft-reaches-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T220440">2023-05-10 22:04:40 UTC</a></sub>
 * [Starlink unveils suite of top of the line internet plans](https://www.teslarati.com/starlink-unveils-new-internet-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T202325">2023-05-10 20:23:25 UTC</a></sub>
 * [Vast announces plans for first commercial space station](https://spacenews.com/vast-announces-plans-for-first-commercial-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T200132">2023-05-10 20:01:32 UTC</a></sub>
-* [Space Force to build digital infrastructure to train operators and test hardware](https://spacenews.com/space-force-to-build-digital-infrastructure-to-train-operators-and-test-hardware/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T191618">2023-05-10 19:16:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T153051">2023-05-11 15:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T160104">2023-05-11 16:01:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
