@@ -189,6 +189,9 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA prepares for new round of Vulcan tests](https://spacenews.com/ula-prepares-for-new-round-of-vulcan-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T214739">2023-05-11 21:47:39 UTC</a></sub>
+* [AT&T and AST SpaceMobile seek permission for spectrum leasing deal](https://spacenews.com/att-and-ast-spacemobile-seek-permission-for-spectrum-leasing-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T213101">2023-05-11 21:31:01 UTC</a></sub>
+* [L3Harris wins contract to extend GOES-R ground segment work](https://spacenews.com/l3harris-wins-contract-to-extend-goes-r-ground-segment-work/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T210341">2023-05-11 21:03:41 UTC</a></sub>
 * [OHB expects first Ariane 6 launch in early 2024](https://spacenews.com/ohb-expects-first-ariane-6-launch-in-early-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T204241">2023-05-11 20:42:41 UTC</a></sub>
 * [Telesat eyes 2026 for first Lightspeed launches amid funding delays](https://spacenews.com/telesat-eyes-2026-for-first-lightspeed-launches-amid-funding-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T185658">2023-05-11 18:56:58 UTC</a></sub>
 * [Space Perspective prepares to introduce new recovery ship as providers compete for land at Port Canaveral](https://www.nasaspaceflight.com/2023/05/space-perspective-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T174259">2023-05-11 17:42:59 UTC</a></sub>
@@ -196,9 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [The answer to solving the digital divide is hybrid connectivity infrastructures](https://spacenews.com/the-answer-to-solving-the-digital-divide-is-hybrid-connectivity-infrastructures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T151250">2023-05-11 15:12:50 UTC</a></sub>
 * [Foust Forward | Big opportunities for big science with big rockets](https://spacenews.com/foust-forward-big-opportunities-for-big-science-with-big-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T142100">2023-05-11 14:21:00 UTC</a></sub>
 * [China’s spaceplane conducted proximity and capture maneuvers with subsatellite, data suggests](https://spacenews.com/chinas-spaceplane-conducted-proximity-and-capture-maneuvers-with-subsatellite-data-suggests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T114925">2023-05-11 11:49:25 UTC</a></sub>
-* [EchoStar has fingers crossed for August Falcon Heavy launch](https://spacenews.com/echostar-has-fingers-crossed-for-august-falcon-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T233009">2023-05-10 23:30:09 UTC</a></sub>
-* [Redwire reports record revenue as it seeks profitability](https://spacenews.com/redwire-reports-record-revenue-as-it-seeks-profitability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T224532">2023-05-10 22:45:32 UTC</a></sub>
-* [SpaceX successfully launches 51 Starlink satellites](https://www.teslarati.com/spacex-starlink-successfully-launches-51-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T222327">2023-05-10 22:23:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T213035">2023-05-11 21:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T220052">2023-05-11 22:00:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
