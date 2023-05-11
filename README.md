@@ -187,6 +187,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EchoStar has fingers crossed for August Falcon Heavy launch](https://spacenews.com/echostar-has-fingers-crossed-for-august-falcon-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T233009">2023-05-10 23:30:09 UTC</a></sub>
 * [Redwire reports record revenue as it seeks profitability](https://spacenews.com/redwire-reports-record-revenue-as-it-seeks-profitability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T224532">2023-05-10 22:45:32 UTC</a></sub>
 * [SpaceX successfully launches 51 Starlink satellites](https://www.teslarati.com/spacex-starlink-successfully-launches-51-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T222327">2023-05-10 22:23:27 UTC</a></sub>
 * [Tianzhou-6 cargo spacecraft reaches China’s Tiangong space station](https://spacenews.com/tianzhou-6-cargo-spacecraft-reaches-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T220440">2023-05-10 22:04:40 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently To Be Confirmed
 * [America’s SPAC-funded NewSpace industry is crashing](https://spacenews.com/op-ed-americas-spac-funded-newspace-industry-is-crashing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T185431">2023-05-10 18:54:31 UTC</a></sub>
 * [EnduroSat raises $10 million](https://spacenews.com/endurosat-raises-10-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T182759">2023-05-10 18:27:59 UTC</a></sub>
 * [Vast says it will launch its first space station in 2025 on a Falcon 9](https://arstechnica.com/science/2023/05/vast-says-it-will-launch-its-first-space-station-in-2025-on-a-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T151928">2023-05-10 15:19:28 UTC</a></sub>
-* [On National Security | The space surveillance arms race is in full swing](https://spacenews.com/on-national-security-the-space-surveillance-arms-race-is-in-full-swing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T135600">2023-05-10 13:56:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T233036">2023-05-10 23:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T000137">2023-05-11 00:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
