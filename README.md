@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force commercial office to open new facility in Virginia](https://spacenews.com/space-force-commercial-office-to-open-new-facility-in-virginia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T225540">2023-05-11 22:55:40 UTC</a></sub>
 * [ULA prepares for new round of Vulcan tests](https://spacenews.com/ula-prepares-for-new-round-of-vulcan-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T214739">2023-05-11 21:47:39 UTC</a></sub>
 * [AT&T and AST SpaceMobile seek permission for spectrum leasing deal](https://spacenews.com/att-and-ast-spacemobile-seek-permission-for-spectrum-leasing-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T213101">2023-05-11 21:31:01 UTC</a></sub>
 * [L3Harris wins contract to extend GOES-R ground segment work](https://spacenews.com/l3harris-wins-contract-to-extend-goes-r-ground-segment-work/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T210341">2023-05-11 21:03:41 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [Images From NASA's Perseverance May Show Record of Wild Martian River](https://mars.nasa.gov/news/9399/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T154300">2023-05-11 15:43:00 UTC</a></sub>
 * [The answer to solving the digital divide is hybrid connectivity infrastructures](https://spacenews.com/the-answer-to-solving-the-digital-divide-is-hybrid-connectivity-infrastructures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T151250">2023-05-11 15:12:50 UTC</a></sub>
 * [Foust Forward | Big opportunities for big science with big rockets](https://spacenews.com/foust-forward-big-opportunities-for-big-science-with-big-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T142100">2023-05-11 14:21:00 UTC</a></sub>
-* [China’s spaceplane conducted proximity and capture maneuvers with subsatellite, data suggests](https://spacenews.com/chinas-spaceplane-conducted-proximity-and-capture-maneuvers-with-subsatellite-data-suggests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T114925">2023-05-11 11:49:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T230048">2023-05-11 23:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T233101">2023-05-11 23:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
