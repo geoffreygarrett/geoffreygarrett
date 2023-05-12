@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Development Agency issues draft solicitation for 100 satellites](https://spacenews.com/space-development-agency-issues-draft-solicitation-for-100-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T221059">2023-05-12 22:10:59 UTC</a></sub>
 * [Media, Public Invited to Meet Solvers in NASA Space Food Challenge](http://www.nasa.gov/press-release/media-public-invited-to-meet-solvers-in-nasa-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T210300">2023-05-12 21:03:00 UTC</a></sub>
 * [Vulcan conducting launch day dress rehearsal as the final Delta IV Heavy arrives at Cape Canaveral](https://www.nasaspaceflight.com/2023/05/vulcan-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T204527">2023-05-12 20:45:27 UTC</a></sub>
 * [Eutelsat eager for OneWeb uplift as broadcast sales plummet](https://spacenews.com/eutelsat-eager-for-oneweb-uplift-as-broadcast-sales-plummet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T192917">2023-05-12 19:29:17 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Webb directly images young star’s asteroid belt; discovers two additional dusty disks](https://www.nasaspaceflight.com/2023/05/webb-images-fomalhaut-disks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T141739">2023-05-12 14:17:39 UTC</a></sub>
 * [Op-ed | The dramatic influence of generative AI on the space industry](https://spacenews.com/op-ed-the-dramatic-influence-of-generative-ai-on-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T133331">2023-05-12 13:33:31 UTC</a></sub>
 * [First Intuitive Machine lunar lander mission slips to the third quarter](https://spacenews.com/first-intuitive-machine-lunar-lander-mission-slips-to-the-third-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T113502">2023-05-12 11:35:02 UTC</a></sub>
-* [Rocket Report: SpaceX hits success milestone, Vulcan to resume testing](https://arstechnica.com/science/2023/05/rocket-report-spacex-hits-success-milestone-vulcan-to-resume-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T110028">2023-05-12 11:00:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T220035">2023-05-12 22:00:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T223046">2023-05-12 22:30:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
