@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Eutelsat eager for OneWeb uplift as broadcast sales plummet](https://spacenews.com/eutelsat-eager-for-oneweb-uplift-as-broadcast-sales-plummet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T192917">2023-05-12 19:29:17 UTC</a></sub>
 * [NASA Sets Coverage for Axiom Mission 2 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T164300">2023-05-12 16:43:00 UTC</a></sub>
 * [The Ariane 6 rocket will now debut no earlier than the spring of 2024](https://arstechnica.com/science/2023/05/the-ariane-6-rockets-debut-will-slip-into-2024-the-question-is-how-far/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T145342">2023-05-12 14:53:42 UTC</a></sub>
 * [NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting](http://www.nasa.gov/press-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T145300">2023-05-12 14:53:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [Rocket Report: SpaceX hits success milestone, Vulcan to resume testing](https://arstechnica.com/science/2023/05/rocket-report-spacex-hits-success-milestone-vulcan-to-resume-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T110028">2023-05-12 11:00:28 UTC</a></sub>
 * [Space Force commercial office to open new facility in Virginia](https://spacenews.com/space-force-commercial-office-to-open-new-facility-in-virginia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T225540">2023-05-11 22:55:40 UTC</a></sub>
 * [ULA prepares for new round of Vulcan tests](https://spacenews.com/ula-prepares-for-new-round-of-vulcan-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T214739">2023-05-11 21:47:39 UTC</a></sub>
-* [AT&T and AST SpaceMobile seek permission for spectrum leasing deal](https://spacenews.com/att-and-ast-spacemobile-seek-permission-for-spectrum-leasing-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T213101">2023-05-11 21:31:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T193040">2023-05-12 19:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T200053">2023-05-12 20:00:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
