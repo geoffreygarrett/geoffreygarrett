@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First Intuitive Machine lunar lander mission slips to the third quarter](https://spacenews.com/first-intuitive-machine-lunar-lander-mission-slips-to-the-third-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T113502">2023-05-12 11:35:02 UTC</a></sub>
 * [Rocket Report: SpaceX hits success milestone, Vulcan to resume testing](https://arstechnica.com/science/2023/05/rocket-report-spacex-hits-success-milestone-vulcan-to-resume-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T110028">2023-05-12 11:00:28 UTC</a></sub>
 * [Space Force commercial office to open new facility in Virginia](https://spacenews.com/space-force-commercial-office-to-open-new-facility-in-virginia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T225540">2023-05-11 22:55:40 UTC</a></sub>
 * [ULA prepares for new round of Vulcan tests](https://spacenews.com/ula-prepares-for-new-round-of-vulcan-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T214739">2023-05-11 21:47:39 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [Telesat eyes 2026 for first Lightspeed launches amid funding delays](https://spacenews.com/telesat-eyes-2026-for-first-lightspeed-launches-amid-funding-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T185658">2023-05-11 18:56:58 UTC</a></sub>
 * [Space Perspective prepares to introduce new recovery ship as providers compete for land at Port Canaveral](https://www.nasaspaceflight.com/2023/05/space-perspective-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T174259">2023-05-11 17:42:59 UTC</a></sub>
 * [Images From NASA's Perseverance May Show Record of Wild Martian River](https://mars.nasa.gov/news/9399/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T154300">2023-05-11 15:43:00 UTC</a></sub>
-* [The answer to solving the digital divide is hybrid connectivity infrastructures](https://spacenews.com/the-answer-to-solving-the-digital-divide-is-hybrid-connectivity-infrastructures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T151250">2023-05-11 15:12:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T113041">2023-05-12 11:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T120057">2023-05-12 12:00:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
