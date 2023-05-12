@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Webb directly images young star’s asteroid belt; discovers two additional dusty disks](https://www.nasaspaceflight.com/2023/05/webb-images-fomalhaut-disks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T141739">2023-05-12 14:17:39 UTC</a></sub>
 * [Op-ed | The dramatic influence of generative AI on the space industry](https://spacenews.com/op-ed-the-dramatic-influence-of-generative-ai-on-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T133331">2023-05-12 13:33:31 UTC</a></sub>
 * [First Intuitive Machine lunar lander mission slips to the third quarter](https://spacenews.com/first-intuitive-machine-lunar-lander-mission-slips-to-the-third-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T113502">2023-05-12 11:35:02 UTC</a></sub>
 * [Rocket Report: SpaceX hits success milestone, Vulcan to resume testing](https://arstechnica.com/science/2023/05/rocket-report-spacex-hits-success-milestone-vulcan-to-resume-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T110028">2023-05-12 11:00:28 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently To Be Confirmed
 * [L3Harris wins contract to extend GOES-R ground segment work](https://spacenews.com/l3harris-wins-contract-to-extend-goes-r-ground-segment-work/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T210341">2023-05-11 21:03:41 UTC</a></sub>
 * [OHB expects first Ariane 6 launch in early 2024](https://spacenews.com/ohb-expects-first-ariane-6-launch-in-early-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T204241">2023-05-11 20:42:41 UTC</a></sub>
 * [Telesat eyes 2026 for first Lightspeed launches amid funding delays](https://spacenews.com/telesat-eyes-2026-for-first-lightspeed-launches-amid-funding-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T185658">2023-05-11 18:56:58 UTC</a></sub>
-* [Space Perspective prepares to introduce new recovery ship as providers compete for land at Port Canaveral](https://www.nasaspaceflight.com/2023/05/space-perspective-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T174259">2023-05-11 17:42:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -209,6 +209,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Why has SpaceX's Starship sparked an environmental controversy?](https://www.planetary.org/articles/why-has-spacexs-starship-sparked-an-environmental-controversy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T140324">2023-05-12 14:03:24 UTC</a></sub>
 * [How did Earth get its oxygen?](https://www.planetary.org/articles/how-did-earth-get-its-oxygen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T144324">2023-05-11 14:43:24 UTC</a></sub>
 * [Freelance Digital Advertising Specialist (Contract & Part-time)](https://www.planetary.org/careers/freelance-digital-advertising-specialist-contract-part-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T150323">2023-05-09 15:03:23 UTC</a></sub>
 * [Moonshadow, Moonshadow](https://www.planetary.org/the-downlink/moonshadow-moonshadow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T143330">2023-05-05 14:33:30 UTC</a></sub>
@@ -218,7 +219,6 @@ region. The mission's status is currently To Be Confirmed
 * [Resilient Space: A Defense in Depth](https://blog.ulalaunch.com/blog/resilient-space-a-defense-in-depth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T145018">2023-04-25 14:50:18 UTC</a></sub>
 * [Rocket flight and the five dwarfs](https://www.planetary.org/the-downlink/rocket-flight-and-the-five-dwarfs) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T143509">2023-04-21 14:35:09 UTC</a></sub>
 * [SpaceX's Starship test flight succeeds despite not reaching orbit](https://www.planetary.org/articles/starship-first-integrated-test-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T192504">2023-04-20 19:25:04 UTC</a></sub>
-* [2023 Digital Day of Action recap](https://www.planetary.org/articles/2023-digital-day-of-action-recap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150506">2023-04-20 15:05:06 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T140056">2023-05-12 14:00:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T143059">2023-05-12 14:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
