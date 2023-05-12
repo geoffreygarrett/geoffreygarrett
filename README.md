@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Media, Public Invited to Meet Solvers in NASA Space Food Challenge](http://www.nasa.gov/press-release/media-public-invited-to-meet-solvers-in-nasa-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T210300">2023-05-12 21:03:00 UTC</a></sub>
+* [Vulcan conducting launch day dress rehearsal as the final Delta IV Heavy arrives at Cape Canaveral](https://www.nasaspaceflight.com/2023/05/vulcan-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T204527">2023-05-12 20:45:27 UTC</a></sub>
 * [Eutelsat eager for OneWeb uplift as broadcast sales plummet](https://spacenews.com/eutelsat-eager-for-oneweb-uplift-as-broadcast-sales-plummet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T192917">2023-05-12 19:29:17 UTC</a></sub>
 * [NASA Sets Coverage for Axiom Mission 2 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T164300">2023-05-12 16:43:00 UTC</a></sub>
 * [The Ariane 6 rocket will now debut no earlier than the spring of 2024](https://arstechnica.com/science/2023/05/the-ariane-6-rockets-debut-will-slip-into-2024-the-question-is-how-far/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T145342">2023-05-12 14:53:42 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Op-ed | The dramatic influence of generative AI on the space industry](https://spacenews.com/op-ed-the-dramatic-influence-of-generative-ai-on-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T133331">2023-05-12 13:33:31 UTC</a></sub>
 * [First Intuitive Machine lunar lander mission slips to the third quarter](https://spacenews.com/first-intuitive-machine-lunar-lander-mission-slips-to-the-third-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T113502">2023-05-12 11:35:02 UTC</a></sub>
 * [Rocket Report: SpaceX hits success milestone, Vulcan to resume testing](https://arstechnica.com/science/2023/05/rocket-report-spacex-hits-success-milestone-vulcan-to-resume-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T110028">2023-05-12 11:00:28 UTC</a></sub>
-* [Space Force commercial office to open new facility in Virginia](https://spacenews.com/space-force-commercial-office-to-open-new-facility-in-virginia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T225540">2023-05-11 22:55:40 UTC</a></sub>
-* [ULA prepares for new round of Vulcan tests](https://spacenews.com/ula-prepares-for-new-round-of-vulcan-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T214739">2023-05-11 21:47:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T210035">2023-05-12 21:00:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T213057">2023-05-12 21:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
