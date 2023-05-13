@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX set to launch Starlink Group 5-9 to low Earth orbit](https://www.nasaspaceflight.com/2023/05/starlink-group-5-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T201047">2023-05-13 20:10:47 UTC</a></sub>
 * [Virgin Orbit extends deadline for bankruptcy auction bids](https://spacenews.com/virgin-orbit-extends-deadline-for-bankruptcy-auction-bids/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T140613">2023-05-13 14:06:13 UTC</a></sub>
 * [Space Development Agency issues draft solicitation for 100 satellites](https://spacenews.com/space-development-agency-issues-draft-solicitation-for-100-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T221059">2023-05-12 22:10:59 UTC</a></sub>
 * [Media, Public Invited to Meet Solvers in NASA Space Food Challenge](http://www.nasa.gov/press-release/media-public-invited-to-meet-solvers-in-nasa-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T210300">2023-05-12 21:03:00 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [The Ariane 6 rocket will now debut no earlier than the spring of 2024](https://arstechnica.com/science/2023/05/the-ariane-6-rockets-debut-will-slip-into-2024-the-question-is-how-far/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T145342">2023-05-12 14:53:42 UTC</a></sub>
 * [NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting](http://www.nasa.gov/press-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T145300">2023-05-12 14:53:00 UTC</a></sub>
 * [Webb directly images young star’s asteroid belt; discovers two additional dusty disks](https://www.nasaspaceflight.com/2023/05/webb-images-fomalhaut-disks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T141739">2023-05-12 14:17:39 UTC</a></sub>
-* [Op-ed | The dramatic influence of generative AI on the space industry](https://spacenews.com/op-ed-the-dramatic-influence-of-generative-ai-on-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T133331">2023-05-12 13:33:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T203036">2023-05-13 20:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T210044">2023-05-13 21:00:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
