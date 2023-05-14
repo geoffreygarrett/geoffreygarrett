@@ -107,8 +107,8 @@ Falcon 9 Block 5 | Starlink Group 6-3 at the
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T040000">2023-05-19 04:00:00 UTC</a>. Until
-then, this launch pad will have seen 179
-out of 885 launches in this
+then, this launch pad will have seen 180
+out of 886 launches in this
 region. The mission's status is currently To Be Confirmed
 (TBC) 🟨  which means:
 *awaiting official confirmation - current date is known with some certainty.* 
@@ -188,7 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX set to launch Starlink Group 5-9 to low Earth orbit](https://www.nasaspaceflight.com/2023/05/starlink-group-5-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T201047">2023-05-13 20:10:47 UTC</a></sub>
+* [SpaceX launches Starlink Group 5-9 to low Earth orbit](https://www.nasaspaceflight.com/2023/05/starlink-group-5-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T201047">2023-05-13 20:10:47 UTC</a></sub>
 * [Virgin Orbit extends deadline for bankruptcy auction bids](https://spacenews.com/virgin-orbit-extends-deadline-for-bankruptcy-auction-bids/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T140613">2023-05-13 14:06:13 UTC</a></sub>
 * [Space Development Agency issues draft solicitation for 100 satellites](https://spacenews.com/space-development-agency-issues-draft-solicitation-for-100-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T221059">2023-05-12 22:10:59 UTC</a></sub>
 * [Media, Public Invited to Meet Solvers in NASA Space Food Challenge](http://www.nasa.gov/press-release/media-public-invited-to-meet-solvers-in-nasa-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T210300">2023-05-12 21:03:00 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T053044">2023-05-14 05:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T060052">2023-05-14 06:00:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
