@@ -189,16 +189,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astroscale & Momentus Partner To Offer Hubble Reboost Concept](https://tlpnetwork.com/news/2023/05/astroscale-momentus-partner-to-offer-hubble-reboost-concept) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T172308">2023-05-15 17:23:08 UTC</a></sub>
+* [China Spaceplane Lands After Record 276 Days In Orbit](https://tlpnetwork.com/news/2023/05/china-spaceplane-lands-after-record-276-days-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T162659">2023-05-15 16:26:59 UTC</a></sub>
+* [The space industry needs COPUOS to rethink its approach to decision-making](https://spacenews.com/the-space-industry-needs-copuos-to-rethink-its-approach-to-decision-making/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T161343">2023-05-15 16:13:43 UTC</a></sub>
 * [Brightline First To Equip Trains With Starlink](https://tlpnetwork.com/news/2023/05/brightline-first-to-equip-trains-with-starlink) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T155319">2023-05-15 15:53:19 UTC</a></sub>
+* [SpaceX hires former NASA human spaceflight official Kathy Lueders to help with Starship](https://www.cnbc.com/2023/05/15/elon-musks-spacex-hires-former-nasa-official-kathy-lueders.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T150737">2023-05-15 15:07:37 UTC</a></sub>
 * [A private company has an audacious plan to rescue NASA’s last “Great Observatory”](https://arstechnica.com/science/2023/05/a-private-company-has-an-audacious-plan-to-rescue-nasas-last-great-observatory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T130113">2023-05-15 13:01:13 UTC</a></sub>
 * [NASA ends Lunar Flashlight mission because of thruster problems](https://spacenews.com/nasa-ends-lunar-flashlight-mission-because-of-thruster-problems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T113738">2023-05-15 11:37:38 UTC</a></sub>
 * [JUICE deploys radar antenna](https://spacenews.com/juice-deploys-radar-antenna/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T105147">2023-05-15 10:51:47 UTC</a></sub>
 * [Skylab at 50 – How the United States entered the space station era](https://www.nasaspaceflight.com/2023/05/skylab-at-50/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T171827">2023-05-14 17:18:27 UTC</a></sub>
 * [Astroscale and Momentus offer concept for reboosting Hubble](https://spacenews.com/astroscale-and-momentus-offer-concept-for-reboosting-hubble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T160122">2023-05-14 16:01:22 UTC</a></sub>
-* [SpaceX launches Starlink Group 5-9 to low Earth orbit](https://www.nasaspaceflight.com/2023/05/starlink-group-5-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T201047">2023-05-13 20:10:47 UTC</a></sub>
-* [Virgin Orbit extends deadline for bankruptcy auction bids](https://spacenews.com/virgin-orbit-extends-deadline-for-bankruptcy-auction-bids/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T140613">2023-05-13 14:06:13 UTC</a></sub>
-* [Space Development Agency issues draft solicitation for 100 satellites](https://spacenews.com/space-development-agency-issues-draft-solicitation-for-100-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T221059">2023-05-12 22:10:59 UTC</a></sub>
-* [Media, Public Invited to Meet Solvers in NASA Space Food Challenge](http://www.nasa.gov/press-release/media-public-invited-to-meet-solvers-in-nasa-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T210300">2023-05-12 21:03:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T160104">2023-05-15 16:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T173046">2023-05-15 17:30:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
