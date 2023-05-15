@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [JUICE deploys radar antenna](https://spacenews.com/juice-deploys-radar-antenna/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T105147">2023-05-15 10:51:47 UTC</a></sub>
 * [Skylab at 50 – How the United States entered the space station era](https://www.nasaspaceflight.com/2023/05/skylab-at-50/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T171827">2023-05-14 17:18:27 UTC</a></sub>
 * [Astroscale and Momentus offer concept for reboosting Hubble](https://spacenews.com/astroscale-and-momentus-offer-concept-for-reboosting-hubble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T160122">2023-05-14 16:01:22 UTC</a></sub>
 * [SpaceX launches Starlink Group 5-9 to low Earth orbit](https://www.nasaspaceflight.com/2023/05/starlink-group-5-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T201047">2023-05-13 20:10:47 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Vulcan conducting launch day dress rehearsal as the final Delta IV Heavy arrives at Cape Canaveral](https://www.nasaspaceflight.com/2023/05/vulcan-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T204527">2023-05-12 20:45:27 UTC</a></sub>
 * [Eutelsat eager for OneWeb uplift as broadcast sales plummet](https://spacenews.com/eutelsat-eager-for-oneweb-uplift-as-broadcast-sales-plummet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T192917">2023-05-12 19:29:17 UTC</a></sub>
 * [NASA Sets Coverage for Axiom Mission 2 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T164300">2023-05-12 16:43:00 UTC</a></sub>
-* [The Ariane 6 rocket will now debut no earlier than the spring of 2024](https://arstechnica.com/science/2023/05/the-ariane-6-rockets-debut-will-slip-into-2024-the-question-is-how-far/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T145342">2023-05-12 14:53:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T110100">2023-05-15 11:01:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T113040">2023-05-15 11:30:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
