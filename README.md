@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [JUICE Successfully Deploys Radar Antenna](https://tlpnetwork.com/news/2023/05/juice-successfully-deploys-radar-antenna) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T174656">2023-05-15 17:46:56 UTC</a></sub>
 * [Astroscale & Momentus Partner To Offer Hubble Reboost Concept](https://tlpnetwork.com/news/2023/05/astroscale-momentus-partner-to-offer-hubble-reboost-concept) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T172308">2023-05-15 17:23:08 UTC</a></sub>
 * [China Spaceplane Lands After Record 276 Days In Orbit](https://tlpnetwork.com/news/2023/05/china-spaceplane-lands-after-record-276-days-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T162659">2023-05-15 16:26:59 UTC</a></sub>
 * [The space industry needs COPUOS to rethink its approach to decision-making](https://spacenews.com/the-space-industry-needs-copuos-to-rethink-its-approach-to-decision-making/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T161343">2023-05-15 16:13:43 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA ends Lunar Flashlight mission because of thruster problems](https://spacenews.com/nasa-ends-lunar-flashlight-mission-because-of-thruster-problems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T113738">2023-05-15 11:37:38 UTC</a></sub>
 * [JUICE deploys radar antenna](https://spacenews.com/juice-deploys-radar-antenna/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T105147">2023-05-15 10:51:47 UTC</a></sub>
 * [Skylab at 50 – How the United States entered the space station era](https://www.nasaspaceflight.com/2023/05/skylab-at-50/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T171827">2023-05-14 17:18:27 UTC</a></sub>
-* [Astroscale and Momentus offer concept for reboosting Hubble](https://spacenews.com/astroscale-and-momentus-offer-concept-for-reboosting-hubble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T160122">2023-05-14 16:01:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T173046">2023-05-15 17:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T180053">2023-05-15 18:00:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
