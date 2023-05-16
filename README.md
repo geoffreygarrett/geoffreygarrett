@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Smithsonian Latino Museum Students to Hear from NASA Station Astronaut](http://www.nasa.gov/press-release/smithsonian-latino-museum-students-to-hear-from-nasa-station-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T161300">2023-05-16 16:13:00 UTC</a></sub>
 * [NASA to Select Second Lunar Lander Partner for Artemis Moon Mission](http://www.nasa.gov/press-release/nasa-to-select-second-lunar-lander-partner-for-artemis-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T153300">2023-05-16 15:33:00 UTC</a></sub>
 * [Enter outer space at your own risk?](https://spacenews.com/enter-outer-space-at-your-own-risk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T144230">2023-05-16 14:42:30 UTC</a></sub>
 * [China calls for space station commercial cargo proposals](https://spacenews.com/china-calls-for-space-station-commercial-cargo-proposals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T115606">2023-05-16 11:56:06 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Ariane 6’s first flight likely to slip into 2024](https://www.nasaspaceflight.com/2023/05/ariane-6-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T215708">2023-05-15 21:57:08 UTC</a></sub>
 * [Starlink nears production facility completion, poised to drive subscriber growth](https://www.teslarati.com/starlink-production-facility-completion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T214327">2023-05-15 21:43:27 UTC</a></sub>
 * [Space Force general: ‘No pushback’ from Congress on 2024 budget priorities](https://spacenews.com/space-force-general-no-pushback-from-congress-on-2024-budget-priorities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T202224">2023-05-15 20:22:24 UTC</a></sub>
-* [Italy awards $256 million contract for 2026 in-orbit servicing mission](https://spacenews.com/italy-awards-256-million-contract-for-2026-in-orbit-servicing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T200445">2023-05-15 20:04:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T160109">2023-05-16 16:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T163327">2023-05-16 16:33:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
