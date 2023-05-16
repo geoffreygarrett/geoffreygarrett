@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China calls for space station commercial cargo proposals](https://spacenews.com/china-calls-for-space-station-commercial-cargo-proposals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T115606">2023-05-16 11:56:06 UTC</a></sub>
 * [Astra, Momentus face cash crunch](https://spacenews.com/astra-momentus-face-cash-crunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T100918">2023-05-16 10:09:18 UTC</a></sub>
 * [SpaceX has narrow window for Ax-2 launch](https://spacenews.com/spacex-has-narrow-window-for-ax-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T090653">2023-05-16 09:06:53 UTC</a></sub>
 * [The End Of An Era: Arianespace Sets Date For Final Ariane 5](https://tlpnetwork.com/news/2023/05/date-set-for-va261) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T233646">2023-05-15 23:36:46 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Italy awards $256 million contract for 2026 in-orbit servicing mission](https://spacenews.com/italy-awards-256-million-contract-for-2026-in-orbit-servicing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T200445">2023-05-15 20:04:45 UTC</a></sub>
 * [Virgin Orbit Bankruptcy Auction Deadline Extended](https://tlpnetwork.com/news/2023/05/virgin-orbit-bankruptcy-auction-deadline-extended) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T183949">2023-05-15 18:39:49 UTC</a></sub>
 * [NASA’s Artemis II Moon Crew Available for Interviews in Washington](http://www.nasa.gov/press-release/nasa-s-artemis-ii-moon-crew-available-for-interviews-in-washington) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T183300">2023-05-15 18:33:00 UTC</a></sub>
-* [Zephalto To Offer Michelin Star Meal Experience At The Edge Of Space In 2024](https://tlpnetwork.com/news/2023/05/zephalto-to-offer-michelin-star-meal-experience-at-the-edge-of-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T182505">2023-05-15 18:25:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T120048">2023-05-16 12:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T124016">2023-05-16 12:40:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
