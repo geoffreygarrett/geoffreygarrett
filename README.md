@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra, Momentus face cash crunch](https://spacenews.com/astra-momentus-face-cash-crunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T100918">2023-05-16 10:09:18 UTC</a></sub>
 * [SpaceX has narrow window for Ax-2 launch](https://spacenews.com/spacex-has-narrow-window-for-ax-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T090653">2023-05-16 09:06:53 UTC</a></sub>
 * [The End Of An Era: Arianespace Sets Date For Final Ariane 5](https://tlpnetwork.com/news/2023/05/date-set-for-va261) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T233646">2023-05-15 23:36:46 UTC</a></sub>
 * [Ariane 6’s first flight likely to slip into 2024](https://www.nasaspaceflight.com/2023/05/ariane-6-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T215708">2023-05-15 21:57:08 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Virgin Orbit Bankruptcy Auction Deadline Extended](https://tlpnetwork.com/news/2023/05/virgin-orbit-bankruptcy-auction-deadline-extended) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T183949">2023-05-15 18:39:49 UTC</a></sub>
 * [NASA’s Artemis II Moon Crew Available for Interviews in Washington](http://www.nasa.gov/press-release/nasa-s-artemis-ii-moon-crew-available-for-interviews-in-washington) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T183300">2023-05-15 18:33:00 UTC</a></sub>
 * [Zephalto To Offer Michelin Star Meal Experience At The Edge Of Space In 2024](https://tlpnetwork.com/news/2023/05/zephalto-to-offer-michelin-star-meal-experience-at-the-edge-of-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T182505">2023-05-15 18:25:05 UTC</a></sub>
-* [NASA Ends Lunar Flashlight Mission Following Propulsion System Failure](https://tlpnetwork.com/news/2023/05/nasa-ends-lunar-flashlight-mission-following-propulsion-system-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T180036">2023-05-15 18:00:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T103104">2023-05-16 10:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T110051">2023-05-16 11:00:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
