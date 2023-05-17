@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Republican senators claim NASA being distracted by climate change and diversity initiatives](https://spacenews.com/republican-senators-claim-nasa-being-distracted-by-climate-change-and-diversity-initiatives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T101054">2023-05-17 10:10:54 UTC</a></sub>
 * [ULA preparing for Vulcan Centaur static fire](https://spacenews.com/ula-preparing-for-vulcan-centaur-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T091703">2023-05-17 09:17:03 UTC</a></sub>
 * [NASA looking forward to next Starship test, HLS integration](https://www.nasaspaceflight.com/2023/05/nasa-hls-integration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T022417">2023-05-17 02:24:17 UTC</a></sub>
 * [Political fight escalates over Space National Guard](https://spacenews.com/political-fight-escalates-over-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T211405">2023-05-16 21:14:05 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA to Select Second Lunar Lander Partner for Artemis Moon Mission](http://www.nasa.gov/press-release/nasa-to-select-second-lunar-lander-partner-for-artemis-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T153300">2023-05-16 15:33:00 UTC</a></sub>
 * [Enter outer space at your own risk?](https://spacenews.com/enter-outer-space-at-your-own-risk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T144230">2023-05-16 14:42:30 UTC</a></sub>
 * [China calls for space station commercial cargo proposals](https://spacenews.com/china-calls-for-space-station-commercial-cargo-proposals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T115606">2023-05-16 11:56:06 UTC</a></sub>
-* [Astra, Momentus face cash crunch](https://spacenews.com/astra-momentus-face-cash-crunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T100918">2023-05-16 10:09:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T103102">2023-05-17 10:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T110059">2023-05-17 11:00:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
