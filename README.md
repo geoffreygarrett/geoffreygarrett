@@ -188,6 +188,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force selects Parsons to develop ground system for missile-warning satellites](https://spacenews.com/space-force-selects-parsons-to-develop-ground-system-for-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T215044">2023-05-17 21:50:44 UTC</a></sub>
+* [Space Force official: Lack of communication with China increases risk of mishaps in orbit](https://spacenews.com/space-force-official-lack-of-communication-with-china-increases-risk-of-mishaps-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T210314">2023-05-17 21:03:14 UTC</a></sub>
 * [Starlink introduces yet another massive hardware discount](https://www.teslarati.com/starlink-spacex-discount-uk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T195326">2023-05-17 19:53:26 UTC</a></sub>
 * [Starlink reaches critical subscriber milestone in new segment](https://www.teslarati.com/starlink-reaches-subscriber-milestone-new-segment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T173323">2023-05-17 17:33:23 UTC</a></sub>
 * [Virgin Orbit receives $17 million bid for rocket-carrying aircraft in bankruptcy court](https://www.cnbc.com/2023/05/17/virgin-orbit-17-million-bankruptcy-bid-for-aircraft-from-stratolaunch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T170432">2023-05-17 17:04:32 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Republican senators claim NASA being distracted by climate change and diversity initiatives](https://spacenews.com/republican-senators-claim-nasa-being-distracted-by-climate-change-and-diversity-initiatives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T101054">2023-05-17 10:10:54 UTC</a></sub>
 * [ULA preparing for Vulcan Centaur static fire](https://spacenews.com/ula-preparing-for-vulcan-centaur-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T091703">2023-05-17 09:17:03 UTC</a></sub>
 * [NASA looking forward to next Starship test, HLS integration](https://www.nasaspaceflight.com/2023/05/nasa-hls-integration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T022417">2023-05-17 02:24:17 UTC</a></sub>
-* [Political fight escalates over Space National Guard](https://spacenews.com/political-fight-escalates-over-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T211405">2023-05-16 21:14:05 UTC</a></sub>
-* [NASA, Rocket Lab Announce Coverage for Second TROPICS Launch](http://www.nasa.gov/press-release/nasa-rocket-lab-announce-coverage-for-second-tropics-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T202300">2023-05-16 20:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T213038">2023-05-17 21:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T220055">2023-05-17 22:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
