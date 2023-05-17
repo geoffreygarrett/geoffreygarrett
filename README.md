@@ -189,6 +189,7 @@ region. The mission's status is currently To Be Confirmed
 
 <!-- spaceflight news starts -->
 * [NASA’s Artemis program may face a budget crunch as costs continue to rise](https://arstechnica.com/science/2023/05/nasa-leader-warns-agency-needs-more-funding-to-fly-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T132348">2023-05-17 13:23:48 UTC</a></sub>
+* [Virgin Galactic targets May 25 for first spaceflight since Richard Branson’s trip](https://www.cnbc.com/2023/05/17/virgin-galactic-targets-may-25-for-first-spaceflight-since-branson.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T132324">2023-05-17 13:23:24 UTC</a></sub>
 * [Republican senators claim NASA being distracted by climate change and diversity initiatives](https://spacenews.com/republican-senators-claim-nasa-being-distracted-by-climate-change-and-diversity-initiatives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T101054">2023-05-17 10:10:54 UTC</a></sub>
 * [ULA preparing for Vulcan Centaur static fire](https://spacenews.com/ula-preparing-for-vulcan-centaur-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T091703">2023-05-17 09:17:03 UTC</a></sub>
 * [NASA looking forward to next Starship test, HLS integration](https://www.nasaspaceflight.com/2023/05/nasa-hls-integration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T022417">2023-05-17 02:24:17 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Arqit launches sale of satellite division](https://spacenews.com/arqit-launches-sale-of-satellite-division/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T201310">2023-05-16 20:13:10 UTC</a></sub>
 * [Smithsonian Latino Museum Students to Hear from NASA Station Astronaut](http://www.nasa.gov/press-release/smithsonian-latino-museum-students-to-hear-from-nasa-station-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T161300">2023-05-16 16:13:00 UTC</a></sub>
 * [NASA to Select Second Lunar Lander Partner for Artemis Moon Mission](http://www.nasa.gov/press-release/nasa-to-select-second-lunar-lander-partner-for-artemis-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T153300">2023-05-16 15:33:00 UTC</a></sub>
-* [Enter outer space at your own risk?](https://spacenews.com/enter-outer-space-at-your-own-risk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T144230">2023-05-16 14:42:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T150047">2023-05-17 15:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T153059">2023-05-17 15:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
