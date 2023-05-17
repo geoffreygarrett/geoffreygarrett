@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink introduces yet another massive hardware discount](https://www.teslarati.com/starlink-spacex-discount-uk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T195326">2023-05-17 19:53:26 UTC</a></sub>
 * [Starlink reaches critical subscriber milestone in new segment](https://www.teslarati.com/starlink-reaches-subscriber-milestone-new-segment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T173323">2023-05-17 17:33:23 UTC</a></sub>
 * [Virgin Orbit receives $17 million bid for rocket-carrying aircraft in bankruptcy court](https://www.cnbc.com/2023/05/17/virgin-orbit-17-million-bankruptcy-bid-for-aircraft-from-stratolaunch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T170432">2023-05-17 17:04:32 UTC</a></sub>
 * [NASA’s Artemis program may face a budget crunch as costs continue to rise](https://arstechnica.com/science/2023/05/nasa-leader-warns-agency-needs-more-funding-to-fly-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T132348">2023-05-17 13:23:48 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA looking forward to next Starship test, HLS integration](https://www.nasaspaceflight.com/2023/05/nasa-hls-integration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T022417">2023-05-17 02:24:17 UTC</a></sub>
 * [Political fight escalates over Space National Guard](https://spacenews.com/political-fight-escalates-over-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T211405">2023-05-16 21:14:05 UTC</a></sub>
 * [NASA, Rocket Lab Announce Coverage for Second TROPICS Launch](http://www.nasa.gov/press-release/nasa-rocket-lab-announce-coverage-for-second-tropics-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T202300">2023-05-16 20:23:00 UTC</a></sub>
-* [Arqit launches sale of satellite division](https://spacenews.com/arqit-launches-sale-of-satellite-division/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T201310">2023-05-16 20:13:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T193043">2023-05-17 19:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T200059">2023-05-17 20:00:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
