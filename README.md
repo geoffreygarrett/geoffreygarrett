@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Is SpaceX’s Starlink growing satellite internet market share, or taking it?](https://www.cnbc.com/2023/05/18/investing-in-space-where-spacexs-starlink-is-growing-market-share.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T164029">2023-05-18 16:40:29 UTC</a></sub>
+* [Space Force delivers second U.S. payload to be hosted on Japanese satellite](https://spacenews.com/space-force-delivers-second-u-s-payload-to-be-hosted-on-japanese-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T160530">2023-05-18 16:05:30 UTC</a></sub>
 * [Zeno Power gets $30 million to build radioisotope-powered satellite for U.S. military](https://spacenews.com/zeno-power-gets-30-million-to-build-radioisotope-powered-satellite-for-u-s-military/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131100">2023-05-18 13:11:00 UTC</a></sub>
 * [Space cybersecurity firm SpiderOak gets new investors](https://spacenews.com/space-cybersecurity-firm-spideroak-gets-new-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131009">2023-05-18 13:10:09 UTC</a></sub>
 * [U.K. government won’t buy Virgin Orbit](https://spacenews.com/u-k-government-wont-buy-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T101339">2023-05-18 10:13:39 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force official: Lack of communication with China increases risk of mishaps in orbit](https://spacenews.com/space-force-official-lack-of-communication-with-china-increases-risk-of-mishaps-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T210314">2023-05-17 21:03:14 UTC</a></sub>
 * [Starlink introduces yet another massive hardware discount](https://www.teslarati.com/starlink-spacex-discount-uk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T195326">2023-05-17 19:53:26 UTC</a></sub>
 * [Starlink reaches critical subscriber milestone in new segment](https://www.teslarati.com/starlink-reaches-subscriber-milestone-new-segment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T173323">2023-05-17 17:33:23 UTC</a></sub>
-* [Virgin Orbit receives $17 million bid for rocket-carrying aircraft in bankruptcy court](https://www.cnbc.com/2023/05/17/virgin-orbit-17-million-bankruptcy-bid-for-aircraft-from-stratolaunch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T170432">2023-05-17 17:04:32 UTC</a></sub>
-* [NASA’s Artemis program may face a budget crunch as costs continue to rise](https://arstechnica.com/science/2023/05/nasa-leader-warns-agency-needs-more-funding-to-fly-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T132348">2023-05-17 13:23:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T160057">2023-05-18 16:00:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T170056">2023-05-18 17:00:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
