@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.K. government won’t buy Virgin Orbit](https://spacenews.com/u-k-government-wont-buy-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T101339">2023-05-18 10:13:39 UTC</a></sub>
 * [Amini gets initial funding for closing Africa’s environmental data gap](https://spacenews.com/amini-gets-initial-funding-for-closing-africas-environmental-data-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T050000">2023-05-18 05:00:00 UTC</a></sub>
 * [Space Force selects Parsons to develop ground system for missile-warning satellites](https://spacenews.com/space-force-selects-parsons-to-develop-ground-system-for-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T215044">2023-05-17 21:50:44 UTC</a></sub>
 * [Space Force official: Lack of communication with China increases risk of mishaps in orbit](https://spacenews.com/space-force-official-lack-of-communication-with-china-increases-risk-of-mishaps-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T210314">2023-05-17 21:03:14 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [NASA’s Artemis program may face a budget crunch as costs continue to rise](https://arstechnica.com/science/2023/05/nasa-leader-warns-agency-needs-more-funding-to-fly-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T132348">2023-05-17 13:23:48 UTC</a></sub>
 * [Virgin Galactic targets May 25 for first spaceflight since Richard Branson’s trip](https://www.cnbc.com/2023/05/17/virgin-galactic-targets-may-25-for-first-spaceflight-since-branson.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T132324">2023-05-17 13:23:24 UTC</a></sub>
 * [Republican senators claim NASA being distracted by climate change and diversity initiatives](https://spacenews.com/republican-senators-claim-nasa-being-distracted-by-climate-change-and-diversity-initiatives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T101054">2023-05-17 10:10:54 UTC</a></sub>
-* [ULA preparing for Vulcan Centaur static fire](https://spacenews.com/ula-preparing-for-vulcan-centaur-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T091703">2023-05-17 09:17:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T103039">2023-05-18 10:30:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T110104">2023-05-18 11:01:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
