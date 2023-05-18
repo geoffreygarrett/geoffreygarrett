@@ -106,12 +106,12 @@ Falcon 9 Block 5 | Starlink Group 6-3 at the
 <a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T040000">2023-05-19 04:00:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T044130">2023-05-19 04:41:30 UTC</a>. Until
 then, this launch pad will have seen 180
 out of 886 launches in this
-region. The mission's status is currently To Be Confirmed
-(TBC) 🟨  which means:
-*awaiting official confirmation - current date is known with some certainty.* 
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
   A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
@@ -134,11 +134,11 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 6-3</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T040000">2023-05-19 04:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230519T040000Z%2F20230519T082000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 6-3</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T044130">2023-05-19 04:41:30 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230519T044130Z%2F20230519T070900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Iridium-9 & OneWeb 19</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T130400">2023-05-19 13:04:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Iridium-9 &amp; OneWeb 19&location=Vandenberg SFB, CA, USA&dates=20230519T130400Z%2F20230519T141200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Axiom Space Mission 2</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T213700">2023-05-21 21:37:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 2&location=Kennedy Space Center, FL, USA&dates=20230521T213700Z%2F20230521T213700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-3</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T053000">2023-05-22 05:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Coming To A Storm Near You (TROPICS-3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230522T053000Z%2F20230522T064000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>BADR-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T032000">2023-05-24 03:20:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230524T032000Z%2F20230524T032000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>BADR-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T032500">2023-05-24 03:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230524T032500Z%2F20230524T032500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>NEXTSat-2 & SNIPE</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T085400">2023-05-24 08:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | NEXTSat-2 &amp; SNIPE&location=Naro Space Center, South Korea&dates=20230524T085400Z%2F20230524T095400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-23 (84P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T125606">2023-05-24 12:56:06 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-23 (84P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230524T125606Z%2F20230524T125606Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>VSS Unity 25</b> from Air launch to Suborbital flight. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T000000">2023-05-25 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | VSS Unity 25&location=Air launch to Suborbital flight&dates=20230525T000000Z%2F20230525T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T015404">2023-05-18 01:54:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T021454">2023-05-18 02:14:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
