@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force looks at options for relieving Cape Canaveral launch congestion](https://spacenews.com/space-force-looks-at-options-for-relieving-cape-canaveral-launch-congestion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T111445">2023-05-19 11:14:45 UTC</a></sub>
+* [Rocket Report: Canada places premium on a spaceport, Lueders heads to Starbase](https://arstechnica.com/space/2023/05/rocket-report-canada-places-premium-on-a-spaceport-lueders-heads-to-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T110030">2023-05-19 11:00:30 UTC</a></sub>
 * [PLD Space prepares for suborbital test launch](https://spacenews.com/pld-space-prepares-for-suborbital-test-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T232125">2023-05-18 23:21:25 UTC</a></sub>
 * [Starlink v2, Iridium, and OneWeb satellites set to fly same-day Falcon 9 missions](https://www.nasaspaceflight.com/2023/05/starlink-iridium-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T201816">2023-05-18 20:18:16 UTC</a></sub>
 * [NASA's Perseverance Rover Captures View of Mars' Belva Crater](https://mars.nasa.gov/news/9405/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T192300">2023-05-18 19:23:00 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Zeno Power gets $30 million to build radioisotope-powered satellite for U.S. military](https://spacenews.com/zeno-power-gets-30-million-to-build-radioisotope-powered-satellite-for-u-s-military/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131100">2023-05-18 13:11:00 UTC</a></sub>
 * [Space cybersecurity firm SpiderOak gets new investors](https://spacenews.com/space-cybersecurity-firm-spideroak-gets-new-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131009">2023-05-18 13:10:09 UTC</a></sub>
 * [U.K. government won’t buy Virgin Orbit](https://spacenews.com/u-k-government-wont-buy-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T101339">2023-05-18 10:13:39 UTC</a></sub>
-* [Amini gets initial funding for closing Africa’s environmental data gap](https://spacenews.com/amini-gets-initial-funding-for-closing-africas-environmental-data-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T050000">2023-05-18 05:00:00 UTC</a></sub>
-* [SpaceX plans to launch Falcon 9 from both the East and West coasts hours apart](https://www.teslarati.com/spacex-plans-launch-falcon-9-from-both-the-east-and-west-coasts-hours-apart/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T021326">2023-05-18 02:13:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -208,16 +208,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Hypersonic Missiles are Just Misunderstood](https://blog.ulalaunch.com/blog/hypersonic-missiles-are-just-misunderstood) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T115337">2023-05-17 11:53:37 UTC</a></sub>
 * [Why is Venus called Earth’s twin?](https://www.planetary.org/articles/why-is-venus-called-earths-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T143322">2023-05-16 14:33:22 UTC</a></sub>
 * [Hard-working spacecraft and even harder-working microbes](https://www.planetary.org/the-downlink/hard-working-spacecraft-and-even-harder-working-microbes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T143324">2023-05-12 14:33:24 UTC</a></sub>
 * [Why has SpaceX's Starship sparked an environmental controversy?](https://www.planetary.org/articles/why-has-spacexs-starship-sparked-an-environmental-controversy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T140324">2023-05-12 14:03:24 UTC</a></sub>
 * [How did Earth get its oxygen?](https://www.planetary.org/articles/how-did-earth-get-its-oxygen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T144324">2023-05-11 14:43:24 UTC</a></sub>
 * [Freelance Digital Advertising Specialist (Contract & Part-time)](https://www.planetary.org/careers/freelance-digital-advertising-specialist-contract-part-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T150323">2023-05-09 15:03:23 UTC</a></sub>
 * [Moonshadow, Moonshadow](https://www.planetary.org/the-downlink/moonshadow-moonshadow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T143330">2023-05-05 14:33:30 UTC</a></sub>
+* [Why is STEM Education a National Imperative and How Are We Wasting Our Precious Human Resource?](https://blog.ulalaunch.com/blog/why-is-stem-education-a-national-imperative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T115339">2023-05-05 11:53:39 UTC</a></sub>
 * [What happened with Psyche?](https://www.planetary.org/articles/what-happened-with-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T150326">2023-05-04 15:03:26 UTC</a></sub>
 * [Have a nice flight!](https://www.planetary.org/the-downlink/have-a-nice-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143012">2023-04-28 14:30:12 UTC</a></sub>
-* [The phases of the Moon explained](https://www.planetary.org/articles/the-phases-of-the-moon-explained) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T153006">2023-04-25 15:30:06 UTC</a></sub>
-* [Resilient Space: A Defense in Depth](https://blog.ulalaunch.com/blog/resilient-space-a-defense-in-depth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T145018">2023-04-25 14:50:18 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T113050">2023-05-19 11:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T120106">2023-05-19 12:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
