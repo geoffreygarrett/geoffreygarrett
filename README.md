@@ -106,7 +106,7 @@ Falcon 9 Block 5 | Iridium-9 & OneWeb 19 at the
 <a href="">Space Launch Complex 4E</a> in
 Vandenberg SFB, CA, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T131500">2023-05-20 13:15:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T131600">2023-05-20 13:16:00 UTC</a>. Until
 then, this launch pad will have seen 109
 out of 718 launches in this
 region. The mission's status is currently Go for Launch
@@ -134,7 +134,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Iridium-9 & OneWeb 19</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T131500">2023-05-20 13:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Iridium-9 &amp; OneWeb 19&location=Vandenberg SFB, CA, USA&dates=20230520T131500Z%2F20230520T131500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Iridium-9 & OneWeb 19</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T131600">2023-05-20 13:16:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Iridium-9 &amp; OneWeb 19&location=Vandenberg SFB, CA, USA&dates=20230520T131600Z%2F20230520T131600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Axiom Space Mission 2</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T213700">2023-05-21 21:37:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 2&location=Kennedy Space Center, FL, USA&dates=20230521T213700Z%2F20230521T213700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-3</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T053000">2023-05-22 05:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Coming To A Storm Near You (TROPICS-3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230522T053000Z%2F20230522T064000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>BADR-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T032500">2023-05-24 03:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230524T032500Z%2F20230524T032500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Extends Nancy Grace Roman Space Telescope Science Operations](http://www.nasa.gov/press-release/nasa-extends-nancy-grace-roman-space-telescope-science-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T202300">2023-05-19 20:23:00 UTC</a></sub>
+* [Technical strengths and lower cost led NASA to select Blue Origin lander](https://spacenews.com/technical-strengths-and-lower-cost-led-nasa-to-select-blue-origin-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T200127">2023-05-19 20:01:27 UTC</a></sub>
 * [HASC chairman questions ‘continued delays’ in settling dispute over Space Command’s location](https://spacenews.com/hasc-chairman-questions-continued-delays-in-settling-dispute-over-space-commands-location/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T192001">2023-05-19 19:20:01 UTC</a></sub>
 * [SpaceX launches 22 V2 mini Starlink satellites](https://www.teslarati.com/spacex-launches-22-v2-mini-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T184328">2023-05-19 18:43:28 UTC</a></sub>
 * [NASA Selects Winners, Announces Final Phase of Space Food Challenge](http://www.nasa.gov/press-release/nasa-selects-winners-announces-final-phase-of-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T172300">2023-05-19 17:23:00 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [FCC denies Dish Network 5G plan over Starlink interference concerns ](https://spacenews.com/fcc-denies-dish-network-5g-plan-over-starlink-interference-concerns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T153307">2023-05-19 15:33:07 UTC</a></sub>
 * [NASA Selects Blue Origin as Second Artemis Lunar Lander Provider](http://www.nasa.gov/press-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T150300">2023-05-19 15:03:00 UTC</a></sub>
 * [Bezos’ Blue Origin wins NASA astronaut moon lander contract to compete with SpaceX’s Starship](https://www.cnbc.com/2023/05/19/nasa-awards-blue-origin-sld-crew-lunar-lander-contract.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T144044">2023-05-19 14:40:44 UTC</a></sub>
-* [BREAKING! NASA Awards Blue Origin $3.4B Lunar Lander Contract](https://tlpnetwork.com/news/2023/05/nasa-selects-blue-origin-for-2nd-human-lunar-landing-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T142948">2023-05-19 14:29:48 UTC</a></sub>
-* [Inmarsat orders 3 smallsats to bolster L-band safety services](https://spacenews.com/inmarsat-orders-3-smallsats-to-bolster-l-band-safety-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T120000">2023-05-19 12:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T203036">2023-05-19 20:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T210049">2023-05-19 21:00:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
