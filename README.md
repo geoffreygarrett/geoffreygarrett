@@ -188,16 +188,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [BREAKING! NASA Selects Blue Origin For 2nd Human Lunar Landing System](https://tlpnetwork.com/news/2023/05/nasa-selects-blue-origin-for-2nd-human-lunar-landing-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T142948">2023-05-19 14:29:48 UTC</a></sub>
+* [FCC denies Dish Network 5G plan over Starlink interference concerns ](https://spacenews.com/fcc-denies-dish-network-5g-plan-over-starlink-interference-concerns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T153307">2023-05-19 15:33:07 UTC</a></sub>
+* [NASA Selects Blue Origin as Second Artemis Lunar Lander Provider](http://www.nasa.gov/press-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T150300">2023-05-19 15:03:00 UTC</a></sub>
+* [Bezos’ Blue Origin wins NASA astronaut moon lander contract to compete with SpaceX’s Starship](https://www.cnbc.com/2023/05/19/nasa-awards-blue-origin-sld-crew-lunar-lander-contract.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T144044">2023-05-19 14:40:44 UTC</a></sub>
+* [BREAKING! NASA Awards Blue Origin $3.4B Lunar Lander Contract](https://tlpnetwork.com/news/2023/05/nasa-selects-blue-origin-for-2nd-human-lunar-landing-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T142948">2023-05-19 14:29:48 UTC</a></sub>
 * [Inmarsat orders 3 smallsats to bolster L-band safety services](https://spacenews.com/inmarsat-orders-3-smallsats-to-bolster-l-band-safety-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T120000">2023-05-19 12:00:00 UTC</a></sub>
 * [Space Force looks at options for relieving Cape Canaveral launch congestion](https://spacenews.com/space-force-looks-at-options-for-relieving-cape-canaveral-launch-congestion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T111445">2023-05-19 11:14:45 UTC</a></sub>
 * [Rocket Report: Canada places premium on a spaceport, Lueders heads to Starbase](https://arstechnica.com/space/2023/05/rocket-report-canada-places-premium-on-a-spaceport-lueders-heads-to-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T110030">2023-05-19 11:00:30 UTC</a></sub>
 * [PLD Space prepares for suborbital test launch](https://spacenews.com/pld-space-prepares-for-suborbital-test-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T232125">2023-05-18 23:21:25 UTC</a></sub>
 * [Starlink v2, Iridium, and OneWeb satellites involved in Falcon 9 missions](https://www.nasaspaceflight.com/2023/05/starlink-iridium-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T201816">2023-05-18 20:18:16 UTC</a></sub>
 * [NASA's Perseverance Rover Captures View of Mars' Belva Crater](https://mars.nasa.gov/news/9405/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T192300">2023-05-18 19:23:00 UTC</a></sub>
-* [Investing in Space: Is SpaceX’s Starlink growing satellite internet market share, or taking it?](https://www.cnbc.com/2023/05/18/investing-in-space-where-spacexs-starlink-is-growing-market-share.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T164029">2023-05-18 16:40:29 UTC</a></sub>
-* [Space Force delivers second U.S. payload to be hosted on Japanese satellite](https://spacenews.com/space-force-delivers-second-u-s-payload-to-be-hosted-on-japanese-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T160530">2023-05-18 16:05:30 UTC</a></sub>
-* [Zeno Power gets $30 million to build radioisotope-powered satellite for U.S. military](https://spacenews.com/zeno-power-gets-30-million-to-build-radioisotope-powered-satellite-for-u-s-military/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131100">2023-05-18 13:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T153038">2023-05-19 15:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T160043">2023-05-19 16:00:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
