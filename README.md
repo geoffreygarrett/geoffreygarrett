@@ -198,7 +198,7 @@ region. The mission's status is currently Go for Launch
 * [Space cybersecurity firm SpiderOak gets new investors](https://spacenews.com/space-cybersecurity-firm-spideroak-gets-new-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131009">2023-05-18 13:10:09 UTC</a></sub>
 * [U.K. government won’t buy Virgin Orbit](https://spacenews.com/u-k-government-wont-buy-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T101339">2023-05-18 10:13:39 UTC</a></sub>
 * [Amini gets initial funding for closing Africa’s environmental data gap](https://spacenews.com/amini-gets-initial-funding-for-closing-africas-environmental-data-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T050000">2023-05-18 05:00:00 UTC</a></sub>
-* [Space Force selects Parsons to develop ground system for missile-warning satellites](https://spacenews.com/space-force-selects-parsons-to-develop-ground-system-for-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T215044">2023-05-17 21:50:44 UTC</a></sub>
+* [SpaceX plans to launch Falcon 9 from both the East and West coasts hours apart](https://www.teslarati.com/spacex-plans-launch-falcon-9-from-both-the-east-and-west-coasts-hours-apart/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T021326">2023-05-18 02:13:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T015437">2023-05-19 01:54:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T021500">2023-05-19 02:15:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
