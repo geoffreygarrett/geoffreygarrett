@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Selects Winners, Announces Final Phase of Space Food Challenge](http://www.nasa.gov/press-release/nasa-selects-winners-announces-final-phase-of-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T172300">2023-05-19 17:23:00 UTC</a></sub>
+* [Once again, NASA leans into the future by picking an innovative lunar lander](https://arstechnica.com/space/2023/05/blue-origin-wins-pivotal-nasa-contract-to-develop-a-second-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T165920">2023-05-19 16:59:20 UTC</a></sub>
 * [NASA selects Blue Origin to develop second Artemis lunar lander](https://spacenews.com/nasa-selects-blue-origin-to-develop-second-artemis-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T161740">2023-05-19 16:17:40 UTC</a></sub>
 * [FCC denies Dish Network 5G plan over Starlink interference concerns ](https://spacenews.com/fcc-denies-dish-network-5g-plan-over-starlink-interference-concerns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T153307">2023-05-19 15:33:07 UTC</a></sub>
 * [NASA Selects Blue Origin as Second Artemis Lunar Lander Provider](http://www.nasa.gov/press-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T150300">2023-05-19 15:03:00 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Inmarsat orders 3 smallsats to bolster L-band safety services](https://spacenews.com/inmarsat-orders-3-smallsats-to-bolster-l-band-safety-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T120000">2023-05-19 12:00:00 UTC</a></sub>
 * [Space Force looks at options for relieving Cape Canaveral launch congestion](https://spacenews.com/space-force-looks-at-options-for-relieving-cape-canaveral-launch-congestion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T111445">2023-05-19 11:14:45 UTC</a></sub>
 * [Rocket Report: Canada places premium on a spaceport, Lueders heads to Starbase](https://arstechnica.com/space/2023/05/rocket-report-canada-places-premium-on-a-spaceport-lueders-heads-to-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T110030">2023-05-19 11:00:30 UTC</a></sub>
-* [PLD Space prepares for suborbital test launch](https://spacenews.com/pld-space-prepares-for-suborbital-test-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T232125">2023-05-18 23:21:25 UTC</a></sub>
-* [Starlink v2, Iridium, and OneWeb satellites involved in Falcon 9 missions](https://www.nasaspaceflight.com/2023/05/starlink-iridium-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T201816">2023-05-18 20:18:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T173051">2023-05-19 17:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T180051">2023-05-19 18:00:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
