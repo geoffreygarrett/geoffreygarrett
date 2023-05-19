@@ -102,26 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Falcon 9 Block 5 | Axiom Space Mission 2 at the
-<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a> in
-Kennedy Space Center, FL, USA
+Falcon 9 Block 5 | Iridium-9 & OneWeb 19 at the
+<a href="">Space Launch Complex 4E</a> in
+Vandenberg SFB, CA, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T213700">2023-05-21 21:37:00 UTC</a>. Until
-then, this launch pad will have seen 160
-out of 218 launches in this
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T131500">2023-05-20 13:15:00 UTC</a>. Until
+then, this launch pad will have seen 109
+out of 718 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  This is a Crew Dragon flight for a private company Axiom Space. The mission will carry a professionally trained commander alongside three private astronauts to and from the International Space Station. This crew will stay aboard space station for  at least eight days.
+  5 spare satellites for the Iridium NEXT constellation and 16 satellites for the OneWeb constellation (15 of current generation and 1 demonstration satellite for the next generation) on a share-ride.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,6 +134,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Iridium-9 & OneWeb 19</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T131500">2023-05-20 13:15:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Iridium-9 &amp; OneWeb 19&location=Vandenberg SFB, CA, USA&dates=20230520T131500Z%2F20230520T131500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Axiom Space Mission 2</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T213700">2023-05-21 21:37:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 2&location=Kennedy Space Center, FL, USA&dates=20230521T213700Z%2F20230521T213700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-3</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T053000">2023-05-22 05:30:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Coming To A Storm Near You (TROPICS-3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230522T053000Z%2F20230522T064000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>BADR-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T032500">2023-05-24 03:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230524T032500Z%2F20230524T032500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -187,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! NASA Selects Blue Origin For 2nd Human Lunar Landing System](https://tlpnetwork.com/news/2023/05/nasa-selects-blue-origin-for-2nd-human-lunar-landing-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T142948">2023-05-19 14:29:48 UTC</a></sub>
 * [Inmarsat orders 3 smallsats to bolster L-band safety services](https://spacenews.com/inmarsat-orders-3-smallsats-to-bolster-l-band-safety-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T120000">2023-05-19 12:00:00 UTC</a></sub>
 * [Space Force looks at options for relieving Cape Canaveral launch congestion](https://spacenews.com/space-force-looks-at-options-for-relieving-cape-canaveral-launch-congestion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T111445">2023-05-19 11:14:45 UTC</a></sub>
 * [Rocket Report: Canada places premium on a spaceport, Lueders heads to Starbase](https://arstechnica.com/space/2023/05/rocket-report-canada-places-premium-on-a-spaceport-lueders-heads-to-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T110030">2023-05-19 11:00:30 UTC</a></sub>
@@ -196,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Investing in Space: Is SpaceX’s Starlink growing satellite internet market share, or taking it?](https://www.cnbc.com/2023/05/18/investing-in-space-where-spacexs-starlink-is-growing-market-share.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T164029">2023-05-18 16:40:29 UTC</a></sub>
 * [Space Force delivers second U.S. payload to be hosted on Japanese satellite](https://spacenews.com/space-force-delivers-second-u-s-payload-to-be-hosted-on-japanese-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T160530">2023-05-18 16:05:30 UTC</a></sub>
 * [Zeno Power gets $30 million to build radioisotope-powered satellite for U.S. military](https://spacenews.com/zeno-power-gets-30-million-to-build-radioisotope-powered-satellite-for-u-s-military/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131100">2023-05-18 13:11:00 UTC</a></sub>
-* [Space cybersecurity firm SpiderOak gets new investors](https://spacenews.com/space-cybersecurity-firm-spideroak-gets-new-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131009">2023-05-18 13:10:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -207,6 +208,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Moon-spying missions and a planetary evil twin](https://www.planetary.org/the-downlink/moon-spying-missions-and-a-planetary-evil-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T143420">2023-05-19 14:34:20 UTC</a></sub>
 * [Hypersonic Missiles are Just Misunderstood](https://blog.ulalaunch.com/blog/hypersonic-missiles-are-just-misunderstood) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T115337">2023-05-17 11:53:37 UTC</a></sub>
 * [Why is Venus called Earth’s twin?](https://www.planetary.org/articles/why-is-venus-called-earths-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T143322">2023-05-16 14:33:22 UTC</a></sub>
 * [Hard-working spacecraft and even harder-working microbes](https://www.planetary.org/the-downlink/hard-working-spacecraft-and-even-harder-working-microbes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T143324">2023-05-12 14:33:24 UTC</a></sub>
@@ -216,7 +218,6 @@ region. The mission's status is currently Go for Launch
 * [Moonshadow, Moonshadow](https://www.planetary.org/the-downlink/moonshadow-moonshadow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T143330">2023-05-05 14:33:30 UTC</a></sub>
 * [Why is STEM Education a National Imperative and How Are We Wasting Our Precious Human Resource?](https://blog.ulalaunch.com/blog/why-is-stem-education-a-national-imperative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T115339">2023-05-05 11:53:39 UTC</a></sub>
 * [What happened with Psyche?](https://www.planetary.org/articles/what-happened-with-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T150326">2023-05-04 15:03:26 UTC</a></sub>
-* [Have a nice flight!](https://www.planetary.org/the-downlink/have-a-nice-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143012">2023-04-28 14:30:12 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -229,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T143046">2023-05-19 14:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T150050">2023-05-19 15:00:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
