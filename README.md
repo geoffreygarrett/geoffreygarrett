@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [PLD Space prepares for suborbital test launch](https://spacenews.com/pld-space-prepares-for-suborbital-test-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T232125">2023-05-18 23:21:25 UTC</a></sub>
 * [Starlink v2, Iridium, and OneWeb satellites set to fly same-day Falcon 9 missions](https://www.nasaspaceflight.com/2023/05/starlink-iridium-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T201816">2023-05-18 20:18:16 UTC</a></sub>
 * [NASA's Perseverance Rover Captures View of Mars' Belva Crater](https://mars.nasa.gov/news/9405/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T192300">2023-05-18 19:23:00 UTC</a></sub>
 * [Investing in Space: Is SpaceX’s Starlink growing satellite internet market share, or taking it?](https://www.cnbc.com/2023/05/18/investing-in-space-where-spacexs-starlink-is-growing-market-share.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T164029">2023-05-18 16:40:29 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [U.K. government won’t buy Virgin Orbit](https://spacenews.com/u-k-government-wont-buy-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T101339">2023-05-18 10:13:39 UTC</a></sub>
 * [Amini gets initial funding for closing Africa’s environmental data gap](https://spacenews.com/amini-gets-initial-funding-for-closing-africas-environmental-data-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T050000">2023-05-18 05:00:00 UTC</a></sub>
 * [Space Force selects Parsons to develop ground system for missile-warning satellites](https://spacenews.com/space-force-selects-parsons-to-develop-ground-system-for-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T215044">2023-05-17 21:50:44 UTC</a></sub>
-* [Space Force official: Lack of communication with China increases risk of mishaps in orbit](https://spacenews.com/space-force-official-lack-of-communication-with-china-increases-risk-of-mishaps-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T210314">2023-05-17 21:03:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T233039">2023-05-18 23:30:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T000145">2023-05-19 00:01:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
