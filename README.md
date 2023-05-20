@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Perseverance finds Mars river could have been ‘wilder,’ Mars Express takes new volcano images](https://www.nasaspaceflight.com/2023/05/perseverance-mars-express-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T181000">2023-05-20 18:10:00 UTC</a></sub>
 * [SpaceX launches OneWeb Gen 2 technology demonstrator](https://spacenews.com/spacex-launches-oneweb-gen-2-technology-demonstrator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T151237">2023-05-20 15:12:37 UTC</a></sub>
 * [NASA selects Blue Origin to land Astronauts on the Moon](https://www.teslarati.com/nasa-selects-blue-origin-to-land-astronauts-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T233324">2023-05-19 23:33:24 UTC</a></sub>
 * [This Week In Spaceflight: SpaceX’s Raptor breaks records, NASA announces second Artemis Lander](https://www.nasaspaceflight.com/2023/05/twis2023-05-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T210224">2023-05-19 21:02:24 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX launches 22 V2 mini Starlink satellites](https://www.teslarati.com/spacex-launches-22-v2-mini-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T184328">2023-05-19 18:43:28 UTC</a></sub>
 * [NASA Selects Winners, Announces Final Phase of Space Food Challenge](http://www.nasa.gov/press-release/nasa-selects-winners-announces-final-phase-of-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T172300">2023-05-19 17:23:00 UTC</a></sub>
 * [Once again, NASA leans into the future by picking an innovative lunar lander](https://arstechnica.com/space/2023/05/blue-origin-wins-pivotal-nasa-contract-to-develop-a-second-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T165920">2023-05-19 16:59:20 UTC</a></sub>
-* [NASA selects Blue Origin to develop second Artemis lunar lander](https://spacenews.com/nasa-selects-blue-origin-to-develop-second-artemis-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T161740">2023-05-19 16:17:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T183040">2023-05-20 18:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T190046">2023-05-20 19:00:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
