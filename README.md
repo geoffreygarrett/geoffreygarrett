@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA selects Blue Origin to land Astronauts on the Moon](https://www.teslarati.com/nasa-selects-blue-origin-to-land-astronauts-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T233324">2023-05-19 23:33:24 UTC</a></sub>
 * [This Week In Spaceflight: SpaceX’s Raptor breaks records, NASA announces second Artemis Lander](https://www.nasaspaceflight.com/2023/05/twis2023-05-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T210224">2023-05-19 21:02:24 UTC</a></sub>
 * [NASA Extends Nancy Grace Roman Space Telescope Science Operations](http://www.nasa.gov/press-release/nasa-extends-nancy-grace-roman-space-telescope-science-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T202300">2023-05-19 20:23:00 UTC</a></sub>
 * [Technical strengths and lower cost led NASA to select Blue Origin lander](https://spacenews.com/technical-strengths-and-lower-cost-led-nasa-to-select-blue-origin-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T200127">2023-05-19 20:01:27 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Once again, NASA leans into the future by picking an innovative lunar lander](https://arstechnica.com/space/2023/05/blue-origin-wins-pivotal-nasa-contract-to-develop-a-second-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T165920">2023-05-19 16:59:20 UTC</a></sub>
 * [NASA selects Blue Origin to develop second Artemis lunar lander](https://spacenews.com/nasa-selects-blue-origin-to-develop-second-artemis-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T161740">2023-05-19 16:17:40 UTC</a></sub>
 * [FCC denies Dish Network 5G plan over Starlink interference concerns ](https://spacenews.com/fcc-denies-dish-network-5g-plan-over-starlink-interference-concerns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T153307">2023-05-19 15:33:07 UTC</a></sub>
-* [NASA Selects Blue Origin as Second Artemis Lunar Lander Provider](http://www.nasa.gov/press-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T150300">2023-05-19 15:03:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T233110">2023-05-19 23:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T000125">2023-05-20 00:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
