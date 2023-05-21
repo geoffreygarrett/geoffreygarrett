@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Umbra and Ursa to collaborate on radar imaging data products](https://spacenews.com/umbra-and-ursa-to-collaborate-on-radar-imaging-data-products/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T180732">2023-05-21 18:07:32 UTC</a></sub>
 * [SpaceX to launch Axiom-2, carrying four astronauts to the ISS](https://www.nasaspaceflight.com/2023/05/axiom-2-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T125958">2023-05-21 12:59:58 UTC</a></sub>
 * [Agencies studying safety issues of LOX/methane launch vehicles](https://spacenews.com/agencies-studying-safety-issues-of-lox-methane-launch-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T225628">2023-05-20 22:56:28 UTC</a></sub>
 * [Perseverance finds Mars river could have been ‘wilder,’ Mars Express takes new volcano images](https://www.nasaspaceflight.com/2023/05/perseverance-mars-express-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T181000">2023-05-20 18:10:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Extends Nancy Grace Roman Space Telescope Science Operations](http://www.nasa.gov/press-release/nasa-extends-nancy-grace-roman-space-telescope-science-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T202300">2023-05-19 20:23:00 UTC</a></sub>
 * [Technical strengths and lower cost led NASA to select Blue Origin lander](https://spacenews.com/technical-strengths-and-lower-cost-led-nasa-to-select-blue-origin-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T200127">2023-05-19 20:01:27 UTC</a></sub>
 * [HASC chairman questions ‘continued delays’ in settling dispute over Space Command’s location](https://spacenews.com/hasc-chairman-questions-continued-delays-in-settling-dispute-over-space-commands-location/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T192001">2023-05-19 19:20:01 UTC</a></sub>
-* [SpaceX launches 22 V2 mini Starlink satellites](https://www.teslarati.com/spacex-launches-22-v2-mini-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T184328">2023-05-19 18:43:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T180037">2023-05-21 18:00:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T183047">2023-05-21 18:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
