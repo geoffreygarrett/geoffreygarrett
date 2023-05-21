@@ -142,6 +142,7 @@ region. The mission's status is currently Go for Launch
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>VSS Unity 25</b> from Air launch to Suborbital flight. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T000000">2023-05-25 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | VSS Unity 25&location=Air launch to Suborbital flight&dates=20230525T000000Z%2F20230525T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Kondor-FKA No.1</b> from Vostochny Cosmodrome, Siberia, Russian Federation. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T211400">2023-05-26 21:14:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Kondor-FKA No.1&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230526T211400Z%2F20230526T211400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> <b>IRNSS-1J (NVS-01)</b> from Satish Dhawan Space Centre, India. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T034500">2023-05-29 03:45:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1J (NVS-01)&location=Satish Dhawan Space Centre, India&dates=20230529T034500Z%2F20230529T074500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>Shenzhou 16</b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T000000">2023-05-31 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 16&location=Jiuquan, People&#x27;s Republic of China&dates=20230531T000000Z%2F20230531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -187,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch Axiom-2, carrying four astronauts to the ISS](https://www.nasaspaceflight.com/2023/05/axiom-2-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T125958">2023-05-21 12:59:58 UTC</a></sub>
 * [Agencies studying safety issues of LOX/methane launch vehicles](https://spacenews.com/agencies-studying-safety-issues-of-lox-methane-launch-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T225628">2023-05-20 22:56:28 UTC</a></sub>
 * [Perseverance finds Mars river could have been ‘wilder,’ Mars Express takes new volcano images](https://www.nasaspaceflight.com/2023/05/perseverance-mars-express-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T181000">2023-05-20 18:10:00 UTC</a></sub>
 * [SpaceX launches OneWeb Gen 2 technology demonstrator](https://spacenews.com/spacex-launches-oneweb-gen-2-technology-demonstrator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T151237">2023-05-20 15:12:37 UTC</a></sub>
@@ -196,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Technical strengths and lower cost led NASA to select Blue Origin lander](https://spacenews.com/technical-strengths-and-lower-cost-led-nasa-to-select-blue-origin-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T200127">2023-05-19 20:01:27 UTC</a></sub>
 * [HASC chairman questions ‘continued delays’ in settling dispute over Space Command’s location](https://spacenews.com/hasc-chairman-questions-continued-delays-in-settling-dispute-over-space-commands-location/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T192001">2023-05-19 19:20:01 UTC</a></sub>
 * [SpaceX launches 22 V2 mini Starlink satellites](https://www.teslarati.com/spacex-launches-22-v2-mini-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T184328">2023-05-19 18:43:28 UTC</a></sub>
-* [NASA Selects Winners, Announces Final Phase of Space Food Challenge](http://www.nasa.gov/press-release/nasa-selects-winners-announces-final-phase-of-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T172300">2023-05-19 17:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T130113">2023-05-21 13:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T133039">2023-05-21 13:30:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
