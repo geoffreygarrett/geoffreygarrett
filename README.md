@@ -195,8 +195,8 @@ region. The mission's status is currently To Be Confirmed
 * [Planet seeks partners that can extract more value from data](https://spacenews.com/planet-seeks-partners-that-can-extract-more-value-from-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T190206">2023-05-21 19:02:06 UTC</a></sub>
 * [Umbra and Ursa to collaborate on radar imaging data products](https://spacenews.com/umbra-and-ursa-to-collaborate-on-radar-imaging-data-products/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T180732">2023-05-21 18:07:32 UTC</a></sub>
 * [SpaceX launches Axiom-2, carrying four astronauts to the ISS](https://www.nasaspaceflight.com/2023/05/axiom-2-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T125958">2023-05-21 12:59:58 UTC</a></sub>
+* [The Axiom-2 mission heads to the International Space Station courtesy of SpaceX](https://www.teslarati.com/axiom-2-mission-heads-to-iss-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T015327">2023-05-21 01:53:27 UTC</a></sub>
 * [Agencies studying safety issues of LOX/methane launch vehicles](https://spacenews.com/agencies-studying-safety-issues-of-lox-methane-launch-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T225628">2023-05-20 22:56:28 UTC</a></sub>
-* [Perseverance finds Mars river could have been ‘wilder,’ Mars Express takes new volcano images](https://www.nasaspaceflight.com/2023/05/perseverance-mars-express-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T181000">2023-05-20 18:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T012810">2023-05-22 01:28:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T015901">2023-05-22 01:59:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
