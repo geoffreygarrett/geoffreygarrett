@@ -189,8 +189,8 @@ region. The mission's status is currently To Be Confirmed
 
 <!-- spaceflight news starts -->
 * [SpaceX launches tenth crewed mission, third fully commercial flight](https://arstechnica.com/space/2023/05/spacex-launches-tenth-crewed-mission-third-fully-commercial-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T121415">2023-05-22 12:14:15 UTC</a></sub>
-* [Defending Taiwan by countering China’s biggest threat ](https://spacenews.com/defending-taiwan-by-countering-chinas-biggest-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T120000">2023-05-22 12:00:00 UTC</a></sub>
 * [Impact Observatory unveils IO Monitor](https://spacenews.com/impact-observatory-unveils-io-monitor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T120000">2023-05-22 12:00:00 UTC</a></sub>
+* [Defending Taiwan by countering China’s biggest threat ](https://spacenews.com/defending-taiwan-by-countering-chinas-biggest-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T120000">2023-05-22 12:00:00 UTC</a></sub>
 * [China launches new science probes, SAR sat and replacement Beidou satellite](https://spacenews.com/china-launches-new-science-probes-sar-sat-and-replacement-beidou-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T115432">2023-05-22 11:54:32 UTC</a></sub>
 * [Space Force turns to metaverse to predict effects of spaceport congestion ](https://spacenews.com/space-force-turns-to-metaverse-to-predict-effects-of-spaceport-congestion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T113201">2023-05-22 11:32:01 UTC</a></sub>
 * [Axiom Space Private Astronauts Headed to International Space Station](http://www.nasa.gov/press-release/axiom-space-private-astronauts-headed-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T231300">2023-05-21 23:13:00 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T133048">2023-05-22 13:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T140056">2023-05-22 14:00:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
