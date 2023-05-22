@@ -188,6 +188,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches tenth crewed mission, third fully commercial flight](https://arstechnica.com/space/2023/05/spacex-launches-tenth-crewed-mission-third-fully-commercial-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T121415">2023-05-22 12:14:15 UTC</a></sub>
+* [China launches new science probes, SAR sat and replacement Beidou satellite](https://spacenews.com/china-launches-new-science-probes-sar-sat-and-replacement-beidou-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T115432">2023-05-22 11:54:32 UTC</a></sub>
 * [Space Force turns to metaverse to predict effects of spaceport congestion ](https://spacenews.com/space-force-turns-to-metaverse-to-predict-effects-of-spaceport-congestion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T113201">2023-05-22 11:32:01 UTC</a></sub>
 * [Axiom Space Private Astronauts Headed to International Space Station](http://www.nasa.gov/press-release/axiom-space-private-astronauts-headed-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T231300">2023-05-21 23:13:00 UTC</a></sub>
 * [SpaceX launches second Axiom Space private astronaut mission to ISS](https://spacenews.com/spacex-launches-second-axiom-space-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T220202">2023-05-21 22:02:02 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Iceye to supply UAE SAR satellites](https://spacenews.com/iceye-to-develop-sar-constellation-for-uae/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T192530">2023-05-21 19:25:30 UTC</a></sub>
 * [Planet seeks partners that can extract more value from data](https://spacenews.com/planet-seeks-partners-that-can-extract-more-value-from-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T190206">2023-05-21 19:02:06 UTC</a></sub>
 * [Umbra and Ursa to collaborate on radar imaging data products](https://spacenews.com/umbra-and-ursa-to-collaborate-on-radar-imaging-data-products/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T180732">2023-05-21 18:07:32 UTC</a></sub>
-* [SpaceX launches Axiom-2, carrying four astronauts to the ISS](https://www.nasaspaceflight.com/2023/05/axiom-2-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T125958">2023-05-21 12:59:58 UTC</a></sub>
-* [The Axiom-2 mission heads to the International Space Station courtesy of SpaceX](https://www.teslarati.com/axiom-2-mission-heads-to-iss-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T015327">2023-05-21 01:53:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T120104">2023-05-22 12:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T123839">2023-05-22 12:38:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
