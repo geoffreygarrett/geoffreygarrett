@@ -106,12 +106,12 @@ Falcon 9 Block 5 | BADR-8 at the
 <a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
 Cape Canaveral, FL, USA
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T032000">2023-05-24 03:20:00 UTC</a>. Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T032500">2023-05-24 03:25:00 UTC</a>. Until
 then, this launch pad will have seen 181
 out of 887 launches in this
-region. The mission's status is currently To Be Confirmed
-(TBC) 🟨  which means:
-*awaiting official confirmation - current date is known with some certainty.* 
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
   Geostationary communications satellite built by Airbus Defense and Space and based on the Eurostar Neo platform for Arabsat.
@@ -134,7 +134,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>BADR-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T032000">2023-05-24 03:20:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230524T032000Z%2F20230524T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>BADR-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T032500">2023-05-24 03:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230524T032500Z%2F20230524T053200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>NEXTSat-2 & SNIPE</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T085400">2023-05-24 08:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | NEXTSat-2 &amp; SNIPE&location=Naro Space Center, South Korea&dates=20230524T085400Z%2F20230524T095400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-23 (84P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T125606">2023-05-24 12:56:06 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-23 (84P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230524T125606Z%2F20230524T125606Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-3</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T040000">2023-05-25 04:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Coming To A Storm Near You (TROPICS-3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230525T040000Z%2F20230525T051000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Mission to Study Ice Clouds, Help Observe Our Dynamic Atmosphere](http://www.nasa.gov/press-release/nasa-mission-to-study-ice-clouds-help-observe-our-dynamic-atmosphere) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T202300">2023-05-22 20:23:00 UTC</a></sub>
 * [OneWeb announces Innovation Challenge Winners](https://spacenews.com/oneweb-announces-innovation-challenge-winners/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T165642">2023-05-22 16:56:42 UTC</a></sub>
 * [Exploration Upper Stage Unveiled: Revolutionary Leap in Crew Safety, Cargo Capacity, and Deep Space Power](https://spacenews.com/exploration-upper-stage-unveiled-revolutionary-leap-in-crew-safety-cargo-capacity-and-deep-space-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T161500">2023-05-22 16:15:00 UTC</a></sub>
 * [DARPA selects Umbra to demonstrate radar imaging techniques](https://spacenews.com/darpa-selects-umbra-to-demonstrate-radar-imaging-techniques/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T153719">2023-05-22 15:37:19 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Impact Observatory unveils IO Monitor](https://spacenews.com/impact-observatory-unveils-io-monitor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T120000">2023-05-22 12:00:00 UTC</a></sub>
 * [Defending Taiwan by countering China’s biggest threat ](https://spacenews.com/defending-taiwan-by-countering-chinas-biggest-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T120000">2023-05-22 12:00:00 UTC</a></sub>
 * [China launches new science probes, SAR sat and replacement Beidou satellite](https://spacenews.com/china-launches-new-science-probes-sar-sat-and-replacement-beidou-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T115432">2023-05-22 11:54:32 UTC</a></sub>
-* [Space Force turns to metaverse to predict effects of spaceport congestion ](https://spacenews.com/space-force-turns-to-metaverse-to-predict-effects-of-spaceport-congestion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T113201">2023-05-22 11:32:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T203036">2023-05-22 20:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T210108">2023-05-22 21:01:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
