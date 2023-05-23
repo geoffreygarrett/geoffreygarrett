@@ -189,16 +189,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arabsat 7B to be SLC-40’s quickest turnaround](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200506">2023-05-23 20:05:06 UTC</a></sub>
+* [NGA plans new procurement of commercial Earth monitoring services](https://spacenews.com/nga-plans-new-procurement-of-commercial-earth-monitoring-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200230">2023-05-23 20:02:30 UTC</a></sub>
 * [Three companies to buy most Virgin Orbit assets](https://spacenews.com/three-companies-to-buy-most-virgin-orbit-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T195414">2023-05-23 19:54:14 UTC</a></sub>
 * [BREAKING! Virgin Orbit Sells Assets To RocketLab, Stratolaunch and Vast Launcher](https://tlpnetwork.com/news/2023/05/virgin-orbit-sells-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T183900">2023-05-23 18:39:00 UTC</a></sub>
-* [Virgin Orbit sells assets in bankruptcy auction to Rocket Lab, Stratolaunch and Vast’s Launcher](https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T182046">2023-05-23 18:20:46 UTC</a></sub>
+* [Virgin Orbit shuts down after bankruptcy sale to Rocket Lab, Stratolaunch and Vast’s Launcher](https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T182046">2023-05-23 18:20:46 UTC</a></sub>
 * [NRO seeks closer ties with industry](https://spacenews.com/nro-seeks-closer-ties-with-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T180643">2023-05-23 18:06:43 UTC</a></sub>
 * [Air Force Research Lab to fund development of Ursa Major’s rocket engines](https://spacenews.com/air-force-research-lab-to-fund-development-of-ursa-majors-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T165116">2023-05-23 16:51:16 UTC</a></sub>
 * [The Spaceport Company Performs First Demo of Offshore Launch Ops](https://tlpnetwork.com/news/2023/05/the-spaceport-company-performs-first-demo-of-offshore-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T163000">2023-05-23 16:30:00 UTC</a></sub>
 * [Astrobotic To Provide Blue Moon Lander Cargo Systems](https://tlpnetwork.com/news/2023/05/astrobotic-to-provide-blue-moon-lander-cargo-systems) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T132800">2023-05-23 13:28:00 UTC</a></sub>
 * [The Spaceport Company demonstrates offshore launch operations](https://spacenews.com/the-spaceport-company-demonstrates-offshore-launch-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T111503">2023-05-23 11:15:03 UTC</a></sub>
-* [Orbital Sidekick acquires first light imagery](https://spacenews.com/orbital-sidekick-acquires-first-light-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T031142">2023-05-23 03:11:42 UTC</a></sub>
-* [L3Harris wins IARPA HAYSTAC contract](https://spacenews.com/l3harris-wins-iarpa-haystac-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T015955">2023-05-23 01:59:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T203039">2023-05-23 20:30:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T210051">2023-05-23 21:00:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
