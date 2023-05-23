@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orbital Sidekick acquires first light imagery](https://spacenews.com/orbital-sidekick-acquires-first-light-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T031142">2023-05-23 03:11:42 UTC</a></sub>
 * [L3Harris wins IARPA HAYSTAC contract](https://spacenews.com/l3harris-wins-iarpa-haystac-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T015955">2023-05-23 01:59:55 UTC</a></sub>
 * [NGA to map lunar geography to enable GPS on the moon](https://spacenews.com/nga-to-map-lunar-geography-to-enable-gps-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T002305">2023-05-23 00:23:05 UTC</a></sub>
 * [NATO faces hurdles in acquiring commercial satellite imagery](https://spacenews.com/nato-faces-hurdles-in-acquiring-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T220952">2023-05-22 22:09:52 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [OneWeb announces Innovation Challenge Winners](https://spacenews.com/oneweb-announces-innovation-challenge-winners/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T165642">2023-05-22 16:56:42 UTC</a></sub>
 * [Exploration Upper Stage Unveiled: Revolutionary Leap in Crew Safety, Cargo Capacity, and Deep Space Power](https://spacenews.com/exploration-upper-stage-unveiled-revolutionary-leap-in-crew-safety-cargo-capacity-and-deep-space-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T161500">2023-05-22 16:15:00 UTC</a></sub>
 * [DARPA selects Umbra to demonstrate radar imaging techniques](https://spacenews.com/darpa-selects-umbra-to-demonstrate-radar-imaging-techniques/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T153719">2023-05-22 15:37:19 UTC</a></sub>
-* [SpaceX delivers private Axiom crew to the space station, carrying Saudi astronauts](https://www.cnbc.com/2023/05/22/spacex-axiom-ax-2-docks-with-space-station-carrying-saudi-astronauts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T143636">2023-05-22 14:36:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T033034">2023-05-23 03:30:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T040108">2023-05-23 04:01:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
