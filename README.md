@@ -193,7 +193,7 @@ region. The mission's status is currently Go for Launch
 * [NGA plans new procurement of commercial Earth monitoring services](https://spacenews.com/nga-plans-new-procurement-of-commercial-earth-monitoring-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200230">2023-05-23 20:02:30 UTC</a></sub>
 * [Three companies to buy most Virgin Orbit assets](https://spacenews.com/three-companies-to-buy-most-virgin-orbit-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T195414">2023-05-23 19:54:14 UTC</a></sub>
 * [BREAKING! Virgin Orbit Sells Assets To RocketLab, Stratolaunch and Vast Launcher](https://tlpnetwork.com/news/2023/05/virgin-orbit-sells-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T183900">2023-05-23 18:39:00 UTC</a></sub>
-* [Virgin Orbit shuts down after bankruptcy sale to Rocket Lab, Stratolaunch and Vast’s Launcher](https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T182046">2023-05-23 18:20:46 UTC</a></sub>
+* [Virgin Orbit shuts down after bankruptcy sales](https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T182046">2023-05-23 18:20:46 UTC</a></sub>
 * [NRO seeks closer ties with industry](https://spacenews.com/nro-seeks-closer-ties-with-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T180643">2023-05-23 18:06:43 UTC</a></sub>
 * [Air Force Research Lab to fund development of Ursa Major’s rocket engines](https://spacenews.com/air-force-research-lab-to-fund-development-of-ursa-majors-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T165116">2023-05-23 16:51:16 UTC</a></sub>
 * [The Spaceport Company Performs First Demo of Offshore Launch Ops](https://tlpnetwork.com/news/2023/05/the-spaceport-company-performs-first-demo-of-offshore-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T163000">2023-05-23 16:30:00 UTC</a></sub>
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T213044">2023-05-23 21:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T220043">2023-05-23 22:00:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
