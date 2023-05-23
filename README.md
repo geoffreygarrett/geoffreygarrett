@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! Virgin Orbit Sells Assets To RocketLab, Stratolaunch and Vast Launcher](https://tlpnetwork.com/news/2023/05/virgin-orbit-sells-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T183900">2023-05-23 18:39:00 UTC</a></sub>
+* [Virgin Orbit sells assets in bankruptcy auction to Rocket Lab, Stratolaunch and Vast’s Launcher](https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T182046">2023-05-23 18:20:46 UTC</a></sub>
 * [NRO seeks closer ties with industry](https://spacenews.com/nro-seeks-closer-ties-with-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T180643">2023-05-23 18:06:43 UTC</a></sub>
 * [Air Force Research Lab to fund development of Ursa Major’s rocket engines](https://spacenews.com/air-force-research-lab-to-fund-development-of-ursa-majors-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T165116">2023-05-23 16:51:16 UTC</a></sub>
 * [The Spaceport Company Performs First Demo of Offshore Launch Ops](https://tlpnetwork.com/news/2023/05/the-spaceport-company-performs-first-demo-of-offshore-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T163000">2023-05-23 16:30:00 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Orbital Sidekick acquires first light imagery](https://spacenews.com/orbital-sidekick-acquires-first-light-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T031142">2023-05-23 03:11:42 UTC</a></sub>
 * [L3Harris wins IARPA HAYSTAC contract](https://spacenews.com/l3harris-wins-iarpa-haystac-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T015955">2023-05-23 01:59:55 UTC</a></sub>
 * [NGA to map lunar geography to enable GPS on the moon](https://spacenews.com/nga-to-map-lunar-geography-to-enable-gps-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T002305">2023-05-23 00:23:05 UTC</a></sub>
-* [NATO faces hurdles in acquiring commercial satellite imagery](https://spacenews.com/nato-faces-hurdles-in-acquiring-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T220952">2023-05-22 22:09:52 UTC</a></sub>
-* [SpaceX set to join FAA to fight environmental lawsuit that could delay Starship work](https://www.cnbc.com/2023/05/22/spacex-joining-faa-to-fight-environmental-lawsuit-over-starship.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T220423">2023-05-22 22:04:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T190047">2023-05-23 19:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T193043">2023-05-23 19:30:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
