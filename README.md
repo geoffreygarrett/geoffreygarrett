@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NGA to map lunar geography to enable GPS on the moon](https://spacenews.com/nga-to-map-lunar-geography-to-enable-gps-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T002305">2023-05-23 00:23:05 UTC</a></sub>
 * [NATO faces hurdles in acquiring commercial satellite imagery](https://spacenews.com/nato-faces-hurdles-in-acquiring-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T220952">2023-05-22 22:09:52 UTC</a></sub>
 * [SpaceX set to join FAA to fight environmental lawsuit that could delay Starship work](https://www.cnbc.com/2023/05/22/spacex-joining-faa-to-fight-environmental-lawsuit-over-starship.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T220423">2023-05-22 22:04:23 UTC</a></sub>
 * [SpaceX making progress toward next Starship test flights](https://www.nasaspaceflight.com/2023/05/spacex-progressing-next-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T205802">2023-05-22 20:58:02 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [DARPA selects Umbra to demonstrate radar imaging techniques](https://spacenews.com/darpa-selects-umbra-to-demonstrate-radar-imaging-techniques/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T153719">2023-05-22 15:37:19 UTC</a></sub>
 * [SpaceX delivers private Axiom crew to the space station, carrying Saudi astronauts](https://www.cnbc.com/2023/05/22/spacex-axiom-ax-2-docks-with-space-station-carrying-saudi-astronauts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T143636">2023-05-22 14:36:36 UTC</a></sub>
 * [Former NGA director Robert Cardillo joins Synthetaic’s board of directors](https://spacenews.com/former-nga-director-robert-cardillo-joins-synthetaics-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T143550">2023-05-22 14:35:50 UTC</a></sub>
-* [SpaceX launches 10th crewed mission, third fully commercial flight](https://arstechnica.com/space/2023/05/spacex-launches-tenth-crewed-mission-third-fully-commercial-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T121415">2023-05-22 12:14:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T000144">2023-05-23 00:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T004437">2023-05-23 00:44:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
