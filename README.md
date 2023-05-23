@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrobotic To Provide Blue Moon Lander Cargo Systems](https://tlpnetwork.com/news/2023/05/astrobotic-to-provide-blue-moon-lander-cargo-systems) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T132800">2023-05-23 13:28:00 UTC</a></sub>
 * [The Spaceport Company demonstrates offshore launch operations](https://spacenews.com/the-spaceport-company-demonstrates-offshore-launch-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T111503">2023-05-23 11:15:03 UTC</a></sub>
 * [Orbital Sidekick acquires first light imagery](https://spacenews.com/orbital-sidekick-acquires-first-light-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T031142">2023-05-23 03:11:42 UTC</a></sub>
 * [L3Harris wins IARPA HAYSTAC contract](https://spacenews.com/l3harris-wins-iarpa-haystac-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T015955">2023-05-23 01:59:55 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [SpaceX making progress toward next Starship test flights](https://www.nasaspaceflight.com/2023/05/spacex-progressing-next-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T205802">2023-05-22 20:58:02 UTC</a></sub>
 * [NASA Mission to Study Ice Clouds, Help Observe Our Dynamic Atmosphere](http://www.nasa.gov/press-release/nasa-mission-to-study-ice-clouds-help-observe-our-dynamic-atmosphere) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T202300">2023-05-22 20:23:00 UTC</a></sub>
 * [OneWeb announces Innovation Challenge Winners](https://spacenews.com/oneweb-announces-innovation-challenge-winners/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T165642">2023-05-22 16:56:42 UTC</a></sub>
-* [Exploration Upper Stage Unveiled: Revolutionary Leap in Crew Safety, Cargo Capacity, and Deep Space Power](https://spacenews.com/exploration-upper-stage-unveiled-revolutionary-leap-in-crew-safety-cargo-capacity-and-deep-space-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T161500">2023-05-22 16:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T133045">2023-05-23 13:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T140049">2023-05-23 14:00:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
