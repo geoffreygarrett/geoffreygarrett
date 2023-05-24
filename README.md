@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Fleet Space secures $33 million for mineral exploration constellation](https://spacenews.com/fleet-space-raises-33-million-for-mineral-exploration-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T195136">2023-05-24 19:51:36 UTC</a></sub>
 * [NASA, Department of Education Partnership Strengthens STEM Education](http://www.nasa.gov/press-release/nasa-department-of-education-partnership-strengthens-stem-education) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T185600">2023-05-24 18:56:00 UTC</a></sub>
 * [BlackSky, Spire roll out space-based maritime tracking service](https://spacenews.com/blacksky-spire-roll-out-space-based-maritime-tracking-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T170245">2023-05-24 17:02:45 UTC</a></sub>
 * [No one should be surprised Virgin Orbit failed—it had a terrible business plan](https://arstechnica.com/space/2023/05/no-one-should-be-surprised-virgin-orbit-failed-it-had-a-terrible-business-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T164609">2023-05-24 16:46:09 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Debut Astranis satellite beams first signals to Alaska](https://spacenews.com/debut-astranis-satellite-beams-first-signals-to-alaska/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T122456">2023-05-24 12:24:56 UTC</a></sub>
 * [First Astranis internet satellite working ‘perfectly’ as company readies to bring coverage to Alaska](https://www.cnbc.com/2023/05/24/astranis-first-internet-satellite-over-alaska-working-perfectly.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T120001">2023-05-24 12:00:01 UTC</a></sub>
 * [Homeland security an untapped market for satellite imagery and analytics ](https://spacenews.com/homeland-security-an-untapped-market-for-satellite-imagery-and-analytics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T101919">2023-05-24 10:19:19 UTC</a></sub>
-* [Satellite Vu raised $15.8 million for thermal satellite constellation](https://spacenews.com/satellite-vu-raised-15-8-million-for-thermal-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T080000">2023-05-24 08:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T193047">2023-05-24 19:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T200046">2023-05-24 20:00:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
