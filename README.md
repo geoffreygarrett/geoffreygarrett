@@ -188,6 +188,8 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japan’s GITAI raises $29 million for space robotics business](https://spacenews.com/japans-gitai-raises-29-million-for-space-robotics-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T140407">2023-05-24 14:04:07 UTC</a></sub>
+* [Missile-warning satellite passes preliminary design review](https://spacenews.com/missile-warning-satellite-passes-preliminary-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T133000">2023-05-24 13:30:00 UTC</a></sub>
 * [Internet from a small satellite in geostationary orbit? Sure, why not](https://arstechnica.com/space/2023/05/internet-from-a-small-satellite-in-geostationary-orbit-sure-why-not/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T130614">2023-05-24 13:06:14 UTC</a></sub>
 * [Debut Astranis satellite beams first signals to Alaska](https://spacenews.com/debut-astranis-satellite-beams-first-signals-to-alaska/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T122456">2023-05-24 12:24:56 UTC</a></sub>
 * [First Astranis internet satellite working ‘perfectly’ as company readies to bring coverage to Alaska](https://www.cnbc.com/2023/05/24/astranis-first-internet-satellite-over-alaska-working-perfectly.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T120001">2023-05-24 12:00:01 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Falcon 9 launch with Arabsat 7B scrubbed](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200506">2023-05-23 20:05:06 UTC</a></sub>
 * [NGA plans new procurement of commercial Earth monitoring services](https://spacenews.com/nga-plans-new-procurement-of-commercial-earth-monitoring-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200230">2023-05-23 20:02:30 UTC</a></sub>
 * [Three companies to buy most Virgin Orbit assets](https://spacenews.com/three-companies-to-buy-most-virgin-orbit-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T195414">2023-05-23 19:54:14 UTC</a></sub>
-* [Virgin Orbit Sells Assets To RocketLab, Stratolaunch and Vast Launcher](https://tlpnetwork.com/news/2023/05/virgin-orbit-sells-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T183900">2023-05-23 18:39:00 UTC</a></sub>
-* [Virgin Orbit shuts down after bankruptcy sales](https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T182046">2023-05-23 18:20:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T140048">2023-05-24 14:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T143054">2023-05-24 14:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
