@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Debut Astranis satellite beams first signals to Alaska](https://spacenews.com/debut-astranis-satellite-beams-first-signals-to-alaska/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T122456">2023-05-24 12:24:56 UTC</a></sub>
+* [First Astranis internet satellite working ‘perfectly’ as company readies to bring coverage to Alaska](https://www.cnbc.com/2023/05/24/astranis-first-internet-satellite-over-alaska-working-perfectly.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T120001">2023-05-24 12:00:01 UTC</a></sub>
 * [Homeland security an untapped market for satellite imagery and analytics ](https://spacenews.com/homeland-security-an-untapped-market-for-satellite-imagery-and-analytics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T101919">2023-05-24 10:19:19 UTC</a></sub>
 * [Satellite Vu raised $15.8 million for thermal satellite constellation](https://spacenews.com/satellite-vu-raised-15-8-million-for-thermal-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T080000">2023-05-24 08:00:00 UTC</a></sub>
 * [Falcon 9 launch with Arabsat 7B scrubbed](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200506">2023-05-23 20:05:06 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Virgin Orbit Sells Assets To RocketLab, Stratolaunch and Vast Launcher](https://tlpnetwork.com/news/2023/05/virgin-orbit-sells-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T183900">2023-05-23 18:39:00 UTC</a></sub>
 * [Virgin Orbit shuts down after bankruptcy sales](https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T182046">2023-05-23 18:20:46 UTC</a></sub>
 * [NRO seeks closer ties with industry](https://spacenews.com/nro-seeks-closer-ties-with-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T180643">2023-05-23 18:06:43 UTC</a></sub>
-* [Air Force Research Lab to fund development of Ursa Major’s rocket engines](https://spacenews.com/air-force-research-lab-to-fund-development-of-ursa-majors-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T165116">2023-05-23 16:51:16 UTC</a></sub>
-* [The Spaceport Company Performs First Demo of Offshore Launch Ops](https://tlpnetwork.com/news/2023/05/the-spaceport-company-performs-first-demo-of-offshore-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T163000">2023-05-23 16:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T120114">2023-05-24 12:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T123901">2023-05-24 12:39:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
