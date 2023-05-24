@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellite Vu raised $15.8 million for thermal satellite constellation](https://spacenews.com/satellite-vu-raised-15-8-million-for-thermal-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T080000">2023-05-24 08:00:00 UTC</a></sub>
 * [Falcon 9 launch with Arabsat 7B scrubbed](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200506">2023-05-23 20:05:06 UTC</a></sub>
 * [NGA plans new procurement of commercial Earth monitoring services](https://spacenews.com/nga-plans-new-procurement-of-commercial-earth-monitoring-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200230">2023-05-23 20:02:30 UTC</a></sub>
 * [Three companies to buy most Virgin Orbit assets](https://spacenews.com/three-companies-to-buy-most-virgin-orbit-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T195414">2023-05-23 19:54:14 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Air Force Research Lab to fund development of Ursa Major’s rocket engines](https://spacenews.com/air-force-research-lab-to-fund-development-of-ursa-majors-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T165116">2023-05-23 16:51:16 UTC</a></sub>
 * [The Spaceport Company Performs First Demo of Offshore Launch Ops](https://tlpnetwork.com/news/2023/05/the-spaceport-company-performs-first-demo-of-offshore-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T163000">2023-05-23 16:30:00 UTC</a></sub>
 * [Astrobotic To Provide Blue Moon Lander Cargo Systems](https://tlpnetwork.com/news/2023/05/astrobotic-to-provide-blue-moon-lander-cargo-systems) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T132800">2023-05-23 13:28:00 UTC</a></sub>
-* [The Spaceport Company demonstrates offshore launch operations](https://spacenews.com/the-spaceport-company-demonstrates-offshore-launch-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T111503">2023-05-23 11:15:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T083053">2023-05-24 08:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T090107">2023-05-24 09:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
