@@ -102,26 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Soyuz 2.1a | Progress MS-23 (84P) at the
-<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a> in
-Baikonur Cosmodrome, Republic of Kazakhstan
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T125606">2023-05-24 12:56:06 UTC</a>. Until
-then, this launch pad will have seen 407
-out of 1540 launches in this
-region. The mission's status is currently Go for Launch
-(Go) 🟩  which means:
-*current T-0 confirmed by official or reliable sources.* 
+Falcon 9 Block 5 | BADR-8 at the
+<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a> in
+Cape Canaveral, FL, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T032500">2023-05-25 03:25:00 UTC</a>. Until
+then, this launch pad will have seen 181
+out of 887 launches in this
+region. The mission's status is currently To Be Confirmed
+(TBC) 🟨  which means:
+*awaiting official confirmation - current date is known with some certainty.* 
 <br>
 <blockquote>
-  Progress resupply mission to the International Space Station.
+  Geostationary communications satellite built by Airbus Defense and Space and based on the Eurostar Neo platform for Arabsat.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=45.996034,63.564003" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +134,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> <b>Progress MS-23 (84P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T125606">2023-05-24 12:56:06 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-23 (84P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230524T125606Z%2F20230524T125606Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>BADR-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T032500">2023-05-25 03:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230525T032500Z%2F20230525T053200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-3</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T040000">2023-05-25 04:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Coming To A Storm Near You (TROPICS-3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230525T040000Z%2F20230525T051000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>NEXTSat-2 & SNIPE</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T085400">2023-05-25 08:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | NEXTSat-2 &amp; SNIPE&location=Naro Space Center, South Korea&dates=20230525T085400Z%2F20230525T095400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -231,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T123901">2023-05-24 12:39:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T130247">2023-05-24 13:02:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
