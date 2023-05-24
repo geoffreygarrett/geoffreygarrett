@@ -109,9 +109,9 @@ Cape Canaveral, FL, USA
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T032500">2023-05-25 03:25:00 UTC</a>. Until
 then, this launch pad will have seen 181
 out of 887 launches in this
-region. The mission's status is currently To Be Confirmed
-(TBC) 🟨  which means:
-*awaiting official confirmation - current date is known with some certainty.* 
+region. The mission's status is currently Go for Launch
+(Go) 🟩  which means:
+*current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
   Geostationary communications satellite built by Airbus Defense and Space and based on the Eurostar Neo platform for Arabsat.
@@ -134,7 +134,7 @@ region. The mission's status is currently To Be Confirmed
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>BADR-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T032500">2023-05-25 03:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230525T032500Z%2F20230525T053200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>BADR-8</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T032500">2023-05-25 03:25:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230525T032500Z%2F20230525T053200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>TROPICS-3</b> from Onenui Station, Mahia Peninsula, New Zealand. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T040000">2023-05-25 04:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Coming To A Storm Near You (TROPICS-3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230525T040000Z%2F20230525T051000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> <b>NEXTSat-2 & SNIPE</b> from Naro Space Center, South Korea. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T085400">2023-05-25 08:54:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | NEXTSat-2 &amp; SNIPE&location=Naro Space Center, South Korea&dates=20230525T085400Z%2F20230525T095400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>VSS Unity 25</b> from Air launch to Suborbital flight. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T120000">2023-05-25 12:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | VSS Unity 25&location=Air launch to Suborbital flight&dates=20230525T120000Z%2F20230525T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T173054">2023-05-24 17:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T180109">2023-05-24 18:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
