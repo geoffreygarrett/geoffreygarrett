@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, Department of Education Partnership Strengthens STEM Education](http://www.nasa.gov/press-release/nasa-department-of-education-partnership-strengthens-stem-education) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T185600">2023-05-24 18:56:00 UTC</a></sub>
 * [BlackSky, Spire roll out space-based maritime tracking service](https://spacenews.com/blacksky-spire-roll-out-space-based-maritime-tracking-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T170245">2023-05-24 17:02:45 UTC</a></sub>
 * [No one should be surprised Virgin Orbit failed—it had a terrible business plan](https://arstechnica.com/space/2023/05/no-one-should-be-surprised-virgin-orbit-failed-it-had-a-terrible-business-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T164609">2023-05-24 16:46:09 UTC</a></sub>
 * [Japan’s GITAI raises $29 million for space robotics business](https://spacenews.com/japans-gitai-raises-29-million-for-space-robotics-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T140407">2023-05-24 14:04:07 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [First Astranis internet satellite working ‘perfectly’ as company readies to bring coverage to Alaska](https://www.cnbc.com/2023/05/24/astranis-first-internet-satellite-over-alaska-working-perfectly.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T120001">2023-05-24 12:00:01 UTC</a></sub>
 * [Homeland security an untapped market for satellite imagery and analytics ](https://spacenews.com/homeland-security-an-untapped-market-for-satellite-imagery-and-analytics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T101919">2023-05-24 10:19:19 UTC</a></sub>
 * [Satellite Vu raised $15.8 million for thermal satellite constellation](https://spacenews.com/satellite-vu-raised-15-8-million-for-thermal-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T080000">2023-05-24 08:00:00 UTC</a></sub>
-* [Falcon 9 launch with Arabsat 7B scrubbed](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200506">2023-05-23 20:05:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T183043">2023-05-24 18:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T190104">2023-05-24 19:01:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
