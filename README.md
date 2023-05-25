@@ -189,6 +189,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Discuss Science on Next SpaceX Cargo Launch to Space Station](http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-spacex-cargo-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T195600">2023-05-25 19:56:00 UTC</a></sub>
 * [Virgin Galactic makes first suborbital spaceflight in nearly two years](https://spacenews.com/virgin-galactic-makes-first-suborbital-spaceflight-in-nearly-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T164921">2023-05-25 16:49:21 UTC</a></sub>
 * [Investing in Space: Who wins in the Elon Musk versus Jeff Bezos moon race](https://www.cnbc.com/2023/05/25/investing-in-space-nasa-winner-in-elon-musk-vs-jeff-bezos-moon-race.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T161505">2023-05-25 16:15:05 UTC</a></sub>
 * [Viasat’s Inmarsat acquisition clears all regulatory hurdles](https://spacenews.com/viasats-inmarsat-acquisition-clears-all-regulatory-hurdles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T145608">2023-05-25 14:56:08 UTC</a></sub>
@@ -198,7 +199,6 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 * [At long last, the glorious future we were promised in space is on the way](https://arstechnica.com/space/2023/05/at-long-last-the-glorious-future-we-were-promised-in-space-is-on-the-way/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T114548">2023-05-25 11:45:48 UTC</a></sub>
 * [First components of Mobile Launcher 2 arrive at KSC](https://spacenews.com/first-components-of-mobile-launcher-2-arrive-at-ksc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T113315">2023-05-25 11:33:15 UTC</a></sub>
 * [Iceye introduces Dwell imaging mode](https://spacenews.com/iceye-introduces-dwell-imaging-mode/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T010716">2023-05-25 01:07:16 UTC</a></sub>
-* [Rocket Lab moves final TROPICS mission to Friday](https://www.nasaspaceflight.com/2023/05/coming-to-a-storm-near-you/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T220811">2023-05-24 22:08:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T193041">2023-05-25 19:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T200117">2023-05-25 20:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
