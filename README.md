@@ -189,7 +189,7 @@ region. The mission's status is currently To Be Confirmed
 
 <!-- spaceflight news starts -->
 * [Iceye introduces Dwell imaging mode](https://spacenews.com/iceye-introduces-dwell-imaging-mode/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T010716">2023-05-25 01:07:16 UTC</a></sub>
-* [Rocket Lab ready to launch final TROPICS mission from New Zealand](https://www.nasaspaceflight.com/2023/05/coming-to-a-storm-near-you/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T220811">2023-05-24 22:08:11 UTC</a></sub>
+* [Rocket Lab moves final TROPICS mission to Friday](https://www.nasaspaceflight.com/2023/05/coming-to-a-storm-near-you/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T220811">2023-05-24 22:08:11 UTC</a></sub>
 * [Impulse and Relativity target 2026 for launch of first Mars lander mission](https://spacenews.com/impulse-and-relativity-target-2026-for-launch-of-first-mars-lander-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T201927">2023-05-24 20:19:27 UTC</a></sub>
 * [Fleet Space secures $33 million for mineral exploration constellation](https://spacenews.com/fleet-space-raises-33-million-for-mineral-exploration-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T195136">2023-05-24 19:51:36 UTC</a></sub>
 * [NASA, Department of Education Partnership Strengthens STEM Education](http://www.nasa.gov/press-release/nasa-department-of-education-partnership-strengthens-stem-education) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T185600">2023-05-24 18:56:00 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T023802">2023-05-25 02:38:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T030100">2023-05-25 03:01:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
