@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Iceye introduces Dwell imaging mode](https://spacenews.com/iceye-introduces-dwell-imaging-mode/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T010716">2023-05-25 01:07:16 UTC</a></sub>
 * [Rocket Lab ready to launch final TROPICS mission from New Zealand](https://www.nasaspaceflight.com/2023/05/coming-to-a-storm-near-you/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T220811">2023-05-24 22:08:11 UTC</a></sub>
 * [Impulse and Relativity target 2026 for launch of first Mars lander mission](https://spacenews.com/impulse-and-relativity-target-2026-for-launch-of-first-mars-lander-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T201927">2023-05-24 20:19:27 UTC</a></sub>
 * [Fleet Space secures $33 million for mineral exploration constellation](https://spacenews.com/fleet-space-raises-33-million-for-mineral-exploration-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T195136">2023-05-24 19:51:36 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Japan’s GITAI raises $29 million for space robotics business](https://spacenews.com/japans-gitai-raises-29-million-for-space-robotics-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T140407">2023-05-24 14:04:07 UTC</a></sub>
 * [Missile-warning satellite passes preliminary design review](https://spacenews.com/missile-warning-satellite-passes-preliminary-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T133000">2023-05-24 13:30:00 UTC</a></sub>
 * [Internet from a small satellite in geostationary orbit? Sure, why not](https://arstechnica.com/space/2023/05/internet-from-a-small-satellite-in-geostationary-orbit-sure-why-not/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T130614">2023-05-24 13:06:14 UTC</a></sub>
-* [Debut Astranis satellite beams first signals to Alaska](https://spacenews.com/debut-astranis-satellite-beams-first-signals-to-alaska/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T122456">2023-05-24 12:24:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T004457">2023-05-25 00:44:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T012753">2023-05-25 01:27:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
