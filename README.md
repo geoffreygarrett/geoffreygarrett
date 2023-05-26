@@ -189,6 +189,9 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX investment in Starship approaches $5 billion](https://spacenews.com/spacex-investment-in-starship-approaches-5-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T111806">2023-05-26 11:18:06 UTC</a></sub>
+* [Rocket Report: Europe has a rocket problem, FAA testing safety of methane](https://arstechnica.com/space/2023/05/rocket-report-ula-calls-off-vulcan-test-firing-virgin-galactic-soars-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T110044">2023-05-26 11:00:44 UTC</a></sub>
+* [Electron launches second pair of NASA TROPICS cubesats](https://spacenews.com/electron-launches-second-pair-of-nasa-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T105114">2023-05-26 10:51:14 UTC</a></sub>
 * [NASA safety panel skeptical of Starliner readiness for crewed flight](https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T010315">2023-05-26 01:03:15 UTC</a></sub>
 * [Orbit Fab selects Impulse Space’s orbital vehicle for in-space refueling demo](https://spacenews.com/orbit-fab-selects-impulse-spaces-orbital-vehicle-for-in-space-refueling-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T211901">2023-05-25 21:19:01 UTC</a></sub>
 * [A new report finds NASA has spent an obscene amount of money on SLS propulsion](https://arstechnica.com/space/2023/05/a-new-report-finds-nasa-has-spent-an-obscene-amount-of-money-on-sls-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T211718">2023-05-25 21:17:18 UTC</a></sub>
@@ -196,9 +199,6 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 * [Northrop Grumman wins $45 million Space Force contract to launch small weather satellite](https://spacenews.com/northrop-grumman-wins-45-million-space-force-contract-to-launch-small-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T203817">2023-05-25 20:38:17 UTC</a></sub>
 * [ULA To Roll Back Vulcan Rocket, Flight Readiness Firing Delayed](https://tlpnetwork.com/news/2023/05/frf-delayed-rollback-required) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T203500">2023-05-25 20:35:00 UTC</a></sub>
 * [NASA to Discuss Science on Next SpaceX Cargo Launch to Space Station](http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-spacex-cargo-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T195600">2023-05-25 19:56:00 UTC</a></sub>
-* [Virgin Galactic makes first suborbital spaceflight in nearly two years](https://spacenews.com/virgin-galactic-makes-first-suborbital-spaceflight-in-nearly-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T164921">2023-05-25 16:49:21 UTC</a></sub>
-* [Investing in Space: Who wins in the Elon Musk versus Jeff Bezos moon race](https://www.cnbc.com/2023/05/25/investing-in-space-nasa-winner-in-elon-musk-vs-jeff-bezos-moon-race.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T161505">2023-05-25 16:15:05 UTC</a></sub>
-* [Viasat’s Inmarsat acquisition clears all regulatory hurdles](https://spacenews.com/viasats-inmarsat-acquisition-clears-all-regulatory-hurdles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T145608">2023-05-25 14:56:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T110039">2023-05-26 11:00:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T113146">2023-05-26 11:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
