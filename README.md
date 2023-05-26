@@ -190,6 +190,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab’s Electron delivers TROPICS constellation to orbit](https://www.teslarati.com/rocket-labs-electron-delivers-tropics-constellation-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T191628">2023-05-26 19:16:28 UTC</a></sub>
 * [NASA Pursues Lunar Terrain Vehicle Services for Artemis Missions](http://www.nasa.gov/press-release/nasa-pursues-lunar-terrain-vehicle-services-for-artemis-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T180600">2023-05-26 18:06:00 UTC</a></sub>
 * [DARPA seeks AI tools to automate tracking of satellite sensor data](https://spacenews.com/darpa-seeks-ai-tools-to-automate-tracking-of-satellite-sensor-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T162241">2023-05-26 16:22:41 UTC</a></sub>
 * [Software problem blamed for ispace lunar lander crash](https://spacenews.com/software-problem-blamed-for-ispace-lunar-lander-crash/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T160829">2023-05-26 16:08:29 UTC</a></sub>
@@ -199,7 +200,6 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 * [NASA, Rocket Lab Complete Launch of TROPICS CubeSat Constellation](http://www.nasa.gov/press-release/nasa-rocket-lab-complete-launch-of-tropics-cubesat-constellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T132600">2023-05-26 13:26:00 UTC</a></sub>
 * [SpaceX investment in Starship approaches $5 billion](https://spacenews.com/spacex-investment-in-starship-approaches-5-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T111806">2023-05-26 11:18:06 UTC</a></sub>
 * [Rocket Report: Europe has a rocket problem, FAA testing safety of methane](https://arstechnica.com/space/2023/05/rocket-report-ula-calls-off-vulcan-test-firing-virgin-galactic-soars-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T110044">2023-05-26 11:00:44 UTC</a></sub>
-* [Electron launches second pair of NASA TROPICS cubesats](https://spacenews.com/electron-launches-second-pair-of-nasa-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T105114">2023-05-26 10:51:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -232,7 +232,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T193042">2023-05-26 19:30:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T200103">2023-05-26 20:01:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
