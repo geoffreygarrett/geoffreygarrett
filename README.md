@@ -189,6 +189,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [L3Harris wins $80 million Air Force contract for satcom experiments](https://spacenews.com/l3harris-wins-80-million-air-force-contract-for-satcom-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T145929">2023-05-26 14:59:29 UTC</a></sub>
 * [NASA to Provide Briefing, Coverage of Spacewalks for Station Upgrades](http://www.nasa.gov/press-release/nasa-to-provide-briefing-coverage-of-spacewalks-for-station-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T142600">2023-05-26 14:26:00 UTC</a></sub>
 * [New Mexico Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/new-mexico-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T134600">2023-05-26 13:46:00 UTC</a></sub>
 * [NASA, Rocket Lab Complete Launch of TROPICS CubeSat Constellation](http://www.nasa.gov/press-release/nasa-rocket-lab-complete-launch-of-tropics-cubesat-constellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T132600">2023-05-26 13:26:00 UTC</a></sub>
@@ -198,7 +199,6 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 * [NASA safety panel skeptical of Starliner readiness for crewed flight](https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T010315">2023-05-26 01:03:15 UTC</a></sub>
 * [Orbit Fab selects Impulse Space’s orbital vehicle for in-space refueling demo](https://spacenews.com/orbit-fab-selects-impulse-spaces-orbital-vehicle-for-in-space-refueling-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T211901">2023-05-25 21:19:01 UTC</a></sub>
 * [A new report finds NASA has spent an obscene amount of money on SLS propulsion](https://arstechnica.com/space/2023/05/a-new-report-finds-nasa-has-spent-an-obscene-amount-of-money-on-sls-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T211718">2023-05-25 21:17:18 UTC</a></sub>
-* [Kleos enters partnership with General Atomics](https://spacenews.com/kleos-enters-partnership-with-general-atomics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T210613">2023-05-25 21:06:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -209,6 +209,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Way out there](https://www.planetary.org/the-downlink/way-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T143628">2023-05-26 14:36:28 UTC</a></sub>
 * [Vulcan: Preview of the Flight Readiness Firing](https://blog.ulalaunch.com/blog/vulcan-preview-of-the-flight-readiness-firing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T133635">2023-05-25 13:36:35 UTC</a></sub>
 * [Five asteroid deflection techniques to save the Earth](https://www.planetary.org/articles/asteroid-deflection-techniques-to-save-the-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T143328">2023-05-23 14:33:28 UTC</a></sub>
 * [Moon-spying missions and a planetary evil twin](https://www.planetary.org/the-downlink/moon-spying-missions-and-a-planetary-evil-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T143420">2023-05-19 14:34:20 UTC</a></sub>
@@ -218,7 +219,6 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 * [Why has SpaceX's Starship sparked an environmental controversy?](https://www.planetary.org/articles/why-has-spacexs-starship-sparked-an-environmental-controversy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T140324">2023-05-12 14:03:24 UTC</a></sub>
 * [How did Earth get its oxygen?](https://www.planetary.org/articles/how-did-earth-get-its-oxygen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T144324">2023-05-11 14:43:24 UTC</a></sub>
 * [Freelance Digital Advertising Specialist (Contract & Part-time)](https://www.planetary.org/careers/freelance-digital-advertising-specialist-contract-part-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T150323">2023-05-09 15:03:23 UTC</a></sub>
-* [Moonshadow, Moonshadow](https://www.planetary.org/the-downlink/moonshadow-moonshadow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T143330">2023-05-05 14:33:30 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T150146">2023-05-26 15:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T153048">2023-05-26 15:30:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
