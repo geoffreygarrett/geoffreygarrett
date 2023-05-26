@@ -189,6 +189,8 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Provide Briefing, Coverage of Spacewalks for Station Upgrades](http://www.nasa.gov/press-release/nasa-to-provide-briefing-coverage-of-spacewalks-for-station-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T142600">2023-05-26 14:26:00 UTC</a></sub>
+* [New Mexico Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/new-mexico-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T134600">2023-05-26 13:46:00 UTC</a></sub>
 * [NASA, Rocket Lab Complete Launch of TROPICS CubeSat Constellation](http://www.nasa.gov/press-release/nasa-rocket-lab-complete-launch-of-tropics-cubesat-constellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T132600">2023-05-26 13:26:00 UTC</a></sub>
 * [SpaceX investment in Starship approaches $5 billion](https://spacenews.com/spacex-investment-in-starship-approaches-5-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T111806">2023-05-26 11:18:06 UTC</a></sub>
 * [Rocket Report: Europe has a rocket problem, FAA testing safety of methane](https://arstechnica.com/space/2023/05/rocket-report-ula-calls-off-vulcan-test-firing-virgin-galactic-soars-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T110044">2023-05-26 11:00:44 UTC</a></sub>
@@ -197,8 +199,6 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 * [Orbit Fab selects Impulse Space’s orbital vehicle for in-space refueling demo](https://spacenews.com/orbit-fab-selects-impulse-spaces-orbital-vehicle-for-in-space-refueling-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T211901">2023-05-25 21:19:01 UTC</a></sub>
 * [A new report finds NASA has spent an obscene amount of money on SLS propulsion](https://arstechnica.com/space/2023/05/a-new-report-finds-nasa-has-spent-an-obscene-amount-of-money-on-sls-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T211718">2023-05-25 21:17:18 UTC</a></sub>
 * [Kleos enters partnership with General Atomics](https://spacenews.com/kleos-enters-partnership-with-general-atomics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T210613">2023-05-25 21:06:13 UTC</a></sub>
-* [Northrop Grumman wins $45 million Space Force contract to launch small weather satellite](https://spacenews.com/northrop-grumman-wins-45-million-space-force-contract-to-launch-small-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T203817">2023-05-25 20:38:17 UTC</a></sub>
-* [ULA To Roll Back Vulcan Rocket, Flight Readiness Firing Delayed](https://tlpnetwork.com/news/2023/05/frf-delayed-rollback-required) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T203500">2023-05-25 20:35:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T140041">2023-05-26 14:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T143209">2023-05-26 14:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
