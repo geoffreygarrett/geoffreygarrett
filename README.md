@@ -193,7 +193,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 * [A new report finds NASA has spent an obscene amount of money on SLS propulsion](https://arstechnica.com/space/2023/05/a-new-report-finds-nasa-has-spent-an-obscene-amount-of-money-on-sls-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T211718">2023-05-25 21:17:18 UTC</a></sub>
 * [Kleos enters partnership with General Atomics](https://spacenews.com/kleos-enters-partnership-with-general-atomics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T210613">2023-05-25 21:06:13 UTC</a></sub>
 * [Northrop Grumman wins $45 million Space Force contract to launch small weather satellite](https://spacenews.com/northrop-grumman-wins-45-million-space-force-contract-to-launch-small-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T203817">2023-05-25 20:38:17 UTC</a></sub>
-* [BREAKING! ULA To Roll Back Vulcan Rocket, Flight Readiness Firing Delayed](https://tlpnetwork.com/news/2023/05/frf-delayed-rollback-required) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T203500">2023-05-25 20:35:00 UTC</a></sub>
+* [ULA To Roll Back Vulcan Rocket, Flight Readiness Firing Delayed](https://tlpnetwork.com/news/2023/05/frf-delayed-rollback-required) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T203500">2023-05-25 20:35:00 UTC</a></sub>
 * [NASA to Discuss Science on Next SpaceX Cargo Launch to Space Station](http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-spacex-cargo-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T195600">2023-05-25 19:56:00 UTC</a></sub>
 * [Virgin Galactic makes first suborbital spaceflight in nearly two years](https://spacenews.com/virgin-galactic-makes-first-suborbital-spaceflight-in-nearly-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T164921">2023-05-25 16:49:21 UTC</a></sub>
 * [Investing in Space: Who wins in the Elon Musk versus Jeff Bezos moon race](https://www.cnbc.com/2023/05/25/investing-in-space-nasa-winner-in-elon-musk-vs-jeff-bezos-moon-race.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T161505">2023-05-25 16:15:05 UTC</a></sub>
@@ -230,7 +230,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T083040">2023-05-26 08:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T090152">2023-05-26 09:01:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
