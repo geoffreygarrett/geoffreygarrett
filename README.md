@@ -189,7 +189,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [NASA Sets Coverage for Axiom Mission 2 Departure from Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T214600">2023-05-26 21:46:00 UTC</a></sub>
 * [Space Development Agency to launch 13 satellites in late June](https://spacenews.com/space-development-agency-planning-to-launch-13-satellites-in-late-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T203451">2023-05-26 20:34:51 UTC</a></sub>
-* [Falcon 9 launch with Arabsat 7B set for Friday](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T200506">2023-05-26 20:05:06 UTC</a></sub>
+* [Falcon 9 launches with Arabsat 7B set for Friday](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T200506">2023-05-26 20:05:06 UTC</a></sub>
 * [Rocket Lab’s Electron delivers TROPICS constellation to orbit](https://www.teslarati.com/rocket-labs-electron-delivers-tropics-constellation-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T191628">2023-05-26 19:16:28 UTC</a></sub>
 * [NASA Pursues Lunar Terrain Vehicle Services for Artemis Missions](http://www.nasa.gov/press-release/nasa-pursues-lunar-terrain-vehicle-services-for-artemis-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T180600">2023-05-26 18:06:00 UTC</a></sub>
 * [DARPA seeks AI tools to automate tracking of satellite sensor data](https://spacenews.com/darpa-seeks-ai-tools-to-automate-tracking-of-satellite-sensor-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T162241">2023-05-26 16:22:41 UTC</a></sub>
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230527T050042">2023-05-27 05:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230527T053042">2023-05-27 05:30:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
