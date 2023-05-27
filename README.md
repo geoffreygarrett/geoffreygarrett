@@ -187,6 +187,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches Badr-8 to bolster Arabsat’s satellite fleet](https://spacenews.com/spacex-launches-badr-8-to-bolster-arabsats-satellite-fleet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230527T144900">2023-05-27 14:49:00 UTC</a></sub>
 * [NASA Sets Coverage for Axiom Mission 2 Departure from Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T214600">2023-05-26 21:46:00 UTC</a></sub>
 * [Space Development Agency to launch 13 satellites in late June](https://spacenews.com/space-development-agency-planning-to-launch-13-satellites-in-late-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T203451">2023-05-26 20:34:51 UTC</a></sub>
 * [Falcon 9 launches with Arabsat 7B set for Friday](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T200506">2023-05-26 20:05:06 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently Go for Launch
 * [Software problem blamed for ispace lunar lander crash](https://spacenews.com/software-problem-blamed-for-ispace-lunar-lander-crash/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T160829">2023-05-26 16:08:29 UTC</a></sub>
 * [L3Harris wins $80 million Air Force contract for satcom experiments](https://spacenews.com/l3harris-wins-80-million-air-force-contract-for-satcom-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T145929">2023-05-26 14:59:29 UTC</a></sub>
 * [NASA to Provide Briefing, Coverage of Spacewalks for Station Upgrades](http://www.nasa.gov/press-release/nasa-to-provide-briefing-coverage-of-spacewalks-for-station-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T142600">2023-05-26 14:26:00 UTC</a></sub>
-* [New Mexico Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/new-mexico-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T134600">2023-05-26 13:46:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230527T143040">2023-05-27 14:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230527T150054">2023-05-27 15:00:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
