@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ship 25 confirmed as push for Summer replay of Starship test flight](https://www.nasaspaceflight.com/2023/05/ship-25-confirmed-replay-starship-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T151944">2023-05-29 15:19:44 UTC</a></sub>
 * [China sets sights on crewed lunar landing before 2030](https://spacenews.com/china-sets-sights-on-crewed-lunar-landing-before-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T113319">2023-05-29 11:33:19 UTC</a></sub>
 * [NASA and Boeing say preparations continue for July Starliner test flight](https://spacenews.com/nasa-and-boeing-say-preparations-continue-for-july-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230528T015105">2023-05-28 01:51:05 UTC</a></sub>
 * [SpaceX launches Badr-8 to bolster Arabsat’s satellite fleet](https://spacenews.com/spacex-launches-badr-8-to-bolster-arabsats-satellite-fleet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230527T144900">2023-05-27 14:49:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Rocket Lab’s Electron delivers TROPICS constellation to orbit](https://www.teslarati.com/rocket-labs-electron-delivers-tropics-constellation-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T191628">2023-05-26 19:16:28 UTC</a></sub>
 * [NASA Pursues Lunar Terrain Vehicle Services for Artemis Missions](http://www.nasa.gov/press-release/nasa-pursues-lunar-terrain-vehicle-services-for-artemis-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T180600">2023-05-26 18:06:00 UTC</a></sub>
 * [DARPA seeks AI tools to automate tracking of satellite sensor data](https://spacenews.com/darpa-seeks-ai-tools-to-automate-tracking-of-satellite-sensor-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T162241">2023-05-26 16:22:41 UTC</a></sub>
-* [Software problem blamed for ispace lunar lander crash](https://spacenews.com/software-problem-blamed-for-ispace-lunar-lander-crash/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T160829">2023-05-26 16:08:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T183044">2023-05-29 18:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T190116">2023-05-29 19:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
