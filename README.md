@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Shenzhou-16 astronauts arrive at China’s space station](https://spacenews.com/shenzhou-16-astronauts-arrive-at-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T092751">2023-05-30 09:27:51 UTC</a></sub>
 * [China launches Shenzhou-16 mission to the Chinese Space Station](https://www.nasaspaceflight.com/2023/05/shenzhou-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T213048">2023-05-29 21:30:48 UTC</a></sub>
 * [Ship 25 confirmed as push for summer replay of Starship test flight](https://www.nasaspaceflight.com/2023/05/ship-25-starbase-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T151944">2023-05-29 15:19:44 UTC</a></sub>
 * [Ship 25 confirmed as push for Summer replay of Starship test flight](https://www.nasaspaceflight.com/2023/05/ship-25-confirmed-replay-starship-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T151944">2023-05-29 15:19:44 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [NASA Sets Coverage for Axiom Mission 2 Departure from Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T214600">2023-05-26 21:46:00 UTC</a></sub>
 * [Space Development Agency to launch 13 satellites in late June](https://spacenews.com/space-development-agency-planning-to-launch-13-satellites-in-late-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T203451">2023-05-26 20:34:51 UTC</a></sub>
 * [Falcon 9 launches Arabsat 7B following weather delays](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T200506">2023-05-26 20:05:06 UTC</a></sub>
-* [Rocket Lab’s Electron delivers TROPICS constellation to orbit](https://www.teslarati.com/rocket-labs-electron-delivers-tropics-constellation-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T191628">2023-05-26 19:16:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T093043">2023-05-30 09:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T100048">2023-05-30 10:00:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
