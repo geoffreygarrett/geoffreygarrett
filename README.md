@@ -187,7 +187,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [China to launch Shenzhou-16 mission to the Chinese Space Station](https://www.nasaspaceflight.com/2023/05/shenzhou-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T213048">2023-05-29 21:30:48 UTC</a></sub>
+* [China launches Shenzhou-16 mission to the Chinese Space Station](https://www.nasaspaceflight.com/2023/05/shenzhou-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T213048">2023-05-29 21:30:48 UTC</a></sub>
 * [Ship 25 confirmed as push for Summer replay of Starship test flight](https://www.nasaspaceflight.com/2023/05/ship-25-confirmed-replay-starship-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T151944">2023-05-29 15:19:44 UTC</a></sub>
 * [China sets sights on crewed lunar landing before 2030](https://spacenews.com/china-sets-sights-on-crewed-lunar-landing-before-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T113319">2023-05-29 11:33:19 UTC</a></sub>
 * [NASA and Boeing say preparations continue for July Starliner test flight](https://spacenews.com/nasa-and-boeing-say-preparations-continue-for-july-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230528T015105">2023-05-28 01:51:05 UTC</a></sub>
@@ -229,7 +229,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T012805">2023-05-30 01:28:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T015850">2023-05-30 01:58:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
