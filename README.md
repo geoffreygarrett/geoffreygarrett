@@ -187,6 +187,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Telesat orders prototype satellite to continue LEO broadband tests](https://spacenews.com/telesat-orders-prototype-satellite-to-continue-leo-broadband-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T221305">2023-05-30 22:13:05 UTC</a></sub>
 * [Northrop Grumman’s deep-space radar passes critical design review](https://spacenews.com/northrop-grummans-deep-space-radar-passes-critical-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T212613">2023-05-30 21:26:13 UTC</a></sub>
 * [NASA Welcomes Spain as 25th Artemis Accords Signatory](http://www.nasa.gov/press-release/nasa-welcomes-spain-as-25th-artemis-accords-signatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T160600">2023-05-30 16:06:00 UTC</a></sub>
 * [España es el 25.º signatario de los Acuerdos de Artemis](http://www.nasa.gov/press-release/espa-a-es-el-25-signatario-de-los-acuerdos-de-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T160600">2023-05-30 16:06:00 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently Go for Launch
 * [NASA inspector general faults agency on SLS booster and engine overruns](https://spacenews.com/nasa-inspector-general-faults-agency-on-sls-booster-and-engine-overruns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T110925">2023-05-30 11:09:25 UTC</a></sub>
 * [Shenzhou-16 astronauts arrive at China’s space station](https://spacenews.com/shenzhou-16-astronauts-arrive-at-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T092751">2023-05-30 09:27:51 UTC</a></sub>
 * [China launches Shenzhou-16 mission to the Chinese Space Station](https://www.nasaspaceflight.com/2023/05/shenzhou-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T213048">2023-05-29 21:30:48 UTC</a></sub>
-* [Ship 25 confirmed as push for summer replay of Starship test flight](https://www.nasaspaceflight.com/2023/05/ship-25-starbase-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T151944">2023-05-29 15:19:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T223035">2023-05-30 22:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T230055">2023-05-30 23:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
