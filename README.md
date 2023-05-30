@@ -189,6 +189,7 @@ Finally, a PLD Space team will pick up the rocket in the Atlantic Ocean once spl
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Falcon 9 may double the record for consecutive launch success tonight](https://arstechnica.com/space/2023/05/spacex-is-going-for-its-200th-consecutive-falcon-9-success-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T140611">2023-05-30 14:06:11 UTC</a></sub>
 * [DARPA launches initiative to help tech companies work on classified programs](https://spacenews.com/darpa-launches-initiative-to-help-tech-companies-work-on-classified-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T132304">2023-05-30 13:23:04 UTC</a></sub>
 * [Axiom 2 astronauts set to splashdown from the ISS on Tuesday](https://www.nasaspaceflight.com/2023/05/ax-2-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T121804">2023-05-30 12:18:04 UTC</a></sub>
 * [NASA inspector general faults agency on SLS booster and engine overruns](https://spacenews.com/nasa-inspector-general-faults-agency-on-sls-booster-and-engine-overruns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T110925">2023-05-30 11:09:25 UTC</a></sub>
@@ -198,7 +199,6 @@ Finally, a PLD Space team will pick up the rocket in the Atlantic Ocean once spl
 * [Ship 25 confirmed as push for Summer replay of Starship test flight](https://www.nasaspaceflight.com/2023/05/ship-25-confirmed-replay-starship-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T151944">2023-05-29 15:19:44 UTC</a></sub>
 * [China sets sights on crewed lunar landing before 2030](https://spacenews.com/china-sets-sights-on-crewed-lunar-landing-before-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T113319">2023-05-29 11:33:19 UTC</a></sub>
 * [NASA and Boeing say preparations continue for July Starliner test flight](https://spacenews.com/nasa-and-boeing-say-preparations-continue-for-july-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230528T015105">2023-05-28 01:51:05 UTC</a></sub>
-* [SpaceX launches Badr-8 to bolster Arabsat’s satellite fleet](https://spacenews.com/spacex-launches-badr-8-to-bolster-arabsats-satellite-fleet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230527T144900">2023-05-27 14:49:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ Finally, a PLD Space team will pick up the rocket in the Atlantic Ocean once spl
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T143037">2023-05-30 14:30:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T150110">2023-05-30 15:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
