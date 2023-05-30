@@ -187,6 +187,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman’s deep-space radar passes critical design review](https://spacenews.com/northrop-grummans-deep-space-radar-passes-critical-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T212613">2023-05-30 21:26:13 UTC</a></sub>
 * [NASA Welcomes Spain as 25th Artemis Accords Signatory](http://www.nasa.gov/press-release/nasa-welcomes-spain-as-25th-artemis-accords-signatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T160600">2023-05-30 16:06:00 UTC</a></sub>
 * [España es el 25.º signatario de los Acuerdos de Artemis](http://www.nasa.gov/press-release/espa-a-es-el-25-signatario-de-los-acuerdos-de-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T160600">2023-05-30 16:06:00 UTC</a></sub>
 * [The Falcon 9 may double the record for consecutive launch success tonight](https://arstechnica.com/space/2023/05/spacex-is-going-for-its-200th-consecutive-falcon-9-success-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T140611">2023-05-30 14:06:11 UTC</a></sub>
@@ -196,7 +197,6 @@ region. The mission's status is currently Go for Launch
 * [Shenzhou-16 astronauts arrive at China’s space station](https://spacenews.com/shenzhou-16-astronauts-arrive-at-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T092751">2023-05-30 09:27:51 UTC</a></sub>
 * [China launches Shenzhou-16 mission to the Chinese Space Station](https://www.nasaspaceflight.com/2023/05/shenzhou-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T213048">2023-05-29 21:30:48 UTC</a></sub>
 * [Ship 25 confirmed as push for summer replay of Starship test flight](https://www.nasaspaceflight.com/2023/05/ship-25-starbase-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T151944">2023-05-29 15:19:44 UTC</a></sub>
-* [Ship 25 confirmed as push for Summer replay of Starship test flight](https://www.nasaspaceflight.com/2023/05/ship-25-confirmed-replay-starship-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T151944">2023-05-29 15:19:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -229,7 +229,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T213038">2023-05-30 21:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T220057">2023-05-30 22:00:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
