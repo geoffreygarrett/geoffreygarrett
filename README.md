@@ -114,8 +114,8 @@ region. The mission's status is currently Go for Launch
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  The first flight of PLD Space's MIURA 1 SN1 technology demonstrator will allow the collection of as much data as possible for the validation and design of the technology that will later be transferred and integrated into MIURA 5. In addition, this first suborbital flight will allow ZARM Research Institution to study microgravity conditions, gathering information necessary for scientific experiments in future suborbital flights.
-Finally, a PLD Space team will pick up the rocket in the Atlantic Ocean once splashdown is completed.
+  The first flight of PLD Space's MIURA 1 SN1 technology demonstrator allows the collection of as much data as possible for the validation and design of the technology to be transferred and integrated into MIURA 5. In addition, this first suborbital flight allows ZARM Research Institution to study microgravity conditions, gathering information necessary for scientific experiments in future suborbital flights.
+Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once splashdown is completed.
 </blockquote>
 
 <p float="left" align="center">
@@ -135,7 +135,7 @@ Finally, a PLD Space team will pick up the rocket in the Atlantic Ocean once spl
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" /> <b>Miura 1 | SN1 Test Flight</b> from El Arenosillo Test Centre. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T180000">2023-05-30 18:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Miura 1 | SN1 Test Flight&location=El Arenosillo Test Centre&dates=20230530T180000Z%2F20230531T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" /> <b>SN1 Test Flight</b> from El Arenosillo Test Centre. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T180000">2023-05-30 18:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Miura 1 | SN1 Test Flight&location=El Arenosillo Test Centre&dates=20230530T180000Z%2F20230531T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 2-10</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T060230">2023-05-31 06:02:30 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-10&location=Vandenberg SFB, CA, USA&dates=20230531T060230Z%2F20230531T060230Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 6-4</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T110400">2023-06-01 11:04:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-4&location=Cape Canaveral, FL, USA&dates=20230601T110400Z%2F20230601T141500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Dragon CRS-2 SpX-28</b> from Kennedy Space Center, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230603T163500">2023-06-03 16:35:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-28&location=Kennedy Space Center, FL, USA&dates=20230603T163500Z%2F20230603T163500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -231,7 +231,7 @@ Finally, a PLD Space team will pick up the rocket in the Atlantic Ocean once spl
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T153034">2023-05-30 15:30:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T160053">2023-05-30 16:00:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
