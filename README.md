@@ -190,6 +190,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Florida Space Coast selected as home of U.S. Space Force training command](https://spacenews.com/florida-space-coast-selected-as-home-of-u-s-space-force-training-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T215817">2023-05-31 21:58:17 UTC</a></sub>
 * [U.S. Space Command takes over responsibility for protecting homeland from missile strikes](https://spacenews.com/u-s-space-command-takes-over-responsibility-for-protecting-homeland-from-missile-strikes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T204809">2023-05-31 20:48:09 UTC</a></sub>
 * [Using data from Spitzer and TESS, scientists discover exoplanet littered with volcanoes](https://www.nasaspaceflight.com/2023/05/volcano-covered-exoplanet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T203815">2023-05-31 20:38:15 UTC</a></sub>
 * [SpaceX caps off busy May with 8th Falcon 9 launch](https://www.teslarati.com/spacex-caps-off-busy-may-with-8th-falcon-9-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T193620">2023-05-31 19:36:20 UTC</a></sub>
@@ -199,7 +200,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Axiom-2 Crew returns to Earth after 10 days in space](https://www.teslarati.com/axiom-2-crew-returns-after-10-days-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T142627">2023-05-31 14:26:27 UTC</a></sub>
 * [North Korea’s spy satellite launch fails with second-stage malfunction](https://spacenews.com/north-koreas-spy-satellite-launch-fails-with-second-stage-malfunction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T133756">2023-05-31 13:37:56 UTC</a></sub>
 * [Satellite operators Viasat and Inmarsat complete merger deal](https://spacenews.com/satellite-operators-viasat-and-inmarsat-complete-merger-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T130733">2023-05-31 13:07:33 UTC</a></sub>
-* [Second Axiom Space private astronaut mission concludes with splashdown](https://spacenews.com/second-axiom-space-private-astronaut-mission-concludes-with-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T112250">2023-05-31 11:22:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -232,7 +232,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T220052">2023-05-31 22:00:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T223053">2023-05-31 22:30:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
