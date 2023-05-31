@@ -190,6 +190,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <!-- spaceflight news starts -->
 * [NASA to Discuss Conclusions of Psyche Mission Independent Review Board](http://www.nasa.gov/press-release/nasa-to-discuss-conclusions-of-psyche-mission-independent-review-board) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T170600">2023-05-31 17:06:00 UTC</a></sub>
+* [ESA Awards Contracts to Define Future European Launch Systems](https://europeanspaceflight.com/esa-awards-contracts-to-define-future-european-launch-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T170000">2023-05-31 17:00:00 UTC</a></sub>
 * [Cutting-Edge Reconnaissance Satellites: Revolutionizing National Security from Space](https://spacenews.com/cutting-edge-reconnaissance-satellites-revolutionizing-national-security-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T164443">2023-05-31 16:44:43 UTC</a></sub>
 * [Axiom-2 Crew returns to Earth after 10 days in space](https://www.teslarati.com/axiom-2-crew-returns-after-10-days-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T142627">2023-05-31 14:26:27 UTC</a></sub>
 * [North Korea’s spy satellite launch fails with second-stage malfunction](https://spacenews.com/north-koreas-spy-satellite-launch-fails-with-second-stage-malfunction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T133756">2023-05-31 13:37:56 UTC</a></sub>
@@ -198,7 +199,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [China looks to Long March 8 rocket to help launch its answer to Starlink](https://spacenews.com/china-looks-to-long-march-8-rocket-to-help-launch-its-answer-to-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T100946">2023-05-31 10:09:46 UTC</a></sub>
 * [Spain signs Artemis Accords](https://spacenews.com/spain-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T003530">2023-05-31 00:35:30 UTC</a></sub>
 * [Telesat orders prototype satellite to continue LEO broadband tests](https://spacenews.com/telesat-orders-prototype-satellite-to-continue-leo-broadband-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T221305">2023-05-30 22:13:05 UTC</a></sub>
-* [Northrop Grumman’s deep-space radar passes critical design review](https://spacenews.com/northrop-grummans-deep-space-radar-passes-critical-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T212613">2023-05-30 21:26:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T190049">2023-05-31 19:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T193049">2023-05-31 19:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
