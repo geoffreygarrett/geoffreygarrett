@@ -189,6 +189,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China looks to Long March 8 rocket to help launch its answer to Starlink](https://spacenews.com/china-looks-to-long-march-8-rocket-to-help-launch-its-answer-to-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T100946">2023-05-31 10:09:46 UTC</a></sub>
 * [Spain signs Artemis Accords](https://spacenews.com/spain-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T003530">2023-05-31 00:35:30 UTC</a></sub>
 * [Telesat orders prototype satellite to continue LEO broadband tests](https://spacenews.com/telesat-orders-prototype-satellite-to-continue-leo-broadband-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T221305">2023-05-30 22:13:05 UTC</a></sub>
 * [Northrop Grumman’s deep-space radar passes critical design review](https://spacenews.com/northrop-grummans-deep-space-radar-passes-critical-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T212613">2023-05-30 21:26:13 UTC</a></sub>
@@ -198,7 +199,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [DARPA launches initiative to help tech companies work on classified programs](https://spacenews.com/darpa-launches-initiative-to-help-tech-companies-work-on-classified-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T132304">2023-05-30 13:23:04 UTC</a></sub>
 * [Axiom 2 astronauts return from the ISS with successful splashdown](https://www.nasaspaceflight.com/2023/05/ax-2-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T121804">2023-05-30 12:18:04 UTC</a></sub>
 * [NASA inspector general faults agency on SLS booster and engine overruns](https://spacenews.com/nasa-inspector-general-faults-agency-on-sls-booster-and-engine-overruns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T110925">2023-05-30 11:09:25 UTC</a></sub>
-* [Shenzhou-16 astronauts arrive at China’s space station](https://spacenews.com/shenzhou-16-astronauts-arrive-at-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T092751">2023-05-30 09:27:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T103050">2023-05-31 10:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T110101">2023-05-31 11:01:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
