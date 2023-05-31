@@ -189,6 +189,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [North Korea’s spy satellite launch fails with second-stage malfunction](https://spacenews.com/north-koreas-spy-satellite-launch-fails-with-second-stage-malfunction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T133756">2023-05-31 13:37:56 UTC</a></sub>
 * [Satellite operators Viasat and Inmarsat complete merger deal](https://spacenews.com/satellite-operators-viasat-and-inmarsat-complete-merger-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T130733">2023-05-31 13:07:33 UTC</a></sub>
 * [Second Axiom Space private astronaut mission concludes with splashdown](https://spacenews.com/second-axiom-space-private-astronaut-mission-concludes-with-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T112250">2023-05-31 11:22:50 UTC</a></sub>
 * [China looks to Long March 8 rocket to help launch its answer to Starlink](https://spacenews.com/china-looks-to-long-march-8-rocket-to-help-launch-its-answer-to-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T100946">2023-05-31 10:09:46 UTC</a></sub>
@@ -198,7 +199,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [España es el 25.º signatario de los Acuerdos de Artemis](http://www.nasa.gov/press-release/espa-a-es-el-25-signatario-de-los-acuerdos-de-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T160600">2023-05-30 16:06:00 UTC</a></sub>
 * [NASA Welcomes Spain as 25th Artemis Accords Signatory](http://www.nasa.gov/press-release/nasa-welcomes-spain-as-25th-artemis-accords-signatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T160600">2023-05-30 16:06:00 UTC</a></sub>
 * [The Falcon 9 may double the record for consecutive launch success tonight](https://arstechnica.com/space/2023/05/spacex-is-going-for-its-200th-consecutive-falcon-9-success-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T140611">2023-05-30 14:06:11 UTC</a></sub>
-* [DARPA launches initiative to help tech companies work on classified programs](https://spacenews.com/darpa-launches-initiative-to-help-tech-companies-work-on-classified-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T132304">2023-05-30 13:23:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -209,6 +209,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Space salads and salty waters](https://www.planetary.org/articles/step-grant-winners-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T135637">2023-05-31 13:56:37 UTC</a></sub>
 * [Way out there](https://www.planetary.org/the-downlink/way-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T143628">2023-05-26 14:36:28 UTC</a></sub>
 * [Vulcan: Preview of the Flight Readiness Firing](https://blog.ulalaunch.com/blog/vulcan-preview-of-the-flight-readiness-firing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T133635">2023-05-25 13:36:35 UTC</a></sub>
 * [Five asteroid deflection techniques to save the Earth](https://www.planetary.org/articles/asteroid-deflection-techniques-to-save-the-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T143328">2023-05-23 14:33:28 UTC</a></sub>
@@ -218,7 +219,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Hard-working spacecraft and even harder-working microbes](https://www.planetary.org/the-downlink/hard-working-spacecraft-and-even-harder-working-microbes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T143324">2023-05-12 14:33:24 UTC</a></sub>
 * [Why has SpaceX's Starship sparked an environmental controversy?](https://www.planetary.org/articles/why-has-spacexs-starship-sparked-an-environmental-controversy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T140324">2023-05-12 14:03:24 UTC</a></sub>
 * [How did Earth get its oxygen?](https://www.planetary.org/articles/how-did-earth-get-its-oxygen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T144324">2023-05-11 14:43:24 UTC</a></sub>
-* [Freelance Digital Advertising Specialist (Contract & Part-time)](https://www.planetary.org/careers/freelance-digital-advertising-specialist-contract-part-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T150323">2023-05-09 15:03:23 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T133046">2023-05-31 13:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T140058">2023-05-31 14:00:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
