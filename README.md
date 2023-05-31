@@ -189,6 +189,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom-2 Crew returns to Earth after 10 days in space](https://www.teslarati.com/axiom-2-crew-returns-after-10-days-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T142627">2023-05-31 14:26:27 UTC</a></sub>
 * [North Korea’s spy satellite launch fails with second-stage malfunction](https://spacenews.com/north-koreas-spy-satellite-launch-fails-with-second-stage-malfunction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T133756">2023-05-31 13:37:56 UTC</a></sub>
 * [Satellite operators Viasat and Inmarsat complete merger deal](https://spacenews.com/satellite-operators-viasat-and-inmarsat-complete-merger-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T130733">2023-05-31 13:07:33 UTC</a></sub>
 * [Second Axiom Space private astronaut mission concludes with splashdown](https://spacenews.com/second-axiom-space-private-astronaut-mission-concludes-with-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T112250">2023-05-31 11:22:50 UTC</a></sub>
@@ -198,7 +199,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Northrop Grumman’s deep-space radar passes critical design review](https://spacenews.com/northrop-grummans-deep-space-radar-passes-critical-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T212613">2023-05-30 21:26:13 UTC</a></sub>
 * [España es el 25.º signatario de los Acuerdos de Artemis](http://www.nasa.gov/press-release/espa-a-es-el-25-signatario-de-los-acuerdos-de-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T160600">2023-05-30 16:06:00 UTC</a></sub>
 * [NASA Welcomes Spain as 25th Artemis Accords Signatory](http://www.nasa.gov/press-release/nasa-welcomes-spain-as-25th-artemis-accords-signatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T160600">2023-05-30 16:06:00 UTC</a></sub>
-* [The Falcon 9 may double the record for consecutive launch success tonight](https://arstechnica.com/space/2023/05/spacex-is-going-for-its-200th-consecutive-falcon-9-success-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T140611">2023-05-30 14:06:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T143041">2023-05-31 14:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T150055">2023-05-31 15:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
