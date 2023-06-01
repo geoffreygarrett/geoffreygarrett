@@ -191,16 +191,16 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force exploring options to build weather monitoring constellation](https://spacenews.com/space-force-exploring-options-to-build-weather-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T174853">2023-06-01 17:48:53 UTC</a></sub>
 * [SpaceX Starlink lands DoD contract for Ukraine satellite services](https://www.teslarati.com/spacex-starlink-lands-dod-contract-ukraine-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T171652">2023-06-01 17:16:52 UTC</a></sub>
 * [Pentagon awards SpaceX with Ukraine contract for Starlink satellite internet](https://www.cnbc.com/2023/06/01/pentagon-awards-spacex-with-ukraine-contract-for-starlink-satellite-internet.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T165443">2023-06-01 16:54:43 UTC</a></sub>
+* [Investing in Space: Virgin Galactic still has a big hurdle to clear for commercial service](https://www.cnbc.com/2023/06/01/investing-in-space-the-virgin-galactic-spce-turning-point.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T161531">2023-06-01 16:15:31 UTC</a></sub>
 * [Space Force selects new leader for Eastern Range](https://spacenews.com/space-force-selects-new-leader-for-eastern-range/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T161010">2023-06-01 16:10:10 UTC</a></sub>
 * [The Atlantic hurricane season has begun: What we know and what we don’t](https://arstechnica.com/science/2023/06/the-atlantic-hurricane-season-has-begun-what-we-know-and-what-we-dont/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T141821">2023-06-01 14:18:21 UTC</a></sub>
 * [Fortify raises $12.5 million for digital composite manufacturing](https://spacenews.com/fortify-raises-12-5-million-for-digital-composite-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T130831">2023-06-01 13:08:31 UTC</a></sub>
 * [Dream Chaser moves a step closer to first launch](https://spacenews.com/dream-chaser-moves-a-step-closer-to-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T110248">2023-06-01 11:02:48 UTC</a></sub>
 * [Florida Space Coast selected as home of U.S. Space Force training command](https://spacenews.com/florida-space-coast-selected-as-home-of-u-s-space-force-training-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T215817">2023-05-31 21:58:17 UTC</a></sub>
 * [U.S. Space Command takes over responsibility for protecting homeland from missile strikes](https://spacenews.com/u-s-space-command-takes-over-responsibility-for-protecting-homeland-from-missile-strikes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T204809">2023-05-31 20:48:09 UTC</a></sub>
-* [Using data from Spitzer and TESS, scientists discover exoplanet littered with volcanoes](https://www.nasaspaceflight.com/2023/05/volcano-covered-exoplanet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T203815">2023-05-31 20:38:15 UTC</a></sub>
-* [SpaceX caps off busy May with 8th Falcon 9 launch](https://www.teslarati.com/spacex-caps-off-busy-may-with-8th-falcon-9-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T193620">2023-05-31 19:36:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T180045">2023-06-01 18:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T190043">2023-06-01 19:00:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
