@@ -191,6 +191,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force selects new leader for Eastern Range](https://spacenews.com/space-force-selects-new-leader-for-eastern-range/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T161010">2023-06-01 16:10:10 UTC</a></sub>
 * [The Atlantic hurricane season has begun: What we know and what we don’t](https://arstechnica.com/science/2023/06/the-atlantic-hurricane-season-has-begun-what-we-know-and-what-we-dont/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T141821">2023-06-01 14:18:21 UTC</a></sub>
 * [Fortify raises $12.5 million for digital composite manufacturing](https://spacenews.com/fortify-raises-12-5-million-for-digital-composite-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T130831">2023-06-01 13:08:31 UTC</a></sub>
 * [Dream Chaser moves a step closer to first launch](https://spacenews.com/dream-chaser-moves-a-step-closer-to-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T110248">2023-06-01 11:02:48 UTC</a></sub>
@@ -200,7 +201,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [SpaceX caps off busy May with 8th Falcon 9 launch](https://www.teslarati.com/spacex-caps-off-busy-may-with-8th-falcon-9-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T193620">2023-05-31 19:36:20 UTC</a></sub>
 * [NASA to Discuss Conclusions of Psyche Mission Independent Review Board](http://www.nasa.gov/press-release/nasa-to-discuss-conclusions-of-psyche-mission-independent-review-board) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T170600">2023-05-31 17:06:00 UTC</a></sub>
 * [ESA Awards Contracts to Define Future European Launch Systems](https://europeanspaceflight.com/esa-awards-contracts-to-define-future-european-launch-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T170000">2023-05-31 17:00:00 UTC</a></sub>
-* [Cutting-Edge Reconnaissance Satellites: Revolutionizing National Security from Space](https://spacenews.com/cutting-edge-reconnaissance-satellites-revolutionizing-national-security-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T164443">2023-05-31 16:44:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T160107">2023-06-01 16:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T163444">2023-06-01 16:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
