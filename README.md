@@ -191,6 +191,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Fortify raises $12.5 million for digital composite manufacturing](https://spacenews.com/fortify-raises-12-5-million-for-digital-composite-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T130831">2023-06-01 13:08:31 UTC</a></sub>
 * [Dream Chaser moves a step closer to first launch](https://spacenews.com/dream-chaser-moves-a-step-closer-to-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T110248">2023-06-01 11:02:48 UTC</a></sub>
 * [Florida Space Coast selected as home of U.S. Space Force training command](https://spacenews.com/florida-space-coast-selected-as-home-of-u-s-space-force-training-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T215817">2023-05-31 21:58:17 UTC</a></sub>
 * [U.S. Space Command takes over responsibility for protecting homeland from missile strikes](https://spacenews.com/u-s-space-command-takes-over-responsibility-for-protecting-homeland-from-missile-strikes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T204809">2023-05-31 20:48:09 UTC</a></sub>
@@ -200,7 +201,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [ESA Awards Contracts to Define Future European Launch Systems](https://europeanspaceflight.com/esa-awards-contracts-to-define-future-european-launch-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T170000">2023-05-31 17:00:00 UTC</a></sub>
 * [Cutting-Edge Reconnaissance Satellites: Revolutionizing National Security from Space](https://spacenews.com/cutting-edge-reconnaissance-satellites-revolutionizing-national-security-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T164443">2023-05-31 16:44:43 UTC</a></sub>
 * [Axiom-2 Crew returns to Earth after 10 days in space](https://www.teslarati.com/axiom-2-crew-returns-after-10-days-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T142627">2023-05-31 14:26:27 UTC</a></sub>
-* [North Korea’s spy satellite launch fails with second-stage malfunction](https://spacenews.com/north-koreas-spy-satellite-launch-fails-with-second-stage-malfunction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T133756">2023-05-31 13:37:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T133153">2023-06-01 13:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T140043">2023-06-01 14:00:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
