@@ -191,6 +191,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman’s ground station for missile warning satellites passes design review](https://spacenews.com/northrop-grummans-ground-station-for-missile-warning-satellites-passes-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T202516">2023-06-01 20:25:16 UTC</a></sub>
 * [NASA, Boeing to Hold Media Update on Crew Flight Test Today](http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-crew-flight-test-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T194600">2023-06-01 19:46:00 UTC</a></sub>
 * [Space Force exploring options to build weather monitoring constellation](https://spacenews.com/space-force-exploring-options-to-build-weather-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T174853">2023-06-01 17:48:53 UTC</a></sub>
 * [SpaceX Starlink lands DoD contract for Ukraine satellite services](https://www.teslarati.com/spacex-starlink-lands-dod-contract-ukraine-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T171652">2023-06-01 17:16:52 UTC</a></sub>
@@ -200,7 +201,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [The Atlantic hurricane season has begun: What we know and what we don’t](https://arstechnica.com/science/2023/06/the-atlantic-hurricane-season-has-begun-what-we-know-and-what-we-dont/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T141821">2023-06-01 14:18:21 UTC</a></sub>
 * [Fortify raises $12.5 million for digital composite manufacturing](https://spacenews.com/fortify-raises-12-5-million-for-digital-composite-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T130831">2023-06-01 13:08:31 UTC</a></sub>
 * [Dream Chaser moves a step closer to first launch](https://spacenews.com/dream-chaser-moves-a-step-closer-to-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T110248">2023-06-01 11:02:48 UTC</a></sub>
-* [Florida Space Coast selected as home of U.S. Space Force training command](https://spacenews.com/florida-space-coast-selected-as-home-of-u-s-space-force-training-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T215817">2023-05-31 21:58:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T203041">2023-06-01 20:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T210045">2023-06-01 21:00:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
