@@ -211,6 +211,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Would you like some salty water with your space salad?](https://www.planetary.org/the-downlink/would-you-like-some-salty-water-with-your-space-salad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T143714">2023-06-02 14:37:14 UTC</a></sub>
 * [Space salads and salty waters](https://www.planetary.org/articles/step-grant-winners-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T135637">2023-05-31 13:56:37 UTC</a></sub>
 * [Way out there](https://www.planetary.org/the-downlink/way-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T143628">2023-05-26 14:36:28 UTC</a></sub>
 * [Vulcan: Preview of the Flight Readiness Firing](https://blog.ulalaunch.com/blog/vulcan-preview-of-the-flight-readiness-firing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T133635">2023-05-25 13:36:35 UTC</a></sub>
@@ -220,7 +221,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Why is Venus called Earth’s twin?](https://www.planetary.org/articles/why-is-venus-called-earths-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T143322">2023-05-16 14:33:22 UTC</a></sub>
 * [Hard-working spacecraft and even harder-working microbes](https://www.planetary.org/the-downlink/hard-working-spacecraft-and-even-harder-working-microbes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T143324">2023-05-12 14:33:24 UTC</a></sub>
 * [Why has SpaceX's Starship sparked an environmental controversy?](https://www.planetary.org/articles/why-has-spacexs-starship-sparked-an-environmental-controversy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T140324">2023-05-12 14:03:24 UTC</a></sub>
-* [How did Earth get its oxygen?](https://www.planetary.org/articles/how-did-earth-get-its-oxygen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T144324">2023-05-11 14:43:24 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T143045">2023-06-02 14:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T150102">2023-06-02 15:01:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
