@@ -191,6 +191,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman gets $80 million Air Force contract for satcom experiments](https://spacenews.com/northrop-grumman-gets-80-million-air-force-contract-for-satcom-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T225943">2023-06-02 22:59:43 UTC</a></sub>
 * [NASA Awards Technical Workforce Training Contract](http://www.nasa.gov/press-release/nasa-awards-technical-workforce-training-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T201700">2023-06-02 20:17:00 UTC</a></sub>
 * [To keep Starliner flying, Boeing must make some hard choices](https://arstechnica.com/space/2023/06/to-keep-starliner-flying-boeing-must-make-some-hard-choices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T183154">2023-06-02 18:31:54 UTC</a></sub>
 * [This Week In Spaceflight: China’s lunar plans, North Korea’s failed launch, and Starliner delays](https://www.nasaspaceflight.com/2023/06/twis-20230602/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T180315">2023-06-02 18:03:15 UTC</a></sub>
@@ -200,7 +201,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Parachute and wiring issues to delay Starliner crewed test flight](https://spacenews.com/parachute-and-wiring-issues-to-delay-starliner-crewed-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T233455">2023-06-01 23:34:55 UTC</a></sub>
 * [NASA Invites Public to Sign Poem That Will Fly Aboard Europa Clipper](http://www.nasa.gov/press-release/nasa-invites-public-to-sign-poem-that-will-fly-aboard-europa-clipper) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T230600">2023-06-01 23:06:00 UTC</a></sub>
 * [Boeing finds two serious problems with Starliner just weeks before launch](https://arstechnica.com/space/2023/06/boeing-stands-down-from-starliner-launch-to-address-recently-found-problems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T225506">2023-06-01 22:55:06 UTC</a></sub>
-* [Boeing indefinitely delays Starliner astronaut mission for NASA after discovering more issues](https://www.cnbc.com/2023/06/01/boeing-further-delays-first-starliner-astronaut-mission-for-nasa.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T211014">2023-06-01 21:10:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T230043">2023-06-02 23:00:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T233103">2023-06-02 23:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
