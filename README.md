@@ -191,6 +191,9 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Parachute and wiring issues to delay Starliner crewed test flight](https://spacenews.com/parachute-and-wiring-issues-to-delay-starliner-crewed-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T233455">2023-06-01 23:34:55 UTC</a></sub>
+* [NASA Invites Public to Sign Poem That Will Fly Aboard Europa Clipper](http://www.nasa.gov/press-release/nasa-invites-public-to-sign-poem-that-will-fly-aboard-europa-clipper) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T230600">2023-06-01 23:06:00 UTC</a></sub>
+* [Boeing finds two serious problems with Starliner just weeks before launch](https://arstechnica.com/space/2023/06/boeing-stands-down-from-starliner-launch-to-address-recently-found-problems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T225506">2023-06-01 22:55:06 UTC</a></sub>
 * [Boeing indefinitely delays Starliner astronaut mission for NASA after discovering more issues](https://www.cnbc.com/2023/06/01/boeing-further-delays-first-starliner-astronaut-mission-for-nasa.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T211014">2023-06-01 21:10:14 UTC</a></sub>
 * [Northrop Grumman’s ground station for missile warning satellites passes design review](https://spacenews.com/northrop-grummans-ground-station-for-missile-warning-satellites-passes-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T202516">2023-06-01 20:25:16 UTC</a></sub>
 * [NASA, Boeing to Hold Media Update on Crew Flight Test Today](http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-crew-flight-test-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T194600">2023-06-01 19:46:00 UTC</a></sub>
@@ -198,9 +201,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [SpaceX Starlink lands DoD contract for Ukraine satellite services](https://www.teslarati.com/spacex-starlink-lands-dod-contract-ukraine-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T171652">2023-06-01 17:16:52 UTC</a></sub>
 * [Pentagon awards SpaceX with Ukraine contract for Starlink satellite internet](https://www.cnbc.com/2023/06/01/pentagon-awards-spacex-with-ukraine-contract-for-starlink-satellite-internet.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T165443">2023-06-01 16:54:43 UTC</a></sub>
 * [Investing in Space: Virgin Galactic still has a big hurdle to clear for commercial service](https://www.cnbc.com/2023/06/01/investing-in-space-the-virgin-galactic-spce-turning-point.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T161531">2023-06-01 16:15:31 UTC</a></sub>
-* [Space Force selects new leader for Eastern Range](https://spacenews.com/space-force-selects-new-leader-for-eastern-range/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T161010">2023-06-01 16:10:10 UTC</a></sub>
-* [The Atlantic hurricane season has begun: What we know and what we don’t](https://arstechnica.com/science/2023/06/the-atlantic-hurricane-season-has-begun-what-we-know-and-what-we-dont/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T141821">2023-06-01 14:18:21 UTC</a></sub>
-* [Fortify raises $12.5 million for digital composite manufacturing](https://spacenews.com/fortify-raises-12-5-million-for-digital-composite-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T130831">2023-06-01 13:08:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T233035">2023-06-01 23:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T000133">2023-06-02 00:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
