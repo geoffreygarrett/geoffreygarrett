@@ -191,6 +191,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space-Comm Expo 2023 – Where Space Does Business](https://spacenews.com/space-comm-expo-2023-where-space-does-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T150811">2023-06-02 15:08:11 UTC</a></sub>
 * [Google leads $36 million funding round for Pixxel](https://spacenews.com/google-leads-36-million-funding-round-for-pixxel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T113312">2023-06-02 11:33:12 UTC</a></sub>
 * [Rocket Report: SpaceX pushing ahead on Starbase, North Korea launch failure](https://arstechnica.com/space/2023/06/rocket-report-spacex-pushing-ahead-on-starbase-north-korea-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T111544">2023-06-02 11:15:44 UTC</a></sub>
 * [Parachute and wiring issues to delay Starliner crewed test flight](https://spacenews.com/parachute-and-wiring-issues-to-delay-starliner-crewed-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T233455">2023-06-01 23:34:55 UTC</a></sub>
@@ -200,7 +201,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Northrop Grumman’s ground station for missile warning satellites passes design review](https://spacenews.com/northrop-grummans-ground-station-for-missile-warning-satellites-passes-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T202516">2023-06-01 20:25:16 UTC</a></sub>
 * [NASA, Boeing to Hold Media Update on Crew Flight Test Today](http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-crew-flight-test-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T194600">2023-06-01 19:46:00 UTC</a></sub>
 * [Space Force exploring options to build weather monitoring constellation](https://spacenews.com/space-force-exploring-options-to-build-weather-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T174853">2023-06-01 17:48:53 UTC</a></sub>
-* [SpaceX Starlink lands DoD contract for Ukraine satellite services](https://www.teslarati.com/spacex-starlink-lands-dod-contract-ukraine-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T171652">2023-06-01 17:16:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T153041">2023-06-02 15:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T160101">2023-06-02 16:01:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
