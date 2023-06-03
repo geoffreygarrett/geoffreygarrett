@@ -191,7 +191,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Fixed-price satellite contracts earn high grades in Space Force report card](https://spacenews.com/fixed-price-satellite-contracts-earn-high-grades-in-space-force-report-card/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T232800">2023-06-02 23:28:00 UTC</a></sub>
 * [Northrop Grumman gets $80 million Air Force contract for satcom experiments](https://spacenews.com/northrop-grumman-gets-80-million-air-force-contract-for-satcom-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T225943">2023-06-02 22:59:43 UTC</a></sub>
-* [NASA Awards Technical Workforce Training Contract](http://www.nasa.gov/press-release/nasa-awards-technical-workforce-training-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T201700">2023-06-02 20:17:00 UTC</a></sub>
+* [NASA Awards Technical Workforce Training Contract](https://www.nasa.gov/press-release/nasa-awards-technical-workforce-training-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T201700">2023-06-02 20:17:00 UTC</a></sub>
 * [To keep Starliner flying, Boeing must make some hard choices](https://arstechnica.com/space/2023/06/to-keep-starliner-flying-boeing-must-make-some-hard-choices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T183154">2023-06-02 18:31:54 UTC</a></sub>
 * [This Week In Spaceflight: China’s lunar plans, North Korea’s failed launch, and Starliner delays](https://www.nasaspaceflight.com/2023/06/twis-20230602/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T180315">2023-06-02 18:03:15 UTC</a></sub>
 * [Space-Comm Expo 2023 – Where Space Does Business](https://spacenews.com/space-comm-expo-2023-where-space-does-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T150811">2023-06-02 15:08:11 UTC</a></sub>
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230603T120046">2023-06-03 12:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230603T123800">2023-06-03 12:38:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
