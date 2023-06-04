@@ -190,6 +190,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX set to launch CRS-28 resupply mission to the ISS](https://www.nasaspaceflight.com/2023/06/crs-28-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230604T111529">2023-06-04 11:15:29 UTC</a></sub>
 * [UAE outlines plans for asteroid mission](https://spacenews.com/uae-outlines-plans-for-asteroid-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230603T223158">2023-06-03 22:31:58 UTC</a></sub>
 * [Fixed-price satellite contracts earn high grades in Space Force report card](https://spacenews.com/fixed-price-satellite-contracts-earn-high-grades-in-space-force-report-card/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T232800">2023-06-02 23:28:00 UTC</a></sub>
 * [Northrop Grumman gets $80 million Air Force contract for satcom experiments](https://spacenews.com/northrop-grumman-gets-80-million-air-force-contract-for-satcom-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T225943">2023-06-02 22:59:43 UTC</a></sub>
@@ -199,7 +200,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [Space-Comm Expo 2023 – Where Space Does Business](https://spacenews.com/space-comm-expo-2023-where-space-does-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T150811">2023-06-02 15:08:11 UTC</a></sub>
 * [Google leads $36 million funding round for Pixxel](https://spacenews.com/google-leads-36-million-funding-round-for-pixxel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T113312">2023-06-02 11:33:12 UTC</a></sub>
 * [Rocket Report: SpaceX pushing ahead on Starbase, North Korea launch failure](https://arstechnica.com/space/2023/06/rocket-report-spacex-pushing-ahead-on-starbase-north-korea-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T111544">2023-06-02 11:15:44 UTC</a></sub>
-* [Parachute and wiring issues to delay Starliner crewed test flight](https://spacenews.com/parachute-and-wiring-issues-to-delay-starliner-crewed-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T233455">2023-06-01 23:34:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -232,7 +232,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230604T113044">2023-06-04 11:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230604T120111">2023-06-04 12:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
