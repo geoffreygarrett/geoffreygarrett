@@ -191,6 +191,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Connecting the Dots | Diversifying into in-orbit servicing](https://spacenews.com/connecting-the-dots-diversifying-into-in-orbit-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T131046">2023-06-05 13:10:46 UTC</a></sub>
 * [Congress asks GAO for review of GeoXO weather satellite program](https://spacenews.com/congress-asks-gao-for-review-of-geoxo-weather-satellite-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T101040">2023-06-05 10:10:40 UTC</a></sub>
 * [SpaceX moves launch of CRS-28 ISS resupply mission to Monday](https://www.nasaspaceflight.com/2023/06/crs-28-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230604T111529">2023-06-04 11:15:29 UTC</a></sub>
 * [UAE outlines plans for asteroid mission](https://spacenews.com/uae-outlines-plans-for-asteroid-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230603T223158">2023-06-03 22:31:58 UTC</a></sub>
@@ -200,7 +201,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 * [To keep Starliner flying, Boeing must make some hard choices](https://arstechnica.com/space/2023/06/to-keep-starliner-flying-boeing-must-make-some-hard-choices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T183154">2023-06-02 18:31:54 UTC</a></sub>
 * [This Week In Spaceflight: China’s lunar plans, North Korea’s failed launch, and Starliner delays](https://www.nasaspaceflight.com/2023/06/twis-20230602/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T180315">2023-06-02 18:03:15 UTC</a></sub>
 * [Space-Comm Expo 2023 – Where Space Does Business](https://spacenews.com/space-comm-expo-2023-where-space-does-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T150811">2023-06-02 15:08:11 UTC</a></sub>
-* [Google leads $36 million funding round for Pixxel](https://spacenews.com/google-leads-36-million-funding-round-for-pixxel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T113312">2023-06-02 11:33:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -233,7 +233,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T130331">2023-06-05 13:03:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T133058">2023-06-05 13:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
