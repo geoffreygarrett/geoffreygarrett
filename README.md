@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [L3Harris to develop missile-warning sensor for medium orbit constellation](https://spacenews.com/l3harris-to-develop-missile-warning-sensor-for-medium-orbit-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T193046">2023-06-05 19:30:46 UTC</a></sub>
+* [NASA Selects Small Business, Research Teams for Tech Development](http://www.nasa.gov/press-release/nasa-selects-small-business-research-teams-for-tech-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T190700">2023-06-05 19:07:00 UTC</a></sub>
 * [Digital twins gaining traction in military satellite programs](https://spacenews.com/digital-twins-gaining-traction-in-military-satellite-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T173725">2023-06-05 17:37:25 UTC</a></sub>
 * [Falcon 9 launches cargo Dragon to space station with new solar arrays](https://spacenews.com/falcon-9-launches-cargo-dragon-to-space-station-with-new-solar-arrays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T173006">2023-06-05 17:30:06 UTC</a></sub>
 * [Viasat forms satcoms titan to take on a market in transformation](https://spacenews.com/viasat-forms-satcoms-titan-to-take-on-a-market-in-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T172336">2023-06-05 17:23:36 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Names New Agency General Counsel](http://www.nasa.gov/press-release/nasa-names-new-agency-general-counsel) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T163700">2023-06-05 16:37:00 UTC</a></sub>
 * [Connecting the Dots | Diversifying into in-orbit servicing](https://spacenews.com/connecting-the-dots-diversifying-into-in-orbit-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T131046">2023-06-05 13:10:46 UTC</a></sub>
 * [Congress asks GAO for review of GeoXO weather satellite program](https://spacenews.com/congress-asks-gao-for-review-of-geoxo-weather-satellite-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T101040">2023-06-05 10:10:40 UTC</a></sub>
-* [SpaceX launches CRS-28 ISS resupply mission](https://www.nasaspaceflight.com/2023/06/crs-28-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230604T111529">2023-06-04 11:15:29 UTC</a></sub>
-* [UAE outlines plans for asteroid mission](https://spacenews.com/uae-outlines-plans-for-asteroid-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230603T223158">2023-06-03 22:31:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T193052">2023-06-05 19:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T200047">2023-06-05 20:00:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
