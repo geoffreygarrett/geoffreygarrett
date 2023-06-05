@@ -190,7 +190,7 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Connecting the Dots | Diversifying into in-orbit servicing](https://spacenews.com/connecting-the-dots-diversifying-into-in-orbit-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T131046">2023-06-05 13:10:46 UTC</a></sub>
 * [Congress asks GAO for review of GeoXO weather satellite program](https://spacenews.com/congress-asks-gao-for-review-of-geoxo-weather-satellite-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T101040">2023-06-05 10:10:40 UTC</a></sub>
-* [SpaceX set for launch of CRS-28 ISS resupply mission](https://www.nasaspaceflight.com/2023/06/crs-28-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230604T111529">2023-06-04 11:15:29 UTC</a></sub>
+* [SpaceX launches CRS-28 ISS resupply mission](https://www.nasaspaceflight.com/2023/06/crs-28-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230604T111529">2023-06-04 11:15:29 UTC</a></sub>
 * [UAE outlines plans for asteroid mission](https://spacenews.com/uae-outlines-plans-for-asteroid-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230603T223158">2023-06-03 22:31:58 UTC</a></sub>
 * [Fixed-price satellite contracts earn high grades in Space Force report card](https://spacenews.com/fixed-price-satellite-contracts-earn-high-grades-in-space-force-report-card/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T232800">2023-06-02 23:28:00 UTC</a></sub>
 * [Northrop Grumman gets $80 million Air Force contract for satcom experiments](https://spacenews.com/northrop-grumman-gets-80-million-air-force-contract-for-satcom-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T225943">2023-06-02 22:59:43 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T160101">2023-06-05 16:01:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T163257">2023-06-05 16:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
