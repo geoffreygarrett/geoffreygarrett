@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin within a “few weeks” of resuming New Shepard flights](https://spacenews.com/blue-origin-within-a-few-weeks-of-resuming-new-shepard-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T115528">2023-06-06 11:55:28 UTC</a></sub>
 * [NASA Psyche mission back on track for October launch](https://spacenews.com/nasa-psyche-mission-back-on-track-for-october-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T080059">2023-06-06 08:00:59 UTC</a></sub>
 * [Game on—the most metal of asteroid missions is back on the menu](https://arstechnica.com/space/2023/06/nasa-says-its-metal-mission-psyche-is-back-on-track-for-an-october-liftoff/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T223123">2023-06-05 22:31:23 UTC</a></sub>
 * [Review Board: NASA-JPL Psyche Progress Outstanding, Launch on Track](http://www.nasa.gov/press-release/review-board-nasa-jpl-psyche-progress-outstanding-launch-on-track) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T200700">2023-06-05 20:07:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Digital twins gaining traction in military satellite programs](https://spacenews.com/digital-twins-gaining-traction-in-military-satellite-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T173725">2023-06-05 17:37:25 UTC</a></sub>
 * [Falcon 9 launches cargo Dragon to space station with new solar arrays](https://spacenews.com/falcon-9-launches-cargo-dragon-to-space-station-with-new-solar-arrays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T173006">2023-06-05 17:30:06 UTC</a></sub>
 * [Viasat forms satcoms titan to take on a market in transformation](https://spacenews.com/viasat-forms-satcoms-titan-to-take-on-a-market-in-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T172336">2023-06-05 17:23:36 UTC</a></sub>
-* [NASA, SpaceX Launch Solar Arrays, Cargo to Space Station](http://www.nasa.gov/press-release/nasa-spacex-launch-solar-arrays-cargo-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T170700">2023-06-05 17:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T113044">2023-06-06 11:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T120053">2023-06-06 12:00:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
