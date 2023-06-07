@@ -188,16 +188,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to View Asteroid Sample Recovery Rehearsal](http://www.nasa.gov/press-release/nasa-invites-media-to-view-asteroid-sample-recovery-rehearsal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T170700">2023-06-07 17:07:00 UTC</a></sub>
+* [Boeing sued for allegedly stealing IP, counterfeiting tools used on NASA projects](https://www.cnbc.com/2023/06/07/wilson-aerospace-sues-boeing-over-allegedly-stole-ip-for-nasa-projects.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T170018">2023-06-07 17:00:18 UTC</a></sub>
+* [How bedrest and cycling in artificial gravity is being tested to aid human spaceflight](https://www.nasaspaceflight.com/2023/06/bedrest-cycling-artificial-gravity-human-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T165336">2023-06-07 16:53:36 UTC</a></sub>
+* [ULA To Conduct Vulcan Flight Readiness Firing Today](https://tlpnetwork.com/news/2023/06/vulcan-frf-june-7) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T163526">2023-06-07 16:35:26 UTC</a></sub>
 * [Chinese commercial rocket firm launches 26 satellites, sets national record](https://spacenews.com/chinese-commercial-rocket-firm-launches-26-satellites-sets-national-record/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T144919">2023-06-07 14:49:19 UTC</a></sub>
 * [Wildfire smoke and haze in the Eastern United States should peak this week](https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T133016">2023-06-07 13:30:16 UTC</a></sub>
 * [RFA ONE Creeps Ever Closer to the Launchpad](https://europeanspaceflight.com/rfa-one-creeps-ever-closer-to-the-launchpad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T133000">2023-06-07 13:30:00 UTC</a></sub>
 * [York Space Systems acquires Emergent Space Technologies](https://spacenews.com/york-space-systems-acquires-emergent-space-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T132807">2023-06-07 13:28:07 UTC</a></sub>
 * [Space investment rebounding, but more selectively](https://spacenews.com/space-investment-rebounding-but-more-selectively/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T100923">2023-06-07 10:09:23 UTC</a></sub>
 * [Apogeo Space orders second space tug for connectivity constellation](https://spacenews.com/apogeo-space-orders-second-space-tug-for-connectivity-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T220247">2023-06-06 22:02:47 UTC</a></sub>
-* [Space Force opens new office to foster ties with private sector](https://spacenews.com/space-force-opens-new-office-to-foster-ties-with-private-sector/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T193004">2023-06-06 19:30:04 UTC</a></sub>
-* [NASA Names Winners of 2023 Student Rocket Launch Competition](http://www.nasa.gov/press-release/nasa-names-winners-of-2023-student-rocket-launch-competition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T190700">2023-06-06 19:07:00 UTC</a></sub>
-* [OneWeb targets maritime market with expanded satellite coverage](https://spacenews.com/oneweb-targets-maritime-market-with-expanded-satellite-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T184313">2023-06-06 18:43:13 UTC</a></sub>
-* [Webb unveils the secrets of the early universe via deep field, peers into stellar nurseries](https://www.nasaspaceflight.com/2023/06/webb-jades-and-ngc5068/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T182441">2023-06-06 18:24:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T170047">2023-06-07 17:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T173047">2023-06-07 17:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
