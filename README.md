@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space investment rebounding, but more selectively](https://spacenews.com/space-investment-rebounding-but-more-selectively/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T100923">2023-06-07 10:09:23 UTC</a></sub>
 * [Apogeo Space orders second space tug for connectivity constellation](https://spacenews.com/apogeo-space-orders-second-space-tug-for-connectivity-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T220247">2023-06-06 22:02:47 UTC</a></sub>
 * [Space Force opens new office to foster ties with private sector](https://spacenews.com/space-force-opens-new-office-to-foster-ties-with-private-sector/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T193004">2023-06-06 19:30:04 UTC</a></sub>
 * [NASA Names Winners of 2023 Student Rocket Launch Competition](http://www.nasa.gov/press-release/nasa-names-winners-of-2023-student-rocket-launch-competition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T190700">2023-06-06 19:07:00 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [INTERVIEW: We Sit Down With RFA COO Stefan Brieschenk](https://tlpnetwork.com/news/2023/06/rfa-interview-stefan-brieschenk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T170045">2023-06-06 17:00:45 UTC</a></sub>
 * [With 7,000+ satellites and growing, is space sustainable? An Ars Frontiers recap](https://arstechnica.com/space/2023/06/with-7000-satellites-and-growing-is-space-sustainable-an-ars-frontiers-recap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T165738">2023-06-06 16:57:38 UTC</a></sub>
 * [Rivada seeks Ex-Im financing for satellite constellation](https://spacenews.com/rivada-seeks-ex-im-financing-for-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T165125">2023-06-06 16:51:25 UTC</a></sub>
-* [Nearly two decades after NASA, China and Europe eye commercial cargo plans](https://arstechnica.com/space/2023/06/china-and-europe-both-seek-to-emulate-nasas-success-with-commercial-cargo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T125918">2023-06-06 12:59:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T100051">2023-06-07 10:00:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T103112">2023-06-07 10:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
