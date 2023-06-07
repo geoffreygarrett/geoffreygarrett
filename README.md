@@ -135,7 +135,7 @@ region. The mission's status is currently Go for Launch
 
 <!-- rocket launches starts -->
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Jiuquan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T022300">2023-06-09 02:23:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230609T022300Z%2F20230609T025400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
-* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-11</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T075600">2023-06-10 07:56:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-11&location=Cape Canaveral, FL, USA&dates=20230610T075600Z%2F20230610T112500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-11</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T074100">2023-06-10 07:41:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-11&location=Cape Canaveral, FL, USA&dates=20230610T074100Z%2F20230610T074100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Transporter 8 (Dedicated SSO Rideshare)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T000000">2023-06-12 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 8 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20230612T000000Z%2F20230612T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Syracuse 4B & Heinrich Hertz (H2Sat)</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T212600">2023-06-16 21:26:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Syracuse 4B &amp; Heinrich Hertz (H2Sat)&location=Kourou, French Guiana&dates=20230616T212600Z%2F20230616T230100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Satria-1</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T230000">2023-06-17 23:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Satria-1&location=Cape Canaveral, FL, USA&dates=20230617T230000Z%2F20230617T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese commercial rocket firm launches 26 satellites, sets national record](https://spacenews.com/chinese-commercial-rocket-firm-launches-26-satellites-sets-national-record/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T144919">2023-06-07 14:49:19 UTC</a></sub>
 * [Wildfire smoke and haze in the Eastern United States should peak this week](https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T133016">2023-06-07 13:30:16 UTC</a></sub>
 * [RFA ONE Creeps Ever Closer to the Launchpad](https://europeanspaceflight.com/rfa-one-creeps-ever-closer-to-the-launchpad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T133000">2023-06-07 13:30:00 UTC</a></sub>
 * [York Space Systems acquires Emergent Space Technologies](https://spacenews.com/york-space-systems-acquires-emergent-space-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T132807">2023-06-07 13:28:07 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Names Winners of 2023 Student Rocket Launch Competition](http://www.nasa.gov/press-release/nasa-names-winners-of-2023-student-rocket-launch-competition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T190700">2023-06-06 19:07:00 UTC</a></sub>
 * [OneWeb targets maritime market with expanded satellite coverage](https://spacenews.com/oneweb-targets-maritime-market-with-expanded-satellite-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T184313">2023-06-06 18:43:13 UTC</a></sub>
 * [Webb unveils the secrets of the early universe via deep field, peers into stellar nurseries](https://www.nasaspaceflight.com/2023/06/webb-jades-and-ngc5068/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T182441">2023-06-06 18:24:41 UTC</a></sub>
-* [Evidence Mounting That Avio Intends to Split from Arianespace](https://europeanspaceflight.com/evidence-mounting-that-avio-intends-to-split-from-arianespace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T173000">2023-06-06 17:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -208,6 +208,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Are aliens real?](https://www.planetary.org/articles/are-aliens-real) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T143736">2023-06-07 14:37:36 UTC</a></sub>
 * [Would you like some salty water with your space salad?](https://www.planetary.org/the-downlink/would-you-like-some-salty-water-with-your-space-salad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T143714">2023-06-02 14:37:14 UTC</a></sub>
 * [Space salads and salty waters](https://www.planetary.org/articles/step-grant-winners-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T135637">2023-05-31 13:56:37 UTC</a></sub>
 * [Way out there](https://www.planetary.org/the-downlink/way-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T143628">2023-05-26 14:36:28 UTC</a></sub>
@@ -217,7 +218,6 @@ region. The mission's status is currently Go for Launch
 * [Hypersonic Missiles are Just Misunderstood](https://blog.ulalaunch.com/blog/hypersonic-missiles-are-just-misunderstood) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T115337">2023-05-17 11:53:37 UTC</a></sub>
 * [Why is Venus called Earth’s twin?](https://www.planetary.org/articles/why-is-venus-called-earths-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T143322">2023-05-16 14:33:22 UTC</a></sub>
 * [Hard-working spacecraft and even harder-working microbes](https://www.planetary.org/the-downlink/hard-working-spacecraft-and-even-harder-working-microbes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T143324">2023-05-12 14:33:24 UTC</a></sub>
-* [Why has SpaceX's Starship sparked an environmental controversy?](https://www.planetary.org/articles/why-has-spacexs-starship-sparked-an-environmental-controversy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T140324">2023-05-12 14:03:24 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T150048">2023-06-07 15:00:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T153049">2023-06-07 15:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
