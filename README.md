@@ -189,6 +189,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Dragon capsule breaks U.S. spaceflight records](https://www.teslarati.com/spacex-dragon-capsule-breaks-u-s-spaceflight-records/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183715">2023-06-08 18:37:15 UTC</a></sub>
+* [Why – and How – NASA Gives a Name to Every Spot It Studies on Mars](https://mars.nasa.gov/news/9413/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183700">2023-06-08 18:37:00 UTC</a></sub>
+* [Investing in Space: Here are the rockets chasing to compete with SpaceX’s Falcon 9](https://www.cnbc.com/2023/06/08/investing-in-space-rockets-chase-to-compete-with-spacexs-falcon-9.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T180710">2023-06-08 18:07:10 UTC</a></sub>
 * [Firefly Aerospace acquires Spaceflight Inc.](https://spacenews.com/firefly-aerospace-acquires-spaceflight-inc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T175210">2023-06-08 17:52:10 UTC</a></sub>
 * [SAIC to develop ‘software factory’ for Space Development Agency](https://spacenews.com/saic-to-develop-software-factory-for-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T144653">2023-06-08 14:46:53 UTC</a></sub>
 * [ArianeGroup Renames its GEOTracker Space Surveillance Service](https://europeanspaceflight.com/arianegroup-renames-its-geotracker-space-surveillance-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T140000">2023-06-08 14:00:00 UTC</a></sub>
@@ -196,9 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Albedo expands staff and facilities](https://spacenews.com/albedo-expanding-staff-and-facilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T113000">2023-06-08 11:30:00 UTC</a></sub>
 * [NASA concerned Starship problems will delay Artemis 3](https://spacenews.com/nasa-concerned-starship-problems-will-delay-artemis-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T094544">2023-06-08 09:45:44 UTC</a></sub>
 * [Vulcan performs static-fire test](https://spacenews.com/vulcan-performs-static-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T014423">2023-06-08 01:44:23 UTC</a></sub>
-* [Nuview reveals backers  including actor Leonardo DiCaprio](https://spacenews.com/nuview-reveals-backers-including-actor-leonardo-dicaprio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T235428">2023-06-07 23:54:28 UTC</a></sub>
-* [Boeing hit with a lawsuit over alleged “theft” of SLS rocket tools](https://arstechnica.com/space/2023/06/supplier-sues-boeing-over-alleged-theft-of-sls-rocket-tools/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T232812">2023-06-07 23:28:12 UTC</a></sub>
-* [Space Command seeks more efficient use of space-tracking and missile sensors](https://spacenews.com/space-command-seeks-more-efficient-use-of-space-tracking-and-missile-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T211115">2023-06-07 21:11:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183038">2023-06-08 18:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T190112">2023-06-08 19:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
