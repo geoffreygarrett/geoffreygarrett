@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force assigns 12 national security missions to SpaceX and ULA](https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T205249">2023-06-08 20:52:49 UTC</a></sub>
 * [SpaceX Dragon capsule breaks U.S. spaceflight records](https://www.teslarati.com/spacex-dragon-capsule-breaks-u-s-spaceflight-records/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183715">2023-06-08 18:37:15 UTC</a></sub>
 * [Why – and How – NASA Gives a Name to Every Spot It Studies on Mars](https://mars.nasa.gov/news/9413/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183700">2023-06-08 18:37:00 UTC</a></sub>
 * [Investing in Space: Here are the rockets chasing to compete with SpaceX’s Falcon 9](https://www.cnbc.com/2023/06/08/investing-in-space-rockets-chase-to-compete-with-spacexs-falcon-9.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T180710">2023-06-08 18:07:10 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Hydrosat acquires IrriWatch](https://spacenews.com/hydrosat-acquires-irriwatch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T123815">2023-06-08 12:38:15 UTC</a></sub>
 * [Albedo expands staff and facilities](https://spacenews.com/albedo-expanding-staff-and-facilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T113000">2023-06-08 11:30:00 UTC</a></sub>
 * [NASA concerned Starship problems will delay Artemis 3](https://spacenews.com/nasa-concerned-starship-problems-will-delay-artemis-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T094544">2023-06-08 09:45:44 UTC</a></sub>
-* [Vulcan performs static-fire test](https://spacenews.com/vulcan-performs-static-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T014423">2023-06-08 01:44:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T203103">2023-06-08 20:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T210106">2023-06-08 21:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
