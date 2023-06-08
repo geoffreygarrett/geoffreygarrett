@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Nelco invests in router maker to improve Indian satcoms network](https://spacenews.com/nelco-invests-in-router-maker-to-improve-indian-satcoms-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T211653">2023-06-08 21:16:53 UTC</a></sub>
+* [Planet stock drops after satellite imagery and data venture lowers annual revenue guidance](https://www.cnbc.com/2023/06/08/planet-pl-q1-2024-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T211627">2023-06-08 21:16:27 UTC</a></sub>
 * [Space Force assigns 12 national security missions to SpaceX and ULA](https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T205249">2023-06-08 20:52:49 UTC</a></sub>
 * [SpaceX Dragon capsule breaks U.S. spaceflight records](https://www.teslarati.com/spacex-dragon-capsule-breaks-u-s-spaceflight-records/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183715">2023-06-08 18:37:15 UTC</a></sub>
 * [Why – and How – NASA Gives a Name to Every Spot It Studies on Mars](https://mars.nasa.gov/news/9413/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183700">2023-06-08 18:37:00 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [SAIC to develop ‘software factory’ for Space Development Agency](https://spacenews.com/saic-to-develop-software-factory-for-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T144653">2023-06-08 14:46:53 UTC</a></sub>
 * [ArianeGroup Renames its GEOTracker Space Surveillance Service](https://europeanspaceflight.com/arianegroup-renames-its-geotracker-space-surveillance-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T140000">2023-06-08 14:00:00 UTC</a></sub>
 * [Hydrosat acquires IrriWatch](https://spacenews.com/hydrosat-acquires-irriwatch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T123815">2023-06-08 12:38:15 UTC</a></sub>
-* [Albedo expands staff and facilities](https://spacenews.com/albedo-expanding-staff-and-facilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T113000">2023-06-08 11:30:00 UTC</a></sub>
-* [NASA concerned Starship problems will delay Artemis 3](https://spacenews.com/nasa-concerned-starship-problems-will-delay-artemis-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T094544">2023-06-08 09:45:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T213058">2023-06-08 21:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T220106">2023-06-08 22:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
