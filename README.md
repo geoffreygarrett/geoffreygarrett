@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Nuview reveals backers  including actor Leonardo DiCaprio](https://spacenews.com/nuview-reveals-backers-including-actor-leonardo-dicaprio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T235428">2023-06-07 23:54:28 UTC</a></sub>
+* [Boeing hit with a lawsuit over alleged “theft” of SLS rocket tools](https://arstechnica.com/space/2023/06/supplier-sues-boeing-over-alleged-theft-of-sls-rocket-tools/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T232812">2023-06-07 23:28:12 UTC</a></sub>
 * [Space Command seeks more efficient use of space-tracking and missile sensors](https://spacenews.com/space-command-seeks-more-efficient-use-of-space-tracking-and-missile-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T211115">2023-06-07 21:11:15 UTC</a></sub>
 * [NASA Opens Applications for Artifact Program to Museums, Schools, More](http://www.nasa.gov/press-release/nasa-opens-applications-for-artifact-program-to-museums-schools-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T205700">2023-06-07 20:57:00 UTC</a></sub>
 * [ESA launches AI project to monitor organic cotton supplies](https://spacenews.com/esa-launches-ai-project-to-monitor-organic-cotton-supplies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T204336">2023-06-07 20:43:36 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [NASA Invites Media to View Asteroid Sample Recovery Rehearsal](http://www.nasa.gov/press-release/nasa-invites-media-to-view-asteroid-sample-recovery-rehearsal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T170700">2023-06-07 17:07:00 UTC</a></sub>
 * [Boeing sued over alleged theft of IP, counterfeiting of tools used on NASA projects](https://www.cnbc.com/2023/06/07/wilson-aerospace-sues-boeing-over-allegedly-stole-ip-for-nasa-projects.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T170018">2023-06-07 17:00:18 UTC</a></sub>
 * [How bedrest and cycling in artificial gravity is being tested to aid human spaceflight](https://www.nasaspaceflight.com/2023/06/bedrest-cycling-artificial-gravity-human-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T165336">2023-06-07 16:53:36 UTC</a></sub>
-* [ULA To Conduct Vulcan Flight Readiness Firing Today](https://tlpnetwork.com/news/2023/06/vulcan-frf-june-7) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T163526">2023-06-07 16:35:26 UTC</a></sub>
-* [Chinese commercial rocket firm launches 26 satellites, sets national record](https://spacenews.com/chinese-commercial-rocket-firm-launches-26-satellites-sets-national-record/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T144919">2023-06-07 14:49:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T233038">2023-06-07 23:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T000154">2023-06-08 00:01:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
