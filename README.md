@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Albedo expands staff and facilities](https://spacenews.com/albedo-expanding-staff-and-facilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T113000">2023-06-08 11:30:00 UTC</a></sub>
 * [NASA concerned Starship problems will delay Artemis 3](https://spacenews.com/nasa-concerned-starship-problems-will-delay-artemis-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T094544">2023-06-08 09:45:44 UTC</a></sub>
 * [Vulcan performs static-fire test](https://spacenews.com/vulcan-performs-static-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T014423">2023-06-08 01:44:23 UTC</a></sub>
 * [Nuview reveals backers  including actor Leonardo DiCaprio](https://spacenews.com/nuview-reveals-backers-including-actor-leonardo-dicaprio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T235428">2023-06-07 23:54:28 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [ESA launches AI project to monitor organic cotton supplies](https://spacenews.com/esa-launches-ai-project-to-monitor-organic-cotton-supplies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T204336">2023-06-07 20:43:36 UTC</a></sub>
 * [NASA Awards $5 Million to Women’s Colleges Tackling STEM Gender Gap](http://www.nasa.gov/press-release/nasa-awards-5-million-to-women-s-colleges-tackling-stem-gender-gap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T190700">2023-06-07 19:07:00 UTC</a></sub>
 * [New York’s air quality reaches “hazardous” level, by far the worst in the world](https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T184516">2023-06-07 18:45:16 UTC</a></sub>
-* [NASA Invites Media to View Asteroid Sample Recovery Rehearsal](http://www.nasa.gov/press-release/nasa-invites-media-to-view-asteroid-sample-recovery-rehearsal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T170700">2023-06-07 17:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T113058">2023-06-08 11:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T120103">2023-06-08 12:01:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
