@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Space Force in talks with allies about how to jointly protect space assets](https://spacenews.com/u-s-space-force-in-talks-with-allies-about-how-to-jointly-protect-space-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T220834">2023-06-09 22:08:34 UTC</a></sub>
+* [House Republicans introduce bill to create an independent NOAA](https://spacenews.com/house-republicans-introduce-bill-to-create-an-independent-noaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T220305">2023-06-09 22:03:05 UTC</a></sub>
 * [Ursa Major confirms layoffs: ‘Necessary workforce reductions’](https://spacenews.com/ursa-major-confirms-layoffs-necessary-workforce-reductions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T212156">2023-06-09 21:21:56 UTC</a></sub>
 * [Iridium calls on US to follow Canada’s Ligado rejection](https://spacenews.com/iridium-calls-on-us-to-follow-canadas-ligado-rejection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T210900">2023-06-09 21:09:00 UTC</a></sub>
 * [NOAA is tracking smoke moving from the East Coast over the Atlantic](https://spacenews.com/noaa-tracks-smoke-moving-from-the-east-coast-over-the-atlantic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T200017">2023-06-09 20:00:17 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [China’s first stackable satellite reaches orbit on solid rocket launch](https://spacenews.com/chinas-first-stackable-satellite-reaches-orbit-on-solid-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T145842">2023-06-09 14:58:42 UTC</a></sub>
 * [New spending caps to create challenges for NASA](https://spacenews.com/new-spending-caps-to-create-challenges-for-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T120146">2023-06-09 12:01:46 UTC</a></sub>
 * [Video shows Astroscale’s plan to deorbit multiple satellites](https://spacenews.com/astroscale-video-shows-plan-to-deorbit-multiple-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T041742">2023-06-09 04:17:42 UTC</a></sub>
-* [China outlines ambitious plans for Moon landing; ZhuQue-2 prepares to launch again](https://www.nasaspaceflight.com/2023/06/china-moon-zq-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T004630">2023-06-09 00:46:30 UTC</a></sub>
-* [GAO flags concerns about Space Force satellite procurements](https://spacenews.com/gao-flags-concerns-about-space-force-satellite-procurements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T220923">2023-06-08 22:09:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T223043">2023-06-09 22:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T230100">2023-06-09 23:01:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
