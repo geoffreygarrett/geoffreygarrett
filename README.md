@@ -188,7 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Astroscale video shows plan to deorbit multiple satellites](https://spacenews.com/astroscale-video-shows-plan-to-deorbit-multiple-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T041742">2023-06-09 04:17:42 UTC</a></sub>
+* [Video shows Astroscale’s plan to deorbit multiple satellites](https://spacenews.com/astroscale-video-shows-plan-to-deorbit-multiple-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T041742">2023-06-09 04:17:42 UTC</a></sub>
 * [China outlines ambitious plans for Moon landing; ZhuQue-2 prepares to launch again](https://www.nasaspaceflight.com/2023/06/china-moon-zq-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T004630">2023-06-09 00:46:30 UTC</a></sub>
 * [GAO flags concerns about Space Force satellite procurements](https://spacenews.com/gao-flags-concerns-about-space-force-satellite-procurements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T220923">2023-06-08 22:09:23 UTC</a></sub>
 * [Nelco invests in router maker to improve Indian satcoms network](https://spacenews.com/nelco-invests-in-router-maker-to-improve-indian-satcoms-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T211653">2023-06-08 21:16:53 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T050046">2023-06-09 05:00:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T053052">2023-06-09 05:30:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
