@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NOAA is tracking smoke moving from the East Coast over the Atlantic](https://spacenews.com/noaa-tracks-smoke-moving-from-the-east-coast-over-the-atlantic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T200017">2023-06-09 20:00:17 UTC</a></sub>
 * [This Week In Spaceflight: Vulcan fires up, Canadian fires from space, and JWST deep field data](https://www.nasaspaceflight.com/2023/06/twis-20230609/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T193037">2023-06-09 19:30:37 UTC</a></sub>
 * [Layoffs hit Colorado space companies as funding remains tight](https://www.cnbc.com/2023/06/09/layoffs-hit-colorado-space-companies-ursa-major-orbit-fab.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T161636">2023-06-09 16:16:36 UTC</a></sub>
 * [China’s first stackable satellite reaches orbit on solid rocket launch](https://spacenews.com/chinas-first-stackable-satellite-reaches-orbit-on-solid-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T145842">2023-06-09 14:58:42 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [GAO flags concerns about Space Force satellite procurements](https://spacenews.com/gao-flags-concerns-about-space-force-satellite-procurements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T220923">2023-06-08 22:09:23 UTC</a></sub>
 * [Nelco invests in router maker to improve Indian satcoms network](https://spacenews.com/nelco-invests-in-router-maker-to-improve-indian-satcoms-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T211653">2023-06-08 21:16:53 UTC</a></sub>
 * [Planet stock drops 25% after satellite data venture lowers annual revenue guidance](https://www.cnbc.com/2023/06/08/planet-pl-q1-2024-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T211627">2023-06-08 21:16:27 UTC</a></sub>
-* [Space Force assigns 12 national security missions to SpaceX and ULA](https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T205249">2023-06-08 20:52:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T203101">2023-06-09 20:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T210052">2023-06-09 21:00:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
