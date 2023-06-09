@@ -188,6 +188,7 @@ region. The mission's status is currently To Be Confirmed
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Layoffs hit Colorado space companies as funding remains tight](https://www.cnbc.com/2023/06/09/layoffs-hit-colorado-space-companies-ursa-major-orbit-fab.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T161636">2023-06-09 16:16:36 UTC</a></sub>
 * [China’s first stackable satellite reaches orbit on solid rocket launch](https://spacenews.com/chinas-first-stackable-satellite-reaches-orbit-on-solid-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T145842">2023-06-09 14:58:42 UTC</a></sub>
 * [New spending caps to create challenges for NASA](https://spacenews.com/new-spending-caps-to-create-challenges-for-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T120146">2023-06-09 12:01:46 UTC</a></sub>
 * [Video shows Astroscale’s plan to deorbit multiple satellites](https://spacenews.com/astroscale-video-shows-plan-to-deorbit-multiple-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T041742">2023-06-09 04:17:42 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently To Be Confirmed
 * [Planet stock drops 25% after satellite data venture lowers annual revenue guidance](https://www.cnbc.com/2023/06/08/planet-pl-q1-2024-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T211627">2023-06-08 21:16:27 UTC</a></sub>
 * [Space Force assigns 12 national security missions to SpaceX and ULA](https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T205249">2023-06-08 20:52:49 UTC</a></sub>
 * [SpaceX Dragon capsule breaks U.S. spaceflight records](https://www.teslarati.com/spacex-dragon-capsule-breaks-u-s-spaceflight-records/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183715">2023-06-08 18:37:15 UTC</a></sub>
-* [Why – and How – NASA Gives a Name to Every Spot It Studies on Mars](https://mars.nasa.gov/news/9413/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183700">2023-06-08 18:37:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently To Be Confirmed
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T170051">2023-06-09 17:00:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T173049">2023-06-09 17:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
