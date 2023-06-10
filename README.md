@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Should the FAA regulate all space activities?](https://spacenews.com/should-the-faa-regulate-all-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T180549">2023-06-10 18:05:49 UTC</a></sub>
 * [U.S. Space Force in talks with allies about how to jointly protect space assets](https://spacenews.com/u-s-space-force-in-talks-with-allies-about-how-to-jointly-protect-space-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T220834">2023-06-09 22:08:34 UTC</a></sub>
 * [House Republicans introduce bill to create an independent NOAA](https://spacenews.com/house-republicans-introduce-bill-to-create-an-independent-noaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T220305">2023-06-09 22:03:05 UTC</a></sub>
 * [Ursa Major confirms layoffs: ‘Necessary workforce reductions’](https://spacenews.com/ursa-major-confirms-layoffs-necessary-workforce-reductions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T212156">2023-06-09 21:21:56 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Layoffs hit Colorado space companies as funding remains tight](https://www.cnbc.com/2023/06/09/layoffs-hit-colorado-space-companies-ursa-major-orbit-fab.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T161636">2023-06-09 16:16:36 UTC</a></sub>
 * [China’s first stackable satellite reaches orbit on solid rocket launch](https://spacenews.com/chinas-first-stackable-satellite-reaches-orbit-on-solid-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T145842">2023-06-09 14:58:42 UTC</a></sub>
 * [New spending caps to create challenges for NASA](https://spacenews.com/new-spending-caps-to-create-challenges-for-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T120146">2023-06-09 12:01:46 UTC</a></sub>
-* [Video shows Astroscale’s plan to deorbit multiple satellites](https://spacenews.com/astroscale-video-shows-plan-to-deorbit-multiple-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T041742">2023-06-09 04:17:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T180039">2023-06-10 18:00:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T183100">2023-06-10 18:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
