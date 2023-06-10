@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Gravimeter for ESA’s Hera mission is ready to launch to Dimorphos asteroid](https://www.nasaspaceflight.com/2023/06/grass-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T183501">2023-06-10 18:35:01 UTC</a></sub>
 * [Should the FAA regulate all space activities?](https://spacenews.com/should-the-faa-regulate-all-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T180549">2023-06-10 18:05:49 UTC</a></sub>
 * [U.S. Space Force in talks with allies about how to jointly protect space assets](https://spacenews.com/u-s-space-force-in-talks-with-allies-about-how-to-jointly-protect-space-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T220834">2023-06-09 22:08:34 UTC</a></sub>
 * [House Republicans introduce bill to create an independent NOAA](https://spacenews.com/house-republicans-introduce-bill-to-create-an-independent-noaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T220305">2023-06-09 22:03:05 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [This Week In Spaceflight: Vulcan fires up, Canadian fires from space, and JWST deep field data](https://www.nasaspaceflight.com/2023/06/twis-20230609/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T193037">2023-06-09 19:30:37 UTC</a></sub>
 * [Layoffs hit Colorado space companies as funding remains tight](https://www.cnbc.com/2023/06/09/layoffs-hit-colorado-space-companies-ursa-major-orbit-fab.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T161636">2023-06-09 16:16:36 UTC</a></sub>
 * [China’s first stackable satellite reaches orbit on solid rocket launch](https://spacenews.com/chinas-first-stackable-satellite-reaches-orbit-on-solid-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T145842">2023-06-09 14:58:42 UTC</a></sub>
-* [New spending caps to create challenges for NASA](https://spacenews.com/new-spending-caps-to-create-challenges-for-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T120146">2023-06-09 12:01:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T190041">2023-06-10 19:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T193045">2023-06-10 19:30:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
