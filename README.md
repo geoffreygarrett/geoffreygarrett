@@ -114,7 +114,7 @@ region. The mission's status is currently Go for Launch
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  A batch of 53 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 52 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230611T073041">2023-06-11 07:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230611T080113">2023-06-11 08:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
