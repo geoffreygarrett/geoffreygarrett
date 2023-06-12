@@ -188,6 +188,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches 52 Starlink satellites from early morning Falcon 9 launch](https://www.teslarati.com/spacex-launches-52-starlink-satellites-from-early-morning-falcon-9-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T191904">2023-06-12 19:19:04 UTC</a></sub>
+* [Space domain awareness provisions in draft NDAA proposal ](https://spacenews.com/space-domain-awareness-provisions-in-draft-ndaa-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T185925">2023-06-12 18:59:25 UTC</a></sub>
+* [NASA Invites Media to Tours, Opening of Earth Information Center](http://www.nasa.gov/press-release/nasa-invites-media-to-tours-opening-of-earth-information-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T185800">2023-06-12 18:58:00 UTC</a></sub>
 * [U.S. defense companies find roadblocks in selling space technologies to allies](https://spacenews.com/u-s-defense-companies-find-roadblocks-in-selling-space-technologies-to-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T171819">2023-06-12 17:18:19 UTC</a></sub>
 * [SpaceX Transporter-8 to launch 72 payloads – Booster targets landing milestone](https://www.nasaspaceflight.com/2023/06/spacex-transporter-8/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T161657">2023-06-12 16:16:57 UTC</a></sub>
 * [SES CEO Steve Collar announces sudden resignation](https://spacenews.com/ses-ceo-steve-collar-announces-sudden-resignation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T152456">2023-06-12 15:24:56 UTC</a></sub>
@@ -195,9 +198,6 @@ region. The mission's status is currently Go for Launch
 * [State Department framework seeks to coordinate its space policy activities](https://spacenews.com/state-department-framework-seeks-to-coordinate-its-space-policy-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230611T234552">2023-06-11 23:45:52 UTC</a></sub>
 * [Gravimeter for ESA’s Hera mission is ready to launch to Dimorphos asteroid](https://www.nasaspaceflight.com/2023/06/grass-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T183501">2023-06-10 18:35:01 UTC</a></sub>
 * [Should the FAA regulate all space activities?](https://spacenews.com/should-the-faa-regulate-all-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T180549">2023-06-10 18:05:49 UTC</a></sub>
-* [U.S. Space Force in talks with allies about how to jointly protect space assets](https://spacenews.com/u-s-space-force-in-talks-with-allies-about-how-to-jointly-protect-space-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T220834">2023-06-09 22:08:34 UTC</a></sub>
-* [House Republicans introduce bill to create an independent NOAA](https://spacenews.com/house-republicans-introduce-bill-to-create-an-independent-noaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T220305">2023-06-09 22:03:05 UTC</a></sub>
-* [Ursa Major confirms layoffs: ‘Necessary workforce reductions’](https://spacenews.com/ursa-major-confirms-layoffs-necessary-workforce-reductions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T212156">2023-06-09 21:21:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T190045">2023-06-12 19:00:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T193054">2023-06-12 19:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
