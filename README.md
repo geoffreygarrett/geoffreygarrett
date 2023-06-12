@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SES CEO Steve Collar announces sudden resignation](https://spacenews.com/ses-ceo-steve-collar-announces-sudden-resignation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T152456">2023-06-12 15:24:56 UTC</a></sub>
 * [Space Force sorting out complexities of wartime contracting](https://spacenews.com/space-force-sorting-out-complexities-of-wartime-contracting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T133239">2023-06-12 13:32:39 UTC</a></sub>
 * [State Department framework seeks to coordinate its space policy activities](https://spacenews.com/state-department-framework-seeks-to-coordinate-its-space-policy-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230611T234552">2023-06-11 23:45:52 UTC</a></sub>
 * [Gravimeter for ESA’s Hera mission is ready to launch to Dimorphos asteroid](https://www.nasaspaceflight.com/2023/06/grass-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T183501">2023-06-10 18:35:01 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Ursa Major confirms layoffs: ‘Necessary workforce reductions’](https://spacenews.com/ursa-major-confirms-layoffs-necessary-workforce-reductions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T212156">2023-06-09 21:21:56 UTC</a></sub>
 * [Iridium calls on US to follow Canada’s Ligado rejection](https://spacenews.com/iridium-calls-on-us-to-follow-canadas-ligado-rejection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T210900">2023-06-09 21:09:00 UTC</a></sub>
 * [NOAA is tracking smoke moving from the East Coast over the Atlantic](https://spacenews.com/noaa-tracks-smoke-moving-from-the-east-coast-over-the-atlantic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T200017">2023-06-09 20:00:17 UTC</a></sub>
-* [This Week In Spaceflight: Vulcan fires up, Canadian fires from space, and JWST deep field data](https://www.nasaspaceflight.com/2023/06/twis-20230609/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T193037">2023-06-09 19:30:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -208,6 +208,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Why did we need OSIRIS-REx?](https://www.planetary.org/articles/why-did-we-need-osiris-rex) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150907">2023-06-12 15:09:07 UTC</a></sub>
+* [Your impact: June solstice 2023](https://www.planetary.org/articles/your-impact-june-solstice-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150906">2023-06-12 15:09:06 UTC</a></sub>
+* [Asteroid samples from another world](https://www.planetary.org/articles/asteroid-samples-from-another-world) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150904">2023-06-12 15:09:04 UTC</a></sub>
 * [The scientific truth is out there](https://www.planetary.org/the-downlink/the-scientific-truth-is-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T143711">2023-06-09 14:37:11 UTC</a></sub>
 * [Are aliens real?](https://www.planetary.org/articles/are-aliens-real) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T143736">2023-06-07 14:37:36 UTC</a></sub>
 * [Would you like some salty water with your space salad?](https://www.planetary.org/the-downlink/would-you-like-some-salty-water-with-your-space-salad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T143714">2023-06-02 14:37:14 UTC</a></sub>
@@ -215,9 +218,6 @@ region. The mission's status is currently Go for Launch
 * [Way out there](https://www.planetary.org/the-downlink/way-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T143628">2023-05-26 14:36:28 UTC</a></sub>
 * [Vulcan: Preview of the Flight Readiness Firing](https://blog.ulalaunch.com/blog/vulcan-preview-of-the-flight-readiness-firing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T133635">2023-05-25 13:36:35 UTC</a></sub>
 * [Five asteroid deflection techniques to save the Earth](https://www.planetary.org/articles/asteroid-deflection-techniques-to-save-the-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T143328">2023-05-23 14:33:28 UTC</a></sub>
-* [Moon-spying missions and a planetary evil twin](https://www.planetary.org/the-downlink/moon-spying-missions-and-a-planetary-evil-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T143420">2023-05-19 14:34:20 UTC</a></sub>
-* [Hypersonic Missiles are Just Misunderstood](https://blog.ulalaunch.com/blog/hypersonic-missiles-are-just-misunderstood) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T115337">2023-05-17 11:53:37 UTC</a></sub>
-* [Why is Venus called Earth’s twin?](https://www.planetary.org/articles/why-is-venus-called-earths-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T143322">2023-05-16 14:33:22 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150053">2023-06-12 15:00:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T153101">2023-06-12 15:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
