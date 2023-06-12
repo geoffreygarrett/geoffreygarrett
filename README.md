@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force sorting out complexities of wartime contracting](https://spacenews.com/space-force-sorting-out-complexities-of-wartime-contracting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T133239">2023-06-12 13:32:39 UTC</a></sub>
 * [State Department framework seeks to coordinate its space policy activities](https://spacenews.com/state-department-framework-seeks-to-coordinate-its-space-policy-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230611T234552">2023-06-11 23:45:52 UTC</a></sub>
 * [Gravimeter for ESA’s Hera mission is ready to launch to Dimorphos asteroid](https://www.nasaspaceflight.com/2023/06/grass-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T183501">2023-06-10 18:35:01 UTC</a></sub>
 * [Should the FAA regulate all space activities?](https://spacenews.com/should-the-faa-regulate-all-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T180549">2023-06-10 18:05:49 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Iridium calls on US to follow Canada’s Ligado rejection](https://spacenews.com/iridium-calls-on-us-to-follow-canadas-ligado-rejection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T210900">2023-06-09 21:09:00 UTC</a></sub>
 * [NOAA is tracking smoke moving from the East Coast over the Atlantic](https://spacenews.com/noaa-tracks-smoke-moving-from-the-east-coast-over-the-atlantic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T200017">2023-06-09 20:00:17 UTC</a></sub>
 * [This Week In Spaceflight: Vulcan fires up, Canadian fires from space, and JWST deep field data](https://www.nasaspaceflight.com/2023/06/twis-20230609/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T193037">2023-06-09 19:30:37 UTC</a></sub>
-* [Layoffs hit Colorado space companies as funding remains tight](https://www.cnbc.com/2023/06/09/layoffs-hit-colorado-space-companies-ursa-major-orbit-fab.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T161636">2023-06-09 16:16:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T133051">2023-06-12 13:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T140109">2023-06-12 14:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
