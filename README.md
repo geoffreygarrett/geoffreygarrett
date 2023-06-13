@@ -198,6 +198,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rogers in draft NDAA bill presses Air Force on relocation of U.S. Space Command](https://spacenews.com/rogers-in-draft-ndaa-bill-presses-air-force-on-relocation-of-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T113955">2023-06-13 11:39:55 UTC</a></sub>
 * [SpaceX launches eighth dedicated smallsat rideshare mission](https://spacenews.com/spacex-launches-eighth-dedicated-smallsat-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T034330">2023-06-13 03:43:30 UTC</a></sub>
 * [House FAA bill would give agency new space traffic management role](https://spacenews.com/house-faa-bill-would-give-agency-new-space-traffic-management-role/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T011445">2023-06-13 01:14:45 UTC</a></sub>
 * [Next Generation Experimental Aircraft Becomes NASA’s Newest X-Plane](http://www.nasa.gov/press-release/next-generation-experimental-aircraft-becomes-nasa-s-newest-x-plane) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T231900">2023-06-12 23:19:00 UTC</a></sub>
@@ -207,7 +208,6 @@ Jilin-1 Pingtai 02A01~02
 * [NASA Invites Media to Tours, Opening of Earth Information Center](http://www.nasa.gov/press-release/nasa-invites-media-to-tours-opening-of-earth-information-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T185800">2023-06-12 18:58:00 UTC</a></sub>
 * [U.S. defense companies find roadblocks in selling space technologies to allies](https://spacenews.com/u-s-defense-companies-find-roadblocks-in-selling-space-technologies-to-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T171819">2023-06-12 17:18:19 UTC</a></sub>
 * [SpaceX Transporter-8 launches 72 payloads marking 200th booster landing](https://www.nasaspaceflight.com/2023/06/spacex-transporter-8/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T161657">2023-06-12 16:16:57 UTC</a></sub>
-* [SES CEO Steve Collar announces sudden resignation](https://spacenews.com/ses-ceo-steve-collar-announces-sudden-resignation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T152456">2023-06-12 15:24:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -240,7 +240,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T113045">2023-06-13 11:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T120103">2023-06-13 12:01:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
