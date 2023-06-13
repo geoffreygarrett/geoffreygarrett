@@ -153,6 +153,7 @@ Jilin-1 Pingtai 02A01~02
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-12&location=Cape Canaveral, FL, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-7</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-7&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>FLTA003 (VICTUS NOX)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA003 (VICTUS NOX)&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" /> <b>SN1 Test Flight</b> from El Arenosillo Test Centre. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Miura 1 | SN1 Test Flight&location=El Arenosillo Test Centre&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -198,6 +199,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Op-ed | To Open the Space Frontier, CLD Must Not Fail](https://spacenews.com/op-ed-to-open-the-space-frontier-cld-must-not-fail/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T213918">2023-06-13 21:39:18 UTC</a></sub>
 * [SpaceX picks Ship 25 and Booster 9 for next Starship test flight](https://www.teslarati.com/spacex-picks-ship-25-booster-9-for-next-starship-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T194919">2023-06-13 19:49:19 UTC</a></sub>
 * [With NuSTAR, scientists reveal new characteristics of the brightest gamma-ray burst ever detected](https://www.nasaspaceflight.com/2023/06/grb-221009a-nustar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T183628">2023-06-13 18:36:28 UTC</a></sub>
 * [SES CEO Steps Down Effective End Of June](https://tlpnetwork.com/news/2023/06/ses-ceo-resigns-effective-end-of-june) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T162800">2023-06-13 16:28:00 UTC</a></sub>
@@ -207,7 +209,6 @@ Jilin-1 Pingtai 02A01~02
 * [OrbeX Announces Arianespace Partnership ](https://tlpnetwork.com/news/2023/06/orbex-announces-arianespace-partnership) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T153200">2023-06-13 15:32:00 UTC</a></sub>
 * [UAE Plans Mission To Asteroid Belt](https://tlpnetwork.com/news/2023/06/uae-plans-mission-to-asteroid-belt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T140300">2023-06-13 14:03:00 UTC</a></sub>
 * [Air Force orders a Viasat-3 terminal to demonstrate space relay service](https://spacenews.com/air-force-orders-a-viasat-3-terminal-to-demonstrate-space-relay-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135929">2023-06-13 13:59:29 UTC</a></sub>
-* [NASA Psyche Set To Launch In October](https://tlpnetwork.com/news/2023/06/nasa-psyche-set-to-launch-in-october) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135500">2023-06-13 13:55:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -240,7 +241,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T213043">2023-06-13 21:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T220050">2023-06-13 22:00:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
