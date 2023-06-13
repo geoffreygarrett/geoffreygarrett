@@ -197,6 +197,8 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Next Generation Experimental Aircraft Becomes NASA’s Newest X-Plane](http://www.nasa.gov/press-release/next-generation-experimental-aircraft-becomes-nasa-s-newest-x-plane) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T231900">2023-06-12 23:19:00 UTC</a></sub>
+* [Zero-Error Systems raises $7.5 million](https://spacenews.com/zero-error-systems-raises-7-5-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T230000">2023-06-12 23:00:00 UTC</a></sub>
 * [SpaceX launches 52 Starlink satellites from early morning Falcon 9 launch](https://www.teslarati.com/spacex-launches-52-starlink-satellites-from-early-morning-falcon-9-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T191904">2023-06-12 19:19:04 UTC</a></sub>
 * [Space domain awareness provisions in draft NDAA proposal ](https://spacenews.com/space-domain-awareness-provisions-in-draft-ndaa-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T185925">2023-06-12 18:59:25 UTC</a></sub>
 * [NASA Invites Media to Tours, Opening of Earth Information Center](http://www.nasa.gov/press-release/nasa-invites-media-to-tours-opening-of-earth-information-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T185800">2023-06-12 18:58:00 UTC</a></sub>
@@ -205,8 +207,6 @@ Jilin-1 Pingtai 02A01~02
 * [SES CEO Steve Collar announces sudden resignation](https://spacenews.com/ses-ceo-steve-collar-announces-sudden-resignation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T152456">2023-06-12 15:24:56 UTC</a></sub>
 * [Space Force sorting out complexities of wartime contracting](https://spacenews.com/space-force-sorting-out-complexities-of-wartime-contracting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T133239">2023-06-12 13:32:39 UTC</a></sub>
 * [State Department framework seeks to coordinate its space policy activities](https://spacenews.com/state-department-framework-seeks-to-coordinate-its-space-policy-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230611T234552">2023-06-11 23:45:52 UTC</a></sub>
-* [Gravimeter for ESA’s Hera mission is ready to launch to Dimorphos asteroid](https://www.nasaspaceflight.com/2023/06/grass-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T183501">2023-06-10 18:35:01 UTC</a></sub>
-* [Should the FAA regulate all space activities?](https://spacenews.com/should-the-faa-regulate-all-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T180549">2023-06-10 18:05:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -217,6 +217,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Day of Action 2023 - Participant Information](https://www.planetary.org/advocacy/day-of-action-2023-participant-information) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T231905">2023-06-12 23:19:05 UTC</a></sub>
 * [Why did we need OSIRIS-REx?](https://www.planetary.org/articles/why-did-we-need-osiris-rex) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150907">2023-06-12 15:09:07 UTC</a></sub>
 * [Your impact: June solstice 2023](https://www.planetary.org/articles/your-impact-june-solstice-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150906">2023-06-12 15:09:06 UTC</a></sub>
 * [Asteroid samples from another world](https://www.planetary.org/articles/asteroid-samples-from-another-world) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150904">2023-06-12 15:09:04 UTC</a></sub>
@@ -226,7 +227,6 @@ Jilin-1 Pingtai 02A01~02
 * [Space salads and salty waters](https://www.planetary.org/articles/step-grant-winners-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T135637">2023-05-31 13:56:37 UTC</a></sub>
 * [Way out there](https://www.planetary.org/the-downlink/way-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T143628">2023-05-26 14:36:28 UTC</a></sub>
 * [Vulcan: Preview of the Flight Readiness Firing](https://blog.ulalaunch.com/blog/vulcan-preview-of-the-flight-readiness-firing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T133635">2023-05-25 13:36:35 UTC</a></sub>
-* [Five asteroid deflection techniques to save the Earth](https://www.planetary.org/articles/asteroid-deflection-techniques-to-save-the-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T143328">2023-05-23 14:33:28 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -239,7 +239,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T233041">2023-06-12 23:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T004515">2023-06-13 00:45:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
