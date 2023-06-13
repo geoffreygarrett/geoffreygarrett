@@ -198,6 +198,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [With NuSTAR, scientists reveal new characteristics of the brightest gamma-ray burst ever detected](https://www.nasaspaceflight.com/2023/06/grb-221009a-nustar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T183628">2023-06-13 18:36:28 UTC</a></sub>
 * [SES CEO Steps Down Effective End Of June](https://tlpnetwork.com/news/2023/06/ses-ceo-resigns-effective-end-of-june) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T162800">2023-06-13 16:28:00 UTC</a></sub>
 * [NASA's Curiosity Captures Martian Morning, Afternoon in New 'Postcard'](https://mars.nasa.gov/news/9415/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T161900">2023-06-13 16:19:00 UTC</a></sub>
 * [Firefly Aerospace Acquires Spaceflight Inc.](https://tlpnetwork.com/news/2023/06/firefly-aerospace-acquires-spaceflight-inc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T161031">2023-06-13 16:10:31 UTC</a></sub>
@@ -207,7 +208,6 @@ Jilin-1 Pingtai 02A01~02
 * [Air Force orders a Viasat-3 terminal to demonstrate space relay service](https://spacenews.com/air-force-orders-a-viasat-3-terminal-to-demonstrate-space-relay-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135929">2023-06-13 13:59:29 UTC</a></sub>
 * [NASA Psyche Set To Launch In October](https://tlpnetwork.com/news/2023/06/nasa-psyche-set-to-launch-in-october) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135500">2023-06-13 13:55:00 UTC</a></sub>
 * [Blue Origin Preparing To Resume New Shepard Flights](https://tlpnetwork.com/news/2023/06/blue-origin-preparing-to-resume-new-shepard-flights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135400">2023-06-13 13:54:00 UTC</a></sub>
-* [Rogers in draft NDAA bill presses Air Force on relocation of U.S. Space Command](https://spacenews.com/rogers-in-draft-ndaa-bill-presses-air-force-on-relocation-of-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T113955">2023-06-13 11:39:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -240,7 +240,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T190044">2023-06-13 19:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T193053">2023-06-13 19:30:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
