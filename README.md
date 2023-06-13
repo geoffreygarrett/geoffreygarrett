@@ -198,6 +198,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OrbeX Announces Arianespace Partnership ](https://tlpnetwork.com/news/2023/06/orbex-announces-arianespace-partnership) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T153200">2023-06-13 15:32:00 UTC</a></sub>
 * [UAE Plans Mission To Asteroid Belt](https://tlpnetwork.com/news/2023/06/uae-plans-mission-to-asteroid-belt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T140300">2023-06-13 14:03:00 UTC</a></sub>
 * [Air Force orders a Viasat-3 terminal to demonstrate space relay service](https://spacenews.com/air-force-orders-a-viasat-3-terminal-to-demonstrate-space-relay-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135929">2023-06-13 13:59:29 UTC</a></sub>
 * [NASA Psyche Set To Launch In October](https://tlpnetwork.com/news/2023/06/nasa-psyche-set-to-launch-in-october) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135500">2023-06-13 13:55:00 UTC</a></sub>
@@ -207,7 +208,6 @@ Jilin-1 Pingtai 02A01~02
 * [House FAA bill would give agency new space traffic management role](https://spacenews.com/house-faa-bill-would-give-agency-new-space-traffic-management-role/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T011445">2023-06-13 01:14:45 UTC</a></sub>
 * [Next Generation Experimental Aircraft Becomes NASA’s Newest X-Plane](http://www.nasa.gov/press-release/next-generation-experimental-aircraft-becomes-nasa-s-newest-x-plane) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T231900">2023-06-12 23:19:00 UTC</a></sub>
 * [Zero-Error Systems raises $7.5 million](https://spacenews.com/zero-error-systems-raises-7-5-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T230000">2023-06-12 23:00:00 UTC</a></sub>
-* [SpaceX launches 52 Starlink satellites from early morning Falcon 9 launch](https://www.teslarati.com/spacex-launches-52-starlink-satellites-from-early-morning-falcon-9-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T191904">2023-06-12 19:19:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -240,7 +240,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T153041">2023-06-13 15:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T160100">2023-06-13 16:01:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
