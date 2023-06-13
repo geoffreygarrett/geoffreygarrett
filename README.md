@@ -198,6 +198,8 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Curiosity Captures Martian Morning, Afternoon in New 'Postcard'](https://mars.nasa.gov/news/9415/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T161900">2023-06-13 16:19:00 UTC</a></sub>
+* [Firefly Aerospace Acquires Spaceflight Inc.](https://tlpnetwork.com/news/2023/06/firefly-aerospace-acquires-spaceflight-inc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T161031">2023-06-13 16:10:31 UTC</a></sub>
 * [OrbeX Announces Arianespace Partnership ](https://tlpnetwork.com/news/2023/06/orbex-announces-arianespace-partnership) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T153200">2023-06-13 15:32:00 UTC</a></sub>
 * [UAE Plans Mission To Asteroid Belt](https://tlpnetwork.com/news/2023/06/uae-plans-mission-to-asteroid-belt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T140300">2023-06-13 14:03:00 UTC</a></sub>
 * [Air Force orders a Viasat-3 terminal to demonstrate space relay service](https://spacenews.com/air-force-orders-a-viasat-3-terminal-to-demonstrate-space-relay-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135929">2023-06-13 13:59:29 UTC</a></sub>
@@ -206,8 +208,6 @@ Jilin-1 Pingtai 02A01~02
 * [Rogers in draft NDAA bill presses Air Force on relocation of U.S. Space Command](https://spacenews.com/rogers-in-draft-ndaa-bill-presses-air-force-on-relocation-of-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T113955">2023-06-13 11:39:55 UTC</a></sub>
 * [SpaceX launches eighth dedicated smallsat rideshare mission](https://spacenews.com/spacex-launches-eighth-dedicated-smallsat-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T034330">2023-06-13 03:43:30 UTC</a></sub>
 * [House FAA bill would give agency new space traffic management role](https://spacenews.com/house-faa-bill-would-give-agency-new-space-traffic-management-role/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T011445">2023-06-13 01:14:45 UTC</a></sub>
-* [Next Generation Experimental Aircraft Becomes NASA’s Newest X-Plane](http://www.nasa.gov/press-release/next-generation-experimental-aircraft-becomes-nasa-s-newest-x-plane) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T231900">2023-06-12 23:19:00 UTC</a></sub>
-* [Zero-Error Systems raises $7.5 million](https://spacenews.com/zero-error-systems-raises-7-5-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T230000">2023-06-12 23:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -240,7 +240,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T160100">2023-06-13 16:01:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T163336">2023-06-13 16:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
