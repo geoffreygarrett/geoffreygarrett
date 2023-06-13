@@ -197,6 +197,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches eighth dedicated smallsat rideshare mission](https://spacenews.com/spacex-launches-eighth-dedicated-smallsat-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T034330">2023-06-13 03:43:30 UTC</a></sub>
 * [House FAA bill would give agency new space traffic management role](https://spacenews.com/house-faa-bill-would-give-agency-new-space-traffic-management-role/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T011445">2023-06-13 01:14:45 UTC</a></sub>
 * [Next Generation Experimental Aircraft Becomes NASA’s Newest X-Plane](http://www.nasa.gov/press-release/next-generation-experimental-aircraft-becomes-nasa-s-newest-x-plane) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T231900">2023-06-12 23:19:00 UTC</a></sub>
 * [Zero-Error Systems raises $7.5 million](https://spacenews.com/zero-error-systems-raises-7-5-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T230000">2023-06-12 23:00:00 UTC</a></sub>
@@ -206,7 +207,6 @@ Jilin-1 Pingtai 02A01~02
 * [U.S. defense companies find roadblocks in selling space technologies to allies](https://spacenews.com/u-s-defense-companies-find-roadblocks-in-selling-space-technologies-to-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T171819">2023-06-12 17:18:19 UTC</a></sub>
 * [SpaceX Transporter-8 launches 72 payloads – Booster landing milestone](https://www.nasaspaceflight.com/2023/06/spacex-transporter-8/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T161657">2023-06-12 16:16:57 UTC</a></sub>
 * [SES CEO Steve Collar announces sudden resignation](https://spacenews.com/ses-ceo-steve-collar-announces-sudden-resignation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T152456">2023-06-12 15:24:56 UTC</a></sub>
-* [Space Force sorting out complexities of wartime contracting](https://spacenews.com/space-force-sorting-out-complexities-of-wartime-contracting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T133239">2023-06-12 13:32:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -239,7 +239,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T033105">2023-06-13 03:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T040108">2023-06-13 04:01:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
