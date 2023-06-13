@@ -199,6 +199,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis 2 Astronaut Completes Vision Quest](https://tlpnetwork.com/news/2023/06/artemis-2-astronaut-completes-vision-quest) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T215600">2023-06-13 21:56:00 UTC</a></sub>
 * [Op-ed | To Open the Space Frontier, CLD Must Not Fail](https://spacenews.com/op-ed-to-open-the-space-frontier-cld-must-not-fail/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T213918">2023-06-13 21:39:18 UTC</a></sub>
 * [SpaceX picks Ship 25 and Booster 9 for next Starship test flight](https://www.teslarati.com/spacex-picks-ship-25-booster-9-for-next-starship-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T194919">2023-06-13 19:49:19 UTC</a></sub>
 * [With NuSTAR, scientists reveal new characteristics of the brightest gamma-ray burst ever detected](https://www.nasaspaceflight.com/2023/06/grb-221009a-nustar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T183628">2023-06-13 18:36:28 UTC</a></sub>
@@ -208,7 +209,6 @@ Jilin-1 Pingtai 02A01~02
 * [Space Force eager to harness satellite-servicing technologies](https://spacenews.com/space-force-eager-to-harness-satellite-servicing-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T160000">2023-06-13 16:00:00 UTC</a></sub>
 * [OrbeX Announces Arianespace Partnership ](https://tlpnetwork.com/news/2023/06/orbex-announces-arianespace-partnership) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T153200">2023-06-13 15:32:00 UTC</a></sub>
 * [UAE Plans Mission To Asteroid Belt](https://tlpnetwork.com/news/2023/06/uae-plans-mission-to-asteroid-belt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T140300">2023-06-13 14:03:00 UTC</a></sub>
-* [Air Force orders a Viasat-3 terminal to demonstrate space relay service](https://spacenews.com/air-force-orders-a-viasat-3-terminal-to-demonstrate-space-relay-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135929">2023-06-13 13:59:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -241,7 +241,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T223046">2023-06-13 22:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T230119">2023-06-13 23:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
