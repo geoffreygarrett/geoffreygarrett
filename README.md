@@ -199,6 +199,8 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [For the first time in decades, Congress seems interested in space-based solar power](https://arstechnica.com/space/2023/06/for-the-first-time-in-decades-congress-seems-interested-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T222348">2023-06-14 22:23:48 UTC</a></sub>
+* [Space Force working to define what it means to be a guardian](https://spacenews.com/space-force-working-to-define-what-it-means-to-be-a-guardian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T220057">2023-06-14 22:00:57 UTC</a></sub>
 * [New Orbital Debris Mitigation Guidelines Released By World Economic Forum ](https://tlpnetwork.com/news/2023/06/new-orbital-debris-guidelines-released-by-wem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T190600">2023-06-14 19:06:00 UTC</a></sub>
 * [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T180100">2023-06-14 18:01:00 UTC</a></sub>
 * [Tomorrow.io raises $87 million for weather satellite constellation](https://spacenews.com/tomorrow-io-raises-87-million-for-weather-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T175014">2023-06-14 17:50:14 UTC</a></sub>
@@ -207,8 +209,6 @@ Jilin-1 Pingtai 02A01~02
 * [China begins constructing commercial launch pad for solid rockets](https://spacenews.com/china-begins-constructing-commercial-launch-pad-for-solid-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T124903">2023-06-14 12:49:03 UTC</a></sub>
 * [Deloitte calls on companies to draft long-term space strategies](https://spacenews.com/deloitte-calls-on-companies-to-draft-long-term-space-strategies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T100000">2023-06-14 10:00:00 UTC</a></sub>
 * [World Economic Forum offers new debris mitigation guidelines](https://spacenews.com/world-economic-forum-offers-new-debris-mitigation-guidelines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T083245">2023-06-14 08:32:45 UTC</a></sub>
-* [U.N. opens “window of opportunity” to improve space governance](https://spacenews.com/u-n-opens-window-of-opportunity-to-improve-space-governance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T073559">2023-06-14 07:35:59 UTC</a></sub>
-* [Satellite execs call for more data to improve space sustainability](https://spacenews.com/satellite-execs-call-for-more-data-to-improve-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T013000">2023-06-14 01:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -241,7 +241,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T223038">2023-06-14 22:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T230101">2023-06-14 23:01:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
