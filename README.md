@@ -199,6 +199,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.N. opens “window of opportunity” to improve space governance](https://spacenews.com/u-n-opens-window-of-opportunity-to-improve-space-governance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T073559">2023-06-14 07:35:59 UTC</a></sub>
 * [Satellite execs call for more data to improve space sustainability](https://spacenews.com/satellite-execs-call-for-more-data-to-improve-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T013000">2023-06-14 01:30:00 UTC</a></sub>
 * [DARPA downsizes Blackjack space experiment](https://spacenews.com/darpa-downsizes-blackjack-space-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T010000">2023-06-14 01:00:00 UTC</a></sub>
 * [Artemis 2 Astronaut Completes Vision Quest](https://tlpnetwork.com/news/2023/06/artemis-2-astronaut-completes-vision-quest) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T215600">2023-06-13 21:56:00 UTC</a></sub>
@@ -208,7 +209,6 @@ Jilin-1 Pingtai 02A01~02
 * [SES CEO Steps Down Effective End Of June](https://tlpnetwork.com/news/2023/06/ses-ceo-resigns-effective-end-of-june) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T162800">2023-06-13 16:28:00 UTC</a></sub>
 * [NASA's Curiosity Captures Martian Morning, Afternoon in New 'Postcard'](https://mars.nasa.gov/news/9415/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T161900">2023-06-13 16:19:00 UTC</a></sub>
 * [Firefly Aerospace Acquires Spaceflight Inc.](https://tlpnetwork.com/news/2023/06/firefly-aerospace-acquires-spaceflight-inc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T161031">2023-06-13 16:10:31 UTC</a></sub>
-* [Space Force eager to harness satellite-servicing technologies](https://spacenews.com/space-force-eager-to-harness-satellite-servicing-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T160000">2023-06-13 16:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -241,7 +241,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T073040">2023-06-14 07:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T080106">2023-06-14 08:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
