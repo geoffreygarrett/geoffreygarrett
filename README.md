@@ -199,6 +199,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Tomorrow.io raises $87 million for weather satellite constellation](https://spacenews.com/tomorrow-io-raises-87-million-for-weather-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T175014">2023-06-14 17:50:14 UTC</a></sub>
 * [Vulcan aces engine test, but upper stage anomaly will delay launch for a while](https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T164810">2023-06-14 16:48:10 UTC</a></sub>
 * [Muon celebrates launch of first satellite in Climate Constellation](https://spacenews.com/muon-celebrates-launch-of-first-satellite-in-climate-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T133000">2023-06-14 13:30:00 UTC</a></sub>
 * [China begins constructing commercial launch pad for solid rockets](https://spacenews.com/china-begins-constructing-commercial-launch-pad-for-solid-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T124903">2023-06-14 12:49:03 UTC</a></sub>
@@ -208,7 +209,6 @@ Jilin-1 Pingtai 02A01~02
 * [Satellite execs call for more data to improve space sustainability](https://spacenews.com/satellite-execs-call-for-more-data-to-improve-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T013000">2023-06-14 01:30:00 UTC</a></sub>
 * [DARPA downsizes Blackjack space experiment](https://spacenews.com/darpa-downsizes-blackjack-space-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T010000">2023-06-14 01:00:00 UTC</a></sub>
 * [Artemis 2 Astronaut Completes Vision Quest](https://tlpnetwork.com/news/2023/06/artemis-2-astronaut-completes-vision-quest) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T215600">2023-06-13 21:56:00 UTC</a></sub>
-* [Op-ed | To Open the Space Frontier, CLD Must Not Fail](https://spacenews.com/op-ed-to-open-the-space-frontier-cld-must-not-fail/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T213918">2023-06-13 21:39:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -241,7 +241,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T173047">2023-06-14 17:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T180057">2023-06-14 18:00:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
