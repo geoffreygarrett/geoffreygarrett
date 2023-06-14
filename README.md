@@ -199,6 +199,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China begins constructing commercial launch pad for solid rockets](https://spacenews.com/china-begins-constructing-commercial-launch-pad-for-solid-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T124903">2023-06-14 12:49:03 UTC</a></sub>
 * [Deloitte calls on companies to draft long-term space strategies](https://spacenews.com/deloitte-calls-on-companies-to-draft-long-term-space-strategies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T100000">2023-06-14 10:00:00 UTC</a></sub>
 * [World Economic Forum offers new debris mitigation guidelines](https://spacenews.com/world-economic-forum-offers-new-debris-mitigation-guidelines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T083245">2023-06-14 08:32:45 UTC</a></sub>
 * [U.N. opens “window of opportunity” to improve space governance](https://spacenews.com/u-n-opens-window-of-opportunity-to-improve-space-governance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T073559">2023-06-14 07:35:59 UTC</a></sub>
@@ -208,7 +209,6 @@ Jilin-1 Pingtai 02A01~02
 * [Op-ed | To Open the Space Frontier, CLD Must Not Fail](https://spacenews.com/op-ed-to-open-the-space-frontier-cld-must-not-fail/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T213918">2023-06-13 21:39:18 UTC</a></sub>
 * [SpaceX picks Ship 25 and Booster 9 for next Starship test flight](https://www.teslarati.com/spacex-picks-ship-25-booster-9-for-next-starship-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T194919">2023-06-13 19:49:19 UTC</a></sub>
 * [With NuSTAR, scientists reveal new characteristics of the brightest gamma-ray burst ever detected](https://www.nasaspaceflight.com/2023/06/grb-221009a-nustar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T183628">2023-06-13 18:36:28 UTC</a></sub>
-* [SES CEO Steps Down Effective End Of June](https://tlpnetwork.com/news/2023/06/ses-ceo-resigns-effective-end-of-june) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T162800">2023-06-13 16:28:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -241,7 +241,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T130248">2023-06-14 13:02:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T133058">2023-06-14 13:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
