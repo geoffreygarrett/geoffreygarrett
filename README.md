@@ -199,6 +199,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New Orbital Debris Mitigation Guidelines Released By World Economic Forum ](https://tlpnetwork.com/news/2023/06/new-orbital-debris-guidelines-released-by-wem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T190600">2023-06-14 19:06:00 UTC</a></sub>
 * [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T180100">2023-06-14 18:01:00 UTC</a></sub>
 * [Tomorrow.io raises $87 million for weather satellite constellation](https://spacenews.com/tomorrow-io-raises-87-million-for-weather-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T175014">2023-06-14 17:50:14 UTC</a></sub>
 * [Vulcan aces engine test, but upper stage anomaly will delay launch for a while](https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T164810">2023-06-14 16:48:10 UTC</a></sub>
@@ -208,7 +209,6 @@ Jilin-1 Pingtai 02A01~02
 * [World Economic Forum offers new debris mitigation guidelines](https://spacenews.com/world-economic-forum-offers-new-debris-mitigation-guidelines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T083245">2023-06-14 08:32:45 UTC</a></sub>
 * [U.N. opens “window of opportunity” to improve space governance](https://spacenews.com/u-n-opens-window-of-opportunity-to-improve-space-governance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T073559">2023-06-14 07:35:59 UTC</a></sub>
 * [Satellite execs call for more data to improve space sustainability](https://spacenews.com/satellite-execs-call-for-more-data-to-improve-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T013000">2023-06-14 01:30:00 UTC</a></sub>
-* [DARPA downsizes Blackjack space experiment](https://spacenews.com/darpa-downsizes-blackjack-space-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T010000">2023-06-14 01:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -241,7 +241,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T193045">2023-06-14 19:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T200059">2023-06-14 20:00:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
