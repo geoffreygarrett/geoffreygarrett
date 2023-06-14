@@ -219,6 +219,7 @@ Jilin-1 Pingtai 02A01~02
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How to Fix the Pollution of Orbital Debris](https://blog.ulalaunch.com/blog/how-to-fix-the-pollution-of-orbital-debris) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T122912">2023-06-14 12:29:12 UTC</a></sub>
 * [Day of Action 2023 - Participant Information](https://www.planetary.org/advocacy/day-of-action-2023-participant-information) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T231905">2023-06-12 23:19:05 UTC</a></sub>
 * [Why did we need OSIRIS-REx?](https://www.planetary.org/articles/why-did-we-need-osiris-rex) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150907">2023-06-12 15:09:07 UTC</a></sub>
 * [Your impact: June solstice 2023](https://www.planetary.org/articles/your-impact-june-solstice-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150906">2023-06-12 15:09:06 UTC</a></sub>
@@ -228,7 +229,6 @@ Jilin-1 Pingtai 02A01~02
 * [Would you like some salty water with your space salad?](https://www.planetary.org/the-downlink/would-you-like-some-salty-water-with-your-space-salad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T143714">2023-06-02 14:37:14 UTC</a></sub>
 * [Space salads and salty waters](https://www.planetary.org/articles/step-grant-winners-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T135637">2023-05-31 13:56:37 UTC</a></sub>
 * [Way out there](https://www.planetary.org/the-downlink/way-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T143628">2023-05-26 14:36:28 UTC</a></sub>
-* [Vulcan: Preview of the Flight Readiness Firing](https://blog.ulalaunch.com/blog/vulcan-preview-of-the-flight-readiness-firing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T133635">2023-05-25 13:36:35 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -241,7 +241,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T120057">2023-06-14 12:00:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T123927">2023-06-14 12:39:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
