@@ -102,26 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Ariane 5 ECA+ | Syracuse 4B & Heinrich Hertz (H2Sat) at the
-<a href="http://en.wikipedia.org/wiki/ELA-3">Ariane Launch Area 3</a> in
-Kourou, French Guiana
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T212600">2023-06-16 21:26:00 UTC</a>. Until
-then, this launch pad will have seen 117
-out of 318 launches in this
+HASTE | DYNAMO-A at the
+<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a> in
+Wallops Island, Virginia, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T004500">2023-06-18 00:45:00 UTC</a>. Until
+then, this launch pad will have seen 2
+out of 75 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  Syracuse 4B is a French military communications satellite built by Thales Alenia Space. Heinrich Hertz (H2Sat)  is a small geostationary communications satellite built by OHB System and the German Aerospace Center (DLR) to explore and test new broadband communications technologies.
+  First sub-orbital launch of Electron of the Hypersonic Accelerator Suborbital Test Electron (HASTE) program for the US Military.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Ariane_5" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron#Suborbital_launches" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=5.239,-52.768" >
+  <a href="https://www.google.com/maps?q=37.834,-75.488" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,7 +134,6 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Syracuse 4B & Heinrich Hertz (H2Sat)</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T212600">2023-06-16 21:26:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Syracuse 4B &amp; Heinrich Hertz (H2Sat)&location=Kourou, French Guiana&dates=20230616T212600Z%2F20230616T230100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>DYNAMO-A</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T004500">2023-06-18 00:45:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | DYNAMO-A&location=Wallops Island, Virginia, USA&dates=20230618T004500Z%2F20230618T043000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Satria-1</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T220400">2023-06-18 22:04:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Satria-1&location=Cape Canaveral, FL, USA&dates=20230618T220400Z%2F20230619T013200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Taiyuan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T031100">2023-06-20 03:11:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 (?) | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20230620T031100Z%2F20230620T035300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -143,6 +142,7 @@ region. The mission's status is currently Go for Launch
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>SDA Tranche 0B</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0B&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-12&location=Cape Canaveral, FL, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-7</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-7&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
+* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>FLTA003 (VICTUS NOX)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA003 (VICTUS NOX)&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Former top SpaceX lawyer joins Surf Air Mobility as it prepares to go public](https://www.cnbc.com/2023/06/15/former-spacex-lawyer-david-anderman-joins-surf-air-mobility.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T150001">2023-06-15 15:00:01 UTC</a></sub>
+* [Former Spaceflight CEO joins law firm to support commercial space clients](https://spacenews.com/former-spaceflight-ceo-joins-law-firm-to-support-commercial-space-clients/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T145948">2023-06-15 14:59:48 UTC</a></sub>
 * [Luxembourg approves program to give NATO O3b mPower access](https://spacenews.com/luxembourg-approves-program-to-give-nato-o3b-mpower-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T141433">2023-06-15 14:14:33 UTC</a></sub>
 * [More countries encouraged to commit to halt destructive ASAT tests](https://spacenews.com/more-countries-encouraged-to-commit-to-halt-destructive-asat-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T100006">2023-06-15 10:00:06 UTC</a></sub>
 * [For the first time in decades, Congress seems interested in space-based solar power](https://arstechnica.com/space/2023/06/for-the-first-time-in-decades-congress-seems-interested-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T222348">2023-06-14 22:23:48 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T180100">2023-06-14 18:01:00 UTC</a></sub>
 * [Tomorrow.io raises $87 million for weather satellite constellation](https://spacenews.com/tomorrow-io-raises-87-million-for-weather-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T175014">2023-06-14 17:50:14 UTC</a></sub>
 * [Vulcan aces engine test, but upper stage anomaly will delay launch for a while](https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T164810">2023-06-14 16:48:10 UTC</a></sub>
-* [Muon celebrates launch of first satellite in Climate Constellation](https://spacenews.com/muon-celebrates-launch-of-first-satellite-in-climate-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T133000">2023-06-14 13:30:00 UTC</a></sub>
-* [China begins constructing commercial launch pad for solid rockets](https://spacenews.com/china-begins-constructing-commercial-launch-pad-for-solid-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T124903">2023-06-14 12:49:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T153043">2023-06-15 15:30:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T160128">2023-06-15 16:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
