@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ISS finishes initial iROSA upgrade with two EVAs this month](https://www.nasaspaceflight.com/2023/06/iss_irosa_roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T184318">2023-06-15 18:43:18 UTC</a></sub>
+* [ESA Reserve Astronaut Secures Seat Aboard Axiom Flight](https://europeanspaceflight.com/esa-reserve-astronaut-secures-seat-aboard-axiom-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T181625">2023-06-15 18:16:25 UTC</a></sub>
 * [Project Kuiper urges regulators to focus on satellite maneuverability rules](https://spacenews.com/project-kuiper-urges-regulators-to-focus-on-satellite-maneuverability-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T164533">2023-06-15 16:45:33 UTC</a></sub>
 * [Investing in Space: Bankers and insiders say M&A action is heating up](https://www.cnbc.com/2023/06/15/investing-in-space-bankers-and-insiders-say-ma-action-is-heating-up.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T163809">2023-06-15 16:38:09 UTC</a></sub>
 * [Former top SpaceX lawyer joins Surf Air Mobility as it prepares to go public](https://www.cnbc.com/2023/06/15/former-spacex-lawyer-david-anderman-joins-surf-air-mobility.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T150001">2023-06-15 15:00:01 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [More countries encouraged to commit to halt destructive ASAT tests](https://spacenews.com/more-countries-encouraged-to-commit-to-halt-destructive-asat-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T100006">2023-06-15 10:00:06 UTC</a></sub>
 * [For the first time in decades, Congress seems interested in space-based solar power](https://arstechnica.com/space/2023/06/for-the-first-time-in-decades-congress-seems-interested-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T222348">2023-06-14 22:23:48 UTC</a></sub>
 * [Space Force working to define what it means to be a guardian](https://spacenews.com/space-force-working-to-define-what-it-means-to-be-a-guardian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T220057">2023-06-14 22:00:57 UTC</a></sub>
-* [New Orbital Debris Mitigation Guidelines Released By World Economic Forum ](https://tlpnetwork.com/news/2023/06/new-orbital-debris-guidelines-released-by-wem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T190600">2023-06-14 19:06:00 UTC</a></sub>
-* [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T180100">2023-06-14 18:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T183040">2023-06-15 18:30:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T190055">2023-06-15 19:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
