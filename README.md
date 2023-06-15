@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Project Kuiper urges regulators to focus on satellite maneuverability rules](https://spacenews.com/project-kuiper-urges-regulators-to-focus-on-satellite-maneuverability-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T164533">2023-06-15 16:45:33 UTC</a></sub>
+* [Investing in Space: Bankers and insiders say M&A action is heating up](https://www.cnbc.com/2023/06/15/investing-in-space-bankers-and-insiders-say-ma-action-is-heating-up.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T163809">2023-06-15 16:38:09 UTC</a></sub>
 * [Former top SpaceX lawyer joins Surf Air Mobility as it prepares to go public](https://www.cnbc.com/2023/06/15/former-spacex-lawyer-david-anderman-joins-surf-air-mobility.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T150001">2023-06-15 15:00:01 UTC</a></sub>
 * [Former Spaceflight CEO joins law firm to support commercial space clients](https://spacenews.com/former-spaceflight-ceo-joins-law-firm-to-support-commercial-space-clients/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T145948">2023-06-15 14:59:48 UTC</a></sub>
 * [Luxembourg approves program to give NATO O3b mPower access](https://spacenews.com/luxembourg-approves-program-to-give-nato-o3b-mpower-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T141433">2023-06-15 14:14:33 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force working to define what it means to be a guardian](https://spacenews.com/space-force-working-to-define-what-it-means-to-be-a-guardian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T220057">2023-06-14 22:00:57 UTC</a></sub>
 * [New Orbital Debris Mitigation Guidelines Released By World Economic Forum ](https://tlpnetwork.com/news/2023/06/new-orbital-debris-guidelines-released-by-wem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T190600">2023-06-14 19:06:00 UTC</a></sub>
 * [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T180100">2023-06-14 18:01:00 UTC</a></sub>
-* [Tomorrow.io raises $87 million for weather satellite constellation](https://spacenews.com/tomorrow-io-raises-87-million-for-weather-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T175014">2023-06-14 17:50:14 UTC</a></sub>
-* [Vulcan aces engine test, but upper stage anomaly will delay launch for a while](https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T164810">2023-06-14 16:48:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T163253">2023-06-15 16:32:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T173042">2023-06-15 17:30:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
