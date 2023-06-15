@@ -102,36 +102,26 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-Long March 2D | 41 x Jilin-1 (?) at the
-<a href="">Launch Complex 9</a> in
-Taiyuan, People's Republic of China
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T052300">2023-06-15 05:23:00 UTC</a>. Until
-then, this launch pad will have seen 43
-out of 121 launches in this
+Electron (HASTE) | DYNAMO-A at the
+<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a> in
+Wallops Island, Virginia, USA
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T004500">2023-06-16 00:45:00 UTC</a>. Until
+then, this launch pad will have seen 2
+out of 75 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  41 new satellites for the Jilin-1 commercial Earth observation satellites constellation.
-
-
-Tentative satellites list:
-
-
-Jilin-1 Gaofen 03D19~26
-Jilin-1 Gaofen 06A17~18
-Khorgas-1
-HaCeNongYao-1
-Jilin-1 Pingtai 02A01~02
+  First sub-orbital launch of Electron of the Hypersonic Accelerator Suborbital Test Electron (HASTE) program for the US Military.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=38.849,111.608" >
+  <a href="https://www.google.com/maps?q=37.834,-75.488" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -144,7 +134,6 @@ Jilin-1 Pingtai 02A01~02
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
-* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b>41 x Jilin-1</b> from Taiyuan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T052300">2023-06-15 05:23:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | 41 x Jilin-1 (?)&location=Taiyuan, People&#x27;s Republic of China&dates=20230615T052300Z%2F20230615T060500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>DYNAMO-A</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T004500">2023-06-16 00:45:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron (HASTE) | DYNAMO-A&location=Wallops Island, Virginia, USA&dates=20230616T004500Z%2F20230616T043000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> <b>Syracuse 4B & Heinrich Hertz (H2Sat)</b> from Kourou, French Guiana. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T212600">2023-06-16 21:26:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Syracuse 4B &amp; Heinrich Hertz (H2Sat)&location=Kourou, French Guiana&dates=20230616T212600Z%2F20230616T230100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Satria-1</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T220400">2023-06-18 22:04:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Satria-1&location=Cape Canaveral, FL, USA&dates=20230618T220400Z%2F20230619T013200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -241,7 +230,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T050104">2023-06-15 05:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T053043">2023-06-15 05:30:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
