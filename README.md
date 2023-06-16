@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to View Orion Spacecraft for Next Artemis Missions](http://www.nasa.gov/press-release/nasa-invites-media-to-view-orion-spacecraft-for-next-artemis-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T142900">2023-06-16 14:29:00 UTC</a></sub>
+* [Intelligence analysts confront the reality of deepfakes](https://spacenews.com/intelligence-analysts-confront-the-reality-of-deepfakes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T140000">2023-06-16 14:00:00 UTC</a></sub>
 * [NASA agreements to support work on commercial spacecraft and space stations](https://spacenews.com/nasa-agreements-to-support-work-on-commercial-spacecraft-and-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T113428">2023-06-16 11:34:28 UTC</a></sub>
 * [CesiumAstro to develop satcom terminal for U.S. Air Force drone](https://spacenews.com/cesiumastro-to-develop-satcom-terminal-for-u-s-air-force-reaper-drone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T112224">2023-06-16 11:22:24 UTC</a></sub>
 * [Rocket Report: China addresses falling rocket debris, Vulcan launch slipping](https://arstechnica.com/space/2023/06/rocket-report-final-ariane-5-launch-delayed-virgin-galactic-set-to-fly-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T110040">2023-06-16 11:00:40 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [BREAKING! NASA Partners With SpaceX, Blue Origin, Sierra Space + 4 Others For Future Commercial Space Capabilities](https://tlpnetwork.com/news/2023/06/nasa-partners-with-7-companies-for-future-commercial-space-capabilities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T210600">2023-06-15 21:06:00 UTC</a></sub>
 * [Seven US Companies Collaborate with NASA to Advance Space Capabilities](http://www.nasa.gov/press-release/seven-us-companies-collaborate-with-nasa-to-advance-space-capabilities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T203800">2023-06-15 20:38:00 UTC</a></sub>
 * [Virgin Galactic sets late June date for first commercial SpaceShipTwo flight](https://spacenews.com/virgin-galactic-sets-late-june-date-for-first-commercial-spaceshiptwo-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T201059">2023-06-15 20:10:59 UTC</a></sub>
-* [Virgin Galactic sets first commercial space tourism flight for this month; shares spike more than 40%](https://www.cnbc.com/2023/06/15/virgin-galactic-sets-first-commercial-space-tourism-flight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T200501">2023-06-15 20:05:01 UTC</a></sub>
-* [ISS finishes initial iROSA upgrade with two EVAs this month](https://www.nasaspaceflight.com/2023/06/iss_irosa_roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T184318">2023-06-15 18:43:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -209,6 +209,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Day and night, it’s all about starlight](https://www.planetary.org/the-downlink/day-and-night-its-all-about-starlight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T143927">2023-06-16 14:39:27 UTC</a></sub>
 * [RocketStars: Leading the engineering team for Delta IV Heavy](https://blog.ulalaunch.com/blog/rocketstars-leading-the-engineering-team-for-delta-iv-heavy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T130928">2023-06-16 13:09:28 UTC</a></sub>
 * [Vladimir Benishek and the mystique of asteroid research](https://www.planetary.org/articles/vladimir-benishek-asteroid-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T143900">2023-06-15 14:39:00 UTC</a></sub>
 * [NROL-68: Delta IV Heavy readied for national security launch](https://blog.ulalaunch.com/blog/nrol-68-delta-iv-heavy-readied-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T172917">2023-06-14 17:29:17 UTC</a></sub>
@@ -218,7 +219,6 @@ region. The mission's status is currently Go for Launch
 * [Your impact: June solstice 2023](https://www.planetary.org/articles/your-impact-june-solstice-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150906">2023-06-12 15:09:06 UTC</a></sub>
 * [Asteroid samples from another world](https://www.planetary.org/articles/asteroid-samples-from-another-world) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150904">2023-06-12 15:09:04 UTC</a></sub>
 * [The scientific truth is out there](https://www.planetary.org/the-downlink/the-scientific-truth-is-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T143711">2023-06-09 14:37:11 UTC</a></sub>
-* [Are aliens real?](https://www.planetary.org/articles/are-aliens-real) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T143736">2023-06-07 14:37:36 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T143044">2023-06-16 14:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T150053">2023-06-16 15:00:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
