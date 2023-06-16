@@ -190,6 +190,8 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Despite growing interest in commercial satellite data, industry faces uncertainty](https://spacenews.com/despite-growing-interest-in-commercial-satellite-data-industry-faces-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T203827">2023-06-16 20:38:27 UTC</a></sub>
+* [NASA Awards Institutional, Maintenance, Operations, and Repair Contract](http://www.nasa.gov/press-release/nasa-awards-institutional-maintenance-operations-and-repair-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T202900">2023-06-16 20:29:00 UTC</a></sub>
 * [NASA Awards Transformational Shared Services Support Contract](http://www.nasa.gov/press-release/nasa-awards-transformational-shared-services-support-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T195900">2023-06-16 19:59:00 UTC</a></sub>
 * [Weirdly, a NASA official says fixed-price contracts do the agency “no good”](https://arstechnica.com/space/2023/06/weirdly-a-nasa-official-says-fixed-price-contracts-do-the-agency-no-good/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T182200">2023-06-16 18:22:00 UTC</a></sub>
 * [Firefly to buy remaining Virgin Orbit assets](https://spacenews.com/firefly-to-buy-remaining-virgin-orbit-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T163945">2023-06-16 16:39:45 UTC</a></sub>
@@ -198,8 +200,6 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 * [Intelligence analysts confront the reality of deepfakes](https://spacenews.com/intelligence-analysts-confront-the-reality-of-deepfakes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T140000">2023-06-16 14:00:00 UTC</a></sub>
 * [NASA agreements to support work on commercial spacecraft and space stations](https://spacenews.com/nasa-agreements-to-support-work-on-commercial-spacecraft-and-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T113428">2023-06-16 11:34:28 UTC</a></sub>
 * [CesiumAstro to develop satcom terminal for U.S. Air Force drone](https://spacenews.com/cesiumastro-to-develop-satcom-terminal-for-u-s-air-force-reaper-drone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T112224">2023-06-16 11:22:24 UTC</a></sub>
-* [Rocket Report: China addresses falling rocket debris, Vulcan launch slipping](https://arstechnica.com/space/2023/06/rocket-report-final-ariane-5-launch-delayed-virgin-galactic-set-to-fly-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T110040">2023-06-16 11:00:40 UTC</a></sub>
-* [Technical problem postpones final Ariane 5 launch](https://spacenews.com/technical-problem-postpones-final-ariane-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T233550">2023-06-15 23:35:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -232,7 +232,7 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T203046">2023-06-16 20:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T210044">2023-06-16 21:00:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
