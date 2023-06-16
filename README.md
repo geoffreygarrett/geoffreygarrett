@@ -102,26 +102,27 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 ### Spotlight 💡
 The next launch, retrieved from the
 <a href="https://thespacedevs.com/">The Space Devs</a>' public API, is the
-HASTE | DYNAMO-A at the
-<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a> in
-Wallops Island, Virginia, USA
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T004500">2023-06-18 00:45:00 UTC</a>. Until
-then, this launch pad will have seen 2
-out of 75 launches in this
+Miura 1 | SN1 Test Flight at the
+<a href="https://en.wikipedia.org/wiki/El_Arenosillo">Médano del Loro</a> in
+El Arenosillo Test Centre
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T000000">2023-06-17 00:00:00 UTC</a>. Until
+then, this launch pad will have seen 0
+out of 0 launches in this
 region. The mission's status is currently Go for Launch
 (Go) 🟩  which means:
 *current T-0 confirmed by official or reliable sources.* 
 <br>
 <blockquote>
-  First sub-orbital launch of Electron of the Hypersonic Accelerator Suborbital Test Electron (HASTE) program for the US Military.
+  The first flight of PLD Space's MIURA 1 SN1 technology demonstrator allows the collection of as much data as possible for the validation and design of the technology to be transferred and integrated into MIURA 5. In addition, this first suborbital flight allows ZARM Research Institution to study microgravity conditions, gathering information necessary for scientific experiments in future suborbital flights.
+Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once splashdown is completed.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron#Suborbital_launches" >
+  <a href="https://en.wikipedia.org/wiki/Miura_1" >
     <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=37.834,-75.488" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
@@ -134,6 +135,7 @@ region. The mission's status is currently Go for Launch
 <td width="50%" valign="top" align="left">
 
 <!-- rocket launches starts -->
+* 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" /> <b>SN1 Test Flight</b> from El Arenosillo Test Centre. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T000000">2023-06-17 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Miura 1 | SN1 Test Flight&location=El Arenosillo Test Centre&dates=20230617T000000Z%2F20230617T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>DYNAMO-A</b> from Wallops Island, Virginia, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T004500">2023-06-18 00:45:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | DYNAMO-A&location=Wallops Island, Virginia, USA&dates=20230618T004500Z%2F20230618T043000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟨   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Satria-1</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T220400">2023-06-18 22:04:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Satria-1&location=Cape Canaveral, FL, USA&dates=20230618T220400Z%2F20230619T013200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟩   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> <b><name missing></b> from Taiyuan, People's Republic of China. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T031100">2023-06-20 03:11:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 (?) | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20230620T031100Z%2F20230620T035300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
@@ -143,7 +145,6 @@ region. The mission's status is currently Go for Launch
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-12</b> from Cape Canaveral, FL, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-12&location=Cape Canaveral, FL, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>Starlink Group 5-7</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-7&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 * 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> <b>FLTA003 (VICTUS NOX)</b> from Vandenberg SFB, CA, USA. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA003 (VICTUS NOX)&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
-* 🟧   <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" /> <b>SN1 Test Flight</b> from El Arenosillo Test Centre. <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a> - <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Miura 1 | SN1 Test Flight&location=El Arenosillo Test Centre&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> </sub>
 
 <!-- rocket launches ends -->
 
@@ -189,6 +190,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Firefly to buy remaining Virgin Orbit assets](https://spacenews.com/firefly-to-buy-remaining-virgin-orbit-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T163945">2023-06-16 16:39:45 UTC</a></sub>
+* [SpaceX, Blue Origin, others highlighted in new NASA low-Earth orbit partnerships](https://www.nasaspaceflight.com/2023/06/nasa-low-earth-orbit-partnerships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T163104">2023-06-16 16:31:04 UTC</a></sub>
 * [NASA Invites Media to View Orion Spacecraft for Next Artemis Missions](http://www.nasa.gov/press-release/nasa-invites-media-to-view-orion-spacecraft-for-next-artemis-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T142900">2023-06-16 14:29:00 UTC</a></sub>
 * [Intelligence analysts confront the reality of deepfakes](https://spacenews.com/intelligence-analysts-confront-the-reality-of-deepfakes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T140000">2023-06-16 14:00:00 UTC</a></sub>
 * [NASA agreements to support work on commercial spacecraft and space stations](https://spacenews.com/nasa-agreements-to-support-work-on-commercial-spacecraft-and-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T113428">2023-06-16 11:34:28 UTC</a></sub>
@@ -197,8 +200,6 @@ region. The mission's status is currently Go for Launch
 * [Technical problem postpones final Ariane 5 launch](https://spacenews.com/technical-problem-postpones-final-ariane-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T233550">2023-06-15 23:35:50 UTC</a></sub>
 * [Eutelsat reversing course with European retail broadband business sale](https://spacenews.com/eutelsat-reversing-course-with-european-retail-business-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T220550">2023-06-15 22:05:50 UTC</a></sub>
 * [BREAKING! NASA Partners With SpaceX, Blue Origin, Sierra Space + 4 Others For Future Commercial Space Capabilities](https://tlpnetwork.com/news/2023/06/nasa-partners-with-7-companies-for-future-commercial-space-capabilities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T210600">2023-06-15 21:06:00 UTC</a></sub>
-* [Seven US Companies Collaborate with NASA to Advance Space Capabilities](http://www.nasa.gov/press-release/seven-us-companies-collaborate-with-nasa-to-advance-space-capabilities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T203800">2023-06-15 20:38:00 UTC</a></sub>
-* [Virgin Galactic sets late June date for first commercial SpaceShipTwo flight](https://spacenews.com/virgin-galactic-sets-late-june-date-for-first-commercial-spaceshiptwo-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T201059">2023-06-15 20:10:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +232,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T170040">2023-06-16 17:00:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T173056">2023-06-16 17:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
