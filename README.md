@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CesiumAstro to develop satcom terminal for U.S. Air Force drone](https://spacenews.com/cesiumastro-to-develop-satcom-terminal-for-u-s-air-force-reaper-drone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T112224">2023-06-16 11:22:24 UTC</a></sub>
+* [Rocket Report: China addresses falling rocket debris, Vulcan launch slipping](https://arstechnica.com/space/2023/06/rocket-report-final-ariane-5-launch-delayed-virgin-galactic-set-to-fly-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T110040">2023-06-16 11:00:40 UTC</a></sub>
 * [Technical problem postpones final Ariane 5 launch](https://spacenews.com/technical-problem-postpones-final-ariane-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T233550">2023-06-15 23:35:50 UTC</a></sub>
 * [Eutelsat reversing course with European retail broadband business sale](https://spacenews.com/eutelsat-reversing-course-with-european-retail-business-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T220550">2023-06-15 22:05:50 UTC</a></sub>
 * [BREAKING! NASA Partners With SpaceX, Blue Origin, Sierra Space + 4 Others For Future Commercial Space Capabilities](https://tlpnetwork.com/news/2023/06/nasa-partners-with-7-companies-for-future-commercial-space-capabilities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T210600">2023-06-15 21:06:00 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Virgin Galactic sets first commercial space tourism flight for this month; shares spike more than 40%](https://www.cnbc.com/2023/06/15/virgin-galactic-sets-first-commercial-space-tourism-flight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T200501">2023-06-15 20:05:01 UTC</a></sub>
 * [ISS finishes initial iROSA upgrade with two EVAs this month](https://www.nasaspaceflight.com/2023/06/iss_irosa_roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T184318">2023-06-15 18:43:18 UTC</a></sub>
 * [ESA Reserve Astronaut Secures Seat Aboard Axiom Flight](https://europeanspaceflight.com/esa-reserve-astronaut-secures-seat-aboard-axiom-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T181625">2023-06-15 18:16:25 UTC</a></sub>
-* [Project Kuiper urges regulators to focus on satellite maneuverability rules](https://spacenews.com/project-kuiper-urges-regulators-to-focus-on-satellite-maneuverability-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T164533">2023-06-15 16:45:33 UTC</a></sub>
-* [Investing in Space: Bankers and insiders say M&A action is heating up](https://www.cnbc.com/2023/06/15/investing-in-space-bankers-and-insiders-say-ma-action-is-heating-up.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T163809">2023-06-15 16:38:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T110102">2023-06-16 11:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T113045">2023-06-16 11:30:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
