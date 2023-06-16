@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA agreements to support work on commercial spacecraft and space stations](https://spacenews.com/nasa-agreements-to-support-work-on-commercial-spacecraft-and-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T113428">2023-06-16 11:34:28 UTC</a></sub>
 * [CesiumAstro to develop satcom terminal for U.S. Air Force drone](https://spacenews.com/cesiumastro-to-develop-satcom-terminal-for-u-s-air-force-reaper-drone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T112224">2023-06-16 11:22:24 UTC</a></sub>
 * [Rocket Report: China addresses falling rocket debris, Vulcan launch slipping](https://arstechnica.com/space/2023/06/rocket-report-final-ariane-5-launch-delayed-virgin-galactic-set-to-fly-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T110040">2023-06-16 11:00:40 UTC</a></sub>
 * [Technical problem postpones final Ariane 5 launch](https://spacenews.com/technical-problem-postpones-final-ariane-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T233550">2023-06-15 23:35:50 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Virgin Galactic sets late June date for first commercial SpaceShipTwo flight](https://spacenews.com/virgin-galactic-sets-late-june-date-for-first-commercial-spaceshiptwo-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T201059">2023-06-15 20:10:59 UTC</a></sub>
 * [Virgin Galactic sets first commercial space tourism flight for this month; shares spike more than 40%](https://www.cnbc.com/2023/06/15/virgin-galactic-sets-first-commercial-space-tourism-flight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T200501">2023-06-15 20:05:01 UTC</a></sub>
 * [ISS finishes initial iROSA upgrade with two EVAs this month](https://www.nasaspaceflight.com/2023/06/iss_irosa_roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T184318">2023-06-15 18:43:18 UTC</a></sub>
-* [ESA Reserve Astronaut Secures Seat Aboard Axiom Flight](https://europeanspaceflight.com/esa-reserve-astronaut-secures-seat-aboard-axiom-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T181625">2023-06-15 18:16:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T113045">2023-06-16 11:30:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T120105">2023-06-16 12:01:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
