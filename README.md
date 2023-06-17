@@ -189,16 +189,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [US House Members Introduce Bill To Make NOAA A Independent Agency](https://tlpnetwork.com/news/2023/06/us-house-members-introduce-bill-to-make-noaa-a-independent-agency) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
+* [Firefly Aerospace Purchases Remaining Virgin Orbit Assets](https://tlpnetwork.com/news/2023/06/firefly-aerospace-purchases-remaining-virgin-orbit-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
+* [Space Force Assigns SpaceX & ULA New Security Missions](https://tlpnetwork.com/news/2023/06/space-force-assigns-spacex-and-ula-new-security-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T124700">2023-06-17 12:47:00 UTC</a></sub>
+* [Space Force extends Palantir’s data-as-a-service contracts](https://spacenews.com/space-force-extends-palantirs-data-as-a-service-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T123129">2023-06-17 12:31:29 UTC</a></sub>
 * [Virgin Galactic To Begin Commercial Operations This Month](https://tlpnetwork.com/news/2023/06/virgin-galactic-to-begin-commercial-operations-this-month) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T122800">2023-06-17 12:28:00 UTC</a></sub>
 * [Final Ariane 5 Launch Delayed Due To Technical Problems](https://tlpnetwork.com/news/2023/06/final-ariane-5-launch-delayed-due-to-technical-problems) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T121500">2023-06-17 12:15:00 UTC</a></sub>
 * [UK Space Agency prioritizes sustainability](https://spacenews.com/uk-space-agency-prioritizes-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T223836">2023-06-16 22:38:36 UTC</a></sub>
 * [Despite growing interest in commercial satellite data, industry faces uncertainty](https://spacenews.com/despite-growing-interest-in-commercial-satellite-data-industry-faces-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T203827">2023-06-16 20:38:27 UTC</a></sub>
 * [NASA Awards Institutional, Maintenance, Operations, and Repair Contract](http://www.nasa.gov/press-release/nasa-awards-institutional-maintenance-operations-and-repair-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T202900">2023-06-16 20:29:00 UTC</a></sub>
 * [NASA Awards Transformational Shared Services Support Contract](http://www.nasa.gov/press-release/nasa-awards-transformational-shared-services-support-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T195900">2023-06-16 19:59:00 UTC</a></sub>
-* [Weirdly, a NASA official says fixed-price contracts do the agency “no good”](https://arstechnica.com/space/2023/06/weirdly-a-nasa-official-says-fixed-price-contracts-do-the-agency-no-good/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T182200">2023-06-16 18:22:00 UTC</a></sub>
-* [Firefly to buy remaining Virgin Orbit assets](https://spacenews.com/firefly-to-buy-remaining-virgin-orbit-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T163945">2023-06-16 16:39:45 UTC</a></sub>
-* [SpaceX, Blue Origin, others highlighted in new NASA low-Earth orbit partnerships](https://www.nasaspaceflight.com/2023/06/nasa-low-earth-orbit-partnerships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T163104">2023-06-16 16:31:04 UTC</a></sub>
-* [NASA Invites Media to View Orion Spacecraft for Next Artemis Missions](http://www.nasa.gov/press-release/nasa-invites-media-to-view-orion-spacecraft-for-next-artemis-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T142900">2023-06-16 14:29:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T130120">2023-06-17 13:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T133052">2023-06-17 13:30:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
