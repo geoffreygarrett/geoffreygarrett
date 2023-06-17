@@ -189,6 +189,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic To Begin Commercial Operations This Month](https://tlpnetwork.com/news/2023/06/virgin-galactic-to-begin-commercial-operations-this-month) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T122800">2023-06-17 12:28:00 UTC</a></sub>
+* [Final Ariane 5 Launch Delayed Due To Technical Problems](https://tlpnetwork.com/news/2023/06/final-ariane-5-launch-delayed-due-to-technical-problems) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T121500">2023-06-17 12:15:00 UTC</a></sub>
 * [UK Space Agency prioritizes sustainability](https://spacenews.com/uk-space-agency-prioritizes-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T223836">2023-06-16 22:38:36 UTC</a></sub>
 * [Despite growing interest in commercial satellite data, industry faces uncertainty](https://spacenews.com/despite-growing-interest-in-commercial-satellite-data-industry-faces-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T203827">2023-06-16 20:38:27 UTC</a></sub>
 * [NASA Awards Institutional, Maintenance, Operations, and Repair Contract](http://www.nasa.gov/press-release/nasa-awards-institutional-maintenance-operations-and-repair-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T202900">2023-06-16 20:29:00 UTC</a></sub>
@@ -197,8 +199,6 @@ region. The mission's status is currently Go for Launch
 * [Firefly to buy remaining Virgin Orbit assets](https://spacenews.com/firefly-to-buy-remaining-virgin-orbit-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T163945">2023-06-16 16:39:45 UTC</a></sub>
 * [SpaceX, Blue Origin, others highlighted in new NASA low-Earth orbit partnerships](https://www.nasaspaceflight.com/2023/06/nasa-low-earth-orbit-partnerships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T163104">2023-06-16 16:31:04 UTC</a></sub>
 * [NASA Invites Media to View Orion Spacecraft for Next Artemis Missions](http://www.nasa.gov/press-release/nasa-invites-media-to-view-orion-spacecraft-for-next-artemis-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T142900">2023-06-16 14:29:00 UTC</a></sub>
-* [Intelligence analysts confront the reality of deepfakes](https://spacenews.com/intelligence-analysts-confront-the-reality-of-deepfakes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T140000">2023-06-16 14:00:00 UTC</a></sub>
-* [NASA agreements to support work on commercial spacecraft and space stations](https://spacenews.com/nasa-agreements-to-support-work-on-commercial-spacecraft-and-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T113428">2023-06-16 11:34:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T120042">2023-06-17 12:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T123723">2023-06-17 12:37:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
