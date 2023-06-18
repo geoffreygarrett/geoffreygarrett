@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [RocketLab Launches First Hypersonic Accelerator Suborbital Test Electron](https://tlpnetwork.com/news/2023/06/rocketlab-launches-first-hypersonic-accelerator-suborbital-test-electron) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T135900">2023-06-18 13:59:00 UTC</a></sub>
 * [Rocket Lab launches first suborbital version of Electron](https://spacenews.com/rocket-lab-launches-first-suborbital-version-of-electron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T133725">2023-06-18 13:37:25 UTC</a></sub>
 * [FAA Reduces Airspace Closures During Launches](https://tlpnetwork.com/news/2023/06/faa-reduces-airspace-closures-during-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T133500">2023-06-18 13:35:00 UTC</a></sub>
 * [Launch Roundup – Rocket Lab launches first HASTE mission; SpaceX to launch Satria](https://www.nasaspaceflight.com/2023/06/launch-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T210135">2023-06-17 21:01:35 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Space Force Assigns SpaceX & ULA New Security Missions](https://tlpnetwork.com/news/2023/06/space-force-assigns-spacex-and-ula-new-security-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T124700">2023-06-17 12:47:00 UTC</a></sub>
 * [Space Force extends Palantir’s data-as-a-service contracts](https://spacenews.com/space-force-extends-palantirs-data-as-a-service-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T123129">2023-06-17 12:31:29 UTC</a></sub>
 * [Virgin Galactic To Begin Commercial Operations This Month](https://tlpnetwork.com/news/2023/06/virgin-galactic-to-begin-commercial-operations-this-month) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T122800">2023-06-17 12:28:00 UTC</a></sub>
-* [Final Ariane 5 Launch Delayed Due To Technical Problems](https://tlpnetwork.com/news/2023/06/final-ariane-5-launch-delayed-due-to-technical-problems) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T121500">2023-06-17 12:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T143047">2023-06-18 14:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T150049">2023-06-18 15:00:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
