@@ -190,8 +190,8 @@ region. The mission's status is currently Go for Launch
 <!-- spaceflight news starts -->
 * [Launch Roundup – Rocket Lab launches first HASTE mission; SpaceX to launch Satria](https://www.nasaspaceflight.com/2023/06/launch-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T210135">2023-06-17 21:01:35 UTC</a></sub>
 * [NASA & Boeing To "Shape Future Of Aviation" With X-66A ](https://tlpnetwork.com/news/2023/06/nasa-and-boeing-to-shape-future-of-aviation-with-x66a) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T133100">2023-06-17 13:31:00 UTC</a></sub>
-* [US House Members Introduce Bill To Make NOAA A Independent Agency](https://tlpnetwork.com/news/2023/06/us-house-members-introduce-bill-to-make-noaa-a-independent-agency) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
 * [Firefly Aerospace Purchases Remaining Virgin Orbit Assets](https://tlpnetwork.com/news/2023/06/firefly-aerospace-purchases-remaining-virgin-orbit-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
+* [US House Members Introduce Bill To Make NOAA A Independent Agency](https://tlpnetwork.com/news/2023/06/us-house-members-introduce-bill-to-make-noaa-a-independent-agency) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
 * [Space Force Assigns SpaceX & ULA New Security Missions](https://tlpnetwork.com/news/2023/06/space-force-assigns-spacex-and-ula-new-security-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T124700">2023-06-17 12:47:00 UTC</a></sub>
 * [Space Force extends Palantir’s data-as-a-service contracts](https://spacenews.com/space-force-extends-palantirs-data-as-a-service-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T123129">2023-06-17 12:31:29 UTC</a></sub>
 * [Virgin Galactic To Begin Commercial Operations This Month](https://tlpnetwork.com/news/2023/06/virgin-galactic-to-begin-commercial-operations-this-month) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T122800">2023-06-17 12:28:00 UTC</a></sub>
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T083036">2023-06-18 08:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T090051">2023-06-18 09:00:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
