@@ -188,6 +188,9 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Skyrora Tests First 3D Printed Rocket Engine](https://tlpnetwork.com/news/2023/06/skyrora-first-test-of-new-70kn-engine) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T185651">2023-06-19 18:56:51 UTC</a></sub>
+* [Cassini data reveals the presence of phosphorus in Enceladus’ ocean plumes](https://www.nasaspaceflight.com/2023/06/enceladus-phosphorus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T184912">2023-06-19 18:49:12 UTC</a></sub>
+* [China attracts moon base partners, outlines project timelines](https://spacenews.com/china-attracts-moon-base-partners-outlines-project-timelines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T184044">2023-06-19 18:40:44 UTC</a></sub>
 * [Space Development Agency’s missile warning satellites transmit first images](https://spacenews.com/space-development-agencys-missile-warning-satellites-transmit-first-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T170743">2023-06-19 17:07:43 UTC</a></sub>
 * [Kuva Space wins 5 million euro award for hyperspectral data](https://spacenews.com/kuva-space-wins-5-million-euro-award-to-supply-hyperspectral-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T130000">2023-06-19 13:00:00 UTC</a></sub>
 * [RocketLab Launches First Hypersonic Accelerator Suborbital Test Electron](https://tlpnetwork.com/news/2023/06/rocketlab-launches-first-hypersonic-accelerator-suborbital-test-electron) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T135900">2023-06-18 13:59:00 UTC</a></sub>
@@ -195,9 +198,6 @@ region. The mission's status is currently Go for Launch
 * [FAA Reduces Airspace Closures During Launches](https://tlpnetwork.com/news/2023/06/faa-reduces-airspace-closures-during-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T133500">2023-06-18 13:35:00 UTC</a></sub>
 * [SpaceX launches Indonesian telecommunications satellite](https://www.teslarati.com/spacex-launches-indonesian-telecommunications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T015905">2023-06-18 01:59:05 UTC</a></sub>
 * [Launch Roundup – Rocket Lab launches first HASTE mission; SpaceX launches Satria](https://www.nasaspaceflight.com/2023/06/launch-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T210135">2023-06-17 21:01:35 UTC</a></sub>
-* [NASA & Boeing To "Shape Future Of Aviation" With X-66A ](https://tlpnetwork.com/news/2023/06/nasa-and-boeing-to-shape-future-of-aviation-with-x66a) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T133100">2023-06-17 13:31:00 UTC</a></sub>
-* [US House Members Introduce Bill To Make NOAA A Independent Agency](https://tlpnetwork.com/news/2023/06/us-house-members-introduce-bill-to-make-noaa-a-independent-agency) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
-* [Firefly Aerospace Purchases Remaining Virgin Orbit Assets](https://tlpnetwork.com/news/2023/06/firefly-aerospace-purchases-remaining-virgin-orbit-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T183056">2023-06-19 18:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T190259">2023-06-19 19:02:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
