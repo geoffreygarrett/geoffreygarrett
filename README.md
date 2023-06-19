@@ -191,13 +191,13 @@ region. The mission's status is currently Go for Launch
 * [RocketLab Launches First Hypersonic Accelerator Suborbital Test Electron](https://tlpnetwork.com/news/2023/06/rocketlab-launches-first-hypersonic-accelerator-suborbital-test-electron) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T135900">2023-06-18 13:59:00 UTC</a></sub>
 * [Rocket Lab launches first suborbital version of Electron](https://spacenews.com/rocket-lab-launches-first-suborbital-version-of-electron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T133725">2023-06-18 13:37:25 UTC</a></sub>
 * [FAA Reduces Airspace Closures During Launches](https://tlpnetwork.com/news/2023/06/faa-reduces-airspace-closures-during-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T133500">2023-06-18 13:35:00 UTC</a></sub>
+* [SpaceX launches Indonesian telecommunications satellite](https://www.teslarati.com/spacex-launches-indonesian-telecommunications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T015905">2023-06-18 01:59:05 UTC</a></sub>
 * [Launch Roundup – Rocket Lab launches first HASTE mission; SpaceX to launch Satria](https://www.nasaspaceflight.com/2023/06/launch-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T210135">2023-06-17 21:01:35 UTC</a></sub>
 * [NASA & Boeing To "Shape Future Of Aviation" With X-66A ](https://tlpnetwork.com/news/2023/06/nasa-and-boeing-to-shape-future-of-aviation-with-x66a) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T133100">2023-06-17 13:31:00 UTC</a></sub>
 * [US House Members Introduce Bill To Make NOAA A Independent Agency](https://tlpnetwork.com/news/2023/06/us-house-members-introduce-bill-to-make-noaa-a-independent-agency) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
 * [Firefly Aerospace Purchases Remaining Virgin Orbit Assets](https://tlpnetwork.com/news/2023/06/firefly-aerospace-purchases-remaining-virgin-orbit-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
 * [Space Force Assigns SpaceX & ULA New Security Missions](https://tlpnetwork.com/news/2023/06/space-force-assigns-spacex-and-ula-new-security-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T124700">2023-06-17 12:47:00 UTC</a></sub>
 * [Space Force extends Palantir’s data-as-a-service contracts](https://spacenews.com/space-force-extends-palantirs-data-as-a-service-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T123129">2023-06-17 12:31:29 UTC</a></sub>
-* [Virgin Galactic To Begin Commercial Operations This Month](https://tlpnetwork.com/news/2023/06/virgin-galactic-to-begin-commercial-operations-this-month) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T122800">2023-06-17 12:28:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T012801">2023-06-19 01:28:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T020109">2023-06-19 02:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
