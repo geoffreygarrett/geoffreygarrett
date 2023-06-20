@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA’s penultimate Delta IV Heavy to launch with NROL-68 mission](https://www.nasaspaceflight.com/2023/06/delta-iv-heavy-nrol-68/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T193842">2023-06-20 19:38:42 UTC</a></sub>
 * [After tough start this year, United Launch Alliance can turn things around tonight](https://arstechnica.com/space/2023/06/after-tough-start-this-year-united-launch-alliance-can-turn-things-around-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T174320">2023-06-20 17:43:20 UTC</a></sub>
 * [NASA Plans Coverage of Roscosmos Spacewalk Outside Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalk-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T141800">2023-06-20 14:18:00 UTC</a></sub>
 * [Intelsat orders another servicing mission from Northrop Grumman’s SpaceLogistics](https://spacenews.com/intelsat-orders-another-refueling-mission-from-northrop-grummans-spacelogistics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T133142">2023-06-20 13:31:42 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Orbital Composites leans into space market](https://spacenews.com/orbital-composites-leans-into-space-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T120000">2023-06-20 12:00:00 UTC</a></sub>
 * [Boeing CEO says company still committed to Starliner](https://spacenews.com/boeing-ceo-says-company-still-committed-to-starliner/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T092641">2023-06-20 09:26:41 UTC</a></sub>
 * [Indonesia’s Satria-1 deploys solar panels ahead of geostationary trip](https://spacenews.com/indonesias-satria-1-deploys-solar-panels-ahead-of-geostationary-trip/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T211647">2023-06-19 21:16:47 UTC</a></sub>
-* [Rocket Lab launches first HASTE mission](https://www.teslarati.com/rocket-lab-launches-first-haste-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T193906">2023-06-19 19:39:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T193046">2023-06-20 19:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T200113">2023-06-20 20:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
