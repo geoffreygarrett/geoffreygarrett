@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After tough start this year, United Launch Alliance can turn things around tonight](https://arstechnica.com/space/2023/06/after-tough-start-this-year-united-launch-alliance-can-turn-things-around-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T174320">2023-06-20 17:43:20 UTC</a></sub>
 * [NASA Plans Coverage of Roscosmos Spacewalk Outside Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalk-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T141800">2023-06-20 14:18:00 UTC</a></sub>
 * [Intelsat orders another servicing mission from Northrop Grumman’s SpaceLogistics](https://spacenews.com/intelsat-orders-another-refueling-mission-from-northrop-grummans-spacelogistics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T133142">2023-06-20 13:31:42 UTC</a></sub>
 * [It appears that Roscosmos really is recruiting soldiers for the Ukraine War](https://arstechnica.com/space/2023/06/it-appears-that-roscosmos-really-is-recruiting-soldiers-for-the-ukraine-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T131023">2023-06-20 13:10:23 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Boeing CEO says company still committed to Starliner](https://spacenews.com/boeing-ceo-says-company-still-committed-to-starliner/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T092641">2023-06-20 09:26:41 UTC</a></sub>
 * [Indonesia’s Satria-1 deploys solar panels ahead of geostationary trip](https://spacenews.com/indonesias-satria-1-deploys-solar-panels-ahead-of-geostationary-trip/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T211647">2023-06-19 21:16:47 UTC</a></sub>
 * [Rocket Lab launches first HASTE mission](https://www.teslarati.com/rocket-lab-launches-first-haste-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T193906">2023-06-19 19:39:06 UTC</a></sub>
-* [Skyrora Tests First 3D Printed Rocket Engine](https://tlpnetwork.com/news/2023/06/skyrora-first-test-of-new-70kn-engine) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T185651">2023-06-19 18:56:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -208,6 +208,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Want to be a citizen astronomer and defend Earth from asteroids? Here are some tips.](https://www.planetary.org/articles/citizen-astronomer-asteroid-defender-tips) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T173903">2023-06-20 17:39:03 UTC</a></sub>
 * [Day and night, it’s all about starlight](https://www.planetary.org/the-downlink/day-and-night-its-all-about-starlight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T143927">2023-06-16 14:39:27 UTC</a></sub>
 * [RocketStars: Leading the engineering team for Delta IV Heavy](https://blog.ulalaunch.com/blog/rocketstars-leading-the-engineering-team-for-delta-iv-heavy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T130928">2023-06-16 13:09:28 UTC</a></sub>
 * [Vladimir Benishek and the mystique of asteroid research](https://www.planetary.org/articles/vladimir-benishek-asteroid-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T143900">2023-06-15 14:39:00 UTC</a></sub>
@@ -217,7 +218,6 @@ region. The mission's status is currently Go for Launch
 * [Why did we need OSIRIS-REx?](https://www.planetary.org/articles/why-did-we-need-osiris-rex) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150907">2023-06-12 15:09:07 UTC</a></sub>
 * [Your impact: June solstice 2023](https://www.planetary.org/articles/your-impact-june-solstice-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150906">2023-06-12 15:09:06 UTC</a></sub>
 * [Asteroid samples from another world](https://www.planetary.org/articles/asteroid-samples-from-another-world) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150904">2023-06-12 15:09:04 UTC</a></sub>
-* [The scientific truth is out there](https://www.planetary.org/the-downlink/the-scientific-truth-is-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T143711">2023-06-09 14:37:11 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T173048">2023-06-20 17:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T180119">2023-06-20 18:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
