@@ -188,6 +188,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing CEO says company still committed to Starliner](https://spacenews.com/boeing-ceo-says-company-still-committed-to-starliner/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T092641">2023-06-20 09:26:41 UTC</a></sub>
 * [Indonesia’s Satria-1 deploys solar panels ahead of geostationary trip](https://spacenews.com/indonesias-satria-1-deploys-solar-panels-ahead-of-geostationary-trip/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T211647">2023-06-19 21:16:47 UTC</a></sub>
 * [Rocket Lab launches first HASTE mission](https://www.teslarati.com/rocket-lab-launches-first-haste-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T193906">2023-06-19 19:39:06 UTC</a></sub>
 * [Skyrora Tests First 3D Printed Rocket Engine](https://tlpnetwork.com/news/2023/06/skyrora-first-test-of-new-70kn-engine) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T185651">2023-06-19 18:56:51 UTC</a></sub>
@@ -197,7 +198,6 @@ region. The mission's status is currently Go for Launch
 * [Kuva Space wins 5 million euro award for hyperspectral data](https://spacenews.com/kuva-space-wins-5-million-euro-award-to-supply-hyperspectral-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T130000">2023-06-19 13:00:00 UTC</a></sub>
 * [RocketLab Launches First Hypersonic Accelerator Suborbital Test Electron](https://tlpnetwork.com/news/2023/06/rocketlab-launches-first-hypersonic-accelerator-suborbital-test-electron) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T135900">2023-06-18 13:59:00 UTC</a></sub>
 * [Rocket Lab launches first suborbital version of Electron](https://spacenews.com/rocket-lab-launches-first-suborbital-version-of-electron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T133725">2023-06-18 13:37:25 UTC</a></sub>
-* [FAA Reduces Airspace Closures During Launches](https://tlpnetwork.com/news/2023/06/faa-reduces-airspace-closures-during-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T133500">2023-06-18 13:35:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T093038">2023-06-20 09:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T100111">2023-06-20 10:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
