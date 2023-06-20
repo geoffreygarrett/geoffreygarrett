@@ -188,16 +188,16 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Intelsat orders another refueling mission from Northrop Grumman’s SpaceLogistics](https://spacenews.com/intelsat-orders-another-refueling-mission-from-northrop-grummans-spacelogistics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T133142">2023-06-20 13:31:42 UTC</a></sub>
 * [It appears that Roscosmos really is recruiting soldiers for the Ukraine War](https://arstechnica.com/space/2023/06/it-appears-that-roscosmos-really-is-recruiting-soldiers-for-the-ukraine-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T131023">2023-06-20 13:10:23 UTC</a></sub>
 * [True Anomaly to pursue military contracts for virtual, live training tech](https://spacenews.com/true-anomaly-to-pursue-military-contracts-for-virtual-live-training-tech/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T130107">2023-06-20 13:01:07 UTC</a></sub>
-* [Orbital Composites leans into space market](https://spacenews.com/orbital-composites-leans-into-space-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T120000">2023-06-20 12:00:00 UTC</a></sub>
 * [Ramon.Space reveals partnership with Foxconn subsidiary Ingrasys](https://spacenews.com/ramon-space-reveals-partnership-with-foxconn-subsidiary-ingrasys/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T120000">2023-06-20 12:00:00 UTC</a></sub>
+* [Orbital Composites leans into space market](https://spacenews.com/orbital-composites-leans-into-space-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T120000">2023-06-20 12:00:00 UTC</a></sub>
 * [Boeing CEO says company still committed to Starliner](https://spacenews.com/boeing-ceo-says-company-still-committed-to-starliner/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T092641">2023-06-20 09:26:41 UTC</a></sub>
 * [Indonesia’s Satria-1 deploys solar panels ahead of geostationary trip](https://spacenews.com/indonesias-satria-1-deploys-solar-panels-ahead-of-geostationary-trip/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T211647">2023-06-19 21:16:47 UTC</a></sub>
 * [Rocket Lab launches first HASTE mission](https://www.teslarati.com/rocket-lab-launches-first-haste-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T193906">2023-06-19 19:39:06 UTC</a></sub>
 * [Skyrora Tests First 3D Printed Rocket Engine](https://tlpnetwork.com/news/2023/06/skyrora-first-test-of-new-70kn-engine) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T185651">2023-06-19 18:56:51 UTC</a></sub>
 * [Cassini data reveals the presence of phosphorus in Enceladus’ ocean plumes](https://www.nasaspaceflight.com/2023/06/enceladus-phosphorus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T184912">2023-06-19 18:49:12 UTC</a></sub>
-* [China attracts moon base partners, outlines project timelines](https://spacenews.com/china-attracts-moon-base-partners-outlines-project-timelines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T184044">2023-06-19 18:40:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T133047">2023-06-20 13:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T140101">2023-06-20 14:01:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
