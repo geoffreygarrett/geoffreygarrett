@@ -189,6 +189,7 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Op-ed | The Space Race may already be won](https://spacenews.com/op-ed-the-space-race-may-already-be-won/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T103032">2023-06-21 10:30:32 UTC</a></sub>
 * [FAA reduces airspace restrictions for Cape Canaveral launches](https://spacenews.com/faa-reduces-airspace-restrictions-for-cape-canaveral-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T025737">2023-06-21 02:57:37 UTC</a></sub>
 * [Indian SSA startup raises $10 million](https://spacenews.com/indian-ssa-startup-raises-10-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T013618">2023-06-21 01:36:18 UTC</a></sub>
 * [Vyoma raises $9 million for debris-monitoring satellites](https://spacenews.com/vyoma-raises-9-million-for-debris-monitoring-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T013049">2023-06-21 01:30:49 UTC</a></sub>
@@ -198,7 +199,6 @@ region. The mission's status is currently Go for Launch
 * [After tough start this year, United Launch Alliance can turn things around tonight](https://arstechnica.com/space/2023/06/after-tough-start-this-year-united-launch-alliance-can-turn-things-around-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T174320">2023-06-20 17:43:20 UTC</a></sub>
 * [NASA Plans Coverage of Roscosmos Spacewalk Outside Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalk-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T141800">2023-06-20 14:18:00 UTC</a></sub>
 * [Intelsat orders another servicing mission from Northrop Grumman’s SpaceLogistics](https://spacenews.com/intelsat-orders-another-refueling-mission-from-northrop-grummans-spacelogistics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T133142">2023-06-20 13:31:42 UTC</a></sub>
-* [It appears that Roscosmos really is recruiting soldiers for the Ukraine War](https://arstechnica.com/space/2023/06/it-appears-that-roscosmos-really-is-recruiting-soldiers-for-the-ukraine-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T131023">2023-06-20 13:10:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -231,7 +231,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T110100">2023-06-21 11:01:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T113054">2023-06-21 11:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
