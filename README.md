@@ -188,6 +188,8 @@ region. The mission's status is currently Go for Launch
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Indian SSA startup raises $10 million](https://spacenews.com/indian-ssa-startup-raises-10-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T013618">2023-06-21 01:36:18 UTC</a></sub>
+* [Vyoma raises $9 million for debris-monitoring satellites](https://spacenews.com/vyoma-raises-9-million-for-debris-monitoring-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T013049">2023-06-21 01:30:49 UTC</a></sub>
 * [United Launch Alliance ready for penultimate Delta IV Heavy launch](https://www.teslarati.com/united-launch-alliance-ready-for-penultimate-delta-iv-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T205904">2023-06-20 20:59:04 UTC</a></sub>
 * [ULA’s penultimate Delta IV Heavy to launch with NROL-68 mission](https://www.nasaspaceflight.com/2023/06/delta-iv-heavy-nrol-68/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T193842">2023-06-20 19:38:42 UTC</a></sub>
 * [After tough start this year, United Launch Alliance can turn things around tonight](https://arstechnica.com/space/2023/06/after-tough-start-this-year-united-launch-alliance-can-turn-things-around-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T174320">2023-06-20 17:43:20 UTC</a></sub>
@@ -196,8 +198,6 @@ region. The mission's status is currently Go for Launch
 * [It appears that Roscosmos really is recruiting soldiers for the Ukraine War](https://arstechnica.com/space/2023/06/it-appears-that-roscosmos-really-is-recruiting-soldiers-for-the-ukraine-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T131023">2023-06-20 13:10:23 UTC</a></sub>
 * [True Anomaly to pursue military contracts for virtual, live training tech](https://spacenews.com/true-anomaly-to-pursue-military-contracts-for-virtual-live-training-tech/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T130107">2023-06-20 13:01:07 UTC</a></sub>
 * [Ramon.Space reveals partnership with Foxconn subsidiary Ingrasys](https://spacenews.com/ramon-space-reveals-partnership-with-foxconn-subsidiary-ingrasys/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T120000">2023-06-20 12:00:00 UTC</a></sub>
-* [Orbital Composites leans into space market](https://spacenews.com/orbital-composites-leans-into-space-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T120000">2023-06-20 12:00:00 UTC</a></sub>
-* [Boeing CEO says company still committed to Starliner](https://spacenews.com/boeing-ceo-says-company-still-committed-to-starliner/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T092641">2023-06-20 09:26:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -230,7 +230,7 @@ region. The mission's status is currently Go for Launch
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T012738">2023-06-21 01:27:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T015813">2023-06-21 01:58:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
