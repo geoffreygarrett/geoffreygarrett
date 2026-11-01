@@ -1,6 +1,8 @@
 ![████████ ███████ (72 × 20 in) (72 × 14 in)(2)](https://user-images.githubusercontent.com/26066340/153759350-07f01d04-9b6f-4a9a-be25-d24eb343bb6b.gif)
 
-M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) 🎓
+Scientific software and numerical modelling in Python, C++ and Rust. Tudat contributor, with experience in PyTorch surrogate modelling and current work on coastal drift modelling.
+
+Based in Kleinmond, South Africa. BSc Aerospace Engineering, [Delft University of Technology](https://www.tudelft.nl/en/).
 
 [![Linkedin: g-h-███████](https://img.shields.io/badge/-████████-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g-h-███████/)](https://www.linkedin.com/in/g-h-███████/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](Https://www.researchgate.net/profile/████████-███████)
